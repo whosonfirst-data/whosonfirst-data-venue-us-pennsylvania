@@ -2,13 +2,14 @@
   "id": 403713041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.49394,40.412354,-76.49394,40.412354",
     "geom:latitude":40.412354,
     "geom:longitude":-76.49394,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"447A Jonestown Rd",
     "sg:city":"Jonestown",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081341,
-        85830459
+        85830459,
+        102081341
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"75bb9903b280ac606ea6e1e266e56d03",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081341,
-            "locality_id":-1,
             "neighbourhood_id":85830459,
             "region_id":85688481,
             "venue_id":403713041
         }
     ],
     "wof:id":403713041,
-    "wof:lastmodified":1449055844,
+    "wof:lastmodified":1454357903,
     "wof:name":"Harry's Golf Workshop",
     "wof:parent_id":85830459,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "equipment-repairing"
     ]
 },
-  "bbox": [-76.49394,40.412354,-76.49394,40.412354],
-  "geometry": {"coordinates":[-76.49394,40.412354],"type":"Point"}
+  "bbox": [
+    -76.49394,
+    40.412354,
+    -76.49394,
+    40.412354
+],
+  "geometry": {"coordinates":[-76.49393999999999,40.412354],"type":"Point"}
 }

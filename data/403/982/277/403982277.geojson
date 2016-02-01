@@ -2,13 +2,14 @@
   "id": 403982277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.254137,39.822427,-77.254137,39.822427",
     "geom:latitude":39.822427,
     "geom:longitude":-77.254137,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"145 Windbriar Ln",
     "sg:city":"Gettysburg",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080899,
-        85806271
+        85806271,
+        102080899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"2a8be183b04cdf6442e3326a2b0d6a73",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080899,
-            "locality_id":-1,
             "neighbourhood_id":85806271,
             "region_id":85688481,
             "venue_id":403982277
         }
     ],
     "wof:id":403982277,
-    "wof:lastmodified":1449054857,
+    "wof:lastmodified":1454357328,
     "wof:name":"Margarita Elorriaga",
     "wof:parent_id":85806271,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "educational"
     ]
 },
-  "bbox": [-77.254137,39.822427,-77.254137,39.822427],
+  "bbox": [
+    -77.254137,
+    39.822427,
+    -77.254137,
+    39.822427
+],
   "geometry": {"coordinates":[-77.254137,39.822427],"type":"Point"}
 }

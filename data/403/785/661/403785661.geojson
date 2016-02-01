@@ -2,13 +2,14 @@
   "id": 403785661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.844002,40.195999,-76.844002,40.195999",
     "geom:latitude":40.195999,
     "geom:longitude":-76.844002,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"386 Old York Rd",
     "sg:city":"New Cumberland",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080953,
-        85844213
+        85844213,
+        102080953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"1963253f3f9fab94e8a40b83d22c840c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
             "neighbourhood_id":85844213,
             "region_id":85688481,
             "venue_id":403785661
         }
     ],
     "wof:id":403785661,
-    "wof:lastmodified":1449055749,
+    "wof:lastmodified":1454357855,
     "wof:name":"Linebaugh & Lahnstein General Contractor",
     "wof:parent_id":85844213,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "contractor"
     ]
 },
-  "bbox": [-76.844002,40.195999,-76.844002,40.195999],
+  "bbox": [
+    -76.844002,
+    40.195999,
+    -76.844002,
+    40.195999
+],
   "geometry": {"coordinates":[-76.844002,40.195999],"type":"Point"}
 }

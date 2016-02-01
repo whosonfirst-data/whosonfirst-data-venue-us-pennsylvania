@@ -2,13 +2,14 @@
   "id": 387419459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.995201,40.443699,-79.995201,40.443699",
     "geom:latitude":40.443699,
     "geom:longitude":-79.995201,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1001 Liberty Ave Ste 505",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85873585,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85873585
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"60d56b758a93e5651d1a772864ead0c8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85873585,
             "region_id":85688481,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":387419459,
-    "wof:lastmodified":1449059849,
+    "wof:lastmodified":1454361209,
     "wof:name":"Fricker & Assocs",
     "wof:parent_id":85873585,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.995201,40.443699,-79.995201,40.443699],
-  "geometry": {"coordinates":[-79.995201,40.443699],"type":"Point"}
+  "bbox": [
+    -79.995201,
+    40.443699,
+    -79.995201,
+    40.443699
+],
+  "geometry": {"coordinates":[-79.99520099999999,40.443699],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387758869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.164972,41.142148,-80.164972,41.142148",
     "geom:latitude":41.142148,
     "geom:longitude":-80.164972,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4 Holiday Blvd",
     "sg:city":"Mercer",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080965,
-        85831255
+        85831255,
+        102080965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"a2fbc113c6aefe060d9fa0eaaf98bf36",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080965,
-            "locality_id":-1,
             "neighbourhood_id":85831255,
             "region_id":85688481,
             "venue_id":387758869
         }
     ],
     "wof:id":387758869,
-    "wof:lastmodified":1449057252,
+    "wof:lastmodified":1454358965,
     "wof:name":"Hampton Inn and Suites",
     "wof:parent_id":85831255,
     "wof:placetype":"venue",
@@ -61,6 +60,11 @@
         "lodging"
     ]
 },
-  "bbox": [-80.164972,41.142148,-80.164972,41.142148],
-  "geometry": {"coordinates":[-80.164972,41.142148],"type":"Point"}
+  "bbox": [
+    -80.164972,
+    41.142148,
+    -80.164972,
+    41.142148
+],
+  "geometry": {"coordinates":[-80.16497200000001,41.142148],"type":"Point"}
 }

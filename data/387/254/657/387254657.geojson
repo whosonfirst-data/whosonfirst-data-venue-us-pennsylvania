@@ -2,13 +2,14 @@
   "id": 387254657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.84055,40.345157,-79.84055,40.345157",
     "geom:latitude":40.345157,
     "geom:longitude":-79.84055,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3110 Versailles Ave",
     "sg:city":"Mckeesport",
     "sg:classifiers":[
@@ -40,11 +41,13 @@
     "sg:website":"http://www.haugheyplumbing.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85845081,
+        102191575,
+        404484971,
         85633793,
         101718847,
         102080887,
-        85845081
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,9 +57,10 @@
     "wof:geomhash":"9fe27e5be6861a0d1ec064d971e85764",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484971,
             "locality_id":101718847,
             "neighbourhood_id":85845081,
             "region_id":85688481,
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":387254657,
-    "wof:lastmodified":1449058723,
+    "wof:lastmodified":1454360863,
     "wof:name":"John Haughey & Sons Plumbing",
     "wof:parent_id":85845081,
     "wof:placetype":"venue",
@@ -81,6 +85,11 @@
         "contractors-commercial"
     ]
 },
-  "bbox": [-79.84055,40.345157,-79.84055,40.345157],
-  "geometry": {"coordinates":[-79.84055,40.345157],"type":"Point"}
+  "bbox": [
+    -79.84055,
+    40.345157,
+    -79.84055,
+    40.345157
+],
+  "geometry": {"coordinates":[-79.84054999999999,40.345157],"type":"Point"}
 }

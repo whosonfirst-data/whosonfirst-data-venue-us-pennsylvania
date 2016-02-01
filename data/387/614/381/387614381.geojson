@@ -2,13 +2,14 @@
   "id": 387614381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.190861,39.940566,-79.190861,39.940566",
     "geom:latitude":39.940566,
     "geom:longitude":-79.190861,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"145 Bridge St",
     "sg:city":"Rockwood",
     "sg:classifiers":[
@@ -46,8 +47,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081361,
-        85845559
+        85845559,
+        102081361
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,17 +58,15 @@
     "wof:geomhash":"2e5bd1334f20af01d662474af17ab84d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081361,
-            "locality_id":-1,
             "neighbourhood_id":85845559,
             "region_id":85688481,
             "venue_id":387614381
         }
     ],
     "wof:id":387614381,
-    "wof:lastmodified":1449060022,
+    "wof:lastmodified":1454361263,
     "wof:name":"Jason E Sechler Agency - Nationwide Insurance",
     "wof:parent_id":85845559,
     "wof:placetype":"venue",
@@ -78,6 +77,11 @@
         "homeowner"
     ]
 },
-  "bbox": [-79.190861,39.940566,-79.190861,39.940566],
+  "bbox": [
+    -79.190861,
+    39.940566,
+    -79.190861,
+    39.940566
+],
   "geometry": {"coordinates":[-79.190861,39.940566],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387884815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.414579,41.021039,-78.414579,41.021039",
     "geom:latitude":41.021039,
     "geom:longitude":-78.414579,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1918 Dorey Street Ext",
     "sg:city":"Clearfield",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080967,
-        85830317
+        85830317,
+        102080967
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"23219d4173d85eede16c96c6f4900868",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080967,
-            "locality_id":-1,
             "neighbourhood_id":85830317,
             "region_id":85688481,
             "venue_id":387884815
         }
     ],
     "wof:id":387884815,
-    "wof:lastmodified":1449059176,
+    "wof:lastmodified":1454361005,
     "wof:name":"Parminzino Brothers Auctioneer",
     "wof:parent_id":85830317,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "auctioneer"
     ]
 },
-  "bbox": [-78.414579,41.021039,-78.414579,41.021039],
+  "bbox": [
+    -78.414579,
+    41.021039,
+    -78.414579,
+    41.021039
+],
   "geometry": {"coordinates":[-78.414579,41.021039],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387857039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.55029,40.355689,-78.55029,40.355689",
     "geom:latitude":40.355689,
     "geom:longitude":-78.55029,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3446 Johnstown Rd",
     "sg:city":"Duncansville",
     "sg:classifiers":[
@@ -40,8 +41,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081325,
-        85806501
+        85806501,
+        102081325
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,17 +52,15 @@
     "wof:geomhash":"81403cb4fe0612ef60b8a02790ed0442",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081325,
-            "locality_id":-1,
             "neighbourhood_id":85806501,
             "region_id":85688481,
             "venue_id":387857039
         }
     ],
     "wof:id":387857039,
-    "wof:lastmodified":1449058579,
+    "wof:lastmodified":1454360817,
     "wof:name":"Helsel Lumber Mill, Inc.",
     "wof:parent_id":85806501,
     "wof:placetype":"venue",
@@ -71,6 +70,11 @@
         "lumber-wholesale"
     ]
 },
-  "bbox": [-78.55029,40.355689,-78.55029,40.355689],
+  "bbox": [
+    -78.55029,
+    40.355689,
+    -78.55029,
+    40.355689
+],
   "geometry": {"coordinates":[-78.55029,40.355689],"type":"Point"}
 }

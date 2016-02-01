@@ -2,13 +2,14 @@
   "id": 387509071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.872537,40.488809,-79.872537,40.488809",
     "geom:latitude":40.488809,
     "geom:longitude":-79.872537,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1360 Old Freeport Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -48,8 +49,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85836241
+        85836241,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,17 +60,15 @@
     "wof:geomhash":"75dccc8a9928b76cbd2b2cd3ad282317",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85836241,
             "region_id":85688481,
             "venue_id":387509071
         }
     ],
     "wof:id":387509071,
-    "wof:lastmodified":1449056273,
+    "wof:lastmodified":1454358214,
     "wof:name":"Care Connections Inc",
     "wof:parent_id":85836241,
     "wof:placetype":"venue",
@@ -82,6 +81,11 @@
         "home"
     ]
 },
-  "bbox": [-79.872537,40.488809,-79.872537,40.488809],
-  "geometry": {"coordinates":[-79.872537,40.488809],"type":"Point"}
+  "bbox": [
+    -79.872537,
+    40.488809,
+    -79.872537,
+    40.488809
+],
+  "geometry": {"coordinates":[-79.87253699999999,40.488809],"type":"Point"}
 }

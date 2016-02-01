@@ -2,13 +2,14 @@
   "id": 387864893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.98124,40.639112,-77.98124,40.639112",
     "geom:latitude":40.639112,
     "geom:longitude":-77.98124,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4668 Eberle Rd",
     "sg:city":"Petersburg",
     "sg:classifiers":[
@@ -40,8 +41,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080901,
-        85832873
+        85832873,
+        102080901
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,17 +52,15 @@
     "wof:geomhash":"3d8360879cd0ecede367fe22a40b3570",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080901,
-            "locality_id":-1,
             "neighbourhood_id":85832873,
             "region_id":85688481,
             "venue_id":387864893
         }
     ],
     "wof:id":387864893,
-    "wof:lastmodified":1449059967,
+    "wof:lastmodified":1454361247,
     "wof:name":"Curtis Signs Graphics",
     "wof:parent_id":85832873,
     "wof:placetype":"venue",
@@ -72,6 +71,11 @@
         "specialty"
     ]
 },
-  "bbox": [-77.98124,40.639112,-77.98124,40.639112],
+  "bbox": [
+    -77.98124,
+    40.639112,
+    -77.98124,
+    40.639112
+],
   "geometry": {"coordinates":[-77.98124,40.639112],"type":"Point"}
 }

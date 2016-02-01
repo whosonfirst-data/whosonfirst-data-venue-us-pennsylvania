@@ -2,13 +2,14 @@
   "id": 387226815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.027942,40.346947,-80.027942,40.346947",
     "geom:latitude":40.346947,
     "geom:longitude":-80.027942,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4880 Library Rd",
     "sg:city":"Bethel Park",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536299,
+        102191575,
+        404484853,
         85633793,
         101718799,
-        102080887
+        102080887,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"21f56d61a85f221007cdcf8d5902a9dd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484853,
             "locality_id":101718799,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420536299,
             "region_id":85688481,
             "venue_id":387226815
         }
     ],
     "wof:id":387226815,
-    "wof:lastmodified":1449058869,
+    "wof:lastmodified":1454360909,
     "wof:name":"Labella Christina MD",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536299,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "gynecologist"
     ]
 },
-  "bbox": [-80.027942,40.346947,-80.027942,40.346947],
+  "bbox": [
+    -80.027942,
+    40.346947,
+    -80.027942,
+    40.346947
+],
   "geometry": {"coordinates":[-80.027942,40.346947],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387299715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.164398,40.452594,-80.164398,40.452594",
     "geom:latitude":40.452594,
     "geom:longitude":-80.164398,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1340 Park Manor Blvd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85821263
+        85821263,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"6e4466d343ac7289d841923907d918fe",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85821263,
             "region_id":85688481,
             "venue_id":387299715
         }
     ],
     "wof:id":387299715,
-    "wof:lastmodified":1449057071,
+    "wof:lastmodified":1454358813,
     "wof:name":"Sally Beauty Supply",
     "wof:parent_id":85821263,
     "wof:placetype":"venue",
@@ -61,6 +60,11 @@
         "supply"
     ]
 },
-  "bbox": [-80.164398,40.452594,-80.164398,40.452594],
-  "geometry": {"coordinates":[-80.164398,40.452594],"type":"Point"}
+  "bbox": [
+    -80.164398,
+    40.452594,
+    -80.164398,
+    40.452594
+],
+  "geometry": {"coordinates":[-80.16439800000001,40.452594],"type":"Point"}
 }

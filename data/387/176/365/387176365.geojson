@@ -2,13 +2,14 @@
   "id": 387176365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.17972,40.444247,-80.17972,40.444247",
     "geom:latitude":40.444247,
     "geom:longitude":-80.17972,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"7132 Steubenville Pike",
     "sg:city":"Oakdale",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85805237
+        85805237,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"39416e53e4c11cfb283e35a9fd771468",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85805237,
             "region_id":85688481,
             "venue_id":387176365
         }
     ],
     "wof:id":387176365,
-    "wof:lastmodified":1449058593,
+    "wof:lastmodified":1454360824,
     "wof:name":"Mto Clean",
     "wof:parent_id":85805237,
     "wof:placetype":"venue",
@@ -61,6 +60,11 @@
         "home"
     ]
 },
-  "bbox": [-80.17972,40.444247,-80.17972,40.444247],
+  "bbox": [
+    -80.17972,
+    40.444247,
+    -80.17972,
+    40.444247
+],
   "geometry": {"coordinates":[-80.17972,40.444247],"type":"Point"}
 }

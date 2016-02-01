@@ -2,13 +2,14 @@
   "id": 387621527,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.543708,40.300898,-79.543708,40.300898",
     "geom:latitude":40.300898,
     "geom:longitude":-79.543708,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"247 S MAIN ST",
     "sg:city":"GREENSBURG",
     "sg:classifiers":[
@@ -40,11 +41,13 @@
     "sg:website":"http://www.weareonyourside.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85809439,
+        102191575,
+        404487487,
         85633793,
-        101717119,
+        101717177,
         102081383,
-        85809439
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,17 +57,18 @@
     "wof:geomhash":"0cfa2cb5be4c12b360a6f15dd22e3f08",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":101717119,
+            "localadmin_id":404487487,
+            "locality_id":101717177,
             "neighbourhood_id":85809439,
             "region_id":85688481,
             "venue_id":387621527
         }
     ],
     "wof:id":387621527,
-    "wof:lastmodified":1449059466,
+    "wof:lastmodified":1454361091,
     "wof:name":"The Law Offices of Debra L Henry",
     "wof:parent_id":85809439,
     "wof:placetype":"venue",
@@ -86,6 +90,11 @@
         "custody"
     ]
 },
-  "bbox": [-79.543708,40.300898,-79.543708,40.300898],
+  "bbox": [
+    -79.543708,
+    40.300898,
+    -79.543708,
+    40.300898
+],
   "geometry": {"coordinates":[-79.543708,40.300898],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387968361,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.932153,40.44883,-76.932153,40.44883",
     "geom:latitude":40.44883,
     "geom:longitude":-76.932153,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"36 S River Rd",
     "sg:city":"Halifax",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85832885
+        85832885,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"23bb29ee0e03ba43463e4aae5eab356a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85832885,
             "region_id":85688481,
             "venue_id":387968361
         }
     ],
     "wof:id":387968361,
-    "wof:lastmodified":1449056352,
+    "wof:lastmodified":1454358279,
     "wof:name":"Little Robert G Doctor of Medicine",
     "wof:parent_id":85832885,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-76.932153,40.44883,-76.932153,40.44883],
+  "bbox": [
+    -76.932153,
+    40.44883,
+    -76.932153,
+    40.44883
+],
   "geometry": {"coordinates":[-76.932153,40.44883],"type":"Point"}
 }

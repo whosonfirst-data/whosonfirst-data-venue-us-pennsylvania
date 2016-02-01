@@ -2,13 +2,14 @@
   "id": 387293161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.066528,40.416698,-80.066528,40.416698",
     "geom:latitude":40.416698,
     "geom:longitude":-80.066528,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"812 Noblestown Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[],
@@ -18,11 +19,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85816087,
+        102191575,
+        404484941,
         85633793,
         101718673,
         102080887,
-        85816087
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -32,9 +35,10 @@
     "wof:geomhash":"69d7b6dceb8d43f32369597cfb98f7e3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484941,
             "locality_id":101718673,
             "neighbourhood_id":85816087,
             "region_id":85688481,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":387293161,
-    "wof:lastmodified":1449056846,
+    "wof:lastmodified":1454358650,
     "wof:name":"Mendoza Express",
     "wof:parent_id":85816087,
     "wof:placetype":"venue",
@@ -50,6 +54,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.066528,40.416698,-80.066528,40.416698],
-  "geometry": {"coordinates":[-80.066528,40.416698],"type":"Point"}
+  "bbox": [
+    -80.066528,
+    40.416698,
+    -80.066528,
+    40.416698
+],
+  "geometry": {"coordinates":[-80.06652800000001,40.416698],"type":"Point"}
 }

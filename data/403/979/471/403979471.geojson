@@ -2,13 +2,14 @@
   "id": 403979471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.393997,39.775398,-77.393997,39.775398",
     "geom:latitude":39.775398,
     "geom:longitude":-77.393997,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"320 Zoo Rd",
     "sg:city":"Fairfield",
     "sg:classifiers":[
@@ -38,11 +39,13 @@
     "sg:website":"www.eastcoastrescue.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85827223,
+        102191575,
+        404484791,
         85633793,
         101718869,
         102080899,
-        85827223
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,9 +55,10 @@
     "wof:geomhash":"2e28da66a989fe23e90be0a282099da0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080899,
+            "localadmin_id":404484791,
             "locality_id":101718869,
             "neighbourhood_id":85827223,
             "region_id":85688481,
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":403979471,
-    "wof:lastmodified":1449055552,
+    "wof:lastmodified":1454357740,
     "wof:name":"East Coast Exotic Animal Rescue",
     "wof:parent_id":85827223,
     "wof:placetype":"venue",
@@ -72,6 +76,11 @@
         "store"
     ]
 },
-  "bbox": [-77.393997,39.775398,-77.393997,39.775398],
+  "bbox": [
+    -77.393997,
+    39.775398,
+    -77.393997,
+    39.775398
+],
   "geometry": {"coordinates":[-77.393997,39.775398],"type":"Point"}
 }

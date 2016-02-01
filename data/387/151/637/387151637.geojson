@@ -2,13 +2,14 @@
   "id": 387151637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.94458,40.619736,-79.94458,40.619736",
     "geom:latitude":40.619736,
     "geom:longitude":-79.94458,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5375 William Flynn Hwy",
     "sg:city":"Gibsonia",
     "sg:classifiers":[
@@ -38,7 +39,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420536325,
+        102191575,
+        404484173,
         85633793,
+        101720497,
+        102080887,
         85688481
     ],
     "wof:breaches":[],
@@ -49,18 +55,20 @@
     "wof:geomhash":"f897dbb29bd803ee22530df3429e8d8c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102080887,
+            "localadmin_id":404484173,
+            "locality_id":101720497,
+            "neighbourhood_id":420536325,
             "region_id":85688481,
             "venue_id":387151637
         }
     ],
     "wof:id":387151637,
-    "wof:lastmodified":1449056155,
+    "wof:lastmodified":1454358125,
     "wof:name":"Bitar Iii, H Joseph, Md - Bellevue Pediatric Assoc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536325,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -74,6 +82,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-79.94458,40.619736,-79.94458,40.619736],
+  "bbox": [
+    -79.94458,
+    40.619736,
+    -79.94458,
+    40.619736
+],
   "geometry": {"coordinates":[-79.94458,40.619736],"type":"Point"}
 }

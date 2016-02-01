@@ -2,13 +2,14 @@
   "id": 404190681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.408751,40.64112,-75.408751,40.64112",
     "geom:latitude":40.64112,
     "geom:longitude":-75.408751,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2045 Westgate Drive Suite 301",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     "sg:website":"www.monocacycounseling.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85856947,
+        102191575,
+        404485987,
         85633793,
+        101717907,
         102081395,
-        85856947
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +46,18 @@
     "wof:geomhash":"ab615dc3e3b5e25b846b2a2e29aec1e5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081395,
-            "locality_id":-1,
+            "localadmin_id":404485987,
+            "locality_id":101717907,
             "neighbourhood_id":85856947,
             "region_id":85688481,
             "venue_id":404190681
         }
     ],
     "wof:id":404190681,
-    "wof:lastmodified":1449040264,
+    "wof:lastmodified":1454357099,
     "wof:name":"Monocacy Counseling Associates",
     "wof:parent_id":85856947,
     "wof:placetype":"venue",
@@ -63,6 +68,11 @@
         "mental"
     ]
 },
-  "bbox": [-75.408751,40.64112,-75.408751,40.64112],
+  "bbox": [
+    -75.408751,
+    40.64112,
+    -75.408751,
+    40.64112
+],
   "geometry": {"coordinates":[-75.408751,40.64112],"type":"Point"}
 }

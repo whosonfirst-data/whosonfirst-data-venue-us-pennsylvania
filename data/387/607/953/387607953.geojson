@@ -2,13 +2,14 @@
   "id": 387607953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.505741,40.035458,-78.505741,40.035458",
     "geom:latitude":40.035458,
     "geom:longitude":-78.505741,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3793 Business 220",
     "sg:city":"Bedford",
     "sg:classifiers":[
@@ -34,8 +35,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080939,
-        85858457
+        85858457,
+        102080939
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +46,15 @@
     "wof:geomhash":"b3272b4d4dc3287e258f824e623cf206",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080939,
-            "locality_id":-1,
             "neighbourhood_id":85858457,
             "region_id":85688481,
             "venue_id":387607953
         }
     ],
     "wof:id":387607953,
-    "wof:lastmodified":1449056609,
+    "wof:lastmodified":1454358482,
     "wof:name":"Ressler's Automotive & Towing",
     "wof:parent_id":85858457,
     "wof:placetype":"venue",
@@ -65,6 +64,11 @@
         "towing"
     ]
 },
-  "bbox": [-78.505741,40.035458,-78.505741,40.035458],
+  "bbox": [
+    -78.505741,
+    40.035458,
+    -78.505741,
+    40.035458
+],
   "geometry": {"coordinates":[-78.505741,40.035458],"type":"Point"}
 }

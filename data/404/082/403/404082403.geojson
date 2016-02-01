@@ -2,13 +2,14 @@
   "id": 404082403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.31778,40.0709,-76.31778,40.0709",
     "geom:latitude":40.0709,
     "geom:longitude":-76.31778,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1801 Fruitville Pike",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -38,10 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85821747,
+        102191575,
+        404487183,
         85633793,
+        101718643,
         102081377,
-        85821747
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,17 +55,18 @@
     "wof:geomhash":"3211987eaf89be1032c3a2644cd141c3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
+            "localadmin_id":404487183,
+            "locality_id":101718643,
             "neighbourhood_id":85821747,
             "region_id":85688481,
             "venue_id":404082403
         }
     ],
     "wof:id":404082403,
-    "wof:lastmodified":1449039113,
+    "wof:lastmodified":1454356443,
     "wof:name":"Lamichane Manish DDS Mmsc",
     "wof:parent_id":85821747,
     "wof:placetype":"venue",
@@ -77,6 +82,11 @@
         "dentists-orthodontists"
     ]
 },
-  "bbox": [-76.31778,40.0709,-76.31778,40.0709],
+  "bbox": [
+    -76.31778,
+    40.0709,
+    -76.31778,
+    40.0709
+],
   "geometry": {"coordinates":[-76.31778,40.0709],"type":"Point"}
 }

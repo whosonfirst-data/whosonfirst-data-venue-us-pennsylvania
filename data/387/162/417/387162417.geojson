@@ -2,13 +2,14 @@
   "id": 387162417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.31054,40.649015,-80.31054,40.649015",
     "geom:latitude":40.649015,
     "geom:longitude":-80.31054,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3433 Brodhead Rd Ste 4",
     "sg:city":"Monaca",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081323,
-        85827637
+        85827637,
+        102081323
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"52fe60fe9fdbd2e5e18e1b2759c5220f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081323,
-            "locality_id":-1,
             "neighbourhood_id":85827637,
             "region_id":85688481,
             "venue_id":387162417
         }
     ],
     "wof:id":387162417,
-    "wof:lastmodified":1449059371,
+    "wof:lastmodified":1454361059,
     "wof:name":"Kerry's Hair Care",
     "wof:parent_id":85827637,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "stylist"
     ]
 },
-  "bbox": [-80.31054,40.649015,-80.31054,40.649015],
+  "bbox": [
+    -80.31054,
+    40.649015,
+    -80.31054,
+    40.649015
+],
   "geometry": {"coordinates":[-80.31054,40.649015],"type":"Point"}
 }

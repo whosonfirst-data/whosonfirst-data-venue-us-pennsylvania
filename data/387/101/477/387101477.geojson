@@ -2,13 +2,14 @@
   "id": 387101477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.879429,40.6319,-79.879429,40.6319",
     "geom:latitude":40.6319,
     "geom:longitude":-79.879429,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"445 Bairdford Rd",
     "sg:city":"Bairdford",
     "sg:classifiers":[
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85831915,
+        102191575,
+        404484337,
         85633793,
+        101720513,
         102080887,
-        85831915
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +51,18 @@
     "wof:geomhash":"80850be7dade85ba9b0d380dc9adbe31",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
+            "localadmin_id":404484337,
+            "locality_id":101720513,
             "neighbourhood_id":85831915,
             "region_id":85688481,
             "venue_id":387101477
         }
     ],
     "wof:id":387101477,
-    "wof:lastmodified":1449058107,
+    "wof:lastmodified":1454360682,
     "wof:name":"Deans Three Door Tavern",
     "wof:parent_id":85831915,
     "wof:placetype":"venue",
@@ -69,6 +74,11 @@
         "brew"
     ]
 },
-  "bbox": [-79.879429,40.6319,-79.879429,40.6319],
+  "bbox": [
+    -79.879429,
+    40.6319,
+    -79.879429,
+    40.6319
+],
   "geometry": {"coordinates":[-79.879429,40.6319],"type":"Point"}
 }

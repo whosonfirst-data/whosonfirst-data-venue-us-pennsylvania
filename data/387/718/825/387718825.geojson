@@ -2,13 +2,14 @@
   "id": 387718825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.010353,40.696571,-80.010353,40.696571",
     "geom:latitude":40.696571,
     "geom:longitude":-80.010353,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"131 Grand Ave",
     "sg:city":"Mars",
     "sg:classifiers":[
@@ -49,8 +50,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102083677,
-        85815109
+        85815109,
+        102083677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,17 +61,15 @@
     "wof:geomhash":"edf609e6228e76649b8a79a3d5190188",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102083677,
-            "locality_id":-1,
             "neighbourhood_id":85815109,
             "region_id":85688481,
             "venue_id":387718825
         }
     ],
     "wof:id":387718825,
-    "wof:lastmodified":1449056917,
+    "wof:lastmodified":1454358705,
     "wof:name":"Allstate Insurance Company - Scott Francis Thompson",
     "wof:parent_id":85815109,
     "wof:placetype":"venue",
@@ -85,6 +84,11 @@
         "renter"
     ]
 },
-  "bbox": [-80.010353,40.696571,-80.010353,40.696571],
-  "geometry": {"coordinates":[-80.010353,40.696571],"type":"Point"}
+  "bbox": [
+    -80.010353,
+    40.696571,
+    -80.010353,
+    40.696571
+],
+  "geometry": {"coordinates":[-80.01035299999999,40.696571],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403867045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.859453,40.261937,-76.859453,40.261937",
     "geom:latitude":40.261937,
     "geom:longitude":-76.859453,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1842 Derry St",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85817391
+        85817391,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"8d998d35fa1ceb14010636d68dbc3d45",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85817391,
             "region_id":85688481,
             "venue_id":403867045
         }
     ],
     "wof:id":403867045,
-    "wof:lastmodified":1449055215,
+    "wof:lastmodified":1454357541,
     "wof:name":"Harrisburg School District",
     "wof:parent_id":85817391,
     "wof:placetype":"venue",
@@ -64,6 +63,11 @@
         "elementary"
     ]
 },
-  "bbox": [-76.859453,40.261937,-76.859453,40.261937],
+  "bbox": [
+    -76.859453,
+    40.261937,
+    -76.859453,
+    40.261937
+],
   "geometry": {"coordinates":[-76.859453,40.261937],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387097753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.259239,40.618141,-80.259239,40.618141",
     "geom:latitude":40.618141,
     "geom:longitude":-80.259239,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"201 Spaulding St",
     "sg:city":"Aliquippa",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85858799,
+        102191575,
+        404484357,
         85633793,
         101718409,
         102081323,
-        85858799
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"8a0b8b4f21ddf86f0eabfa83a9e44a4c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081323,
+            "localadmin_id":404484357,
             "locality_id":101718409,
             "neighbourhood_id":85858799,
             "region_id":85688481,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":387097753,
-    "wof:lastmodified":1449057609,
+    "wof:lastmodified":1454360529,
     "wof:name":"Aaa Pennsylvania Judgment Reco",
     "wof:parent_id":85858799,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "agency"
     ]
 },
-  "bbox": [-80.259239,40.618141,-80.259239,40.618141],
-  "geometry": {"coordinates":[-80.259239,40.618141],"type":"Point"}
+  "bbox": [
+    -80.259239,
+    40.618141,
+    -80.259239,
+    40.618141
+],
+  "geometry": {"coordinates":[-80.25923899999999,40.618141],"type":"Point"}
 }

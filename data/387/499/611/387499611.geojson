@@ -2,13 +2,14 @@
   "id": 387499611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.037098,40.57422,-80.037098,40.57422",
     "geom:latitude":40.57422,
     "geom:longitude":-80.037098,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"9236 Perry Hwy",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -49,8 +50,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85820441
+        85820441,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,17 +61,15 @@
     "wof:geomhash":"40b9aee834c79812dddbc789bb09dc8f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85820441,
             "region_id":85688481,
             "venue_id":387499611
         }
     ],
     "wof:id":387499611,
-    "wof:lastmodified":1449056827,
+    "wof:lastmodified":1454358634,
     "wof:name":"Pitell Granite",
     "wof:parent_id":85820441,
     "wof:placetype":"venue",
@@ -85,6 +84,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-80.037098,40.57422,-80.037098,40.57422],
+  "bbox": [
+    -80.037098,
+    40.57422,
+    -80.037098,
+    40.57422
+],
   "geometry": {"coordinates":[-80.037098,40.57422],"type":"Point"}
 }

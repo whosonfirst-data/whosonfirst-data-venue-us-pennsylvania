@@ -2,13 +2,14 @@
   "id": 387869381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.628523,41.991812,-78.628523,41.991812",
     "geom:latitude":41.991812,
     "geom:longitude":-78.628523,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"498 Seaward Ave",
     "sg:city":"Bradford",
     "sg:classifiers":[
@@ -41,8 +42,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080951,
-        85852805
+        85852805,
+        102080951
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,17 +53,15 @@
     "wof:geomhash":"714c029ae7303da471d42ef777c5da34",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080951,
-            "locality_id":-1,
             "neighbourhood_id":85852805,
             "region_id":85688481,
             "venue_id":387869381
         }
     ],
     "wof:id":387869381,
-    "wof:lastmodified":1449059612,
+    "wof:lastmodified":1454361135,
     "wof:name":"Faith Baptist Church",
     "wof:parent_id":85852805,
     "wof:placetype":"venue",
@@ -73,6 +72,11 @@
         "churches-baptist"
     ]
 },
-  "bbox": [-78.628523,41.991812,-78.628523,41.991812],
+  "bbox": [
+    -78.628523,
+    41.991812,
+    -78.628523,
+    41.991812
+],
   "geometry": {"coordinates":[-78.628523,41.991812],"type":"Point"}
 }

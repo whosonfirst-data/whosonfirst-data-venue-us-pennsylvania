@@ -2,13 +2,14 @@
   "id": 387726711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.939377,40.683449,-79.939377,40.683449",
     "geom:latitude":40.683449,
     "geom:longitude":-79.939377,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"118 Denny Rd",
     "sg:city":"Valencia",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102083677,
-        85815109
+        85815109,
+        102083677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"678155bb5920468164e44da28526cf3e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102083677,
-            "locality_id":-1,
             "neighbourhood_id":85815109,
             "region_id":85688481,
             "venue_id":387726711
         }
     ],
     "wof:id":387726711,
-    "wof:lastmodified":1449058717,
+    "wof:lastmodified":1454360861,
     "wof:name":"Gaac Inc",
     "wof:parent_id":85815109,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "financing"
     ]
 },
-  "bbox": [-79.939377,40.683449,-79.939377,40.683449],
-  "geometry": {"coordinates":[-79.939377,40.683449],"type":"Point"}
+  "bbox": [
+    -79.939377,
+    40.683449,
+    -79.939377,
+    40.683449
+],
+  "geometry": {"coordinates":[-79.93937699999999,40.683449],"type":"Point"}
 }

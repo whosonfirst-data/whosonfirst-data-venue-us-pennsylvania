@@ -2,13 +2,14 @@
   "id": 404008649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.733713,39.966842,-76.733713,39.966842",
     "geom:latitude":39.966842,
     "geom:longitude":-76.733713,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"116 Hamilton Ave",
     "sg:city":"York",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85833149,
+        102191575,
+        404488029,
         85633793,
+        101717279,
         102080953,
-        85833149
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +45,18 @@
     "wof:geomhash":"b907e9a2ba4bccbffe8514d0d21ecf53",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
+            "localadmin_id":404488029,
+            "locality_id":101717279,
             "neighbourhood_id":85833149,
             "region_id":85688481,
             "venue_id":404008649
         }
     ],
     "wof:id":404008649,
-    "wof:lastmodified":1449039396,
+    "wof:lastmodified":1454356623,
     "wof:name":"York Wire E D M Corp Inc",
     "wof:parent_id":85833149,
     "wof:placetype":"venue",
@@ -62,6 +67,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-76.733713,39.966842,-76.733713,39.966842],
-  "geometry": {"coordinates":[-76.733713,39.966842],"type":"Point"}
+  "bbox": [
+    -76.733713,
+    39.966842,
+    -76.733713,
+    39.966842
+],
+  "geometry": {"coordinates":[-76.73371299999999,39.966842],"type":"Point"}
 }

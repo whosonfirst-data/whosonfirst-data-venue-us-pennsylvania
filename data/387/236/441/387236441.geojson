@@ -2,13 +2,14 @@
   "id": 387236441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.086502,40.409302,-80.086502,40.409302",
     "geom:latitude":40.409302,
     "geom:longitude":-80.086502,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"102 Broadway St Ste 306",
     "sg:city":"Carnegie",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85816087,
+        102191575,
+        404484941,
         85633793,
         101718673,
         102080887,
-        85816087
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"f2a7854b9d0c94ac38cebedb95f8ae91",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484941,
             "locality_id":101718673,
             "neighbourhood_id":85816087,
             "region_id":85688481,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":387236441,
-    "wof:lastmodified":1449056513,
+    "wof:lastmodified":1454358408,
     "wof:name":"Tsironis Irene MD",
     "wof:parent_id":85816087,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "ophthalmologist"
     ]
 },
-  "bbox": [-80.086502,40.409302,-80.086502,40.409302],
+  "bbox": [
+    -80.086502,
+    40.409302,
+    -80.086502,
+    40.409302
+],
   "geometry": {"coordinates":[-80.086502,40.409302],"type":"Point"}
 }

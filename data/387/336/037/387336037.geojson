@@ -2,13 +2,14 @@
   "id": 387336037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.0466,40.395802,-80.0466,40.395802",
     "geom:latitude":40.395802,
     "geom:longitude":-80.0466,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1685 McFarland Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -34,10 +35,13 @@
     "sg:website":"www.thebotanicalemporium.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85804395,
+        102191575,
+        404482523,
         85633793,
+        101718805,
         102080887,
-        85804395
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +51,18 @@
     "wof:geomhash":"7b30d69dc286a05cd46509c48c1f6c6f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
+            "localadmin_id":404482523,
+            "locality_id":101718805,
             "neighbourhood_id":85804395,
             "region_id":85688481,
             "venue_id":387336037
         }
     ],
     "wof:id":387336037,
-    "wof:lastmodified":1449056041,
+    "wof:lastmodified":1454358034,
     "wof:name":"The Botanical Emporium Florist & Greenhouse",
     "wof:parent_id":85804395,
     "wof:placetype":"venue",
@@ -68,6 +73,11 @@
         "gardening"
     ]
 },
-  "bbox": [-80.0466,40.395802,-80.0466,40.395802],
+  "bbox": [
+    -80.0466,
+    40.395802,
+    -80.0466,
+    40.395802
+],
   "geometry": {"coordinates":[-80.0466,40.395802],"type":"Point"}
 }

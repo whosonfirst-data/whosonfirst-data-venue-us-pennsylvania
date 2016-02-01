@@ -2,13 +2,14 @@
   "id": 404089985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.388012,40.033513,-76.388012,40.033513",
     "geom:latitude":40.033513,
     "geom:longitude":-76.388012,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3119 Windon Ave",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85814875
+        85814875,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"dbc6baa77a2382827895737d52aa9f32",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85814875,
             "region_id":85688481,
             "venue_id":404089985
         }
     ],
     "wof:id":404089985,
-    "wof:lastmodified":1449039302,
+    "wof:lastmodified":1454356555,
     "wof:name":"Dang Plumbing",
     "wof:parent_id":85814875,
     "wof:placetype":"venue",
@@ -64,6 +63,11 @@
         "contractors-commercial"
     ]
 },
-  "bbox": [-76.388012,40.033513,-76.388012,40.033513],
+  "bbox": [
+    -76.388012,
+    40.033513,
+    -76.388012,
+    40.033513
+],
   "geometry": {"coordinates":[-76.388012,40.033513],"type":"Point"}
 }

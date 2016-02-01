@@ -2,13 +2,14 @@
   "id": 387554745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.173798,40.289501,-80.173798,40.289501",
     "geom:latitude":40.289501,
     "geom:longitude":-80.173798,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"400 Southpointe Blvd",
     "sg:city":"Canonsburg",
     "sg:classifiers":[
@@ -27,7 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420539915,
+        102191575,
+        404487735,
         85633793,
+        101720271,
+        102081343,
         85688481
     ],
     "wof:breaches":[],
@@ -38,18 +44,20 @@
     "wof:geomhash":"7192cebf42b57344cbfb31d13ab8e9e9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081343,
+            "localadmin_id":404487735,
+            "locality_id":101720271,
+            "neighbourhood_id":420539915,
             "region_id":85688481,
             "venue_id":387554745
         }
     ],
     "wof:id":387554745,
-    "wof:lastmodified":1449056890,
+    "wof:lastmodified":1454358680,
     "wof:name":"Avis Rent-A-Car",
-    "wof:parent_id":-1,
+    "wof:parent_id":420539915,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +65,11 @@
         "car"
     ]
 },
-  "bbox": [-80.173798,40.289501,-80.173798,40.289501],
-  "geometry": {"coordinates":[-80.173798,40.289501],"type":"Point"}
+  "bbox": [
+    -80.173798,
+    40.289501,
+    -80.173798,
+    40.289501
+],
+  "geometry": {"coordinates":[-80.17379800000001,40.289501],"type":"Point"}
 }

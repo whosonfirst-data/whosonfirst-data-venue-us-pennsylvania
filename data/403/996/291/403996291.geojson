@@ -2,13 +2,14 @@
   "id": 403996291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.049135,39.719966,-77.049135,39.719966",
     "geom:latitude":39.719966,
     "geom:longitude":-77.049135,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"574 Mathias Rd",
     "sg:city":"Littlestown",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080899,
-        85821307
+        85821307,
+        102080899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"14d2a93db4ef833b54db122e25f953c7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080899,
-            "locality_id":-1,
             "neighbourhood_id":85821307,
             "region_id":85688481,
             "venue_id":403996291
         }
     ],
     "wof:id":403996291,
-    "wof:lastmodified":1449055003,
+    "wof:lastmodified":1454357413,
     "wof:name":"Mummert Douglas J Paving Contractors",
     "wof:parent_id":85821307,
     "wof:placetype":"venue",
@@ -63,6 +62,11 @@
         "contractor"
     ]
 },
-  "bbox": [-77.049135,39.719966,-77.049135,39.719966],
-  "geometry": {"coordinates":[-77.049135,39.719966],"type":"Point"}
+  "bbox": [
+    -77.049135,
+    39.719966,
+    -77.049135,
+    39.719966
+],
+  "geometry": {"coordinates":[-77.04913500000001,39.719966],"type":"Point"}
 }

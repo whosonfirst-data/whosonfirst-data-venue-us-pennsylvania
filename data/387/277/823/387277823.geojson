@@ -2,13 +2,14 @@
   "id": 387277823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.834482,40.51187,-79.834482,40.51187",
     "geom:latitude":40.51187,
     "geom:longitude":-79.834482,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"10 Plum St Ste 1",
     "sg:city":"Verona",
     "sg:classifiers":[
@@ -38,8 +39,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85818743
+        85818743,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +50,15 @@
     "wof:geomhash":"08fc3e3c10ce58d4fb0642b2735b792b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85818743,
             "region_id":85688481,
             "venue_id":387277823
         }
     ],
     "wof:id":387277823,
-    "wof:lastmodified":1449056544,
+    "wof:lastmodified":1454358427,
     "wof:name":"Cxl Warehouse",
     "wof:parent_id":85818743,
     "wof:placetype":"venue",
@@ -73,6 +72,11 @@
         "self"
     ]
 },
-  "bbox": [-79.834482,40.51187,-79.834482,40.51187],
-  "geometry": {"coordinates":[-79.834482,40.51187],"type":"Point"}
+  "bbox": [
+    -79.834482,
+    40.51187,
+    -79.834482,
+    40.51187
+],
+  "geometry": {"coordinates":[-79.83448199999999,40.51187],"type":"Point"}
 }

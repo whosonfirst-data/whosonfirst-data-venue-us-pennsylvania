@@ -2,13 +2,14 @@
   "id": 403862991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.855531,40.251309,-76.855531,40.251309",
     "geom:latitude":40.251309,
     "geom:longitude":-76.855531,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1232 S 18th St",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85868485
+        85868485,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"4df2f05aee2880213d1c1b805890ccd1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85868485,
             "region_id":85688481,
             "venue_id":403862991
         }
     ],
     "wof:id":403862991,
-    "wof:lastmodified":1449056014,
+    "wof:lastmodified":1454358011,
     "wof:name":"My Brother's Keeper",
     "wof:parent_id":85868485,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "emergency"
     ]
 },
-  "bbox": [-76.855531,40.251309,-76.855531,40.251309],
+  "bbox": [
+    -76.855531,
+    40.251309,
+    -76.855531,
+    40.251309
+],
   "geometry": {"coordinates":[-76.855531,40.251309],"type":"Point"}
 }

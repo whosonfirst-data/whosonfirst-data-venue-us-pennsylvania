@@ -2,13 +2,14 @@
   "id": 387503395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.018388,40.534655,-80.018388,40.534655",
     "geom:latitude":40.534655,
     "geom:longitude":-80.018388,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3348 Evergreen Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85805835
+        85805835,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"0075d56db1946753a8e815c8cab3e29e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85805835,
             "region_id":85688481,
             "venue_id":387503395
         }
     ],
     "wof:id":387503395,
-    "wof:lastmodified":1449059932,
+    "wof:lastmodified":1454361236,
     "wof:name":"Secure Systems",
     "wof:parent_id":85805835,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "equipment-service"
     ]
 },
-  "bbox": [-80.018388,40.534655,-80.018388,40.534655],
+  "bbox": [
+    -80.018388,
+    40.534655,
+    -80.018388,
+    40.534655
+],
   "geometry": {"coordinates":[-80.018388,40.534655],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404061559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.289322,40.111309,-76.289322,40.111309",
     "geom:latitude":40.111309,
     "geom:longitude":-76.289322,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"599 Airport Rd",
     "sg:city":"Lititz",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85829687
+        85829687,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"789a1cb97a21fdcf2d5ebc48d60f437a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85829687,
             "region_id":85688481,
             "venue_id":404061559
         }
     ],
     "wof:id":404061559,
-    "wof:lastmodified":1449039993,
+    "wof:lastmodified":1454356938,
     "wof:name":"Pennco Machinery, Inc",
     "wof:parent_id":85829687,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "location"
     ]
 },
-  "bbox": [-76.289322,40.111309,-76.289322,40.111309],
+  "bbox": [
+    -76.289322,
+    40.111309,
+    -76.289322,
+    40.111309
+],
   "geometry": {"coordinates":[-76.289322,40.111309],"type":"Point"}
 }

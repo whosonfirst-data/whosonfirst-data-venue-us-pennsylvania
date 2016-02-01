@@ -2,13 +2,14 @@
   "id": 387432373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.952798,40.505612,-79.952798,40.505612",
     "geom:latitude":40.505612,
     "geom:longitude":-79.952798,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"105 Adele St",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85853055
+        85853055,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"4819cce142cddfd84efa33b69e974629",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85853055,
             "region_id":85688481,
             "venue_id":387432373
         }
     ],
     "wof:id":387432373,
-    "wof:lastmodified":1449056046,
+    "wof:lastmodified":1454358040,
     "wof:name":"Gerardi Landscaping",
     "wof:parent_id":85853055,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.952798,40.505612,-79.952798,40.505612],
+  "bbox": [
+    -79.952798,
+    40.505612,
+    -79.952798,
+    40.505612
+],
   "geometry": {"coordinates":[-79.952798,40.505612],"type":"Point"}
 }

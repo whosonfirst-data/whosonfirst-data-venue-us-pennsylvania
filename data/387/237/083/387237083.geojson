@@ -2,13 +2,14 @@
   "id": 387237083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.076283,40.41492,-80.076283,40.41492",
     "geom:latitude":40.41492,
     "geom:longitude":-80.076283,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"735 Idlewood Ave",
     "sg:city":"Carnegie",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"http://www.cap-ttcs.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85816087,
+        102191575,
+        404484941,
         85633793,
         101718673,
         102080887,
-        85816087
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"714bbe7855044adc8a884ab241999592",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484941,
             "locality_id":101718673,
             "neighbourhood_id":85816087,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387237083,
-    "wof:lastmodified":1449056212,
+    "wof:lastmodified":1454358167,
     "wof:name":"Civil Air Patrol, Inc",
     "wof:parent_id":85816087,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "homeland"
     ]
 },
-  "bbox": [-80.076283,40.41492,-80.076283,40.41492],
+  "bbox": [
+    -80.076283,
+    40.41492,
+    -80.076283,
+    40.41492
+],
   "geometry": {"coordinates":[-80.076283,40.41492],"type":"Point"}
 }

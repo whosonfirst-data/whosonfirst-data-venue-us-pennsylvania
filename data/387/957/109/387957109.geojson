@@ -2,13 +2,14 @@
   "id": 387957109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.622261,40.117299,-76.622261,40.117299",
     "geom:latitude":40.117299,
     "geom:longitude":-76.622261,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"128 Westview Dr",
     "sg:city":"Elizabethtown",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85836929
+        85836929,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"80c61f1c5c6b8d7c2dc9f20f77e9780f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85836929,
             "region_id":85688481,
             "venue_id":387957109
         }
     ],
     "wof:id":387957109,
-    "wof:lastmodified":1449059357,
+    "wof:lastmodified":1454361054,
     "wof:name":"Martin Foundation Coatings, Inc.",
     "wof:parent_id":85836929,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "volunteer"
     ]
 },
-  "bbox": [-76.622261,40.117299,-76.622261,40.117299],
-  "geometry": {"coordinates":[-76.622261,40.117299],"type":"Point"}
+  "bbox": [
+    -76.622261,
+    40.117299,
+    -76.622261,
+    40.117299
+],
+  "geometry": {"coordinates":[-76.62226099999999,40.117299],"type":"Point"}
 }

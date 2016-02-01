@@ -2,13 +2,14 @@
   "id": 387609667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.506999,40.04355,-78.506999,40.04355",
     "geom:latitude":40.04355,
     "geom:longitude":-78.506999,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4003 Business 220",
     "sg:city":"Bedford",
     "sg:classifiers":[
@@ -39,8 +40,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080939,
-        85858457
+        85858457,
+        102080939
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,17 +51,15 @@
     "wof:geomhash":"f854ba1e54d122e127ab1566fdfe4079",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080939,
-            "locality_id":-1,
             "neighbourhood_id":85858457,
             "region_id":85688481,
             "venue_id":387609667
         }
     ],
     "wof:id":387609667,
-    "wof:lastmodified":1449057524,
+    "wof:lastmodified":1454360201,
     "wof:name":"Payless Car Rental",
     "wof:parent_id":85858457,
     "wof:placetype":"venue",
@@ -75,6 +74,11 @@
         "trailer"
     ]
 },
-  "bbox": [-78.506999,40.04355,-78.506999,40.04355],
-  "geometry": {"coordinates":[-78.506999,40.04355],"type":"Point"}
+  "bbox": [
+    -78.506999,
+    40.04355,
+    -78.506999,
+    40.04355
+],
+  "geometry": {"coordinates":[-78.50699899999999,40.04355],"type":"Point"}
 }

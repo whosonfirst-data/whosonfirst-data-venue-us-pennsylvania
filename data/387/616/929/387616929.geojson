@@ -2,13 +2,14 @@
   "id": 387616929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.542661,40.300943,-79.542661,40.300943",
     "geom:latitude":40.300943,
     "geom:longitude":-79.542661,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"226 S Maple Ave Ste 102",
     "sg:city":"Greensburg",
     "sg:classifiers":[
@@ -44,11 +45,13 @@
     "sg:website":"http://www.nationwide.com/agent/Greensburg-PENNSYLVANIA-insurance-agent/robert-bloom/office.html",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85809439,
+        102191575,
+        404487487,
         85633793,
-        101717119,
+        101717177,
         102081383,
-        85809439
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,17 +61,18 @@
     "wof:geomhash":"38b484a5f0e917959ba9365bfa804091",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":101717119,
+            "localadmin_id":404487487,
+            "locality_id":101717177,
             "neighbourhood_id":85809439,
             "region_id":85688481,
             "venue_id":387616929
         }
     ],
     "wof:id":387616929,
-    "wof:lastmodified":1449058902,
+    "wof:lastmodified":1454360924,
     "wof:name":"Robert Bloom - Nationwide Insurance",
     "wof:parent_id":85809439,
     "wof:placetype":"venue",
@@ -79,6 +83,11 @@
         "homeowner"
     ]
 },
-  "bbox": [-79.542661,40.300943,-79.542661,40.300943],
+  "bbox": [
+    -79.542661,
+    40.300943,
+    -79.542661,
+    40.300943
+],
   "geometry": {"coordinates":[-79.542661,40.300943],"type":"Point"}
 }

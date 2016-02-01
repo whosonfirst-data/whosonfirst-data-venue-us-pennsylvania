@@ -2,13 +2,14 @@
   "id": 387848807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.418955,40.493259,-78.418955,40.493259",
     "geom:latitude":40.493259,
     "geom:longitude":-78.418955,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"876 Waterloo Rd",
     "sg:city":"Altoona",
     "sg:classifiers":[
@@ -34,7 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420536685,
+        102191575,
+        404484619,
         85633793,
+        101716595,
+        102081325,
         85688481
     ],
     "wof:breaches":[],
@@ -45,18 +51,20 @@
     "wof:geomhash":"9e78f71c487a52cacfae61e4882c3ad6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081325,
+            "localadmin_id":404484619,
+            "locality_id":101716595,
+            "neighbourhood_id":420536685,
             "region_id":85688481,
             "venue_id":387848807
         }
     ],
     "wof:id":387848807,
-    "wof:lastmodified":1449056637,
+    "wof:lastmodified":1454358505,
     "wof:name":"Delta Kappa Gamma Society",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536685,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -66,6 +74,11 @@
         "volunteer"
     ]
 },
-  "bbox": [-78.418955,40.493259,-78.418955,40.493259],
+  "bbox": [
+    -78.418955,
+    40.493259,
+    -78.418955,
+    40.493259
+],
   "geometry": {"coordinates":[-78.418955,40.493259],"type":"Point"}
 }

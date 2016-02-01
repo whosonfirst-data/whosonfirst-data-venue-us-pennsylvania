@@ -2,13 +2,14 @@
   "id": 387303509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.972346,40.488745,-79.972346,40.488745",
     "geom:latitude":40.488745,
     "geom:longitude":-79.972346,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"820 Evergreen Ave Ste 4",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85804759,
+        102191575,
+        404484241,
         85633793,
+        101718843,
         102080887,
-        85804759
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +45,18 @@
     "wof:geomhash":"7d69e1aa27cb76a005b34636b0ef20c3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
+            "localadmin_id":404484241,
+            "locality_id":101718843,
             "neighbourhood_id":85804759,
             "region_id":85688481,
             "venue_id":387303509
         }
     ],
     "wof:id":387303509,
-    "wof:lastmodified":1449056150,
+    "wof:lastmodified":1454358122,
     "wof:name":"The Toal Law Firm P C",
     "wof:parent_id":85804759,
     "wof:placetype":"venue",
@@ -62,6 +67,11 @@
         "practice"
     ]
 },
-  "bbox": [-79.972346,40.488745,-79.972346,40.488745],
+  "bbox": [
+    -79.972346,
+    40.488745,
+    -79.972346,
+    40.488745
+],
   "geometry": {"coordinates":[-79.972346,40.488745],"type":"Point"}
 }

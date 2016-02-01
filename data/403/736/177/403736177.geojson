@@ -2,13 +2,14 @@
   "id": 403736177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.97341,40.274843,-76.97341,40.274843",
     "geom:latitude":40.274843,
     "geom:longitude":-76.97341,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4225 Roth Ln Apt 111",
     "sg:city":"Mechanicsburg",
     "sg:classifiers":[
@@ -32,8 +33,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081359,
-        85822223
+        85822223,
+        102081359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +44,15 @@
     "wof:geomhash":"eb219232835ab9fee98a64844898cc8f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081359,
-            "locality_id":-1,
             "neighbourhood_id":85822223,
             "region_id":85688481,
             "venue_id":403736177
         }
     ],
     "wof:id":403736177,
-    "wof:lastmodified":1449055935,
+    "wof:lastmodified":1454357960,
     "wof:name":"Mark Knull Painting",
     "wof:parent_id":85822223,
     "wof:placetype":"venue",
@@ -66,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-76.97341,40.274843,-76.97341,40.274843],
+  "bbox": [
+    -76.97341,
+    40.274843,
+    -76.97341,
+    40.274843
+],
   "geometry": {"coordinates":[-76.97341,40.274843],"type":"Point"}
 }

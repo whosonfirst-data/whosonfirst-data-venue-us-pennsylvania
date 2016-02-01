@@ -2,13 +2,14 @@
   "id": 404156109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.418701,40.703602,-75.418701,40.703602",
     "geom:latitude":40.703602,
     "geom:longitude":-75.418701,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5972 Nor Bath Blvd",
     "sg:city":"Bath",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081395,
-        85830333
+        85830333,
+        102081395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"c4e7748c577b5b76f23498e82349124f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081395,
-            "locality_id":-1,
             "neighbourhood_id":85830333,
             "region_id":85688481,
             "venue_id":404156109
         }
     ],
     "wof:id":404156109,
-    "wof:lastmodified":1449039289,
+    "wof:lastmodified":1454356551,
     "wof:name":"Erin's Candy Gallery",
     "wof:parent_id":85830333,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "store"
     ]
 },
-  "bbox": [-75.418701,40.703602,-75.418701,40.703602],
+  "bbox": [
+    -75.418701,
+    40.703602,
+    -75.418701,
+    40.703602
+],
   "geometry": {"coordinates":[-75.418701,40.703602],"type":"Point"}
 }

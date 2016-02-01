@@ -2,13 +2,14 @@
   "id": 387491497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.979342,40.348349,-79.979342,40.348349",
     "geom:latitude":40.348349,
     "geom:longitude":-79.979342,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"325 Maxwell Dr",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85839661,
+        102191575,
+        404484247,
         85633793,
         101718705,
         102080887,
-        85839661
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"b7445a7778c793015191fce75bc4e8c4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484247,
             "locality_id":101718705,
             "neighbourhood_id":85839661,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387491497,
-    "wof:lastmodified":1449056052,
+    "wof:lastmodified":1454358046,
     "wof:name":"Rader Landscaping & Constructi",
     "wof:parent_id":85839661,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.979342,40.348349,-79.979342,40.348349],
+  "bbox": [
+    -79.979342,
+    40.348349,
+    -79.979342,
+    40.348349
+],
   "geometry": {"coordinates":[-79.979342,40.348349],"type":"Point"}
 }

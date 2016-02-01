@@ -2,13 +2,14 @@
   "id": 387336769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.0345,40.395599,-80.0345,40.395599",
     "geom:latitude":40.395599,
     "geom:longitude":-80.0345,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1424 Potomac Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85807877,
+        102191575,
+        404482523,
         85633793,
+        101718805,
         102080887,
-        85807877
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +45,18 @@
     "wof:geomhash":"34691cc2eb3be9c96eaa91ef17ed141e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
+            "localadmin_id":404482523,
+            "locality_id":101718805,
             "neighbourhood_id":85807877,
             "region_id":85688481,
             "venue_id":387336769
         }
     ],
     "wof:id":387336769,
-    "wof:lastmodified":1449056038,
+    "wof:lastmodified":1454358032,
     "wof:name":"American General Consumer Discount Company",
     "wof:parent_id":85807877,
     "wof:placetype":"venue",
@@ -62,6 +67,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-80.0345,40.395599,-80.0345,40.395599],
-  "geometry": {"coordinates":[-80.0345,40.395599],"type":"Point"}
+  "bbox": [
+    -80.0345,
+    40.395599,
+    -80.0345,
+    40.395599
+],
+  "geometry": {"coordinates":[-80.03449999999999,40.395599],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387949115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.236809,40.182899,-77.236809,40.182899",
     "geom:latitude":40.182899,
     "geom:longitude":-77.236809,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1501 Commerce Ave",
     "sg:city":"Carlisle",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85865395,
+        102191575,
+        404486423,
         85633793,
         101719085,
         102081359,
-        85865395
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"7acec8c9db82a90bc27b549412acbb0e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081359,
+            "localadmin_id":404486423,
             "locality_id":101719085,
             "neighbourhood_id":85865395,
             "region_id":85688481,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":387949115,
-    "wof:lastmodified":1449058461,
+    "wof:lastmodified":1454360787,
     "wof:name":"Marcello & Kivisto",
     "wof:parent_id":85865395,
     "wof:placetype":"venue",
@@ -73,6 +77,11 @@
         "law"
     ]
 },
-  "bbox": [-77.236809,40.182899,-77.236809,40.182899],
-  "geometry": {"coordinates":[-77.236809,40.182899],"type":"Point"}
+  "bbox": [
+    -77.236809,
+    40.182899,
+    -77.236809,
+    40.182899
+],
+  "geometry": {"coordinates":[-77.23680899999999,40.182899],"type":"Point"}
 }

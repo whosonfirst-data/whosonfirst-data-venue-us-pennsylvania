@@ -2,13 +2,14 @@
   "id": 403867795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.835616,40.289068,-76.835616,40.289068",
     "geom:latitude":40.289068,
     "geom:longitude":-76.835616,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3709 Walnut St",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85843183,
+        102191575,
+        404486305,
         85633793,
         101719821,
         102081347,
-        85843183
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"9363cbe74936301e22d546fd8fdf3af2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
+            "localadmin_id":404486305,
             "locality_id":101719821,
             "neighbourhood_id":85843183,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":403867795,
-    "wof:lastmodified":1449055216,
+    "wof:lastmodified":1454357541,
     "wof:name":"Daviece Hair Team & Day Spa",
     "wof:parent_id":85843183,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.835616,40.289068,-76.835616,40.289068],
+  "bbox": [
+    -76.835616,
+    40.289068,
+    -76.835616,
+    40.289068
+],
   "geometry": {"coordinates":[-76.835616,40.289068],"type":"Point"}
 }

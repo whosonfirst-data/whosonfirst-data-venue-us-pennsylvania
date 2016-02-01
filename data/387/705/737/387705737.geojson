@@ -2,13 +2,14 @@
   "id": 387705737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.950244,40.778825,-79.950244,40.778825",
     "geom:latitude":40.778825,
     "geom:longitude":-79.950244,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"473 Airport Rd",
     "sg:city":"Butler",
     "sg:classifiers":[],
@@ -21,8 +22,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102083677,
-        85808107
+        85808107,
+        102083677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -32,17 +33,15 @@
     "wof:geomhash":"c57304acfe5817e19f92823b09e76387",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102083677,
-            "locality_id":-1,
             "neighbourhood_id":85808107,
             "region_id":85688481,
             "venue_id":387705737
         }
     ],
     "wof:id":387705737,
-    "wof:lastmodified":1449059940,
+    "wof:lastmodified":1454361238,
     "wof:name":"Runway",
     "wof:parent_id":85808107,
     "wof:placetype":"venue",
@@ -50,6 +49,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.950244,40.778825,-79.950244,40.778825],
+  "bbox": [
+    -79.950244,
+    40.778825,
+    -79.950244,
+    40.778825
+],
   "geometry": {"coordinates":[-79.950244,40.778825],"type":"Point"}
 }

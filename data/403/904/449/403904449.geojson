@@ -2,13 +2,14 @@
   "id": 403904449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.787628,40.32296,-76.787628,40.32296",
     "geom:latitude":40.32296,
     "geom:longitude":-76.787628,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6060 Allentown Blvd",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     "sg:website":"http://www.hbgcars.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420537733,
+        102191575,
+        404486185,
         85633793,
-        101719819,
-        102081347
+        101719817,
+        102081347,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"25b8f3fee03b1018c79e89336deb8553",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":101719819,
-            "neighbourhood_id":-1,
+            "localadmin_id":404486185,
+            "locality_id":101719817,
+            "neighbourhood_id":420537733,
             "region_id":85688481,
             "venue_id":403904449
         }
     ],
     "wof:id":403904449,
-    "wof:lastmodified":1449056005,
+    "wof:lastmodified":1454358007,
     "wof:name":"Harrisburg Toyota Authorized Sales & Services",
-    "wof:parent_id":-1,
+    "wof:parent_id":420537733,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -63,6 +68,11 @@
         "car"
     ]
 },
-  "bbox": [-76.787628,40.32296,-76.787628,40.32296],
+  "bbox": [
+    -76.787628,
+    40.32296,
+    -76.787628,
+    40.32296
+],
   "geometry": {"coordinates":[-76.787628,40.32296],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387224843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.003678,40.338138,-80.003678,40.338138",
     "geom:latitude":40.338138,
     "geom:longitude":-80.003678,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1107 Surrey Woods Rd",
     "sg:city":"Bethel Park",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85846775,
+        102191575,
+        404484853,
         85633793,
         101718799,
         102080887,
-        85846775
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"919cf5a2bbebeab36c0efade2e08bef3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484853,
             "locality_id":101718799,
             "neighbourhood_id":85846775,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387224843,
-    "wof:lastmodified":1449058888,
+    "wof:lastmodified":1454360916,
     "wof:name":"Bishop Arthur J CPA",
     "wof:parent_id":85846775,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "accountant"
     ]
 },
-  "bbox": [-80.003678,40.338138,-80.003678,40.338138],
-  "geometry": {"coordinates":[-80.003678,40.338138],"type":"Point"}
+  "bbox": [
+    -80.003678,
+    40.338138,
+    -80.003678,
+    40.338138
+],
+  "geometry": {"coordinates":[-80.00367799999999,40.338138],"type":"Point"}
 }

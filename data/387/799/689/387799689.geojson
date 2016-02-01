@@ -2,13 +2,14 @@
   "id": 387799689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.522396,41.378305,-79.522396,41.378305",
     "geom:latitude":41.378305,
     "geom:longitude":-79.522396,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"315 Hockman Rd",
     "sg:city":"Venus",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081279,
-        85842087
+        85842087,
+        102081279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"0f256500ce135c2970dbea56115698a0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081279,
-            "locality_id":-1,
             "neighbourhood_id":85842087,
             "region_id":85688481,
             "venue_id":387799689
         }
     ],
     "wof:id":387799689,
-    "wof:lastmodified":1449059938,
+    "wof:lastmodified":1454361238,
     "wof:name":"Weckerly Industries",
     "wof:parent_id":85842087,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "machinery-rebuild"
     ]
 },
-  "bbox": [-79.522396,41.378305,-79.522396,41.378305],
+  "bbox": [
+    -79.522396,
+    41.378305,
+    -79.522396,
+    41.378305
+],
   "geometry": {"coordinates":[-79.522396,41.378305],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387763323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.471533,41.238019,-80.471533,41.238019",
     "geom:latitude":41.238019,
     "geom:longitude":-80.471533,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"400 N Buhl Farm Dr",
     "sg:city":"Hermitage",
     "sg:classifiers":[
@@ -25,11 +26,13 @@
     "sg:website":"http://www.macsconveniencestores.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85824773,
+        102191575,
+        404487983,
         85633793,
         101718107,
         102080965,
-        85824773
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +42,10 @@
     "wof:geomhash":"4114aa9d33d661e0b2cdcf2cdc91a861",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080965,
+            "localadmin_id":404487983,
             "locality_id":101718107,
             "neighbourhood_id":85824773,
             "region_id":85688481,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":387763323,
-    "wof:lastmodified":1449059904,
+    "wof:lastmodified":1454361228,
     "wof:name":"Dairy Mart Convenience Store",
     "wof:parent_id":85824773,
     "wof:placetype":"venue",
@@ -57,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.471533,41.238019,-80.471533,41.238019],
-  "geometry": {"coordinates":[-80.471533,41.238019],"type":"Point"}
+  "bbox": [
+    -80.471533,
+    41.238019,
+    -80.471533,
+    41.238019
+],
+  "geometry": {"coordinates":[-80.47153299999999,41.238019],"type":"Point"}
 }

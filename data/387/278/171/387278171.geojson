@@ -2,13 +2,14 @@
   "id": 387278171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.864538,40.46668,-79.864538,40.46668",
     "geom:latitude":40.46668,
     "geom:longitude":-79.864538,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4242 Verona Rd",
     "sg:city":"Verona",
     "sg:classifiers":[
@@ -37,8 +38,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85812851
+        85812851,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +49,15 @@
     "wof:geomhash":"e2d8a7fb373c8b76b1d85db645738e47",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85812851,
             "region_id":85688481,
             "venue_id":387278171
         }
     ],
     "wof:id":387278171,
-    "wof:lastmodified":1449058216,
+    "wof:lastmodified":1454360711,
     "wof:name":"Heli Tech",
     "wof:parent_id":85812851,
     "wof:placetype":"venue",
@@ -71,6 +70,11 @@
         "supply"
     ]
 },
-  "bbox": [-79.864538,40.46668,-79.864538,40.46668],
+  "bbox": [
+    -79.864538,
+    40.46668,
+    -79.864538,
+    40.46668
+],
   "geometry": {"coordinates":[-79.864538,40.46668],"type":"Point"}
 }

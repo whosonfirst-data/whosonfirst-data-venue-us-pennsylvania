@@ -2,13 +2,14 @@
   "id": 387433721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.102958,40.502483,-80.102958,40.502483",
     "geom:latitude":40.502483,
     "geom:longitude":-80.102958,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2952 Neville Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85814623
+        85814623,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"d1e689487441c994d27ab1a5fbb44325",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85814623,
             "region_id":85688481,
             "venue_id":387433721
         }
     ],
     "wof:id":387433721,
-    "wof:lastmodified":1449056550,
+    "wof:lastmodified":1454358432,
     "wof:name":"Progressive Holdings",
     "wof:parent_id":85814623,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "holding"
     ]
 },
-  "bbox": [-80.102958,40.502483,-80.102958,40.502483],
+  "bbox": [
+    -80.102958,
+    40.502483,
+    -80.102958,
+    40.502483
+],
   "geometry": {"coordinates":[-80.102958,40.502483],"type":"Point"}
 }

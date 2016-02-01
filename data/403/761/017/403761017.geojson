@@ -2,13 +2,14 @@
   "id": 403761017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.935271,40.163122,-76.935271,40.163122",
     "geom:latitude":40.163122,
     "geom:longitude":-76.935271,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1035 Mccormick Rd",
     "sg:city":"Mechanicsburg",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081359,
-        85846181
+        85846181,
+        102081359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"0be0b47c203261a04e091efd6d7ac901",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081359,
-            "locality_id":-1,
             "neighbourhood_id":85846181,
             "region_id":85688481,
             "venue_id":403761017
         }
     ],
     "wof:id":403761017,
-    "wof:lastmodified":1449055647,
+    "wof:lastmodified":1454357796,
     "wof:name":"Shirley Warshaw Dr",
     "wof:parent_id":85846181,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-76.935271,40.163122,-76.935271,40.163122],
+  "bbox": [
+    -76.935271,
+    40.163122,
+    -76.935271,
+    40.163122
+],
   "geometry": {"coordinates":[-76.935271,40.163122],"type":"Point"}
 }

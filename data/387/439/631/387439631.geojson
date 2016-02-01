@@ -2,13 +2,14 @@
   "id": 387439631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.982032,40.367141,-79.982032,40.367141",
     "geom:latitude":40.367141,
     "geom:longitude":-79.982032,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"519 Towne Square Way",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85839661,
+        102191575,
+        404484247,
         85633793,
         101718705,
         102080887,
-        85839661
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"878a7bc59571adec49be059043af4b8e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484247,
             "locality_id":101718705,
             "neighbourhood_id":85839661,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387439631,
-    "wof:lastmodified":1449057149,
+    "wof:lastmodified":1454358880,
     "wof:name":"Wine & Spirits Stores",
     "wof:parent_id":85839661,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "wine"
     ]
 },
-  "bbox": [-79.982032,40.367141,-79.982032,40.367141],
+  "bbox": [
+    -79.982032,
+    40.367141,
+    -79.982032,
+    40.367141
+],
   "geometry": {"coordinates":[-79.982032,40.367141],"type":"Point"}
 }

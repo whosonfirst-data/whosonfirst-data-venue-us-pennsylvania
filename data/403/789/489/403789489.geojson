@@ -2,13 +2,14 @@
   "id": 403789489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.269891,40.428279,-77.269891,40.428279",
     "geom:latitude":40.428279,
     "geom:longitude":-77.269891,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4524 Mannsville Rd",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080963,
-        85854111
+        85854111,
+        102080963
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"d3742e2090eee0e6d384918b2a1a3281",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080963,
-            "locality_id":-1,
             "neighbourhood_id":85854111,
             "region_id":85688481,
             "venue_id":403789489
         }
     ],
     "wof:id":403789489,
-    "wof:lastmodified":1449055235,
+    "wof:lastmodified":1454357552,
     "wof:name":"Kenneth Voorhees",
     "wof:parent_id":85854111,
     "wof:placetype":"venue",
@@ -66,6 +65,11 @@
         "hay"
     ]
 },
-  "bbox": [-77.269891,40.428279,-77.269891,40.428279],
+  "bbox": [
+    -77.269891,
+    40.428279,
+    -77.269891,
+    40.428279
+],
   "geometry": {"coordinates":[-77.269891,40.428279],"type":"Point"}
 }

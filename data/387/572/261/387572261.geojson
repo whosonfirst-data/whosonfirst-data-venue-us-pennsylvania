@@ -2,13 +2,14 @@
   "id": 387572261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.204032,40.31882,-80.204032,40.31882",
     "geom:latitude":40.31882,
     "geom:longitude":-80.204032,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3445 Millers Run Rd",
     "sg:city":"Cecil",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85836117,
+        102191575,
+        404487735,
         85633793,
         101720321,
         102081343,
-        85836117
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"511f728477c53954dbeabeea19dde3c6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081343,
+            "localadmin_id":404487735,
             "locality_id":101720321,
             "neighbourhood_id":85836117,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387572261,
-    "wof:lastmodified":1449058431,
+    "wof:lastmodified":1454360780,
     "wof:name":"Kay Academy & Daycare Inc",
     "wof:parent_id":85836117,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "day"
     ]
 },
-  "bbox": [-80.204032,40.31882,-80.204032,40.31882],
+  "bbox": [
+    -80.204032,
+    40.31882,
+    -80.204032,
+    40.31882
+],
   "geometry": {"coordinates":[-80.204032,40.31882],"type":"Point"}
 }

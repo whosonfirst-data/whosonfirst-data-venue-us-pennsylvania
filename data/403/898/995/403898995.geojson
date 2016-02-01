@@ -2,13 +2,14 @@
   "id": 403898995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.8498,40.254902,-76.8498,40.254902",
     "geom:latitude":40.254902,
     "geom:longitude":-76.8498,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2201 Paxton St",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85868485
+        85868485,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"b96db99635d5c5450737dd40c9b4a3d3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85868485,
             "region_id":85688481,
             "venue_id":403898995
         }
     ],
     "wof:id":403898995,
-    "wof:lastmodified":1449054603,
+    "wof:lastmodified":1454357165,
     "wof:name":"Firestone Tire & Service Centers",
     "wof:parent_id":85868485,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "tire"
     ]
 },
-  "bbox": [-76.8498,40.254902,-76.8498,40.254902],
+  "bbox": [
+    -76.8498,
+    40.254902,
+    -76.8498,
+    40.254902
+],
   "geometry": {"coordinates":[-76.8498,40.254902],"type":"Point"}
 }

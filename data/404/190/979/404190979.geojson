@@ -2,13 +2,14 @@
   "id": 404190979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.348345,40.643417,-75.348345,40.643417",
     "geom:latitude":40.643417,
     "geom:longitude":-75.348345,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2516 Easton Ave",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -61,11 +62,13 @@
     "sg:website":"http://www.garlandinsurance.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85805935,
+        102191575,
+        404485987,
         85633793,
         101717907,
         102081395,
-        85805935
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -75,9 +78,10 @@
     "wof:geomhash":"14e1db3f0e58d91502e2bce10fda3f64",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081395,
+            "localadmin_id":404485987,
             "locality_id":101717907,
             "neighbourhood_id":85805935,
             "region_id":85688481,
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":404190979,
-    "wof:lastmodified":1449040264,
+    "wof:lastmodified":1454357099,
     "wof:name":"Garland Insurance Agency LLC",
     "wof:parent_id":85805935,
     "wof:placetype":"venue",
@@ -103,6 +107,11 @@
         "auto"
     ]
 },
-  "bbox": [-75.348345,40.643417,-75.348345,40.643417],
-  "geometry": {"coordinates":[-75.348345,40.643417],"type":"Point"}
+  "bbox": [
+    -75.348345,
+    40.643417,
+    -75.348345,
+    40.643417
+],
+  "geometry": {"coordinates":[-75.34834499999999,40.643417],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387772599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.529522,40.806369,-79.529522,40.806369",
     "geom:latitude":40.806369,
     "geom:longitude":-79.529522,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"227 Butler Rd",
     "sg:city":"Kittanning",
     "sg:classifiers":[
@@ -26,8 +27,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081371,
-        85816487
+        85816487,
+        102081371
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,17 +38,15 @@
     "wof:geomhash":"cbff573f15bb037e718e3ef1bc1837e3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081371,
-            "locality_id":-1,
             "neighbourhood_id":85816487,
             "region_id":85688481,
             "venue_id":387772599
         }
     ],
     "wof:id":387772599,
-    "wof:lastmodified":1449057810,
+    "wof:lastmodified":1454360603,
     "wof:name":"Prime Communcations",
     "wof:parent_id":85816487,
     "wof:placetype":"venue",
@@ -55,6 +54,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.529522,40.806369,-79.529522,40.806369],
+  "bbox": [
+    -79.529522,
+    40.806369,
+    -79.529522,
+    40.806369
+],
   "geometry": {"coordinates":[-79.529522,40.806369],"type":"Point"}
 }

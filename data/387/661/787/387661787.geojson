@@ -2,13 +2,14 @@
   "id": 387661787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.925084,40.965281,-78.925084,40.965281",
     "geom:latitude":40.965281,
     "geom:longitude":-78.925084,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"662 Airport Rd",
     "sg:city":"Punxsutawney",
     "sg:classifiers":[
@@ -27,7 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420538381,
+        102191575,
+        404486499,
         85633793,
+        101717849,
+        102083883,
         85688481
     ],
     "wof:breaches":[],
@@ -38,18 +44,20 @@
     "wof:geomhash":"0d7cac1c8e6439b3b0239cad64eff6e8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102083883,
+            "localadmin_id":404486499,
+            "locality_id":101717849,
+            "neighbourhood_id":420538381,
             "region_id":85688481,
             "venue_id":387661787
         }
     ],
     "wof:id":387661787,
-    "wof:lastmodified":1449059504,
+    "wof:lastmodified":1454361102,
     "wof:name":"Bell Township Elementary School",
-    "wof:parent_id":-1,
+    "wof:parent_id":420538381,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +65,11 @@
         "elementary"
     ]
 },
-  "bbox": [-78.925084,40.965281,-78.925084,40.965281],
+  "bbox": [
+    -78.925084,
+    40.965281,
+    -78.925084,
+    40.965281
+],
   "geometry": {"coordinates":[-78.925084,40.965281],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387258373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.053596,40.465199,-80.053596,40.465199",
     "geom:latitude":40.465199,
     "geom:longitude":-80.053596,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6 River Rd",
     "sg:city":"Mc Kees Rocks",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85818229,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85818229
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"05b6efb63df45fe622c2e16df2620762",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85818229,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387258373,
-    "wof:lastmodified":1449059133,
+    "wof:lastmodified":1454360994,
     "wof:name":"Stat Courier",
     "wof:parent_id":85818229,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "courier"
     ]
 },
-  "bbox": [-80.053596,40.465199,-80.053596,40.465199],
+  "bbox": [
+    -80.053596,
+    40.465199,
+    -80.053596,
+    40.465199
+],
   "geometry": {"coordinates":[-80.053596,40.465199],"type":"Point"}
 }

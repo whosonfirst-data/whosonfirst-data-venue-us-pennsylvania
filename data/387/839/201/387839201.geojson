@@ -2,13 +2,14 @@
   "id": 387839201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.081486,42.097447,-80.081486,42.097447",
     "geom:latitude":42.097447,
     "geom:longitude":-80.081486,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3727 Peach St",
     "sg:city":"Erie",
     "sg:classifiers":[
@@ -89,11 +90,13 @@
     "sg:website":"http://www.walgreens.com/default.jsp?ec=iyp_yellowpages_trademark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85822031,
+        102191575,
+        404486673,
         85633793,
         101718253,
         102080955,
-        85822031
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -103,9 +106,10 @@
     "wof:geomhash":"89ead6017b757038755264966f6b17c2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080955,
+            "localadmin_id":404486673,
             "locality_id":101718253,
             "neighbourhood_id":85822031,
             "region_id":85688481,
@@ -113,7 +117,7 @@
         }
     ],
     "wof:id":387839201,
-    "wof:lastmodified":1449058390,
+    "wof:lastmodified":1454360768,
     "wof:name":"Walgreens Pharmacies",
     "wof:parent_id":85822031,
     "wof:placetype":"venue",
@@ -134,6 +138,11 @@
         "consumer"
     ]
 },
-  "bbox": [-80.081486,42.097447,-80.081486,42.097447],
+  "bbox": [
+    -80.081486,
+    42.097447,
+    -80.081486,
+    42.097447
+],
   "geometry": {"coordinates":[-80.081486,42.097447],"type":"Point"}
 }

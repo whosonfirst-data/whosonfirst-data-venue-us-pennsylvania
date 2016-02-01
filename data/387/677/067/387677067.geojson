@@ -2,13 +2,14 @@
   "id": 387677067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.913023,40.314159,-78.913023,40.314159",
     "geom:latitude":40.314159,
     "geom:longitude":-78.913023,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"85 Hickory St",
     "sg:city":"Johnstown",
     "sg:classifiers":[
@@ -37,7 +38,12 @@
     "sg:website":"http://www.autozone.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420537013,
+        102191575,
+        404485091,
         85633793,
+        101717763,
+        102080879,
         85688481
     ],
     "wof:breaches":[],
@@ -48,18 +54,20 @@
     "wof:geomhash":"5fc8c2b7dd478f563e8673998b89b633",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102080879,
+            "localadmin_id":404485091,
+            "locality_id":101717763,
+            "neighbourhood_id":420537013,
             "region_id":85688481,
             "venue_id":387677067
         }
     ],
     "wof:id":387677067,
-    "wof:lastmodified":1449057465,
+    "wof:lastmodified":1454359146,
     "wof:name":"AutoZone",
-    "wof:parent_id":-1,
+    "wof:parent_id":420537013,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -71,6 +79,11 @@
         "accessory"
     ]
 },
-  "bbox": [-78.913023,40.314159,-78.913023,40.314159],
+  "bbox": [
+    -78.913023,
+    40.314159,
+    -78.913023,
+    40.314159
+],
   "geometry": {"coordinates":[-78.913023,40.314159],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387229857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.875481,40.407809,-79.875481,40.407809",
     "geom:latitude":40.407809,
     "geom:longitude":-79.875481,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"16 Maple Way",
     "sg:city":"Braddock",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85851951,
+        102191575,
+        404482541,
         85633793,
         101718713,
         102080887,
-        85851951
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"b7e6a7c10fd0787da0d00f8c963a756e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482541,
             "locality_id":101718713,
             "neighbourhood_id":85851951,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387229857,
-    "wof:lastmodified":1449059146,
+    "wof:lastmodified":1454360997,
     "wof:name":"Just Sew Upholstery",
     "wof:parent_id":85851951,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "upholsterer"
     ]
 },
-  "bbox": [-79.875481,40.407809,-79.875481,40.407809],
-  "geometry": {"coordinates":[-79.875481,40.407809],"type":"Point"}
+  "bbox": [
+    -79.875481,
+    40.407809,
+    -79.875481,
+    40.407809
+],
+  "geometry": {"coordinates":[-79.87548099999999,40.407809],"type":"Point"}
 }

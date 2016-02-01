@@ -2,13 +2,14 @@
   "id": 387272915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.789742,40.43294,-79.789742,40.43294",
     "geom:latitude":40.43294,
     "geom:longitude":-79.789742,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"200 Mall Blvd",
     "sg:city":"Monroeville",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85838743,
+        102191575,
+        404484135,
         85633793,
         101718841,
         102080887,
-        85838743
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"b36e183715940c1cf1c057523585fefa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484135,
             "locality_id":101718841,
             "neighbourhood_id":85838743,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387272915,
-    "wof:lastmodified":1449059659,
+    "wof:lastmodified":1454361147,
     "wof:name":"Senior Information Station",
     "wof:parent_id":85838743,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "referral"
     ]
 },
-  "bbox": [-79.789742,40.43294,-79.789742,40.43294],
+  "bbox": [
+    -79.789742,
+    40.43294,
+    -79.789742,
+    40.43294
+],
   "geometry": {"coordinates":[-79.789742,40.43294],"type":"Point"}
 }

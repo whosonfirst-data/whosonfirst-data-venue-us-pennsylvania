@@ -2,13 +2,14 @@
   "id": 403893011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.839401,40.259102,-76.839401,40.259102",
     "geom:latitude":40.259102,
     "geom:longitude":-76.839401,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2911 Pike St",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -49,8 +50,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85868485
+        85868485,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,17 +61,15 @@
     "wof:geomhash":"7520b6e679c51b7f0a3e518f581580b8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85868485,
             "region_id":85688481,
             "venue_id":403893011
         }
     ],
     "wof:id":403893011,
-    "wof:lastmodified":1449055714,
+    "wof:lastmodified":1454357838,
     "wof:name":"Intrieri F C Construction Co",
     "wof:parent_id":85868485,
     "wof:placetype":"venue",
@@ -90,6 +89,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-76.839401,40.259102,-76.839401,40.259102],
+  "bbox": [
+    -76.839401,
+    40.259102,
+    -76.839401,
+    40.259102
+],
   "geometry": {"coordinates":[-76.839401,40.259102],"type":"Point"}
 }

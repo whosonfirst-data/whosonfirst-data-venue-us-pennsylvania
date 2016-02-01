@@ -2,13 +2,14 @@
   "id": 387764383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.463441,41.239476,-80.463441,41.239476",
     "geom:latitude":41.239476,
     "geom:longitude":-80.463441,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2500 Highland Rd Suite 104",
     "sg:city":"Hermitage",
     "sg:classifiers":[
@@ -45,11 +46,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85824773,
+        102191575,
+        404487983,
         85633793,
         101718107,
         102080965,
-        85824773
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,9 +62,10 @@
     "wof:geomhash":"55cc0bfb9f6ba5122d675767d4a46e7d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080965,
+            "localadmin_id":404487983,
             "locality_id":101718107,
             "neighbourhood_id":85824773,
             "region_id":85688481,
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":387764383,
-    "wof:lastmodified":1449059740,
+    "wof:lastmodified":1454361176,
     "wof:name":"Moder, William J. - William J. Moder, III",
     "wof:parent_id":85824773,
     "wof:placetype":"venue",
@@ -97,6 +101,11 @@
         "law"
     ]
 },
-  "bbox": [-80.463441,41.239476,-80.463441,41.239476],
+  "bbox": [
+    -80.463441,
+    41.239476,
+    -80.463441,
+    41.239476
+],
   "geometry": {"coordinates":[-80.463441,41.239476],"type":"Point"}
 }

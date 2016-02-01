@@ -2,13 +2,14 @@
   "id": 387102337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.320152,40.689758,-80.320152,40.689758",
     "geom:latitude":40.689758,
     "geom:longitude":-80.320152,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"300 S Walnut Ln Ste 400",
     "sg:city":"Beaver",
     "sg:classifiers":[
@@ -37,8 +38,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081323,
-        85827637
+        85827637,
+        102081323
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +49,15 @@
     "wof:geomhash":"e27ef875ad824de16b58748fdb09e3b8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081323,
-            "locality_id":-1,
             "neighbourhood_id":85827637,
             "region_id":85688481,
             "venue_id":387102337
         }
     ],
     "wof:id":387102337,
-    "wof:lastmodified":1449059632,
+    "wof:lastmodified":1454361141,
     "wof:name":"Brighton Hot Dog Shoppes",
     "wof:parent_id":85827637,
     "wof:placetype":"venue",
@@ -70,6 +69,11 @@
         "dog"
     ]
 },
-  "bbox": [-80.320152,40.689758,-80.320152,40.689758],
-  "geometry": {"coordinates":[-80.320152,40.689758],"type":"Point"}
+  "bbox": [
+    -80.320152,
+    40.689758,
+    -80.320152,
+    40.689758
+],
+  "geometry": {"coordinates":[-80.32015199999999,40.689758],"type":"Point"}
 }

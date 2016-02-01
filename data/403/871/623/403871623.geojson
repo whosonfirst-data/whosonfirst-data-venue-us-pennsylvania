@@ -2,13 +2,14 @@
   "id": 403871623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.817673,40.300129,-76.817673,40.300129",
     "geom:latitude":40.300129,
     "geom:longitude":-76.817673,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4511 Jonestown Rd Ste 1",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85829485
+        85829485,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"060dc83c37dabae61dd35b563feb9dec",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85829485,
             "region_id":85688481,
             "venue_id":403871623
         }
     ],
     "wof:id":403871623,
-    "wof:lastmodified":1449055060,
+    "wof:lastmodified":1454357448,
     "wof:name":"Woolf-Strite Associates Inc",
     "wof:parent_id":85829485,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "resume"
     ]
 },
-  "bbox": [-76.817673,40.300129,-76.817673,40.300129],
+  "bbox": [
+    -76.817673,
+    40.300129,
+    -76.817673,
+    40.300129
+],
   "geometry": {"coordinates":[-76.817673,40.300129],"type":"Point"}
 }

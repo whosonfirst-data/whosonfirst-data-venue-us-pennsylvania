@@ -2,13 +2,14 @@
   "id": 387856397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.584195,40.468966,-78.584195,40.468966",
     "geom:latitude":40.468966,
     "geom:longitude":-78.584195,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"432 Gallitzin Rd",
     "sg:city":"Cresson",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85825859,
+        102191575,
+        404482895,
         85633793,
         101717789,
         102080879,
-        85825859
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"48c007d810d7376065eed2f31c297fac",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080879,
+            "localadmin_id":404482895,
             "locality_id":101717789,
             "neighbourhood_id":85825859,
             "region_id":85688481,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":387856397,
-    "wof:lastmodified":1449057174,
+    "wof:lastmodified":1454358905,
     "wof:name":"53 Auto Sales",
     "wof:parent_id":85825859,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "cars-wholesale"
     ]
 },
-  "bbox": [-78.584195,40.468966,-78.584195,40.468966],
-  "geometry": {"coordinates":[-78.584195,40.468966],"type":"Point"}
+  "bbox": [
+    -78.584195,
+    40.468966,
+    -78.584195,
+    40.468966
+],
+  "geometry": {"coordinates":[-78.58419499999999,40.468966],"type":"Point"}
 }

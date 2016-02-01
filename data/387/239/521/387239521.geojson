@@ -2,13 +2,14 @@
   "id": 387239521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.222327,40.515355,-80.222327,40.515355",
     "geom:latitude":40.515355,
     "geom:longitude":-80.222327,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"7411 University Blvd # 2",
     "sg:city":"Coraopolis",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"http://www.hairaffair.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85809567,
+        102191575,
+        404484137,
         85633793,
         101720527,
         102080887,
-        85809567
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"5e359467511ed1499a807b382ec7d8ff",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484137,
             "locality_id":101720527,
             "neighbourhood_id":85809567,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387239521,
-    "wof:lastmodified":1449056477,
+    "wof:lastmodified":1454358385,
     "wof:name":"Hair Affair",
     "wof:parent_id":85809567,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "stylist"
     ]
 },
-  "bbox": [-80.222327,40.515355,-80.222327,40.515355],
-  "geometry": {"coordinates":[-80.222327,40.515355],"type":"Point"}
+  "bbox": [
+    -80.222327,
+    40.515355,
+    -80.222327,
+    40.515355
+],
+  "geometry": {"coordinates":[-80.22232700000001,40.515355],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387765929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.456369,41.198926,-80.456369,41.198926",
     "geom:latitude":41.198926,
     "geom:longitude":-80.456369,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2410 S Hermitage Rd",
     "sg:city":"Hermitage",
     "sg:classifiers":[
@@ -45,11 +46,13 @@
     "sg:website":"http://www.stihldealer.net/default-dealer-008556.aspx",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85824773,
+        102191575,
+        404487983,
         85633793,
         101718107,
         102080965,
-        85824773
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,9 +62,10 @@
     "wof:geomhash":"c647420fc2f8fd48115fda9ca590db52",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080965,
+            "localadmin_id":404487983,
             "locality_id":101718107,
             "neighbourhood_id":85824773,
             "region_id":85688481,
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":387765929,
-    "wof:lastmodified":1449058302,
+    "wof:lastmodified":1454360739,
     "wof:name":"M & R Power Equipment",
     "wof:parent_id":85824773,
     "wof:placetype":"venue",
@@ -86,6 +90,11 @@
         "saw"
     ]
 },
-  "bbox": [-80.456369,41.198926,-80.456369,41.198926],
+  "bbox": [
+    -80.456369,
+    41.198926,
+    -80.456369,
+    41.198926
+],
   "geometry": {"coordinates":[-80.456369,41.198926],"type":"Point"}
 }

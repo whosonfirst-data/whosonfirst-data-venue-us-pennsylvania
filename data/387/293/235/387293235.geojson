@@ -2,13 +2,14 @@
   "id": 387293235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.074501,40.4291,-80.074501,40.4291",
     "geom:latitude":40.4291,
     "geom:longitude":-80.074501,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"101 S Linwood Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85826735,
+        102191575,
+        404484879,
         85633793,
-        101718743,
+        101718739,
         102080887,
-        85826735
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"13d6b658c12f106b9d9af4082162e6c6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":101718743,
+            "localadmin_id":404484879,
+            "locality_id":101718739,
             "neighbourhood_id":85826735,
             "region_id":85688481,
             "venue_id":387293235
         }
     ],
     "wof:id":387293235,
-    "wof:lastmodified":1449056846,
+    "wof:lastmodified":1454358650,
     "wof:name":"Biggert Manor",
     "wof:parent_id":85826735,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-80.074501,40.4291,-80.074501,40.4291],
+  "bbox": [
+    -80.074501,
+    40.4291,
+    -80.074501,
+    40.4291
+],
   "geometry": {"coordinates":[-80.074501,40.4291],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387322397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.001999,40.454601,-80.001999,40.454601",
     "geom:latitude":40.454601,
     "geom:longitude":-80.001999,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"814 Cedar Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"www.drjohnrohm.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85815883,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85815883
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"78909a86edde0ced6be0f9a4a857eb41",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85815883,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387322397,
-    "wof:lastmodified":1449056073,
+    "wof:lastmodified":1454358063,
     "wof:name":"Rohm Theo L Jr DDS",
     "wof:parent_id":85815883,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "oral"
     ]
 },
-  "bbox": [-80.001999,40.454601,-80.001999,40.454601],
+  "bbox": [
+    -80.001999,
+    40.454601,
+    -80.001999,
+    40.454601
+],
   "geometry": {"coordinates":[-80.001999,40.454601],"type":"Point"}
 }

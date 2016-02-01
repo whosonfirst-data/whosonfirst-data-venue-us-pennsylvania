@@ -2,13 +2,14 @@
   "id": 387623751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.481009,40.297435,-79.481009,40.297435",
     "geom:latitude":40.297435,
     "geom:longitude":-79.481009,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6 Oakley Park",
     "sg:city":"Greensburg",
     "sg:classifiers":[
@@ -42,8 +43,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081383,
-        85814893
+        85814893,
+        102081383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,17 +54,15 @@
     "wof:geomhash":"e97db653540230b9799256e1e628fa8e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":-1,
             "neighbourhood_id":85814893,
             "region_id":85688481,
             "venue_id":387623751
         }
     ],
     "wof:id":387623751,
-    "wof:lastmodified":1449058779,
+    "wof:lastmodified":1454360878,
     "wof:name":"Signs In 1 Day",
     "wof:parent_id":85814893,
     "wof:placetype":"venue",
@@ -76,6 +75,11 @@
         "pennant"
     ]
 },
-  "bbox": [-79.481009,40.297435,-79.481009,40.297435],
+  "bbox": [
+    -79.481009,
+    40.297435,
+    -79.481009,
+    40.297435
+],
   "geometry": {"coordinates":[-79.481009,40.297435],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387272581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.770738,40.438556,-79.770738,40.438556",
     "geom:latitude":40.438556,
     "geom:longitude":-79.770738,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4010 William Penn Hwy",
     "sg:city":"Monroeville",
     "sg:classifiers":[
@@ -63,11 +64,13 @@
     "sg:website":"http://www.fedex.com/Dropoff/start?FY11-FXO-YELLOWPAGES",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85821019,
+        102191575,
+        404484135,
         85633793,
         101718841,
         102080887,
-        85821019
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,9 +80,10 @@
     "wof:geomhash":"e00c753b3969eeaabcedb291f9d8f0c4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484135,
             "locality_id":101718841,
             "neighbourhood_id":85821019,
             "region_id":85688481,
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":387272581,
-    "wof:lastmodified":1449059657,
+    "wof:lastmodified":1454361147,
     "wof:name":"FedEx Office Print & Ship Center",
     "wof:parent_id":85821019,
     "wof:placetype":"venue",
@@ -107,6 +111,11 @@
         "copy"
     ]
 },
-  "bbox": [-79.770738,40.438556,-79.770738,40.438556],
-  "geometry": {"coordinates":[-79.770738,40.438556],"type":"Point"}
+  "bbox": [
+    -79.770738,
+    40.438556,
+    -79.770738,
+    40.438556
+],
+  "geometry": {"coordinates":[-79.77073799999999,40.438556],"type":"Point"}
 }

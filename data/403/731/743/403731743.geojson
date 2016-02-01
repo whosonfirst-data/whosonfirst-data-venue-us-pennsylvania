@@ -2,13 +2,14 @@
   "id": 403731743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.430812,40.345292,-76.430812,40.345292",
     "geom:latitude":40.345292,
     "geom:longitude":-76.430812,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1127 Lehman St Apt 2",
     "sg:city":"Lebanon",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420538695,
+        102191575,
+        404485699,
         85633793,
         101717093,
-        102081341
+        102081341,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"6a5debf0b51b1a4a828656e1ed78449b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081341,
+            "localadmin_id":404485699,
             "locality_id":101717093,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420538695,
             "region_id":85688481,
             "venue_id":403731743
         }
     ],
     "wof:id":403731743,
-    "wof:lastmodified":1449055821,
+    "wof:lastmodified":1454357892,
     "wof:name":"Bargain Pc Repair",
-    "wof:parent_id":-1,
+    "wof:parent_id":420538695,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "handyman"
     ]
 },
-  "bbox": [-76.430812,40.345292,-76.430812,40.345292],
+  "bbox": [
+    -76.430812,
+    40.345292,
+    -76.430812,
+    40.345292
+],
   "geometry": {"coordinates":[-76.430812,40.345292],"type":"Point"}
 }

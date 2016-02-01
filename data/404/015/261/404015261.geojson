@@ -2,13 +2,14 @@
   "id": 404015261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.700403,39.910725,-76.700403,39.910725",
     "geom:latitude":39.910725,
     "geom:longitude":-76.700403,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"183 Leaders Heights Rd",
     "sg:city":"York",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420540339,
+        102191575,
+        404488031,
         85633793,
-        101719481,
-        102080953
+        101719457,
+        102080953,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"dda1dbd609d0f360c1515eace6c663cb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":101719481,
-            "neighbourhood_id":-1,
+            "localadmin_id":404488031,
+            "locality_id":101719457,
+            "neighbourhood_id":420540339,
             "region_id":85688481,
             "venue_id":404015261
         }
     ],
     "wof:id":404015261,
-    "wof:lastmodified":1449039330,
+    "wof:lastmodified":1454356572,
     "wof:name":"Volunteer Firemen's Insurance Service Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420540339,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "business"
     ]
 },
-  "bbox": [-76.700403,39.910725,-76.700403,39.910725],
-  "geometry": {"coordinates":[-76.700403,39.910725],"type":"Point"}
+  "bbox": [
+    -76.700403,
+    39.910725,
+    -76.700403,
+    39.910725
+],
+  "geometry": {"coordinates":[-76.70040299999999,39.910725],"type":"Point"}
 }

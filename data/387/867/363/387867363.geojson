@@ -2,13 +2,14 @@
   "id": 387867363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.669956,41.990098,-78.669956,41.990098",
     "geom:latitude":41.990098,
     "geom:longitude":-78.669956,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"802 Bolivar Dr",
     "sg:city":"Bradford",
     "sg:classifiers":[
@@ -32,8 +33,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080951,
-        85824425
+        85824425,
+        102080951
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +44,15 @@
     "wof:geomhash":"17c02a6ee44b0784931a732c7400db9b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080951,
-            "locality_id":-1,
             "neighbourhood_id":85824425,
             "region_id":85688481,
             "venue_id":387867363
         }
     ],
     "wof:id":387867363,
-    "wof:lastmodified":1449057754,
+    "wof:lastmodified":1454360582,
     "wof:name":"Mallerys Auto Body Inc",
     "wof:parent_id":85824425,
     "wof:placetype":"venue",
@@ -66,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-78.669956,41.990098,-78.669956,41.990098],
+  "bbox": [
+    -78.669956,
+    41.990098,
+    -78.669956,
+    41.990098
+],
   "geometry": {"coordinates":[-78.669956,41.990098],"type":"Point"}
 }

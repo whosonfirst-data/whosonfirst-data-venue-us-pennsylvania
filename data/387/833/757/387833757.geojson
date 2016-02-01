@@ -2,13 +2,14 @@
   "id": 387833757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.118574,42.082962,-80.118574,42.082962",
     "geom:latitude":42.082962,
     "geom:longitude":-80.118574,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4807 Atlantic Ave",
     "sg:city":"Erie",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85818215,
+        102191575,
+        404486673,
         85633793,
         101718253,
         102080955,
-        85818215
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"281a31139c0439b18f3655e876c362b0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080955,
+            "localadmin_id":404486673,
             "locality_id":101718253,
             "neighbourhood_id":85818215,
             "region_id":85688481,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":387833757,
-    "wof:lastmodified":1449056596,
+    "wof:lastmodified":1454358468,
     "wof:name":"Control Design Inc",
     "wof:parent_id":85818215,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.118574,42.082962,-80.118574,42.082962],
+  "bbox": [
+    -80.118574,
+    42.082962,
+    -80.118574,
+    42.082962
+],
   "geometry": {"coordinates":[-80.118574,42.082962],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387622757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.462517,40.338646,-79.462517,40.338646",
     "geom:latitude":40.338646,
     "geom:longitude":-79.462517,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"312 Bovard Luxor Rd",
     "sg:city":"Greensburg",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081383,
-        85850381
+        85850381,
+        102081383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"fb615cf5e7bd085f5425c1cbb28f6e4c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":-1,
             "neighbourhood_id":85850381,
             "region_id":85688481,
             "venue_id":387622757
         }
     ],
     "wof:id":387622757,
-    "wof:lastmodified":1449059236,
+    "wof:lastmodified":1454361017,
     "wof:name":"Larry Sullenberger",
     "wof:parent_id":85850381,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "attorney"
     ]
 },
-  "bbox": [-79.462517,40.338646,-79.462517,40.338646],
-  "geometry": {"coordinates":[-79.462517,40.338646],"type":"Point"}
+  "bbox": [
+    -79.462517,
+    40.338646,
+    -79.462517,
+    40.338646
+],
+  "geometry": {"coordinates":[-79.46251700000001,40.338646],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387618277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.496513,40.302346,-79.496513,40.302346",
     "geom:latitude":40.302346,
     "geom:longitude":-79.496513,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1125 E Pittsburgh St",
     "sg:city":"Greensburg",
     "sg:classifiers":[
@@ -42,8 +43,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081383,
-        85851151
+        85851151,
+        102081383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,17 +54,15 @@
     "wof:geomhash":"31aceb03b21a8fc019f93809326e1c13",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":-1,
             "neighbourhood_id":85851151,
             "region_id":85688481,
             "venue_id":387618277
         }
     ],
     "wof:id":387618277,
-    "wof:lastmodified":1449058470,
+    "wof:lastmodified":1454360793,
     "wof:name":"Pep Boys 0218 Greensburg DBA/Budget Truck Rental",
     "wof:parent_id":85851151,
     "wof:placetype":"venue",
@@ -75,6 +74,11 @@
         "moving"
     ]
 },
-  "bbox": [-79.496513,40.302346,-79.496513,40.302346],
-  "geometry": {"coordinates":[-79.496513,40.302346],"type":"Point"}
+  "bbox": [
+    -79.496513,
+    40.302346,
+    -79.496513,
+    40.302346
+],
+  "geometry": {"coordinates":[-79.49651299999999,40.302346],"type":"Point"}
 }

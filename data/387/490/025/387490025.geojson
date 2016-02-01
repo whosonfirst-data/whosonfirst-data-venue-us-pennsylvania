@@ -2,13 +2,14 @@
   "id": 387490025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.972096,40.336292,-79.972096,40.336292",
     "geom:latitude":40.336292,
     "geom:longitude":-79.972096,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"270 Curry Hollow Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85813247,
+        102191575,
+        404484163,
         85633793,
         101718803,
         102080887,
-        85813247
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"acb5b10e8849241f77ae3e35661a09ba",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484163,
             "locality_id":101718803,
             "neighbourhood_id":85813247,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387490025,
-    "wof:lastmodified":1449059529,
+    "wof:lastmodified":1454361109,
     "wof:name":"American Bodybuilding Pa West, Inc.",
     "wof:parent_id":85813247,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "diet"
     ]
 },
-  "bbox": [-79.972096,40.336292,-79.972096,40.336292],
-  "geometry": {"coordinates":[-79.972096,40.336292],"type":"Point"}
+  "bbox": [
+    -79.972096,
+    40.336292,
+    -79.972096,
+    40.336292
+],
+  "geometry": {"coordinates":[-79.97209599999999,40.336292],"type":"Point"}
 }

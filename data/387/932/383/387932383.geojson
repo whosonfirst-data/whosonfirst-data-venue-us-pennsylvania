@@ -2,13 +2,14 @@
   "id": 387932383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.1819,40.223999,-77.1819,40.223999",
     "geom:latitude":40.223999,
     "geom:longitude":-77.1819,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1700 Spring Rd",
     "sg:city":"Carlisle",
     "sg:classifiers":[
@@ -38,11 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85865395,
+        102191575,
+        404486423,
         85633793,
         101719085,
         102081359,
-        85865395
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,9 +55,10 @@
     "wof:geomhash":"467e11034806858174100c9d5227f202",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081359,
+            "localadmin_id":404486423,
             "locality_id":101719085,
             "neighbourhood_id":85865395,
             "region_id":85688481,
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":387932383,
-    "wof:lastmodified":1449057516,
+    "wof:lastmodified":1454360159,
     "wof:name":"Kwik Way Market",
     "wof:parent_id":85865395,
     "wof:placetype":"venue",
@@ -73,6 +77,11 @@
         "caterer"
     ]
 },
-  "bbox": [-77.1819,40.223999,-77.1819,40.223999],
+  "bbox": [
+    -77.1819,
+    40.223999,
+    -77.1819,
+    40.223999
+],
   "geometry": {"coordinates":[-77.1819,40.223999],"type":"Point"}
 }

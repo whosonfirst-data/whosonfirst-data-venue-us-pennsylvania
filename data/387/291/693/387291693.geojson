@@ -2,13 +2,14 @@
   "id": 387291693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.068783,40.435806,-80.068783,40.435806",
     "geom:latitude":40.435806,
     "geom:longitude":-80.068783,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"328 Crennell Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85826735,
+        102191575,
+        404484879,
         85633793,
-        101718743,
+        101718739,
         102080887,
-        85826735
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"bb120d9250c331ab61e7394acb64b25b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":101718743,
+            "localadmin_id":404484879,
+            "locality_id":101718739,
             "neighbourhood_id":85826735,
             "region_id":85688481,
             "venue_id":387291693
         }
     ],
     "wof:id":387291693,
-    "wof:lastmodified":1449057269,
+    "wof:lastmodified":1454358980,
     "wof:name":"Crafton Servicenter",
     "wof:parent_id":85826735,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "towing"
     ]
 },
-  "bbox": [-80.068783,40.435806,-80.068783,40.435806],
+  "bbox": [
+    -80.068783,
+    40.435806,
+    -80.068783,
+    40.435806
+],
   "geometry": {"coordinates":[-80.068783,40.435806],"type":"Point"}
 }

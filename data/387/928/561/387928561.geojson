@@ -2,13 +2,14 @@
   "id": 387928561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.189364,40.216474,-77.189364,40.216474",
     "geom:latitude":40.216474,
     "geom:longitude":-77.189364,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1317 N Pitt St",
     "sg:city":"Carlisle",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85865395,
+        102191575,
+        404486423,
         85633793,
         101719085,
         102081359,
-        85865395
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"a85256858cb436e27e6bc6022dd4d66a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081359,
+            "localadmin_id":404486423,
             "locality_id":101719085,
             "neighbourhood_id":85865395,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387928561,
-    "wof:lastmodified":1449059395,
+    "wof:lastmodified":1454361068,
     "wof:name":"Ceramic Tile",
     "wof:parent_id":85865395,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "tile-contractors"
     ]
 },
-  "bbox": [-77.189364,40.216474,-77.189364,40.216474],
+  "bbox": [
+    -77.189364,
+    40.216474,
+    -77.189364,
+    40.216474
+],
   "geometry": {"coordinates":[-77.189364,40.216474],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387939691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.206859,40.215402,-77.206859,40.215402",
     "geom:latitude":40.215402,
     "geom:longitude":-77.206859,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"950 Waggoners Gap Rd",
     "sg:city":"Carlisle",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85865395,
+        102191575,
+        404486423,
         85633793,
         101719085,
         102081359,
-        85865395
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"58c9a2736783ff72e28d2d08ed0a8730",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081359,
+            "localadmin_id":404486423,
             "locality_id":101719085,
             "neighbourhood_id":85865395,
             "region_id":85688481,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":387939691,
-    "wof:lastmodified":1449057215,
+    "wof:lastmodified":1454358929,
     "wof:name":"Burger King",
     "wof:parent_id":85865395,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.206859,40.215402,-77.206859,40.215402],
-  "geometry": {"coordinates":[-77.206859,40.215402],"type":"Point"}
+  "bbox": [
+    -77.206859,
+    40.215402,
+    -77.206859,
+    40.215402
+],
+  "geometry": {"coordinates":[-77.20685899999999,40.215402],"type":"Point"}
 }

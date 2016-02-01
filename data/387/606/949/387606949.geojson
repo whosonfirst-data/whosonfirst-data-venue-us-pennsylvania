@@ -2,13 +2,14 @@
   "id": 387606949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.524729,40.096443,-78.524729,40.096443",
     "geom:latitude":40.096443,
     "geom:longitude":-78.524729,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5989 Business 220",
     "sg:city":"Bedford",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080939,
-        85810303
+        85810303,
+        102080939
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"bcb66e9e9053043dde3bf1a57d112efc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080939,
-            "locality_id":-1,
             "neighbourhood_id":85810303,
             "region_id":85688481,
             "venue_id":387606949
         }
     ],
     "wof:id":387606949,
-    "wof:lastmodified":1449056692,
+    "wof:lastmodified":1454358541,
     "wof:name":"St Johns Christian Church",
     "wof:parent_id":85810303,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "church"
     ]
 },
-  "bbox": [-78.524729,40.096443,-78.524729,40.096443],
-  "geometry": {"coordinates":[-78.524729,40.096443],"type":"Point"}
+  "bbox": [
+    -78.524729,
+    40.096443,
+    -78.524729,
+    40.096443
+],
+  "geometry": {"coordinates":[-78.52472899999999,40.096443],"type":"Point"}
 }

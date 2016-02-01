@@ -2,13 +2,14 @@
   "id": 404045029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.264177,39.795971,-76.264177,39.795971",
     "geom:latitude":39.795971,
     "geom:longitude":-76.264177,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1912 Susquehannock Dr",
     "sg:city":"Drumore",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85819165
+        85819165,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"53fff62b7ae03f1dc094dd24f356bd28",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85819165,
             "region_id":85688481,
             "venue_id":404045029
         }
     ],
     "wof:id":404045029,
-    "wof:lastmodified":1449040180,
+    "wof:lastmodified":1454357047,
     "wof:name":"Ab Hardscape",
     "wof:parent_id":85819165,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-76.264177,39.795971,-76.264177,39.795971],
+  "bbox": [
+    -76.264177,
+    39.795971,
+    -76.264177,
+    39.795971
+],
   "geometry": {"coordinates":[-76.264177,39.795971],"type":"Point"}
 }

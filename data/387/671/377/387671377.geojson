@@ -2,13 +2,14 @@
   "id": 387671377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.761403,41.435866,-78.761403,41.435866",
     "geom:latitude":41.435866,
     "geom:longitude":-78.761403,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4084 Grant Rd",
     "sg:city":"Ridgway",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081265,
-        85809505
+        85809505,
+        102081265
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"e8853916696781f8fb5066834386479a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081265,
-            "locality_id":-1,
             "neighbourhood_id":85809505,
             "region_id":85688481,
             "venue_id":387671377
         }
     ],
     "wof:id":387671377,
-    "wof:lastmodified":1449056983,
+    "wof:lastmodified":1454358747,
     "wof:name":"K.J. Construction, Inc.",
     "wof:parent_id":85809505,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-78.761403,41.435866,-78.761403,41.435866],
+  "bbox": [
+    -78.761403,
+    41.435866,
+    -78.761403,
+    41.435866
+],
   "geometry": {"coordinates":[-78.761403,41.435866],"type":"Point"}
 }

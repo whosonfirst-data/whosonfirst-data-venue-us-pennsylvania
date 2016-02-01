@@ -2,13 +2,14 @@
   "id": 387327147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.008698,40.470901,-80.008698,40.470901",
     "geom:latitude":40.470901,
     "geom:longitude":-80.008698,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2960 N Charles St",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85873561,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85873561
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"2ab4966fa385f11f355d759e49bd8f7f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85873561,
             "region_id":85688481,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":387327147,
-    "wof:lastmodified":1449056397,
+    "wof:lastmodified":1454358316,
     "wof:name":"Edwards Floyd Lee",
     "wof:parent_id":85873561,
     "wof:placetype":"venue",
@@ -68,6 +72,11 @@
         "store"
     ]
 },
-  "bbox": [-80.008698,40.470901,-80.008698,40.470901],
+  "bbox": [
+    -80.008698,
+    40.470901,
+    -80.008698,
+    40.470901
+],
   "geometry": {"coordinates":[-80.008698,40.470901],"type":"Point"}
 }

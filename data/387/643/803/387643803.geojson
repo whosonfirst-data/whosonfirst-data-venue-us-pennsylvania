@@ -2,13 +2,14 @@
   "id": 387643803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.605008,40.604076,-79.605008,40.604076",
     "geom:latitude":40.604076,
     "geom:longitude":-79.605008,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"451 Hyde Park Rd",
     "sg:city":"Leechburg",
     "sg:classifiers":[
@@ -51,8 +52,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081383,
-        85822365
+        85822365,
+        102081383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,17 +63,15 @@
     "wof:geomhash":"0e07f99ac64314d300df0d33fe38db17",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":-1,
             "neighbourhood_id":85822365,
             "region_id":85688481,
             "venue_id":387643803
         }
     ],
     "wof:id":387643803,
-    "wof:lastmodified":1449059419,
+    "wof:lastmodified":1454361075,
     "wof:name":"T-Mobile",
     "wof:parent_id":85822365,
     "wof:placetype":"venue",
@@ -88,6 +87,11 @@
         "cellular"
     ]
 },
-  "bbox": [-79.605008,40.604076,-79.605008,40.604076],
+  "bbox": [
+    -79.605008,
+    40.604076,
+    -79.605008,
+    40.604076
+],
   "geometry": {"coordinates":[-79.605008,40.604076],"type":"Point"}
 }

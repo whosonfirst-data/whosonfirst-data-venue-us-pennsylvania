@@ -2,13 +2,14 @@
   "id": 404115803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.306113,41.243461,-76.306113,41.243461",
     "geom:latitude":41.243461,
     "geom:longitude":-76.306113,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"76 Ferry Carrig Rd",
     "sg:city":"Benton",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081351,
-        85840899
+        85840899,
+        102081351
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"cf072abba48aab2be4a02aab96beb007",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081351,
-            "locality_id":-1,
             "neighbourhood_id":85840899,
             "region_id":85688481,
             "venue_id":404115803
         }
     ],
     "wof:id":404115803,
-    "wof:lastmodified":1449039082,
+    "wof:lastmodified":1454356409,
     "wof:name":"Tanament Stables",
     "wof:parent_id":85840899,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "horse"
     ]
 },
-  "bbox": [-76.306113,41.243461,-76.306113,41.243461],
+  "bbox": [
+    -76.306113,
+    41.243461,
+    -76.306113,
+    41.243461
+],
   "geometry": {"coordinates":[-76.306113,41.243461],"type":"Point"}
 }

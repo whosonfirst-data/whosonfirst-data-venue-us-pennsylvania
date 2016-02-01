@@ -2,13 +2,14 @@
   "id": 387489399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.964764,40.340409,-79.964764,40.340409",
     "geom:latitude":40.340409,
     "geom:longitude":-79.964764,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"10 Old Clairton Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[],
@@ -18,11 +19,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85839661,
+        102191575,
+        404484247,
         85633793,
         101718705,
         102080887,
-        85839661
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -32,9 +35,10 @@
     "wof:geomhash":"7b0eb73dc578e32bb9f3786029160382",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484247,
             "locality_id":101718705,
             "neighbourhood_id":85839661,
             "region_id":85688481,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":387489399,
-    "wof:lastmodified":1449058189,
+    "wof:lastmodified":1454360705,
     "wof:name":"Manalt Gifts",
     "wof:parent_id":85839661,
     "wof:placetype":"venue",
@@ -50,6 +54,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.964764,40.340409,-79.964764,40.340409],
+  "bbox": [
+    -79.964764,
+    40.340409,
+    -79.964764,
+    40.340409
+],
   "geometry": {"coordinates":[-79.964764,40.340409],"type":"Point"}
 }

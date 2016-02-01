@@ -2,13 +2,14 @@
   "id": 387750175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.223439,41.357743,-80.223439,41.357743",
     "geom:latitude":41.357743,
     "geom:longitude":-80.223439,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1989 Perry Hwy",
     "sg:city":"Fredonia",
     "sg:classifiers":[
@@ -39,8 +40,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080965,
-        85819507
+        85819507,
+        102080965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,17 +51,15 @@
     "wof:geomhash":"3eb6fccaafcf24c8bcb2cb7dec0f8b3c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080965,
-            "locality_id":-1,
             "neighbourhood_id":85819507,
             "region_id":85688481,
             "venue_id":387750175
         }
     ],
     "wof:id":387750175,
-    "wof:lastmodified":1449058402,
+    "wof:lastmodified":1454360772,
     "wof:name":"M & M Construction",
     "wof:parent_id":85819507,
     "wof:placetype":"venue",
@@ -75,6 +74,11 @@
         "siding"
     ]
 },
-  "bbox": [-80.223439,41.357743,-80.223439,41.357743],
+  "bbox": [
+    -80.223439,
+    41.357743,
+    -80.223439,
+    41.357743
+],
   "geometry": {"coordinates":[-80.223439,41.357743],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387775759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.396988,41.190109,-79.396988,41.190109",
     "geom:latitude":41.190109,
     "geom:longitude":-79.396988,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1 Hospital Dr",
     "sg:city":"Clarion",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081389,
-        85857843
+        85857843,
+        102081389
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"150374d86360490fb466cbc3841458cc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081389,
-            "locality_id":-1,
             "neighbourhood_id":85857843,
             "region_id":85688481,
             "venue_id":387775759
         }
     ],
     "wof:id":387775759,
-    "wof:lastmodified":1449058920,
+    "wof:lastmodified":1454360927,
     "wof:name":"Stat Medevac 6",
     "wof:parent_id":85857843,
     "wof:placetype":"venue",
@@ -64,6 +63,11 @@
         "rental"
     ]
 },
-  "bbox": [-79.396988,41.190109,-79.396988,41.190109],
-  "geometry": {"coordinates":[-79.396988,41.190109],"type":"Point"}
+  "bbox": [
+    -79.396988,
+    41.190109,
+    -79.396988,
+    41.190109
+],
+  "geometry": {"coordinates":[-79.39698799999999,41.190109],"type":"Point"}
 }

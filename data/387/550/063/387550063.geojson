@@ -2,13 +2,14 @@
   "id": 387550063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.19168,40.258317,-80.19168,40.258317",
     "geom:latitude":40.258317,
     "geom:longitude":-80.19168,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"148 W Pike St",
     "sg:city":"Canonsburg",
     "sg:classifiers":[
@@ -41,7 +42,6 @@
     "wof:geomhash":"7c661dc848769ba59514d8fd6ddfaaee",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081343,
             "locality_id":101718543,
@@ -51,7 +51,7 @@
         }
     ],
     "wof:id":387550063,
-    "wof:lastmodified":1449058167,
+    "wof:lastmodified":1454360700,
     "wof:name":"Santorini",
     "wof:parent_id":85854913,
     "wof:placetype":"venue",
@@ -61,6 +61,11 @@
         "greek"
     ]
 },
-  "bbox": [-80.19168,40.258317,-80.19168,40.258317],
-  "geometry": {"coordinates":[-80.19168,40.258317],"type":"Point"}
+  "bbox": [
+    -80.19168,
+    40.258317,
+    -80.19168,
+    40.258317
+],
+  "geometry": {"coordinates":[-80.19168000000001,40.258317],"type":"Point"}
 }

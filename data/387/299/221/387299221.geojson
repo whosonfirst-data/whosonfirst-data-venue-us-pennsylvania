@@ -2,13 +2,14 @@
   "id": 387299221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.090089,40.439964,-80.090089,40.439964",
     "geom:latitude":40.439964,
     "geom:longitude":-80.090089,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4250 Steubenville Pike",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -38,8 +39,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85818823
+        85818823,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +50,15 @@
     "wof:geomhash":"513ea79d122a81f0bbb6335fb37a8891",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85818823,
             "region_id":85688481,
             "venue_id":387299221
         }
     ],
     "wof:id":387299221,
-    "wof:lastmodified":1449057070,
+    "wof:lastmodified":1454358812,
     "wof:name":"Empire Investigation & Security",
     "wof:parent_id":85818823,
     "wof:placetype":"venue",
@@ -72,6 +71,11 @@
         "courier"
     ]
 },
-  "bbox": [-80.090089,40.439964,-80.090089,40.439964],
-  "geometry": {"coordinates":[-80.090089,40.439964],"type":"Point"}
+  "bbox": [
+    -80.090089,
+    40.439964,
+    -80.090089,
+    40.439964
+],
+  "geometry": {"coordinates":[-80.09008900000001,40.439964],"type":"Point"}
 }

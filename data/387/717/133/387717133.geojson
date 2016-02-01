@@ -2,13 +2,14 @@
   "id": 387717133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.060124,40.685501,-80.060124,40.685501",
     "geom:latitude":40.685501,
     "geom:longitude":-80.060124,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"409 Brookside Crt",
     "sg:city":"Seven Fields",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"www.factotumtech.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85824601,
+        102191575,
+        404485077,
         85633793,
         101720147,
         102083677,
-        85824601
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"e6e5e8d066062d4e8fcc1c94c2348bf3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083677,
+            "localadmin_id":404485077,
             "locality_id":101720147,
             "neighbourhood_id":85824601,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387717133,
-    "wof:lastmodified":1449056221,
+    "wof:lastmodified":1454358174,
     "wof:name":"Factotum Tech",
     "wof:parent_id":85824601,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "repair"
     ]
 },
-  "bbox": [-80.060124,40.685501,-80.060124,40.685501],
+  "bbox": [
+    -80.060124,
+    40.685501,
+    -80.060124,
+    40.685501
+],
   "geometry": {"coordinates":[-80.060124,40.685501],"type":"Point"}
 }

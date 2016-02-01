@@ -2,13 +2,14 @@
   "id": 387367383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.995937,40.440749,-79.995937,40.440749",
     "geom:latitude":40.440749,
     "geom:longitude":-79.995937,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"600 Grant St Rm 444",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     "sg:website":"www.us-japan.org/jasp/index.htm",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85873585,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85873585
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"767ba62fa2ad038c4c9bae0649239b8d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85873585,
             "region_id":85688481,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":387367383,
-    "wof:lastmodified":1449058355,
+    "wof:lastmodified":1454360753,
     "wof:name":"Japan-America Society of Pennsylvania",
     "wof:parent_id":85873585,
     "wof:placetype":"venue",
@@ -69,6 +73,11 @@
         "event"
     ]
 },
-  "bbox": [-79.995937,40.440749,-79.995937,40.440749],
+  "bbox": [
+    -79.995937,
+    40.440749,
+    -79.995937,
+    40.440749
+],
   "geometry": {"coordinates":[-79.995937,40.440749],"type":"Point"}
 }

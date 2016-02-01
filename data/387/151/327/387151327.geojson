@@ -2,13 +2,14 @@
   "id": 387151327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.943527,40.62162,-79.943527,40.62162",
     "geom:latitude":40.62162,
     "geom:longitude":-79.943527,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5422 William Flynn Hwy",
     "sg:city":"Gibsonia",
     "sg:classifiers":[
@@ -53,7 +54,12 @@
     "sg:website":"http://www.betterlivingpatiospgh.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420536325,
+        102191575,
+        404484173,
         85633793,
+        101720497,
+        102080887,
         85688481
     ],
     "wof:breaches":[],
@@ -64,18 +70,20 @@
     "wof:geomhash":"f101d32479cfda91b87841f9ea166c58",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102080887,
+            "localadmin_id":404484173,
+            "locality_id":101720497,
+            "neighbourhood_id":420536325,
             "region_id":85688481,
             "venue_id":387151327
         }
     ],
     "wof:id":387151327,
-    "wof:lastmodified":1449056158,
+    "wof:lastmodified":1454358126,
     "wof:name":"Betterliving Patio Rooms",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536325,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -93,6 +101,11 @@
         "patio"
     ]
 },
-  "bbox": [-79.943527,40.62162,-79.943527,40.62162],
+  "bbox": [
+    -79.943527,
+    40.62162,
+    -79.943527,
+    40.62162
+],
   "geometry": {"coordinates":[-79.943527,40.62162],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403778029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.12748,40.5163,-77.12748,40.5163",
     "geom:latitude":40.5163,
     "geom:longitude":-77.12748,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"100 Owl Hollow Rd",
     "sg:city":"Millerstown",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080963,
-        85827701
+        85827701,
+        102080963
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"6da486818ab39395f2ff9c16c8416a4d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080963,
-            "locality_id":-1,
             "neighbourhood_id":85827701,
             "region_id":85688481,
             "venue_id":403778029
         }
     ],
     "wof:id":403778029,
-    "wof:lastmodified":1449054650,
+    "wof:lastmodified":1454357192,
     "wof:name":"Shallenberger Lumber Co",
     "wof:parent_id":85827701,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "sawmill"
     ]
 },
-  "bbox": [-77.12748,40.5163,-77.12748,40.5163],
-  "geometry": {"coordinates":[-77.12748,40.5163],"type":"Point"}
+  "bbox": [
+    -77.12748,
+    40.5163,
+    -77.12748,
+    40.5163
+],
+  "geometry": {"coordinates":[-77.12748000000001,40.5163],"type":"Point"}
 }

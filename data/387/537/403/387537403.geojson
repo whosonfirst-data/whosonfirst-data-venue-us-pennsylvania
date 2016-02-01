@@ -2,13 +2,14 @@
   "id": 387537403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.215302,40.188702,-80.215302,40.188702",
     "geom:latitude":40.188702,
     "geom:longitude":-80.215302,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"460 Washington Rd",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081343,
-        85832105
+        85832105,
+        102081343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"714666ed2f5a8b08165bf5456b02e468",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081343,
-            "locality_id":-1,
             "neighbourhood_id":85832105,
             "region_id":85688481,
             "venue_id":387537403
         }
     ],
     "wof:id":387537403,
-    "wof:lastmodified":1449057040,
+    "wof:lastmodified":1454358791,
     "wof:name":"First Federal of Greene County",
     "wof:parent_id":85832105,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-80.215302,40.188702,-80.215302,40.188702],
-  "geometry": {"coordinates":[-80.215302,40.188702],"type":"Point"}
+  "bbox": [
+    -80.215302,
+    40.188702,
+    -80.215302,
+    40.188702
+],
+  "geometry": {"coordinates":[-80.21530199999999,40.188702],"type":"Point"}
 }

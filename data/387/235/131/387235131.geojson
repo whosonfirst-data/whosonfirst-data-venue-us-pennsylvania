@@ -2,13 +2,14 @@
   "id": 387235131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.086626,40.409297,-80.086626,40.409297",
     "geom:latitude":40.409297,
     "geom:longitude":-80.086626,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"104 Broadway St",
     "sg:city":"Carnegie",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"http://www.breenes.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85821875,
+        102191575,
+        404484865,
         85633793,
         101718775,
         102080887,
-        85821875
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"8401e86f15530b1b3fd35a3908bdb19b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484865,
             "locality_id":101718775,
             "neighbourhood_id":85821875,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387235131,
-    "wof:lastmodified":1449056755,
+    "wof:lastmodified":1454358587,
     "wof:name":"Breen Energy Solutions",
     "wof:parent_id":85821875,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "management"
     ]
 },
-  "bbox": [-80.086626,40.409297,-80.086626,40.409297],
+  "bbox": [
+    -80.086626,
+    40.409297,
+    -80.086626,
+    40.409297
+],
   "geometry": {"coordinates":[-80.086626,40.409297],"type":"Point"}
 }

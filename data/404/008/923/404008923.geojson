@@ -2,13 +2,14 @@
   "id": 404008923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.724681,39.960908,-76.724681,39.960908",
     "geom:latitude":39.960908,
     "geom:longitude":-76.724681,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"135 S Duke St",
     "sg:city":"York",
     "sg:classifiers":[
@@ -37,10 +38,13 @@
     "sg:website":"http://www.yorkpersonalinjury.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85850705,
+        102191575,
+        404488029,
         85633793,
+        101717279,
         102080953,
-        85850705
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,17 +54,18 @@
     "wof:geomhash":"c2b2731f5152ac2d3c9d23df9504d6f4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
+            "localadmin_id":404488029,
+            "locality_id":101717279,
             "neighbourhood_id":85850705,
             "region_id":85688481,
             "venue_id":404008923
         }
     ],
     "wof:id":404008923,
-    "wof:lastmodified":1449039398,
+    "wof:lastmodified":1454356624,
     "wof:name":"Rickards Girard Law Offices Of",
     "wof:parent_id":85850705,
     "wof:placetype":"venue",
@@ -79,6 +84,11 @@
         "law"
     ]
 },
-  "bbox": [-76.724681,39.960908,-76.724681,39.960908],
+  "bbox": [
+    -76.724681,
+    39.960908,
+    -76.724681,
+    39.960908
+],
   "geometry": {"coordinates":[-76.724681,39.960908],"type":"Point"}
 }

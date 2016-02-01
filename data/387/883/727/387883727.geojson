@@ -2,13 +2,14 @@
   "id": 387883727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.608698,40.883473,-77.608698,40.883473",
     "geom:latitude":40.883473,
     "geom:longitude":-77.608698,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1 Penns Cave Rd",
     "sg:city":"Centre Hall",
     "sg:classifiers":[
@@ -34,8 +35,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081369,
-        85818947
+        85818947,
+        102081369
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +46,15 @@
     "wof:geomhash":"47a939d26e650110d83ce66f930092d3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081369,
-            "locality_id":-1,
             "neighbourhood_id":85818947,
             "region_id":85688481,
             "venue_id":387883727
         }
     ],
     "wof:id":387883727,
-    "wof:lastmodified":1449059014,
+    "wof:lastmodified":1454360958,
     "wof:name":"Penn's Cave",
     "wof:parent_id":85818947,
     "wof:placetype":"venue",
@@ -65,6 +64,11 @@
         "boating"
     ]
 },
-  "bbox": [-77.608698,40.883473,-77.608698,40.883473],
+  "bbox": [
+    -77.608698,
+    40.883473,
+    -77.608698,
+    40.883473
+],
   "geometry": {"coordinates":[-77.608698,40.883473],"type":"Point"}
 }

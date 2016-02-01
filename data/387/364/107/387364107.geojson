@@ -2,13 +2,14 @@
   "id": 387364107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.987912,40.438689,-79.987912,40.438689",
     "geom:latitude":40.438689,
     "geom:longitude":-79.987912,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1302 5th Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[],
@@ -18,11 +19,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85873593,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85873593
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -32,9 +35,10 @@
     "wof:geomhash":"d357b1a955fd0d0f5bdb51ffa970dd88",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85873593,
             "region_id":85688481,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":387364107,
-    "wof:lastmodified":1449058242,
+    "wof:lastmodified":1454360719,
     "wof:name":"Milano Pizza",
     "wof:parent_id":85873593,
     "wof:placetype":"venue",
@@ -50,6 +54,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.987912,40.438689,-79.987912,40.438689],
-  "geometry": {"coordinates":[-79.987912,40.438689],"type":"Point"}
+  "bbox": [
+    -79.987912,
+    40.438689,
+    -79.987912,
+    40.438689
+],
+  "geometry": {"coordinates":[-79.98791199999999,40.438689],"type":"Point"}
 }

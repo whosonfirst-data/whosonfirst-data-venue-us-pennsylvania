@@ -2,13 +2,14 @@
   "id": 404194369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.34873,40.668243,-75.34873,40.668243",
     "geom:latitude":40.668243,
     "geom:longitude":-75.34873,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3534 Linden St",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -51,8 +52,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081395,
-        85807765
+        85807765,
+        102081395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,17 +63,15 @@
     "wof:geomhash":"46d0e9498e0088af564df34ac752cd58",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081395,
-            "locality_id":-1,
             "neighbourhood_id":85807765,
             "region_id":85688481,
             "venue_id":404194369
         }
     ],
     "wof:id":404194369,
-    "wof:lastmodified":1449040142,
+    "wof:lastmodified":1454357032,
     "wof:name":"Alexandria Manor",
     "wof:parent_id":85807765,
     "wof:placetype":"venue",
@@ -88,6 +87,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-75.34873,40.668243,-75.34873,40.668243],
+  "bbox": [
+    -75.34873,
+    40.668243,
+    -75.34873,
+    40.668243
+],
   "geometry": {"coordinates":[-75.34873,40.668243],"type":"Point"}
 }

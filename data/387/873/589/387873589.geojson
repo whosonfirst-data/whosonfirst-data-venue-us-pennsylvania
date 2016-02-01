@@ -2,13 +2,14 @@
   "id": 387873589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.781898,40.910999,-77.781898,40.910999",
     "geom:latitude":40.910999,
     "geom:longitude":-77.781898,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"127 S Potter St",
     "sg:city":"Bellefonte",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85806075,
+        102191575,
+        404485871,
         85633793,
         101718145,
         102081369,
-        85806075
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"487538e4a2dfbefa0e413b723452b3a2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081369,
+            "localadmin_id":404485871,
             "locality_id":101718145,
             "neighbourhood_id":85806075,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387873589,
-    "wof:lastmodified":1449056893,
+    "wof:lastmodified":1454358686,
     "wof:name":"CVS Pharmacy",
     "wof:parent_id":85806075,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "drugstore"
     ]
 },
-  "bbox": [-77.781898,40.910999,-77.781898,40.910999],
+  "bbox": [
+    -77.781898,
+    40.910999,
+    -77.781898,
+    40.910999
+],
   "geometry": {"coordinates":[-77.781898,40.910999],"type":"Point"}
 }

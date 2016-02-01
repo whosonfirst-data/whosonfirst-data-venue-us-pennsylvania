@@ -2,13 +2,14 @@
   "id": 387181051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.792922,40.574978,-79.792922,40.574978",
     "geom:latitude":40.574978,
     "geom:longitude":-79.792922,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"433 Pittsburgh Mills Cir",
     "sg:city":"Tarentum",
     "sg:classifiers":[
@@ -41,8 +42,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85821635
+        85821635,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,17 +53,15 @@
     "wof:geomhash":"888015bc0c05d2b451d656abdf334982",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85821635,
             "region_id":85688481,
             "venue_id":387181051
         }
     ],
     "wof:id":387181051,
-    "wof:lastmodified":1449058438,
+    "wof:lastmodified":1454360781,
     "wof:name":"Johnny Rockets",
     "wof:parent_id":85821635,
     "wof:placetype":"venue",
@@ -78,6 +77,11 @@
         "american"
     ]
 },
-  "bbox": [-79.792922,40.574978,-79.792922,40.574978],
+  "bbox": [
+    -79.792922,
+    40.574978,
+    -79.792922,
+    40.574978
+],
   "geometry": {"coordinates":[-79.792922,40.574978],"type":"Point"}
 }

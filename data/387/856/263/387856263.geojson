@@ -2,13 +2,14 @@
   "id": 387856263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.596169,40.459785,-78.596169,40.459785",
     "geom:latitude":40.459785,
     "geom:longitude":-78.596169,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"7452 Admiral Peary Hwy Ste 2",
     "sg:city":"Cresson",
     "sg:classifiers":[
@@ -43,11 +44,13 @@
     "sg:website":"http://www.dollargeneral.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85825859,
+        102191575,
+        404482895,
         85633793,
         101717789,
         102080879,
-        85825859
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,9 +60,10 @@
     "wof:geomhash":"c1efe2a287b22f00da513ff97d3ff92e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080879,
+            "localadmin_id":404482895,
             "locality_id":101717789,
             "neighbourhood_id":85825859,
             "region_id":85688481,
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":387856263,
-    "wof:lastmodified":1449057178,
+    "wof:lastmodified":1454358907,
     "wof:name":"Dollar General",
     "wof:parent_id":85825859,
     "wof:placetype":"venue",
@@ -77,6 +81,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-78.596169,40.459785,-78.596169,40.459785],
+  "bbox": [
+    -78.596169,
+    40.459785,
+    -78.596169,
+    40.459785
+],
   "geometry": {"coordinates":[-78.596169,40.459785],"type":"Point"}
 }

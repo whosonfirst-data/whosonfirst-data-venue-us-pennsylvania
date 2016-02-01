@@ -2,13 +2,14 @@
   "id": 387627661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.5626,40.582878,-79.5626,40.582878",
     "geom:latitude":40.582878,
     "geom:longitude":-79.5626,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"601 1st Street Ext",
     "sg:city":"Apollo",
     "sg:classifiers":[
@@ -39,10 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536461,
+        102191575,
+        404484281,
         85633793,
         101720289,
-        102081371
+        102081371,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,19 +56,20 @@
     "wof:geomhash":"eee6c561564a3af8c7290a2a7a6011be",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081371,
+            "localadmin_id":404484281,
             "locality_id":101720289,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420536461,
             "region_id":85688481,
             "venue_id":387627661
         }
     ],
     "wof:id":387627661,
-    "wof:lastmodified":1449060002,
+    "wof:lastmodified":1454361257,
     "wof:name":"Baron Crest Energy Company Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536461,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -74,6 +79,11 @@
         "drilling"
     ]
 },
-  "bbox": [-79.5626,40.582878,-79.5626,40.582878],
+  "bbox": [
+    -79.5626,
+    40.582878,
+    -79.5626,
+    40.582878
+],
   "geometry": {"coordinates":[-79.5626,40.582878],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387319733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.991264,40.456854,-79.991264,40.456854",
     "geom:latitude":40.456854,
     "geom:longitude":-79.991264,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"800 Vinial St Ste B408",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85852705,
+        102191575,
+        404482523,
         85633793,
+        101718805,
         102080887,
-        85852705
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +45,18 @@
     "wof:geomhash":"6efd8ecd16b78be66b50628d936526cb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
+            "localadmin_id":404482523,
+            "locality_id":101718805,
             "neighbourhood_id":85852705,
             "region_id":85688481,
             "venue_id":387319733
         }
     ],
     "wof:id":387319733,
-    "wof:lastmodified":1449057655,
+    "wof:lastmodified":1454360547,
     "wof:name":"Eagle Nationwide Mortgage Co",
     "wof:parent_id":85852705,
     "wof:placetype":"venue",
@@ -62,6 +67,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-79.991264,40.456854,-79.991264,40.456854],
+  "bbox": [
+    -79.991264,
+    40.456854,
+    -79.991264,
+    40.456854
+],
   "geometry": {"coordinates":[-79.991264,40.456854],"type":"Point"}
 }

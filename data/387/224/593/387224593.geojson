@@ -2,13 +2,14 @@
   "id": 387224593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.010101,40.339199,-80.010101,40.339199",
     "geom:latitude":40.339199,
     "geom:longitude":-80.010101,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"563 N St",
     "sg:city":"Bethel Park",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85846775,
+        102191575,
+        404484853,
         85633793,
         101718799,
         102080887,
-        85846775
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"eb25252c333d9cc7496741fc709d516f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484853,
             "locality_id":101718799,
             "neighbourhood_id":85846775,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387224593,
-    "wof:lastmodified":1449058891,
+    "wof:lastmodified":1454360917,
     "wof:name":"Miller John F Paintg",
     "wof:parent_id":85846775,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "painter"
     ]
 },
-  "bbox": [-80.010101,40.339199,-80.010101,40.339199],
-  "geometry": {"coordinates":[-80.010101,40.339199],"type":"Point"}
+  "bbox": [
+    -80.010101,
+    40.339199,
+    -80.010101,
+    40.339199
+],
+  "geometry": {"coordinates":[-80.01010100000001,40.339199],"type":"Point"}
 }

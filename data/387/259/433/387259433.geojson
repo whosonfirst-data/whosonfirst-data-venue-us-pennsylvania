@@ -2,13 +2,14 @@
   "id": 387259433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.073997,40.472801,-80.073997,40.472801",
     "geom:latitude":40.472801,
     "geom:longitude":-80.073997,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"722 Broadway St",
     "sg:city":"Mc Kees Rocks",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85810503,
+        102191575,
+        404482511,
         85633793,
-        101718805,
+        101718845,
         102080887,
-        85810503
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +41,18 @@
     "wof:geomhash":"5efd50ad3ad5ae444aa728981db8bb89",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":101718805,
+            "localadmin_id":404482511,
+            "locality_id":101718845,
             "neighbourhood_id":85810503,
             "region_id":85688481,
             "venue_id":387259433
         }
     ],
     "wof:id":387259433,
-    "wof:lastmodified":1449056975,
+    "wof:lastmodified":1454358737,
     "wof:name":"Cirilano Jas Atty",
     "wof:parent_id":85810503,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.073997,40.472801,-80.073997,40.472801],
-  "geometry": {"coordinates":[-80.073997,40.472801],"type":"Point"}
+  "bbox": [
+    -80.073997,
+    40.472801,
+    -80.073997,
+    40.472801
+],
+  "geometry": {"coordinates":[-80.07399700000001,40.472801],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404084443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.304062,40.034908,-76.304062,40.034908",
     "geom:latitude":40.034908,
     "geom:longitude":-76.304062,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"33 E Farnum St",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"http://www.lcha.ws",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85818111,
+        102191575,
+        404487183,
         85633793,
         101718643,
         102081377,
-        85818111
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"bf10ae96a6a8412f170b7fee115a9f57",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081377,
+            "localadmin_id":404487183,
             "locality_id":101718643,
             "neighbourhood_id":85818111,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":404084443,
-    "wof:lastmodified":1449039150,
+    "wof:lastmodified":1454356476,
     "wof:name":"Lancaster City Housing Authority",
     "wof:parent_id":85818111,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "state"
     ]
 },
-  "bbox": [-76.304062,40.034908,-76.304062,40.034908],
+  "bbox": [
+    -76.304062,
+    40.034908,
+    -76.304062,
+    40.034908
+],
   "geometry": {"coordinates":[-76.304062,40.034908],"type":"Point"}
 }

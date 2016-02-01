@@ -2,13 +2,14 @@
   "id": 387970801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.613825,40.29935,-76.613825,40.29935",
     "geom:latitude":40.29935,
     "geom:longitude":-76.613825,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1664 E Chocolate Ave",
     "sg:city":"Hershey",
     "sg:classifiers":[
@@ -25,11 +26,13 @@
     "sg:website":"www.milleroral.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85850549,
+        102191575,
+        404483303,
         85633793,
         101719813,
         102081347,
-        85850549
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +42,10 @@
     "wof:geomhash":"2f0e74b6237d023fbef4e86b5db6e43b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
+            "localadmin_id":404483303,
             "locality_id":101719813,
             "neighbourhood_id":85850549,
             "region_id":85688481,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":387970801,
-    "wof:lastmodified":1449059858,
+    "wof:lastmodified":1454361212,
     "wof:name":"Miller Oral Surgery Inc",
     "wof:parent_id":85850549,
     "wof:placetype":"venue",
@@ -57,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.613825,40.29935,-76.613825,40.29935],
-  "geometry": {"coordinates":[-76.613825,40.29935],"type":"Point"}
+  "bbox": [
+    -76.613825,
+    40.29935,
+    -76.613825,
+    40.29935
+],
+  "geometry": {"coordinates":[-76.61382500000001,40.29935],"type":"Point"}
 }

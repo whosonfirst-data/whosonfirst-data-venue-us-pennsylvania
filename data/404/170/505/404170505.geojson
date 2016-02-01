@@ -2,13 +2,14 @@
   "id": 404170505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.371757,40.61084,-75.371757,40.61084",
     "geom:latitude":40.61084,
     "geom:longitude":-75.371757,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"501 E 4th St",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85897245,
+        102191575,
+        404485987,
         85633793,
         101717907,
         102081395,
-        85897245
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"841ba01ec7f88f352515b4d1a976e48b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081395,
+            "localadmin_id":404485987,
             "locality_id":101717907,
             "neighbourhood_id":85897245,
             "region_id":85688481,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":404170505,
-    "wof:lastmodified":1449039131,
+    "wof:lastmodified":1454356459,
     "wof:name":"Bethlehem Book Loft and Caffeine Cafe",
     "wof:parent_id":85897245,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "bookstore"
     ]
 },
-  "bbox": [-75.371757,40.61084,-75.371757,40.61084],
+  "bbox": [
+    -75.371757,
+    40.61084,
+    -75.371757,
+    40.61084
+],
   "geometry": {"coordinates":[-75.371757,40.61084],"type":"Point"}
 }

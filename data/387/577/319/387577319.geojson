@@ -2,13 +2,14 @@
   "id": 387577319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.013638,40.269678,-80.013638,40.269678",
     "geom:latitude":40.269678,
     "geom:longitude":-80.013638,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6187 State Route 88",
     "sg:city":"Finleyville",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"www.juskowichnotary.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85855859,
+        102191575,
+        404487915,
         85633793,
-        101720491,
-        102080887,
-        85855859
+        101720335,
+        102081343,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"73246db983d25b422d2af1adc4343a3b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102080887,
-            "locality_id":101720491,
+            "county_id":102081343,
+            "localadmin_id":404487915,
+            "locality_id":101720335,
             "neighbourhood_id":85855859,
             "region_id":85688481,
             "venue_id":387577319
         }
     ],
     "wof:id":387577319,
-    "wof:lastmodified":1449060031,
+    "wof:lastmodified":1454361266,
     "wof:name":"Juskowich Notary Service",
     "wof:parent_id":85855859,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "notary"
     ]
 },
-  "bbox": [-80.013638,40.269678,-80.013638,40.269678],
+  "bbox": [
+    -80.013638,
+    40.269678,
+    -80.013638,
+    40.269678
+],
   "geometry": {"coordinates":[-80.013638,40.269678],"type":"Point"}
 }

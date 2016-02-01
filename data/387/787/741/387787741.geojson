@@ -2,13 +2,14 @@
   "id": 387787741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.268244,41.839754,-79.268244,41.839754",
     "geom:latitude":41.839754,
     "geom:longitude":-79.268244,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3 Front St",
     "sg:city":"Irvine",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081337,
-        85802759
+        85802759,
+        102081337
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"b11ffbdaa69198a3decc4727ccb882a7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081337,
-            "locality_id":-1,
             "neighbourhood_id":85802759,
             "region_id":85688481,
             "venue_id":387787741
         }
     ],
     "wof:id":387787741,
-    "wof:lastmodified":1449057819,
+    "wof:lastmodified":1454360606,
     "wof:name":"Ellwood National Steel Company",
     "wof:parent_id":85802759,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-79.268244,41.839754,-79.268244,41.839754],
+  "bbox": [
+    -79.268244,
+    41.839754,
+    -79.268244,
+    41.839754
+],
   "geometry": {"coordinates":[-79.268244,41.839754],"type":"Point"}
 }

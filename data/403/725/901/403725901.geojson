@@ -2,13 +2,14 @@
   "id": 403725901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.897003,40.236198,-76.897003,40.236198",
     "geom:latitude":40.236198,
     "geom:longitude":-76.897003,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"330 S 10th St",
     "sg:city":"Lemoyne",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420537679,
+        102191575,
+        404486405,
         85633793,
-        101716771,
-        102081359
+        101719079,
+        102081359,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"8ca79494b92cf5d98a69e2a268efe822",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081359,
-            "locality_id":101716771,
-            "neighbourhood_id":-1,
+            "localadmin_id":404486405,
+            "locality_id":101719079,
+            "neighbourhood_id":420537679,
             "region_id":85688481,
             "venue_id":403725901
         }
     ],
     "wof:id":403725901,
-    "wof:lastmodified":1449054973,
+    "wof:lastmodified":1454357391,
     "wof:name":"Qualitech Computer Center",
-    "wof:parent_id":-1,
+    "wof:parent_id":420537679,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "repair"
     ]
 },
-  "bbox": [-76.897003,40.236198,-76.897003,40.236198],
+  "bbox": [
+    -76.897003,
+    40.236198,
+    -76.897003,
+    40.236198
+],
   "geometry": {"coordinates":[-76.897003,40.236198],"type":"Point"}
 }

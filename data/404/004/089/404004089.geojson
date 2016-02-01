@@ -2,13 +2,14 @@
   "id": 404004089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.600853,39.758575,-76.600853,39.758575",
     "geom:latitude":39.758575,
     "geom:longitude":-76.600853,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"232 Cool Spring Ln",
     "sg:city":"Stewartstown",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85859471,
+        102191575,
+        404487947,
         85633793,
+        101717211,
         102080953,
-        85859471
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +45,18 @@
     "wof:geomhash":"c01b049de6a88a1801f935efb15812ba",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
+            "localadmin_id":404487947,
+            "locality_id":101717211,
             "neighbourhood_id":85859471,
             "region_id":85688481,
             "venue_id":404004089
         }
     ],
     "wof:id":404004089,
-    "wof:lastmodified":1449039461,
+    "wof:lastmodified":1454356662,
     "wof:name":"Diversified Consulting",
     "wof:parent_id":85859471,
     "wof:placetype":"venue",
@@ -62,6 +67,11 @@
         "coach"
     ]
 },
-  "bbox": [-76.600853,39.758575,-76.600853,39.758575],
+  "bbox": [
+    -76.600853,
+    39.758575,
+    -76.600853,
+    39.758575
+],
   "geometry": {"coordinates":[-76.600853,39.758575],"type":"Point"}
 }

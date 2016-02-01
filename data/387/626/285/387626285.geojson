@@ -2,13 +2,14 @@
   "id": 387626285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.556488,40.58342,-79.556488,40.58342",
     "geom:latitude":40.58342,
     "geom:longitude":-79.556488,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"109 Owens View Ave",
     "sg:city":"Apollo",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536461,
+        102191575,
+        404484281,
         85633793,
         101720289,
-        102081371
+        102081371,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"5bffd82d53bd9a9e9885ee701c0a043f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081371,
+            "localadmin_id":404484281,
             "locality_id":101720289,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420536461,
             "region_id":85688481,
             "venue_id":387626285
         }
     ],
     "wof:id":387626285,
-    "wof:lastmodified":1449059922,
+    "wof:lastmodified":1454361233,
     "wof:name":"St James Elementary School",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536461,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "elementary"
     ]
 },
-  "bbox": [-79.556488,40.58342,-79.556488,40.58342],
+  "bbox": [
+    -79.556488,
+    40.58342,
+    -79.556488,
+    40.58342
+],
   "geometry": {"coordinates":[-79.556488,40.58342],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403751617,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.96444,40.228095,-76.96444,40.228095",
     "geom:latitude":40.228095,
     "geom:longitude":-76.96444,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4823 E Trindle Rd Ste 300",
     "sg:city":"Mechanicsburg",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081359,
-        85850501
+        85850501,
+        102081359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"214721bf1208f9c338682a983c11cc37",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081359,
-            "locality_id":-1,
             "neighbourhood_id":85850501,
             "region_id":85688481,
             "venue_id":403751617
         }
     ],
     "wof:id":403751617,
-    "wof:lastmodified":1449054700,
+    "wof:lastmodified":1454357225,
     "wof:name":"Magnet",
     "wof:parent_id":85850501,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "community"
     ]
 },
-  "bbox": [-76.96444,40.228095,-76.96444,40.228095],
+  "bbox": [
+    -76.96444,
+    40.228095,
+    -76.96444,
+    40.228095
+],
   "geometry": {"coordinates":[-76.96444,40.228095],"type":"Point"}
 }

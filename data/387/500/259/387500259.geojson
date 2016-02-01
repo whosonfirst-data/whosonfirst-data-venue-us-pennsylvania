@@ -2,13 +2,14 @@
   "id": 387500259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.004575,40.517002,-80.004575,40.517002",
     "geom:latitude":40.517002,
     "geom:longitude":-80.004575,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4721 Mcknight Rd Ste 202",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -34,8 +35,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85805835
+        85805835,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +46,15 @@
     "wof:geomhash":"82ccb7d6a9772ae3b699c9c2855f5c2f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85805835,
             "region_id":85688481,
             "venue_id":387500259
         }
     ],
     "wof:id":387500259,
-    "wof:lastmodified":1449057051,
+    "wof:lastmodified":1454358801,
     "wof:name":"Sharp Medical Imaging Inc",
     "wof:parent_id":85805835,
     "wof:placetype":"venue",
@@ -65,6 +64,11 @@
         "medical"
     ]
 },
-  "bbox": [-80.004575,40.517002,-80.004575,40.517002],
+  "bbox": [
+    -80.004575,
+    40.517002,
+    -80.004575,
+    40.517002
+],
   "geometry": {"coordinates":[-80.004575,40.517002],"type":"Point"}
 }

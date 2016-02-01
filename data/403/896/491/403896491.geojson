@@ -2,13 +2,14 @@
   "id": 403896491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.802745,40.243014,-76.802745,40.243014",
     "geom:latitude":40.243014,
     "geom:longitude":-76.802745,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4641 Lindle Rd",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85829991,
+        102191575,
+        404486309,
         85633793,
         101719815,
         102081347,
-        85829991
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"ca17130df2ce5abd3215d3070e22f2ba",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
+            "localadmin_id":404486309,
             "locality_id":101719815,
             "neighbourhood_id":85829991,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":403896491,
-    "wof:lastmodified":1449055115,
+    "wof:lastmodified":1454357479,
     "wof:name":"K Mac",
     "wof:parent_id":85829991,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "builder"
     ]
 },
-  "bbox": [-76.802745,40.243014,-76.802745,40.243014],
+  "bbox": [
+    -76.802745,
+    40.243014,
+    -76.802745,
+    40.243014
+],
   "geometry": {"coordinates":[-76.802745,40.243014],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387737725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.092016,40.704314,-80.092016,40.704314",
     "geom:latitude":40.704314,
     "geom:longitude":-80.092016,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"8034 Rowan Rd",
     "sg:city":"Cranberry Township",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102083677,
-        85839239
+        85839239,
+        102083677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"4ccec1cb3d7dee0336754ea98f3e839b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102083677,
-            "locality_id":-1,
             "neighbourhood_id":85839239,
             "region_id":85688481,
             "venue_id":387737725
         }
     ],
     "wof:id":387737725,
-    "wof:lastmodified":1449056951,
+    "wof:lastmodified":1454358731,
     "wof:name":"El Sombrero",
     "wof:parent_id":85839239,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "mexican"
     ]
 },
-  "bbox": [-80.092016,40.704314,-80.092016,40.704314],
+  "bbox": [
+    -80.092016,
+    40.704314,
+    -80.092016,
+    40.704314
+],
   "geometry": {"coordinates":[-80.092016,40.704314],"type":"Point"}
 }

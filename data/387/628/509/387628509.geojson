@@ -2,13 +2,14 @@
   "id": 387628509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.610559,40.368091,-79.610559,40.368091",
     "geom:latitude":40.368091,
     "geom:longitude":-79.610559,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2125 Claridge Elliott Rd",
     "sg:city":"Claridge",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081383,
-        85833221
+        85833221,
+        102081383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"d6472a4bbbc75a16a241af8285951abb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":-1,
             "neighbourhood_id":85833221,
             "region_id":85688481,
             "venue_id":387628509
         }
     ],
     "wof:id":387628509,
-    "wof:lastmodified":1449059196,
+    "wof:lastmodified":1454361008,
     "wof:name":"J S Concrete",
     "wof:parent_id":85833221,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.610559,40.368091,-79.610559,40.368091],
-  "geometry": {"coordinates":[-79.610559,40.368091],"type":"Point"}
+  "bbox": [
+    -79.610559,
+    40.368091,
+    -79.610559,
+    40.368091
+],
+  "geometry": {"coordinates":[-79.61055899999999,40.368091],"type":"Point"}
 }

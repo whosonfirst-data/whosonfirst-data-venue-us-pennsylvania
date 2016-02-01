@@ -2,13 +2,14 @@
   "id": 387368111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.981697,40.438301,-79.981697,40.438301",
     "geom:latitude":40.438301,
     "geom:longitude":-79.981697,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1724 5th Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -43,11 +44,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85849261,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85849261
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,9 +60,10 @@
     "wof:geomhash":"db95ece03c22a84861ba90e5794a8b28",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85849261,
             "region_id":85688481,
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":387368111,
-    "wof:lastmodified":1449056983,
+    "wof:lastmodified":1454358746,
     "wof:name":"Caliguri's Academy of Martial Arts Owner",
     "wof:parent_id":85849261,
     "wof:placetype":"venue",
@@ -78,6 +82,11 @@
         "market"
     ]
 },
-  "bbox": [-79.981697,40.438301,-79.981697,40.438301],
+  "bbox": [
+    -79.981697,
+    40.438301,
+    -79.981697,
+    40.438301
+],
   "geometry": {"coordinates":[-79.981697,40.438301],"type":"Point"}
 }

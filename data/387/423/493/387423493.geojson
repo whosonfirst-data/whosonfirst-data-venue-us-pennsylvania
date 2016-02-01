@@ -2,13 +2,14 @@
   "id": 387423493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.9981,40.440899,-79.9981,40.440899",
     "geom:latitude":40.440899,
     "geom:longitude":-79.9981,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"Oliver Building",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85873585,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85873585
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"c57e894dc12cafcf61c9ffeebc0e3ba1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85873585,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387423493,
-    "wof:lastmodified":1449056732,
+    "wof:lastmodified":1454358567,
     "wof:name":"Freed Chas V CPA",
     "wof:parent_id":85873585,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "accountant"
     ]
 },
-  "bbox": [-79.9981,40.440899,-79.9981,40.440899],
-  "geometry": {"coordinates":[-79.9981,40.440899],"type":"Point"}
+  "bbox": [
+    -79.9981,
+    40.440899,
+    -79.9981,
+    40.440899
+],
+  "geometry": {"coordinates":[-79.99809999999999,40.440899],"type":"Point"}
 }

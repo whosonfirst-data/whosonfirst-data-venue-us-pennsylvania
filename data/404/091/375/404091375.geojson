@@ -2,13 +2,14 @@
   "id": 404091375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.314713,40.04353,-76.314713,40.04353",
     "geom:latitude":40.04353,
     "geom:longitude":-76.314713,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"429 W Lemon St",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85858805
+        85858805,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"f90bcf0770c43f63382c8a30c6b751b0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85858805,
             "region_id":85688481,
             "venue_id":404091375
         }
     ],
     "wof:id":404091375,
-    "wof:lastmodified":1449039135,
+    "wof:lastmodified":1454356465,
     "wof:name":"Connors Law",
     "wof:parent_id":85858805,
     "wof:placetype":"venue",
@@ -64,6 +63,11 @@
         "plan"
     ]
 },
-  "bbox": [-76.314713,40.04353,-76.314713,40.04353],
+  "bbox": [
+    -76.314713,
+    40.04353,
+    -76.314713,
+    40.04353
+],
   "geometry": {"coordinates":[-76.314713,40.04353],"type":"Point"}
 }

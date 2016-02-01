@@ -2,13 +2,14 @@
   "id": 387118155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.129755,40.315659,-80.129755,40.315659",
     "geom:latitude":40.315659,
     "geom:longitude":-80.129755,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"346 Fawcett Church Rd",
     "sg:city":"Bridgeville",
     "sg:classifiers":[
@@ -37,8 +38,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85806899
+        85806899,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +49,15 @@
     "wof:geomhash":"8ec978a7631cc1e4bb146b72aa64423f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85806899,
             "region_id":85688481,
             "venue_id":387118155
         }
     ],
     "wof:id":387118155,
-    "wof:lastmodified":1449059193,
+    "wof:lastmodified":1454361008,
     "wof:name":"Fawcett United Methodist Ch",
     "wof:parent_id":85806899,
     "wof:placetype":"venue",
@@ -71,6 +70,11 @@
         "churches-methodist"
     ]
 },
-  "bbox": [-80.129755,40.315659,-80.129755,40.315659],
+  "bbox": [
+    -80.129755,
+    40.315659,
+    -80.129755,
+    40.315659
+],
   "geometry": {"coordinates":[-80.129755,40.315659],"type":"Point"}
 }

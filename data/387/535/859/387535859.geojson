@@ -2,13 +2,14 @@
   "id": 387535859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.982722,40.454458,-79.982722,40.454458",
     "geom:latitude":40.454458,
     "geom:longitude":-79.982722,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2350 Railroad St",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"www.cioppinopittsburgh.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85851271,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85851271
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"6c9265adeb9d464115f695422cf22ac4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85851271,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387535859,
-    "wof:lastmodified":1449056789,
+    "wof:lastmodified":1454358612,
     "wof:name":"Cioppino",
     "wof:parent_id":85851271,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "italian"
     ]
 },
-  "bbox": [-79.982722,40.454458,-79.982722,40.454458],
+  "bbox": [
+    -79.982722,
+    40.454458,
+    -79.982722,
+    40.454458
+],
   "geometry": {"coordinates":[-79.982722,40.454458],"type":"Point"}
 }

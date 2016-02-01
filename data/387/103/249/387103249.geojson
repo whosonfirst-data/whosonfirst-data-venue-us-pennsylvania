@@ -2,13 +2,14 @@
   "id": 387103249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.325665,40.686184,-80.325665,40.686184",
     "geom:latitude":40.686184,
     "geom:longitude":-80.325665,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"337 State Ave",
     "sg:city":"Beaver",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081323,
-        85827637
+        85827637,
+        102081323
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"ea5d48ead57b10e4017e9a50868b8948",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081323,
-            "locality_id":-1,
             "neighbourhood_id":85827637,
             "region_id":85688481,
             "venue_id":387103249
         }
     ],
     "wof:id":387103249,
-    "wof:lastmodified":1449058483,
+    "wof:lastmodified":1454360795,
     "wof:name":"Froman Stephen M MD",
     "wof:parent_id":85827637,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-80.325665,40.686184,-80.325665,40.686184],
+  "bbox": [
+    -80.325665,
+    40.686184,
+    -80.325665,
+    40.686184
+],
   "geometry": {"coordinates":[-80.325665,40.686184],"type":"Point"}
 }

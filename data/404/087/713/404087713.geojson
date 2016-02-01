@@ -2,13 +2,14 @@
   "id": 404087713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.27606,40.044511,-76.27606,40.044511",
     "geom:latitude":40.044511,
     "geom:longitude":-76.27606,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1251 Ranck Mill Rd",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -38,8 +39,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85812047
+        85812047,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +50,15 @@
     "wof:geomhash":"2ac434bfeba240e258b24dd51b214389",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85812047,
             "region_id":85688481,
             "venue_id":404087713
         }
     ],
     "wof:id":404087713,
-    "wof:lastmodified":1449039567,
+    "wof:lastmodified":1454356719,
     "wof:name":"VCA Bridgeport Animal Hospital",
     "wof:parent_id":85812047,
     "wof:placetype":"venue",
@@ -72,6 +71,11 @@
         "clinic"
     ]
 },
-  "bbox": [-76.27606,40.044511,-76.27606,40.044511],
+  "bbox": [
+    -76.27606,
+    40.044511,
+    -76.27606,
+    40.044511
+],
   "geometry": {"coordinates":[-76.27606,40.044511],"type":"Point"}
 }

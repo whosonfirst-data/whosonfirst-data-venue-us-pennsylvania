@@ -2,13 +2,14 @@
   "id": 403894129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.787793,40.263203,-76.787793,40.263203",
     "geom:latitude":40.263203,
     "geom:longitude":-76.787793,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5840 Derry St",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85829991,
+        102191575,
+        404486309,
         85633793,
         101719815,
         102081347,
-        85829991
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"cdc087bdd242cc6a068e8abc434535cf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
+            "localadmin_id":404486309,
             "locality_id":101719815,
             "neighbourhood_id":85829991,
             "region_id":85688481,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":403894129,
-    "wof:lastmodified":1449055175,
+    "wof:lastmodified":1454357511,
     "wof:name":"Pizza Delight",
     "wof:parent_id":85829991,
     "wof:placetype":"venue",
@@ -72,6 +76,11 @@
         "italian"
     ]
 },
-  "bbox": [-76.787793,40.263203,-76.787793,40.263203],
-  "geometry": {"coordinates":[-76.787793,40.263203],"type":"Point"}
+  "bbox": [
+    -76.787793,
+    40.263203,
+    -76.787793,
+    40.263203
+],
+  "geometry": {"coordinates":[-76.78779299999999,40.263203],"type":"Point"}
 }

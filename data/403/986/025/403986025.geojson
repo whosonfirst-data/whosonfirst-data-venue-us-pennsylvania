@@ -2,13 +2,14 @@
   "id": 403986025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.246799,39.77838,-77.246799,39.77838",
     "geom:latitude":39.77838,
     "geom:longitude":-77.246799,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"105 Round Top Ln",
     "sg:city":"Gettysburg",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080899,
-        85847703
+        85847703,
+        102080899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"896770519d3545c8c5d89bc82750487f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080899,
-            "locality_id":-1,
             "neighbourhood_id":85847703,
             "region_id":85688481,
             "venue_id":403986025
         }
     ],
     "wof:id":403986025,
-    "wof:lastmodified":1449055703,
+    "wof:lastmodified":1454357830,
     "wof:name":"Building Personnel Systems",
     "wof:parent_id":85847703,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "human"
     ]
 },
-  "bbox": [-77.246799,39.77838,-77.246799,39.77838],
+  "bbox": [
+    -77.246799,
+    39.77838,
+    -77.246799,
+    39.77838
+],
   "geometry": {"coordinates":[-77.246799,39.77838],"type":"Point"}
 }

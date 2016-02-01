@@ -2,13 +2,14 @@
   "id": 387303295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.976572,40.479269,-79.976572,40.479269",
     "geom:latitude":40.479269,
     "geom:longitude":-79.976572,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"704 Stanton Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85804759,
+        102191575,
+        404484241,
         85633793,
+        101718843,
         102080887,
-        85804759
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +46,18 @@
     "wof:geomhash":"288ebe2de5c3b90603e8b465964f7448",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
+            "localadmin_id":404484241,
+            "locality_id":101718843,
             "neighbourhood_id":85804759,
             "region_id":85688481,
             "venue_id":387303295
         }
     ],
     "wof:id":387303295,
-    "wof:lastmodified":1449056151,
+    "wof:lastmodified":1454358123,
     "wof:name":"Home Alone Cat Sitters",
     "wof:parent_id":85804759,
     "wof:placetype":"venue",
@@ -64,6 +69,11 @@
         "sitting"
     ]
 },
-  "bbox": [-79.976572,40.479269,-79.976572,40.479269],
+  "bbox": [
+    -79.976572,
+    40.479269,
+    -79.976572,
+    40.479269
+],
   "geometry": {"coordinates":[-79.976572,40.479269],"type":"Point"}
 }

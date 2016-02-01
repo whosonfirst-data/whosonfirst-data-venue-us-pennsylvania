@@ -2,13 +2,14 @@
   "id": 387956131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.010094,40.408044,-77.010094,40.408044",
     "geom:latitude":40.408044,
     "geom:longitude":-77.010094,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"18 Benvenue Rd",
     "sg:city":"Duncannon",
     "sg:classifiers":[
@@ -43,8 +44,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85805791
+        85805791,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,17 +55,15 @@
     "wof:geomhash":"44cc14583bc26e74813fad6f55e08f31",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85805791,
             "region_id":85688481,
             "venue_id":387956131
         }
     ],
     "wof:id":387956131,
-    "wof:lastmodified":1449056747,
+    "wof:lastmodified":1454358578,
     "wof:name":"Subway",
     "wof:parent_id":85805791,
     "wof:placetype":"venue",
@@ -77,6 +76,11 @@
         "take"
     ]
 },
-  "bbox": [-77.010094,40.408044,-77.010094,40.408044],
+  "bbox": [
+    -77.010094,
+    40.408044,
+    -77.010094,
+    40.408044
+],
   "geometry": {"coordinates":[-77.010094,40.408044],"type":"Point"}
 }

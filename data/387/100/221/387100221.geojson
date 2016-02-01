@@ -2,13 +2,14 @@
   "id": 387100221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.228188,40.634935,-80.228188,40.634935",
     "geom:latitude":40.634935,
     "geom:longitude":-80.228188,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"898 State St",
     "sg:city":"Baden",
     "sg:classifiers":[],
@@ -18,11 +19,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85808703,
+        102191575,
+        404482583,
         85633793,
         101718403,
         102081323,
-        85808703
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -32,9 +35,10 @@
     "wof:geomhash":"a8e638b2a0eaeb656afee79fa46d16ca",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081323,
+            "localadmin_id":404482583,
             "locality_id":101718403,
             "neighbourhood_id":85808703,
             "region_id":85688481,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":387100221,
-    "wof:lastmodified":1449058928,
+    "wof:lastmodified":1454360929,
     "wof:name":"Punks Ice Cream Shoppe",
     "wof:parent_id":85808703,
     "wof:placetype":"venue",
@@ -50,6 +54,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.228188,40.634935,-80.228188,40.634935],
+  "bbox": [
+    -80.228188,
+    40.634935,
+    -80.228188,
+    40.634935
+],
   "geometry": {"coordinates":[-80.228188,40.634935],"type":"Point"}
 }

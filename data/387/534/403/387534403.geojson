@@ -2,13 +2,14 @@
   "id": 387534403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.200989,40.453972,-80.200989,40.453972",
     "geom:latitude":40.453972,
     "geom:longitude":-80.200989,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"101 Technology Dr",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85805237
+        85805237,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"c3b0726d7b988ae02eb58471da0d0fbb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85805237,
             "region_id":85688481,
             "venue_id":387534403
         }
     ],
     "wof:id":387534403,
-    "wof:lastmodified":1449057090,
+    "wof:lastmodified":1454358829,
     "wof:name":"Mse North America, Inc.",
     "wof:parent_id":85805237,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "management"
     ]
 },
-  "bbox": [-80.200989,40.453972,-80.200989,40.453972],
-  "geometry": {"coordinates":[-80.200989,40.453972],"type":"Point"}
+  "bbox": [
+    -80.200989,
+    40.453972,
+    -80.200989,
+    40.453972
+],
+  "geometry": {"coordinates":[-80.20098900000001,40.453972],"type":"Point"}
 }

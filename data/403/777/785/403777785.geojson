@@ -2,13 +2,14 @@
   "id": 403777785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.058541,40.537614,-77.058541,40.537614",
     "geom:latitude":40.537614,
     "geom:longitude":-77.058541,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"703 Owl Hollow Rd",
     "sg:city":"Millerstown",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080963,
-        85827701
+        85827701,
+        102080963
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"4df8b4661fcdcef23ddf0b11cf31a53f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080963,
-            "locality_id":-1,
             "neighbourhood_id":85827701,
             "region_id":85688481,
             "venue_id":403777785
         }
     ],
     "wof:id":403777785,
-    "wof:lastmodified":1449055345,
+    "wof:lastmodified":1454357617,
     "wof:name":"Dean Cauffam Vmd",
     "wof:parent_id":85827701,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "specialty"
     ]
 },
-  "bbox": [-77.058541,40.537614,-77.058541,40.537614],
-  "geometry": {"coordinates":[-77.058541,40.537614],"type":"Point"}
+  "bbox": [
+    -77.058541,
+    40.537614,
+    -77.058541,
+    40.537614
+],
+  "geometry": {"coordinates":[-77.05854100000001,40.537614],"type":"Point"}
 }

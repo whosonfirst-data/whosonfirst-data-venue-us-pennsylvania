@@ -2,13 +2,14 @@
   "id": 387966803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.624165,40.550178,-77.624165,40.550178",
     "geom:latitude":40.550178,
     "geom:longitude":-77.624165,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"307 Granville Rd",
     "sg:city":"Granville",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081333,
-        85835679
+        85835679,
+        102081333
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"f0b6b879824fe8763edc9a1eb2f51f04",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081333,
-            "locality_id":-1,
             "neighbourhood_id":85835679,
             "region_id":85688481,
             "venue_id":387966803
         }
     ],
     "wof:id":387966803,
-    "wof:lastmodified":1449056140,
+    "wof:lastmodified":1454358115,
     "wof:name":"Granville Volunteer Fire Co",
     "wof:parent_id":85835679,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "protection"
     ]
 },
-  "bbox": [-77.624165,40.550178,-77.624165,40.550178],
+  "bbox": [
+    -77.624165,
+    40.550178,
+    -77.624165,
+    40.550178
+],
   "geometry": {"coordinates":[-77.624165,40.550178],"type":"Point"}
 }

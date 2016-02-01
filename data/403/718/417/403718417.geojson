@@ -2,13 +2,14 @@
   "id": 403718417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.444872,40.322534,-76.444872,40.322534",
     "geom:latitude":40.322534,
     "geom:longitude":-76.444872,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"426 Little Pond Ln",
     "sg:city":"Lebanon",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85842249,
+        102191575,
+        404485699,
         85633793,
         101717093,
         102081341,
-        85842249
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"e43086f417fcf586a77823478a291588",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081341,
+            "localadmin_id":404485699,
             "locality_id":101717093,
             "neighbourhood_id":85842249,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":403718417,
-    "wof:lastmodified":1449054931,
+    "wof:lastmodified":1454357371,
     "wof:name":"Greater Lebanon Valley Lions Club, Inc.",
     "wof:parent_id":85842249,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "bureau"
     ]
 },
-  "bbox": [-76.444872,40.322534,-76.444872,40.322534],
+  "bbox": [
+    -76.444872,
+    40.322534,
+    -76.444872,
+    40.322534
+],
   "geometry": {"coordinates":[-76.444872,40.322534],"type":"Point"}
 }

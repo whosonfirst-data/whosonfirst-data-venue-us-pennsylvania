@@ -2,13 +2,14 @@
   "id": 387876379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.74784,40.958501,-77.74784,40.958501",
     "geom:latitude":40.958501,
     "geom:longitude":-77.74784,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1390 Old 220 Rd",
     "sg:city":"Bellefonte",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081369,
-        85835483
+        85835483,
+        102081369
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"346da5d3b13b47fdc5b53723e91f9fc5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081369,
-            "locality_id":-1,
             "neighbourhood_id":85835483,
             "region_id":85688481,
             "venue_id":387876379
         }
     ],
     "wof:id":387876379,
-    "wof:lastmodified":1449056865,
+    "wof:lastmodified":1454358665,
     "wof:name":"Lohr's Concessions",
     "wof:parent_id":85835483,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "concessionaire"
     ]
 },
-  "bbox": [-77.74784,40.958501,-77.74784,40.958501],
+  "bbox": [
+    -77.74784,
+    40.958501,
+    -77.74784,
+    40.958501
+],
   "geometry": {"coordinates":[-77.74784,40.958501],"type":"Point"}
 }

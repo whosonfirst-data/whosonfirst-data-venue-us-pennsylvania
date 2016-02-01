@@ -2,13 +2,14 @@
   "id": 404015419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.661229,39.959261,-76.661229,39.959261",
     "geom:latitude":39.959261,
     "geom:longitude":-76.661229,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2861 E Prospect Rd",
     "sg:city":"York",
     "sg:classifiers":[
@@ -33,8 +34,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080953,
-        85852249
+        85852249,
+        102080953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +45,15 @@
     "wof:geomhash":"2f4b2987c9a16d42d2fb8d499f2f6e58",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
             "neighbourhood_id":85852249,
             "region_id":85688481,
             "venue_id":404015419
         }
     ],
     "wof:id":404015419,
-    "wof:lastmodified":1449039339,
+    "wof:lastmodified":1454356575,
     "wof:name":"Steinmetz Coins & Currency",
     "wof:parent_id":85852249,
     "wof:placetype":"venue",
@@ -68,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-76.661229,39.959261,-76.661229,39.959261],
-  "geometry": {"coordinates":[-76.661229,39.959261],"type":"Point"}
+  "bbox": [
+    -76.661229,
+    39.959261,
+    -76.661229,
+    39.959261
+],
+  "geometry": {"coordinates":[-76.66122900000001,39.959261],"type":"Point"}
 }

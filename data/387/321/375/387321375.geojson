@@ -2,13 +2,14 @@
   "id": 387321375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.0308,40.4758,-80.0308,40.4758",
     "geom:latitude":40.4758,
     "geom:longitude":-80.0308,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3204 Brighton Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85832627,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85832627
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"a38d85a1d45bc13fe227e09b7e50bf3f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85832627,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387321375,
-    "wof:lastmodified":1449056207,
+    "wof:lastmodified":1454358161,
     "wof:name":"Jeff's Auto Body Radiator & Air Conditioning",
     "wof:parent_id":85832627,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "shop"
     ]
 },
-  "bbox": [-80.0308,40.4758,-80.0308,40.4758],
+  "bbox": [
+    -80.0308,
+    40.4758,
+    -80.0308,
+    40.4758
+],
   "geometry": {"coordinates":[-80.0308,40.4758],"type":"Point"}
 }

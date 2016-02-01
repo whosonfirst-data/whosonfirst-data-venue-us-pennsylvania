@@ -2,13 +2,14 @@
   "id": 387959695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.636767,40.161733,-76.636767,40.161733",
     "geom:latitude":40.161733,
     "geom:longitude":-76.636767,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2140 N MARKET ST",
     "sg:city":"ELIZABETHTOWN",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85836929
+        85836929,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"3eaa4aed22a7d68b45755b0b50bb042f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85836929,
             "region_id":85688481,
             "venue_id":387959695
         }
     ],
     "wof:id":387959695,
-    "wof:lastmodified":1449059537,
+    "wof:lastmodified":1454361110,
     "wof:name":"Cedar Springs Self Storage Center",
     "wof:parent_id":85836929,
     "wof:placetype":"venue",
@@ -71,6 +70,11 @@
         "household"
     ]
 },
-  "bbox": [-76.636767,40.161733,-76.636767,40.161733],
-  "geometry": {"coordinates":[-76.636767,40.161733],"type":"Point"}
+  "bbox": [
+    -76.636767,
+    40.161733,
+    -76.636767,
+    40.161733
+],
+  "geometry": {"coordinates":[-76.63676700000001,40.161733],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387622025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.512802,40.272591,-79.512802,40.272591",
     "geom:latitude":40.272591,
     "geom:longitude":-79.512802,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"527 Saint Andrews Dr",
     "sg:city":"Greensburg",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081383,
-        85851151
+        85851151,
+        102081383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"50fe9cdf28355a6e2c5f63a655af7e35",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":-1,
             "neighbourhood_id":85851151,
             "region_id":85688481,
             "venue_id":387622025
         }
     ],
     "wof:id":387622025,
-    "wof:lastmodified":1449059236,
+    "wof:lastmodified":1454361017,
     "wof:name":"Barbara Adams",
     "wof:parent_id":85851151,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "writer"
     ]
 },
-  "bbox": [-79.512802,40.272591,-79.512802,40.272591],
-  "geometry": {"coordinates":[-79.512802,40.272591],"type":"Point"}
+  "bbox": [
+    -79.512802,
+    40.272591,
+    -79.512802,
+    40.272591
+],
+  "geometry": {"coordinates":[-79.51280199999999,40.272591],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387268097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.10331,40.611839,-80.10331,40.611839",
     "geom:latitude":40.611839,
     "geom:longitude":-80.10331,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2593 Wexford Bayne Rd",
     "sg:city":"Sewickley",
     "sg:classifiers":[],
@@ -19,11 +20,13 @@
     "sg:website":"http://www.nauticom.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85815367,
+        102191575,
+        404484933,
         85633793,
         101718681,
         102080887,
-        85815367
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -33,9 +36,10 @@
     "wof:geomhash":"56ac7e340e32c01a274698a9900fa1d8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484933,
             "locality_id":101718681,
             "neighbourhood_id":85815367,
             "region_id":85688481,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":387268097,
-    "wof:lastmodified":1449058270,
+    "wof:lastmodified":1454360731,
     "wof:name":"Nauticom Internet Services",
     "wof:parent_id":85815367,
     "wof:placetype":"venue",
@@ -51,6 +55,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.10331,40.611839,-80.10331,40.611839],
-  "geometry": {"coordinates":[-80.10331,40.611839],"type":"Point"}
+  "bbox": [
+    -80.10331,
+    40.611839,
+    -80.10331,
+    40.611839
+],
+  "geometry": {"coordinates":[-80.10330999999999,40.611839],"type":"Point"}
 }

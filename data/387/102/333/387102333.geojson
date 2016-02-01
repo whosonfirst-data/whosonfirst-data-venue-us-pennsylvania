@@ -2,13 +2,14 @@
   "id": 387102333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.346996,40.710333,-80.346996,40.710333",
     "geom:latitude":40.710333,
     "geom:longitude":-80.346996,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"211 Woodbine Dr",
     "sg:city":"Beaver",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081323,
-        85827637
+        85827637,
+        102081323
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"0193d1fe7cd05cda685318c83b5db10e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081323,
-            "locality_id":-1,
             "neighbourhood_id":85827637,
             "region_id":85688481,
             "venue_id":387102333
         }
     ],
     "wof:id":387102333,
-    "wof:lastmodified":1449059637,
+    "wof:lastmodified":1454361142,
     "wof:name":"Leru Storage, Inc.",
     "wof:parent_id":85827637,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "warehouses-public-commercial"
     ]
 },
-  "bbox": [-80.346996,40.710333,-80.346996,40.710333],
+  "bbox": [
+    -80.346996,
+    40.710333,
+    -80.346996,
+    40.710333
+],
   "geometry": {"coordinates":[-80.346996,40.710333],"type":"Point"}
 }

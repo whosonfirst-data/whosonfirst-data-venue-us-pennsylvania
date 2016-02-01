@@ -2,13 +2,14 @@
   "id": 403896795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.780685,40.253482,-76.780685,40.253482",
     "geom:latitude":40.253482,
     "geom:longitude":-76.780685,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6191 Chambers Hill Rd",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85851671
+        85851671,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"dea1010f72d78da0dc31c979e272d012",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85851671,
             "region_id":85688481,
             "venue_id":403896795
         }
     ],
     "wof:id":403896795,
-    "wof:lastmodified":1449055120,
+    "wof:lastmodified":1454357481,
     "wof:name":"Larry Pinko Concrete",
     "wof:parent_id":85851671,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-76.780685,40.253482,-76.780685,40.253482],
-  "geometry": {"coordinates":[-76.780685,40.253482],"type":"Point"}
+  "bbox": [
+    -76.780685,
+    40.253482,
+    -76.780685,
+    40.253482
+],
+  "geometry": {"coordinates":[-76.78068500000001,40.253482],"type":"Point"}
 }

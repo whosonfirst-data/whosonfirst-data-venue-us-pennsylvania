@@ -2,13 +2,14 @@
   "id": 387758795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.165941,41.141966,-80.165941,41.141966",
     "geom:latitude":41.141966,
     "geom:longitude":-80.165941,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1911 Leesburg Grove City Rd",
     "sg:city":"Mercer",
     "sg:classifiers":[
@@ -40,8 +41,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080965,
-        85831255
+        85831255,
+        102080965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,17 +52,15 @@
     "wof:geomhash":"b2ce24bce4a32919980f0a55d84456df",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080965,
-            "locality_id":-1,
             "neighbourhood_id":85831255,
             "region_id":85688481,
             "venue_id":387758795
         }
     ],
     "wof:id":387758795,
-    "wof:lastmodified":1449057249,
+    "wof:lastmodified":1454358963,
     "wof:name":"Gloria Jean's Coffee",
     "wof:parent_id":85831255,
     "wof:placetype":"venue",
@@ -72,6 +71,11 @@
         "espresso"
     ]
 },
-  "bbox": [-80.165941,41.141966,-80.165941,41.141966],
+  "bbox": [
+    -80.165941,
+    41.141966,
+    -80.165941,
+    41.141966
+],
   "geometry": {"coordinates":[-80.165941,41.141966],"type":"Point"}
 }

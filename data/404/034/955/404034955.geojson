@@ -2,13 +2,14 @@
   "id": 404034955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.786714,39.959122,-76.786714,39.959122",
     "geom:latitude":39.959122,
     "geom:longitude":-76.786714,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1150 Greenwood Rd",
     "sg:city":"York",
     "sg:classifiers":[
@@ -31,7 +32,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420540379,
+        102191575,
+        404487953,
         85633793,
+        101719479,
+        102080953,
         85688481
     ],
     "wof:breaches":[],
@@ -42,18 +48,20 @@
     "wof:geomhash":"d995a8d88f43b6b22e4a22381220e7c8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102080953,
+            "localadmin_id":404487953,
+            "locality_id":101719479,
+            "neighbourhood_id":420540379,
             "region_id":85688481,
             "venue_id":404034955
         }
     ],
     "wof:id":404034955,
-    "wof:lastmodified":1449039152,
+    "wof:lastmodified":1454356479,
     "wof:name":"L & M Motor Cars",
-    "wof:parent_id":-1,
+    "wof:parent_id":420540379,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -65,6 +73,11 @@
         "new"
     ]
 },
-  "bbox": [-76.786714,39.959122,-76.786714,39.959122],
+  "bbox": [
+    -76.786714,
+    39.959122,
+    -76.786714,
+    39.959122
+],
   "geometry": {"coordinates":[-76.786714,39.959122],"type":"Point"}
 }

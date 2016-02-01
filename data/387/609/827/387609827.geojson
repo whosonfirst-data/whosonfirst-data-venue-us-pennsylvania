@@ -2,13 +2,14 @@
   "id": 387609827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.874971,39.980688,-78.874971,39.980688",
     "geom:latitude":39.980688,
     "geom:longitude":-78.874971,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"174 Honeysuckle Rd",
     "sg:city":"Berlin",
     "sg:classifiers":[
@@ -39,8 +40,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081361,
-        85815095
+        85815095,
+        102081361
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,17 +51,15 @@
     "wof:geomhash":"7b90234b3d9b03cd29f73d3460cfeb52",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081361,
-            "locality_id":-1,
             "neighbourhood_id":85815095,
             "region_id":85688481,
             "venue_id":387609827
         }
     ],
     "wof:id":387609827,
-    "wof:lastmodified":1449057522,
+    "wof:lastmodified":1454360192,
     "wof:name":"Lowery Trucking",
     "wof:parent_id":85815095,
     "wof:placetype":"venue",
@@ -75,6 +74,11 @@
         "transportation"
     ]
 },
-  "bbox": [-78.874971,39.980688,-78.874971,39.980688],
+  "bbox": [
+    -78.874971,
+    39.980688,
+    -78.874971,
+    39.980688
+],
   "geometry": {"coordinates":[-78.874971,39.980688],"type":"Point"}
 }

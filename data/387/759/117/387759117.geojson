@@ -2,13 +2,14 @@
   "id": 387759117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.165039,41.142531,-80.165039,41.142531",
     "geom:latitude":41.142531,
     "geom:longitude":-80.165039,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"21 Holiday Blvd",
     "sg:city":"Mercer",
     "sg:classifiers":[
@@ -40,8 +41,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080965,
-        85831255
+        85831255,
+        102080965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,17 +52,15 @@
     "wof:geomhash":"193e7490bc1a78e127ed5fc63b994ee7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080965,
-            "locality_id":-1,
             "neighbourhood_id":85831255,
             "region_id":85688481,
             "venue_id":387759117
         }
     ],
     "wof:id":387759117,
-    "wof:lastmodified":1449059975,
+    "wof:lastmodified":1454361249,
     "wof:name":"Holiday Inn Express Grove City (Prime Outlet Mall)",
     "wof:parent_id":85831255,
     "wof:placetype":"venue",
@@ -76,6 +75,11 @@
         "hall"
     ]
 },
-  "bbox": [-80.165039,41.142531,-80.165039,41.142531],
-  "geometry": {"coordinates":[-80.165039,41.142531],"type":"Point"}
+  "bbox": [
+    -80.165039,
+    41.142531,
+    -80.165039,
+    41.142531
+],
+  "geometry": {"coordinates":[-80.16503899999999,41.142531],"type":"Point"}
 }

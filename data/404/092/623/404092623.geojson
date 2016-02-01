@@ -2,13 +2,14 @@
   "id": 404092623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.362544,40.03939,-76.362544,40.03939",
     "geom:latitude":40.03939,
     "geom:longitude":-76.362544,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2144 Columbia Ave",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85810789
+        85810789,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"c1ed8564d9d6aacd4834d905f4024400",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85810789,
             "region_id":85688481,
             "venue_id":404092623
         }
     ],
     "wof:id":404092623,
-    "wof:lastmodified":1449040072,
+    "wof:lastmodified":1454356991,
     "wof:name":"Speed Addiction",
     "wof:parent_id":85810789,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "accessory"
     ]
 },
-  "bbox": [-76.362544,40.03939,-76.362544,40.03939],
+  "bbox": [
+    -76.362544,
+    40.03939,
+    -76.362544,
+    40.03939
+],
   "geometry": {"coordinates":[-76.362544,40.03939],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387721901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.676948,40.755045,-79.676948,40.755045",
     "geom:latitude":40.755045,
     "geom:longitude":-79.676948,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"151 Cornplanter Rd",
     "sg:city":"Sarver",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081371,
-        85828225
+        85828225,
+        102081371
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"fe91c6a80842fd201f68bc190feaa5c4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081371,
-            "locality_id":-1,
             "neighbourhood_id":85828225,
             "region_id":85688481,
             "venue_id":387721901
         }
     ],
     "wof:id":387721901,
-    "wof:lastmodified":1449059909,
+    "wof:lastmodified":1454361230,
     "wof:name":"Kepple Family Farm",
     "wof:parent_id":85828225,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "ranch"
     ]
 },
-  "bbox": [-79.676948,40.755045,-79.676948,40.755045],
+  "bbox": [
+    -79.676948,
+    40.755045,
+    -79.676948,
+    40.755045
+],
   "geometry": {"coordinates":[-79.676948,40.755045],"type":"Point"}
 }

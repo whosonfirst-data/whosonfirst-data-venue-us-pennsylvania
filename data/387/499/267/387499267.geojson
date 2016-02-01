@@ -2,13 +2,14 @@
   "id": 387499267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.017645,40.550376,-80.017645,40.550376",
     "geom:latitude":40.550376,
     "geom:longitude":-80.017645,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"30 Mcintyre Square Dr",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -34,8 +35,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85820441
+        85820441,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +46,15 @@
     "wof:geomhash":"fc8b27af186ea71a458c35060a6d82dd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85820441,
             "region_id":85688481,
             "venue_id":387499267
         }
     ],
     "wof:id":387499267,
-    "wof:lastmodified":1449056827,
+    "wof:lastmodified":1454358634,
     "wof:name":"The Original Pancake House",
     "wof:parent_id":85820441,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "breakfast"
     ]
 },
-  "bbox": [-80.017645,40.550376,-80.017645,40.550376],
+  "bbox": [
+    -80.017645,
+    40.550376,
+    -80.017645,
+    40.550376
+],
   "geometry": {"coordinates":[-80.017645,40.550376],"type":"Point"}
 }

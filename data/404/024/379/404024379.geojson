@@ -2,13 +2,14 @@
   "id": 404024379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.69754,39.958969,-76.69754,39.958969",
     "geom:latitude":39.958969,
     "geom:longitude":-76.69754,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1401 Mount Rose Ave",
     "sg:city":"York",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080953,
-        85853795
+        85853795,
+        102080953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"bb02a981a4e98b89487d079137743f10",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
             "neighbourhood_id":85853795,
             "region_id":85688481,
             "venue_id":404024379
         }
     ],
     "wof:id":404024379,
-    "wof:lastmodified":1449039585,
+    "wof:lastmodified":1454356729,
     "wof:name":"Bethany United Methodist Church Inc",
     "wof:parent_id":85853795,
     "wof:placetype":"venue",
@@ -66,6 +65,11 @@
         "churches-methodist"
     ]
 },
-  "bbox": [-76.69754,39.958969,-76.69754,39.958969],
+  "bbox": [
+    -76.69754,
+    39.958969,
+    -76.69754,
+    39.958969
+],
   "geometry": {"coordinates":[-76.69754,39.958969],"type":"Point"}
 }

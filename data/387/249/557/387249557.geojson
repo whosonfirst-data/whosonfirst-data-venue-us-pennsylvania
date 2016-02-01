@@ -2,13 +2,14 @@
   "id": 387249557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.23338,40.447497,-80.23338,40.447497",
     "geom:latitude":40.447497,
     "geom:longitude":-80.23338,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"238 W Allegheny Rd",
     "sg:city":"Imperial",
     "sg:classifiers":[
@@ -37,11 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85818161,
+        102191575,
+        404484901,
         85633793,
         101720525,
         102080887,
-        85818161
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,9 +54,10 @@
     "wof:geomhash":"9f02a1cd889686296457dee65c8229bf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484901,
             "locality_id":101720525,
             "neighbourhood_id":85818161,
             "region_id":85688481,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":387249557,
-    "wof:lastmodified":1449056310,
+    "wof:lastmodified":1454358249,
     "wof:name":"Polidor Tamara DMD",
     "wof:parent_id":85818161,
     "wof:placetype":"venue",
@@ -76,6 +80,11 @@
         "oral"
     ]
 },
-  "bbox": [-80.23338,40.447497,-80.23338,40.447497],
+  "bbox": [
+    -80.23338,
+    40.447497,
+    -80.23338,
+    40.447497
+],
   "geometry": {"coordinates":[-80.23338,40.447497],"type":"Point"}
 }

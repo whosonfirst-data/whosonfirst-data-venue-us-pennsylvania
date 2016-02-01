@@ -2,13 +2,14 @@
   "id": 403755145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.983872,40.177393,-76.983872,40.177393",
     "geom:latitude":40.177393,
     "geom:longitude":-76.983872,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2104 Aspen Dr",
     "sg:city":"Mechanicsburg",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081359,
-        85825925
+        85825925,
+        102081359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"66245f5707ba39c6250b6b065127c299",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081359,
-            "locality_id":-1,
             "neighbourhood_id":85825925,
             "region_id":85688481,
             "venue_id":403755145
         }
     ],
     "wof:id":403755145,
-    "wof:lastmodified":1449055016,
+    "wof:lastmodified":1454357416,
     "wof:name":"K-Systems Inc",
     "wof:parent_id":85825925,
     "wof:placetype":"venue",
@@ -66,6 +65,11 @@
         "repair"
     ]
 },
-  "bbox": [-76.983872,40.177393,-76.983872,40.177393],
-  "geometry": {"coordinates":[-76.983872,40.177393],"type":"Point"}
+  "bbox": [
+    -76.983872,
+    40.177393,
+    -76.983872,
+    40.177393
+],
+  "geometry": {"coordinates":[-76.98387200000001,40.177393],"type":"Point"}
 }

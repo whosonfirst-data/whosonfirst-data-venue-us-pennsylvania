@@ -2,13 +2,14 @@
   "id": 387537659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.245101,40.169606,-80.245101,40.169606",
     "geom:latitude":40.169606,
     "geom:longitude":-80.245101,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"82 S Main St",
     "sg:city":"Washington",
     "sg:classifiers":[],
@@ -18,11 +19,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85852963,
+        102191575,
+        404487917,
         85633793,
         101718569,
         102081343,
-        85852963
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -32,9 +35,10 @@
     "wof:geomhash":"9231eb96a2047d3152e6bda3aa95b1e5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081343,
+            "localadmin_id":404487917,
             "locality_id":101718569,
             "neighbourhood_id":85852963,
             "region_id":85688481,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":387537659,
-    "wof:lastmodified":1449057035,
+    "wof:lastmodified":1454358790,
     "wof:name":"Pioneer Grille",
     "wof:parent_id":85852963,
     "wof:placetype":"venue",
@@ -50,6 +54,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.245101,40.169606,-80.245101,40.169606],
-  "geometry": {"coordinates":[-80.245101,40.169606],"type":"Point"}
+  "bbox": [
+    -80.245101,
+    40.169606,
+    -80.245101,
+    40.169606
+],
+  "geometry": {"coordinates":[-80.24510100000001,40.169606],"type":"Point"}
 }

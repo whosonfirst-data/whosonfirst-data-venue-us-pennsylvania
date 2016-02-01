@@ -2,13 +2,14 @@
   "id": 404061463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.277924,40.177996,-76.277924,40.177996",
     "geom:latitude":40.177996,
     "geom:longitude":-76.277924,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"805 Pine Hill Rd",
     "sg:city":"Lititz",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85834405
+        85834405,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"d010a505b331cc663192add831d7d5ff",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85834405,
             "region_id":85688481,
             "venue_id":404061463
         }
     ],
     "wof:id":404061463,
-    "wof:lastmodified":1449039992,
+    "wof:lastmodified":1454356938,
     "wof:name":"Weaver Floyd",
     "wof:parent_id":85834405,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "trucking"
     ]
 },
-  "bbox": [-76.277924,40.177996,-76.277924,40.177996],
+  "bbox": [
+    -76.277924,
+    40.177996,
+    -76.277924,
+    40.177996
+],
   "geometry": {"coordinates":[-76.277924,40.177996],"type":"Point"}
 }

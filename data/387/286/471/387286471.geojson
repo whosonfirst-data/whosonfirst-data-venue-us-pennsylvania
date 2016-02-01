@@ -2,13 +2,14 @@
   "id": 387286471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.985313,40.427711,-79.985313,40.427711",
     "geom:latitude":40.427711,
     "geom:longitude":-79.985313,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"82 S 13th St",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85850327,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85850327
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"55966554271ea75fdc7f77c25dc0baa9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85850327,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387286471,
-    "wof:lastmodified":1449057098,
+    "wof:lastmodified":1454358835,
     "wof:name":"Tradewinds Eyewear",
     "wof:parent_id":85850327,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "sunglass"
     ]
 },
-  "bbox": [-79.985313,40.427711,-79.985313,40.427711],
+  "bbox": [
+    -79.985313,
+    40.427711,
+    -79.985313,
+    40.427711
+],
   "geometry": {"coordinates":[-79.985313,40.427711],"type":"Point"}
 }

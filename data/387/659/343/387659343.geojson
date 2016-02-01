@@ -2,13 +2,14 @@
   "id": 387659343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.201218,40.721689,-79.201218,40.721689",
     "geom:latitude":40.721689,
     "geom:longitude":-79.201218,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"9272 Route 954 Hwy N",
     "sg:city":"Creekside",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081387,
-        85857805
+        85857805,
+        102081387
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"f6c909dd09f41e46699a7caec7e18815",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081387,
-            "locality_id":-1,
             "neighbourhood_id":85857805,
             "region_id":85688481,
             "venue_id":387659343
         }
     ],
     "wof:id":387659343,
-    "wof:lastmodified":1449056516,
+    "wof:lastmodified":1454358413,
     "wof:name":"Glimmer Shop",
     "wof:parent_id":85857805,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "christmas"
     ]
 },
-  "bbox": [-79.201218,40.721689,-79.201218,40.721689],
+  "bbox": [
+    -79.201218,
+    40.721689,
+    -79.201218,
+    40.721689
+],
   "geometry": {"coordinates":[-79.201218,40.721689],"type":"Point"}
 }

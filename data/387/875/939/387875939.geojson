@@ -2,13 +2,14 @@
   "id": 387875939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.748894,40.915997,-77.748894,40.915997",
     "geom:latitude":40.915997,
     "geom:longitude":-77.748894,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"141 Medical Park Ln # 2",
     "sg:city":"Bellefonte",
     "sg:classifiers":[
@@ -25,11 +26,13 @@
     "sg:website":"www.centremedsurg.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85840619,
+        102191575,
+        404485871,
         85633793,
         101718145,
         102081369,
-        85840619
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +42,10 @@
     "wof:geomhash":"31b8542f2183f74334b1662b1a1ce9b1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081369,
+            "localadmin_id":404485871,
             "locality_id":101718145,
             "neighbourhood_id":85840619,
             "region_id":85688481,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":387875939,
-    "wof:lastmodified":1449058933,
+    "wof:lastmodified":1454360932,
     "wof:name":"Huffard Robert S MD",
     "wof:parent_id":85840619,
     "wof:placetype":"venue",
@@ -57,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.748894,40.915997,-77.748894,40.915997],
-  "geometry": {"coordinates":[-77.748894,40.915997],"type":"Point"}
+  "bbox": [
+    -77.748894,
+    40.915997,
+    -77.748894,
+    40.915997
+],
+  "geometry": {"coordinates":[-77.74889400000001,40.915997],"type":"Point"}
 }

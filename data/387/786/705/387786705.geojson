@@ -2,13 +2,14 @@
   "id": 387786705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.826801,41.407805,-79.826801,41.407805",
     "geom:latitude":41.407805,
     "geom:longitude":-79.826801,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"212 Fox St",
     "sg:city":"Franklin",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420539847,
+        102191575,
+        404487609,
         85633793,
         101717321,
-        102081279
+        102081279,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"9b767d5649f0cd71a64376970a4a3c8c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081279,
+            "localadmin_id":404487609,
             "locality_id":101717321,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420539847,
             "region_id":85688481,
             "venue_id":387786705
         }
     ],
     "wof:id":387786705,
-    "wof:lastmodified":1449056604,
+    "wof:lastmodified":1454358477,
     "wof:name":"United States Government Uni",
-    "wof:parent_id":-1,
+    "wof:parent_id":420539847,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "state"
     ]
 },
-  "bbox": [-79.826801,41.407805,-79.826801,41.407805],
+  "bbox": [
+    -79.826801,
+    41.407805,
+    -79.826801,
+    41.407805
+],
   "geometry": {"coordinates":[-79.826801,41.407805],"type":"Point"}
 }

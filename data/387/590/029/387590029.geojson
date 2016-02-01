@@ -2,13 +2,14 @@
   "id": 387590029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.895599,40.02346,-79.895599,40.02346",
     "geom:latitude":40.02346,
     "geom:longitude":-79.895599,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"10 Main St",
     "sg:city":"Brownsville",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85810285,
+        102191575,
+        404483987,
         85633793,
-        101717679,
-        102080959,
-        85810285
+        101718565,
+        102081343,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +52,18 @@
     "wof:geomhash":"b6004a1c207deac202ea7eb5c901d105",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102080959,
-            "locality_id":101717679,
+            "county_id":102081343,
+            "localadmin_id":404483987,
+            "locality_id":101718565,
             "neighbourhood_id":85810285,
             "region_id":85688481,
             "venue_id":387590029
         }
     ],
     "wof:id":387590029,
-    "wof:lastmodified":1449058370,
+    "wof:lastmodified":1454360761,
     "wof:name":"S A Tuday",
     "wof:parent_id":85810285,
     "wof:placetype":"venue",
@@ -72,6 +76,11 @@
         "cabinet"
     ]
 },
-  "bbox": [-79.895599,40.02346,-79.895599,40.02346],
+  "bbox": [
+    -79.895599,
+    40.02346,
+    -79.895599,
+    40.02346
+],
   "geometry": {"coordinates":[-79.895599,40.02346],"type":"Point"}
 }

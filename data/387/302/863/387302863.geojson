@@ -2,13 +2,14 @@
   "id": 387302863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.939796,40.426231,-79.939796,40.426231",
     "geom:latitude":40.426231,
     "geom:longitude":-79.939796,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"601 Greenfield Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85822993,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85822993
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"b555827be647a169f3779638ae2ce117",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85822993,
             "region_id":85688481,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":387302863,
-    "wof:lastmodified":1449057381,
+    "wof:lastmodified":1454359076,
     "wof:name":"Win Green Bar",
     "wof:parent_id":85822993,
     "wof:placetype":"venue",
@@ -68,6 +72,11 @@
         "grill"
     ]
 },
-  "bbox": [-79.939796,40.426231,-79.939796,40.426231],
+  "bbox": [
+    -79.939796,
+    40.426231,
+    -79.939796,
+    40.426231
+],
   "geometry": {"coordinates":[-79.939796,40.426231],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387795197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.58074,41.592097,-79.58074,41.592097",
     "geom:latitude":41.592097,
     "geom:longitude":-79.58074,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"108 W State St",
     "sg:city":"Pleasantville",
     "sg:classifiers":[
@@ -34,8 +35,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081279,
-        85842087
+        85842087,
+        102081279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +46,15 @@
     "wof:geomhash":"ccb4350d4639e6e650e4aeba0a0aa35e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081279,
-            "locality_id":-1,
             "neighbourhood_id":85842087,
             "region_id":85688481,
             "venue_id":387795197
         }
     ],
     "wof:id":387795197,
-    "wof:lastmodified":1449058359,
+    "wof:lastmodified":1454360758,
     "wof:name":"Nancy's Bulk Food Store",
     "wof:parent_id":85842087,
     "wof:placetype":"venue",
@@ -65,6 +64,11 @@
         "product"
     ]
 },
-  "bbox": [-79.58074,41.592097,-79.58074,41.592097],
-  "geometry": {"coordinates":[-79.58074,41.592097],"type":"Point"}
+  "bbox": [
+    -79.58074,
+    41.592097,
+    -79.58074,
+    41.592097
+],
+  "geometry": {"coordinates":[-79.58074000000001,41.592097],"type":"Point"}
 }

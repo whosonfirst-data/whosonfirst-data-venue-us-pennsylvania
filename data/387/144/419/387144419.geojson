@@ -2,13 +2,14 @@
   "id": 387144419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.866321,40.301272,-79.866321,40.301272",
     "geom:latitude":40.301272,
     "geom:longitude":-79.866321,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2002 Lincoln Blvd",
     "sg:city":"Elizabeth",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536399,
+        102191575,
+        404484873,
         85633793,
-        101718655,
-        102080887
+        101718753,
+        102080887,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"adebeea4ab0ba9ef130e644761c2f45d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":101718655,
-            "neighbourhood_id":-1,
+            "localadmin_id":404484873,
+            "locality_id":101718753,
+            "neighbourhood_id":420536399,
             "region_id":85688481,
             "venue_id":387144419
         }
     ],
     "wof:id":387144419,
-    "wof:lastmodified":1449058895,
+    "wof:lastmodified":1454360918,
     "wof:name":"Lovedale Sunoco",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536399,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.866321,40.301272,-79.866321,40.301272],
+  "bbox": [
+    -79.866321,
+    40.301272,
+    -79.866321,
+    40.301272
+],
   "geometry": {"coordinates":[-79.866321,40.301272],"type":"Point"}
 }

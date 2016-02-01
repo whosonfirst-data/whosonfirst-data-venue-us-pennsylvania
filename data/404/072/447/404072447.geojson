@@ -2,13 +2,14 @@
   "id": 404072447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.155786,40.215876,-76.155786,40.215876",
     "geom:latitude":40.215876,
     "geom:longitude":-76.155786,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"16 S Line Rd",
     "sg:city":"Stevens",
     "sg:classifiers":[
@@ -48,7 +49,6 @@
     "wof:geomhash":"c32f798737f22989cdaa75bf3f9fed9d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
             "locality_id":101718645,
@@ -58,7 +58,7 @@
         }
     ],
     "wof:id":404072447,
-    "wof:lastmodified":1449039768,
+    "wof:lastmodified":1454356785,
     "wof:name":"United States Postal Service",
     "wof:parent_id":85830575,
     "wof:placetype":"venue",
@@ -69,6 +69,11 @@
         "shipping"
     ]
 },
-  "bbox": [-76.155786,40.215876,-76.155786,40.215876],
-  "geometry": {"coordinates":[-76.155786,40.215876],"type":"Point"}
+  "bbox": [
+    -76.155786,
+    40.215876,
+    -76.155786,
+    40.215876
+],
+  "geometry": {"coordinates":[-76.15578600000001,40.215876],"type":"Point"}
 }

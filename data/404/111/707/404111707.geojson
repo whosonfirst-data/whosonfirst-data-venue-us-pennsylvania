@@ -2,13 +2,14 @@
   "id": 404111707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.752472,41.327091,-77.752472,41.327091",
     "geom:latitude":41.327091,
     "geom:longitude":-77.752472,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"125 7th St",
     "sg:city":"Renovo",
     "sg:classifiers":[
@@ -34,8 +35,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080917,
-        85826685
+        85826685,
+        102080917
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +46,15 @@
     "wof:geomhash":"dc211cf5383795baecec04463480033f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080917,
-            "locality_id":-1,
             "neighbourhood_id":85826685,
             "region_id":85688481,
             "venue_id":404111707
         }
     ],
     "wof:id":404111707,
-    "wof:lastmodified":1449040353,
+    "wof:lastmodified":1454357157,
     "wof:name":"First Methodist Church",
     "wof:parent_id":85826685,
     "wof:placetype":"venue",
@@ -65,6 +64,11 @@
         "churches-methodist"
     ]
 },
-  "bbox": [-77.752472,41.327091,-77.752472,41.327091],
+  "bbox": [
+    -77.752472,
+    41.327091,
+    -77.752472,
+    41.327091
+],
   "geometry": {"coordinates":[-77.752472,41.327091],"type":"Point"}
 }

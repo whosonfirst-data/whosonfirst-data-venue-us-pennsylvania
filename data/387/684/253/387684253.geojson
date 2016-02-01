@@ -2,13 +2,14 @@
   "id": 387684253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.933242,40.294317,-78.933242,40.294317",
     "geom:latitude":40.294317,
     "geom:longitude":-78.933242,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"322 Warren St Ste 220",
     "sg:city":"Johnstown",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"http://www.interim.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85846273,
+        102191575,
+        404485115,
         85633793,
         101717809,
         102080879,
-        85846273
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"a7716d9273784441ddd140e181882b73",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080879,
+            "localadmin_id":404485115,
             "locality_id":101717809,
             "neighbourhood_id":85846273,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387684253,
-    "wof:lastmodified":1449057050,
+    "wof:lastmodified":1454358800,
     "wof:name":"Interim Healthcare",
     "wof:parent_id":85846273,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "medical"
     ]
 },
-  "bbox": [-78.933242,40.294317,-78.933242,40.294317],
-  "geometry": {"coordinates":[-78.933242,40.294317],"type":"Point"}
+  "bbox": [
+    -78.933242,
+    40.294317,
+    -78.933242,
+    40.294317
+],
+  "geometry": {"coordinates":[-78.93324200000001,40.294317],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403989765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.990587,39.816188,-76.990587,39.816188",
     "geom:latitude":39.816188,
     "geom:longitude":-76.990587,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1010 Eichelberger St",
     "sg:city":"Hanover",
     "sg:classifiers":[
@@ -92,7 +93,6 @@
     "wof:geomhash":"26b14074902db6c06b79d8e23caa951a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080953,
             "locality_id":101717245,
@@ -102,7 +102,7 @@
         }
     ],
     "wof:id":403989765,
-    "wof:lastmodified":1449055588,
+    "wof:lastmodified":1454357763,
     "wof:name":"Sherwin-Williams",
     "wof:parent_id":85834123,
     "wof:placetype":"venue",
@@ -127,6 +127,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-76.990587,39.816188,-76.990587,39.816188],
+  "bbox": [
+    -76.990587,
+    39.816188,
+    -76.990587,
+    39.816188
+],
   "geometry": {"coordinates":[-76.990587,39.816188],"type":"Point"}
 }

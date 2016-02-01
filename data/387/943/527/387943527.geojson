@@ -2,13 +2,14 @@
   "id": 387943527,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.245003,40.2019,-77.245003,40.2019",
     "geom:latitude":40.2019,
     "geom:longitude":-77.245003,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1460 Newville Rd",
     "sg:city":"Carlisle",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     "sg:website":"www.thecomputerbarn.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85865395,
+        102191575,
+        404486423,
         85633793,
         101719085,
         102081359,
-        85865395
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"636cb21f5e8c1bc4dc2099a6888b067e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081359,
+            "localadmin_id":404486423,
             "locality_id":101719085,
             "neighbourhood_id":85865395,
             "region_id":85688481,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":387943527,
-    "wof:lastmodified":1449057107,
+    "wof:lastmodified":1454358845,
     "wof:name":"Computer Barn the",
     "wof:parent_id":85865395,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "repair"
     ]
 },
-  "bbox": [-77.245003,40.2019,-77.245003,40.2019],
+  "bbox": [
+    -77.245003,
+    40.2019,
+    -77.245003,
+    40.2019
+],
   "geometry": {"coordinates":[-77.245003,40.2019],"type":"Point"}
 }

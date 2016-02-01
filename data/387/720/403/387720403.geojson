@@ -2,13 +2,14 @@
   "id": 387720403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.147776,40.925101,-80.147776,40.925101",
     "geom:latitude":40.925101,
     "geom:longitude":-80.147776,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1141 W Portersville Rd Ste 1",
     "sg:city":"Portersville",
     "sg:classifiers":[
@@ -38,8 +39,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080929,
-        85833167
+        85833167,
+        102080929
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +50,15 @@
     "wof:geomhash":"c8bb0653a6f17745923bd8de224c5a8f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080929,
-            "locality_id":-1,
             "neighbourhood_id":85833167,
             "region_id":85688481,
             "venue_id":387720403
         }
     ],
     "wof:id":387720403,
-    "wof:lastmodified":1449057015,
+    "wof:lastmodified":1454358769,
     "wof:name":"Portersville Borough",
     "wof:parent_id":85833167,
     "wof:placetype":"venue",
@@ -73,6 +72,11 @@
         "village"
     ]
 },
-  "bbox": [-80.147776,40.925101,-80.147776,40.925101],
-  "geometry": {"coordinates":[-80.147776,40.925101],"type":"Point"}
+  "bbox": [
+    -80.147776,
+    40.925101,
+    -80.147776,
+    40.925101
+],
+  "geometry": {"coordinates":[-80.14777599999999,40.925101],"type":"Point"}
 }

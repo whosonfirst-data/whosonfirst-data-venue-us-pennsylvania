@@ -2,13 +2,14 @@
   "id": 387439403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.982986,40.368012,-79.982986,40.368012",
     "geom:latitude":40.368012,
     "geom:longitude":-79.982986,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"141 Towne Square Way",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85857905,
+        102191575,
+        404484247,
         85633793,
         101718705,
         102080887,
-        85857905
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"b63efc047b430861ed73d75165b1bca0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484247,
             "locality_id":101718705,
             "neighbourhood_id":85857905,
             "region_id":85688481,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":387439403,
-    "wof:lastmodified":1449057150,
+    "wof:lastmodified":1454358884,
     "wof:name":"Gregory Joan Crnp",
     "wof:parent_id":85857905,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.982986,40.368012,-79.982986,40.368012],
+  "bbox": [
+    -79.982986,
+    40.368012,
+    -79.982986,
+    40.368012
+],
   "geometry": {"coordinates":[-79.982986,40.368012],"type":"Point"}
 }

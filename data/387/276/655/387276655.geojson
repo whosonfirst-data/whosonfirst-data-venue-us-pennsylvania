@@ -2,13 +2,14 @@
   "id": 387276655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.751282,40.448818,-79.751282,40.448818",
     "geom:latitude":40.448818,
     "geom:longitude":-79.751282,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"629 Beatty Rd",
     "sg:city":"Monroeville",
     "sg:classifiers":[
@@ -43,11 +44,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85834841,
+        102191575,
+        404484135,
         85633793,
         101718841,
         102080887,
-        85834841
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,9 +60,10 @@
     "wof:geomhash":"bad35f51174be686f7c136fdd98129f0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484135,
             "locality_id":101718841,
             "neighbourhood_id":85834841,
             "region_id":85688481,
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":387276655,
-    "wof:lastmodified":1449056257,
+    "wof:lastmodified":1454358203,
     "wof:name":"Memory Lane Photography",
     "wof:parent_id":85834841,
     "wof:placetype":"venue",
@@ -83,6 +87,11 @@
         "rental"
     ]
 },
-  "bbox": [-79.751282,40.448818,-79.751282,40.448818],
+  "bbox": [
+    -79.751282,
+    40.448818,
+    -79.751282,
+    40.448818
+],
   "geometry": {"coordinates":[-79.751282,40.448818],"type":"Point"}
 }

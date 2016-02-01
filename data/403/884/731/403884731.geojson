@@ -2,13 +2,14 @@
   "id": 403884731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.846723,40.302332,-76.846723,40.302332",
     "geom:latitude":40.302332,
     "geom:longitude":-76.846723,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2541 Brindle Rd",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85851635
+        85851635,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"4d694a2041f7d84c48e55154b980c67f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85851635,
             "region_id":85688481,
             "venue_id":403884731
         }
     ],
     "wof:id":403884731,
-    "wof:lastmodified":1449055710,
+    "wof:lastmodified":1454357834,
     "wof:name":"New York & Comapny",
     "wof:parent_id":85851635,
     "wof:placetype":"venue",
@@ -63,6 +62,11 @@
         "women's"
     ]
 },
-  "bbox": [-76.846723,40.302332,-76.846723,40.302332],
+  "bbox": [
+    -76.846723,
+    40.302332,
+    -76.846723,
+    40.302332
+],
   "geometry": {"coordinates":[-76.846723,40.302332],"type":"Point"}
 }

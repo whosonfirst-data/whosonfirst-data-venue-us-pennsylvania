@@ -2,13 +2,14 @@
   "id": 387153979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.948209,40.613864,-79.948209,40.613864",
     "geom:latitude":40.613864,
     "geom:longitude":-79.948209,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2873 W Hardies Rd",
     "sg:city":"Gibsonia",
     "sg:classifiers":[
@@ -28,7 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420536325,
+        102191575,
+        404484173,
         85633793,
+        101720497,
+        102080887,
         85688481
     ],
     "wof:breaches":[],
@@ -39,18 +45,20 @@
     "wof:geomhash":"dda2be23013659aa41d963278e45f10a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102080887,
+            "localadmin_id":404484173,
+            "locality_id":101720497,
+            "neighbourhood_id":420536325,
             "region_id":85688481,
             "venue_id":387153979
         }
     ],
     "wof:id":387153979,
-    "wof:lastmodified":1449058732,
+    "wof:lastmodified":1454360865,
     "wof:name":"Kimes Technologies International, Inc.",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536325,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -59,6 +67,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-79.948209,40.613864,-79.948209,40.613864],
-  "geometry": {"coordinates":[-79.948209,40.613864],"type":"Point"}
+  "bbox": [
+    -79.948209,
+    40.613864,
+    -79.948209,
+    40.613864
+],
+  "geometry": {"coordinates":[-79.94820900000001,40.613864],"type":"Point"}
 }

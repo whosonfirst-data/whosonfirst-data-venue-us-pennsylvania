@@ -2,13 +2,14 @@
   "id": 387101015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.22639,40.634786,-80.22639,40.634786",
     "geom:latitude":40.634786,
     "geom:longitude":-80.22639,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"348 Berry St",
     "sg:city":"Baden",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85808703,
+        102191575,
+        404482583,
         85633793,
         101718403,
         102081323,
-        85808703
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"15db232f1631e9d767d3992b0d7df889",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081323,
+            "localadmin_id":404482583,
             "locality_id":101718403,
             "neighbourhood_id":85808703,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387101015,
-    "wof:lastmodified":1449058107,
+    "wof:lastmodified":1454360683,
     "wof:name":"Kims Mobile Notary Services",
     "wof:parent_id":85808703,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "bureau"
     ]
 },
-  "bbox": [-80.22639,40.634786,-80.22639,40.634786],
-  "geometry": {"coordinates":[-80.22639,40.634786],"type":"Point"}
+  "bbox": [
+    -80.22639,
+    40.634786,
+    -80.22639,
+    40.634786
+],
+  "geometry": {"coordinates":[-80.22638999999999,40.634786],"type":"Point"}
 }

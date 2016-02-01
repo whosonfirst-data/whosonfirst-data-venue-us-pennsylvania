@@ -2,13 +2,14 @@
   "id": 387340103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.885719,40.41819,-79.885719,40.41819",
     "geom:latitude":40.41819,
     "geom:longitude":-79.885719,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2250 Palmer St",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85844235,
+        102191575,
+        404484253,
         85633793,
         101718701,
         102080887,
-        85844235
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"54d6d27c4620e73ad4e3ba0e9718be7a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484253,
             "locality_id":101718701,
             "neighbourhood_id":85844235,
             "region_id":85688481,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":387340103,
-    "wof:lastmodified":1449059043,
+    "wof:lastmodified":1454360966,
     "wof:name":"E H Griffith Inc",
     "wof:parent_id":85844235,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-79.885719,40.41819,-79.885719,40.41819],
-  "geometry": {"coordinates":[-79.885719,40.41819],"type":"Point"}
+  "bbox": [
+    -79.885719,
+    40.41819,
+    -79.885719,
+    40.41819
+],
+  "geometry": {"coordinates":[-79.88571899999999,40.41819],"type":"Point"}
 }

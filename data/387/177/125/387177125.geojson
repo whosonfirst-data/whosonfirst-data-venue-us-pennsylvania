@@ -2,13 +2,14 @@
   "id": 387177125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.143791,40.377899,-80.143791,40.377899",
     "geom:latitude":40.377899,
     "geom:longitude":-80.143791,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5042 Thoms Run Rd",
     "sg:city":"Oakdale",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85854259,
+        102191575,
+        404484875,
         85633793,
         101720503,
         102080887,
-        85854259
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"fa1bc1cc13aa1ed54ff36d20fc771574",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484875,
             "locality_id":101720503,
             "neighbourhood_id":85854259,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387177125,
-    "wof:lastmodified":1449059921,
+    "wof:lastmodified":1454361233,
     "wof:name":"Worthington, D. Sales Associates, Inc.",
     "wof:parent_id":85854259,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "sales"
     ]
 },
-  "bbox": [-80.143791,40.377899,-80.143791,40.377899],
-  "geometry": {"coordinates":[-80.143791,40.377899],"type":"Point"}
+  "bbox": [
+    -80.143791,
+    40.377899,
+    -80.143791,
+    40.377899
+],
+  "geometry": {"coordinates":[-80.14379099999999,40.377899],"type":"Point"}
 }

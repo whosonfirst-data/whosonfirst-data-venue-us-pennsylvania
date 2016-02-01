@@ -2,13 +2,14 @@
   "id": 404086317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.29146,40.045663,-76.29146,40.045663",
     "geom:latitude":40.045663,
     "geom:longitude":-76.29146,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"746 Lehigh Ave",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85822505,
+        102191575,
+        404487183,
         85633793,
         101718643,
         102081377,
-        85822505
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"fccd316e1b25daa09c359b4a79c8e1e7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081377,
+            "localadmin_id":404487183,
             "locality_id":101718643,
             "neighbourhood_id":85822505,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":404086317,
-    "wof:lastmodified":1449039937,
+    "wof:lastmodified":1454356901,
     "wof:name":"Vndataweb, Inc.",
     "wof:parent_id":85822505,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "internet"
     ]
 },
-  "bbox": [-76.29146,40.045663,-76.29146,40.045663],
+  "bbox": [
+    -76.29146,
+    40.045663,
+    -76.29146,
+    40.045663
+],
   "geometry": {"coordinates":[-76.29146,40.045663],"type":"Point"}
 }

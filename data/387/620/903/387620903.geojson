@@ -2,13 +2,14 @@
   "id": 387620903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.523257,40.30217,-79.523257,40.30217",
     "geom:latitude":40.30217,
     "geom:longitude":-79.523257,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"835 E Pittsburgh St",
     "sg:city":"Greensburg",
     "sg:classifiers":[
@@ -41,8 +42,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081383,
-        85851151
+        85851151,
+        102081383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,17 +53,15 @@
     "wof:geomhash":"6c760b74955565a819fc1d342faa6467",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":-1,
             "neighbourhood_id":85851151,
             "region_id":85688481,
             "venue_id":387620903
         }
     ],
     "wof:id":387620903,
-    "wof:lastmodified":1449059585,
+    "wof:lastmodified":1454361128,
     "wof:name":"Tcb Construction Company Inc",
     "wof:parent_id":85851151,
     "wof:placetype":"venue",
@@ -74,6 +73,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.523257,40.30217,-79.523257,40.30217],
+  "bbox": [
+    -79.523257,
+    40.30217,
+    -79.523257,
+    40.30217
+],
   "geometry": {"coordinates":[-79.523257,40.30217],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403741657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.045492,40.250455,-77.045492,40.250455",
     "geom:latitude":40.250455,
     "geom:longitude":-77.045492,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"46 Peters Dr",
     "sg:city":"Mechanicsburg",
     "sg:classifiers":[
@@ -38,8 +39,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081359,
-        85826667
+        85826667,
+        102081359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +50,15 @@
     "wof:geomhash":"cd02c6fd9277b1c88aa006b18294d60e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081359,
-            "locality_id":-1,
             "neighbourhood_id":85826667,
             "region_id":85688481,
             "venue_id":403741657
         }
     ],
     "wof:id":403741657,
-    "wof:lastmodified":1449054695,
+    "wof:lastmodified":1454357221,
     "wof:name":"Rita's Water Ice",
     "wof:parent_id":85826667,
     "wof:placetype":"venue",
@@ -72,6 +71,11 @@
         "refreshment"
     ]
 },
-  "bbox": [-77.045492,40.250455,-77.045492,40.250455],
+  "bbox": [
+    -77.045492,
+    40.250455,
+    -77.045492,
+    40.250455
+],
   "geometry": {"coordinates":[-77.045492,40.250455],"type":"Point"}
 }

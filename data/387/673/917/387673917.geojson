@@ -2,13 +2,14 @@
   "id": 387673917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.121703,41.319525,-78.121703,41.319525",
     "geom:latitude":41.319525,
     "geom:longitude":-78.121703,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"10096 Main St",
     "sg:city":"Sinnamahoning",
     "sg:classifiers":[
@@ -24,7 +25,12 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420537131,
+        102191575,
+        404483063,
         85633793,
+        101718561,
+        102081363,
         85688481
     ],
     "wof:breaches":[],
@@ -35,23 +41,30 @@
     "wof:geomhash":"7bc71db1a25f44f6753e914d20dc3635",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081363,
+            "localadmin_id":404483063,
+            "locality_id":101718561,
+            "neighbourhood_id":420537131,
             "region_id":85688481,
             "venue_id":387673917
         }
     ],
     "wof:id":387673917,
-    "wof:lastmodified":1449057582,
+    "wof:lastmodified":1454360521,
     "wof:name":"Leeann Macro",
-    "wof:parent_id":-1,
+    "wof:parent_id":420537131,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.121703,41.319525,-78.121703,41.319525],
+  "bbox": [
+    -78.121703,
+    41.319525,
+    -78.121703,
+    41.319525
+],
   "geometry": {"coordinates":[-78.121703,41.319525],"type":"Point"}
 }

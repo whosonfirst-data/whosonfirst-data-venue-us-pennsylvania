@@ -2,13 +2,14 @@
   "id": 404060359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.315936,40.153129,-76.315936,40.153129",
     "geom:latitude":40.153129,
     "geom:longitude":-76.315936,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"562 W 2nd Ave",
     "sg:city":"Lititz",
     "sg:classifiers":[
@@ -34,8 +35,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85806481
+        85806481,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +46,15 @@
     "wof:geomhash":"bc3cb7c9fc428c5f7a33e56608787ead",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85806481,
             "region_id":85688481,
             "venue_id":404060359
         }
     ],
     "wof:id":404060359,
-    "wof:lastmodified":1449040219,
+    "wof:lastmodified":1454357070,
     "wof:name":"Superdock, David T, Md - Lititz Family Practice Assoc",
     "wof:parent_id":85806481,
     "wof:placetype":"venue",
@@ -70,6 +69,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-76.315936,40.153129,-76.315936,40.153129],
-  "geometry": {"coordinates":[-76.315936,40.153129],"type":"Point"}
+  "bbox": [
+    -76.315936,
+    40.153129,
+    -76.315936,
+    40.153129
+],
+  "geometry": {"coordinates":[-76.31593599999999,40.153129],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387842309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.003402,42.091703,-80.003402,42.091703",
     "geom:latitude":42.091703,
     "geom:longitude":-80.003402,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6101 Wattsburg Rd",
     "sg:city":"Erie",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080955,
-        85827775
+        85827775,
+        102080955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"da7547368da4003c863c8fafea0fe287",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080955,
-            "locality_id":-1,
             "neighbourhood_id":85827775,
             "region_id":85688481,
             "venue_id":387842309
         }
     ],
     "wof:id":387842309,
-    "wof:lastmodified":1449056389,
+    "wof:lastmodified":1454358305,
     "wof:name":"Sunrise Restaurant",
     "wof:parent_id":85827775,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "family"
     ]
 },
-  "bbox": [-80.003402,42.091703,-80.003402,42.091703],
-  "geometry": {"coordinates":[-80.003402,42.091703],"type":"Point"}
+  "bbox": [
+    -80.003402,
+    42.091703,
+    -80.003402,
+    42.091703
+],
+  "geometry": {"coordinates":[-80.00340199999999,42.091703],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387868525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.647219,41.955952,-78.647219,41.955952",
     "geom:latitude":41.955952,
     "geom:longitude":-78.647219,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"109 Main St",
     "sg:city":"Bradford",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080951,
-        85824425
+        85824425,
+        102080951
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"aaaaa69741f28481bc303dac46daf452",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080951,
-            "locality_id":-1,
             "neighbourhood_id":85824425,
             "region_id":85688481,
             "venue_id":387868525
         }
     ],
     "wof:id":387868525,
-    "wof:lastmodified":1449056292,
+    "wof:lastmodified":1454358228,
     "wof:name":"Laherradura Mexican Resturant",
     "wof:parent_id":85824425,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "mexican"
     ]
 },
-  "bbox": [-78.647219,41.955952,-78.647219,41.955952],
-  "geometry": {"coordinates":[-78.647219,41.955952],"type":"Point"}
+  "bbox": [
+    -78.647219,
+    41.955952,
+    -78.647219,
+    41.955952
+],
+  "geometry": {"coordinates":[-78.64721900000001,41.955952],"type":"Point"}
 }

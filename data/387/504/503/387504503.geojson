@@ -2,13 +2,14 @@
   "id": 387504503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.020308,40.546973,-80.020308,40.546973",
     "geom:latitude":40.546973,
     "geom:longitude":-80.020308,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"99 Corbett Ct",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -38,8 +39,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85828195
+        85828195,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +50,15 @@
     "wof:geomhash":"2120d571d58e8b1a4f5b4525b03b7509",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85828195,
             "region_id":85688481,
             "venue_id":387504503
         }
     ],
     "wof:id":387504503,
-    "wof:lastmodified":1449056770,
+    "wof:lastmodified":1454358596,
     "wof:name":"Towne North Towers",
     "wof:parent_id":85828195,
     "wof:placetype":"venue",
@@ -73,6 +72,11 @@
         "listing"
     ]
 },
-  "bbox": [-80.020308,40.546973,-80.020308,40.546973],
+  "bbox": [
+    -80.020308,
+    40.546973,
+    -80.020308,
+    40.546973
+],
   "geometry": {"coordinates":[-80.020308,40.546973],"type":"Point"}
 }

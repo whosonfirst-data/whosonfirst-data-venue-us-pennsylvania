@@ -2,13 +2,14 @@
   "id": 404015199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.679237,39.972529,-76.679237,39.972529",
     "geom:latitude":39.972529,
     "geom:longitude":-76.679237,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2430 Eastern Blvd",
     "sg:city":"York",
     "sg:classifiers":[
@@ -64,10 +65,13 @@
     "sg:website":"http://www.riteaid.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420540439,
+        102191575,
+        404487939,
         85633793,
         101719469,
-        102080953
+        102080953,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,19 +81,20 @@
     "wof:geomhash":"87ad925d08f5c4c302f9829b4aecba93",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080953,
+            "localadmin_id":404487939,
             "locality_id":101719469,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420540439,
             "region_id":85688481,
             "venue_id":404015199
         }
     ],
     "wof:id":404015199,
-    "wof:lastmodified":1449039330,
+    "wof:lastmodified":1454356573,
     "wof:name":"Rite Aid",
-    "wof:parent_id":-1,
+    "wof:parent_id":420540439,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -108,6 +113,11 @@
         "greeting"
     ]
 },
-  "bbox": [-76.679237,39.972529,-76.679237,39.972529],
+  "bbox": [
+    -76.679237,
+    39.972529,
+    -76.679237,
+    39.972529
+],
   "geometry": {"coordinates":[-76.679237,39.972529],"type":"Point"}
 }

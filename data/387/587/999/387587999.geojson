@@ -2,13 +2,14 @@
   "id": 387587999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.72903,39.900219,-79.72903,39.900219",
     "geom:latitude":39.900219,
     "geom:longitude":-79.72903,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"18 Mill St",
     "sg:city":"Uniontown",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85850161,
+        102191575,
+        404487055,
         85633793,
+        101719799,
         102080959,
-        85850161
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +46,18 @@
     "wof:geomhash":"fabbf01e3a92d17622b3b04968223730",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080959,
-            "locality_id":-1,
+            "localadmin_id":404487055,
+            "locality_id":101719799,
             "neighbourhood_id":85850161,
             "region_id":85688481,
             "venue_id":387587999
         }
     ],
     "wof:id":387587999,
-    "wof:lastmodified":1449057403,
+    "wof:lastmodified":1454359103,
     "wof:name":"Ilumina Clinical Associates",
     "wof:parent_id":85850161,
     "wof:placetype":"venue",
@@ -64,6 +69,11 @@
         "disorders-information"
     ]
 },
-  "bbox": [-79.72903,39.900219,-79.72903,39.900219],
-  "geometry": {"coordinates":[-79.72903,39.900219],"type":"Point"}
+  "bbox": [
+    -79.72903,
+    39.900219,
+    -79.72903,
+    39.900219
+],
+  "geometry": {"coordinates":[-79.72902999999999,39.900219],"type":"Point"}
 }

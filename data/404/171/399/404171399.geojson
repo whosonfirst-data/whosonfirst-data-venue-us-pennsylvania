@@ -2,13 +2,14 @@
   "id": 404171399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.381104,40.610298,-75.381104,40.610298",
     "geom:latitude":40.610298,
     "geom:longitude":-75.381104,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"127 W 4th St",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85897245,
+        102191575,
+        404485987,
         85633793,
         101717907,
         102081395,
-        85897245
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"64ade8e5074f6fdd2d39d14defd11e74",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081395,
+            "localadmin_id":404485987,
             "locality_id":101717907,
             "neighbourhood_id":85897245,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":404171399,
-    "wof:lastmodified":1449040331,
+    "wof:lastmodified":1454357141,
     "wof:name":"Matus Paul G PA",
     "wof:parent_id":85897245,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "accountant"
     ]
 },
-  "bbox": [-75.381104,40.610298,-75.381104,40.610298],
-  "geometry": {"coordinates":[-75.381104,40.610298],"type":"Point"}
+  "bbox": [
+    -75.381104,
+    40.610298,
+    -75.381104,
+    40.610298
+],
+  "geometry": {"coordinates":[-75.38110399999999,40.610298],"type":"Point"}
 }

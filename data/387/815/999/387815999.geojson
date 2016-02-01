@@ -2,13 +2,14 @@
   "id": 387815999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.354796,41.97022,-80.354796,41.97022",
     "geom:latitude":41.97022,
     "geom:longitude":-80.354796,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"10730 Cross Station Rd",
     "sg:city":"Girard",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080955,
-        85821593
+        85821593,
+        102080955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"dbf0a5aa9faa01bc8cffc5fc2313564b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080955,
-            "locality_id":-1,
             "neighbourhood_id":85821593,
             "region_id":85688481,
             "venue_id":387815999
         }
     ],
     "wof:id":387815999,
-    "wof:lastmodified":1449057947,
+    "wof:lastmodified":1454360640,
     "wof:name":"Aromas Coffeehouse",
     "wof:parent_id":85821593,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "espresso"
     ]
 },
-  "bbox": [-80.354796,41.97022,-80.354796,41.97022],
-  "geometry": {"coordinates":[-80.354796,41.97022],"type":"Point"}
+  "bbox": [
+    -80.354796,
+    41.97022,
+    -80.354796,
+    41.97022
+],
+  "geometry": {"coordinates":[-80.35479599999999,41.97022],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403713143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.463545,40.41642,-76.463545,40.41642",
     "geom:latitude":40.41642,
     "geom:longitude":-76.463545,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"95 Greble Rd",
     "sg:city":"Jonestown",
     "sg:classifiers":[
@@ -43,8 +44,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081341,
-        85848469
+        85848469,
+        102081341
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,17 +55,15 @@
     "wof:geomhash":"9f465cba6db2db0341cc26c48b70b7c1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081341,
-            "locality_id":-1,
             "neighbourhood_id":85848469,
             "region_id":85688481,
             "venue_id":403713143
         }
     ],
     "wof:id":403713143,
-    "wof:lastmodified":1449055844,
+    "wof:lastmodified":1454357904,
     "wof:name":"Landis Builders Inc",
     "wof:parent_id":85848469,
     "wof:placetype":"venue",
@@ -82,6 +81,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-76.463545,40.41642,-76.463545,40.41642],
+  "bbox": [
+    -76.463545,
+    40.41642,
+    -76.463545,
+    40.41642
+],
   "geometry": {"coordinates":[-76.463545,40.41642],"type":"Point"}
 }

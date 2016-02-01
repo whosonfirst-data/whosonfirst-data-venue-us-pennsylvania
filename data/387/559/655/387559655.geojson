@@ -2,13 +2,14 @@
   "id": 387559655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.15575,40.221865,-80.15575,40.221865",
     "geom:latitude":40.221865,
     "geom:longitude":-80.15575,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1652 Route 519",
     "sg:city":"Canonsburg",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081343,
-        85830701
+        85830701,
+        102081343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"28ee88a118ff28aeda54dafe44aae99a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081343,
-            "locality_id":-1,
             "neighbourhood_id":85830701,
             "region_id":85688481,
             "venue_id":387559655
         }
     ],
     "wof:id":387559655,
-    "wof:lastmodified":1449059082,
+    "wof:lastmodified":1454360977,
     "wof:name":"Galati Nursery & Landscaping",
     "wof:parent_id":85830701,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "gardener"
     ]
 },
-  "bbox": [-80.15575,40.221865,-80.15575,40.221865],
+  "bbox": [
+    -80.15575,
+    40.221865,
+    -80.15575,
+    40.221865
+],
   "geometry": {"coordinates":[-80.15575,40.221865],"type":"Point"}
 }

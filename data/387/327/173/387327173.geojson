@@ -2,13 +2,14 @@
   "id": 387327173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.019777,40.488591,-80.019777,40.488591",
     "geom:latitude":40.488591,
     "geom:longitude":-80.019777,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"80 Semicir St",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85841391,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85841391
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"937c9cbed5c06c122cf780d0296bf64b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85841391,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387327173,
-    "wof:lastmodified":1449056396,
+    "wof:lastmodified":1454358313,
     "wof:name":"Rsvp Royal Service Very Prompt",
     "wof:parent_id":85841391,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "event"
     ]
 },
-  "bbox": [-80.019777,40.488591,-80.019777,40.488591],
+  "bbox": [
+    -80.019777,
+    40.488591,
+    -80.019777,
+    40.488591
+],
   "geometry": {"coordinates":[-80.019777,40.488591],"type":"Point"}
 }

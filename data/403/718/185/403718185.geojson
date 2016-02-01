@@ -2,13 +2,14 @@
   "id": 403718185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.383827,40.261786,-76.383827,40.261786",
     "geom:latitude":40.261786,
     "geom:longitude":-76.383827,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"124 Iron Valley Dr",
     "sg:city":"Lebanon",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85812349,
+        102191575,
+        404483425,
         85633793,
         101717097,
         102081341,
-        85812349
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"49ed85286460d3a629aec6f2bc092113",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081341,
+            "localadmin_id":404483425,
             "locality_id":101717097,
             "neighbourhood_id":85812349,
             "region_id":85688481,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":403718185,
-    "wof:lastmodified":1449054930,
+    "wof:lastmodified":1454357370,
     "wof:name":"Landmark Builders",
     "wof:parent_id":85812349,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "contractor"
     ]
 },
-  "bbox": [-76.383827,40.261786,-76.383827,40.261786],
+  "bbox": [
+    -76.383827,
+    40.261786,
+    -76.383827,
+    40.261786
+],
   "geometry": {"coordinates":[-76.383827,40.261786],"type":"Point"}
 }

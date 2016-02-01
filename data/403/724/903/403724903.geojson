@@ -2,13 +2,14 @@
   "id": 403724903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.902702,40.258701,-76.902702,40.258701",
     "geom:latitude":40.258701,
     "geom:longitude":-76.902702,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"320 N Front St",
     "sg:city":"Lemoyne",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85820443,
+        102191575,
+        404483169,
         85633793,
-        101717693,
-        102081347,
-        85820443
+        101716755,
+        102081359,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +41,18 @@
     "wof:geomhash":"c520b7e29315c8af53a4ea543091316b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081347,
-            "locality_id":101717693,
+            "county_id":102081359,
+            "localadmin_id":404483169,
+            "locality_id":101716755,
             "neighbourhood_id":85820443,
             "region_id":85688481,
             "venue_id":403724903
         }
     ],
     "wof:id":403724903,
-    "wof:lastmodified":1449055919,
+    "wof:lastmodified":1454357948,
     "wof:name":"McCarthy Associates Real Estate",
     "wof:parent_id":85820443,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.902702,40.258701,-76.902702,40.258701],
-  "geometry": {"coordinates":[-76.902702,40.258701],"type":"Point"}
+  "bbox": [
+    -76.902702,
+    40.258701,
+    -76.902702,
+    40.258701
+],
+  "geometry": {"coordinates":[-76.90270200000001,40.258701],"type":"Point"}
 }

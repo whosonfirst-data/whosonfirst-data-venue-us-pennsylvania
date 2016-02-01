@@ -2,13 +2,14 @@
   "id": 387698343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.901258,40.865694,-79.901258,40.865694",
     "geom:latitude":40.865694,
     "geom:longitude":-79.901258,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"442 Federal St",
     "sg:city":"Butler",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85824973,
+        102191575,
+        404485057,
         85633793,
-        101720149,
+        101718197,
         102083677,
-        85824973
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +41,18 @@
     "wof:geomhash":"93cdc60cbb1441f89b7f3887787069d7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083677,
-            "locality_id":101720149,
+            "localadmin_id":404485057,
+            "locality_id":101718197,
             "neighbourhood_id":85824973,
             "region_id":85688481,
             "venue_id":387698343
         }
     ],
     "wof:id":387698343,
-    "wof:lastmodified":1449059686,
+    "wof:lastmodified":1454361159,
     "wof:name":"The Baker Cowboy Bakery",
     "wof:parent_id":85824973,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.901258,40.865694,-79.901258,40.865694],
+  "bbox": [
+    -79.901258,
+    40.865694,
+    -79.901258,
+    40.865694
+],
   "geometry": {"coordinates":[-79.901258,40.865694],"type":"Point"}
 }

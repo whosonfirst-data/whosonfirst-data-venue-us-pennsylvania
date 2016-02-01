@@ -2,13 +2,14 @@
   "id": 387863023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.007365,40.483347,-78.007365,40.483347",
     "geom:latitude":40.483347,
     "geom:longitude":-78.007365,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"212 Penn St",
     "sg:city":"Huntingdon",
     "sg:classifiers":[
@@ -51,7 +52,6 @@
     "wof:geomhash":"7f0425c4aa3e41853770770a64c2527a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080901,
             "locality_id":101718439,
@@ -61,7 +61,7 @@
         }
     ],
     "wof:id":387863023,
-    "wof:lastmodified":1449058740,
+    "wof:lastmodified":1454360867,
     "wof:name":"Alcoholics Anonymous",
     "wof:parent_id":85851875,
     "wof:placetype":"venue",
@@ -75,6 +75,11 @@
         "alcoholism"
     ]
 },
-  "bbox": [-78.007365,40.483347,-78.007365,40.483347],
-  "geometry": {"coordinates":[-78.007365,40.483347],"type":"Point"}
+  "bbox": [
+    -78.007365,
+    40.483347,
+    -78.007365,
+    40.483347
+],
+  "geometry": {"coordinates":[-78.00736499999999,40.483347],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387437173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.026199,40.398399,-80.026199,40.398399",
     "geom:latitude":40.398399,
     "geom:longitude":-80.026199,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"109 Brookline Blvd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85807877,
+        102191575,
+        404482523,
         85633793,
+        101718805,
         102080887,
-        85807877
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +44,18 @@
     "wof:geomhash":"156967c087216e3f774fcb54c4de6c31",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
+            "localadmin_id":404482523,
+            "locality_id":101718805,
             "neighbourhood_id":85807877,
             "region_id":85688481,
             "venue_id":387437173
         }
     ],
     "wof:id":387437173,
-    "wof:lastmodified":1449058861,
+    "wof:lastmodified":1454360905,
     "wof:name":"Pizza House",
     "wof:parent_id":85807877,
     "wof:placetype":"venue",
@@ -60,6 +65,11 @@
         "pizza"
     ]
 },
-  "bbox": [-80.026199,40.398399,-80.026199,40.398399],
-  "geometry": {"coordinates":[-80.026199,40.398399],"type":"Point"}
+  "bbox": [
+    -80.026199,
+    40.398399,
+    -80.026199,
+    40.398399
+],
+  "geometry": {"coordinates":[-80.02619900000001,40.398399],"type":"Point"}
 }

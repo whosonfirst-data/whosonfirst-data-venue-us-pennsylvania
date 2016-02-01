@@ -2,13 +2,14 @@
   "id": 387816005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.319992,41.999261,-80.319992,41.999261",
     "geom:latitude":41.999261,
     "geom:longitude":-80.319992,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"20 Rice Ave",
     "sg:city":"Girard",
     "sg:classifiers":[
@@ -40,10 +41,13 @@
     "sg:website":"http://www.gldriftwood.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420537927,
+        102191575,
+        404486677,
         85633793,
         101718251,
-        102080955
+        102080955,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,19 +57,20 @@
     "wof:geomhash":"3501c8f02d4e19cecb093507f0c2ad98",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080955,
+            "localadmin_id":404486677,
             "locality_id":101718251,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420537927,
             "region_id":85688481,
             "venue_id":387816005
         }
     ],
     "wof:id":387816005,
-    "wof:lastmodified":1449058321,
+    "wof:lastmodified":1454360745,
     "wof:name":"Great Lakes Driftwood Llc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420537927,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -75,6 +80,11 @@
         "store"
     ]
 },
-  "bbox": [-80.319992,41.999261,-80.319992,41.999261],
+  "bbox": [
+    -80.319992,
+    41.999261,
+    -80.319992,
+    41.999261
+],
   "geometry": {"coordinates":[-80.319992,41.999261],"type":"Point"}
 }

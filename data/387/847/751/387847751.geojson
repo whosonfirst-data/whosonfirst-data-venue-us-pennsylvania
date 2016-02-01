@@ -2,13 +2,14 @@
   "id": 387847751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.39267,40.528759,-78.39267,40.528759",
     "geom:latitude":40.528759,
     "geom:longitude":-78.39267,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"301 E Walnut Ave",
     "sg:city":"Altoona",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081325,
-        85854977
+        85854977,
+        102081325
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"f9de263bbbf684fe85e0f3b4ce9adba5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081325,
-            "locality_id":-1,
             "neighbourhood_id":85854977,
             "region_id":85688481,
             "venue_id":387847751
         }
     ],
     "wof:id":387847751,
-    "wof:lastmodified":1449057479,
+    "wof:lastmodified":1454359154,
     "wof:name":"Shannons Auto Service Inc",
     "wof:parent_id":85854977,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "diagnostic"
     ]
 },
-  "bbox": [-78.39267,40.528759,-78.39267,40.528759],
+  "bbox": [
+    -78.39267,
+    40.528759,
+    -78.39267,
+    40.528759
+],
   "geometry": {"coordinates":[-78.39267,40.528759],"type":"Point"}
 }

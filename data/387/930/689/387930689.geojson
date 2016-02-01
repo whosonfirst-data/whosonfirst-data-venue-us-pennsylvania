@@ -2,13 +2,14 @@
   "id": 387930689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.171402,40.216499,-77.171402,40.216499",
     "geom:latitude":40.216499,
     "geom:longitude":-77.171402,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1007 Harrisburg Pike",
     "sg:city":"Carlisle",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85865395,
+        102191575,
+        404486423,
         85633793,
         101719085,
         102081359,
-        85865395
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"cfb183ca3e9bae5027d55ada68d250d0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081359,
+            "localadmin_id":404486423,
             "locality_id":101719085,
             "neighbourhood_id":85865395,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387930689,
-    "wof:lastmodified":1449057314,
+    "wof:lastmodified":1454359012,
     "wof:name":"Jacob's Resting Place",
     "wof:parent_id":85865395,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.171402,40.216499,-77.171402,40.216499],
+  "bbox": [
+    -77.171402,
+    40.216499,
+    -77.171402,
+    40.216499
+],
   "geometry": {"coordinates":[-77.171402,40.216499],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387296665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.150618,40.440375,-80.150618,40.440375",
     "geom:latitude":40.440375,
     "geom:longitude":-80.150618,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"220 Settlers Ridge Center Dr",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -49,8 +50,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85821263
+        85821263,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,17 +61,15 @@
     "wof:geomhash":"94c83f2f7f835ed6a72fc9304d35102c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85821263,
             "region_id":85688481,
             "venue_id":387296665
         }
     ],
     "wof:id":387296665,
-    "wof:lastmodified":1449059214,
+    "wof:lastmodified":1454361013,
     "wof:name":"Allstate Insurance Company - Jeffrey Myers",
     "wof:parent_id":85821263,
     "wof:placetype":"venue",
@@ -85,6 +84,11 @@
         "renter"
     ]
 },
-  "bbox": [-80.150618,40.440375,-80.150618,40.440375],
-  "geometry": {"coordinates":[-80.150618,40.440375],"type":"Point"}
+  "bbox": [
+    -80.150618,
+    40.440375,
+    -80.150618,
+    40.440375
+],
+  "geometry": {"coordinates":[-80.15061799999999,40.440375],"type":"Point"}
 }

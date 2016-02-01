@@ -2,13 +2,14 @@
   "id": 387771185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.52885,40.808845,-79.52885,40.808845",
     "geom:latitude":40.808845,
     "geom:longitude":-79.52885,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"331 Arthur St",
     "sg:city":"Kittanning",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081371,
-        85816487
+        85816487,
+        102081371
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"6ba1d3f3b5a4f2496401c0462a69f5a1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081371,
-            "locality_id":-1,
             "neighbourhood_id":85816487,
             "region_id":85688481,
             "venue_id":387771185
         }
     ],
     "wof:id":387771185,
-    "wof:lastmodified":1449058178,
+    "wof:lastmodified":1454360702,
     "wof:name":"Nationwide Insurance",
     "wof:parent_id":85816487,
     "wof:placetype":"venue",
@@ -61,6 +60,11 @@
         "auto"
     ]
 },
-  "bbox": [-79.52885,40.808845,-79.52885,40.808845],
-  "geometry": {"coordinates":[-79.52885,40.808845],"type":"Point"}
+  "bbox": [
+    -79.52885,
+    40.808845,
+    -79.52885,
+    40.808845
+],
+  "geometry": {"coordinates":[-79.52885000000001,40.808845],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387260117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.144954,40.454719,-80.144954,40.454719",
     "geom:latitude":40.454719,
     "geom:longitude":-80.144954,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5 Green View Dr",
     "sg:city":"McKees Rocks",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85821263
+        85821263,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"e60d715be8de1e05bfd677182a98661f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85821263,
             "region_id":85688481,
             "venue_id":387260117
         }
     ],
     "wof:id":387260117,
-    "wof:lastmodified":1449056736,
+    "wof:lastmodified":1454358572,
     "wof:name":"Business Communications Net",
     "wof:parent_id":85821263,
     "wof:placetype":"venue",
@@ -63,6 +62,11 @@
         "internet"
     ]
 },
-  "bbox": [-80.144954,40.454719,-80.144954,40.454719],
+  "bbox": [
+    -80.144954,
+    40.454719,
+    -80.144954,
+    40.454719
+],
   "geometry": {"coordinates":[-80.144954,40.454719],"type":"Point"}
 }

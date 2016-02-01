@@ -2,13 +2,14 @@
   "id": 387391525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.037498,40.424301,-80.037498,40.424301",
     "geom:latitude":40.424301,
     "geom:longitude":-80.037498,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1165 McKinney Ln Ste 1233",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85873597,
+        102191575,
+        404482523,
         85633793,
-        101718673,
+        101718805,
         102080887,
-        85873597
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +41,18 @@
     "wof:geomhash":"ac8ac31dd155263cdcd5d655036be96f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":101718673,
+            "localadmin_id":404482523,
+            "locality_id":101718805,
             "neighbourhood_id":85873597,
             "region_id":85688481,
             "venue_id":387391525
         }
     ],
     "wof:id":387391525,
-    "wof:lastmodified":1449058543,
+    "wof:lastmodified":1454360809,
     "wof:name":"Mignella David M Attorney",
     "wof:parent_id":85873597,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.037498,40.424301,-80.037498,40.424301],
+  "bbox": [
+    -80.037498,
+    40.424301,
+    -80.037498,
+    40.424301
+],
   "geometry": {"coordinates":[-80.037498,40.424301],"type":"Point"}
 }

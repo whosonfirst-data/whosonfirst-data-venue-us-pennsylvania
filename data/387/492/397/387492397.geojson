@@ -2,13 +2,14 @@
   "id": 387492397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.959686,40.345322,-79.959686,40.345322",
     "geom:latitude":40.345322,
     "geom:longitude":-79.959686,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1300 Lebanon Church Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -31,11 +32,13 @@
     "sg:website":"http://www.storagefront.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85834159,
+        102191575,
+        404484243,
         85633793,
         101718717,
         102080887,
-        85834159
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,9 +48,10 @@
     "wof:geomhash":"2ca96471d81ac7b7a1b21c918341fc2e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484243,
             "locality_id":101718717,
             "neighbourhood_id":85834159,
             "region_id":85688481,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":387492397,
-    "wof:lastmodified":1449056110,
+    "wof:lastmodified":1454358089,
     "wof:name":"Guardian Self Storage - Lebanon",
     "wof:parent_id":85834159,
     "wof:placetype":"venue",
@@ -68,6 +72,11 @@
         "household"
     ]
 },
-  "bbox": [-79.959686,40.345322,-79.959686,40.345322],
+  "bbox": [
+    -79.959686,
+    40.345322,
+    -79.959686,
+    40.345322
+],
   "geometry": {"coordinates":[-79.959686,40.345322],"type":"Point"}
 }

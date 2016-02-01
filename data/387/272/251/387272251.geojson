@@ -2,13 +2,14 @@
   "id": 387272251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.77135,40.435863,-79.77135,40.435863",
     "geom:latitude":40.435863,
     "geom:longitude":-79.77135,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4010 Monroeville Blvd",
     "sg:city":"Monroeville",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     "sg:website":"http://www.citizensbank.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85821019,
+        102191575,
+        404484135,
         85633793,
         101718841,
         102080887,
-        85821019
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"21107f3ba796c3ab4eb1e73663567738",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484135,
             "locality_id":101718841,
             "neighbourhood_id":85821019,
             "region_id":85688481,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":387272251,
-    "wof:lastmodified":1449059656,
+    "wof:lastmodified":1454361147,
     "wof:name":"Citizens Bank",
     "wof:parent_id":85821019,
     "wof:placetype":"venue",
@@ -71,6 +75,11 @@
         "saving"
     ]
 },
-  "bbox": [-79.77135,40.435863,-79.77135,40.435863],
+  "bbox": [
+    -79.77135,
+    40.435863,
+    -79.77135,
+    40.435863
+],
   "geometry": {"coordinates":[-79.77135,40.435863],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387135497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.938572,40.316424,-79.938572,40.316424",
     "geom:latitude":40.316424,
     "geom:longitude":-79.938572,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"716 Coal Valley Rd",
     "sg:city":"Clairton",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536345,
+        102191575,
+        404484243,
         85633793,
-        101718663,
-        102080887
+        101718717,
+        102080887,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"6e34b7f625ec7887e0716fc504088ab7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":101718663,
-            "neighbourhood_id":-1,
+            "localadmin_id":404484243,
+            "locality_id":101718717,
+            "neighbourhood_id":420536345,
             "region_id":85688481,
             "venue_id":387135497
         }
     ],
     "wof:id":387135497,
-    "wof:lastmodified":1449057567,
+    "wof:lastmodified":1454360517,
     "wof:name":"Bittel Robert P Jr",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536345,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "optical"
     ]
 },
-  "bbox": [-79.938572,40.316424,-79.938572,40.316424],
-  "geometry": {"coordinates":[-79.938572,40.316424],"type":"Point"}
+  "bbox": [
+    -79.938572,
+    40.316424,
+    -79.938572,
+    40.316424
+],
+  "geometry": {"coordinates":[-79.93857199999999,40.316424],"type":"Point"}
 }

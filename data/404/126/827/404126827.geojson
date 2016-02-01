@@ -2,13 +2,14 @@
   "id": 404126827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.614492,40.960834,-76.614492,40.960834",
     "geom:latitude":40.960834,
     "geom:longitude":-76.614492,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"329 Church St",
     "sg:city":"Danville",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080931,
-        85833629
+        85833629,
+        102080931
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"95044a6df721867d50c1100c50c5e442",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080931,
-            "locality_id":-1,
             "neighbourhood_id":85833629,
             "region_id":85688481,
             "venue_id":404126827
         }
     ],
     "wof:id":404126827,
-    "wof:lastmodified":1449039475,
+    "wof:lastmodified":1454356668,
     "wof:name":"Montour County State Hlth Ctr",
     "wof:parent_id":85833629,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "administration"
     ]
 },
-  "bbox": [-76.614492,40.960834,-76.614492,40.960834],
+  "bbox": [
+    -76.614492,
+    40.960834,
+    -76.614492,
+    40.960834
+],
   "geometry": {"coordinates":[-76.614492,40.960834],"type":"Point"}
 }

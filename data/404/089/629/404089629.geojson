@@ -2,13 +2,14 @@
   "id": 404089629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.331962,40.035246,-76.331962,40.035246",
     "geom:latitude":40.035246,
     "geom:longitude":-76.331962,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1176 Maple Ave",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85858805
+        85858805,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"f343448e9d313cf7ee50d7b785881804",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85858805,
             "region_id":85688481,
             "venue_id":404089629
         }
     ],
     "wof:id":404089629,
-    "wof:lastmodified":1449039303,
+    "wof:lastmodified":1454356556,
     "wof:name":"Telephone Pioneers Of America",
     "wof:parent_id":85858805,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "volunteer"
     ]
 },
-  "bbox": [-76.331962,40.035246,-76.331962,40.035246],
+  "bbox": [
+    -76.331962,
+    40.035246,
+    -76.331962,
+    40.035246
+],
   "geometry": {"coordinates":[-76.331962,40.035246],"type":"Point"}
 }

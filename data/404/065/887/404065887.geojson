@@ -2,13 +2,14 @@
   "id": 404065887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.371649,40.006025,-76.371649,40.006025",
     "geom:latitude":40.006025,
     "geom:longitude":-76.371649,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"271 Blue Rock Rd",
     "sg:city":"Millersville",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85856227
+        85856227,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"2f5baab9187b46ed76931430d66cf6b3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85856227,
             "region_id":85688481,
             "venue_id":404065887
         }
     ],
     "wof:id":404065887,
-    "wof:lastmodified":1449040320,
+    "wof:lastmodified":1454357134,
     "wof:name":"Blue Rock Gourds",
     "wof:parent_id":85856227,
     "wof:placetype":"venue",
@@ -63,6 +62,11 @@
         "supply"
     ]
 },
-  "bbox": [-76.371649,40.006025,-76.371649,40.006025],
-  "geometry": {"coordinates":[-76.371649,40.006025],"type":"Point"}
+  "bbox": [
+    -76.371649,
+    40.006025,
+    -76.371649,
+    40.006025
+],
+  "geometry": {"coordinates":[-76.37164900000001,40.006025],"type":"Point"}
 }

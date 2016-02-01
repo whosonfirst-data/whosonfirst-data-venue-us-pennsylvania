@@ -2,13 +2,14 @@
   "id": 387622767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.511468,40.30299,-79.511468,40.30299",
     "geom:latitude":40.30299,
     "geom:longitude":-79.511468,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"970 E Pittsburgh St",
     "sg:city":"Greensburg",
     "sg:classifiers":[
@@ -34,8 +35,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081383,
-        85851151
+        85851151,
+        102081383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +46,15 @@
     "wof:geomhash":"0e364f09bbb7caf8b77753d6253f4d6b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":-1,
             "neighbourhood_id":85851151,
             "region_id":85688481,
             "venue_id":387622767
         }
     ],
     "wof:id":387622767,
-    "wof:lastmodified":1449059235,
+    "wof:lastmodified":1454361017,
     "wof:name":"Hollister",
     "wof:parent_id":85851151,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "women's"
     ]
 },
-  "bbox": [-79.511468,40.30299,-79.511468,40.30299],
-  "geometry": {"coordinates":[-79.511468,40.30299],"type":"Point"}
+  "bbox": [
+    -79.511468,
+    40.30299,
+    -79.511468,
+    40.30299
+],
+  "geometry": {"coordinates":[-79.51146799999999,40.30299],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387669611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.558281,41.374367,-78.558281,41.374367",
     "geom:latitude":41.374367,
     "geom:longitude":-78.558281,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1219 Million Dollar Hwy",
     "sg:city":"Kersey",
     "sg:classifiers":[
@@ -31,7 +32,12 @@
     "sg:website":"http://www.spring-green.com/Franchisee-Home.aspx?franchise_id=RUF010&utm_source=yellowpages&utm_medium=maplistings&utm_content=RUF010&utm_campaign=localmaps",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420537853,
+        102191575,
+        404486717,
         85633793,
+        101716717,
+        102081265,
         85688481
     ],
     "wof:breaches":[],
@@ -42,18 +48,20 @@
     "wof:geomhash":"26cb1c97eb893aa530c69ea89d78b652",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081265,
+            "localadmin_id":404486717,
+            "locality_id":101716717,
+            "neighbourhood_id":420537853,
             "region_id":85688481,
             "venue_id":387669611
         }
     ],
     "wof:id":387669611,
-    "wof:lastmodified":1449056546,
+    "wof:lastmodified":1454358428,
     "wof:name":"Spring-Green Lawn Care",
-    "wof:parent_id":-1,
+    "wof:parent_id":420537853,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +72,11 @@
         "weed"
     ]
 },
-  "bbox": [-78.558281,41.374367,-78.558281,41.374367],
-  "geometry": {"coordinates":[-78.558281,41.374367],"type":"Point"}
+  "bbox": [
+    -78.558281,
+    41.374367,
+    -78.558281,
+    41.374367
+],
+  "geometry": {"coordinates":[-78.55828099999999,41.374367],"type":"Point"}
 }

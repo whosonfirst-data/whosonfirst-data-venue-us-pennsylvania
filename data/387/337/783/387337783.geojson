@@ -2,13 +2,14 @@
   "id": 387337783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.921984,40.43809,-79.921984,40.43809",
     "geom:latitude":40.43809,
     "geom:longitude":-79.921984,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5828 Forbes Ave Fl 2",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85873579,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85873579
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"1c73d99e277a6c186d7c400eac6a5295",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85873579,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387337783,
-    "wof:lastmodified":1449057885,
+    "wof:lastmodified":1454360625,
     "wof:name":"Sable, Michael Attorney At Law",
     "wof:parent_id":85873579,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "practice"
     ]
 },
-  "bbox": [-79.921984,40.43809,-79.921984,40.43809],
-  "geometry": {"coordinates":[-79.921984,40.43809],"type":"Point"}
+  "bbox": [
+    -79.921984,
+    40.43809,
+    -79.921984,
+    40.43809
+],
+  "geometry": {"coordinates":[-79.92198399999999,40.43809],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387876467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.789303,40.853203,-77.789303,40.853203",
     "geom:latitude":40.853203,
     "geom:longitude":-77.789303,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3208 Benner Pike",
     "sg:city":"Bellefonte",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081369,
-        85813359
+        85813359,
+        102081369
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"7adc2d93ee51f3ad0344f71ae4c09bce",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081369,
-            "locality_id":-1,
             "neighbourhood_id":85813359,
             "region_id":85688481,
             "venue_id":387876467
         }
     ],
     "wof:id":387876467,
-    "wof:lastmodified":1449056865,
+    "wof:lastmodified":1454358666,
     "wof:name":"Spring Fitness",
     "wof:parent_id":85813359,
     "wof:placetype":"venue",
@@ -63,6 +62,11 @@
         "pilate"
     ]
 },
-  "bbox": [-77.789303,40.853203,-77.789303,40.853203],
+  "bbox": [
+    -77.789303,
+    40.853203,
+    -77.789303,
+    40.853203
+],
   "geometry": {"coordinates":[-77.789303,40.853203],"type":"Point"}
 }

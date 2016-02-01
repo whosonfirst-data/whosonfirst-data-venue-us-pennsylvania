@@ -2,13 +2,14 @@
   "id": 387144919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.853104,40.268398,-79.853104,40.268398",
     "geom:latitude":40.268398,
     "geom:longitude":-79.853104,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"Blaine Hl",
     "sg:city":"Elizabeth",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85810241
+        85810241,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"d21f58167822a8a9ef31d9587124e83a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85810241,
             "region_id":85688481,
             "venue_id":387144919
         }
     ],
     "wof:id":387144919,
-    "wof:lastmodified":1449058894,
+    "wof:lastmodified":1454360918,
     "wof:name":"Wilhelm Concrete",
     "wof:parent_id":85810241,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "supply"
     ]
 },
-  "bbox": [-79.853104,40.268398,-79.853104,40.268398],
+  "bbox": [
+    -79.853104,
+    40.268398,
+    -79.853104,
+    40.268398
+],
   "geometry": {"coordinates":[-79.853104,40.268398],"type":"Point"}
 }

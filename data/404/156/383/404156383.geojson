@@ -2,13 +2,14 @@
   "id": 404156383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.421265,40.702731,-75.421265,40.702731",
     "geom:latitude":40.702731,
     "geom:longitude":-75.421265,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"7292 Park Dr",
     "sg:city":"Bath",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081395,
-        85830333
+        85830333,
+        102081395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"28305818bf9526a26ad52569bdd42c8c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081395,
-            "locality_id":-1,
             "neighbourhood_id":85830333,
             "region_id":85688481,
             "venue_id":404156383
         }
     ],
     "wof:id":404156383,
-    "wof:lastmodified":1449039288,
+    "wof:lastmodified":1454356552,
     "wof:name":"Heffner Enterprises Inc",
     "wof:parent_id":85830333,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-75.421265,40.702731,-75.421265,40.702731],
-  "geometry": {"coordinates":[-75.421265,40.702731],"type":"Point"}
+  "bbox": [
+    -75.421265,
+    40.702731,
+    -75.421265,
+    40.702731
+],
+  "geometry": {"coordinates":[-75.42126500000001,40.702731],"type":"Point"}
 }

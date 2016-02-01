@@ -2,13 +2,14 @@
   "id": 387717861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.064538,40.684872,-80.064538,40.684872",
     "geom:latitude":40.684872,
     "geom:longitude":-80.064538,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"200 Northpointe Cir",
     "sg:city":"Seven Fields",
     "sg:classifiers":[
@@ -25,11 +26,13 @@
     "sg:website":"www.thehenleygrp.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85824601,
+        102191575,
+        404485077,
         85633793,
         101720147,
         102083677,
-        85824601
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +42,10 @@
     "wof:geomhash":"7d7b9d82992f2d10149152ce52fb0e48",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083677,
+            "localadmin_id":404485077,
             "locality_id":101720147,
             "neighbourhood_id":85824601,
             "region_id":85688481,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":387717861,
-    "wof:lastmodified":1449056222,
+    "wof:lastmodified":1454358175,
     "wof:name":"Henley Group the",
     "wof:parent_id":85824601,
     "wof:placetype":"venue",
@@ -57,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.064538,40.684872,-80.064538,40.684872],
+  "bbox": [
+    -80.064538,
+    40.684872,
+    -80.064538,
+    40.684872
+],
   "geometry": {"coordinates":[-80.064538,40.684872],"type":"Point"}
 }

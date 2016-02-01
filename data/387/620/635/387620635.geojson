@@ -2,13 +2,14 @@
   "id": 387620635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.568836,40.295988,-79.568836,40.295988",
     "geom:latitude":40.295988,
     "geom:longitude":-79.568836,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"171 Eastside Dr",
     "sg:city":"Greensburg",
     "sg:classifiers":[
@@ -33,8 +34,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081383,
-        85843595
+        85843595,
+        102081383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +45,15 @@
     "wof:geomhash":"95179e74de5cd4c45c586c45b1ca62da",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":-1,
             "neighbourhood_id":85843595,
             "region_id":85688481,
             "venue_id":387620635
         }
     ],
     "wof:id":387620635,
-    "wof:lastmodified":1449059588,
+    "wof:lastmodified":1454361129,
     "wof:name":"Al's Heating",
     "wof:parent_id":85843595,
     "wof:placetype":"venue",
@@ -68,6 +67,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-79.568836,40.295988,-79.568836,40.295988],
+  "bbox": [
+    -79.568836,
+    40.295988,
+    -79.568836,
+    40.295988
+],
   "geometry": {"coordinates":[-79.568836,40.295988],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404131429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.013442,41.000806,-77.013442,41.000806",
     "geom:latitude":41.000806,
     "geom:longitude":-77.013442,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1438 Black Run Rd",
     "sg:city":"Lewisburg",
     "sg:classifiers":[
@@ -37,8 +38,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081335,
-        85851813
+        85851813,
+        102081335
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +49,15 @@
     "wof:geomhash":"ef8f5a2fd7935b00bd02f74f1b53f4a3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081335,
-            "locality_id":-1,
             "neighbourhood_id":85851813,
             "region_id":85688481,
             "venue_id":404131429
         }
     ],
     "wof:id":404131429,
-    "wof:lastmodified":1449039382,
+    "wof:lastmodified":1454356612,
     "wof:name":"White's Cleaning Service Inc",
     "wof:parent_id":85851813,
     "wof:placetype":"venue",
@@ -71,6 +70,11 @@
         "house"
     ]
 },
-  "bbox": [-77.013442,41.000806,-77.013442,41.000806],
+  "bbox": [
+    -77.013442,
+    41.000806,
+    -77.013442,
+    41.000806
+],
   "geometry": {"coordinates":[-77.013442,41.000806],"type":"Point"}
 }

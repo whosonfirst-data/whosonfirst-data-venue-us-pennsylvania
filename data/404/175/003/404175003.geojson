@@ -2,13 +2,14 @@
   "id": 404175003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.354424,40.610668,-75.354424,40.610668",
     "geom:latitude":40.610668,
     "geom:longitude":-75.354424,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"501 Williams St",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85850149,
+        102191575,
+        404485987,
         85633793,
         101717907,
         102081395,
-        85850149
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"dc98937fca2996cdd2edeb87f57ad72d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081395,
+            "localadmin_id":404485987,
             "locality_id":101717907,
             "neighbourhood_id":85850149,
             "region_id":85688481,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":404175003,
-    "wof:lastmodified":1449039960,
+    "wof:lastmodified":1454356920,
     "wof:name":"Templo El Refugio Mission Home",
     "wof:parent_id":85850149,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "church"
     ]
 },
-  "bbox": [-75.354424,40.610668,-75.354424,40.610668],
-  "geometry": {"coordinates":[-75.354424,40.610668],"type":"Point"}
+  "bbox": [
+    -75.354424,
+    40.610668,
+    -75.354424,
+    40.610668
+],
+  "geometry": {"coordinates":[-75.35442399999999,40.610668],"type":"Point"}
 }

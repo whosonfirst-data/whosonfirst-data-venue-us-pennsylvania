@@ -2,13 +2,14 @@
   "id": 404063279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.393823,40.162572,-76.393823,40.162572",
     "geom:latitude":40.162572,
     "geom:longitude":-76.393823,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"52 S Main St",
     "sg:city":"Manheim",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85836395
+        85836395,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"910931a4b6fd0b50f894ac6df9576260",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85836395,
             "region_id":85688481,
             "venue_id":404063279
         }
     ],
     "wof:id":404063279,
-    "wof:lastmodified":1449039125,
+    "wof:lastmodified":1454356453,
     "wof:name":"Fenner Drives",
     "wof:parent_id":85836395,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "industrial"
     ]
 },
-  "bbox": [-76.393823,40.162572,-76.393823,40.162572],
+  "bbox": [
+    -76.393823,
+    40.162572,
+    -76.393823,
+    40.162572
+],
   "geometry": {"coordinates":[-76.393823,40.162572],"type":"Point"}
 }

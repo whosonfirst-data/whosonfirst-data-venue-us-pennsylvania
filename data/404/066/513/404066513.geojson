@@ -2,13 +2,14 @@
   "id": 404066513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.420764,40.031908,-76.420764,40.031908",
     "geom:latitude":40.031908,
     "geom:longitude":-76.420764,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"112 Timber Dr",
     "sg:city":"Mountville",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85814875
+        85814875,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"bad0cad5baf49a2b9e952c4e893f460e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85814875,
             "region_id":85688481,
             "venue_id":404066513
         }
     ],
     "wof:id":404066513,
-    "wof:lastmodified":1449039369,
+    "wof:lastmodified":1454356603,
     "wof:name":"Premier Designs",
     "wof:parent_id":85814875,
     "wof:placetype":"venue",
@@ -64,6 +63,11 @@
         "producer"
     ]
 },
-  "bbox": [-76.420764,40.031908,-76.420764,40.031908],
-  "geometry": {"coordinates":[-76.420764,40.031908],"type":"Point"}
+  "bbox": [
+    -76.420764,
+    40.031908,
+    -76.420764,
+    40.031908
+],
+  "geometry": {"coordinates":[-76.42076400000001,40.031908],"type":"Point"}
 }

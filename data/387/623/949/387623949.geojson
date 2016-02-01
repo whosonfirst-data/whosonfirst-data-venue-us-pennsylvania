@@ -2,13 +2,14 @@
   "id": 387623949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.542415,40.300173,-79.542415,40.300173",
     "geom:latitude":40.300173,
     "geom:longitude":-79.542415,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"324 S Maple Ave",
     "sg:city":"Greensburg",
     "sg:classifiers":[
@@ -37,11 +38,13 @@
     "sg:website":"http://www.my-lawyers.us",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85809439,
+        102191575,
+        404487487,
         85633793,
-        101717119,
+        101717177,
         102081383,
-        85809439
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,17 +54,18 @@
     "wof:geomhash":"36d0f9d42ba822fe0c040cdb4cb3cec2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":101717119,
+            "localadmin_id":404487487,
+            "locality_id":101717177,
             "neighbourhood_id":85809439,
             "region_id":85688481,
             "venue_id":387623949
         }
     ],
     "wof:id":387623949,
-    "wof:lastmodified":1449058781,
+    "wof:lastmodified":1454360879,
     "wof:name":"Law Care",
     "wof:parent_id":85809439,
     "wof:placetype":"venue",
@@ -80,6 +84,11 @@
         "bankruptcy"
     ]
 },
-  "bbox": [-79.542415,40.300173,-79.542415,40.300173],
-  "geometry": {"coordinates":[-79.542415,40.300173],"type":"Point"}
+  "bbox": [
+    -79.542415,
+    40.300173,
+    -79.542415,
+    40.300173
+],
+  "geometry": {"coordinates":[-79.54241500000001,40.300173],"type":"Point"}
 }

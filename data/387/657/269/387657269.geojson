@@ -2,13 +2,14 @@
   "id": 387657269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.192113,40.471096,-79.192113,40.471096",
     "geom:latitude":40.471096,
     "geom:longitude":-79.192113,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"341 N Walnut St",
     "sg:city":"Blairsville",
     "sg:classifiers":[
@@ -40,10 +41,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420538361,
+        102191575,
+        404486345,
         85633793,
         101718953,
-        102081387
+        102081387,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,19 +57,20 @@
     "wof:geomhash":"03c84d5b0f11e53868026a2449c42235",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081387,
+            "localadmin_id":404486345,
             "locality_id":101718953,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420538361,
             "region_id":85688481,
             "venue_id":387657269
         }
     ],
     "wof:id":387657269,
-    "wof:lastmodified":1449056537,
+    "wof:lastmodified":1454358423,
     "wof:name":"Bergman Hardware Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420538361,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -76,6 +81,11 @@
         "wallcoverings"
     ]
 },
-  "bbox": [-79.192113,40.471096,-79.192113,40.471096],
-  "geometry": {"coordinates":[-79.192113,40.471096],"type":"Point"}
+  "bbox": [
+    -79.192113,
+    40.471096,
+    -79.192113,
+    40.471096
+],
+  "geometry": {"coordinates":[-79.19211300000001,40.471096],"type":"Point"}
 }

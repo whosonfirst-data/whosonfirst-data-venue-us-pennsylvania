@@ -2,13 +2,14 @@
   "id": 387588481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.748844,39.910732,-79.748844,39.910732",
     "geom:latitude":39.910732,
     "geom:longitude":-79.748844,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"100 New Salem Rd Ste 175",
     "sg:city":"Uniontown",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85850161,
+        102191575,
+        404487055,
         85633793,
+        101719799,
         102080959,
-        85850161
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +46,18 @@
     "wof:geomhash":"af665397e4c3aa747cfdce354366ad99",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080959,
-            "locality_id":-1,
+            "localadmin_id":404487055,
+            "locality_id":101719799,
             "neighbourhood_id":85850161,
             "region_id":85688481,
             "venue_id":387588481
         }
     ],
     "wof:id":387588481,
-    "wof:lastmodified":1449059169,
+    "wof:lastmodified":1454361003,
     "wof:name":"Uniontown District Office",
     "wof:parent_id":85850161,
     "wof:placetype":"venue",
@@ -64,6 +69,11 @@
         "equipment"
     ]
 },
-  "bbox": [-79.748844,39.910732,-79.748844,39.910732],
-  "geometry": {"coordinates":[-79.748844,39.910732],"type":"Point"}
+  "bbox": [
+    -79.748844,
+    39.910732,
+    -79.748844,
+    39.910732
+],
+  "geometry": {"coordinates":[-79.74884400000001,39.910732],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387285607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.970848,40.429142,-79.970848,40.429142",
     "geom:latitude":40.429142,
     "geom:longitude":-79.970848,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2403 Sidney St Ste 125",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85873595,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85873595
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"210cf4a61099e8379272677429cec756",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85873595,
             "region_id":85688481,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":387285607,
-    "wof:lastmodified":1449056228,
+    "wof:lastmodified":1454358177,
     "wof:name":"Precision Electrical Contractors, Inc.",
     "wof:parent_id":85873595,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "electric"
     ]
 },
-  "bbox": [-79.970848,40.429142,-79.970848,40.429142],
+  "bbox": [
+    -79.970848,
+    40.429142,
+    -79.970848,
+    40.429142
+],
   "geometry": {"coordinates":[-79.970848,40.429142],"type":"Point"}
 }

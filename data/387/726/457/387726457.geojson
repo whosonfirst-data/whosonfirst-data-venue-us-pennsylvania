@@ -2,13 +2,14 @@
   "id": 387726457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.928623,40.714149,-79.928623,40.714149",
     "geom:latitude":40.714149,
     "geom:longitude":-79.928623,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"102 Browns Hill Rd",
     "sg:city":"Valencia",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102083677,
-        85845445
+        85845445,
+        102083677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"48c0205ad814267a9c53c346964c8f2a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102083677,
-            "locality_id":-1,
             "neighbourhood_id":85845445,
             "region_id":85688481,
             "venue_id":387726457
         }
     ],
     "wof:id":387726457,
-    "wof:lastmodified":1449058715,
+    "wof:lastmodified":1454360861,
     "wof:name":"Brooks Custom Design",
     "wof:parent_id":85845445,
     "wof:placetype":"venue",
@@ -64,6 +63,11 @@
         "decorator"
     ]
 },
-  "bbox": [-79.928623,40.714149,-79.928623,40.714149],
+  "bbox": [
+    -79.928623,
+    40.714149,
+    -79.928623,
+    40.714149
+],
   "geometry": {"coordinates":[-79.928623,40.714149],"type":"Point"}
 }

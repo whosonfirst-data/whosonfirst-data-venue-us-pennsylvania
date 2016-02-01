@@ -2,13 +2,14 @@
   "id": 387271919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.788066,40.427402,-79.788066,40.427402",
     "geom:latitude":40.427402,
     "geom:longitude":-79.788066,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2525 Monroeville Blvd # 3",
     "sg:city":"Monroeville",
     "sg:classifiers":[
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85838743,
+        102191575,
+        404484135,
         85633793,
         101718841,
         102080887,
-        85838743
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"0df247890e4a49990fc0b9fad64fcc99",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484135,
             "locality_id":101718841,
             "neighbourhood_id":85838743,
             "region_id":85688481,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":387271919,
-    "wof:lastmodified":1449058102,
+    "wof:lastmodified":1454360681,
     "wof:name":"B & G Shoe Service",
     "wof:parent_id":85838743,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "store"
     ]
 },
-  "bbox": [-79.788066,40.427402,-79.788066,40.427402],
+  "bbox": [
+    -79.788066,
+    40.427402,
+    -79.788066,
+    40.427402
+],
   "geometry": {"coordinates":[-79.788066,40.427402],"type":"Point"}
 }

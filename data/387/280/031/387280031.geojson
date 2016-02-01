@@ -2,13 +2,14 @@
   "id": 387280031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.951738,40.480024,-79.951738,40.480024",
     "geom:latitude":40.480024,
     "geom:longitude":-79.951738,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5233 Kent Way",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85873553,
+        102191575,
+        404482523,
         85633793,
-        101718687,
+        101718805,
         102080887,
-        85873553
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"878ee2890fd8c7725949ad0dedd629d1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":101718687,
+            "localadmin_id":404482523,
+            "locality_id":101718805,
             "neighbourhood_id":85873553,
             "region_id":85688481,
             "venue_id":387280031
         }
     ],
     "wof:id":387280031,
-    "wof:lastmodified":1449057974,
+    "wof:lastmodified":1454360643,
     "wof:name":"Marshall Lois Lpc Ohara",
     "wof:parent_id":85873553,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "counseling"
     ]
 },
-  "bbox": [-79.951738,40.480024,-79.951738,40.480024],
-  "geometry": {"coordinates":[-79.951738,40.480024],"type":"Point"}
+  "bbox": [
+    -79.951738,
+    40.480024,
+    -79.951738,
+    40.480024
+],
+  "geometry": {"coordinates":[-79.95173800000001,40.480024],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387965103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.956863,40.308019,-76.956863,40.308019",
     "geom:latitude":40.308019,
     "geom:longitude":-76.956863,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"729 Zeigler Ln",
     "sg:city":"Enola",
     "sg:classifiers":[
@@ -43,8 +44,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081359,
-        85852571
+        85852571,
+        102081359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,17 +55,15 @@
     "wof:geomhash":"40a9daef8debccbcc61f882526db00f9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081359,
-            "locality_id":-1,
             "neighbourhood_id":85852571,
             "region_id":85688481,
             "venue_id":387965103
         }
     ],
     "wof:id":387965103,
-    "wof:lastmodified":1449058768,
+    "wof:lastmodified":1454360876,
     "wof:name":"Quiznos Classic Subs",
     "wof:parent_id":85852571,
     "wof:placetype":"venue",
@@ -77,6 +76,11 @@
         "take"
     ]
 },
-  "bbox": [-76.956863,40.308019,-76.956863,40.308019],
+  "bbox": [
+    -76.956863,
+    40.308019,
+    -76.956863,
+    40.308019
+],
   "geometry": {"coordinates":[-76.956863,40.308019],"type":"Point"}
 }

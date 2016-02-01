@@ -2,13 +2,14 @@
   "id": 387330549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.035301,40.3839,-80.035301,40.3839",
     "geom:latitude":40.3839,
     "geom:longitude":-80.035301,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"929 Lovingston Dr",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -24,7 +25,12 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420536353,
+        102191575,
+        404484881,
         85633793,
+        101718733,
+        102080887,
         85688481
     ],
     "wof:breaches":[],
@@ -35,23 +41,30 @@
     "wof:geomhash":"cfc03fb7d7b8954c795564026fe98651",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102080887,
+            "localadmin_id":404484881,
+            "locality_id":101718733,
+            "neighbourhood_id":420536353,
             "region_id":85688481,
             "venue_id":387330549
         }
     ],
     "wof:id":387330549,
-    "wof:lastmodified":1449058004,
+    "wof:lastmodified":1454360648,
     "wof:name":"Crock Richard S MD",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536353,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.035301,40.3839,-80.035301,40.3839],
+  "bbox": [
+    -80.035301,
+    40.3839,
+    -80.035301,
+    40.3839
+],
   "geometry": {"coordinates":[-80.035301,40.3839],"type":"Point"}
 }

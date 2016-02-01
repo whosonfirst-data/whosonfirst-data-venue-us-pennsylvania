@@ -2,13 +2,14 @@
   "id": 387762249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.492663,41.225136,-80.492663,41.225136",
     "geom:latitude":41.225136,
     "geom:longitude":-80.492663,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"866 Plum St",
     "sg:city":"Sharon",
     "sg:classifiers":[
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420539011,
+        102191575,
+        404487969,
         85633793,
-        101718093,
-        102080965
+        101718115,
+        102080965,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,20 @@
     "wof:geomhash":"d006d2f528d71696fa1ec3efea52d82f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080965,
-            "locality_id":101718093,
-            "neighbourhood_id":-1,
+            "localadmin_id":404487969,
+            "locality_id":101718115,
+            "neighbourhood_id":420539011,
             "region_id":85688481,
             "venue_id":387762249
         }
     ],
     "wof:id":387762249,
-    "wof:lastmodified":1449058791,
+    "wof:lastmodified":1454360882,
     "wof:name":"Beth Emmanuel Fellowship Ministries",
-    "wof:parent_id":-1,
+    "wof:parent_id":420539011,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -69,6 +74,11 @@
         "denomination"
     ]
 },
-  "bbox": [-80.492663,41.225136,-80.492663,41.225136],
-  "geometry": {"coordinates":[-80.492663,41.225136],"type":"Point"}
+  "bbox": [
+    -80.492663,
+    41.225136,
+    -80.492663,
+    41.225136
+],
+  "geometry": {"coordinates":[-80.49266299999999,41.225136],"type":"Point"}
 }

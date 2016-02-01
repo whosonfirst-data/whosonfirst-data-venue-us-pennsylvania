@@ -2,13 +2,14 @@
   "id": 387546169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.23468,40.175831,-80.23468,40.175831",
     "geom:latitude":40.175831,
     "geom:longitude":-80.23468,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"220 N Wade Ave",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85852963,
+        102191575,
+        404487917,
         85633793,
         101718569,
         102081343,
-        85852963
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"0e3dfa59b3a3f05a97bafc2dc02adb70",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081343,
+            "localadmin_id":404487917,
             "locality_id":101718569,
             "neighbourhood_id":85852963,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387546169,
-    "wof:lastmodified":1449056107,
+    "wof:lastmodified":1454358086,
     "wof:name":"Waterford Financial, Inc.",
     "wof:parent_id":85852963,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-80.23468,40.175831,-80.23468,40.175831],
+  "bbox": [
+    -80.23468,
+    40.175831,
+    -80.23468,
+    40.175831
+],
   "geometry": {"coordinates":[-80.23468,40.175831],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404095479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.322289,40.030135,-76.322289,40.030135",
     "geom:latitude":40.030135,
     "geom:longitude":-76.322289,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"902 Manor St",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -42,8 +43,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85843407
+        85843407,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,17 +54,15 @@
     "wof:geomhash":"a26e41d0ef19ab518b30cdf790c669fe",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85843407,
             "region_id":85688481,
             "venue_id":404095479
         }
     ],
     "wof:id":404095479,
-    "wof:lastmodified":1449039699,
+    "wof:lastmodified":1454356763,
     "wof:name":"Abbey Book And Gift Shop",
     "wof:parent_id":85843407,
     "wof:placetype":"venue",
@@ -76,6 +75,11 @@
         "religious"
     ]
 },
-  "bbox": [-76.322289,40.030135,-76.322289,40.030135],
+  "bbox": [
+    -76.322289,
+    40.030135,
+    -76.322289,
+    40.030135
+],
   "geometry": {"coordinates":[-76.322289,40.030135],"type":"Point"}
 }

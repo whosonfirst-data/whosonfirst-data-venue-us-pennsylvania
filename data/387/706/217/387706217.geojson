@@ -2,13 +2,14 @@
   "id": 387706217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.699463,40.804459,-79.699463,40.804459",
     "geom:latitude":40.804459,
     "geom:longitude":-79.699463,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"101 Cornetti Rd",
     "sg:city":"Cabot",
     "sg:classifiers":[
@@ -33,8 +34,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102083677,
-        85847181
+        85847181,
+        102083677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +45,15 @@
     "wof:geomhash":"c1bf660ee685852c296981ec26752f4d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102083677,
-            "locality_id":-1,
             "neighbourhood_id":85847181,
             "region_id":85688481,
             "venue_id":387706217
         }
     ],
     "wof:id":387706217,
-    "wof:lastmodified":1449056384,
+    "wof:lastmodified":1454358298,
     "wof:name":"Hazlett Heating & Air Con",
     "wof:parent_id":85847181,
     "wof:placetype":"venue",
@@ -68,6 +67,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-79.699463,40.804459,-79.699463,40.804459],
-  "geometry": {"coordinates":[-79.699463,40.804459],"type":"Point"}
+  "bbox": [
+    -79.699463,
+    40.804459,
+    -79.699463,
+    40.804459
+],
+  "geometry": {"coordinates":[-79.69946299999999,40.804459],"type":"Point"}
 }

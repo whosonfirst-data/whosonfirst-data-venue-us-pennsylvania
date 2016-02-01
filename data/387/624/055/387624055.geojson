@@ -2,13 +2,14 @@
   "id": 387624055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.481346,40.33841,-79.481346,40.33841",
     "geom:latitude":40.33841,
     "geom:longitude":-79.481346,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"26 Country Estates Dr",
     "sg:city":"Greensburg",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081383,
-        85850381
+        85850381,
+        102081383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"ff577efe8fb4eb2be9151f911a5d777f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":-1,
             "neighbourhood_id":85850381,
             "region_id":85688481,
             "venue_id":387624055
         }
     ],
     "wof:id":387624055,
-    "wof:lastmodified":1449058718,
+    "wof:lastmodified":1454360862,
     "wof:name":"Coppers Cleaning",
     "wof:parent_id":85850381,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "house"
     ]
 },
-  "bbox": [-79.481346,40.33841,-79.481346,40.33841],
+  "bbox": [
+    -79.481346,
+    40.33841,
+    -79.481346,
+    40.33841
+],
   "geometry": {"coordinates":[-79.481346,40.33841],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403894861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.806007,40.258321,-76.806007,40.258321",
     "geom:latitude":40.258321,
     "geom:longitude":-76.806007,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4614 Derry St",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"http://www.murdochins.com?utm_source=yp&utm_medium=cpc&utm_campaign=ck_yp",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85829991,
+        102191575,
+        404486309,
         85633793,
         101719815,
         102081347,
-        85829991
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"67d130e100dc758be01898b3f2e94396",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
+            "localadmin_id":404486309,
             "locality_id":101719815,
             "neighbourhood_id":85829991,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":403894861,
-    "wof:lastmodified":1449055174,
+    "wof:lastmodified":1454357513,
     "wof:name":"MURDOCH INSURANCE",
     "wof:parent_id":85829991,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "auto"
     ]
 },
-  "bbox": [-76.806007,40.258321,-76.806007,40.258321],
-  "geometry": {"coordinates":[-76.806007,40.258321],"type":"Point"}
+  "bbox": [
+    -76.806007,
+    40.258321,
+    -76.806007,
+    40.258321
+],
+  "geometry": {"coordinates":[-76.80600699999999,40.258321],"type":"Point"}
 }

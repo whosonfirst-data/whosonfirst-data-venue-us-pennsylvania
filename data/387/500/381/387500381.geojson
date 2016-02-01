@@ -2,13 +2,14 @@
   "id": 387500381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.018593,40.571892,-80.018593,40.571892",
     "geom:latitude":40.571892,
     "geom:longitude":-80.018593,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"941 Cumberland Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -38,8 +39,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85820441
+        85820441,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +50,15 @@
     "wof:geomhash":"7b7427d3ccecbfbc26f60c35c3f7ea00",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85820441,
             "region_id":85688481,
             "venue_id":387500381
         }
     ],
     "wof:id":387500381,
-    "wof:lastmodified":1449057051,
+    "wof:lastmodified":1454358801,
     "wof:name":"Camelot, The",
     "wof:parent_id":85820441,
     "wof:placetype":"venue",
@@ -73,6 +72,11 @@
         "facility"
     ]
 },
-  "bbox": [-80.018593,40.571892,-80.018593,40.571892],
+  "bbox": [
+    -80.018593,
+    40.571892,
+    -80.018593,
+    40.571892
+],
   "geometry": {"coordinates":[-80.018593,40.571892],"type":"Point"}
 }

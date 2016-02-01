@@ -2,13 +2,14 @@
   "id": 387968053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.825507,40.477631,-76.825507,40.477631",
     "geom:latitude":40.477631,
     "geom:longitude":-76.825507,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"31 Powells Ridge Rd",
     "sg:city":"Halifax",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85853731
+        85853731,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"aa6624b3eea873eb107ee023a25ed6f7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85853731,
             "region_id":85688481,
             "venue_id":387968053
         }
     ],
     "wof:id":387968053,
-    "wof:lastmodified":1449056350,
+    "wof:lastmodified":1454358279,
     "wof:name":"Bistline Const",
     "wof:parent_id":85853731,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-76.825507,40.477631,-76.825507,40.477631],
+  "bbox": [
+    -76.825507,
+    40.477631,
+    -76.825507,
+    40.477631
+],
   "geometry": {"coordinates":[-76.825507,40.477631],"type":"Point"}
 }

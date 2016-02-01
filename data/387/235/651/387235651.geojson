@@ -2,13 +2,14 @@
   "id": 387235651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.0896,40.386799,-80.0896,40.386799",
     "geom:latitude":40.386799,
     "geom:longitude":-80.0896,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2101 Greentree Rd",
     "sg:city":"Carnegie",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85859075
+        85859075,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"09691540f54cd73d23a73ca9e9b051db",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85859075,
             "region_id":85688481,
             "venue_id":387235651
         }
     ],
     "wof:id":387235651,
-    "wof:lastmodified":1449056754,
+    "wof:lastmodified":1454358586,
     "wof:name":"The Pet Salon",
     "wof:parent_id":85859075,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "sitting"
     ]
 },
-  "bbox": [-80.0896,40.386799,-80.0896,40.386799],
+  "bbox": [
+    -80.0896,
+    40.386799,
+    -80.0896,
+    40.386799
+],
   "geometry": {"coordinates":[-80.0896,40.386799],"type":"Point"}
 }

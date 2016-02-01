@@ -2,13 +2,14 @@
   "id": 403858375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.860489,40.27388,-76.860489,40.27388",
     "geom:latitude":40.27388,
     "geom:longitude":-76.860489,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2050 State St",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -32,8 +33,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85817391
+        85817391,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +44,15 @@
     "wof:geomhash":"7827acf77af502c1e54347ffb80b089c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85817391,
             "region_id":85688481,
             "venue_id":403858375
         }
     ],
     "wof:id":403858375,
-    "wof:lastmodified":1449054768,
+    "wof:lastmodified":1454357271,
     "wof:name":"Nth Graphics",
     "wof:parent_id":85817391,
     "wof:placetype":"venue",
@@ -66,6 +65,11 @@
         "artist"
     ]
 },
-  "bbox": [-76.860489,40.27388,-76.860489,40.27388],
+  "bbox": [
+    -76.860489,
+    40.27388,
+    -76.860489,
+    40.27388
+],
   "geometry": {"coordinates":[-76.860489,40.27388],"type":"Point"}
 }

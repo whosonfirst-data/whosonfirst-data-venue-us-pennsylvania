@@ -2,13 +2,14 @@
   "id": 387816929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.300364,42.008485,-80.300364,42.008485",
     "geom:latitude":42.008485,
     "geom:longitude":-80.300364,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5165 Imperial Pkwy",
     "sg:city":"Girard",
     "sg:classifiers":[
@@ -32,7 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420537927,
+        102191575,
+        404486677,
         85633793,
+        101718251,
+        102080955,
         85688481
     ],
     "wof:breaches":[],
@@ -43,18 +49,20 @@
     "wof:geomhash":"7557cde47bfb7fa54b5b670e8fe71a8d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102080955,
+            "localadmin_id":404486677,
+            "locality_id":101718251,
+            "neighbourhood_id":420537927,
             "region_id":85688481,
             "venue_id":387816929
         }
     ],
     "wof:id":387816929,
-    "wof:lastmodified":1449058319,
+    "wof:lastmodified":1454360744,
     "wof:name":"Hilbert Wes MD",
-    "wof:parent_id":-1,
+    "wof:parent_id":420537927,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -67,6 +75,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-80.300364,42.008485,-80.300364,42.008485],
+  "bbox": [
+    -80.300364,
+    42.008485,
+    -80.300364,
+    42.008485
+],
   "geometry": {"coordinates":[-80.300364,42.008485],"type":"Point"}
 }

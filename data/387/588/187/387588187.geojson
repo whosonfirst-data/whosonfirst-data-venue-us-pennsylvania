@@ -2,13 +2,14 @@
   "id": 387588187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.749004,39.902345,-79.749004,39.902345",
     "geom:latitude":39.902345,
     "geom:longitude":-79.749004,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"272 Mcclellandtown Rd",
     "sg:city":"Uniontown",
     "sg:classifiers":[
@@ -41,10 +42,13 @@
     "sg:website":"http://www.monro.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85850161,
+        102191575,
+        404487055,
         85633793,
+        101719799,
         102080959,
-        85850161
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,17 +58,18 @@
     "wof:geomhash":"df13e8e5017a1edb4d73c5c5f0d5ebc1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080959,
-            "locality_id":-1,
+            "localadmin_id":404487055,
+            "locality_id":101719799,
             "neighbourhood_id":85850161,
             "region_id":85688481,
             "venue_id":387588187
         }
     ],
     "wof:id":387588187,
-    "wof:lastmodified":1449059165,
+    "wof:lastmodified":1454361002,
     "wof:name":"Monro Muffler Brake & Service",
     "wof:parent_id":85850161,
     "wof:placetype":"venue",
@@ -82,6 +87,11 @@
         "muffler"
     ]
 },
-  "bbox": [-79.749004,39.902345,-79.749004,39.902345],
+  "bbox": [
+    -79.749004,
+    39.902345,
+    -79.749004,
+    39.902345
+],
   "geometry": {"coordinates":[-79.749004,39.902345],"type":"Point"}
 }

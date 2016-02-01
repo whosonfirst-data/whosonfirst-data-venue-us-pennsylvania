@@ -2,13 +2,14 @@
   "id": 387100821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.230888,40.638748,-80.230888,40.638748",
     "geom:latitude":40.638748,
     "geom:longitude":-80.230888,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"600 State St",
     "sg:city":"Baden",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85808703,
+        102191575,
+        404482583,
         85633793,
         101718403,
         102081323,
-        85808703
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"7606b61f6673a4e741d71cb63103360e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081323,
+            "localadmin_id":404482583,
             "locality_id":101718403,
             "neighbourhood_id":85808703,
             "region_id":85688481,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":387100821,
-    "wof:lastmodified":1449058928,
+    "wof:lastmodified":1454360929,
     "wof:name":"Louise School Of Dance",
     "wof:parent_id":85808703,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "dancing"
     ]
 },
-  "bbox": [-80.230888,40.638748,-80.230888,40.638748],
-  "geometry": {"coordinates":[-80.230888,40.638748],"type":"Point"}
+  "bbox": [
+    -80.230888,
+    40.638748,
+    -80.230888,
+    40.638748
+],
+  "geometry": {"coordinates":[-80.23088799999999,40.638748],"type":"Point"}
 }

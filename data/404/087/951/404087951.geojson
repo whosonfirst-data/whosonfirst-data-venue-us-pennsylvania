@@ -2,13 +2,14 @@
   "id": 404087951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.293868,39.99819,-76.293868,39.99819",
     "geom:latitude":39.99819,
     "geom:longitude":-76.293868,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"608 Redwood Dr",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85868493
+        85868493,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"0383aa0ec43da7e005dc049cd1bc4642",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85868493,
             "region_id":85688481,
             "venue_id":404087951
         }
     ],
     "wof:id":404087951,
-    "wof:lastmodified":1449039562,
+    "wof:lastmodified":1454356716,
     "wof:name":"Joyce Wise Court Reporter",
     "wof:parent_id":85868493,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "reporters-court"
     ]
 },
-  "bbox": [-76.293868,39.99819,-76.293868,39.99819],
+  "bbox": [
+    -76.293868,
+    39.99819,
+    -76.293868,
+    39.99819
+],
   "geometry": {"coordinates":[-76.293868,39.99819],"type":"Point"}
 }

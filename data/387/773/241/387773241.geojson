@@ -2,13 +2,14 @@
   "id": 387773241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.520823,40.813579,-79.520823,40.813579",
     "geom:latitude":40.813579,
     "geom:longitude":-79.520823,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"110 Market St",
     "sg:city":"Kittanning",
     "sg:classifiers":[
@@ -37,8 +38,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081371,
-        85816487
+        85816487,
+        102081371
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +49,15 @@
     "wof:geomhash":"3da6d146c27ed0e7c0b4c152d2d335c5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081371,
-            "locality_id":-1,
             "neighbourhood_id":85816487,
             "region_id":85688481,
             "venue_id":387773241
         }
     ],
     "wof:id":387773241,
-    "wof:lastmodified":1449056593,
+    "wof:lastmodified":1454358466,
     "wof:name":"St Vincent Depaul Thrift Store",
     "wof:parent_id":85816487,
     "wof:placetype":"venue",
@@ -71,6 +70,11 @@
         "hand"
     ]
 },
-  "bbox": [-79.520823,40.813579,-79.520823,40.813579],
-  "geometry": {"coordinates":[-79.520823,40.813579],"type":"Point"}
+  "bbox": [
+    -79.520823,
+    40.813579,
+    -79.520823,
+    40.813579
+],
+  "geometry": {"coordinates":[-79.52082299999999,40.813579],"type":"Point"}
 }

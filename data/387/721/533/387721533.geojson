@@ -2,13 +2,14 @@
   "id": 387721533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.931187,40.81706,-79.931187,40.81706",
     "geom:latitude":40.81706,
     "geom:longitude":-79.931187,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"105 Eckstein Rd",
     "sg:city":"Renfrew",
     "sg:classifiers":[
@@ -44,8 +45,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102083677,
-        85833131
+        85833131,
+        102083677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,17 +56,15 @@
     "wof:geomhash":"ff6a6632221cc1356c9d608922cca309",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102083677,
-            "locality_id":-1,
             "neighbourhood_id":85833131,
             "region_id":85688481,
             "venue_id":387721533
         }
     ],
     "wof:id":387721533,
-    "wof:lastmodified":1449059907,
+    "wof:lastmodified":1454361229,
     "wof:name":"R J Marshall Construction",
     "wof:parent_id":85833131,
     "wof:placetype":"venue",
@@ -85,6 +84,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-79.931187,40.81706,-79.931187,40.81706],
-  "geometry": {"coordinates":[-79.931187,40.81706],"type":"Point"}
+  "bbox": [
+    -79.931187,
+    40.81706,
+    -79.931187,
+    40.81706
+],
+  "geometry": {"coordinates":[-79.93118699999999,40.81706],"type":"Point"}
 }

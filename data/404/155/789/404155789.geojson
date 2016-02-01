@@ -2,13 +2,14 @@
   "id": 404155789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.418139,40.704115,-75.418139,40.704115",
     "geom:latitude":40.704115,
     "geom:longitude":-75.418139,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"7401 Airport Rd",
     "sg:city":"Bath",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081395,
-        85830333
+        85830333,
+        102081395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"238545bff01df4ee66721e8bcd58782e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081395,
-            "locality_id":-1,
             "neighbourhood_id":85830333,
             "region_id":85688481,
             "venue_id":404155789
         }
     ],
     "wof:id":404155789,
-    "wof:lastmodified":1449040085,
+    "wof:lastmodified":1454356997,
     "wof:name":"Barnhouse Village",
     "wof:parent_id":85830333,
     "wof:placetype":"venue",
@@ -66,6 +65,11 @@
         "venue"
     ]
 },
-  "bbox": [-75.418139,40.704115,-75.418139,40.704115],
+  "bbox": [
+    -75.418139,
+    40.704115,
+    -75.418139,
+    40.704115
+],
   "geometry": {"coordinates":[-75.418139,40.704115],"type":"Point"}
 }

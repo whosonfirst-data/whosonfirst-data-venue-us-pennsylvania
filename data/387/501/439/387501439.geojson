@@ -2,13 +2,14 @@
   "id": 387501439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.013197,40.518481,-80.013197,40.518481",
     "geom:latitude":40.518481,
     "geom:longitude":-80.013197,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3115 Babcock Blvd Ste 5",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85805835
+        85805835,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"491165a40c808e8deff6cf0798f8e7a2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85805835,
             "region_id":85688481,
             "venue_id":387501439
         }
     ],
     "wof:id":387501439,
-    "wof:lastmodified":1449059949,
+    "wof:lastmodified":1454361241,
     "wof:name":"Donald G Pferdehirt Cpa",
     "wof:parent_id":85805835,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "accountants-certified"
     ]
 },
-  "bbox": [-80.013197,40.518481,-80.013197,40.518481],
-  "geometry": {"coordinates":[-80.013197,40.518481],"type":"Point"}
+  "bbox": [
+    -80.013197,
+    40.518481,
+    -80.013197,
+    40.518481
+],
+  "geometry": {"coordinates":[-80.01319700000001,40.518481],"type":"Point"}
 }

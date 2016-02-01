@@ -2,13 +2,14 @@
   "id": 387905683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.712614,40.639517,-77.712614,40.639517",
     "geom:latitude":40.639517,
     "geom:longitude":-77.712614,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"30 Nittany Quill Farm Ln",
     "sg:city":"Belleville",
     "sg:classifiers":[
@@ -28,7 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420539079,
+        102191575,
+        404488183,
         85633793,
+        101719087,
+        102081333,
         85688481
     ],
     "wof:breaches":[],
@@ -39,18 +45,20 @@
     "wof:geomhash":"78e0bad38764090162c56e0c8f427d47",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081333,
+            "localadmin_id":404488183,
+            "locality_id":101719087,
+            "neighbourhood_id":420539079,
             "region_id":85688481,
             "venue_id":387905683
         }
     ],
     "wof:id":387905683,
-    "wof:lastmodified":1449057591,
+    "wof:lastmodified":1454360524,
     "wof:name":"M & K Publishing Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":420539079,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -59,6 +67,11 @@
         "book"
     ]
 },
-  "bbox": [-77.712614,40.639517,-77.712614,40.639517],
+  "bbox": [
+    -77.712614,
+    40.639517,
+    -77.712614,
+    40.639517
+],
   "geometry": {"coordinates":[-77.712614,40.639517],"type":"Point"}
 }

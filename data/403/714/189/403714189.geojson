@@ -2,13 +2,14 @@
   "id": 403714189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.403638,40.283353,-76.403638,40.283353",
     "geom:latitude":40.283353,
     "geom:longitude":-76.403638,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6 Cherry Ave",
     "sg:city":"Lebanon",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85812349,
+        102191575,
+        404483425,
         85633793,
         101717097,
         102081341,
-        85812349
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"d710464958a23e8f385f8400bf8abb02",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081341,
+            "localadmin_id":404483425,
             "locality_id":101717097,
             "neighbourhood_id":85812349,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":403714189,
-    "wof:lastmodified":1449055284,
+    "wof:lastmodified":1454357583,
     "wof:name":"Project Planners & Integrators",
     "wof:parent_id":85812349,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "coach"
     ]
 },
-  "bbox": [-76.403638,40.283353,-76.403638,40.283353],
+  "bbox": [
+    -76.403638,
+    40.283353,
+    -76.403638,
+    40.283353
+],
   "geometry": {"coordinates":[-76.403638,40.283353],"type":"Point"}
 }

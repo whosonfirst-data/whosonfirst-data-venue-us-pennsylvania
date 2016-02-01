@@ -2,13 +2,14 @@
   "id": 387850541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.387916,40.505017,-78.387916,40.505017",
     "geom:latitude":40.505017,
     "geom:longitude":-78.387916,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1416 E Pleasant Valley Blvd",
     "sg:city":"Altoona",
     "sg:classifiers":[
@@ -28,7 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85842329,
+        102191575,
+        404484619,
         85633793,
+        101716595,
+        102081325,
         85688481
     ],
     "wof:breaches":[],
@@ -39,18 +45,20 @@
     "wof:geomhash":"cbd236b7197fd2ab39a0247106aa78c6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081325,
+            "localadmin_id":404484619,
+            "locality_id":101716595,
+            "neighbourhood_id":85842329,
             "region_id":85688481,
             "venue_id":387850541
         }
     ],
     "wof:id":387850541,
-    "wof:lastmodified":1449058307,
+    "wof:lastmodified":1454360740,
     "wof:name":"Marcella's Mastectomy Boutique",
-    "wof:parent_id":-1,
+    "wof:parent_id":85842329,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -59,6 +67,11 @@
         "prosthetic"
     ]
 },
-  "bbox": [-78.387916,40.505017,-78.387916,40.505017],
+  "bbox": [
+    -78.387916,
+    40.505017,
+    -78.387916,
+    40.505017
+],
   "geometry": {"coordinates":[-78.387916,40.505017],"type":"Point"}
 }

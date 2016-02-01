@@ -2,13 +2,14 @@
   "id": 387512161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.779221,40.489675,-79.779221,40.489675",
     "geom:latitude":40.489675,
     "geom:longitude":-79.779221,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"335 Unity Center Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -46,8 +47,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85812851
+        85812851,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,17 +58,15 @@
     "wof:geomhash":"927d045e643ee86f87e41c34c38f024c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85812851,
             "region_id":85688481,
             "venue_id":387512161
         }
     ],
     "wof:id":387512161,
-    "wof:lastmodified":1449058877,
+    "wof:lastmodified":1454360912,
     "wof:name":"Unity Chiropractic Center",
     "wof:parent_id":85812851,
     "wof:placetype":"venue",
@@ -83,6 +82,11 @@
         "sport"
     ]
 },
-  "bbox": [-79.779221,40.489675,-79.779221,40.489675],
-  "geometry": {"coordinates":[-79.779221,40.489675],"type":"Point"}
+  "bbox": [
+    -79.779221,
+    40.489675,
+    -79.779221,
+    40.489675
+],
+  "geometry": {"coordinates":[-79.77922100000001,40.489675],"type":"Point"}
 }

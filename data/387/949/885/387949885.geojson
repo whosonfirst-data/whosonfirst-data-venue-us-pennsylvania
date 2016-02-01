@@ -2,13 +2,14 @@
   "id": 387949885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.284166,40.108976,-77.284166,40.108976",
     "geom:latitude":40.108976,
     "geom:longitude":-77.284166,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1207 Pine Rd",
     "sg:city":"Carlisle",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081359,
-        85835077
+        85835077,
+        102081359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"a1e1bf5ca89a53e063ce2ae702284a21",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081359,
-            "locality_id":-1,
             "neighbourhood_id":85835077,
             "region_id":85688481,
             "venue_id":387949885
         }
     ],
     "wof:id":387949885,
-    "wof:lastmodified":1449058463,
+    "wof:lastmodified":1454360789,
     "wof:name":"Dan Zimmerman Builders",
     "wof:parent_id":85835077,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-77.284166,40.108976,-77.284166,40.108976],
+  "bbox": [
+    -77.284166,
+    40.108976,
+    -77.284166,
+    40.108976
+],
   "geometry": {"coordinates":[-77.284166,40.108976],"type":"Point"}
 }

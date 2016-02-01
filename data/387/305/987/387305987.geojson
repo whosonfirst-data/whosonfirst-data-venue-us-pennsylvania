@@ -2,13 +2,14 @@
   "id": 387305987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.988193,40.414112,-79.988193,40.414112",
     "geom:latitude":40.414112,
     "geom:longitude":-79.988193,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"325 Brownsville Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     "sg:website":"http://www.olddadshook.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85828757,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85828757
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"6261064455f8f947d9bf7f2c5828a429",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85828757,
             "region_id":85688481,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":387305987,
-    "wof:lastmodified":1449056681,
+    "wof:lastmodified":1454358535,
     "wof:name":"Old Dad Shook Roofing & Waterproofing Inc",
     "wof:parent_id":85828757,
     "wof:placetype":"venue",
@@ -76,6 +80,11 @@
         "replacement"
     ]
 },
-  "bbox": [-79.988193,40.414112,-79.988193,40.414112],
+  "bbox": [
+    -79.988193,
+    40.414112,
+    -79.988193,
+    40.414112
+],
   "geometry": {"coordinates":[-79.988193,40.414112],"type":"Point"}
 }

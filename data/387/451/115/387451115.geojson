@@ -2,13 +2,14 @@
   "id": 387451115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.936393,40.456569,-79.936393,40.456569",
     "geom:latitude":40.456569,
     "geom:longitude":-79.936393,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5505 Centre Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[],
@@ -18,11 +19,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85847925,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85847925
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -32,9 +35,10 @@
     "wof:geomhash":"a766fb3ad471f7fef1646bba71b7520c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85847925,
             "region_id":85688481,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":387451115,
-    "wof:lastmodified":1449057766,
+    "wof:lastmodified":1454360586,
     "wof:name":"Tim Condron Floral",
     "wof:parent_id":85847925,
     "wof:placetype":"venue",
@@ -50,6 +54,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.936393,40.456569,-79.936393,40.456569],
+  "bbox": [
+    -79.936393,
+    40.456569,
+    -79.936393,
+    40.456569
+],
   "geometry": {"coordinates":[-79.936393,40.456569],"type":"Point"}
 }

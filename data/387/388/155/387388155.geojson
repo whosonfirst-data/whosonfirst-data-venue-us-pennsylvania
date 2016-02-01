@@ -2,13 +2,14 @@
   "id": 387388155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.040344,40.425442,-80.040344,40.425442",
     "geom:latitude":40.425442,
     "geom:longitude":-80.040344,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"7 Parkway Ctr Ste 800",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85873597,
+        102191575,
+        404482523,
         85633793,
-        101718673,
+        101718805,
         102080887,
-        85873597
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"eed166e36c762625a2f8fff967ea1082",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":101718673,
+            "localadmin_id":404482523,
+            "locality_id":101718805,
             "neighbourhood_id":85873597,
             "region_id":85688481,
             "venue_id":387388155
         }
     ],
     "wof:id":387388155,
-    "wof:lastmodified":1449056262,
+    "wof:lastmodified":1454358208,
     "wof:name":"Wilmer Cutler Pickering Hale",
     "wof:parent_id":85873597,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "leasing"
     ]
 },
-  "bbox": [-80.040344,40.425442,-80.040344,40.425442],
+  "bbox": [
+    -80.040344,
+    40.425442,
+    -80.040344,
+    40.425442
+],
   "geometry": {"coordinates":[-80.040344,40.425442],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387398023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.84917,40.418818,-79.84917,40.418818",
     "geom:latitude":40.418818,
     "geom:longitude":-79.84917,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2141 Ardmore Blvd Ste 3",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536333,
+        102191575,
+        404484859,
         85633793,
-        101718685,
-        102080887
+        101718785,
+        102080887,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,20 @@
     "wof:geomhash":"2fa435e21c4d04de1d9196e4fb2c5a23",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":101718685,
-            "neighbourhood_id":-1,
+            "localadmin_id":404484859,
+            "locality_id":101718785,
+            "neighbourhood_id":420536333,
             "region_id":85688481,
             "venue_id":387398023
         }
     ],
     "wof:id":387398023,
-    "wof:lastmodified":1449056416,
+    "wof:lastmodified":1454358333,
     "wof:name":"Allied Business Network Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536333,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -69,6 +74,11 @@
         "consultant"
     ]
 },
-  "bbox": [-79.84917,40.418818,-79.84917,40.418818],
+  "bbox": [
+    -79.84917,
+    40.418818,
+    -79.84917,
+    40.418818
+],
   "geometry": {"coordinates":[-79.84917,40.418818],"type":"Point"}
 }

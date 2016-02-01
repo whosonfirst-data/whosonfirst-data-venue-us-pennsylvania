@@ -2,13 +2,14 @@
   "id": 387653813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.200768,40.61731,-79.200768,40.61731",
     "geom:latitude":40.61731,
     "geom:longitude":-79.200768,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"85 Linda Ln",
     "sg:city":"Indiana",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081387,
-        85821437
+        85821437,
+        102081387
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"d4056e02b2daab9419a399d5fea518c5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081387,
-            "locality_id":-1,
             "neighbourhood_id":85821437,
             "region_id":85688481,
             "venue_id":387653813
         }
     ],
     "wof:id":387653813,
-    "wof:lastmodified":1449056387,
+    "wof:lastmodified":1454358300,
     "wof:name":"Grata Inc",
     "wof:parent_id":85821437,
     "wof:placetype":"venue",
@@ -64,6 +63,11 @@
         "diet"
     ]
 },
-  "bbox": [-79.200768,40.61731,-79.200768,40.61731],
+  "bbox": [
+    -79.200768,
+    40.61731,
+    -79.200768,
+    40.61731
+],
   "geometry": {"coordinates":[-79.200768,40.61731],"type":"Point"}
 }

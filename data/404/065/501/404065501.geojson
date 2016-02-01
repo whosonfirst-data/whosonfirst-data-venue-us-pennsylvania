@@ -2,13 +2,14 @@
   "id": 404065501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.358401,40.007664,-76.358401,40.007664",
     "geom:latitude":40.007664,
     "geom:longitude":-76.358401,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"472 N George St",
     "sg:city":"Millersville",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85854053
+        85854053,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"3ba58bab484cc95b2060ce09d81c3cdb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85854053,
             "region_id":85688481,
             "venue_id":404065501
         }
     ],
     "wof:id":404065501,
-    "wof:lastmodified":1449040321,
+    "wof:lastmodified":1454357135,
     "wof:name":"Pnb",
     "wof:parent_id":85854053,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-76.358401,40.007664,-76.358401,40.007664],
+  "bbox": [
+    -76.358401,
+    40.007664,
+    -76.358401,
+    40.007664
+],
   "geometry": {"coordinates":[-76.358401,40.007664],"type":"Point"}
 }

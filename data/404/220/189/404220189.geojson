@@ -2,13 +2,14 @@
   "id": 404220189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.363956,40.624306,-75.363956,40.624306",
     "geom:latitude":40.624306,
     "geom:longitude":-75.363956,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"754 Wood St",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85897241,
+        102191575,
+        404485987,
         85633793,
         101717907,
         102081395,
-        85897241
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"e2e3caa02ff6b6c6ab416667fb3a042f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081395,
+            "localadmin_id":404485987,
             "locality_id":101717907,
             "neighbourhood_id":85897241,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":404220189,
-    "wof:lastmodified":1449040281,
+    "wof:lastmodified":1454357108,
     "wof:name":"Ann Garbush",
     "wof:parent_id":85897241,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "cat"
     ]
 },
-  "bbox": [-75.363956,40.624306,-75.363956,40.624306],
+  "bbox": [
+    -75.363956,
+    40.624306,
+    -75.363956,
+    40.624306
+],
   "geometry": {"coordinates":[-75.363956,40.624306],"type":"Point"}
 }

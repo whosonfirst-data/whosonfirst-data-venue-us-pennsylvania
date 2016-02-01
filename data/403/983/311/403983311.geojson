@@ -2,13 +2,14 @@
   "id": 403983311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.233605,39.820693,-77.233605,39.820693",
     "geom:latitude":39.820693,
     "geom:longitude":-77.233605,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"230 Steinwehr Ave",
     "sg:city":"Gettysburg",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080899,
-        85846225
+        85846225,
+        102080899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"494a9ecc39490669543829bb58d45cf9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080899,
-            "locality_id":-1,
             "neighbourhood_id":85846225,
             "region_id":85688481,
             "venue_id":403983311
         }
     ],
     "wof:id":403983311,
-    "wof:lastmodified":1449055851,
+    "wof:lastmodified":1454357908,
     "wof:name":"The Jeweler's Daughter",
     "wof:parent_id":85846225,
     "wof:placetype":"venue",
@@ -64,6 +63,11 @@
         "stone"
     ]
 },
-  "bbox": [-77.233605,39.820693,-77.233605,39.820693],
+  "bbox": [
+    -77.233605,
+    39.820693,
+    -77.233605,
+    39.820693
+],
   "geometry": {"coordinates":[-77.233605,39.820693],"type":"Point"}
 }

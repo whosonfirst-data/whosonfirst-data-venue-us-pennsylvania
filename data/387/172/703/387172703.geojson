@@ -2,13 +2,14 @@
   "id": 387172703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.915604,40.172001,-79.915604,40.172001",
     "geom:latitude":40.172001,
     "geom:longitude":-79.915604,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"100 Route 837",
     "sg:city":"Monongahela",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85853767,
+        102191575,
+        404487733,
         85633793,
         101720343,
         102081343,
-        85853767
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"3aacf3da9ba9d7bc1752a6e5df6935fa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081343,
+            "localadmin_id":404487733,
             "locality_id":101720343,
             "neighbourhood_id":85853767,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387172703,
-    "wof:lastmodified":1449057637,
+    "wof:lastmodified":1454360539,
     "wof:name":"Performance Automotive",
     "wof:parent_id":85853767,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "shop"
     ]
 },
-  "bbox": [-79.915604,40.172001,-79.915604,40.172001],
+  "bbox": [
+    -79.915604,
+    40.172001,
+    -79.915604,
+    40.172001
+],
   "geometry": {"coordinates":[-79.915604,40.172001],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387126187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.801399,40.541088,-79.801399,40.541088",
     "geom:latitude":40.541088,
     "geom:longitude":-79.801399,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1310 Pittsburgh St",
     "sg:city":"Cheswick",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85839857,
+        102191575,
+        404484317,
         85633793,
         101718751,
         102080887,
-        85839857
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"4980fa759b0cb312de8cacbdac2de767",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484317,
             "locality_id":101718751,
             "neighbourhood_id":85839857,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387126187,
-    "wof:lastmodified":1449057503,
+    "wof:lastmodified":1454359758,
     "wof:name":"Nails By Hillary",
     "wof:parent_id":85839857,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.801399,40.541088,-79.801399,40.541088],
+  "bbox": [
+    -79.801399,
+    40.541088,
+    -79.801399,
+    40.541088
+],
   "geometry": {"coordinates":[-79.801399,40.541088],"type":"Point"}
 }

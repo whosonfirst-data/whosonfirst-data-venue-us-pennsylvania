@@ -2,13 +2,14 @@
   "id": 387446689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.050301,40.357498,-80.050301,40.357498",
     "geom:latitude":40.357498,
     "geom:longitude":-80.050301,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1687 Washington Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85821223
+        85821223,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"363ea854cd26a20ff65f61d7bf2d2f5c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85821223,
             "region_id":85688481,
             "venue_id":387446689
         }
     ],
     "wof:id":387446689,
-    "wof:lastmodified":1449059592,
+    "wof:lastmodified":1454361131,
     "wof:name":"Fitness Innovations Inc",
     "wof:parent_id":85821223,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "trainer"
     ]
 },
-  "bbox": [-80.050301,40.357498,-80.050301,40.357498],
+  "bbox": [
+    -80.050301,
+    40.357498,
+    -80.050301,
+    40.357498
+],
   "geometry": {"coordinates":[-80.050301,40.357498],"type":"Point"}
 }

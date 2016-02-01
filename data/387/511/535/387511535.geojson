@@ -2,13 +2,14 @@
   "id": 387511535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.768419,40.462811,-79.768419,40.462811",
     "geom:latitude":40.462811,
     "geom:longitude":-79.768419,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"575 Davidson Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -53,8 +54,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85812851
+        85812851,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,17 +65,15 @@
     "wof:geomhash":"033e8121235717482a9f4e4475e6ee1b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85812851,
             "region_id":85688481,
             "venue_id":387511535
         }
     ],
     "wof:id":387511535,
-    "wof:lastmodified":1449057856,
+    "wof:lastmodified":1454360616,
     "wof:name":"P J Electronics Inc",
     "wof:parent_id":85812851,
     "wof:placetype":"venue",
@@ -92,6 +91,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-79.768419,40.462811,-79.768419,40.462811],
-  "geometry": {"coordinates":[-79.768419,40.462811],"type":"Point"}
+  "bbox": [
+    -79.768419,
+    40.462811,
+    -79.768419,
+    40.462811
+],
+  "geometry": {"coordinates":[-79.76841899999999,40.462811],"type":"Point"}
 }

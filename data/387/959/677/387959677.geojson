@@ -2,13 +2,14 @@
   "id": 387959677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.572507,40.161289,-76.572507,40.161289",
     "geom:latitude":40.161289,
     "geom:longitude":-76.572507,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"189 Ridgeview Rd S Ste 1",
     "sg:city":"Elizabethtown",
     "sg:classifiers":[
@@ -34,8 +35,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85803077
+        85803077,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +46,15 @@
     "wof:geomhash":"e5b4357f6fc9f04a0dafcd790e0c50dd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85803077,
             "region_id":85688481,
             "venue_id":387959677
         }
     ],
     "wof:id":387959677,
-    "wof:lastmodified":1449059536,
+    "wof:lastmodified":1454361110,
     "wof:name":"TD Lawn Care",
     "wof:parent_id":85803077,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-76.572507,40.161289,-76.572507,40.161289],
+  "bbox": [
+    -76.572507,
+    40.161289,
+    -76.572507,
+    40.161289
+],
   "geometry": {"coordinates":[-76.572507,40.161289],"type":"Point"}
 }

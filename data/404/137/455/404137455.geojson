@@ -2,13 +2,14 @@
   "id": 404137455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.392319,41.120722,-76.392319,41.120722",
     "geom:latitude":41.120722,
     "geom:longitude":-76.392319,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"25 Maple Rd",
     "sg:city":"Orangeville",
     "sg:classifiers":[
@@ -33,8 +34,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080973,
-        85868479
+        85868479,
+        102080973
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +45,15 @@
     "wof:geomhash":"9b9d2dd8cb8f516dd403e9c24be35628",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080973,
-            "locality_id":-1,
             "neighbourhood_id":85868479,
             "region_id":85688481,
             "venue_id":404137455
         }
     ],
     "wof:id":404137455,
-    "wof:lastmodified":1449040157,
+    "wof:lastmodified":1454357036,
     "wof:name":"Greenwood Landscaping",
     "wof:parent_id":85868479,
     "wof:placetype":"venue",
@@ -68,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-76.392319,41.120722,-76.392319,41.120722],
+  "bbox": [
+    -76.392319,
+    41.120722,
+    -76.392319,
+    41.120722
+],
   "geometry": {"coordinates":[-76.392319,41.120722],"type":"Point"}
 }

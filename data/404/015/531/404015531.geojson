@@ -2,13 +2,14 @@
   "id": 404015531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.690581,39.971508,-76.690581,39.971508",
     "geom:latitude":39.971508,
     "geom:longitude":-76.690581,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"10 Eastern Blvd",
     "sg:city":"York",
     "sg:classifiers":[
@@ -46,8 +47,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080953,
-        85817923
+        85817923,
+        102080953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,17 +58,15 @@
     "wof:geomhash":"1f88f2fb29f86412084e8115df2d5d1b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
             "neighbourhood_id":85817923,
             "region_id":85688481,
             "venue_id":404015531
         }
     ],
     "wof:id":404015531,
-    "wof:lastmodified":1449039329,
+    "wof:lastmodified":1454356573,
     "wof:name":"Curtis R Perago Jr, Clu - Nationwide Insurance",
     "wof:parent_id":85817923,
     "wof:placetype":"venue",
@@ -78,6 +77,11 @@
         "homeowner"
     ]
 },
-  "bbox": [-76.690581,39.971508,-76.690581,39.971508],
-  "geometry": {"coordinates":[-76.690581,39.971508],"type":"Point"}
+  "bbox": [
+    -76.690581,
+    39.971508,
+    -76.690581,
+    39.971508
+],
+  "geometry": {"coordinates":[-76.69058099999999,39.971508],"type":"Point"}
 }

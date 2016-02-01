@@ -2,13 +2,14 @@
   "id": 404080127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.318747,40.059134,-76.318747,40.059134",
     "geom:latitude":40.059134,
     "geom:longitude":-76.318747,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1175 Manheim Pike",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85821747,
+        102191575,
+        404487183,
         85633793,
+        101718643,
         102081377,
-        85821747
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +49,18 @@
     "wof:geomhash":"78507ca40742af0ed15d88e6e2344ed5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
+            "localadmin_id":404487183,
+            "locality_id":101718643,
             "neighbourhood_id":85821747,
             "region_id":85688481,
             "venue_id":404080127
         }
     ],
     "wof:id":404080127,
-    "wof:lastmodified":1449040302,
+    "wof:lastmodified":1454357122,
     "wof:name":"Stirling Ventures Inc",
     "wof:parent_id":85821747,
     "wof:placetype":"venue",
@@ -65,6 +70,11 @@
         "bamboo"
     ]
 },
-  "bbox": [-76.318747,40.059134,-76.318747,40.059134],
+  "bbox": [
+    -76.318747,
+    40.059134,
+    -76.318747,
+    40.059134
+],
   "geometry": {"coordinates":[-76.318747,40.059134],"type":"Point"}
 }

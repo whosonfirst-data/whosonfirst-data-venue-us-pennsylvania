@@ -2,13 +2,14 @@
   "id": 387588991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.373967,39.749884,-79.373967,39.749884",
     "geom:latitude":39.749884,
     "geom:longitude":-79.373967,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"315 Diehl Farms Rd",
     "sg:city":"Addison",
     "sg:classifiers":[
@@ -41,8 +42,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081361,
-        85849277
+        85849277,
+        102081361
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,17 +53,15 @@
     "wof:geomhash":"2d207a9c5c56111654b79b198489f050",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081361,
-            "locality_id":-1,
             "neighbourhood_id":85849277,
             "region_id":85688481,
             "venue_id":387588991
         }
     ],
     "wof:id":387588991,
-    "wof:lastmodified":1449059167,
+    "wof:lastmodified":1454361003,
     "wof:name":"Diehl Farms",
     "wof:parent_id":85849277,
     "wof:placetype":"venue",
@@ -74,6 +73,11 @@
         "product"
     ]
 },
-  "bbox": [-79.373967,39.749884,-79.373967,39.749884],
-  "geometry": {"coordinates":[-79.373967,39.749884],"type":"Point"}
+  "bbox": [
+    -79.373967,
+    39.749884,
+    -79.373967,
+    39.749884
+],
+  "geometry": {"coordinates":[-79.37396699999999,39.749884],"type":"Point"}
 }

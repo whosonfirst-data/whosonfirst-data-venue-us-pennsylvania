@@ -2,13 +2,14 @@
   "id": 387856785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.592487,40.472854,-78.592487,40.472854",
     "geom:latitude":40.472854,
     "geom:longitude":-78.592487,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"68 Sumner St",
     "sg:city":"Cresson",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85825859,
+        102191575,
+        404482895,
         85633793,
         101717789,
         102080879,
-        85825859
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"eacb3f37816f356cf3861b5e3575a303",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080879,
+            "localadmin_id":404482895,
             "locality_id":101717789,
             "neighbourhood_id":85825859,
             "region_id":85688481,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":387856785,
-    "wof:lastmodified":1449057177,
+    "wof:lastmodified":1454358907,
     "wof:name":"Devon's Crafts",
     "wof:parent_id":85825859,
     "wof:placetype":"venue",
@@ -72,6 +76,11 @@
         "supply"
     ]
 },
-  "bbox": [-78.592487,40.472854,-78.592487,40.472854],
-  "geometry": {"coordinates":[-78.592487,40.472854],"type":"Point"}
+  "bbox": [
+    -78.592487,
+    40.472854,
+    -78.592487,
+    40.472854
+],
+  "geometry": {"coordinates":[-78.59248700000001,40.472854],"type":"Point"}
 }

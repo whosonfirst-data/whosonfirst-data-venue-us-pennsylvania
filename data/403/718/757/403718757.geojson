@@ -2,13 +2,14 @@
   "id": 403718757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.47921,40.307653,-76.47921,40.307653",
     "geom:latitude":40.307653,
     "geom:longitude":-76.47921,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"455 Church Rd",
     "sg:city":"Lebanon",
     "sg:classifiers":[
@@ -37,7 +38,12 @@
     "sg:website":"http://www.lds.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420538697,
+        102191575,
+        404483423,
         85633793,
+        101719373,
+        102081341,
         85688481
     ],
     "wof:breaches":[],
@@ -48,18 +54,20 @@
     "wof:geomhash":"cb2fc5f4876cfaea635d41707aab95ac",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081341,
+            "localadmin_id":404483423,
+            "locality_id":101719373,
+            "neighbourhood_id":420538697,
             "region_id":85688481,
             "venue_id":403718757
         }
     ],
     "wof:id":403718757,
-    "wof:lastmodified":1449054932,
+    "wof:lastmodified":1454357372,
     "wof:name":"The Corporation Of The President Of The Church Of Jesus Christ Of Latter-Day Saints",
-    "wof:parent_id":-1,
+    "wof:parent_id":420538697,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -71,6 +79,11 @@
         "saint"
     ]
 },
-  "bbox": [-76.47921,40.307653,-76.47921,40.307653],
-  "geometry": {"coordinates":[-76.47921,40.307653],"type":"Point"}
+  "bbox": [
+    -76.47921,
+    40.307653,
+    -76.47921,
+    40.307653
+],
+  "geometry": {"coordinates":[-76.47920999999999,40.307653],"type":"Point"}
 }

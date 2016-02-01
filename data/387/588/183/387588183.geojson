@@ -2,13 +2,14 @@
   "id": 387588183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.698134,39.90344,-79.698134,39.90344",
     "geom:latitude":39.90344,
     "geom:longitude":-79.698134,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"519 Connellsville St",
     "sg:city":"Uniontown",
     "sg:classifiers":[
@@ -35,10 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420537999,
+        102191575,
+        404487055,
         85633793,
         101719785,
-        102080959
+        102080959,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +52,20 @@
     "wof:geomhash":"7a927ebc6b5a7818ec0b43fd4d1980ba",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080959,
+            "localadmin_id":404487055,
             "locality_id":101719785,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420537999,
             "region_id":85688481,
             "venue_id":387588183
         }
     ],
     "wof:id":387588183,
-    "wof:lastmodified":1449059168,
+    "wof:lastmodified":1454361003,
     "wof:name":"Connellsville St Church Of Christ",
-    "wof:parent_id":-1,
+    "wof:parent_id":420537999,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -71,6 +76,11 @@
         "christ"
     ]
 },
-  "bbox": [-79.698134,39.90344,-79.698134,39.90344],
+  "bbox": [
+    -79.698134,
+    39.90344,
+    -79.698134,
+    39.90344
+],
   "geometry": {"coordinates":[-79.698134,39.90344],"type":"Point"}
 }

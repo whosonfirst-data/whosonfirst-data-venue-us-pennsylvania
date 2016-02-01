@@ -2,13 +2,14 @@
   "id": 387549839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.133503,40.276696,-80.133503,40.276696",
     "geom:latitude":40.276696,
     "geom:longitude":-80.133503,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"111 Crestview Dr",
     "sg:city":"Canonsburg",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081343,
-        85814861
+        85814861,
+        102081343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"36170fa4a87dc8084750aca2faaf270b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081343,
-            "locality_id":-1,
             "neighbourhood_id":85814861,
             "region_id":85688481,
             "venue_id":387549839
         }
     ],
     "wof:id":387549839,
-    "wof:lastmodified":1449057144,
+    "wof:lastmodified":1454358877,
     "wof:name":"Joseph H Rodgers Rev",
     "wof:parent_id":85814861,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "clergy"
     ]
 },
-  "bbox": [-80.133503,40.276696,-80.133503,40.276696],
+  "bbox": [
+    -80.133503,
+    40.276696,
+    -80.133503,
+    40.276696
+],
   "geometry": {"coordinates":[-80.133503,40.276696],"type":"Point"}
 }

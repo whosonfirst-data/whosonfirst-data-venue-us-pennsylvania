@@ -2,13 +2,14 @@
   "id": 387702795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.858726,40.778713,-79.858726,40.778713",
     "geom:latitude":40.778713,
     "geom:longitude":-79.858726,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"237 Heller Rd",
     "sg:city":"Butler",
     "sg:classifiers":[
@@ -43,8 +44,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102083677,
-        85845445
+        85845445,
+        102083677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,17 +55,15 @@
     "wof:geomhash":"bc49caeaf3a57f0ffe2475bf3082d285",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102083677,
-            "locality_id":-1,
             "neighbourhood_id":85845445,
             "region_id":85688481,
             "venue_id":387702795
         }
     ],
     "wof:id":387702795,
-    "wof:lastmodified":1449058008,
+    "wof:lastmodified":1454360650,
     "wof:name":"Allegheny Auto Salvage",
     "wof:parent_id":85845445,
     "wof:placetype":"venue",
@@ -78,6 +77,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-79.858726,40.778713,-79.858726,40.778713],
+  "bbox": [
+    -79.858726,
+    40.778713,
+    -79.858726,
+    40.778713
+],
   "geometry": {"coordinates":[-79.858726,40.778713],"type":"Point"}
 }

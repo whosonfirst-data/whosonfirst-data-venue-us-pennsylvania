@@ -2,13 +2,14 @@
   "id": 387966403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.678306,40.396469,-76.678306,40.396469",
     "geom:latitude":40.396469,
     "geom:longitude":-76.678306,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"9668 Mountain Rd",
     "sg:city":"Grantville",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85832031
+        85832031,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"4bb7080cda145c9d612cb21a44b21228",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85832031,
             "region_id":85688481,
             "venue_id":387966403
         }
     ],
     "wof:id":387966403,
-    "wof:lastmodified":1449056140,
+    "wof:lastmodified":1454358115,
     "wof:name":"Royer's Flooring",
     "wof:parent_id":85832031,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-76.678306,40.396469,-76.678306,40.396469],
-  "geometry": {"coordinates":[-76.678306,40.396469],"type":"Point"}
+  "bbox": [
+    -76.678306,
+    40.396469,
+    -76.678306,
+    40.396469
+],
+  "geometry": {"coordinates":[-76.67830600000001,40.396469],"type":"Point"}
 }

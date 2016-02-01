@@ -2,13 +2,14 @@
   "id": 387842771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.013247,42.098384,-80.013247,42.098384",
     "geom:latitude":42.098384,
     "geom:longitude":-80.013247,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5650 Wattsburg Rd",
     "sg:city":"Erie",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080955,
-        85827775
+        85827775,
+        102080955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"147288658265380e9963a327f5e2f1cf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080955,
-            "locality_id":-1,
             "neighbourhood_id":85827775,
             "region_id":85688481,
             "venue_id":387842771
         }
     ],
     "wof:id":387842771,
-    "wof:lastmodified":1449056389,
+    "wof:lastmodified":1454358306,
     "wof:name":"Lake Erie Logistics",
     "wof:parent_id":85827775,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-80.013247,42.098384,-80.013247,42.098384],
-  "geometry": {"coordinates":[-80.013247,42.098384],"type":"Point"}
+  "bbox": [
+    -80.013247,
+    42.098384,
+    -80.013247,
+    42.098384
+],
+  "geometry": {"coordinates":[-80.01324700000001,42.098384],"type":"Point"}
 }

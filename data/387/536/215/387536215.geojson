@@ -2,13 +2,14 @@
   "id": 387536215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.202204,40.217515,-80.202204,40.217515",
     "geom:latitude":40.217515,
     "geom:longitude":-80.202204,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"210 Racetrack Rd",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -27,8 +28,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081343,
-        85833251
+        85833251,
+        102081343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +39,15 @@
     "wof:geomhash":"84286937807cc89033338574303c5c3d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081343,
-            "locality_id":-1,
             "neighbourhood_id":85833251,
             "region_id":85688481,
             "venue_id":387536215
         }
     ],
     "wof:id":387536215,
-    "wof:lastmodified":1449058375,
+    "wof:lastmodified":1454360763,
     "wof:name":"The Meadows Racetrack & Casino",
     "wof:parent_id":85833251,
     "wof:placetype":"venue",
@@ -56,6 +55,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.202204,40.217515,-80.202204,40.217515],
-  "geometry": {"coordinates":[-80.202204,40.217515],"type":"Point"}
+  "bbox": [
+    -80.202204,
+    40.217515,
+    -80.202204,
+    40.217515
+],
+  "geometry": {"coordinates":[-80.20220399999999,40.217515],"type":"Point"}
 }

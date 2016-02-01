@@ -2,13 +2,14 @@
   "id": 403893721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.777785,40.266207,-76.777785,40.266207",
     "geom:latitude":40.266207,
     "geom:longitude":-76.777785,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6330 Clearfield St",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -50,11 +51,13 @@
     "sg:website":"http://harrisburg.citysearch.com/profile/external/604421812/harrisburg_pa/roto_rooter_plumbing_drain_services.html?publisher=yellowpages&reference_id=1&placement=ypwebsitemip",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85846483,
+        102191575,
+        404486309,
         85633793,
         101719823,
         102081347,
-        85846483
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,9 +67,10 @@
     "wof:geomhash":"713a7bf366afffb2438e60e0b2e05880",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
+            "localadmin_id":404486309,
             "locality_id":101719823,
             "neighbourhood_id":85846483,
             "region_id":85688481,
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":403893721,
-    "wof:lastmodified":1449055716,
+    "wof:lastmodified":1454357839,
     "wof:name":"Roto-Rooter Plumbing & Drain Services",
     "wof:parent_id":85846483,
     "wof:placetype":"venue",
@@ -91,6 +95,11 @@
         "plumbing-drain"
     ]
 },
-  "bbox": [-76.777785,40.266207,-76.777785,40.266207],
-  "geometry": {"coordinates":[-76.777785,40.266207],"type":"Point"}
+  "bbox": [
+    -76.777785,
+    40.266207,
+    -76.777785,
+    40.266207
+],
+  "geometry": {"coordinates":[-76.77778499999999,40.266207],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404061781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.309151,40.178719,-76.309151,40.178719",
     "geom:latitude":40.178719,
     "geom:longitude":-76.309151,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"727 Furnace Hills Pike",
     "sg:city":"Lititz",
     "sg:classifiers":[
@@ -27,8 +28,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85834405
+        85834405,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +39,15 @@
     "wof:geomhash":"e656948d8ce82606c49aa535f5f3b885",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85834405,
             "region_id":85688481,
             "venue_id":404061781
         }
     ],
     "wof:id":404061781,
-    "wof:lastmodified":1449039989,
+    "wof:lastmodified":1454356936,
     "wof:name":"Lititz Auto Service",
     "wof:parent_id":85834405,
     "wof:placetype":"venue",
@@ -56,6 +55,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.309151,40.178719,-76.309151,40.178719],
+  "bbox": [
+    -76.309151,
+    40.178719,
+    -76.309151,
+    40.178719
+],
   "geometry": {"coordinates":[-76.309151,40.178719],"type":"Point"}
 }

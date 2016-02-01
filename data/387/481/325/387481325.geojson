@@ -2,13 +2,14 @@
   "id": 387481325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.028619,40.356928,-80.028619,40.356928",
     "geom:latitude":40.356928,
     "geom:longitude":-80.028619,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4156 Library Rd",
     "sg:city":"Castle Shannon",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536387,
+        102191575,
+        404484869,
         85633793,
         101718761,
-        102080887
+        102080887,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"a8d13ff516e7daae3d307ca81266a645",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484869,
             "locality_id":101718761,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420536387,
             "region_id":85688481,
             "venue_id":387481325
         }
     ],
     "wof:id":387481325,
-    "wof:lastmodified":1449059431,
+    "wof:lastmodified":1454361079,
     "wof:name":"P A Mortgage Services",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536387,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-80.028619,40.356928,-80.028619,40.356928],
-  "geometry": {"coordinates":[-80.028619,40.356928],"type":"Point"}
+  "bbox": [
+    -80.028619,
+    40.356928,
+    -80.028619,
+    40.356928
+],
+  "geometry": {"coordinates":[-80.02861900000001,40.356928],"type":"Point"}
 }

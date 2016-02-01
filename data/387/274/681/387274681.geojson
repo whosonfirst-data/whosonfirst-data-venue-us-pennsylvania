@@ -2,13 +2,14 @@
   "id": 387274681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.77028,40.44329,-79.77028,40.44329",
     "geom:latitude":40.44329,
     "geom:longitude":-79.77028,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4366 Old William Penn Hwy",
     "sg:city":"Monroeville",
     "sg:classifiers":[
@@ -36,11 +37,13 @@
     "sg:website":"http://www.lacucinadolce.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85821019,
+        102191575,
+        404484135,
         85633793,
         101718841,
         102080887,
-        85821019
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,9 +53,10 @@
     "wof:geomhash":"d919ff4da394605fd5bc76cd3e4128a0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484135,
             "locality_id":101718841,
             "neighbourhood_id":85821019,
             "region_id":85688481,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":387274681,
-    "wof:lastmodified":1449056574,
+    "wof:lastmodified":1454358449,
     "wof:name":"La Cucina Dolce",
     "wof:parent_id":85821019,
     "wof:placetype":"venue",
@@ -73,6 +77,11 @@
         "italian"
     ]
 },
-  "bbox": [-79.77028,40.44329,-79.77028,40.44329],
+  "bbox": [
+    -79.77028,
+    40.44329,
+    -79.77028,
+    40.44329
+],
   "geometry": {"coordinates":[-79.77028,40.44329],"type":"Point"}
 }

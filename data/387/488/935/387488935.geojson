@@ -2,13 +2,14 @@
   "id": 387488935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.005302,40.3564,-80.005302,40.3564",
     "geom:latitude":40.3564,
     "geom:longitude":-80.005302,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5200 Greenridge Dr",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85831349,
+        102191575,
+        404484853,
         85633793,
         101718799,
         102080887,
-        85831349
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"e26d3526eb9a7ca43c94b26989238a97",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484853,
             "locality_id":101718799,
             "neighbourhood_id":85831349,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387488935,
-    "wof:lastmodified":1449059825,
+    "wof:lastmodified":1454361203,
     "wof:name":"St Gabriel of the Sorrowful Virgin School",
     "wof:parent_id":85831349,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "elementary"
     ]
 },
-  "bbox": [-80.005302,40.3564,-80.005302,40.3564],
+  "bbox": [
+    -80.005302,
+    40.3564,
+    -80.005302,
+    40.3564
+],
   "geometry": {"coordinates":[-80.005302,40.3564],"type":"Point"}
 }

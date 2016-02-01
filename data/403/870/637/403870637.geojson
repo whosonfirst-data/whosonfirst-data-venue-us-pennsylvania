@@ -2,13 +2,14 @@
   "id": 403870637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.842003,40.299198,-76.842003,40.299198",
     "geom:latitude":40.299198,
     "geom:longitude":-76.842003,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3550 Elmerton Ave",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -26,8 +27,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85851635
+        85851635,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,17 +38,15 @@
     "wof:geomhash":"aeb398a9301b570996f6bf5900b04bf9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85851635,
             "region_id":85688481,
             "venue_id":403870637
         }
     ],
     "wof:id":403870637,
-    "wof:lastmodified":1449054993,
+    "wof:lastmodified":1454357405,
     "wof:name":"Susquehanna Township School District",
     "wof:parent_id":85851635,
     "wof:placetype":"venue",
@@ -55,6 +54,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.842003,40.299198,-76.842003,40.299198],
-  "geometry": {"coordinates":[-76.842003,40.299198],"type":"Point"}
+  "bbox": [
+    -76.842003,
+    40.299198,
+    -76.842003,
+    40.299198
+],
+  "geometry": {"coordinates":[-76.84200300000001,40.299198],"type":"Point"}
 }

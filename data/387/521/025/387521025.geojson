@@ -2,13 +2,14 @@
   "id": 387521025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.053649,40.34758,-80.053649,40.34758",
     "geom:latitude":40.34758,
     "geom:longitude":-80.053649,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1725 Washington Rd Ste 505",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85805921,
+        102191575,
+        404484853,
         85633793,
         101718799,
         102080887,
-        85805921
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"2e55f960e355413b3ecb2505f1ba45ea",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484853,
             "locality_id":101718799,
             "neighbourhood_id":85805921,
             "region_id":85688481,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":387521025,
-    "wof:lastmodified":1449059732,
+    "wof:lastmodified":1454361174,
     "wof:name":"Peterson Gregory S DMD",
     "wof:parent_id":85805921,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.053649,40.34758,-80.053649,40.34758],
-  "geometry": {"coordinates":[-80.053649,40.34758],"type":"Point"}
+  "bbox": [
+    -80.053649,
+    40.34758,
+    -80.053649,
+    40.34758
+],
+  "geometry": {"coordinates":[-80.05364899999999,40.34758],"type":"Point"}
 }

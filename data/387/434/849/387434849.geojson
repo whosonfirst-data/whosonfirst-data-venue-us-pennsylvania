@@ -2,13 +2,14 @@
   "id": 387434849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.018566,40.392318,-80.018566,40.392318",
     "geom:latitude":40.392318,
     "geom:longitude":-80.018566,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"928 Brookline Blvd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85807877,
+        102191575,
+        404482523,
         85633793,
+        101718805,
         102080887,
-        85807877
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +44,18 @@
     "wof:geomhash":"77a912712d12ca5275207d05248654c7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
+            "localadmin_id":404482523,
+            "locality_id":101718805,
             "neighbourhood_id":85807877,
             "region_id":85688481,
             "venue_id":387434849
         }
     ],
     "wof:id":387434849,
-    "wof:lastmodified":1449056920,
+    "wof:lastmodified":1454358710,
     "wof:name":"Dudding Mark D CPA",
     "wof:parent_id":85807877,
     "wof:placetype":"venue",
@@ -60,6 +65,11 @@
         "accountant"
     ]
 },
-  "bbox": [-80.018566,40.392318,-80.018566,40.392318],
-  "geometry": {"coordinates":[-80.018566,40.392318],"type":"Point"}
+  "bbox": [
+    -80.018566,
+    40.392318,
+    -80.018566,
+    40.392318
+],
+  "geometry": {"coordinates":[-80.01856600000001,40.392318],"type":"Point"}
 }

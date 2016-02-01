@@ -2,13 +2,14 @@
   "id": 403704359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.646164,40.26415,-76.646164,40.26415",
     "geom:latitude":40.26415,
     "geom:longitude":-76.646164,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"234 Hartley Rd",
     "sg:city":"Hershey",
     "sg:classifiers":[
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85825831,
+        102191575,
+        404483303,
         85633793,
         101719813,
         102081347,
-        85825831
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"9176aa633b5d570fdf4232d6dca73043",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
+            "localadmin_id":404483303,
             "locality_id":101719813,
             "neighbourhood_id":85825831,
             "region_id":85688481,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":403704359,
-    "wof:lastmodified":1449054988,
+    "wof:lastmodified":1454357402,
     "wof:name":"Koppenhaver D L",
     "wof:parent_id":85825831,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "electrician"
     ]
 },
-  "bbox": [-76.646164,40.26415,-76.646164,40.26415],
+  "bbox": [
+    -76.646164,
+    40.26415,
+    -76.646164,
+    40.26415
+],
   "geometry": {"coordinates":[-76.646164,40.26415],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404084909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.287354,40.040031,-76.287354,40.040031",
     "geom:latitude":40.040031,
     "geom:longitude":-76.287354,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"900 E King St",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85812047
+        85812047,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"169f39f2ded84aec9599411b841aa6c4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85812047,
             "region_id":85688481,
             "venue_id":404084909
         }
     ],
     "wof:id":404084909,
-    "wof:lastmodified":1449039151,
+    "wof:lastmodified":1454356475,
     "wof:name":"Lancaster County Children and Youth Agency",
     "wof:parent_id":85812047,
     "wof:placetype":"venue",
@@ -68,6 +67,11 @@
         "government-county"
     ]
 },
-  "bbox": [-76.287354,40.040031,-76.287354,40.040031],
-  "geometry": {"coordinates":[-76.287354,40.040031],"type":"Point"}
+  "bbox": [
+    -76.287354,
+    40.040031,
+    -76.287354,
+    40.040031
+],
+  "geometry": {"coordinates":[-76.28735399999999,40.040031],"type":"Point"}
 }

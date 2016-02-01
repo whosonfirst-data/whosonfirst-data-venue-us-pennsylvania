@@ -2,13 +2,14 @@
   "id": 387654019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.12774,40.653429,-79.12774,40.653429",
     "geom:latitude":40.653429,
     "geom:longitude":-79.12774,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1590 Old Route 119 Hwy N",
     "sg:city":"Indiana",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081387,
-        85810803
+        85810803,
+        102081387
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"acd69071db6cd482e96e99c7789387b7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081387,
-            "locality_id":-1,
             "neighbourhood_id":85810803,
             "region_id":85688481,
             "venue_id":387654019
         }
     ],
     "wof:id":387654019,
-    "wof:lastmodified":1449057374,
+    "wof:lastmodified":1454359066,
     "wof:name":"C&D Truck Service",
     "wof:parent_id":85810803,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "truck"
     ]
 },
-  "bbox": [-79.12774,40.653429,-79.12774,40.653429],
+  "bbox": [
+    -79.12774,
+    40.653429,
+    -79.12774,
+    40.653429
+],
   "geometry": {"coordinates":[-79.12774,40.653429],"type":"Point"}
 }

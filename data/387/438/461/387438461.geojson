@@ -2,13 +2,14 @@
   "id": 387438461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.966617,40.362455,-79.966617,40.362455",
     "geom:latitude":40.362455,
     "geom:longitude":-79.966617,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4840 Elmwood Dr",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85857905,
+        102191575,
+        404484247,
         85633793,
         101718705,
         102080887,
-        85857905
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"675a3125b339ca08e5921bbd9bde20b6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484247,
             "locality_id":101718705,
             "neighbourhood_id":85857905,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387438461,
-    "wof:lastmodified":1449057386,
+    "wof:lastmodified":1454359080,
     "wof:name":"Marx Gallery And Framing Inc",
     "wof:parent_id":85857905,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-79.966617,40.362455,-79.966617,40.362455],
+  "bbox": [
+    -79.966617,
+    40.362455,
+    -79.966617,
+    40.362455
+],
   "geometry": {"coordinates":[-79.966617,40.362455],"type":"Point"}
 }

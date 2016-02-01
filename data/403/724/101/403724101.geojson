@@ -2,13 +2,14 @@
   "id": 403724101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.903,40.2589,-76.903,40.2589",
     "geom:latitude":40.2589,
     "geom:longitude":-76.903,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"342 N Front St",
     "sg:city":"Lemoyne",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85820443,
+        102191575,
+        404483169,
         85633793,
-        101717693,
-        102081347,
-        85820443
+        101716755,
+        102081359,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"603126a490f4cfe3fce06d0a10408c68",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081347,
-            "locality_id":101717693,
+            "county_id":102081359,
+            "localadmin_id":404483169,
+            "locality_id":101716755,
             "neighbourhood_id":85820443,
             "region_id":85688481,
             "venue_id":403724101
         }
     ],
     "wof:id":403724101,
-    "wof:lastmodified":1449055920,
+    "wof:lastmodified":1454357950,
     "wof:name":"Pfister and Rompalo CPA",
     "wof:parent_id":85820443,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "accountant"
     ]
 },
-  "bbox": [-76.903,40.2589,-76.903,40.2589],
-  "geometry": {"coordinates":[-76.903,40.2589],"type":"Point"}
+  "bbox": [
+    -76.903,
+    40.2589,
+    -76.903,
+    40.2589
+],
+  "geometry": {"coordinates":[-76.90300000000001,40.2589],"type":"Point"}
 }

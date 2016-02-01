@@ -2,13 +2,14 @@
   "id": 404080903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.358321,40.059712,-76.358321,40.059712",
     "geom:latitude":40.059712,
     "geom:longitude":-76.358321,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2070 Bennett Ave",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -65,8 +66,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85848619
+        85848619,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,17 +77,15 @@
     "wof:geomhash":"6be3e18f66dbb136ff4b6c50619e3a07",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85848619,
             "region_id":85688481,
             "venue_id":404080903
         }
     ],
     "wof:id":404080903,
-    "wof:lastmodified":1449040299,
+    "wof:lastmodified":1454357116,
     "wof:name":"Kitchen Design Specialists",
     "wof:parent_id":85848619,
     "wof:placetype":"venue",
@@ -111,6 +110,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-76.358321,40.059712,-76.358321,40.059712],
+  "bbox": [
+    -76.358321,
+    40.059712,
+    -76.358321,
+    40.059712
+],
   "geometry": {"coordinates":[-76.358321,40.059712],"type":"Point"}
 }

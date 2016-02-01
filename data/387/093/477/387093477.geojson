@@ -2,13 +2,14 @@
   "id": 387093477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.246147,40.617547,-80.246147,40.617547",
     "geom:latitude":40.617547,
     "geom:longitude":-80.246147,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"392 Franklin Ave 22",
     "sg:city":"Aliquippa",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85858799,
+        102191575,
+        404484357,
         85633793,
         101718409,
         102081323,
-        85858799
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"73fec59e53d8d2b9deb3742f4261d54e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081323,
+            "localadmin_id":404484357,
             "locality_id":101718409,
             "neighbourhood_id":85858799,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387093477,
-    "wof:lastmodified":1449056117,
+    "wof:lastmodified":1454358095,
     "wof:name":"Harrison Financial Services",
     "wof:parent_id":85858799,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "commercial"
     ]
 },
-  "bbox": [-80.246147,40.617547,-80.246147,40.617547],
-  "geometry": {"coordinates":[-80.246147,40.617547],"type":"Point"}
+  "bbox": [
+    -80.246147,
+    40.617547,
+    -80.246147,
+    40.617547
+],
+  "geometry": {"coordinates":[-80.24614699999999,40.617547],"type":"Point"}
 }

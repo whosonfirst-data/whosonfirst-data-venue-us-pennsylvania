@@ -2,13 +2,14 @@
   "id": 387813705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.247906,42.037214,-80.247906,42.037214",
     "geom:latitude":42.037214,
     "geom:longitude":-80.247906,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"7171 W Ridge Rd",
     "sg:city":"Fairview",
     "sg:classifiers":[
@@ -58,8 +59,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080955,
-        85832053
+        85832053,
+        102080955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,17 +70,15 @@
     "wof:geomhash":"09633316baf5117890ad187d8e37ded4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080955,
-            "locality_id":-1,
             "neighbourhood_id":85832053,
             "region_id":85688481,
             "venue_id":387813705
         }
     ],
     "wof:id":387813705,
-    "wof:lastmodified":1449057084,
+    "wof:lastmodified":1454358822,
     "wof:name":"Coach USA Erie",
     "wof:parent_id":85832053,
     "wof:placetype":"venue",
@@ -97,6 +96,11 @@
         "sightseeing"
     ]
 },
-  "bbox": [-80.247906,42.037214,-80.247906,42.037214],
+  "bbox": [
+    -80.247906,
+    42.037214,
+    -80.247906,
+    42.037214
+],
   "geometry": {"coordinates":[-80.247906,42.037214],"type":"Point"}
 }

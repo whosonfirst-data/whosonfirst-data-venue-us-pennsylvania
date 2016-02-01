@@ -2,13 +2,14 @@
   "id": 404065499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.3543,40.011535,-76.3543,40.011535",
     "geom:latitude":40.011535,
     "geom:longitude":-76.3543,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"244 Manor Ave",
     "sg:city":"Millersville",
     "sg:classifiers":[
@@ -46,8 +47,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85854053
+        85854053,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,17 +58,15 @@
     "wof:geomhash":"b37b1bdce3381d0d39b6105525b5d8fa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85854053,
             "region_id":85688481,
             "venue_id":404065499
         }
     ],
     "wof:id":404065499,
-    "wof:lastmodified":1449040319,
+    "wof:lastmodified":1454357132,
     "wof:name":"Beverly Richard Agcy Llc - Nationwide Insurance",
     "wof:parent_id":85854053,
     "wof:placetype":"venue",
@@ -78,6 +77,11 @@
         "homeowner"
     ]
 },
-  "bbox": [-76.3543,40.011535,-76.3543,40.011535],
-  "geometry": {"coordinates":[-76.3543,40.011535],"type":"Point"}
+  "bbox": [
+    -76.3543,
+    40.011535,
+    -76.3543,
+    40.011535
+],
+  "geometry": {"coordinates":[-76.35429999999999,40.011535],"type":"Point"}
 }

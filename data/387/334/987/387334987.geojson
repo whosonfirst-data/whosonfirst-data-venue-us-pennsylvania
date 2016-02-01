@@ -2,13 +2,14 @@
   "id": 387334987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.034723,40.394923,-80.034723,40.394923",
     "geom:latitude":40.394923,
     "geom:longitude":-80.034723,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2910 W Liberty Ave Ste 1",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536353,
+        102191575,
+        404484881,
         85633793,
         101718733,
-        102080887
+        102080887,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"6428e7eee4055caa7a0c3e213847b315",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484881,
             "locality_id":101718733,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420536353,
             "region_id":85688481,
             "venue_id":387334987
         }
     ],
     "wof:id":387334987,
-    "wof:lastmodified":1449057212,
+    "wof:lastmodified":1454358926,
     "wof:name":"Amazing Wok",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536353,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "chinese"
     ]
 },
-  "bbox": [-80.034723,40.394923,-80.034723,40.394923],
+  "bbox": [
+    -80.034723,
+    40.394923,
+    -80.034723,
+    40.394923
+],
   "geometry": {"coordinates":[-80.034723,40.394923],"type":"Point"}
 }

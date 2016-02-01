@@ -2,13 +2,14 @@
   "id": 387959399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.664669,40.141442,-76.664669,40.141442",
     "geom:latitude":40.141442,
     "geom:longitude":-76.664669,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2254 Turnpike Rd",
     "sg:city":"Elizabethtown",
     "sg:classifiers":[
@@ -41,8 +42,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85836929
+        85836929,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,17 +53,15 @@
     "wof:geomhash":"cff4ab983ed2f3920772531158453fee",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85836929,
             "region_id":85688481,
             "venue_id":387959399
         }
     ],
     "wof:id":387959399,
-    "wof:lastmodified":1449059535,
+    "wof:lastmodified":1454361109,
     "wof:name":"Powers' Plumbing and Home Improvements",
     "wof:parent_id":85836929,
     "wof:placetype":"venue",
@@ -78,6 +77,11 @@
         "remodeling"
     ]
 },
-  "bbox": [-76.664669,40.141442,-76.664669,40.141442],
+  "bbox": [
+    -76.664669,
+    40.141442,
+    -76.664669,
+    40.141442
+],
   "geometry": {"coordinates":[-76.664669,40.141442],"type":"Point"}
 }

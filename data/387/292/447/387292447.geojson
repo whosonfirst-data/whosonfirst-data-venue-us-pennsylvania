@@ -2,13 +2,14 @@
   "id": 387292447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.156303,40.448299,-80.156303,40.448299",
     "geom:latitude":40.448299,
     "geom:longitude":-80.156303,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6404 Steubenville Pike",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -26,8 +27,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85821263
+        85821263,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,17 +38,15 @@
     "wof:geomhash":"dc40cef35321103ef559878941cbb52d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85821263,
             "region_id":85688481,
             "venue_id":387292447
         }
     ],
     "wof:id":387292447,
-    "wof:lastmodified":1449056426,
+    "wof:lastmodified":1454358344,
     "wof:name":"Red Roof Inns",
     "wof:parent_id":85821263,
     "wof:placetype":"venue",
@@ -55,6 +54,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.156303,40.448299,-80.156303,40.448299],
-  "geometry": {"coordinates":[-80.156303,40.448299],"type":"Point"}
+  "bbox": [
+    -80.156303,
+    40.448299,
+    -80.156303,
+    40.448299
+],
+  "geometry": {"coordinates":[-80.15630299999999,40.448299],"type":"Point"}
 }

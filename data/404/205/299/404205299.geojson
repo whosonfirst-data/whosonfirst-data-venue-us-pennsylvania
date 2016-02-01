@@ -2,13 +2,14 @@
   "id": 404205299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.417,40.641602,-75.417,40.641602",
     "geom:latitude":40.641602,
     "geom:longitude":-75.417,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1980 Catasauqua Rd",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081327,
-        85838547
+        85838547,
+        102081327
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"1fb9237c5743014cad2358c53f875573",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081327,
-            "locality_id":-1,
             "neighbourhood_id":85838547,
             "region_id":85688481,
             "venue_id":404205299
         }
     ],
     "wof:id":404205299,
-    "wof:lastmodified":1449039829,
+    "wof:lastmodified":1454356828,
     "wof:name":"Exotic Dreams",
     "wof:parent_id":85838547,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "lingerie"
     ]
 },
-  "bbox": [-75.417,40.641602,-75.417,40.641602],
+  "bbox": [
+    -75.417,
+    40.641602,
+    -75.417,
+    40.641602
+],
   "geometry": {"coordinates":[-75.417,40.641602],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387127015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.845951,40.550992,-79.845951,40.550992",
     "geom:latitude":40.550992,
     "geom:longitude":-79.845951,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"372 Locust Hill Rd",
     "sg:city":"Cheswick",
     "sg:classifiers":[
@@ -43,8 +44,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85824029
+        85824029,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,17 +55,15 @@
     "wof:geomhash":"8f0afd3620b8f8e235e15da50a95c7d0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85824029,
             "region_id":85688481,
             "venue_id":387127015
         }
     ],
     "wof:id":387127015,
-    "wof:lastmodified":1449059603,
+    "wof:lastmodified":1454361134,
     "wof:name":"Friday's Perennials",
     "wof:parent_id":85824029,
     "wof:placetype":"venue",
@@ -77,6 +76,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.845951,40.550992,-79.845951,40.550992],
+  "bbox": [
+    -79.845951,
+    40.550992,
+    -79.845951,
+    40.550992
+],
   "geometry": {"coordinates":[-79.845951,40.550992],"type":"Point"}
 }

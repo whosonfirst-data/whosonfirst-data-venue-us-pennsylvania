@@ -2,13 +2,14 @@
   "id": 404098393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.975586,41.251182,-76.975586,41.251182",
     "geom:latitude":41.251182,
     "geom:longitude":-76.975586,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1521 Washington Blvd",
     "sg:city":"Williamsport",
     "sg:classifiers":[
@@ -46,8 +47,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081317,
-        85828027
+        85828027,
+        102081317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,17 +58,15 @@
     "wof:geomhash":"0f7ccb1f74b152a790c3310b4a9d8743",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081317,
-            "locality_id":-1,
             "neighbourhood_id":85828027,
             "region_id":85688481,
             "venue_id":404098393
         }
     ],
     "wof:id":404098393,
-    "wof:lastmodified":1449040204,
+    "wof:lastmodified":1454357059,
     "wof:name":"Seth B Burch - Nationwide Insurance",
     "wof:parent_id":85828027,
     "wof:placetype":"venue",
@@ -78,6 +77,11 @@
         "homeowner"
     ]
 },
-  "bbox": [-76.975586,41.251182,-76.975586,41.251182],
-  "geometry": {"coordinates":[-76.975586,41.251182],"type":"Point"}
+  "bbox": [
+    -76.975586,
+    41.251182,
+    -76.975586,
+    41.251182
+],
+  "geometry": {"coordinates":[-76.97558600000001,41.251182],"type":"Point"}
 }

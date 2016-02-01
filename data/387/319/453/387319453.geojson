@@ -2,13 +2,14 @@
   "id": 387319453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.001328,40.453252,-80.001328,40.453252",
     "geom:latitude":40.453252,
     "geom:longitude":-80.001328,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"409 E Ohio St",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85815883,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85815883
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"0690adcb4e8be696fc72d2410041c4c1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85815883,
             "region_id":85688481,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":387319453,
-    "wof:lastmodified":1449057657,
+    "wof:lastmodified":1454360548,
     "wof:name":"Annette Beauty Supply",
     "wof:parent_id":85815883,
     "wof:placetype":"venue",
@@ -72,6 +76,11 @@
         "supply"
     ]
 },
-  "bbox": [-80.001328,40.453252,-80.001328,40.453252],
+  "bbox": [
+    -80.001328,
+    40.453252,
+    -80.001328,
+    40.453252
+],
   "geometry": {"coordinates":[-80.001328,40.453252],"type":"Point"}
 }

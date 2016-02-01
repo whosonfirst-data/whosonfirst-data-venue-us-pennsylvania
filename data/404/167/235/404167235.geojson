@@ -2,13 +2,14 @@
   "id": 404167235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.383003,40.610199,-75.383003,40.610199",
     "geom:latitude":40.610199,
     "geom:longitude":-75.383003,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"305 W 4th St",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85897245,
+        102191575,
+        404485987,
         85633793,
         101717907,
         102081395,
-        85897245
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"3da5e8c9268d5ac58e5c64ac1d9a4491",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081395,
+            "localadmin_id":404485987,
             "locality_id":101717907,
             "neighbourhood_id":85897245,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":404167235,
-    "wof:lastmodified":1449039725,
+    "wof:lastmodified":1454356769,
     "wof:name":"Cvs",
     "wof:parent_id":85897245,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "drugstore"
     ]
 },
-  "bbox": [-75.383003,40.610199,-75.383003,40.610199],
+  "bbox": [
+    -75.383003,
+    40.610199,
+    -75.383003,
+    40.610199
+],
   "geometry": {"coordinates":[-75.383003,40.610199],"type":"Point"}
 }

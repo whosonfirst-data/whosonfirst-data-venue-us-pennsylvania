@@ -2,13 +2,14 @@
   "id": 387168247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.930702,40.188599,-79.930702,40.188599",
     "geom:latitude":40.188599,
     "geom:longitude":-79.930702,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"727 Route 481",
     "sg:city":"Monongahela",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420539901,
+        102191575,
+        404487805,
         85633793,
-        101720319,
-        102081343
+        101718465,
+        102081343,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"baf20b80bc88cb04fa60d93301f82a77",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081343,
-            "locality_id":101720319,
-            "neighbourhood_id":-1,
+            "localadmin_id":404487805,
+            "locality_id":101718465,
+            "neighbourhood_id":420539901,
             "region_id":85688481,
             "venue_id":387168247
         }
     ],
     "wof:id":387168247,
-    "wof:lastmodified":1449058093,
+    "wof:lastmodified":1454360678,
     "wof:name":"Stephen Wohar DC",
-    "wof:parent_id":-1,
+    "wof:parent_id":420539901,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.930702,40.188599,-79.930702,40.188599],
+  "bbox": [
+    -79.930702,
+    40.188599,
+    -79.930702,
+    40.188599
+],
   "geometry": {"coordinates":[-79.930702,40.188599],"type":"Point"}
 }

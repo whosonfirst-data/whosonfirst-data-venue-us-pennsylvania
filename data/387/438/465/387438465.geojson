@@ -2,13 +2,14 @@
   "id": 387438465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.98233,40.370621,-79.98233,40.370621",
     "geom:latitude":40.370621,
     "geom:longitude":-79.98233,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3801 Saw Mill Run Blvd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"http://www.vfwpahq.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85839961,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85839961
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"6a2036e7255e1b3c9224ef38c0e22aa1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85839961,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387438465,
-    "wof:lastmodified":1449057386,
+    "wof:lastmodified":1454359082,
     "wof:name":"V F W Post 1810",
     "wof:parent_id":85839961,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "veteran"
     ]
 },
-  "bbox": [-79.98233,40.370621,-79.98233,40.370621],
+  "bbox": [
+    -79.98233,
+    40.370621,
+    -79.98233,
+    40.370621
+],
   "geometry": {"coordinates":[-79.98233,40.370621],"type":"Point"}
 }

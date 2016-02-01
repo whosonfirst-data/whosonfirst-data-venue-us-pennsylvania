@@ -2,13 +2,14 @@
   "id": 387714365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.067106,40.68141,-80.067106,40.68141",
     "geom:latitude":40.68141,
     "geom:longitude":-80.067106,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"607 Welbourne Dr",
     "sg:city":"Seven Fields",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85824601,
+        102191575,
+        404485077,
         85633793,
         101720147,
         102083677,
-        85824601
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"429023b31a02b9595037db943da922d1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083677,
+            "localadmin_id":404485077,
             "locality_id":101720147,
             "neighbourhood_id":85824601,
             "region_id":85688481,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":387714365,
-    "wof:lastmodified":1449057977,
+    "wof:lastmodified":1454360644,
     "wof:name":"Incasso Home Interiors",
     "wof:parent_id":85824601,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "store"
     ]
 },
-  "bbox": [-80.067106,40.68141,-80.067106,40.68141],
+  "bbox": [
+    -80.067106,
+    40.68141,
+    -80.067106,
+    40.68141
+],
   "geometry": {"coordinates":[-80.067106,40.68141],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387227333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.029099,40.337299,-80.029099,40.337299",
     "geom:latitude":40.337299,
     "geom:longitude":-80.029099,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2504 Center St",
     "sg:city":"Bethel Park",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     "sg:website":"www.dresses2drapes.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85807579,
+        102191575,
+        404484853,
         85633793,
         101718799,
         102080887,
-        85807579
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"e78066ad85724aef05dd3bff5494ae74",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484853,
             "locality_id":101718799,
             "neighbourhood_id":85807579,
             "region_id":85688481,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":387227333,
-    "wof:lastmodified":1449056941,
+    "wof:lastmodified":1454358721,
     "wof:name":"Li'l Bit Creations & Alterations",
     "wof:parent_id":85807579,
     "wof:placetype":"venue",
@@ -69,6 +73,11 @@
         "alteration"
     ]
 },
-  "bbox": [-80.029099,40.337299,-80.029099,40.337299],
+  "bbox": [
+    -80.029099,
+    40.337299,
+    -80.029099,
+    40.337299
+],
   "geometry": {"coordinates":[-80.029099,40.337299],"type":"Point"}
 }

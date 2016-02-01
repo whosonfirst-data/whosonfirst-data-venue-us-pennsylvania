@@ -2,13 +2,14 @@
   "id": 387614419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.168552,39.885633,-79.168552,39.885633",
     "geom:latitude":39.885633,
     "geom:longitude":-79.168552,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"367 Fox Rd",
     "sg:city":"Rockwood",
     "sg:classifiers":[
@@ -34,8 +35,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081361,
-        85845559
+        85845559,
+        102081361
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +46,15 @@
     "wof:geomhash":"773a9bce6fc2dc7ae62f2a11778e4e62",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081361,
-            "locality_id":-1,
             "neighbourhood_id":85845559,
             "region_id":85688481,
             "venue_id":387614419
         }
     ],
     "wof:id":387614419,
-    "wof:lastmodified":1449060024,
+    "wof:lastmodified":1454361264,
     "wof:name":"William Richter Lumber",
     "wof:parent_id":85845559,
     "wof:placetype":"venue",
@@ -65,6 +64,11 @@
         "sawmill"
     ]
 },
-  "bbox": [-79.168552,39.885633,-79.168552,39.885633],
-  "geometry": {"coordinates":[-79.168552,39.885633],"type":"Point"}
+  "bbox": [
+    -79.168552,
+    39.885633,
+    -79.168552,
+    39.885633
+],
+  "geometry": {"coordinates":[-79.16855200000001,39.885633],"type":"Point"}
 }

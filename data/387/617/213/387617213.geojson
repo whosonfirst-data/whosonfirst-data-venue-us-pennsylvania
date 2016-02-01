@@ -2,13 +2,14 @@
   "id": 387617213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.569661,40.286514,-79.569661,40.286514",
     "geom:latitude":40.286514,
     "geom:longitude":-79.569661,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1162 Garden St",
     "sg:city":"Greensburg",
     "sg:classifiers":[
@@ -46,8 +47,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081383,
-        85843595
+        85843595,
+        102081383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,17 +58,15 @@
     "wof:geomhash":"ca03a62147e964041f195fb530b371f8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":-1,
             "neighbourhood_id":85843595,
             "region_id":85688481,
             "venue_id":387617213
         }
     ],
     "wof:id":387617213,
-    "wof:lastmodified":1449056247,
+    "wof:lastmodified":1454358195,
     "wof:name":"Dbec Wholesale Company",
     "wof:parent_id":85843595,
     "wof:placetype":"venue",
@@ -84,6 +83,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-79.569661,40.286514,-79.569661,40.286514],
+  "bbox": [
+    -79.569661,
+    40.286514,
+    -79.569661,
+    40.286514
+],
   "geometry": {"coordinates":[-79.569661,40.286514],"type":"Point"}
 }

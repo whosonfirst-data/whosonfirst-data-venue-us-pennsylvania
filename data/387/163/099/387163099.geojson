@@ -2,13 +2,14 @@
   "id": 387163099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.348531,40.63918,-80.348531,40.63918",
     "geom:latitude":40.63918,
     "geom:longitude":-80.348531,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"391 Mowry Rd",
     "sg:city":"Monaca",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081323,
-        85827637
+        85827637,
+        102081323
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"84d4ef9b787643098e2c9d8c45a96e1c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081323,
-            "locality_id":-1,
             "neighbourhood_id":85827637,
             "region_id":85688481,
             "venue_id":387163099
         }
     ],
     "wof:id":387163099,
-    "wof:lastmodified":1449059836,
+    "wof:lastmodified":1454361206,
     "wof:name":"Stinger Floor Maintenance",
     "wof:parent_id":85827637,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "material"
     ]
 },
-  "bbox": [-80.348531,40.63918,-80.348531,40.63918],
-  "geometry": {"coordinates":[-80.348531,40.63918],"type":"Point"}
+  "bbox": [
+    -80.348531,
+    40.63918,
+    -80.348531,
+    40.63918
+],
+  "geometry": {"coordinates":[-80.34853099999999,40.63918],"type":"Point"}
 }

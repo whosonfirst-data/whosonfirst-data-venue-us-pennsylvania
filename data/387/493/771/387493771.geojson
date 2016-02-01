@@ -2,13 +2,14 @@
   "id": 387493771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.037102,40.585701,-80.037102,40.585701",
     "geom:latitude":40.585701,
     "geom:longitude":-80.037102,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"9805 McKnight Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85828191
+        85828191,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"919635a0e989b46256fb6ef0f204b2b7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85828191,
             "region_id":85688481,
             "venue_id":387493771
         }
     ],
     "wof:id":387493771,
-    "wof:lastmodified":1449057305,
+    "wof:lastmodified":1454359004,
     "wof:name":"Gnc At Pine Creek",
     "wof:parent_id":85828191,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "market"
     ]
 },
-  "bbox": [-80.037102,40.585701,-80.037102,40.585701],
+  "bbox": [
+    -80.037102,
+    40.585701,
+    -80.037102,
+    40.585701
+],
   "geometry": {"coordinates":[-80.037102,40.585701],"type":"Point"}
 }

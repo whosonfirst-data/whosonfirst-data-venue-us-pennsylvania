@@ -2,13 +2,14 @@
   "id": 387482073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.036537,40.37608,-80.036537,40.37608",
     "geom:latitude":40.37608,
     "geom:longitude":-80.036537,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"331 Castle Shannon Blvd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85830717,
+        102191575,
+        404484869,
         85633793,
         101718761,
         102080887,
-        85830717
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"3daf1bae389c8e36eb4589f46dea29c8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484869,
             "locality_id":101718761,
             "neighbourhood_id":85830717,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387482073,
-    "wof:lastmodified":1449057448,
+    "wof:lastmodified":1454359134,
     "wof:name":"Pilates Center Of Pittsburg",
     "wof:parent_id":85830717,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "physical"
     ]
 },
-  "bbox": [-80.036537,40.37608,-80.036537,40.37608],
+  "bbox": [
+    -80.036537,
+    40.37608,
+    -80.036537,
+    40.37608
+],
   "geometry": {"coordinates":[-80.036537,40.37608],"type":"Point"}
 }

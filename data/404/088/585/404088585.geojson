@@ -2,13 +2,14 @@
   "id": 404088585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.325565,40.041673,-76.325565,40.041673",
     "geom:latitude":40.041673,
     "geom:longitude":-76.325565,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1005 Marietta Ave",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85858805
+        85858805,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"8963c7fcf10a8b3dcf352b14a9d9db2c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85858805,
             "region_id":85688481,
             "venue_id":404088585
         }
     ],
     "wof:id":404088585,
-    "wof:lastmodified":1449040022,
+    "wof:lastmodified":1454356962,
     "wof:name":"Columbia Watch Company",
     "wof:parent_id":85858805,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "clock"
     ]
 },
-  "bbox": [-76.325565,40.041673,-76.325565,40.041673],
+  "bbox": [
+    -76.325565,
+    40.041673,
+    -76.325565,
+    40.041673
+],
   "geometry": {"coordinates":[-76.325565,40.041673],"type":"Point"}
 }

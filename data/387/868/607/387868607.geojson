@@ -2,13 +2,14 @@
   "id": 387868607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.652823,41.9289,-78.652823,41.9289",
     "geom:latitude":41.9289,
     "geom:longitude":-78.652823,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"609 South Ave",
     "sg:city":"Bradford",
     "sg:classifiers":[
@@ -46,7 +47,12 @@
     "sg:website":"http://www.mrocblackgold.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420539005,
+        102191575,
+        404487895,
         85633793,
+        101717309,
+        102080951,
         85688481
     ],
     "wof:breaches":[],
@@ -57,18 +63,20 @@
     "wof:geomhash":"7a55885b4f583a625dbb4bd00d0d857e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102080951,
+            "localadmin_id":404487895,
+            "locality_id":101717309,
+            "neighbourhood_id":420539005,
             "region_id":85688481,
             "venue_id":387868607
         }
     ],
     "wof:id":387868607,
-    "wof:lastmodified":1449056291,
+    "wof:lastmodified":1454358226,
     "wof:name":"Minard Run Oil Company",
-    "wof:parent_id":-1,
+    "wof:parent_id":420539005,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -79,6 +87,11 @@
         "oils-petroleum"
     ]
 },
-  "bbox": [-78.652823,41.9289,-78.652823,41.9289],
+  "bbox": [
+    -78.652823,
+    41.9289,
+    -78.652823,
+    41.9289
+],
   "geometry": {"coordinates":[-78.652823,41.9289],"type":"Point"}
 }

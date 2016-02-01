@@ -2,13 +2,14 @@
   "id": 404014341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.678907,39.97443,-76.678907,39.97443",
     "geom:latitude":39.97443,
     "geom:longitude":-76.678907,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2501 E Market St",
     "sg:city":"York",
     "sg:classifiers":[
@@ -39,10 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420540439,
+        102191575,
+        404487939,
         85633793,
         101719469,
-        102080953
+        102080953,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,19 +56,20 @@
     "wof:geomhash":"203000e764886a0a66d5abc53113666d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080953,
+            "localadmin_id":404487939,
             "locality_id":101719469,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420540439,
             "region_id":85688481,
             "venue_id":404014341
         }
     ],
     "wof:id":404014341,
-    "wof:lastmodified":1449039628,
+    "wof:lastmodified":1454356742,
     "wof:name":"Funcoland",
-    "wof:parent_id":-1,
+    "wof:parent_id":420540439,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -79,6 +84,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-76.678907,39.97443,-76.678907,39.97443],
+  "bbox": [
+    -76.678907,
+    39.97443,
+    -76.678907,
+    39.97443
+],
   "geometry": {"coordinates":[-76.678907,39.97443],"type":"Point"}
 }

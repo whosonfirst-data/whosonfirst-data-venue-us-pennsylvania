@@ -2,13 +2,14 @@
   "id": 387785323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.909727,41.375509,-79.909727,41.375509",
     "geom:latitude":41.375509,
     "geom:longitude":-79.909727,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"204 Mercer Rd",
     "sg:city":"Franklin",
     "sg:classifiers":[
@@ -45,8 +46,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081279,
-        85841083
+        85841083,
+        102081279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,17 +57,15 @@
     "wof:geomhash":"76d8ec31b786d647f02aee83d4d87ed0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081279,
-            "locality_id":-1,
             "neighbourhood_id":85841083,
             "region_id":85688481,
             "venue_id":387785323
         }
     ],
     "wof:id":387785323,
-    "wof:lastmodified":1449059270,
+    "wof:lastmodified":1454361028,
     "wof:name":"Overhead Door Company of Franklin",
     "wof:parent_id":85841083,
     "wof:placetype":"venue",
@@ -82,6 +81,11 @@
         "frames"
     ]
 },
-  "bbox": [-79.909727,41.375509,-79.909727,41.375509],
+  "bbox": [
+    -79.909727,
+    41.375509,
+    -79.909727,
+    41.375509
+],
   "geometry": {"coordinates":[-79.909727,41.375509],"type":"Point"}
 }

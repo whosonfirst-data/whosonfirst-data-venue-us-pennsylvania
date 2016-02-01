@@ -2,13 +2,14 @@
   "id": 403716727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.414746,40.34007,-76.414746,40.34007",
     "geom:latitude":40.34007,
     "geom:longitude":-76.414746,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"215 Cumberland St",
     "sg:city":"Lebanon",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85842249,
+        102191575,
+        404485699,
         85633793,
         101717093,
         102081341,
-        85842249
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"91d47565db741de84a53db035fabf6ea",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081341,
+            "localadmin_id":404485699,
             "locality_id":101717093,
             "neighbourhood_id":85842249,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":403716727,
-    "wof:lastmodified":1449054814,
+    "wof:lastmodified":1454357298,
     "wof:name":"Nicholas Paint And Equipment Company Inc",
     "wof:parent_id":85842249,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-76.414746,40.34007,-76.414746,40.34007],
-  "geometry": {"coordinates":[-76.414746,40.34007],"type":"Point"}
+  "bbox": [
+    -76.414746,
+    40.34007,
+    -76.414746,
+    40.34007
+],
+  "geometry": {"coordinates":[-76.41474599999999,40.34007],"type":"Point"}
 }

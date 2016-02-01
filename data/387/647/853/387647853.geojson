@@ -2,13 +2,14 @@
   "id": 387647853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.686873,40.435124,-79.686873,40.435124",
     "geom:latitude":40.435124,
     "geom:longitude":-79.686873,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3380 N Hills Rd Ste 2",
     "sg:city":"Murrysville",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85836835,
+        102191575,
+        404487539,
         85633793,
         101717149,
         102081383,
-        85836835
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"310e18010a09158534a6d68287b1bad6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081383,
+            "localadmin_id":404487539,
             "locality_id":101717149,
             "neighbourhood_id":85836835,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387647853,
-    "wof:lastmodified":1449057905,
+    "wof:lastmodified":1454360629,
     "wof:name":"Lodovico Window Cleaning",
     "wof:parent_id":85836835,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "window"
     ]
 },
-  "bbox": [-79.686873,40.435124,-79.686873,40.435124],
-  "geometry": {"coordinates":[-79.686873,40.435124],"type":"Point"}
+  "bbox": [
+    -79.686873,
+    40.435124,
+    -79.686873,
+    40.435124
+],
+  "geometry": {"coordinates":[-79.68687300000001,40.435124],"type":"Point"}
 }

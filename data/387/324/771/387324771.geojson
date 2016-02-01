@@ -2,13 +2,14 @@
   "id": 387324771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.952266,40.447339,-79.952266,40.447339",
     "geom:latitude":40.447339,
     "geom:longitude":-79.952266,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"130 N Bellefield Ave Ste 510",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85873565,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85873565
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"48ec801ae6994d7640f270f964450a51",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85873565,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387324771,
-    "wof:lastmodified":1449058325,
+    "wof:lastmodified":1454360746,
     "wof:name":"Stuart G Ferguson",
     "wof:parent_id":85873565,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "market"
     ]
 },
-  "bbox": [-79.952266,40.447339,-79.952266,40.447339],
-  "geometry": {"coordinates":[-79.952266,40.447339],"type":"Point"}
+  "bbox": [
+    -79.952266,
+    40.447339,
+    -79.952266,
+    40.447339
+],
+  "geometry": {"coordinates":[-79.95226599999999,40.447339],"type":"Point"}
 }

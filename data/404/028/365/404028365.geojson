@@ -2,13 +2,14 @@
   "id": 404028365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.770002,39.96315,-76.770002,39.96315",
     "geom:latitude":39.96315,
     "geom:longitude":-76.770002,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2159 White St Ste A101",
     "sg:city":"York",
     "sg:classifiers":[],
@@ -18,10 +19,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85819331,
+        102191575,
+        404488029,
         85633793,
+        101717279,
         102080953,
-        85819331
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -31,17 +35,18 @@
     "wof:geomhash":"988afda692374e3deba609f926d938df",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
+            "localadmin_id":404488029,
+            "locality_id":101717279,
             "neighbourhood_id":85819331,
             "region_id":85688481,
             "venue_id":404028365
         }
     ],
     "wof:id":404028365,
-    "wof:lastmodified":1449039784,
+    "wof:lastmodified":1454356798,
     "wof:name":"Isaac's Restaurant & Deli West",
     "wof:parent_id":85819331,
     "wof:placetype":"venue",
@@ -49,6 +54,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.770002,39.96315,-76.770002,39.96315],
-  "geometry": {"coordinates":[-76.770002,39.96315],"type":"Point"}
+  "bbox": [
+    -76.770002,
+    39.96315,
+    -76.770002,
+    39.96315
+],
+  "geometry": {"coordinates":[-76.77000200000001,39.96315],"type":"Point"}
 }

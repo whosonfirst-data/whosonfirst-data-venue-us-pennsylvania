@@ -2,13 +2,14 @@
   "id": 319982253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.689185,42.010045,-79.689185,42.010045",
     "geom:latitude":42.010045,
     "geom:longitude":-79.689185,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"542 State Hwy 426",
     "sg:city":"Clymer",
     "sg:classifiers":[
@@ -33,8 +34,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080955,
-        85850957
+        85850957,
+        102080955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +45,15 @@
     "wof:geomhash":"5a41269b2c368f058afcb4665f5103ac",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080955,
-            "locality_id":-1,
             "neighbourhood_id":85850957,
             "region_id":85688481,
             "venue_id":319982253
         }
     ],
     "wof:id":319982253,
-    "wof:lastmodified":1449024232,
+    "wof:lastmodified":1454356384,
     "wof:name":"Cutting Lanes Inc",
     "wof:parent_id":85850957,
     "wof:placetype":"venue",
@@ -68,6 +67,11 @@
         "alley"
     ]
 },
-  "bbox": [-79.689185,42.010045,-79.689185,42.010045],
-  "geometry": {"coordinates":[-79.689185,42.010045],"type":"Point"}
+  "bbox": [
+    -79.689185,
+    42.010045,
+    -79.689185,
+    42.010045
+],
+  "geometry": {"coordinates":[-79.68918499999999,42.010045],"type":"Point"}
 }

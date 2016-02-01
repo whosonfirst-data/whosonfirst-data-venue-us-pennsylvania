@@ -2,13 +2,14 @@
   "id": 387371845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.997036,40.436676,-79.997036,40.436676",
     "geom:latitude":40.436676,
     "geom:longitude":-79.997036,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"205 Ross St",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     "sg:website":"http://pittcriminalattorney.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85853291,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85853291
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"664be01be0ae1e8f78e637d5936805ea",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85853291,
             "region_id":85688481,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":387371845,
-    "wof:lastmodified":1449059060,
+    "wof:lastmodified":1454360972,
     "wof:name":"Spanovich And Patel LLC Law",
     "wof:parent_id":85853291,
     "wof:placetype":"venue",
@@ -72,6 +76,11 @@
         "law"
     ]
 },
-  "bbox": [-79.997036,40.436676,-79.997036,40.436676],
-  "geometry": {"coordinates":[-79.997036,40.436676],"type":"Point"}
+  "bbox": [
+    -79.997036,
+    40.436676,
+    -79.997036,
+    40.436676
+],
+  "geometry": {"coordinates":[-79.99703599999999,40.436676],"type":"Point"}
 }

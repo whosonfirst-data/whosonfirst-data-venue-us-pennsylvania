@@ -2,13 +2,14 @@
   "id": 403743365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.018997,40.246399,-77.018997,40.246399",
     "geom:latitude":40.246399,
     "geom:longitude":-77.018997,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6481 Carlisle Pike",
     "sg:city":"Mechanicsburg",
     "sg:classifiers":[
@@ -40,8 +41,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081359,
-        85826667
+        85826667,
+        102081359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,17 +52,15 @@
     "wof:geomhash":"62bd1249398a170218c5e7d5342ec681",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081359,
-            "locality_id":-1,
             "neighbourhood_id":85826667,
             "region_id":85688481,
             "venue_id":403743365
         }
     ],
     "wof:id":403743365,
-    "wof:lastmodified":1449055950,
+    "wof:lastmodified":1454357972,
     "wof:name":"Hetrick Paul R Chiropractor",
     "wof:parent_id":85826667,
     "wof:placetype":"venue",
@@ -71,6 +70,11 @@
         "nutritionist"
     ]
 },
-  "bbox": [-77.018997,40.246399,-77.018997,40.246399],
+  "bbox": [
+    -77.018997,
+    40.246399,
+    -77.018997,
+    40.246399
+],
   "geometry": {"coordinates":[-77.018997,40.246399],"type":"Point"}
 }

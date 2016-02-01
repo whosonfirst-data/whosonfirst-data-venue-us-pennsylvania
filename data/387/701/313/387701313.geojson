@@ -2,13 +2,14 @@
   "id": 387701313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.92207,40.907736,-79.92207,40.907736",
     "geom:latitude":40.907736,
     "geom:longitude":-79.92207,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"432 Sunset Dr",
     "sg:city":"Butler",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536957,
+        102191575,
+        404485061,
         85633793,
         101720155,
-        102083677
+        102083677,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"292c315f7d48763d1e491a63d9d00924",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083677,
+            "localadmin_id":404485061,
             "locality_id":101720155,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420536957,
             "region_id":85688481,
             "venue_id":387701313
         }
     ],
     "wof:id":387701313,
-    "wof:lastmodified":1449059112,
+    "wof:lastmodified":1454360988,
     "wof:name":"Tko Software Solutions",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536957,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "equipment"
     ]
 },
-  "bbox": [-79.92207,40.907736,-79.92207,40.907736],
-  "geometry": {"coordinates":[-79.92207,40.907736],"type":"Point"}
+  "bbox": [
+    -79.92207,
+    40.907736,
+    -79.92207,
+    40.907736
+],
+  "geometry": {"coordinates":[-79.92207000000001,40.907736],"type":"Point"}
 }

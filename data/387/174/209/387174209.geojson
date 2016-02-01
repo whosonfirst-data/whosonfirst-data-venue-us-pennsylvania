@@ -2,13 +2,14 @@
   "id": 387174209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.922388,40.200117,-79.922388,40.200117",
     "geom:latitude":40.200117,
     "geom:longitude":-79.922388,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"111 E Main St",
     "sg:city":"Monongahela",
     "sg:classifiers":[
@@ -25,10 +26,13 @@
     "sg:website":"www.sheetz.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420539901,
+        102191575,
+        404487805,
         85633793,
         101718465,
-        102081343
+        102081343,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,24 +42,30 @@
     "wof:geomhash":"0a012152c14f8e8e75ffd9d12a7ea950",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081343,
+            "localadmin_id":404487805,
             "locality_id":101718465,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420539901,
             "region_id":85688481,
             "venue_id":387174209
         }
     ],
     "wof:id":387174209,
-    "wof:lastmodified":1449056625,
+    "wof:lastmodified":1454358494,
     "wof:name":"Sheetz Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420539901,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.922388,40.200117,-79.922388,40.200117],
+  "bbox": [
+    -79.922388,
+    40.200117,
+    -79.922388,
+    40.200117
+],
   "geometry": {"coordinates":[-79.922388,40.200117],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387420313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.998703,40.441799,-79.998703,40.441799",
     "geom:latitude":40.441799,
     "geom:longitude":-79.998703,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"339 6th Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85873585,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85873585
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"d4991dcdd7159ec67c4a0f7848e21ba8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85873585,
             "region_id":85688481,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":387420313,
-    "wof:lastmodified":1449057921,
+    "wof:lastmodified":1454360633,
     "wof:name":"Osial Thaddeus A Jr MD",
     "wof:parent_id":85873585,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.998703,40.441799,-79.998703,40.441799],
-  "geometry": {"coordinates":[-79.998703,40.441799],"type":"Point"}
+  "bbox": [
+    -79.998703,
+    40.441799,
+    -79.998703,
+    40.441799
+],
+  "geometry": {"coordinates":[-79.99870300000001,40.441799],"type":"Point"}
 }

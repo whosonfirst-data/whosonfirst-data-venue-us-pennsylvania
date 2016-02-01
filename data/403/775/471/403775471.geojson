@@ -2,13 +2,14 @@
   "id": 403775471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.358803,40.583912,-77.358803,40.583912",
     "geom:latitude":40.583912,
     "geom:longitude":-77.358803,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"16 E Industrial Dr",
     "sg:city":"Mifflintown",
     "sg:classifiers":[
@@ -42,8 +43,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081367,
-        85835649
+        85835649,
+        102081367
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,17 +54,15 @@
     "wof:geomhash":"de081bcf5d86984e3a7ef06410ba27a7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081367,
-            "locality_id":-1,
             "neighbourhood_id":85835649,
             "region_id":85688481,
             "venue_id":403775471
         }
     ],
     "wof:id":403775471,
-    "wof:lastmodified":1449055597,
+    "wof:lastmodified":1454357770,
     "wof:name":"Fences & More Inc",
     "wof:parent_id":85835649,
     "wof:placetype":"venue",
@@ -76,6 +75,11 @@
         "contractor"
     ]
 },
-  "bbox": [-77.358803,40.583912,-77.358803,40.583912],
-  "geometry": {"coordinates":[-77.358803,40.583912],"type":"Point"}
+  "bbox": [
+    -77.358803,
+    40.583912,
+    -77.358803,
+    40.583912
+],
+  "geometry": {"coordinates":[-77.35880299999999,40.583912],"type":"Point"}
 }

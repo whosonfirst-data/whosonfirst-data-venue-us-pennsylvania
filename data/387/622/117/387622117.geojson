@@ -2,13 +2,14 @@
   "id": 387622117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.533422,40.320181,-79.533422,40.320181",
     "geom:latitude":40.320181,
     "geom:longitude":-79.533422,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"915 Beacon Valley Rd",
     "sg:city":"Greensburg",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85809439,
+        102191575,
+        404487487,
         85633793,
-        101717119,
+        101717177,
         102081383,
-        85809439
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"749bb9e8ca5157c957dafd2a52b783d5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":101717119,
+            "localadmin_id":404487487,
+            "locality_id":101717177,
             "neighbourhood_id":85809439,
             "region_id":85688481,
             "venue_id":387622117
         }
     ],
     "wof:id":387622117,
-    "wof:lastmodified":1449059237,
+    "wof:lastmodified":1454361017,
     "wof:name":"Kruzin Ladies Travel",
     "wof:parent_id":85809439,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "services-commercial"
     ]
 },
-  "bbox": [-79.533422,40.320181,-79.533422,40.320181],
+  "bbox": [
+    -79.533422,
+    40.320181,
+    -79.533422,
+    40.320181
+],
   "geometry": {"coordinates":[-79.533422,40.320181],"type":"Point"}
 }

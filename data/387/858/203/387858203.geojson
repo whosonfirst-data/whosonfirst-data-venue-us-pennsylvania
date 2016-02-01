@@ -2,13 +2,14 @@
   "id": 387858203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.509999,40.65545,-78.509999,40.65545",
     "geom:latitude":40.65545,
     "geom:longitude":-78.509999,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"196 Fiske Rd",
     "sg:city":"Fallentimber",
     "sg:classifiers":[
@@ -37,8 +38,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080879,
-        85831337
+        85831337,
+        102080879
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +49,15 @@
     "wof:geomhash":"f9b980275e02efc1465bdd823eb3938b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080879,
-            "locality_id":-1,
             "neighbourhood_id":85831337,
             "region_id":85688481,
             "venue_id":387858203
         }
     ],
     "wof:id":387858203,
-    "wof:lastmodified":1449056484,
+    "wof:lastmodified":1454358391,
     "wof:name":"Nancys Crafts",
     "wof:parent_id":85831337,
     "wof:placetype":"venue",
@@ -71,6 +70,11 @@
         "supply"
     ]
 },
-  "bbox": [-78.509999,40.65545,-78.509999,40.65545],
-  "geometry": {"coordinates":[-78.509999,40.65545],"type":"Point"}
+  "bbox": [
+    -78.509999,
+    40.65545,
+    -78.509999,
+    40.65545
+],
+  "geometry": {"coordinates":[-78.50999899999999,40.65545],"type":"Point"}
 }

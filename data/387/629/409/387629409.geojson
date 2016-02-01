@@ -2,13 +2,14 @@
   "id": 387629409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.574944,40.407007,-79.574944,40.407007",
     "geom:latitude":40.407007,
     "geom:longitude":-79.574944,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"154 Abbe Pl",
     "sg:city":"Delmont",
     "sg:classifiers":[
@@ -46,8 +47,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081383,
-        85852577
+        85852577,
+        102081383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,17 +58,15 @@
     "wof:geomhash":"44c1a69e2ced195a42e939256f403f5f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":-1,
             "neighbourhood_id":85852577,
             "region_id":85688481,
             "venue_id":387629409
         }
     ],
     "wof:id":387629409,
-    "wof:lastmodified":1449059018,
+    "wof:lastmodified":1454360959,
     "wof:name":"Audiologics",
     "wof:parent_id":85852577,
     "wof:placetype":"venue",
@@ -83,6 +82,11 @@
         "audiologists"
     ]
 },
-  "bbox": [-79.574944,40.407007,-79.574944,40.407007],
+  "bbox": [
+    -79.574944,
+    40.407007,
+    -79.574944,
+    40.407007
+],
   "geometry": {"coordinates":[-79.574944,40.407007],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387157665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.11604,40.301282,-80.11604,40.301282",
     "geom:latitude":40.301282,
     "geom:longitude":-80.11604,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"23 Simpson St",
     "sg:city":"Lawrence",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081343,
-        85852193
+        85852193,
+        102081343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"089e1171a54d4fe6ed6a5a453aebbef5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081343,
-            "locality_id":-1,
             "neighbourhood_id":85852193,
             "region_id":85688481,
             "venue_id":387157665
         }
     ],
     "wof:id":387157665,
-    "wof:lastmodified":1449059385,
+    "wof:lastmodified":1454361064,
     "wof:name":"Knox's Construction",
     "wof:parent_id":85852193,
     "wof:placetype":"venue",
@@ -61,6 +60,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.11604,40.301282,-80.11604,40.301282],
+  "bbox": [
+    -80.11604,
+    40.301282,
+    -80.11604,
+    40.301282
+],
   "geometry": {"coordinates":[-80.11604,40.301282],"type":"Point"}
 }

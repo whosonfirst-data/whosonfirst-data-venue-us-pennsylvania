@@ -2,13 +2,14 @@
   "id": 387491975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.943635,40.324366,-79.943635,40.324366",
     "geom:latitude":40.324366,
     "geom:longitude":-79.943635,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"839 Clairton Blvd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -40,11 +41,13 @@
     "sg:website":"http://knollautomotive.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85834159,
+        102191575,
+        404484243,
         85633793,
         101718717,
         102080887,
-        85834159
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,9 +57,10 @@
     "wof:geomhash":"0d2660654bacafcdfcb90ec9fc64aa0e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484243,
             "locality_id":101718717,
             "neighbourhood_id":85834159,
             "region_id":85688481,
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":387491975,
-    "wof:lastmodified":1449056051,
+    "wof:lastmodified":1454358045,
     "wof:name":"Knoll Automotive Services",
     "wof:parent_id":85834159,
     "wof:placetype":"venue",
@@ -76,6 +80,11 @@
         "inspection"
     ]
 },
-  "bbox": [-79.943635,40.324366,-79.943635,40.324366],
+  "bbox": [
+    -79.943635,
+    40.324366,
+    -79.943635,
+    40.324366
+],
   "geometry": {"coordinates":[-79.943635,40.324366],"type":"Point"}
 }

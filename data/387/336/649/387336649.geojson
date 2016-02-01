@@ -2,13 +2,14 @@
   "id": 387336649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.029953,40.415464,-80.029953,40.415464",
     "geom:latitude":40.415464,
     "geom:longitude":-80.029953,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1333 Banksville Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"http://www.senatorcosta.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85805277,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85805277
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"33edea305576b6705592826d787e2734",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85805277,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387336649,
-    "wof:lastmodified":1449056040,
+    "wof:lastmodified":1454358033,
     "wof:name":"Senate, Pennsylvania",
     "wof:parent_id":85805277,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "legislator"
     ]
 },
-  "bbox": [-80.029953,40.415464,-80.029953,40.415464],
-  "geometry": {"coordinates":[-80.029953,40.415464],"type":"Point"}
+  "bbox": [
+    -80.029953,
+    40.415464,
+    -80.029953,
+    40.415464
+],
+  "geometry": {"coordinates":[-80.02995300000001,40.415464],"type":"Point"}
 }

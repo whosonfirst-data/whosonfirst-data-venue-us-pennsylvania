@@ -2,13 +2,14 @@
   "id": 403715695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.416684,40.339894,-76.416684,40.339894",
     "geom:latitude":40.339894,
     "geom:longitude":-76.416684,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"330 Cumberland St",
     "sg:city":"Lebanon",
     "sg:classifiers":[
@@ -25,11 +26,13 @@
     "sg:website":"http://statefarm.mqgroup.com/url.asp?usr=383655",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85842249,
+        102191575,
+        404485699,
         85633793,
         101717093,
         102081341,
-        85842249
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +42,10 @@
     "wof:geomhash":"5c40e32e8e3af42a531efcac410563ac",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081341,
+            "localadmin_id":404485699,
             "locality_id":101717093,
             "neighbourhood_id":85842249,
             "region_id":85688481,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":403715695,
-    "wof:lastmodified":1449055690,
+    "wof:lastmodified":1454357822,
     "wof:name":"State Farm Insurance Agent-Navin Saiya",
     "wof:parent_id":85842249,
     "wof:placetype":"venue",
@@ -57,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.416684,40.339894,-76.416684,40.339894],
+  "bbox": [
+    -76.416684,
+    40.339894,
+    -76.416684,
+    40.339894
+],
   "geometry": {"coordinates":[-76.416684,40.339894],"type":"Point"}
 }

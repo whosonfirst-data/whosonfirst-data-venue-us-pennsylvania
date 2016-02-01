@@ -2,13 +2,14 @@
   "id": 387469375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.901438,42.001547,-76.901438,42.001547",
     "geom:latitude":42.001547,
     "geom:longitude":-76.901438,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1847 Pennsylvania Ave",
     "sg:city":"Pine City",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081319,
-        85868601
+        85868601,
+        102081319
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"057ad204b10b154831bc4ef6870964eb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081319,
-            "locality_id":-1,
             "neighbourhood_id":85868601,
             "region_id":85688481,
             "venue_id":387469375
         }
     ],
     "wof:id":387469375,
-    "wof:lastmodified":1449060014,
+    "wof:lastmodified":1454361260,
     "wof:name":"Auto & Matt Wizard",
     "wof:parent_id":85868601,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "washing"
     ]
 },
-  "bbox": [-76.901438,42.001547,-76.901438,42.001547],
+  "bbox": [
+    -76.901438,
+    42.001547,
+    -76.901438,
+    42.001547
+],
   "geometry": {"coordinates":[-76.901438,42.001547],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387518727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.052945,40.341448,-80.052945,40.341448",
     "geom:latitude":40.341448,
     "geom:longitude":-80.052945,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"205 S Hills Vlg",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -38,11 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85805921,
+        102191575,
+        404484853,
         85633793,
         101718799,
         102080887,
-        85805921
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,9 +55,10 @@
     "wof:geomhash":"b6b3117122b4c7637fefe5f0fa5e1eaa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484853,
             "locality_id":101718799,
             "neighbourhood_id":85805921,
             "region_id":85688481,
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":387518727,
-    "wof:lastmodified":1449058256,
+    "wof:lastmodified":1454360727,
     "wof:name":"Jack Sahlaney Dmd",
     "wof:parent_id":85805921,
     "wof:placetype":"venue",
@@ -78,6 +82,11 @@
         "dentists-orthodontists"
     ]
 },
-  "bbox": [-80.052945,40.341448,-80.052945,40.341448],
-  "geometry": {"coordinates":[-80.052945,40.341448],"type":"Point"}
+  "bbox": [
+    -80.052945,
+    40.341448,
+    -80.052945,
+    40.341448
+],
+  "geometry": {"coordinates":[-80.05294499999999,40.341448],"type":"Point"}
 }

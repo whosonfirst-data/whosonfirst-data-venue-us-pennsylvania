@@ -2,13 +2,14 @@
   "id": 387590455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.374144,39.829675,-79.374144,39.829675",
     "geom:latitude":39.829675,
     "geom:longitude":-79.374144,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1414 Draketown Rd",
     "sg:city":"Confluence",
     "sg:classifiers":[
@@ -38,8 +39,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081361,
-        85826665
+        85826665,
+        102081361
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +50,15 @@
     "wof:geomhash":"723afdb4d370e772b585bd444da8eebc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081361,
-            "locality_id":-1,
             "neighbourhood_id":85826665,
             "region_id":85688481,
             "venue_id":387590455
         }
     ],
     "wof:id":387590455,
-    "wof:lastmodified":1449058373,
+    "wof:lastmodified":1454360762,
     "wof:name":"Lower Turkeyfoot Township",
     "wof:parent_id":85826665,
     "wof:placetype":"venue",
@@ -73,6 +72,11 @@
         "village"
     ]
 },
-  "bbox": [-79.374144,39.829675,-79.374144,39.829675],
+  "bbox": [
+    -79.374144,
+    39.829675,
+    -79.374144,
+    39.829675
+],
   "geometry": {"coordinates":[-79.374144,39.829675],"type":"Point"}
 }

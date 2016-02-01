@@ -2,13 +2,14 @@
   "id": 403708411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.782112,40.208961,-76.782112,40.208961",
     "geom:latitude":40.208961,
     "geom:longitude":-76.782112,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"498 High St",
     "sg:city":"Highspire",
     "sg:classifiers":[
@@ -43,7 +44,6 @@
     "wof:geomhash":"7992c8c155e4c7e23a94d5dbe2e121ba",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
             "locality_id":101717691,
@@ -53,7 +53,7 @@
         }
     ],
     "wof:id":403708411,
-    "wof:lastmodified":1449054841,
+    "wof:lastmodified":1454357315,
     "wof:name":"Veterans Of Foreign Wars",
     "wof:parent_id":85823171,
     "wof:placetype":"venue",
@@ -64,6 +64,11 @@
         "veteran"
     ]
 },
-  "bbox": [-76.782112,40.208961,-76.782112,40.208961],
+  "bbox": [
+    -76.782112,
+    40.208961,
+    -76.782112,
+    40.208961
+],
   "geometry": {"coordinates":[-76.782112,40.208961],"type":"Point"}
 }

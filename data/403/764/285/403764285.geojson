@@ -2,13 +2,14 @@
   "id": 403764285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.939072,40.176022,-76.939072,40.176022",
     "geom:latitude":40.176022,
     "geom:longitude":-76.939072,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1041 Brookwood Dr",
     "sg:city":"Mechanicsburg",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081359,
-        85846181
+        85846181,
+        102081359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"915f9ac2fcf91c0e378fddda751bff1f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081359,
-            "locality_id":-1,
             "neighbourhood_id":85846181,
             "region_id":85688481,
             "venue_id":403764285
         }
     ],
     "wof:id":403764285,
-    "wof:lastmodified":1449055884,
+    "wof:lastmodified":1454357929,
     "wof:name":"Pin Hsun Kuo",
     "wof:parent_id":85846181,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "fasteners-industrial"
     ]
 },
-  "bbox": [-76.939072,40.176022,-76.939072,40.176022],
+  "bbox": [
+    -76.939072,
+    40.176022,
+    -76.939072,
+    40.176022
+],
   "geometry": {"coordinates":[-76.939072,40.176022],"type":"Point"}
 }

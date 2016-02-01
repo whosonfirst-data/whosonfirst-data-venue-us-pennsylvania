@@ -2,13 +2,14 @@
   "id": 387639773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.602141,40.378693,-79.602141,40.378693",
     "geom:latitude":40.378693,
     "geom:longitude":-79.602141,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"161 Slack Rd",
     "sg:city":"Jeannette",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081383,
-        85833221
+        85833221,
+        102081383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"277af40982cf3451507d51a2d9742044",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":-1,
             "neighbourhood_id":85833221,
             "region_id":85688481,
             "venue_id":387639773
         }
     ],
     "wof:id":387639773,
-    "wof:lastmodified":1449059901,
+    "wof:lastmodified":1454361227,
     "wof:name":"Downes Carpeting",
     "wof:parent_id":85833221,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "rug"
     ]
 },
-  "bbox": [-79.602141,40.378693,-79.602141,40.378693],
+  "bbox": [
+    -79.602141,
+    40.378693,
+    -79.602141,
+    40.378693
+],
   "geometry": {"coordinates":[-79.602141,40.378693],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404063301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.458514,40.179459,-76.458514,40.179459",
     "geom:latitude":40.179459,
     "geom:longitude":-76.458514,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"79 Fence Row Ln",
     "sg:city":"Manheim",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85836395
+        85836395,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"eb037014ac8bb9f8823ff4bb81306dc0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85836395,
             "region_id":85688481,
             "venue_id":404063301
         }
     ],
     "wof:id":404063301,
-    "wof:lastmodified":1449039125,
+    "wof:lastmodified":1454356452,
     "wof:name":"N.W. Wagner Incorporated",
     "wof:parent_id":85836395,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-76.458514,40.179459,-76.458514,40.179459],
-  "geometry": {"coordinates":[-76.458514,40.179459],"type":"Point"}
+  "bbox": [
+    -76.458514,
+    40.179459,
+    -76.458514,
+    40.179459
+],
+  "geometry": {"coordinates":[-76.45851399999999,40.179459],"type":"Point"}
 }

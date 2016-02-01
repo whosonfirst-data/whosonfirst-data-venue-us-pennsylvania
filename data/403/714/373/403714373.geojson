@@ -2,13 +2,14 @@
   "id": 403714373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.362641,40.325436,-76.362641,40.325436",
     "geom:latitude":40.325436,
     "geom:longitude":-76.362641,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"102 N Mine Rd",
     "sg:city":"Lebanon",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85824511,
+        102191575,
+        404485817,
         85633793,
-        101719403,
+        101719375,
         102081341,
-        85824511
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"7438108ab349a37d0753e5c89b20a0ab",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081341,
-            "locality_id":101719403,
+            "localadmin_id":404485817,
+            "locality_id":101719375,
             "neighbourhood_id":85824511,
             "region_id":85688481,
             "venue_id":403714373
         }
     ],
     "wof:id":403714373,
-    "wof:lastmodified":1449055285,
+    "wof:lastmodified":1454357582,
     "wof:name":"Vail, David G Dvm",
     "wof:parent_id":85824511,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "specialty"
     ]
 },
-  "bbox": [-76.362641,40.325436,-76.362641,40.325436],
+  "bbox": [
+    -76.362641,
+    40.325436,
+    -76.362641,
+    40.325436
+],
   "geometry": {"coordinates":[-76.362641,40.325436],"type":"Point"}
 }

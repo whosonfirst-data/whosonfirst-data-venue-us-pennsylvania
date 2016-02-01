@@ -2,13 +2,14 @@
   "id": 387715321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.009598,40.689701,-80.009598,40.689701",
     "geom:latitude":40.689701,
     "geom:longitude":-80.009598,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"10 Park Ave",
     "sg:city":"Mars",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102083677,
-        85815109
+        85815109,
+        102083677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"54628d76b9bf8c641bdf69dade7784e7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102083677,
-            "locality_id":-1,
             "neighbourhood_id":85815109,
             "region_id":85688481,
             "venue_id":387715321
         }
     ],
     "wof:id":387715321,
-    "wof:lastmodified":1449059149,
+    "wof:lastmodified":1454360997,
     "wof:name":"Moody M R Sales & Service",
     "wof:parent_id":85815109,
     "wof:placetype":"venue",
@@ -63,6 +62,11 @@
         "life"
     ]
 },
-  "bbox": [-80.009598,40.689701,-80.009598,40.689701],
+  "bbox": [
+    -80.009598,
+    40.689701,
+    -80.009598,
+    40.689701
+],
   "geometry": {"coordinates":[-80.009598,40.689701],"type":"Point"}
 }

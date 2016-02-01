@@ -2,13 +2,14 @@
   "id": 387276047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.751732,40.432308,-79.751732,40.432308",
     "geom:latitude":40.432308,
     "geom:longitude":-79.751732,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2660 Mosside Blvd",
     "sg:city":"Monroeville",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85834841,
+        102191575,
+        404484135,
         85633793,
         101718841,
         102080887,
-        85834841
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"51b746ae263a26f4a90b9c24ec24de19",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484135,
             "locality_id":101718841,
             "neighbourhood_id":85834841,
             "region_id":85688481,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":387276047,
-    "wof:lastmodified":1449056257,
+    "wof:lastmodified":1454358203,
     "wof:name":"Cost Cutters",
     "wof:parent_id":85834841,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.751732,40.432308,-79.751732,40.432308],
+  "bbox": [
+    -79.751732,
+    40.432308,
+    -79.751732,
+    40.432308
+],
   "geometry": {"coordinates":[-79.751732,40.432308],"type":"Point"}
 }

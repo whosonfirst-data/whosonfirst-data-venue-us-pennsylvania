@@ -2,13 +2,14 @@
   "id": 387429655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.975795,40.467545,-79.975795,40.467545",
     "geom:latitude":40.467545,
     "geom:longitude":-79.975795,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"800 Waterfront Dr",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -41,11 +42,13 @@
     "sg:website":"http://www.bergerandgreen.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85873555,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85873555
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,9 +58,10 @@
     "wof:geomhash":"7b71648b55603d2220890a8274033bd0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85873555,
             "region_id":85688481,
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":387429655,
-    "wof:lastmodified":1449059715,
+    "wof:lastmodified":1454361169,
     "wof:name":"Berger and Green PC",
     "wof:parent_id":85873555,
     "wof:placetype":"venue",
@@ -88,6 +92,11 @@
         "law"
     ]
 },
-  "bbox": [-79.975795,40.467545,-79.975795,40.467545],
-  "geometry": {"coordinates":[-79.975795,40.467545],"type":"Point"}
+  "bbox": [
+    -79.975795,
+    40.467545,
+    -79.975795,
+    40.467545
+],
+  "geometry": {"coordinates":[-79.97579500000001,40.467545],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387321877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.005302,40.455711,-80.005302,40.455711",
     "geom:latitude":40.455711,
     "geom:longitude":-80.005302,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"110 E North Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85838061,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85838061
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"22341e8e04e1e0f42d910539ff0a136e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85838061,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387321877,
-    "wof:lastmodified":1449056210,
+    "wof:lastmodified":1454358163,
     "wof:name":"Janice Greca",
     "wof:parent_id":85838061,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "safe"
     ]
 },
-  "bbox": [-80.005302,40.455711,-80.005302,40.455711],
+  "bbox": [
+    -80.005302,
+    40.455711,
+    -80.005302,
+    40.455711
+],
   "geometry": {"coordinates":[-80.005302,40.455711],"type":"Point"}
 }

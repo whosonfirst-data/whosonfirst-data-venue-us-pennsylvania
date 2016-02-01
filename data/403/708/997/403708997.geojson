@@ -2,13 +2,14 @@
   "id": 403708997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.70744,40.243362,-76.70744,40.243362",
     "geom:latitude":40.243362,
     "geom:longitude":-76.70744,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"790 Middletown Rd",
     "sg:city":"Hummelstown",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85842349,
+        102191575,
+        404486175,
         85633793,
+        101717689,
         102081347,
-        85842349
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +44,18 @@
     "wof:geomhash":"6795c18f410635d43ef4b50ce7d4cb99",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
+            "localadmin_id":404486175,
+            "locality_id":101717689,
             "neighbourhood_id":85842349,
             "region_id":85688481,
             "venue_id":403708997
         }
     ],
     "wof:id":403708997,
-    "wof:lastmodified":1449054842,
+    "wof:lastmodified":1454357318,
     "wof:name":"Stover's Live Stock",
     "wof:parent_id":85842349,
     "wof:placetype":"venue",
@@ -60,6 +65,11 @@
         "ranch"
     ]
 },
-  "bbox": [-76.70744,40.243362,-76.70744,40.243362],
-  "geometry": {"coordinates":[-76.70744,40.243362],"type":"Point"}
+  "bbox": [
+    -76.70744,
+    40.243362,
+    -76.70744,
+    40.243362
+],
+  "geometry": {"coordinates":[-76.70744000000001,40.243362],"type":"Point"}
 }

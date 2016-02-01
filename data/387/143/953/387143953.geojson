@@ -2,13 +2,14 @@
   "id": 387143953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.866402,40.301701,-79.866402,40.301701",
     "geom:latitude":40.301701,
     "geom:longitude":-79.866402,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2020 Lincoln Blvd",
     "sg:city":"Elizabeth",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536399,
+        102191575,
+        404484873,
         85633793,
-        101718655,
-        102080887
+        101718753,
+        102080887,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"ef5d40fcc9e4351620b0f91a383f6462",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":101718655,
-            "neighbourhood_id":-1,
+            "localadmin_id":404484873,
+            "locality_id":101718753,
+            "neighbourhood_id":420536399,
             "region_id":85688481,
             "venue_id":387143953
         }
     ],
     "wof:id":387143953,
-    "wof:lastmodified":1449059279,
+    "wof:lastmodified":1454361032,
     "wof:name":"Elizabeth Electric Supply Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536399,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "lighting"
     ]
 },
-  "bbox": [-79.866402,40.301701,-79.866402,40.301701],
-  "geometry": {"coordinates":[-79.866402,40.301701],"type":"Point"}
+  "bbox": [
+    -79.866402,
+    40.301701,
+    -79.866402,
+    40.301701
+],
+  "geometry": {"coordinates":[-79.86640199999999,40.301701],"type":"Point"}
 }

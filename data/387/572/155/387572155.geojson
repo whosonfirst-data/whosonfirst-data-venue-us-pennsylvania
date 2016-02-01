@@ -2,13 +2,14 @@
   "id": 387572155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.197701,40.323299,-80.197701,40.323299",
     "geom:latitude":40.323299,
     "geom:longitude":-80.197701,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3415 Millers Run Rd",
     "sg:city":"Cecil",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     "sg:website":"www.washingtonhospital.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420539939,
+        102191575,
+        404487735,
         85633793,
         101720321,
-        102081343
+        102081343,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"8e5d9960a2a11cae46d9333731973844",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081343,
+            "localadmin_id":404487735,
             "locality_id":101720321,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420539939,
             "region_id":85688481,
             "venue_id":387572155
         }
     ],
     "wof:id":387572155,
-    "wof:lastmodified":1449058434,
+    "wof:lastmodified":1454360780,
     "wof:name":"Faith Donald MD",
-    "wof:parent_id":-1,
+    "wof:parent_id":420539939,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -63,6 +68,11 @@
         "family"
     ]
 },
-  "bbox": [-80.197701,40.323299,-80.197701,40.323299],
+  "bbox": [
+    -80.197701,
+    40.323299,
+    -80.197701,
+    40.323299
+],
   "geometry": {"coordinates":[-80.197701,40.323299],"type":"Point"}
 }

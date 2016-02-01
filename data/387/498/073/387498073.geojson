@@ -2,13 +2,14 @@
   "id": 387498073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.008811,40.536266,-80.008811,40.536266",
     "geom:latitude":40.536266,
     "geom:longitude":-80.008811,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"704 Mcknight Park Dr",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -46,8 +47,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85805835
+        85805835,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,17 +58,15 @@
     "wof:geomhash":"dc015b869e8ee9b4bfaf63e81bbfb887",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85805835,
             "region_id":85688481,
             "venue_id":387498073
         }
     ],
     "wof:id":387498073,
-    "wof:lastmodified":1449058989,
+    "wof:lastmodified":1454360949,
     "wof:name":"William G Neofes Jr - Nationwide Insurance",
     "wof:parent_id":85805835,
     "wof:placetype":"venue",
@@ -78,6 +77,11 @@
         "homeowner"
     ]
 },
-  "bbox": [-80.008811,40.536266,-80.008811,40.536266],
-  "geometry": {"coordinates":[-80.008811,40.536266],"type":"Point"}
+  "bbox": [
+    -80.008811,
+    40.536266,
+    -80.008811,
+    40.536266
+],
+  "geometry": {"coordinates":[-80.00881099999999,40.536266],"type":"Point"}
 }

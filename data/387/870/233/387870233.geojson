@@ -2,13 +2,14 @@
   "id": 387870233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.61777,41.97441,-78.61777,41.97441",
     "geom:latitude":41.97441,
     "geom:longitude":-78.61777,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"880 E Main St",
     "sg:city":"Bradford",
     "sg:classifiers":[
@@ -43,10 +44,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420538975,
+        102191575,
+        404483587,
         85633793,
-        101719509,
-        102080951
+        101717315,
+        102080951,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,19 +60,20 @@
     "wof:geomhash":"e96c103f6317ca8ea2a548fadf139945",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080951,
-            "locality_id":101719509,
-            "neighbourhood_id":-1,
+            "localadmin_id":404483587,
+            "locality_id":101717315,
+            "neighbourhood_id":420538975,
             "region_id":85688481,
             "venue_id":387870233
         }
     ],
     "wof:id":387870233,
-    "wof:lastmodified":1449057105,
+    "wof:lastmodified":1454358841,
     "wof:name":"Shults Scion",
-    "wof:parent_id":-1,
+    "wof:parent_id":420538975,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -82,6 +87,11 @@
         "painting"
     ]
 },
-  "bbox": [-78.61777,41.97441,-78.61777,41.97441],
-  "geometry": {"coordinates":[-78.61777,41.97441],"type":"Point"}
+  "bbox": [
+    -78.61777,
+    41.97441,
+    -78.61777,
+    41.97441
+],
+  "geometry": {"coordinates":[-78.61776999999999,41.97441],"type":"Point"}
 }

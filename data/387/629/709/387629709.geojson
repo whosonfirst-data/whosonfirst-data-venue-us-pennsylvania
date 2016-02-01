@@ -2,13 +2,14 @@
   "id": 387629709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.338676,40.363651,-79.338676,40.363651",
     "geom:latitude":40.363651,
     "geom:longitude":-79.338676,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"650 Superior Rd",
     "sg:city":"Derry",
     "sg:classifiers":[
@@ -32,8 +33,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081383,
-        85840999
+        85840999,
+        102081383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +44,15 @@
     "wof:geomhash":"d4a0883745b46c7575156365d024e5a4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":-1,
             "neighbourhood_id":85840999,
             "region_id":85688481,
             "venue_id":387629709
         }
     ],
     "wof:id":387629709,
-    "wof:lastmodified":1449059017,
+    "wof:lastmodified":1454360959,
     "wof:name":"Denny Funk Drilling",
     "wof:parent_id":85840999,
     "wof:placetype":"venue",
@@ -66,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.338676,40.363651,-79.338676,40.363651],
-  "geometry": {"coordinates":[-79.338676,40.363651],"type":"Point"}
+  "bbox": [
+    -79.338676,
+    40.363651,
+    -79.338676,
+    40.363651
+],
+  "geometry": {"coordinates":[-79.33867600000001,40.363651],"type":"Point"}
 }

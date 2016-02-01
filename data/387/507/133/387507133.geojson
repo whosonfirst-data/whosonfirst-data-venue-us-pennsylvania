@@ -2,13 +2,14 @@
   "id": 387507133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.835875,40.541946,-79.835875,40.541946",
     "geom:latitude":40.541946,
     "geom:longitude":-79.835875,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2180 William Pitt Way",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85844787
+        85844787,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"92c5a8a7000884fca3a653e34e24025d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85844787,
             "region_id":85688481,
             "venue_id":387507133
         }
     ],
     "wof:id":387507133,
-    "wof:lastmodified":1449058062,
+    "wof:lastmodified":1454360672,
     "wof:name":"Plextronics, Inc.",
     "wof:parent_id":85844787,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "electric"
     ]
 },
-  "bbox": [-79.835875,40.541946,-79.835875,40.541946],
+  "bbox": [
+    -79.835875,
+    40.541946,
+    -79.835875,
+    40.541946
+],
   "geometry": {"coordinates":[-79.835875,40.541946],"type":"Point"}
 }

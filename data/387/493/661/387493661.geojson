@@ -2,13 +2,14 @@
   "id": 387493661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.005722,40.530087,-80.005722,40.530087",
     "geom:latitude":40.530087,
     "geom:longitude":-80.005722,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"223 Siebert Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -40,8 +41,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85805835
+        85805835,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,17 +52,15 @@
     "wof:geomhash":"63d80612ff9b9d71a7eb29624c390e61",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85805835,
             "region_id":85688481,
             "venue_id":387493661
         }
     ],
     "wof:id":387493661,
-    "wof:lastmodified":1449057307,
+    "wof:lastmodified":1454359005,
     "wof:name":"Northview Veterinary Hospital System",
     "wof:parent_id":85805835,
     "wof:placetype":"venue",
@@ -76,6 +75,11 @@
         "grooming"
     ]
 },
-  "bbox": [-80.005722,40.530087,-80.005722,40.530087],
-  "geometry": {"coordinates":[-80.005722,40.530087],"type":"Point"}
+  "bbox": [
+    -80.005722,
+    40.530087,
+    -80.005722,
+    40.530087
+],
+  "geometry": {"coordinates":[-80.00572200000001,40.530087],"type":"Point"}
 }

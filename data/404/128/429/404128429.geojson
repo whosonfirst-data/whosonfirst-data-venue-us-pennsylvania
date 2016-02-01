@@ -2,13 +2,14 @@
   "id": 404128429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.555364,40.86335,-76.555364,40.86335",
     "geom:latitude":40.86335,
     "geom:longitude":-76.555364,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"198 W Center St",
     "sg:city":"Elysburg",
     "sg:classifiers":[
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85817501,
+        102191575,
+        404486113,
         85633793,
-        101719367,
+        101719303,
         102081349,
-        85817501
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"e2abc899b9adfdc99a70237cd1008a8b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081349,
-            "locality_id":101719367,
+            "localadmin_id":404486113,
+            "locality_id":101719303,
             "neighbourhood_id":85817501,
             "region_id":85688481,
             "venue_id":404128429
         }
     ],
     "wof:id":404128429,
-    "wof:lastmodified":1449039498,
+    "wof:lastmodified":1454356682,
     "wof:name":"Elyburg United Methodst Church",
     "wof:parent_id":85817501,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "churches-methodist"
     ]
 },
-  "bbox": [-76.555364,40.86335,-76.555364,40.86335],
+  "bbox": [
+    -76.555364,
+    40.86335,
+    -76.555364,
+    40.86335
+],
   "geometry": {"coordinates":[-76.555364,40.86335],"type":"Point"}
 }

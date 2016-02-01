@@ -2,13 +2,14 @@
   "id": 403769185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.982237,40.173921,-76.982237,40.173921",
     "geom:latitude":40.173921,
     "geom:longitude":-76.982237,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2231 S Market St",
     "sg:city":"Mechanicsburg",
     "sg:classifiers":[
@@ -37,8 +38,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081359,
-        85825925
+        85825925,
+        102081359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +49,15 @@
     "wof:geomhash":"31d3d19b598fef2c0d4ab1133d5dd15b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081359,
-            "locality_id":-1,
             "neighbourhood_id":85825925,
             "region_id":85688481,
             "venue_id":403769185
         }
     ],
     "wof:id":403769185,
-    "wof:lastmodified":1449055069,
+    "wof:lastmodified":1454357452,
     "wof:name":"Pro Fast",
     "wof:parent_id":85825925,
     "wof:placetype":"venue",
@@ -70,6 +69,11 @@
         "fasteners-industrial"
     ]
 },
-  "bbox": [-76.982237,40.173921,-76.982237,40.173921],
+  "bbox": [
+    -76.982237,
+    40.173921,
+    -76.982237,
+    40.173921
+],
   "geometry": {"coordinates":[-76.982237,40.173921],"type":"Point"}
 }

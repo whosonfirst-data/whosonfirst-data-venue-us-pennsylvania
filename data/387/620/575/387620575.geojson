@@ -2,13 +2,14 @@
   "id": 387620575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.501003,40.30894,-79.501003,40.30894",
     "geom:latitude":40.30894,
     "geom:longitude":-79.501003,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"214 Donohoe Rd Ste F",
     "sg:city":"Greensburg",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081383,
-        85851151
+        85851151,
+        102081383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"0300e9459afe490f5105144a87111d7a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":-1,
             "neighbourhood_id":85851151,
             "region_id":85688481,
             "venue_id":387620575
         }
     ],
     "wof:id":387620575,
-    "wof:lastmodified":1449059589,
+    "wof:lastmodified":1454361129,
     "wof:name":"Farm Service Agency",
     "wof:parent_id":85851151,
     "wof:placetype":"venue",
@@ -63,6 +62,11 @@
         "consultant"
     ]
 },
-  "bbox": [-79.501003,40.30894,-79.501003,40.30894],
+  "bbox": [
+    -79.501003,
+    40.30894,
+    -79.501003,
+    40.30894
+],
   "geometry": {"coordinates":[-79.501003,40.30894],"type":"Point"}
 }

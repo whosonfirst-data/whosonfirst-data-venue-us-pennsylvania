@@ -2,13 +2,14 @@
   "id": 387922847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.938599,40.237099,-76.938599,40.237099",
     "geom:latitude":40.237099,
     "geom:longitude":-76.938599,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3438 Trindle Rd",
     "sg:city":"Camp Hill",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85857441,
+        102191575,
+        404486405,
         85633793,
         101719079,
         102081359,
-        85857441
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"686eb12df18ec28d986e338c5a42842f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081359,
+            "localadmin_id":404486405,
             "locality_id":101719079,
             "neighbourhood_id":85857441,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387922847,
-    "wof:lastmodified":1449056450,
+    "wof:lastmodified":1454358363,
     "wof:name":"Plastic Surgery PC",
     "wof:parent_id":85857441,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "cosmetic"
     ]
 },
-  "bbox": [-76.938599,40.237099,-76.938599,40.237099],
+  "bbox": [
+    -76.938599,
+    40.237099,
+    -76.938599,
+    40.237099
+],
   "geometry": {"coordinates":[-76.938599,40.237099],"type":"Point"}
 }

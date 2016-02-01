@@ -2,13 +2,14 @@
   "id": 387620085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.547209,40.328525,-79.547209,40.328525",
     "geom:latitude":40.328525,
     "geom:longitude":-79.547209,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"105 Craig Dr",
     "sg:city":"Greensburg",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85809439,
+        102191575,
+        404487487,
         85633793,
-        101717119,
+        101717177,
         102081383,
-        85809439
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,18 @@
     "wof:geomhash":"e66e79bcf86eeeb911d975478aaeff9c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":101717119,
+            "localadmin_id":404487487,
+            "locality_id":101717177,
             "neighbourhood_id":85809439,
             "region_id":85688481,
             "venue_id":387620085
         }
     ],
     "wof:id":387620085,
-    "wof:lastmodified":1449059589,
+    "wof:lastmodified":1454361129,
     "wof:name":"Faulks Home Cleaning",
     "wof:parent_id":85809439,
     "wof:placetype":"venue",
@@ -68,6 +72,11 @@
         "house"
     ]
 },
-  "bbox": [-79.547209,40.328525,-79.547209,40.328525],
+  "bbox": [
+    -79.547209,
+    40.328525,
+    -79.547209,
+    40.328525
+],
   "geometry": {"coordinates":[-79.547209,40.328525],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403867369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.813127,40.307896,-76.813127,40.307896",
     "geom:latitude":40.307896,
     "geom:longitude":-76.813127,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4622 Oxford Rd",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85824251,
+        102191575,
+        404486185,
         85633793,
+        101719811,
         102081347,
-        85824251
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +44,18 @@
     "wof:geomhash":"3b2970cf09cfe0bd3dcffaab28b89516",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
+            "localadmin_id":404486185,
+            "locality_id":101719811,
             "neighbourhood_id":85824251,
             "region_id":85688481,
             "venue_id":403867369
         }
     ],
     "wof:id":403867369,
-    "wof:lastmodified":1449055215,
+    "wof:lastmodified":1454357542,
     "wof:name":"Joe Toser Dry-Cleaning",
     "wof:parent_id":85824251,
     "wof:placetype":"venue",
@@ -60,6 +65,11 @@
         "cleaner"
     ]
 },
-  "bbox": [-76.813127,40.307896,-76.813127,40.307896],
-  "geometry": {"coordinates":[-76.813127,40.307896],"type":"Point"}
+  "bbox": [
+    -76.813127,
+    40.307896,
+    -76.813127,
+    40.307896
+],
+  "geometry": {"coordinates":[-76.81312699999999,40.307896],"type":"Point"}
 }

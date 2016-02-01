@@ -2,13 +2,14 @@
   "id": 403984493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.239859,39.829654,-77.239859,39.829654",
     "geom:latitude":39.829654,
     "geom:longitude":-77.239859,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"449 W Middle St",
     "sg:city":"Gettysburg",
     "sg:classifiers":[
@@ -66,8 +67,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080899,
-        85804527
+        85804527,
+        102080899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,17 +78,15 @@
     "wof:geomhash":"6dc7834a4927477ddbea9550cd1132dc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080899,
-            "locality_id":-1,
             "neighbourhood_id":85804527,
             "region_id":85688481,
             "venue_id":403984493
         }
     ],
     "wof:id":403984493,
-    "wof:lastmodified":1449055385,
+    "wof:lastmodified":1454357643,
     "wof:name":"Bream's Print Shop",
     "wof:parent_id":85804527,
     "wof:placetype":"venue",
@@ -109,6 +108,11 @@
         "hall"
     ]
 },
-  "bbox": [-77.239859,39.829654,-77.239859,39.829654],
+  "bbox": [
+    -77.239859,
+    39.829654,
+    -77.239859,
+    39.829654
+],
   "geometry": {"coordinates":[-77.239859,39.829654],"type":"Point"}
 }

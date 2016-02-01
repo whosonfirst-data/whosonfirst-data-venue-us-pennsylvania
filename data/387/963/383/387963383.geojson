@@ -2,13 +2,14 @@
   "id": 387963383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.926598,40.307301,-76.926598,40.307301",
     "geom:latitude":40.307301,
     "geom:longitude":-76.926598,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"81 2nd St",
     "sg:city":"Enola",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081359,
-        85852571
+        85852571,
+        102081359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"cb7d5025c253af740c746f3fc1f612b0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081359,
-            "locality_id":-1,
             "neighbourhood_id":85852571,
             "region_id":85688481,
             "venue_id":387963383
         }
     ],
     "wof:id":387963383,
-    "wof:lastmodified":1449056471,
+    "wof:lastmodified":1454358379,
     "wof:name":"West Fairview Hardware",
     "wof:parent_id":85852571,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "store"
     ]
 },
-  "bbox": [-76.926598,40.307301,-76.926598,40.307301],
+  "bbox": [
+    -76.926598,
+    40.307301,
+    -76.926598,
+    40.307301
+],
   "geometry": {"coordinates":[-76.926598,40.307301],"type":"Point"}
 }

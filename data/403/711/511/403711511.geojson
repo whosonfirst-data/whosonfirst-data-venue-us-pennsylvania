@@ -2,13 +2,14 @@
   "id": 403711511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.692685,40.229583,-76.692685,40.229583",
     "geom:latitude":40.229583,
     "geom:longitude":-76.692685,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1434 Kaylor Rd",
     "sg:city":"Hummelstown",
     "sg:classifiers":[
@@ -44,8 +45,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85811387
+        85811387,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,17 +56,15 @@
     "wof:geomhash":"4378ddfb9d91e32ecefb16ee9613d1fc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85811387,
             "region_id":85688481,
             "venue_id":403711511
         }
     ],
     "wof:id":403711511,
-    "wof:lastmodified":1449055722,
+    "wof:lastmodified":1454357843,
     "wof:name":"Andy's Topsoil",
     "wof:parent_id":85811387,
     "wof:placetype":"venue",
@@ -79,6 +78,11 @@
         "removal"
     ]
 },
-  "bbox": [-76.692685,40.229583,-76.692685,40.229583],
+  "bbox": [
+    -76.692685,
+    40.229583,
+    -76.692685,
+    40.229583
+],
   "geometry": {"coordinates":[-76.692685,40.229583],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403714753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.378159,40.27721,-76.378159,40.27721",
     "geom:latitude":40.27721,
     "geom:longitude":-76.378159,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"390 Rexmont Rd",
     "sg:city":"Lebanon",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85812349,
+        102191575,
+        404483425,
         85633793,
         101717097,
         102081341,
-        85812349
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"39bfe314377dbf8d7c0c8b41e260a2c5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081341,
+            "localadmin_id":404483425,
             "locality_id":101717097,
             "neighbourhood_id":85812349,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":403714753,
-    "wof:lastmodified":1449055284,
+    "wof:lastmodified":1454357580,
     "wof:name":"Pennsylvania Plumbing & Heating",
     "wof:parent_id":85812349,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "contractors-commercial"
     ]
 },
-  "bbox": [-76.378159,40.27721,-76.378159,40.27721],
+  "bbox": [
+    -76.378159,
+    40.27721,
+    -76.378159,
+    40.27721
+],
   "geometry": {"coordinates":[-76.378159,40.27721],"type":"Point"}
 }

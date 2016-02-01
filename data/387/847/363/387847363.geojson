@@ -2,13 +2,14 @@
   "id": 387847363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.407087,40.511093,-78.407087,40.511093",
     "geom:latitude":40.511093,
     "geom:longitude":-78.407087,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1822R Union Ave",
     "sg:city":"Altoona",
     "sg:classifiers":[
@@ -50,11 +51,13 @@
     "sg:website":"http://www.otis.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85808899,
+        102191575,
+        404484619,
         85633793,
         101716595,
         102081325,
-        85808899
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,9 +67,10 @@
     "wof:geomhash":"fcbdeda4b1889d83107a15bd1412648a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081325,
+            "localadmin_id":404484619,
             "locality_id":101716595,
             "neighbourhood_id":85808899,
             "region_id":85688481,
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":387847363,
-    "wof:lastmodified":1449057483,
+    "wof:lastmodified":1454359160,
     "wof:name":"Otis Elevator Company",
     "wof:parent_id":85808899,
     "wof:placetype":"venue",
@@ -91,6 +95,11 @@
         "inspector"
     ]
 },
-  "bbox": [-78.407087,40.511093,-78.407087,40.511093],
+  "bbox": [
+    -78.407087,
+    40.511093,
+    -78.407087,
+    40.511093
+],
   "geometry": {"coordinates":[-78.407087,40.511093],"type":"Point"}
 }

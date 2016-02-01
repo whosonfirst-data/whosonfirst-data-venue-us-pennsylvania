@@ -2,13 +2,14 @@
   "id": 387149255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.929136,40.60397,-79.929136,40.60397",
     "geom:latitude":40.60397,
     "geom:longitude":-79.929136,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4961 Cheyenne Ct",
     "sg:city":"Gibsonia",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85851773,
+        102191575,
+        404484943,
         85633793,
         101720509,
         102080887,
-        85851773
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"0a76043ce7dca18895bec94debaee868",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484943,
             "locality_id":101720509,
             "neighbourhood_id":85851773,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387149255,
-    "wof:lastmodified":1449056122,
+    "wof:lastmodified":1454358099,
     "wof:name":"Walt A Stoy Dr Associates",
     "wof:parent_id":85851773,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "writer"
     ]
 },
-  "bbox": [-79.929136,40.60397,-79.929136,40.60397],
+  "bbox": [
+    -79.929136,
+    40.60397,
+    -79.929136,
+    40.60397
+],
   "geometry": {"coordinates":[-79.929136,40.60397],"type":"Point"}
 }

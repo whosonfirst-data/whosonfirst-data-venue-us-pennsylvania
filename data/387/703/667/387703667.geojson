@@ -2,13 +2,14 @@
   "id": 387703667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.924817,40.731411,-79.924817,40.731411",
     "geom:latitude":40.731411,
     "geom:longitude":-79.924817,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"890 Pittsburgh Rd Ste 7",
     "sg:city":"Butler",
     "sg:classifiers":[
@@ -37,8 +38,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102083677,
-        85845445
+        85845445,
+        102083677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +49,15 @@
     "wof:geomhash":"cb00ed60c13fbb3397de391efe633e54",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102083677,
-            "locality_id":-1,
             "neighbourhood_id":85845445,
             "region_id":85688481,
             "venue_id":387703667
         }
     ],
     "wof:id":387703667,
-    "wof:lastmodified":1449057253,
+    "wof:lastmodified":1454358968,
     "wof:name":"Jara",
     "wof:parent_id":85845445,
     "wof:placetype":"venue",
@@ -71,6 +70,11 @@
         "supply"
     ]
 },
-  "bbox": [-79.924817,40.731411,-79.924817,40.731411],
+  "bbox": [
+    -79.924817,
+    40.731411,
+    -79.924817,
+    40.731411
+],
   "geometry": {"coordinates":[-79.924817,40.731411],"type":"Point"}
 }

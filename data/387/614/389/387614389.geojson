@@ -2,13 +2,14 @@
   "id": 387614389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.153396,39.914755,-79.153396,39.914755",
     "geom:latitude":39.914755,
     "geom:longitude":-79.153396,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"654 Main St",
     "sg:city":"Rockwood",
     "sg:classifiers":[
@@ -37,8 +38,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081361,
-        85845559
+        85845559,
+        102081361
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +49,15 @@
     "wof:geomhash":"d09bb81e70ebc91b7cb562e4f0e00c17",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081361,
-            "locality_id":-1,
             "neighbourhood_id":85845559,
             "region_id":85688481,
             "venue_id":387614389
         }
     ],
     "wof:id":387614389,
-    "wof:lastmodified":1449060024,
+    "wof:lastmodified":1454361264,
     "wof:name":"Mid State Underwriters Inc",
     "wof:parent_id":85845559,
     "wof:placetype":"venue",
@@ -70,6 +69,11 @@
         "casualty"
     ]
 },
-  "bbox": [-79.153396,39.914755,-79.153396,39.914755],
+  "bbox": [
+    -79.153396,
+    39.914755,
+    -79.153396,
+    39.914755
+],
   "geometry": {"coordinates":[-79.153396,39.914755],"type":"Point"}
 }

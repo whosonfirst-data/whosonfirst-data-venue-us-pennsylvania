@@ -2,13 +2,14 @@
   "id": 404019181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.719966,39.966676,-76.719966,39.966676",
     "geom:latitude":39.966676,
     "geom:longitude":-76.719966,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"409 E Philadelphia St",
     "sg:city":"York",
     "sg:classifiers":[
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85850705,
+        102191575,
+        404488029,
         85633793,
+        101717279,
         102080953,
-        85850705
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +51,18 @@
     "wof:geomhash":"6f3313710636540ecea9f71437d6117c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
+            "localadmin_id":404488029,
+            "locality_id":101717279,
             "neighbourhood_id":85850705,
             "region_id":85688481,
             "venue_id":404019181
         }
     ],
     "wof:id":404019181,
-    "wof:lastmodified":1449039819,
+    "wof:lastmodified":1454356822,
     "wof:name":"Brewers Outlet",
     "wof:parent_id":85850705,
     "wof:placetype":"venue",
@@ -69,6 +74,11 @@
         "ale"
     ]
 },
-  "bbox": [-76.719966,39.966676,-76.719966,39.966676],
+  "bbox": [
+    -76.719966,
+    39.966676,
+    -76.719966,
+    39.966676
+],
   "geometry": {"coordinates":[-76.719966,39.966676],"type":"Point"}
 }

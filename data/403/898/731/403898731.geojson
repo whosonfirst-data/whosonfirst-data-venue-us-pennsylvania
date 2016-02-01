@@ -2,13 +2,14 @@
   "id": 403898731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.817873,40.260813,-76.817873,40.260813",
     "geom:latitude":40.260813,
     "geom:longitude":-76.817873,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"210 Oakleigh Ave Fl 2",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -37,8 +38,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85839023
+        85839023,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +49,15 @@
     "wof:geomhash":"34d0e3581e49ca6e0f4d49d85d07133f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85839023,
             "region_id":85688481,
             "venue_id":403898731
         }
     ],
     "wof:id":403898731,
-    "wof:lastmodified":1449054605,
+    "wof:lastmodified":1454357165,
     "wof:name":"Circle School the",
     "wof:parent_id":85839023,
     "wof:placetype":"venue",
@@ -70,6 +69,11 @@
         "elementary"
     ]
 },
-  "bbox": [-76.817873,40.260813,-76.817873,40.260813],
-  "geometry": {"coordinates":[-76.817873,40.260813],"type":"Point"}
+  "bbox": [
+    -76.817873,
+    40.260813,
+    -76.817873,
+    40.260813
+],
+  "geometry": {"coordinates":[-76.81787300000001,40.260813],"type":"Point"}
 }

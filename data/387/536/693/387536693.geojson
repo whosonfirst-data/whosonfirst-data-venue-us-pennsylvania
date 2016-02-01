@@ -2,13 +2,14 @@
   "id": 387536693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.247897,40.170476,-80.247897,40.170476",
     "geom:latitude":40.170476,
     "geom:longitude":-80.247897,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"95 W Beau St Ste 300",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85852963,
+        102191575,
+        404487917,
         85633793,
         101718569,
         102081343,
-        85852963
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"58b54d719e8fc576601b8b791a70b927",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081343,
+            "localadmin_id":404487917,
             "locality_id":101718569,
             "neighbourhood_id":85852963,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387536693,
-    "wof:lastmodified":1449058373,
+    "wof:lastmodified":1454360762,
     "wof:name":"Landamerica Onestop, Inc.",
     "wof:parent_id":85852963,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "business"
     ]
 },
-  "bbox": [-80.247897,40.170476,-80.247897,40.170476],
-  "geometry": {"coordinates":[-80.247897,40.170476],"type":"Point"}
+  "bbox": [
+    -80.247897,
+    40.170476,
+    -80.247897,
+    40.170476
+],
+  "geometry": {"coordinates":[-80.24789699999999,40.170476],"type":"Point"}
 }

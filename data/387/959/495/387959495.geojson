@@ -2,13 +2,14 @@
   "id": 387959495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.656413,40.162419,-76.656413,40.162419",
     "geom:latitude":40.162419,
     "geom:longitude":-76.656413,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"52 Industrial Rd",
     "sg:city":"Elizabethtown",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85836929
+        85836929,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"a40140e8950b16495fb189e30e4b09d1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85836929,
             "region_id":85688481,
             "venue_id":387959495
         }
     ],
     "wof:id":387959495,
-    "wof:lastmodified":1449059536,
+    "wof:lastmodified":1454361110,
     "wof:name":"Hanover Cold Storage, Inc.",
     "wof:parent_id":85836929,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "cold"
     ]
 },
-  "bbox": [-76.656413,40.162419,-76.656413,40.162419],
+  "bbox": [
+    -76.656413,
+    40.162419,
+    -76.656413,
+    40.162419
+],
   "geometry": {"coordinates":[-76.656413,40.162419],"type":"Point"}
 }

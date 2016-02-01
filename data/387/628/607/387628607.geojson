@@ -2,13 +2,14 @@
   "id": 387628607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.570631,40.414402,-79.570631,40.414402",
     "geom:latitude":40.414402,
     "geom:longitude":-79.570631,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"26 Legion Ln",
     "sg:city":"Delmont",
     "sg:classifiers":[
@@ -49,8 +50,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081383,
-        85852577
+        85852577,
+        102081383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,17 +61,15 @@
     "wof:geomhash":"61272f6c05afd6578b7052442171d953",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":-1,
             "neighbourhood_id":85852577,
             "region_id":85688481,
             "venue_id":387628607
         }
     ],
     "wof:id":387628607,
-    "wof:lastmodified":1449059198,
+    "wof:lastmodified":1454361009,
     "wof:name":"Primerica",
     "wof:parent_id":85852577,
     "wof:placetype":"venue",
@@ -84,6 +83,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-79.570631,40.414402,-79.570631,40.414402],
-  "geometry": {"coordinates":[-79.570631,40.414402],"type":"Point"}
+  "bbox": [
+    -79.570631,
+    40.414402,
+    -79.570631,
+    40.414402
+],
+  "geometry": {"coordinates":[-79.57063100000001,40.414402],"type":"Point"}
 }

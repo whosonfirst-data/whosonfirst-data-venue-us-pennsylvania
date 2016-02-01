@@ -2,13 +2,14 @@
   "id": 387577253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.032097,40.276699,-80.032097,40.276699",
     "geom:latitude":40.276699,
     "geom:longitude":-80.032097,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"528 Trax Rd",
     "sg:city":"Finleyville",
     "sg:classifiers":[
@@ -41,11 +42,13 @@
     "sg:website":"www.traxfarms.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85855859,
+        102191575,
+        404487915,
         85633793,
-        101720491,
-        102080887,
-        85855859
+        101720335,
+        102081343,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,17 +58,18 @@
     "wof:geomhash":"b6e8d0675294620ae11a74d262dae047",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102080887,
-            "locality_id":101720491,
+            "county_id":102081343,
+            "localadmin_id":404487915,
+            "locality_id":101720335,
             "neighbourhood_id":85855859,
             "region_id":85688481,
             "venue_id":387577253
         }
     ],
     "wof:id":387577253,
-    "wof:lastmodified":1449060031,
+    "wof:lastmodified":1454361266,
     "wof:name":"Trax Farms Inc",
     "wof:parent_id":85855859,
     "wof:placetype":"venue",
@@ -78,6 +82,11 @@
         "veggie"
     ]
 },
-  "bbox": [-80.032097,40.276699,-80.032097,40.276699],
-  "geometry": {"coordinates":[-80.032097,40.276699],"type":"Point"}
+  "bbox": [
+    -80.032097,
+    40.276699,
+    -80.032097,
+    40.276699
+],
+  "geometry": {"coordinates":[-80.03209699999999,40.276699],"type":"Point"}
 }

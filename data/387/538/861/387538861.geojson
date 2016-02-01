@@ -2,13 +2,14 @@
   "id": 387538861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.223701,40.186401,-80.223701,40.186401",
     "geom:latitude":40.186401,
     "geom:longitude":-80.223701,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"331 Washington Rd",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -45,8 +46,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081343,
-        85832105
+        85832105,
+        102081343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,17 +57,15 @@
     "wof:geomhash":"3dbf81d02e62e180e3ba1bed672220d4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081343,
-            "locality_id":-1,
             "neighbourhood_id":85832105,
             "region_id":85688481,
             "venue_id":387538861
         }
     ],
     "wof:id":387538861,
-    "wof:lastmodified":1449056589,
+    "wof:lastmodified":1454358462,
     "wof:name":"Giant Eagle Inc",
     "wof:parent_id":85832105,
     "wof:placetype":"venue",
@@ -77,6 +76,11 @@
         "video"
     ]
 },
-  "bbox": [-80.223701,40.186401,-80.223701,40.186401],
-  "geometry": {"coordinates":[-80.223701,40.186401],"type":"Point"}
+  "bbox": [
+    -80.223701,
+    40.186401,
+    -80.223701,
+    40.186401
+],
+  "geometry": {"coordinates":[-80.22370100000001,40.186401],"type":"Point"}
 }

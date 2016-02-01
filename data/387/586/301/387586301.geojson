@@ -2,13 +2,14 @@
   "id": 387586301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.722638,39.905405,-79.722638,39.905405",
     "geom:latitude":39.905405,
     "geom:longitude":-79.722638,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"82 Walnut St",
     "sg:city":"Uniontown",
     "sg:classifiers":[
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85850161,
+        102191575,
+        404487055,
         85633793,
+        101719799,
         102080959,
-        85850161
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +51,18 @@
     "wof:geomhash":"b4d32fc167cbe778d9cd6481c24db3e6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080959,
-            "locality_id":-1,
+            "localadmin_id":404487055,
+            "locality_id":101719799,
             "neighbourhood_id":85850161,
             "region_id":85688481,
             "venue_id":387586301
         }
     ],
     "wof:id":387586301,
-    "wof:lastmodified":1449059481,
+    "wof:lastmodified":1454361094,
     "wof:name":"Jesse Shaffer's Organizing",
     "wof:parent_id":85850161,
     "wof:placetype":"venue",
@@ -69,6 +74,11 @@
         "services-household"
     ]
 },
-  "bbox": [-79.722638,39.905405,-79.722638,39.905405],
+  "bbox": [
+    -79.722638,
+    39.905405,
+    -79.722638,
+    39.905405
+],
   "geometry": {"coordinates":[-79.722638,39.905405],"type":"Point"}
 }

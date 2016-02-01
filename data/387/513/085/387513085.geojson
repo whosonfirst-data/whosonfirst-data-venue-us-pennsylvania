@@ -2,13 +2,14 @@
   "id": 387513085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.776916,40.462946,-79.776916,40.462946",
     "geom:latitude":40.462946,
     "geom:longitude":-79.776916,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"308 Carriage Blvd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85812851
+        85812851,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"bd5f21d579e10559f3607cfd5cfa2302",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85812851,
             "region_id":85688481,
             "venue_id":387513085
         }
     ],
     "wof:id":387513085,
-    "wof:lastmodified":1449058628,
+    "wof:lastmodified":1454360833,
     "wof:name":"Karemark Enterprises",
     "wof:parent_id":85812851,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "american"
     ]
 },
-  "bbox": [-79.776916,40.462946,-79.776916,40.462946],
+  "bbox": [
+    -79.776916,
+    40.462946,
+    -79.776916,
+    40.462946
+],
   "geometry": {"coordinates":[-79.776916,40.462946],"type":"Point"}
 }

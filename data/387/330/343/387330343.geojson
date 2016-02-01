@@ -2,13 +2,14 @@
   "id": 387330343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.042192,40.389091,-80.042192,40.389091",
     "geom:latitude":40.389091,
     "geom:longitude":-80.042192,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3285 W Liberty Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536353,
+        102191575,
+        404484881,
         85633793,
         101718733,
-        102080887
+        102080887,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"648da2e552390a99393ff38723fea6bb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484881,
             "locality_id":101718733,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420536353,
             "region_id":85688481,
             "venue_id":387330343
         }
     ],
     "wof:id":387330343,
-    "wof:lastmodified":1449058004,
+    "wof:lastmodified":1454360648,
     "wof:name":"Meatball's Pizzeria",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536353,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "pizza"
     ]
 },
-  "bbox": [-80.042192,40.389091,-80.042192,40.389091],
+  "bbox": [
+    -80.042192,
+    40.389091,
+    -80.042192,
+    40.389091
+],
   "geometry": {"coordinates":[-80.042192,40.389091],"type":"Point"}
 }

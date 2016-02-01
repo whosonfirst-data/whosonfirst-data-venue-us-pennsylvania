@@ -2,13 +2,14 @@
   "id": 387594705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.621197,39.978992,-79.621197,39.978992",
     "geom:latitude":39.978992,
     "geom:longitude":-79.621197,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"172 Morrell Rd",
     "sg:city":"Dunbar",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080959,
-        85841099
+        85841099,
+        102080959
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"5645548a2e5a21ede905ae5bbe2bce11",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080959,
-            "locality_id":-1,
             "neighbourhood_id":85841099,
             "region_id":85688481,
             "venue_id":387594705
         }
     ],
     "wof:id":387594705,
-    "wof:lastmodified":1449056652,
+    "wof:lastmodified":1454358518,
     "wof:name":"Hair It Is",
     "wof:parent_id":85841099,
     "wof:placetype":"venue",
@@ -68,6 +67,11 @@
         "stylist"
     ]
 },
-  "bbox": [-79.621197,39.978992,-79.621197,39.978992],
+  "bbox": [
+    -79.621197,
+    39.978992,
+    -79.621197,
+    39.978992
+],
   "geometry": {"coordinates":[-79.621197,39.978992],"type":"Point"}
 }

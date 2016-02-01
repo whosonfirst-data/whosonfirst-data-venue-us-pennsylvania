@@ -2,13 +2,14 @@
   "id": 387445367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.038002,40.3759,-80.038002,40.3759",
     "geom:latitude":40.3759,
     "geom:longitude":-80.038002,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1 Poplar Dr",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     "sg:website":"www.mcdonalds.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85830717,
+        102191575,
+        404484869,
         85633793,
         101718761,
         102080887,
-        85830717
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"f667a109b157a6785feead78ee6c193c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484869,
             "locality_id":101718761,
             "neighbourhood_id":85830717,
             "region_id":85688481,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":387445367,
-    "wof:lastmodified":1449056613,
+    "wof:lastmodified":1454358486,
     "wof:name":"McDonald's Hamburgers",
     "wof:parent_id":85830717,
     "wof:placetype":"venue",
@@ -71,6 +75,11 @@
         "dog"
     ]
 },
-  "bbox": [-80.038002,40.3759,-80.038002,40.3759],
-  "geometry": {"coordinates":[-80.038002,40.3759],"type":"Point"}
+  "bbox": [
+    -80.038002,
+    40.3759,
+    -80.038002,
+    40.3759
+],
+  "geometry": {"coordinates":[-80.03800200000001,40.3759],"type":"Point"}
 }

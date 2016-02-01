@@ -2,13 +2,14 @@
   "id": 387278921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.80735,40.392872,-79.80735,40.392872",
     "geom:latitude":40.392872,
     "geom:longitude":-79.80735,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"325 Commerce St",
     "sg:city":"Wilmerding",
     "sg:classifiers":[
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85856615,
+        102191575,
+        404482543,
         85633793,
+        101718699,
         102080887,
-        85856615
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +51,18 @@
     "wof:geomhash":"24c41fc9dad1f41cec0c9a6789d010d4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
+            "localadmin_id":404482543,
+            "locality_id":101718699,
             "neighbourhood_id":85856615,
             "region_id":85688481,
             "venue_id":387278921
         }
     ],
     "wof:id":387278921,
-    "wof:lastmodified":1449058215,
+    "wof:lastmodified":1454360711,
     "wof:name":"Cml Marketing Group",
     "wof:parent_id":85856615,
     "wof:placetype":"venue",
@@ -69,6 +74,11 @@
         "consultant"
     ]
 },
-  "bbox": [-79.80735,40.392872,-79.80735,40.392872],
+  "bbox": [
+    -79.80735,
+    40.392872,
+    -79.80735,
+    40.392872
+],
   "geometry": {"coordinates":[-79.80735,40.392872],"type":"Point"}
 }

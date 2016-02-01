@@ -2,13 +2,14 @@
   "id": 387587531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.753069,39.91533,-79.753069,39.91533",
     "geom:latitude":39.91533,
     "geom:longitude":-79.753069,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"201 Walmart Dr",
     "sg:city":"Uniontown",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     "sg:website":"http://www.aspendental.com/?utm_source=Yellowpages.com&utm_medium=fixed%2Bplacement&utm_campaign=trade%2Blistings",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85850161,
+        102191575,
+        404487055,
         85633793,
+        101719799,
         102080959,
-        85850161
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +47,18 @@
     "wof:geomhash":"40e8f2ba92d7ffe5798df6a42b505d72",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080959,
-            "locality_id":-1,
+            "localadmin_id":404487055,
+            "locality_id":101719799,
             "neighbourhood_id":85850161,
             "region_id":85688481,
             "venue_id":387587531
         }
     ],
     "wof:id":387587531,
-    "wof:lastmodified":1449057401,
+    "wof:lastmodified":1454359099,
     "wof:name":"Aspen Dental",
     "wof:parent_id":85850161,
     "wof:placetype":"venue",
@@ -65,6 +70,11 @@
         "hygienist"
     ]
 },
-  "bbox": [-79.753069,39.91533,-79.753069,39.91533],
+  "bbox": [
+    -79.753069,
+    39.91533,
+    -79.753069,
+    39.91533
+],
   "geometry": {"coordinates":[-79.753069,39.91533],"type":"Point"}
 }

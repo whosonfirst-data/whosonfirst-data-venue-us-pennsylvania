@@ -2,13 +2,14 @@
   "id": 387593205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.58673,39.994705,-79.58673,39.994705",
     "geom:latitude":39.994705,
     "geom:longitude":-79.58673,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1911 S Pittsburgh St",
     "sg:city":"Connellsville",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080959,
-        85806861
+        85806861,
+        102080959
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"00029da64c7fcaa350f24d27731a4b64",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080959,
-            "locality_id":-1,
             "neighbourhood_id":85806861,
             "region_id":85688481,
             "venue_id":387593205
         }
     ],
     "wof:id":387593205,
-    "wof:lastmodified":1449058635,
+    "wof:lastmodified":1454360834,
     "wof:name":"Cutright Sharpening",
     "wof:parent_id":85806861,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "saws-sharpen"
     ]
 },
-  "bbox": [-79.58673,39.994705,-79.58673,39.994705],
+  "bbox": [
+    -79.58673,
+    39.994705,
+    -79.58673,
+    39.994705
+],
   "geometry": {"coordinates":[-79.58673,39.994705],"type":"Point"}
 }

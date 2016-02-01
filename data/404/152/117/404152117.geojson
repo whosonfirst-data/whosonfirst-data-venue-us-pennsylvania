@@ -2,13 +2,14 @@
   "id": 404152117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.596603,40.5014,-75.596603,40.5014",
     "geom:latitude":40.5014,
     "geom:longitude":-75.596603,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3750 Chestnut Rd",
     "sg:city":"Alburtis",
     "sg:classifiers":[
@@ -38,8 +39,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081327,
-        85824625
+        85824625,
+        102081327
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +50,15 @@
     "wof:geomhash":"1ddd8d7582b33ccdd9295dadc27c97d5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081327,
-            "locality_id":-1,
             "neighbourhood_id":85824625,
             "region_id":85688481,
             "venue_id":404152117
         }
     ],
     "wof:id":404152117,
-    "wof:lastmodified":1449040014,
+    "wof:lastmodified":1454356958,
     "wof:name":"Professional Construction Contractors Inc",
     "wof:parent_id":85824625,
     "wof:placetype":"venue",
@@ -73,6 +72,11 @@
         "contractor"
     ]
 },
-  "bbox": [-75.596603,40.5014,-75.596603,40.5014],
+  "bbox": [
+    -75.596603,
+    40.5014,
+    -75.596603,
+    40.5014
+],
   "geometry": {"coordinates":[-75.596603,40.5014],"type":"Point"}
 }

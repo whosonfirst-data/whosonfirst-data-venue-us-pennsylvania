@@ -2,13 +2,14 @@
   "id": 404190193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.395651,40.679656,-75.395651,40.679656",
     "geom:latitude":40.679656,
     "geom:longitude":-75.395651,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4202 Maria Ln",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081395,
-        85814279
+        85814279,
+        102081395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"d32e53126a57bdb42248340b7f225690",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081395,
-            "locality_id":-1,
             "neighbourhood_id":85814279,
             "region_id":85688481,
             "venue_id":404190193
         }
     ],
     "wof:id":404190193,
-    "wof:lastmodified":1449040263,
+    "wof:lastmodified":1454357096,
     "wof:name":"Debbie Drexel Realtor",
     "wof:parent_id":85814279,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "broker"
     ]
 },
-  "bbox": [-75.395651,40.679656,-75.395651,40.679656],
+  "bbox": [
+    -75.395651,
+    40.679656,
+    -75.395651,
+    40.679656
+],
   "geometry": {"coordinates":[-75.395651,40.679656],"type":"Point"}
 }

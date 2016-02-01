@@ -2,13 +2,14 @@
   "id": 387614465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.225426,39.984263,-79.225426,39.984263",
     "geom:latitude":39.984263,
     "geom:longitude":-79.225426,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"195 Lost Mountain Ln",
     "sg:city":"Rockwood",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081361,
-        85852609
+        85852609,
+        102081361
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"6e30f01cc7f19a26173c45a13da76c19",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081361,
-            "locality_id":-1,
             "neighbourhood_id":85852609,
             "region_id":85688481,
             "venue_id":387614465
         }
     ],
     "wof:id":387614465,
-    "wof:lastmodified":1449060024,
+    "wof:lastmodified":1454361264,
     "wof:name":"Seasons Change",
     "wof:parent_id":85852609,
     "wof:placetype":"venue",
@@ -64,6 +63,11 @@
         "vehicle"
     ]
 },
-  "bbox": [-79.225426,39.984263,-79.225426,39.984263],
+  "bbox": [
+    -79.225426,
+    39.984263,
+    -79.225426,
+    39.984263
+],
   "geometry": {"coordinates":[-79.225426,39.984263],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403709425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.711315,40.241346,-76.711315,40.241346",
     "geom:latitude":40.241346,
     "geom:longitude":-76.711315,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2017E Raleigh Rd",
     "sg:city":"Hummelstown",
     "sg:classifiers":[
@@ -38,8 +39,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85811387
+        85811387,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +50,15 @@
     "wof:geomhash":"c180fb8d23edcd8a534b9431f8db4897",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85811387,
             "region_id":85688481,
             "venue_id":403709425
         }
     ],
     "wof:id":403709425,
-    "wof:lastmodified":1449054897,
+    "wof:lastmodified":1454357350,
     "wof:name":"Crawford Technical Services",
     "wof:parent_id":85811387,
     "wof:placetype":"venue",
@@ -73,6 +72,11 @@
         "integration"
     ]
 },
-  "bbox": [-76.711315,40.241346,-76.711315,40.241346],
+  "bbox": [
+    -76.711315,
+    40.241346,
+    -76.711315,
+    40.241346
+],
   "geometry": {"coordinates":[-76.711315,40.241346],"type":"Point"}
 }

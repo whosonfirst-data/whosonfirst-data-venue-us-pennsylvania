@@ -2,13 +2,14 @@
   "id": 403983853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.241079,39.777583,-77.241079,39.777583",
     "geom:latitude":39.777583,
     "geom:longitude":-77.241079,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"325 Knight Rd",
     "sg:city":"Gettysburg",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080899,
-        85847703
+        85847703,
+        102080899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"c96c0ffc688b4003a411415c393031f8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080899,
-            "locality_id":-1,
             "neighbourhood_id":85847703,
             "region_id":85688481,
             "venue_id":403983853
         }
     ],
     "wof:id":403983853,
-    "wof:lastmodified":1449055852,
+    "wof:lastmodified":1454357909,
     "wof:name":"J Amato's College Scouting Svc",
     "wof:parent_id":85847703,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "assistant"
     ]
 },
-  "bbox": [-77.241079,39.777583,-77.241079,39.777583],
+  "bbox": [
+    -77.241079,
+    39.777583,
+    -77.241079,
+    39.777583
+],
   "geometry": {"coordinates":[-77.241079,39.777583],"type":"Point"}
 }

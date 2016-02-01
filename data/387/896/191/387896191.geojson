@@ -2,13 +2,14 @@
   "id": 387896191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.65061,41.733339,-77.65061,41.733339",
     "geom:latitude":41.733339,
     "geom:longitude":-77.65061,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"29 West St",
     "sg:city":"Galeton",
     "sg:classifiers":[
@@ -40,8 +41,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081299,
-        85821383
+        85821383,
+        102081299
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,17 +52,15 @@
     "wof:geomhash":"04426a15c8038fcf135da7c38a7e7986",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081299,
-            "locality_id":-1,
             "neighbourhood_id":85821383,
             "region_id":85688481,
             "venue_id":387896191
         }
     ],
     "wof:id":387896191,
-    "wof:lastmodified":1449057487,
+    "wof:lastmodified":1454359251,
     "wof:name":"D M Contracting",
     "wof:parent_id":85821383,
     "wof:placetype":"venue",
@@ -77,6 +76,11 @@
         "contractor"
     ]
 },
-  "bbox": [-77.65061,41.733339,-77.65061,41.733339],
+  "bbox": [
+    -77.65061,
+    41.733339,
+    -77.65061,
+    41.733339
+],
   "geometry": {"coordinates":[-77.65061,41.733339],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387703135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.862531,40.770843,-79.862531,40.770843",
     "geom:latitude":40.770843,
     "geom:longitude":-79.862531,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"343 W Jefferson Rd",
     "sg:city":"Butler",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102083677,
-        85845445
+        85845445,
+        102083677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"12a215ac4a514ca2bb9bbc1986126e1c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102083677,
-            "locality_id":-1,
             "neighbourhood_id":85845445,
             "region_id":85688481,
             "venue_id":387703135
         }
     ],
     "wof:id":387703135,
-    "wof:lastmodified":1449057254,
+    "wof:lastmodified":1454358967,
     "wof:name":"Digger Bob's Light Duty Excava",
     "wof:parent_id":85845445,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.862531,40.770843,-79.862531,40.770843],
+  "bbox": [
+    -79.862531,
+    40.770843,
+    -79.862531,
+    40.770843
+],
   "geometry": {"coordinates":[-79.862531,40.770843],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387586419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.725471,39.901199,-79.725471,39.901199",
     "geom:latitude":39.901199,
     "geom:longitude":-79.725471,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2 W Main St Ste 407",
     "sg:city":"Uniontown",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85850161,
+        102191575,
+        404487055,
         85633793,
+        101719799,
         102080959,
-        85850161
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +45,18 @@
     "wof:geomhash":"ed7098ce2775bb9a5ce9d57bd33c8387",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080959,
-            "locality_id":-1,
+            "localadmin_id":404487055,
+            "locality_id":101719799,
             "neighbourhood_id":85850161,
             "region_id":85688481,
             "venue_id":387586419
         }
     ],
     "wof:id":387586419,
-    "wof:lastmodified":1449059482,
+    "wof:lastmodified":1454361096,
     "wof:name":"Fayette Industrial Fund",
     "wof:parent_id":85850161,
     "wof:placetype":"venue",
@@ -62,6 +67,11 @@
         "trade"
     ]
 },
-  "bbox": [-79.725471,39.901199,-79.725471,39.901199],
+  "bbox": [
+    -79.725471,
+    39.901199,
+    -79.725471,
+    39.901199
+],
   "geometry": {"coordinates":[-79.725471,39.901199],"type":"Point"}
 }

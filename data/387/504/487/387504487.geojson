@@ -2,13 +2,14 @@
   "id": 387504487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.019249,40.550541,-80.019249,40.550541",
     "geom:latitude":40.550541,
     "geom:longitude":-80.019249,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"8000 Mcknight Rd Ste 1134",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -48,8 +49,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85820441
+        85820441,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,17 +60,15 @@
     "wof:geomhash":"7881f6a5507f7ee9aa53ab1e8c568757",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85820441,
             "region_id":85688481,
             "venue_id":387504487
         }
     ],
     "wof:id":387504487,
-    "wof:lastmodified":1449056769,
+    "wof:lastmodified":1454358594,
     "wof:name":"Banfield",
     "wof:parent_id":85820441,
     "wof:placetype":"venue",
@@ -87,6 +86,11 @@
         "store"
     ]
 },
-  "bbox": [-80.019249,40.550541,-80.019249,40.550541],
+  "bbox": [
+    -80.019249,
+    40.550541,
+    -80.019249,
+    40.550541
+],
   "geometry": {"coordinates":[-80.019249,40.550541],"type":"Point"}
 }

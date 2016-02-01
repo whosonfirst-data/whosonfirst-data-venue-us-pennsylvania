@@ -2,13 +2,14 @@
   "id": 403871007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.832026,40.287597,-76.832026,40.287597",
     "geom:latitude":40.287597,
     "geom:longitude":-76.832026,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"306 Linn St",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85843183,
+        102191575,
+        404486305,
         85633793,
         101719821,
         102081347,
-        85843183
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"cba7c00710b9f681dd45bae95d35c860",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
+            "localadmin_id":404486305,
             "locality_id":101719821,
             "neighbourhood_id":85843183,
             "region_id":85688481,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":403871007,
-    "wof:lastmodified":1449055061,
+    "wof:lastmodified":1454357448,
     "wof:name":"Morgan Brothers Construction Enterprises Inc",
     "wof:parent_id":85843183,
     "wof:placetype":"venue",
@@ -72,6 +76,11 @@
         "contractor"
     ]
 },
-  "bbox": [-76.832026,40.287597,-76.832026,40.287597],
+  "bbox": [
+    -76.832026,
+    40.287597,
+    -76.832026,
+    40.287597
+],
   "geometry": {"coordinates":[-76.832026,40.287597],"type":"Point"}
 }

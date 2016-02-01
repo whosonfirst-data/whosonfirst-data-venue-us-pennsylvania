@@ -2,13 +2,14 @@
   "id": 387616195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.87145,40.049298,-78.87145,40.049298",
     "geom:latitude":40.049298,
     "geom:longitude":-78.87145,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"137 Huron Path",
     "sg:city":"Stoystown",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081361,
-        85808325
+        85808325,
+        102081361
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"4781dd4549963a4e9df1e76b71270dd9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081361,
-            "locality_id":-1,
             "neighbourhood_id":85808325,
             "region_id":85688481,
             "venue_id":387616195
         }
     ],
     "wof:id":387616195,
-    "wof:lastmodified":1449058901,
+    "wof:lastmodified":1454360924,
     "wof:name":"Hillcrest Manor, Inc.",
     "wof:parent_id":85808325,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "housing-communities"
     ]
 },
-  "bbox": [-78.87145,40.049298,-78.87145,40.049298],
+  "bbox": [
+    -78.87145,
+    40.049298,
+    -78.87145,
+    40.049298
+],
   "geometry": {"coordinates":[-78.87145,40.049298],"type":"Point"}
 }

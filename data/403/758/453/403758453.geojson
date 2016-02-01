@@ -2,13 +2,14 @@
   "id": 403758453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.9944,40.173,-76.9944,40.173",
     "geom:latitude":40.173,
     "geom:longitude":-76.9944,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"445 Gettysburg Pike",
     "sg:city":"Mechanicsburg",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081359,
-        85825925
+        85825925,
+        102081359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"8756d69c12a46e0aca5a05644f28fd5f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081359,
-            "locality_id":-1,
             "neighbourhood_id":85825925,
             "region_id":85688481,
             "venue_id":403758453
         }
     ],
     "wof:id":403758453,
-    "wof:lastmodified":1449055045,
+    "wof:lastmodified":1454357434,
     "wof:name":"West Shore Psychological Services",
     "wof:parent_id":85825925,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "mental"
     ]
 },
-  "bbox": [-76.9944,40.173,-76.9944,40.173],
+  "bbox": [
+    -76.9944,
+    40.173,
+    -76.9944,
+    40.173
+],
   "geometry": {"coordinates":[-76.9944,40.173],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387607141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.452219,40.097498,-78.452219,40.097498",
     "geom:latitude":40.097498,
     "geom:longitude":-78.452219,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"390 Press Rd",
     "sg:city":"Bedford",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080939,
-        85824143
+        85824143,
+        102080939
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"8b6d68eee6481f3e50b2849435f38542",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080939,
-            "locality_id":-1,
             "neighbourhood_id":85824143,
             "region_id":85688481,
             "venue_id":387607141
         }
     ],
     "wof:id":387607141,
-    "wof:lastmodified":1449056608,
+    "wof:lastmodified":1454358480,
     "wof:name":"Craig Press D",
     "wof:parent_id":85824143,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "book"
     ]
 },
-  "bbox": [-78.452219,40.097498,-78.452219,40.097498],
+  "bbox": [
+    -78.452219,
+    40.097498,
+    -78.452219,
+    40.097498
+],
   "geometry": {"coordinates":[-78.452219,40.097498],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403874283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.886943,40.307933,-76.886943,40.307933",
     "geom:latitude":40.307933,
     "geom:longitude":-76.886943,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"100 Wildwood Way",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85858225
+        85858225,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"eb1610d9959795fa36ec9693cc553656",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85858225,
             "region_id":85688481,
             "venue_id":403874283
         }
     ],
     "wof:id":403874283,
-    "wof:lastmodified":1449055875,
+    "wof:lastmodified":1454357923,
     "wof:name":"Wildwood Park & Lake Sanctuary",
     "wof:parent_id":85858225,
     "wof:placetype":"venue",
@@ -66,6 +65,11 @@
         "lake"
     ]
 },
-  "bbox": [-76.886943,40.307933,-76.886943,40.307933],
+  "bbox": [
+    -76.886943,
+    40.307933,
+    -76.886943,
+    40.307933
+],
   "geometry": {"coordinates":[-76.886943,40.307933],"type":"Point"}
 }

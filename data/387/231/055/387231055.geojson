@@ -2,13 +2,14 @@
   "id": 387231055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.077797,40.4146,-80.077797,40.4146",
     "geom:latitude":40.4146,
     "geom:longitude":-80.077797,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"530 Bell Ave",
     "sg:city":"Carnegie",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85816087,
+        102191575,
+        404484941,
         85633793,
         101718673,
         102080887,
-        85816087
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"5def197f83931ddad0062ca63c9f87df",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484941,
             "locality_id":101718673,
             "neighbourhood_id":85816087,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387231055,
-    "wof:lastmodified":1449058052,
+    "wof:lastmodified":1454360669,
     "wof:name":"Atlas Wholesale Supply Inc Customer Service",
     "wof:parent_id":85816087,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.077797,40.4146,-80.077797,40.4146],
+  "bbox": [
+    -80.077797,
+    40.4146,
+    -80.077797,
+    40.4146
+],
   "geometry": {"coordinates":[-80.077797,40.4146],"type":"Point"}
 }

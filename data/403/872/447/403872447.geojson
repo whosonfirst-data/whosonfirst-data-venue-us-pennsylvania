@@ -2,13 +2,14 @@
   "id": 403872447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.842277,40.280936,-76.842277,40.280936",
     "geom:latitude":40.280936,
     "geom:longitude":-76.842277,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3103 Meadow Ln",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85850427,
+        102191575,
+        404486197,
         85633793,
-        101719811,
+        101717715,
         102081347,
-        85850427
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +47,18 @@
     "wof:geomhash":"cf1cda97c7450e0be37b9feef7ac7227",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":101719811,
+            "localadmin_id":404486197,
+            "locality_id":101717715,
             "neighbourhood_id":85850427,
             "region_id":85688481,
             "venue_id":403872447
         }
     ],
     "wof:id":403872447,
-    "wof:lastmodified":1449054754,
+    "wof:lastmodified":1454357262,
     "wof:name":"Richard Weaver Painting Contractor",
     "wof:parent_id":85850427,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "contractor"
     ]
 },
-  "bbox": [-76.842277,40.280936,-76.842277,40.280936],
+  "bbox": [
+    -76.842277,
+    40.280936,
+    -76.842277,
+    40.280936
+],
   "geometry": {"coordinates":[-76.842277,40.280936],"type":"Point"}
 }

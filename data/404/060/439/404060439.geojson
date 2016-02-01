@@ -2,13 +2,14 @@
   "id": 404060439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.258957,40.153622,-76.258957,40.153622",
     "geom:latitude":40.153622,
     "geom:longitude":-76.258957,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1240 E Newport Rd",
     "sg:city":"Lititz",
     "sg:classifiers":[
@@ -45,8 +46,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85834405
+        85834405,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,17 +57,15 @@
     "wof:geomhash":"52b3945a74711764bd857c84834937e1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85834405,
             "region_id":85688481,
             "venue_id":404060439
         }
     ],
     "wof:id":404060439,
-    "wof:lastmodified":1449040220,
+    "wof:lastmodified":1454357071,
     "wof:name":"Jim's Garage",
     "wof:parent_id":85834405,
     "wof:placetype":"venue",
@@ -82,6 +81,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-76.258957,40.153622,-76.258957,40.153622],
+  "bbox": [
+    -76.258957,
+    40.153622,
+    -76.258957,
+    40.153622
+],
   "geometry": {"coordinates":[-76.258957,40.153622],"type":"Point"}
 }

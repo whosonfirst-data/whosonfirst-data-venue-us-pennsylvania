@@ -2,13 +2,14 @@
   "id": 404163947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.392601,40.595001,-75.392601,40.595001",
     "geom:latitude":40.595001,
     "geom:longitude":-75.392601,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1377 Puggy Ln",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85853139,
+        102191575,
+        404488067,
         85633793,
         101717913,
         102081327,
-        85853139
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"51bdb36068013b8b4077372cadd69324",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081327,
+            "localadmin_id":404488067,
             "locality_id":101717913,
             "neighbourhood_id":85853139,
             "region_id":85688481,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":404163947,
-    "wof:lastmodified":1449040308,
+    "wof:lastmodified":1454357124,
     "wof:name":"Dreisbach Bruce G Plmbg",
     "wof:parent_id":85853139,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.392601,40.595001,-75.392601,40.595001],
+  "bbox": [
+    -75.392601,
+    40.595001,
+    -75.392601,
+    40.595001
+],
   "geometry": {"coordinates":[-75.392601,40.595001],"type":"Point"}
 }

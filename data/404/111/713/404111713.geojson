@@ -2,13 +2,14 @@
   "id": 404111713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.75782,41.326553,-77.75782,41.326553",
     "geom:latitude":41.326553,
     "geom:longitude":-77.75782,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"332 Erie Ave",
     "sg:city":"Renovo",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080917,
-        85826685
+        85826685,
+        102080917
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"59fb404fb4d5d5a231a1754f62ad66fd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080917,
-            "locality_id":-1,
             "neighbourhood_id":85826685,
             "region_id":85688481,
             "venue_id":404111713
         }
     ],
     "wof:id":404111713,
-    "wof:lastmodified":1449040353,
+    "wof:lastmodified":1454357157,
     "wof:name":"Hairville",
     "wof:parent_id":85826685,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "stylist"
     ]
 },
-  "bbox": [-77.75782,41.326553,-77.75782,41.326553],
+  "bbox": [
+    -77.75782,
+    41.326553,
+    -77.75782,
+    41.326553
+],
   "geometry": {"coordinates":[-77.75782,41.326553],"type":"Point"}
 }

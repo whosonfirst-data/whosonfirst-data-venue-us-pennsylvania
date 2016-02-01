@@ -2,13 +2,14 @@
   "id": 387557409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.175903,40.298199,-80.175903,40.298199",
     "geom:latitude":40.298199,
     "geom:longitude":-80.175903,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1500 Corporate Dr",
     "sg:city":"Canonsburg",
     "sg:classifiers":[
@@ -28,7 +29,12 @@
     "sg:website":"www.mylan.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420539915,
+        102191575,
+        404487735,
         85633793,
+        101720271,
+        102081343,
         85688481
     ],
     "wof:breaches":[],
@@ -39,18 +45,20 @@
     "wof:geomhash":"708354f43a38dcf3e2afdb329716326a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081343,
+            "localadmin_id":404487735,
+            "locality_id":101720271,
+            "neighbourhood_id":420539915,
             "region_id":85688481,
             "venue_id":387557409
         }
     ],
     "wof:id":387557409,
-    "wof:lastmodified":1449058821,
+    "wof:lastmodified":1454360894,
     "wof:name":"Mylan Laboratories",
-    "wof:parent_id":-1,
+    "wof:parent_id":420539915,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -58,6 +66,11 @@
         "drugstore"
     ]
 },
-  "bbox": [-80.175903,40.298199,-80.175903,40.298199],
-  "geometry": {"coordinates":[-80.175903,40.298199],"type":"Point"}
+  "bbox": [
+    -80.175903,
+    40.298199,
+    -80.175903,
+    40.298199
+],
+  "geometry": {"coordinates":[-80.17590300000001,40.298199],"type":"Point"}
 }

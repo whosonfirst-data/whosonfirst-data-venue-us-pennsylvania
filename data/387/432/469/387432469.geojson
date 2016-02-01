@@ -2,13 +2,14 @@
   "id": 387432469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.944452,40.496209,-79.944452,40.496209",
     "geom:latitude":40.496209,
     "geom:longitude":-79.944452,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"340 Butler St Ste 1",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[],
@@ -19,10 +20,13 @@
     "sg:website":"http://www.rizglobal.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536351,
+        102191575,
+        404484899,
         85633793,
         101718687,
-        102080887
+        102080887,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -32,24 +36,30 @@
     "wof:geomhash":"6b71ee3b8e815edbef7770d2285b37f7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484899,
             "locality_id":101718687,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420536351,
             "region_id":85688481,
             "venue_id":387432469
         }
     ],
     "wof:id":387432469,
-    "wof:lastmodified":1449056051,
+    "wof:lastmodified":1454358041,
     "wof:name":"Riz Global Technologies",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536351,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.944452,40.496209,-79.944452,40.496209],
+  "bbox": [
+    -79.944452,
+    40.496209,
+    -79.944452,
+    40.496209
+],
   "geometry": {"coordinates":[-79.944452,40.496209],"type":"Point"}
 }

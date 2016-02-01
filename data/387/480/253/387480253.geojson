@@ -2,13 +2,14 @@
   "id": 387480253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.009804,40.370602,-80.009804,40.370602",
     "geom:latitude":40.370602,
     "geom:longitude":-80.009804,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3251 Library Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85830717,
+        102191575,
+        404484869,
         85633793,
         101718761,
         102080887,
-        85830717
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"bb21ec6a5d999d461e556da395110a45",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484869,
             "locality_id":101718761,
             "neighbourhood_id":85830717,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387480253,
-    "wof:lastmodified":1449057339,
+    "wof:lastmodified":1454359038,
     "wof:name":"Bagel Factory & Bread Market",
     "wof:parent_id":85830717,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.009804,40.370602,-80.009804,40.370602],
+  "bbox": [
+    -80.009804,
+    40.370602,
+    -80.009804,
+    40.370602
+],
   "geometry": {"coordinates":[-80.009804,40.370602],"type":"Point"}
 }

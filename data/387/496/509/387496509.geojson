@@ -2,13 +2,14 @@
   "id": 387496509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.003285,40.553309,-80.003285,40.553309",
     "geom:latitude":40.553309,
     "geom:longitude":-80.003285,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"115 Oxbridge Dr",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -32,8 +33,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85805835
+        85805835,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +44,15 @@
     "wof:geomhash":"892aaef4d12aee957481027786203871",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85805835,
             "region_id":85688481,
             "venue_id":387496509
         }
     ],
     "wof:id":387496509,
-    "wof:lastmodified":1449059348,
+    "wof:lastmodified":1454361048,
     "wof:name":"Pittsburgh Firmware, Inc",
     "wof:parent_id":85805835,
     "wof:placetype":"venue",
@@ -65,6 +64,11 @@
         "software"
     ]
 },
-  "bbox": [-80.003285,40.553309,-80.003285,40.553309],
-  "geometry": {"coordinates":[-80.003285,40.553309],"type":"Point"}
+  "bbox": [
+    -80.003285,
+    40.553309,
+    -80.003285,
+    40.553309
+],
+  "geometry": {"coordinates":[-80.00328500000001,40.553309],"type":"Point"}
 }

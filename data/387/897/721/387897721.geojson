@@ -2,13 +2,14 @@
   "id": 387897721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.089945,41.786986,-77.089945,41.786986",
     "geom:latitude":41.786986,
     "geom:longitude":-77.089945,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"307 Burley Ridge Rd",
     "sg:city":"Mansfield",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080937,
-        85844807
+        85844807,
+        102080937
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"b9baf05ee54af2c4030e722c0e955289",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080937,
-            "locality_id":-1,
             "neighbourhood_id":85844807,
             "region_id":85688481,
             "venue_id":387897721
         }
     ],
     "wof:id":387897721,
-    "wof:lastmodified":1449059309,
+    "wof:lastmodified":1454361039,
     "wof:name":"Northwestern Mutual Life",
     "wof:parent_id":85844807,
     "wof:placetype":"venue",
@@ -63,6 +62,11 @@
         "business"
     ]
 },
-  "bbox": [-77.089945,41.786986,-77.089945,41.786986],
+  "bbox": [
+    -77.089945,
+    41.786986,
+    -77.089945,
+    41.786986
+],
   "geometry": {"coordinates":[-77.089945,41.786986],"type":"Point"}
 }

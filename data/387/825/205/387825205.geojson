@@ -2,13 +2,14 @@
   "id": 387825205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.079498,42.022597,-80.079498,42.022597",
     "geom:latitude":42.022597,
     "geom:longitude":-80.079498,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"8890 Hamot Rd",
     "sg:city":"Waterford",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080955,
-        85819503
+        85819503,
+        102080955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"bac53084ea2fc00f3c98d109e25e5439",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080955,
-            "locality_id":-1,
             "neighbourhood_id":85819503,
             "region_id":85688481,
             "venue_id":387825205
         }
     ],
     "wof:id":387825205,
-    "wof:lastmodified":1449056265,
+    "wof:lastmodified":1454358210,
     "wof:name":"Pennrich",
     "wof:parent_id":85819503,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "direct"
     ]
 },
-  "bbox": [-80.079498,42.022597,-80.079498,42.022597],
+  "bbox": [
+    -80.079498,
+    42.022597,
+    -80.079498,
+    42.022597
+],
   "geometry": {"coordinates":[-80.079498,42.022597],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387308447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.005402,40.3979,-80.005402,40.3979",
     "geom:latitude":40.3979,
     "geom:longitude":-80.005402,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2145 Callio St",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85807877,
+        102191575,
+        404482523,
         85633793,
+        101718805,
         102080887,
-        85807877
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +44,18 @@
     "wof:geomhash":"d7e0a9abacd0dd36e7641292f72a2c47",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
+            "localadmin_id":404482523,
+            "locality_id":101718805,
             "neighbourhood_id":85807877,
             "region_id":85688481,
             "venue_id":387308447
         }
     ],
     "wof:id":387308447,
-    "wof:lastmodified":1449060018,
+    "wof:lastmodified":1454361262,
     "wof:name":"Chucks Towing Service",
     "wof:parent_id":85807877,
     "wof:placetype":"venue",
@@ -60,6 +65,11 @@
         "towing"
     ]
 },
-  "bbox": [-80.005402,40.3979,-80.005402,40.3979],
+  "bbox": [
+    -80.005402,
+    40.3979,
+    -80.005402,
+    40.3979
+],
   "geometry": {"coordinates":[-80.005402,40.3979],"type":"Point"}
 }

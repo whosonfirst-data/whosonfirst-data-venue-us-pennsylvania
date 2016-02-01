@@ -2,13 +2,14 @@
   "id": 403985129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.23598,39.857662,-77.23598,39.857662",
     "geom:latitude":39.857662,
     "geom:longitude":-77.23598,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1200 Biglerville Rd",
     "sg:city":"Gettysburg",
     "sg:classifiers":[
@@ -51,8 +52,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080899,
-        85804527
+        85804527,
+        102080899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,17 +63,15 @@
     "wof:geomhash":"c30afa2f8a0d36017b426b31f1b8e8f7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080899,
-            "locality_id":-1,
             "neighbourhood_id":85804527,
             "region_id":85688481,
             "venue_id":403985129
         }
     ],
     "wof:id":403985129,
-    "wof:lastmodified":1449055296,
+    "wof:lastmodified":1454357589,
     "wof:name":"Premier Elevator Cab Co",
     "wof:parent_id":85804527,
     "wof:placetype":"venue",
@@ -88,6 +87,11 @@
         "inspector"
     ]
 },
-  "bbox": [-77.23598,39.857662,-77.23598,39.857662],
+  "bbox": [
+    -77.23598,
+    39.857662,
+    -77.23598,
+    39.857662
+],
   "geometry": {"coordinates":[-77.23598,39.857662],"type":"Point"}
 }

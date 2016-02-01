@@ -2,13 +2,14 @@
   "id": 404092091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.317605,40.031992,-76.317605,40.031992",
     "geom:latitude":40.031992,
     "geom:longitude":-76.317605,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"741 Lafayette St",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85843407
+        85843407,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"febda84c18cf9d93cd19b89ed3eaa109",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85843407,
             "region_id":85688481,
             "venue_id":404092091
         }
     ],
     "wof:id":404092091,
-    "wof:lastmodified":1449040069,
+    "wof:lastmodified":1454356989,
     "wof:name":"Robert E Walton",
     "wof:parent_id":85843407,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "car"
     ]
 },
-  "bbox": [-76.317605,40.031992,-76.317605,40.031992],
+  "bbox": [
+    -76.317605,
+    40.031992,
+    -76.317605,
+    40.031992
+],
   "geometry": {"coordinates":[-76.317605,40.031992],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387642013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.390024,40.284794,-79.390024,40.284794",
     "geom:latitude":40.284794,
     "geom:longitude":-79.390024,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"110 Mountain Laurel Plz",
     "sg:city":"Latrobe",
     "sg:classifiers":[
@@ -38,11 +39,13 @@
     "sg:website":"http://www.mcdonalds.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85846727,
+        102191575,
+        404487601,
         85633793,
-        101719445,
+        101719411,
         102081383,
-        85846727
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,17 +55,18 @@
     "wof:geomhash":"97cc30e3f89ab68712db538f15e88aed",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":101719445,
+            "localadmin_id":404487601,
+            "locality_id":101719411,
             "neighbourhood_id":85846727,
             "region_id":85688481,
             "venue_id":387642013
         }
     ],
     "wof:id":387642013,
-    "wof:lastmodified":1449056336,
+    "wof:lastmodified":1454358267,
     "wof:name":"McDonald's",
     "wof:parent_id":85846727,
     "wof:placetype":"venue",
@@ -77,6 +81,11 @@
         "chicken"
     ]
 },
-  "bbox": [-79.390024,40.284794,-79.390024,40.284794],
+  "bbox": [
+    -79.390024,
+    40.284794,
+    -79.390024,
+    40.284794
+],
   "geometry": {"coordinates":[-79.390024,40.284794],"type":"Point"}
 }

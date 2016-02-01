@@ -2,13 +2,14 @@
   "id": 387882931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.683525,40.834083,-77.683525,40.834083",
     "geom:latitude":40.834083,
     "geom:longitude":-77.683525,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"Homan Ln.",
     "sg:city":"Centre Hall",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     "sg:website":"www.grangefair.net/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85839333,
+        102191575,
+        404483083,
         85633793,
         101718143,
         102081369,
-        85839333
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"659c4e451bcccf6e5df695b067fe16f0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081369,
+            "localadmin_id":404483083,
             "locality_id":101718143,
             "neighbourhood_id":85839333,
             "region_id":85688481,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":387882931,
-    "wof:lastmodified":1449056782,
+    "wof:lastmodified":1454358605,
     "wof:name":"Centre County Grange Encampment and Fair",
     "wof:parent_id":85839333,
     "wof:placetype":"venue",
@@ -69,6 +73,11 @@
         "local"
     ]
 },
-  "bbox": [-77.683525,40.834083,-77.683525,40.834083],
+  "bbox": [
+    -77.683525,
+    40.834083,
+    -77.683525,
+    40.834083
+],
   "geometry": {"coordinates":[-77.683525,40.834083],"type":"Point"}
 }

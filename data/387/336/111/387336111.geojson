@@ -2,13 +2,14 @@
   "id": 387336111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.043198,40.388401,-80.043198,40.388401",
     "geom:latitude":40.388401,
     "geom:longitude":-80.043198,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"222 Washington Rd",
     "sg:city":"South Hills",
     "sg:classifiers":[
@@ -27,7 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420536353,
+        102191575,
+        404484881,
         85633793,
+        101718733,
+        102080887,
         85688481
     ],
     "wof:breaches":[],
@@ -38,18 +44,20 @@
     "wof:geomhash":"6af92f5cbced637a3c8adef1a02a485f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102080887,
+            "localadmin_id":404484881,
+            "locality_id":101718733,
+            "neighbourhood_id":420536353,
             "region_id":85688481,
             "venue_id":387336111
         }
     ],
     "wof:id":387336111,
-    "wof:lastmodified":1449056042,
+    "wof:lastmodified":1454358034,
     "wof:name":"Laughlin Memorial Chapel Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536353,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +65,11 @@
         "cemetery"
     ]
 },
-  "bbox": [-80.043198,40.388401,-80.043198,40.388401],
+  "bbox": [
+    -80.043198,
+    40.388401,
+    -80.043198,
+    40.388401
+],
   "geometry": {"coordinates":[-80.043198,40.388401],"type":"Point"}
 }

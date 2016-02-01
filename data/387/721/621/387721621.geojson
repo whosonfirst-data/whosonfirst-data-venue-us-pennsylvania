@@ -2,13 +2,14 @@
   "id": 387721621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.005603,40.827899,-80.005603,40.827899",
     "geom:latitude":40.827899,
     "geom:longitude":-80.005603,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"249 Moose Rd",
     "sg:city":"Renfrew",
     "sg:classifiers":[
@@ -39,8 +40,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102083677,
-        85841463
+        85841463,
+        102083677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,17 +51,15 @@
     "wof:geomhash":"e515c73005c67714c67e16add4c7ff5a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102083677,
-            "locality_id":-1,
             "neighbourhood_id":85841463,
             "region_id":85688481,
             "venue_id":387721621
         }
     ],
     "wof:id":387721621,
-    "wof:lastmodified":1449059912,
+    "wof:lastmodified":1454361231,
     "wof:name":"Beacon General Contracting",
     "wof:parent_id":85841463,
     "wof:placetype":"venue",
@@ -75,6 +74,11 @@
         "home"
     ]
 },
-  "bbox": [-80.005603,40.827899,-80.005603,40.827899],
-  "geometry": {"coordinates":[-80.005603,40.827899],"type":"Point"}
+  "bbox": [
+    -80.005603,
+    40.827899,
+    -80.005603,
+    40.827899
+],
+  "geometry": {"coordinates":[-80.00560299999999,40.827899],"type":"Point"}
 }

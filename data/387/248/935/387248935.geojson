@@ -2,13 +2,14 @@
   "id": 387248935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.904062,40.399619,-79.904062,40.399619",
     "geom:latitude":40.399619,
     "geom:longitude":-79.904062,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"125 E 19th Ave",
     "sg:city":"Munhall",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"http://www.logoweardirect.biz/wfolks25",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85821717,
+        102191575,
+        404482523,
         85633793,
         101718719,
         102080887,
-        85821717
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"a5e39cb7f52e98bc53867cb64e29eb2b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718719,
             "neighbourhood_id":85821717,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387248935,
-    "wof:lastmodified":1449058200,
+    "wof:lastmodified":1454360709,
     "wof:name":"American Logo Apparel",
     "wof:parent_id":85821717,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "labeling"
     ]
 },
-  "bbox": [-79.904062,40.399619,-79.904062,40.399619],
+  "bbox": [
+    -79.904062,
+    40.399619,
+    -79.904062,
+    40.399619
+],
   "geometry": {"coordinates":[-79.904062,40.399619],"type":"Point"}
 }

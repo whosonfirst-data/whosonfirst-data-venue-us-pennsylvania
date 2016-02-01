@@ -2,13 +2,14 @@
   "id": 387742845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.10393,40.710101,-80.10393,40.710101",
     "geom:latitude":40.710101,
     "geom:longitude":-80.10393,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"20399 Rt. 19",
     "sg:city":"Cranberry Township",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102083677,
-        85839239
+        85839239,
+        102083677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"e4e5822d74ea38d902fe8b98e504f33c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102083677,
-            "locality_id":-1,
             "neighbourhood_id":85839239,
             "region_id":85688481,
             "venue_id":387742845
         }
     ],
     "wof:id":387742845,
-    "wof:lastmodified":1449056364,
+    "wof:lastmodified":1454358283,
     "wof:name":"Body Beautiful Laser Medi-Spa",
     "wof:parent_id":85839239,
     "wof:placetype":"venue",
@@ -61,6 +60,11 @@
         "laser"
     ]
 },
-  "bbox": [-80.10393,40.710101,-80.10393,40.710101],
-  "geometry": {"coordinates":[-80.10393,40.710101],"type":"Point"}
+  "bbox": [
+    -80.10393,
+    40.710101,
+    -80.10393,
+    40.710101
+],
+  "geometry": {"coordinates":[-80.10393000000001,40.710101],"type":"Point"}
 }

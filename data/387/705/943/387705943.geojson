@@ -2,13 +2,14 @@
   "id": 387705943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.92031,41.102031,-79.92031,41.102031",
     "geom:latitude":41.102031,
     "geom:longitude":-79.92031,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"524 Harrisville Rd",
     "sg:city":"Boyers",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102083677,
-        85848295
+        85848295,
+        102083677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"33e2e3732fcd6fc219fb8f23b6f4c198",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102083677,
-            "locality_id":-1,
             "neighbourhood_id":85848295,
             "region_id":85688481,
             "venue_id":387705943
         }
     ],
     "wof:id":387705943,
-    "wof:lastmodified":1449059940,
+    "wof:lastmodified":1454361239,
     "wof:name":"Dellich, Daniel Jr Trucking",
     "wof:parent_id":85848295,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "trucking"
     ]
 },
-  "bbox": [-79.92031,41.102031,-79.92031,41.102031],
+  "bbox": [
+    -79.92031,
+    41.102031,
+    -79.92031,
+    41.102031
+],
   "geometry": {"coordinates":[-79.92031,41.102031],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387434141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.023475,40.383756,-80.023475,40.383756",
     "geom:latitude":40.383756,
     "geom:longitude":-80.023475,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"801 Mcneilly Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[],
@@ -18,10 +19,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85807877,
+        102191575,
+        404482523,
         85633793,
+        101718805,
         102080887,
-        85807877
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -31,17 +35,18 @@
     "wof:geomhash":"df3eea3fc7c91cb28e6cdf1a55b04157",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
+            "localadmin_id":404482523,
+            "locality_id":101718805,
             "neighbourhood_id":85807877,
             "region_id":85688481,
             "venue_id":387434141
         }
     ],
     "wof:id":387434141,
-    "wof:lastmodified":1449056925,
+    "wof:lastmodified":1454358710,
     "wof:name":"McKay & Associates, P.C.",
     "wof:parent_id":85807877,
     "wof:placetype":"venue",
@@ -49,6 +54,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.023475,40.383756,-80.023475,40.383756],
+  "bbox": [
+    -80.023475,
+    40.383756,
+    -80.023475,
+    40.383756
+],
   "geometry": {"coordinates":[-80.023475,40.383756],"type":"Point"}
 }

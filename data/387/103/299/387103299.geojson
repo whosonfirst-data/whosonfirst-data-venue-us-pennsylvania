@@ -2,13 +2,14 @@
   "id": 387103299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.312296,40.692146,-80.312296,40.692146",
     "geom:latitude":40.692146,
     "geom:longitude":-80.312296,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1176 3rd St",
     "sg:city":"Beaver",
     "sg:classifiers":[
@@ -44,11 +45,13 @@
     "sg:website":"http://www.nationwide.com/agent/Beaver-PENNSYLVANIA-insurance-agent/marnic/office.html",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85814681,
+        102191575,
+        404484467,
         85633793,
         101718359,
         102081323,
-        85814681
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,9 +61,10 @@
     "wof:geomhash":"c9d14f47e94f813837609030fa223363",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081323,
+            "localadmin_id":404484467,
             "locality_id":101718359,
             "neighbourhood_id":85814681,
             "region_id":85688481,
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":387103299,
-    "wof:lastmodified":1449058484,
+    "wof:lastmodified":1454360795,
     "wof:name":"Richard William Marnic Agency - Nationwide Insurance",
     "wof:parent_id":85814681,
     "wof:placetype":"venue",
@@ -79,6 +83,11 @@
         "homeowner"
     ]
 },
-  "bbox": [-80.312296,40.692146,-80.312296,40.692146],
+  "bbox": [
+    -80.312296,
+    40.692146,
+    -80.312296,
+    40.692146
+],
   "geometry": {"coordinates":[-80.312296,40.692146],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387717917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.064102,40.684399,-80.064102,40.684399",
     "geom:latitude":40.684399,
     "geom:longitude":-80.064102,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"300 Northpointe Cir",
     "sg:city":"Seven Fields",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85824601,
+        102191575,
+        404485077,
         85633793,
         101720147,
         102083677,
-        85824601
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"fdaa75f900114ccd066a2e52ed86cb5f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083677,
+            "localadmin_id":404485077,
             "locality_id":101720147,
             "neighbourhood_id":85824601,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387717917,
-    "wof:lastmodified":1449056222,
+    "wof:lastmodified":1454358175,
     "wof:name":"Keystone Rehabilitation Systems",
     "wof:parent_id":85824601,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "physical"
     ]
 },
-  "bbox": [-80.064102,40.684399,-80.064102,40.684399],
-  "geometry": {"coordinates":[-80.064102,40.684399],"type":"Point"}
+  "bbox": [
+    -80.064102,
+    40.684399,
+    -80.064102,
+    40.684399
+],
+  "geometry": {"coordinates":[-80.06410200000001,40.684399],"type":"Point"}
 }

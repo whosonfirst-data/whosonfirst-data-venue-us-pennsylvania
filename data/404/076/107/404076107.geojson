@@ -2,13 +2,14 @@
   "id": 404076107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.358448,40.059671,-76.358448,40.059671",
     "geom:latitude":40.059671,
     "geom:longitude":-76.358448,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2078 Bennett Ave",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -43,8 +44,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85848619
+        85848619,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,17 +55,15 @@
     "wof:geomhash":"187dd33f3850aba6aff96a17d6e44422",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85848619,
             "region_id":85688481,
             "venue_id":404076107
         }
     ],
     "wof:id":404076107,
-    "wof:lastmodified":1449040032,
+    "wof:lastmodified":1454356967,
     "wof:name":"Bedstead, The",
     "wof:parent_id":85848619,
     "wof:placetype":"venue",
@@ -77,6 +76,11 @@
         "mattress"
     ]
 },
-  "bbox": [-76.358448,40.059671,-76.358448,40.059671],
+  "bbox": [
+    -76.358448,
+    40.059671,
+    -76.358448,
+    40.059671
+],
   "geometry": {"coordinates":[-76.358448,40.059671],"type":"Point"}
 }

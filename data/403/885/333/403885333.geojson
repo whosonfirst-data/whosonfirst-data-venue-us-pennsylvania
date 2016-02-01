@@ -2,13 +2,14 @@
   "id": 403885333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.844294,40.307596,-76.844294,40.307596",
     "geom:latitude":40.307596,
     "geom:longitude":-76.844294,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2550 Interstate Dr Suite 227",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -96,8 +97,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85851635
+        85851635,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -107,17 +108,15 @@
     "wof:geomhash":"0c39ad1be52c02d40c9e31ad120f8d41",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85851635,
             "region_id":85688481,
             "venue_id":403885333
         }
     ],
     "wof:id":403885333,
-    "wof:lastmodified":1449055351,
+    "wof:lastmodified":1454357619,
     "wof:name":"AT&T Advertising Solutions",
     "wof:parent_id":85851635,
     "wof:placetype":"venue",
@@ -153,6 +152,11 @@
         "interactive"
     ]
 },
-  "bbox": [-76.844294,40.307596,-76.844294,40.307596],
+  "bbox": [
+    -76.844294,
+    40.307596,
+    -76.844294,
+    40.307596
+],
   "geometry": {"coordinates":[-76.844294,40.307596],"type":"Point"}
 }

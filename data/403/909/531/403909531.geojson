@@ -2,13 +2,14 @@
   "id": 403909531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.840902,40.235064,-76.840902,40.235064",
     "geom:latitude":40.235064,
     "geom:longitude":-76.840902,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"112 N Front St",
     "sg:city":"Steelton",
     "sg:classifiers":[
@@ -27,8 +28,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85868485
+        85868485,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +39,15 @@
     "wof:geomhash":"59620784b0fe8669369e0daba0601dc9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85868485,
             "region_id":85688481,
             "venue_id":403909531
         }
     ],
     "wof:id":403909531,
-    "wof:lastmodified":1449055626,
+    "wof:lastmodified":1454357786,
     "wof:name":"Chops Barbershop",
     "wof:parent_id":85868485,
     "wof:placetype":"venue",
@@ -56,6 +55,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.840902,40.235064,-76.840902,40.235064],
+  "bbox": [
+    -76.840902,
+    40.235064,
+    -76.840902,
+    40.235064
+],
   "geometry": {"coordinates":[-76.840902,40.235064],"type":"Point"}
 }

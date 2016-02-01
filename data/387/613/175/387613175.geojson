@@ -2,13 +2,14 @@
   "id": 387613175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.111966,39.854315,-79.111966,39.854315",
     "geom:latitude":39.854315,
     "geom:longitude":-79.111966,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2236 Rockdale Rd",
     "sg:city":"Garrett",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85846793,
+        102191575,
+        404488119,
         85633793,
+        101717945,
         102081361,
-        85846793
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +46,18 @@
     "wof:geomhash":"525dece09f6816f1ae3017e5db4c1290",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081361,
-            "locality_id":-1,
+            "localadmin_id":404488119,
+            "locality_id":101717945,
             "neighbourhood_id":85846793,
             "region_id":85688481,
             "venue_id":387613175
         }
     ],
     "wof:id":387613175,
-    "wof:lastmodified":1449057876,
+    "wof:lastmodified":1454360620,
     "wof:name":"Moors Asphlt Sealcoatng",
     "wof:parent_id":85846793,
     "wof:placetype":"venue",
@@ -64,6 +69,11 @@
         "paving"
     ]
 },
-  "bbox": [-79.111966,39.854315,-79.111966,39.854315],
+  "bbox": [
+    -79.111966,
+    39.854315,
+    -79.111966,
+    39.854315
+],
   "geometry": {"coordinates":[-79.111966,39.854315],"type":"Point"}
 }

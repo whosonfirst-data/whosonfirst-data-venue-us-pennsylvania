@@ -2,13 +2,14 @@
   "id": 387650747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.594772,40.105221,-79.594772,40.105221",
     "geom:latitude":40.105221,
     "geom:longitude":-79.594772,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"921 Mulberry St",
     "sg:city":"Scottdale",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85828483,
+        102191575,
+        404484117,
         85633793,
         101717129,
         102081383,
-        85828483
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"f9f885af7da51d4b6f52f2b6592f7b13",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081383,
+            "localadmin_id":404484117,
             "locality_id":101717129,
             "neighbourhood_id":85828483,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387650747,
-    "wof:lastmodified":1449058424,
+    "wof:lastmodified":1454360778,
     "wof:name":"Kathy Geyer Home Interiors",
     "wof:parent_id":85828483,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-79.594772,40.105221,-79.594772,40.105221],
-  "geometry": {"coordinates":[-79.594772,40.105221],"type":"Point"}
+  "bbox": [
+    -79.594772,
+    40.105221,
+    -79.594772,
+    40.105221
+],
+  "geometry": {"coordinates":[-79.59477200000001,40.105221],"type":"Point"}
 }

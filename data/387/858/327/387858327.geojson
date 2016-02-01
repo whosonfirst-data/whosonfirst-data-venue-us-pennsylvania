@@ -2,13 +2,14 @@
   "id": 387858327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.591834,40.686072,-78.591834,40.686072",
     "geom:latitude":40.686072,
     "geom:longitude":-78.591834,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"644 Swartz Rd",
     "sg:city":"Flinton",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080879,
-        85831337
+        85831337,
+        102080879
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"99f7e5a3f7691bde6b74486cb6b9672c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080879,
-            "locality_id":-1,
             "neighbourhood_id":85831337,
             "region_id":85688481,
             "venue_id":387858327
         }
     ],
     "wof:id":387858327,
-    "wof:lastmodified":1449056482,
+    "wof:lastmodified":1454358390,
     "wof:name":"S W Floor Covering",
     "wof:parent_id":85831337,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-78.591834,40.686072,-78.591834,40.686072],
-  "geometry": {"coordinates":[-78.591834,40.686072],"type":"Point"}
+  "bbox": [
+    -78.591834,
+    40.686072,
+    -78.591834,
+    40.686072
+],
+  "geometry": {"coordinates":[-78.59183400000001,40.686072],"type":"Point"}
 }

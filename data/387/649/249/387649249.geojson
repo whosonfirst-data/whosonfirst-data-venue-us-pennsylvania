@@ -2,13 +2,14 @@
   "id": 387649249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.661712,40.422461,-79.661712,40.422461",
     "geom:latitude":40.422461,
     "geom:longitude":-79.661712,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4889 William Penn Hwy",
     "sg:city":"Murrysville",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85836835,
+        102191575,
+        404487539,
         85633793,
         101717149,
         102081383,
-        85836835
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"0c6315b7df8468eb2cc1763a4cefa29c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081383,
+            "localadmin_id":404487539,
             "locality_id":101717149,
             "neighbourhood_id":85836835,
             "region_id":85688481,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":387649249,
-    "wof:lastmodified":1449058703,
+    "wof:lastmodified":1454360857,
     "wof:name":"Direct Jewelry Outlet Inc",
     "wof:parent_id":85836835,
     "wof:placetype":"venue",
@@ -68,6 +72,11 @@
         "jeweler"
     ]
 },
-  "bbox": [-79.661712,40.422461,-79.661712,40.422461],
-  "geometry": {"coordinates":[-79.661712,40.422461],"type":"Point"}
+  "bbox": [
+    -79.661712,
+    40.422461,
+    -79.661712,
+    40.422461
+],
+  "geometry": {"coordinates":[-79.66171199999999,40.422461],"type":"Point"}
 }

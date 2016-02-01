@@ -2,13 +2,14 @@
   "id": 387395637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.894803,40.447028,-79.894803,40.447028",
     "geom:latitude":40.447028,
     "geom:longitude":-79.894803,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"7628 Penn Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -89,11 +90,13 @@
     "sg:website":"http://www.walgreens.com/default.jsp?ec=iyp_yellowpages_trademark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85873569,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85873569
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -103,9 +106,10 @@
     "wof:geomhash":"9fb40f67a5afbd19e489aa68dce11b10",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85873569,
             "region_id":85688481,
@@ -113,7 +117,7 @@
         }
     ],
     "wof:id":387395637,
-    "wof:lastmodified":1449059365,
+    "wof:lastmodified":1454361057,
     "wof:name":"Walgreens Pharmacies",
     "wof:parent_id":85873569,
     "wof:placetype":"venue",
@@ -134,6 +138,11 @@
         "consumer"
     ]
 },
-  "bbox": [-79.894803,40.447028,-79.894803,40.447028],
+  "bbox": [
+    -79.894803,
+    40.447028,
+    -79.894803,
+    40.447028
+],
   "geometry": {"coordinates":[-79.894803,40.447028],"type":"Point"}
 }

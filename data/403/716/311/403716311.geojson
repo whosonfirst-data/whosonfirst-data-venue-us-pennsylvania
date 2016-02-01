@@ -2,13 +2,14 @@
   "id": 403716311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.391704,40.328837,-76.391704,40.328837",
     "geom:latitude":40.328837,
     "geom:longitude":-76.391704,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1032 S 5th Ave",
     "sg:city":"Lebanon",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85824511,
+        102191575,
+        404485817,
         85633793,
-        101719403,
+        101719375,
         102081341,
-        85824511
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"501d470cb5413ca5eccc21025739b1f9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081341,
-            "locality_id":101719403,
+            "localadmin_id":404485817,
+            "locality_id":101719375,
             "neighbourhood_id":85824511,
             "region_id":85688481,
             "venue_id":403716311
         }
     ],
     "wof:id":403716311,
-    "wof:lastmodified":1449054815,
+    "wof:lastmodified":1454357298,
     "wof:name":"Pucillo's Pizza & Restaurant",
     "wof:parent_id":85824511,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "pizza"
     ]
 },
-  "bbox": [-76.391704,40.328837,-76.391704,40.328837],
+  "bbox": [
+    -76.391704,
+    40.328837,
+    -76.391704,
+    40.328837
+],
   "geometry": {"coordinates":[-76.391704,40.328837],"type":"Point"}
 }

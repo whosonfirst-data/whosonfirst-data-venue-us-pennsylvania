@@ -2,13 +2,14 @@
   "id": 387799017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.767674,41.544264,-79.767674,41.544264",
     "geom:latitude":41.544264,
     "geom:longitude":-79.767674,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"555 Deets School Rd",
     "sg:city":"Titusville",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081279,
-        85841467
+        85841467,
+        102081279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"95a737abe8df36a0084731d79d4a533f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081279,
-            "locality_id":-1,
             "neighbourhood_id":85841467,
             "region_id":85688481,
             "venue_id":387799017
         }
     ],
     "wof:id":387799017,
-    "wof:lastmodified":1449059939,
+    "wof:lastmodified":1454361238,
     "wof:name":"Paul J Buchanan",
     "wof:parent_id":85841467,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "logging"
     ]
 },
-  "bbox": [-79.767674,41.544264,-79.767674,41.544264],
+  "bbox": [
+    -79.767674,
+    41.544264,
+    -79.767674,
+    41.544264
+],
   "geometry": {"coordinates":[-79.767674,41.544264],"type":"Point"}
 }

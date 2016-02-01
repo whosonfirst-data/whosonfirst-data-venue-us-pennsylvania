@@ -2,13 +2,14 @@
   "id": 387103191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.379059,40.667931,-80.379059,40.667931",
     "geom:latitude":40.667931,
     "geom:longitude":-80.379059,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1900 Barclay Hill Rd",
     "sg:city":"Beaver",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536513,
+        102191575,
+        404484461,
         85633793,
         101718365,
-        102081323
+        102081323,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"863a13c0c01d672d39809cac16a7afc9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081323,
+            "localadmin_id":404484461,
             "locality_id":101718365,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420536513,
             "region_id":85688481,
             "venue_id":387103191
         }
     ],
     "wof:id":387103191,
-    "wof:lastmodified":1449058487,
+    "wof:lastmodified":1454360795,
     "wof:name":"Precision Fiber And Cable",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536513,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "cable"
     ]
 },
-  "bbox": [-80.379059,40.667931,-80.379059,40.667931],
+  "bbox": [
+    -80.379059,
+    40.667931,
+    -80.379059,
+    40.667931
+],
   "geometry": {"coordinates":[-80.379059,40.667931],"type":"Point"}
 }

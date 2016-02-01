@@ -2,13 +2,14 @@
   "id": 387229949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.863792,40.39978,-79.863792,40.39978",
     "geom:latitude":40.39978,
     "geom:longitude":-79.863792,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"910 Braddock Ave",
     "sg:city":"Braddock",
     "sg:classifiers":[
@@ -41,10 +42,13 @@
     "sg:website":"http://local.ingenio.com/Listings/Details.aspx?NUM=a%3a10182276%3a13%3a4859924%3a14%3a0%3a7",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536333,
+        102191575,
+        404484859,
         85633793,
-        101718793,
-        102080887
+        101718785,
+        102080887,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,19 +58,20 @@
     "wof:geomhash":"d8c7f22d1ed7481f9a25d32c9450d00d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":101718793,
-            "neighbourhood_id":-1,
+            "localadmin_id":404484859,
+            "locality_id":101718785,
+            "neighbourhood_id":420536333,
             "region_id":85688481,
             "venue_id":387229949
         }
     ],
     "wof:id":387229949,
-    "wof:lastmodified":1449059146,
+    "wof:lastmodified":1454360997,
     "wof:name":"Sullivan Heating & Air Service",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536333,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -82,6 +87,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-79.863792,40.39978,-79.863792,40.39978],
+  "bbox": [
+    -79.863792,
+    40.39978,
+    -79.863792,
+    40.39978
+],
   "geometry": {"coordinates":[-79.863792,40.39978],"type":"Point"}
 }

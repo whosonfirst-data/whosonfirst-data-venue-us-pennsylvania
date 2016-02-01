@@ -2,13 +2,14 @@
   "id": 387875487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.780197,40.913799,-77.780197,40.913799",
     "geom:latitude":40.913799,
     "geom:longitude":-77.780197,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"301 N Spring St",
     "sg:city":"Bellefonte",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85806075,
+        102191575,
+        404485871,
         85633793,
         101718145,
         102081369,
-        85806075
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"2d4f0b2cb34f613d1ec823fe3bc51c4e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081369,
+            "localadmin_id":404485871,
             "locality_id":101718145,
             "neighbourhood_id":85806075,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387875487,
-    "wof:lastmodified":1449058933,
+    "wof:lastmodified":1454360932,
     "wof:name":"Trinity Investment Management",
     "wof:parent_id":85806075,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "investing"
     ]
 },
-  "bbox": [-77.780197,40.913799,-77.780197,40.913799],
+  "bbox": [
+    -77.780197,
+    40.913799,
+    -77.780197,
+    40.913799
+],
   "geometry": {"coordinates":[-77.780197,40.913799],"type":"Point"}
 }

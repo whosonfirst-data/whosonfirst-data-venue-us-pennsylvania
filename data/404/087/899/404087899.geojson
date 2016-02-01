@@ -2,13 +2,14 @@
   "id": 404087899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.220128,40.027184,-76.220128,40.027184",
     "geom:latitude":40.027184,
     "geom:longitude":-76.220128,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2233 Lincoln Hwy E",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -52,8 +53,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85823025
+        85823025,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,17 +64,15 @@
     "wof:geomhash":"f56f6f3697a27fd104f5725f1bcdbb82",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85823025,
             "region_id":85688481,
             "venue_id":404087899
         }
     ],
     "wof:id":404087899,
-    "wof:lastmodified":1449039570,
+    "wof:lastmodified":1454356719,
     "wof:name":"AT&T",
     "wof:parent_id":85823025,
     "wof:placetype":"venue",
@@ -90,6 +89,11 @@
         "provider"
     ]
 },
-  "bbox": [-76.220128,40.027184,-76.220128,40.027184],
+  "bbox": [
+    -76.220128,
+    40.027184,
+    -76.220128,
+    40.027184
+],
   "geometry": {"coordinates":[-76.220128,40.027184],"type":"Point"}
 }

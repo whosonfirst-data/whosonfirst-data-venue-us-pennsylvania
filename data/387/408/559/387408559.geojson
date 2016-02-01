@@ -2,13 +2,14 @@
   "id": 387408559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.004005,40.442543,-80.004005,40.442543",
     "geom:latitude":40.442543,
     "geom:longitude":-80.004005,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"625 Stanwix St Ste 1100",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85815129,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85815129
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"6325a061a2dc811831bbd5e00d0650a0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85815129,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387408559,
-    "wof:lastmodified":1449056580,
+    "wof:lastmodified":1454358454,
     "wof:name":"Community College of Allegheny County",
     "wof:parent_id":85815129,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "college"
     ]
 },
-  "bbox": [-80.004005,40.442543,-80.004005,40.442543],
-  "geometry": {"coordinates":[-80.004005,40.442543],"type":"Point"}
+  "bbox": [
+    -80.004005,
+    40.442543,
+    -80.004005,
+    40.442543
+],
+  "geometry": {"coordinates":[-80.00400500000001,40.442543],"type":"Point"}
 }

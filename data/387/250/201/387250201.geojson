@@ -2,13 +2,14 @@
   "id": 387250201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.245895,40.449078,-80.245895,40.449078",
     "geom:latitude":40.449078,
     "geom:longitude":-80.245895,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"281 Route 30",
     "sg:city":"Imperial",
     "sg:classifiers":[
@@ -36,11 +37,13 @@
     "sg:website":"http://www.pennsylvaniadrillingco.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85818161,
+        102191575,
+        404484901,
         85633793,
         101720525,
         102080887,
-        85818161
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,9 +53,10 @@
     "wof:geomhash":"3e40404daf5b67fb8a4442a91866bb87",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484901,
             "locality_id":101720525,
             "neighbourhood_id":85818161,
             "region_id":85688481,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":387250201,
-    "wof:lastmodified":1449058275,
+    "wof:lastmodified":1454360733,
     "wof:name":"Pennsylvania Drilling Co",
     "wof:parent_id":85818161,
     "wof:placetype":"venue",
@@ -73,6 +77,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.245895,40.449078,-80.245895,40.449078],
+  "bbox": [
+    -80.245895,
+    40.449078,
+    -80.245895,
+    40.449078
+],
   "geometry": {"coordinates":[-80.245895,40.449078],"type":"Point"}
 }

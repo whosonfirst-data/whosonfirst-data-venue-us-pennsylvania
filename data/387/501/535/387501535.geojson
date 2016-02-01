@@ -2,13 +2,14 @@
   "id": 387501535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.996337,40.505421,-79.996337,40.505421",
     "geom:latitude":40.505421,
     "geom:longitude":-79.996337,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4670 Peoples Township Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85851357
+        85851357,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"0a831575e54c449b528614e16759f20d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85851357,
             "region_id":85688481,
             "venue_id":387501535
         }
     ],
     "wof:id":387501535,
-    "wof:lastmodified":1449059950,
+    "wof:lastmodified":1454361241,
     "wof:name":"Window Installation Network, Inc.",
     "wof:parent_id":85851357,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-79.996337,40.505421,-79.996337,40.505421],
+  "bbox": [
+    -79.996337,
+    40.505421,
+    -79.996337,
+    40.505421
+],
   "geometry": {"coordinates":[-79.996337,40.505421],"type":"Point"}
 }

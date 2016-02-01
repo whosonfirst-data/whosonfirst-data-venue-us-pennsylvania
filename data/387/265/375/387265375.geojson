@@ -2,13 +2,14 @@
   "id": 387265375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.847318,40.521083,-79.847318,40.521083",
     "geom:latitude":40.521083,
     "geom:longitude":-79.847318,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"11 Ann St",
     "sg:city":"Oakmont",
     "sg:classifiers":[
@@ -37,8 +38,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85818743
+        85818743,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +49,15 @@
     "wof:geomhash":"2dee3483043111d4c77d43cbb97796d0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85818743,
             "region_id":85688481,
             "venue_id":387265375
         }
     ],
     "wof:id":387265375,
-    "wof:lastmodified":1449057394,
+    "wof:lastmodified":1454359087,
     "wof:name":"Allied Building Products Corp.",
     "wof:parent_id":85818743,
     "wof:placetype":"venue",
@@ -70,6 +69,11 @@
         "replacement"
     ]
 },
-  "bbox": [-79.847318,40.521083,-79.847318,40.521083],
+  "bbox": [
+    -79.847318,
+    40.521083,
+    -79.847318,
+    40.521083
+],
   "geometry": {"coordinates":[-79.847318,40.521083],"type":"Point"}
 }

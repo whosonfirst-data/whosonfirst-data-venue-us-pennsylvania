@@ -2,13 +2,14 @@
   "id": 387324155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.954491,40.44545,-79.954491,40.44545",
     "geom:latitude":40.44545,
     "geom:longitude":-79.954491,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"100 Lytton Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -42,11 +43,13 @@
     "sg:website":"http://ad.doubleclick.net/clk;223371278;47096201;d?http://www.holidayinn.com/redirect?path=hd&brandCode=hi&hotelCode=pitsp&_PMID=99601036&cm_mmc=mdpr-_-yellowpages-_-hi-_-pitsp",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85873565,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85873565
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,9 +59,10 @@
     "wof:geomhash":"8b91ee43004c2c7f170fc07d0cdd4917",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85873565,
             "region_id":85688481,
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":387324155,
-    "wof:lastmodified":1449058325,
+    "wof:lastmodified":1454360746,
     "wof:name":"Holiday Inn Pittsburgh @Univ Ctr (Oakland)",
     "wof:parent_id":85873565,
     "wof:placetype":"venue",
@@ -80,6 +84,11 @@
         "facility"
     ]
 },
-  "bbox": [-79.954491,40.44545,-79.954491,40.44545],
+  "bbox": [
+    -79.954491,
+    40.44545,
+    -79.954491,
+    40.44545
+],
   "geometry": {"coordinates":[-79.954491,40.44545],"type":"Point"}
 }

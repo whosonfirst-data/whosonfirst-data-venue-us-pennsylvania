@@ -2,13 +2,14 @@
   "id": 404195513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.409698,40.655899,-75.409698,40.655899",
     "geom:latitude":40.655899,
     "geom:longitude":-75.409698,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1650 Kenwood Dr",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081395,
-        85814279
+        85814279,
+        102081395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"061a6118db5b9160b9ab73e41e0a5b14",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081395,
-            "locality_id":-1,
             "neighbourhood_id":85814279,
             "region_id":85688481,
             "venue_id":404195513
         }
     ],
     "wof:id":404195513,
-    "wof:lastmodified":1449039925,
+    "wof:lastmodified":1454356896,
     "wof:name":"Colonial Northampton Intermediate Unit No 20",
     "wof:parent_id":85814279,
     "wof:placetype":"venue",
@@ -64,6 +63,11 @@
         "elementary"
     ]
 },
-  "bbox": [-75.409698,40.655899,-75.409698,40.655899],
-  "geometry": {"coordinates":[-75.409698,40.655899],"type":"Point"}
+  "bbox": [
+    -75.409698,
+    40.655899,
+    -75.409698,
+    40.655899
+],
+  "geometry": {"coordinates":[-75.40969800000001,40.655899],"type":"Point"}
 }

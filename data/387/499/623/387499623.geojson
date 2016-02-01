@@ -2,13 +2,14 @@
   "id": 387499623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.025948,40.576359,-80.025948,40.576359",
     "geom:latitude":40.576359,
     "geom:longitude":-80.025948,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"9401 Mcknight Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -34,8 +35,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85820441
+        85820441,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +46,15 @@
     "wof:geomhash":"4d065a62cc78595699665a4574883f02",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85820441,
             "region_id":85688481,
             "venue_id":387499623
         }
     ],
     "wof:id":387499623,
-    "wof:lastmodified":1449056825,
+    "wof:lastmodified":1454358633,
     "wof:name":"Real Estate Educators, Inc.",
     "wof:parent_id":85820441,
     "wof:placetype":"venue",
@@ -65,6 +64,11 @@
         "management"
     ]
 },
-  "bbox": [-80.025948,40.576359,-80.025948,40.576359],
+  "bbox": [
+    -80.025948,
+    40.576359,
+    -80.025948,
+    40.576359
+],
   "geometry": {"coordinates":[-80.025948,40.576359],"type":"Point"}
 }

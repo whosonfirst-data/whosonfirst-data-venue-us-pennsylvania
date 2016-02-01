@@ -2,13 +2,14 @@
   "id": 387628553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.620796,40.367149,-79.620796,40.367149",
     "geom:latitude":40.367149,
     "geom:longitude":-79.620796,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3022 Main St",
     "sg:city":"Claridge",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081383,
-        85833221
+        85833221,
+        102081383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"9024f372b1561352fe632f0905f56668",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":-1,
             "neighbourhood_id":85833221,
             "region_id":85688481,
             "venue_id":387628553
         }
     ],
     "wof:id":387628553,
-    "wof:lastmodified":1449059196,
+    "wof:lastmodified":1454361008,
     "wof:name":"Hollis Plumbing & Heating",
     "wof:parent_id":85833221,
     "wof:placetype":"venue",
@@ -64,6 +63,11 @@
         "contractors-commercial"
     ]
 },
-  "bbox": [-79.620796,40.367149,-79.620796,40.367149],
+  "bbox": [
+    -79.620796,
+    40.367149,
+    -79.620796,
+    40.367149
+],
   "geometry": {"coordinates":[-79.620796,40.367149],"type":"Point"}
 }

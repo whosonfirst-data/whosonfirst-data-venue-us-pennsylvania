@@ -2,13 +2,14 @@
   "id": 404125891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.616417,40.964199,-76.616417,40.964199",
     "geom:latitude":40.964199,
     "geom:longitude":-76.616417,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"401 Mill St",
     "sg:city":"Danville",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080931,
-        85833629
+        85833629,
+        102080931
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"410a4b8d48cea8656900f606333398a4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080931,
-            "locality_id":-1,
             "neighbourhood_id":85833629,
             "region_id":85688481,
             "venue_id":404125891
         }
     ],
     "wof:id":404125891,
-    "wof:lastmodified":1449040284,
+    "wof:lastmodified":1454357110,
     "wof:name":"Roccos",
     "wof:parent_id":85833629,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "sandwich"
     ]
 },
-  "bbox": [-76.616417,40.964199,-76.616417,40.964199],
+  "bbox": [
+    -76.616417,
+    40.964199,
+    -76.616417,
+    40.964199
+],
   "geometry": {"coordinates":[-76.616417,40.964199],"type":"Point"}
 }

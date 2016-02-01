@@ -2,13 +2,14 @@
   "id": 387713101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.912369,40.850269,-79.912369,40.850269",
     "geom:latitude":40.850269,
     "geom:longitude":-79.912369,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2 Main St",
     "sg:city":"Lyndora",
     "sg:classifiers":[
@@ -36,11 +37,13 @@
     "sg:website":"http://www.chrysalisbodywork.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85824973,
+        102191575,
+        404485057,
         85633793,
-        101720149,
+        101718197,
         102083677,
-        85824973
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,17 +53,18 @@
     "wof:geomhash":"62103aea087397dbda25de1b571f9a0c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083677,
-            "locality_id":101720149,
+            "localadmin_id":404485057,
+            "locality_id":101718197,
             "neighbourhood_id":85824973,
             "region_id":85688481,
             "venue_id":387713101
         }
     ],
     "wof:id":387713101,
-    "wof:lastmodified":1449059561,
+    "wof:lastmodified":1454361117,
     "wof:name":"Chrysalis Bodywork - Acupuncture & Therapeutic Massage",
     "wof:parent_id":85824973,
     "wof:placetype":"venue",
@@ -73,6 +77,11 @@
         "therapist"
     ]
 },
-  "bbox": [-79.912369,40.850269,-79.912369,40.850269],
+  "bbox": [
+    -79.912369,
+    40.850269,
+    -79.912369,
+    40.850269
+],
   "geometry": {"coordinates":[-79.912369,40.850269],"type":"Point"}
 }

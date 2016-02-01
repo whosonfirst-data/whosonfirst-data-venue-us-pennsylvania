@@ -2,13 +2,14 @@
   "id": 387642927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.385294,40.286869,-79.385294,40.286869",
     "geom:latitude":40.286869,
     "geom:longitude":-79.385294,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1032 Latrobe Thirty Plz",
     "sg:city":"Latrobe",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85846727,
+        102191575,
+        404487601,
         85633793,
-        101719445,
+        101719411,
         102081383,
-        85846727
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"f63e98d62ff3b401ddf4401ef754d66f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":101719445,
+            "localadmin_id":404487601,
+            "locality_id":101719411,
             "neighbourhood_id":85846727,
             "region_id":85688481,
             "venue_id":387642927
         }
     ],
     "wof:id":387642927,
-    "wof:lastmodified":1449056337,
+    "wof:lastmodified":1454358269,
     "wof:name":"Lighthouse Group",
     "wof:parent_id":85846727,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "business"
     ]
 },
-  "bbox": [-79.385294,40.286869,-79.385294,40.286869],
+  "bbox": [
+    -79.385294,
+    40.286869,
+    -79.385294,
+    40.286869
+],
   "geometry": {"coordinates":[-79.385294,40.286869],"type":"Point"}
 }

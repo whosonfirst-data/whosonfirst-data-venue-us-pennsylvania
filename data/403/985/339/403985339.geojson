@@ -2,13 +2,14 @@
   "id": 403985339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.237039,39.731615,-77.237039,39.731615",
     "geom:latitude":39.731615,
     "geom:longitude":-77.237039,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1030 Mason Dixon Rd",
     "sg:city":"Gettysburg",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080899,
-        85847703
+        85847703,
+        102080899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"66eefa3647612fee6e5c5db34409231d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080899,
-            "locality_id":-1,
             "neighbourhood_id":85847703,
             "region_id":85688481,
             "venue_id":403985339
         }
     ],
     "wof:id":403985339,
-    "wof:lastmodified":1449055297,
+    "wof:lastmodified":1454357587,
     "wof:name":"Waybrite Farms",
     "wof:parent_id":85847703,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "worm"
     ]
 },
-  "bbox": [-77.237039,39.731615,-77.237039,39.731615],
+  "bbox": [
+    -77.237039,
+    39.731615,
+    -77.237039,
+    39.731615
+],
   "geometry": {"coordinates":[-77.237039,39.731615],"type":"Point"}
 }

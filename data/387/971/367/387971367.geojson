@@ -2,13 +2,14 @@
   "id": 387971367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.659691,40.273249,-76.659691,40.273249",
     "geom:latitude":40.273249,
     "geom:longitude":-76.659691,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"509 Cherry Dr",
     "sg:city":"Hershey",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"http://www.georgeweavermoving.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85821955,
+        102191575,
+        404483303,
         85633793,
         101719813,
         102081347,
-        85821955
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"cbef3b03e0c832ff48082279e04ac2a4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
+            "localadmin_id":404483303,
             "locality_id":101719813,
             "neighbourhood_id":85821955,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387971367,
-    "wof:lastmodified":1449058033,
+    "wof:lastmodified":1454360661,
     "wof:name":"Weaver George W & Son Inc",
     "wof:parent_id":85821955,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "mover"
     ]
 },
-  "bbox": [-76.659691,40.273249,-76.659691,40.273249],
+  "bbox": [
+    -76.659691,
+    40.273249,
+    -76.659691,
+    40.273249
+],
   "geometry": {"coordinates":[-76.659691,40.273249],"type":"Point"}
 }

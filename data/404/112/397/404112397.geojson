@@ -2,13 +2,14 @@
   "id": 404112397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.852588,41.071428,-76.852588,41.071428",
     "geom:latitude":41.071428,
     "geom:longitude":-76.852588,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"86 Portmay Rd",
     "sg:city":"Watsontown",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081349,
-        85837713
+        85837713,
+        102081349
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"902aae7bbec76cd794c1603494b879aa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081349,
-            "locality_id":-1,
             "neighbourhood_id":85837713,
             "region_id":85688481,
             "venue_id":404112397
         }
     ],
     "wof:id":404112397,
-    "wof:lastmodified":1449039560,
+    "wof:lastmodified":1454356714,
     "wof:name":"Watsontown Brick Sales, Inc.",
     "wof:parent_id":85837713,
     "wof:placetype":"venue",
@@ -63,6 +62,11 @@
         "face"
     ]
 },
-  "bbox": [-76.852588,41.071428,-76.852588,41.071428],
+  "bbox": [
+    -76.852588,
+    41.071428,
+    -76.852588,
+    41.071428
+],
   "geometry": {"coordinates":[-76.852588,41.071428],"type":"Point"}
 }

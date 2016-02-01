@@ -2,13 +2,14 @@
   "id": 403774495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.737783,40.230051,-76.737783,40.230051",
     "geom:latitude":40.230051,
     "geom:longitude":-76.737783,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"181 Fulling Mill Rd",
     "sg:city":"Middletown",
     "sg:classifiers":[
@@ -32,10 +33,13 @@
     "sg:website":"http://www.dallasspring.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85842349,
+        102191575,
+        404486175,
         85633793,
+        101717689,
         102081347,
-        85842349
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +49,18 @@
     "wof:geomhash":"b612e9c9afb08411e450d9b45df4580a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
+            "localadmin_id":404486175,
+            "locality_id":101717689,
             "neighbourhood_id":85842349,
             "region_id":85688481,
             "venue_id":403774495
         }
     ],
     "wof:id":403774495,
-    "wof:lastmodified":1449055151,
+    "wof:lastmodified":1454357500,
     "wof:name":"Dallas Towing And Autonet Inc",
     "wof:parent_id":85842349,
     "wof:placetype":"venue",
@@ -69,6 +74,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-76.737783,40.230051,-76.737783,40.230051],
-  "geometry": {"coordinates":[-76.737783,40.230051],"type":"Point"}
+  "bbox": [
+    -76.737783,
+    40.230051,
+    -76.737783,
+    40.230051
+],
+  "geometry": {"coordinates":[-76.73778299999999,40.230051],"type":"Point"}
 }

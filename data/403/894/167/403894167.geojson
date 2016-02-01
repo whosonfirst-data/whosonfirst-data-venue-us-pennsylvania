@@ -2,13 +2,14 @@
   "id": 403894167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.767059,40.268075,-76.767059,40.268075",
     "geom:latitude":40.268075,
     "geom:longitude":-76.767059,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"7011 Somerset St",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     "sg:website":"http://www.shaklee.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85846483,
+        102191575,
+        404486309,
         85633793,
         101719823,
         102081347,
-        85846483
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"9035e0e58f00c275df91c3050e9796f0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
+            "localadmin_id":404486309,
             "locality_id":101719823,
             "neighbourhood_id":85846483,
             "region_id":85688481,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":403894167,
-    "wof:lastmodified":1449055175,
+    "wof:lastmodified":1454357511,
     "wof:name":"Miller, Dm Associates Shaklee Distributor",
     "wof:parent_id":85846483,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "diet"
     ]
 },
-  "bbox": [-76.767059,40.268075,-76.767059,40.268075],
+  "bbox": [
+    -76.767059,
+    40.268075,
+    -76.767059,
+    40.268075
+],
   "geometry": {"coordinates":[-76.767059,40.268075],"type":"Point"}
 }

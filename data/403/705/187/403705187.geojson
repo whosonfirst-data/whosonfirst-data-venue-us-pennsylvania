@@ -2,13 +2,14 @@
   "id": 403705187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.621755,40.296523,-76.621755,40.296523",
     "geom:latitude":40.296523,
     "geom:longitude":-76.621755,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1251 E Chocolate Ave",
     "sg:city":"Hershey",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85850549,
+        102191575,
+        404483303,
         85633793,
         101719813,
         102081347,
-        85850549
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"86a31798df601d9e81e2550b9d9ba4c7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
+            "localadmin_id":404483303,
             "locality_id":101719813,
             "neighbourhood_id":85850549,
             "region_id":85688481,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":403705187,
-    "wof:lastmodified":1449055970,
+    "wof:lastmodified":1454357984,
     "wof:name":"Cullari Vineyards & Winerys",
     "wof:parent_id":85850549,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.621755,40.296523,-76.621755,40.296523],
-  "geometry": {"coordinates":[-76.621755,40.296523],"type":"Point"}
+  "bbox": [
+    -76.621755,
+    40.296523,
+    -76.621755,
+    40.296523
+],
+  "geometry": {"coordinates":[-76.62175499999999,40.296523],"type":"Point"}
 }

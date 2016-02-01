@@ -2,13 +2,14 @@
   "id": 403901905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.735738,40.333841,-76.735738,40.333841",
     "geom:latitude":40.333841,
     "geom:longitude":-76.735738,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"7493 Allentown Blvd",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -50,11 +51,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85848911,
+        102191575,
+        404486315,
         85633793,
         101719829,
         102081347,
-        85848911
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,9 +67,10 @@
     "wof:geomhash":"16a3fc8b6ab2e8835527cc265055818e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
+            "localadmin_id":404486315,
             "locality_id":101719829,
             "neighbourhood_id":85848911,
             "region_id":85688481,
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":403901905,
-    "wof:lastmodified":1449055186,
+    "wof:lastmodified":1454357519,
     "wof:name":"Vw Wolfe's Service",
     "wof:parent_id":85848911,
     "wof:placetype":"venue",
@@ -92,6 +96,11 @@
         "inspection"
     ]
 },
-  "bbox": [-76.735738,40.333841,-76.735738,40.333841],
+  "bbox": [
+    -76.735738,
+    40.333841,
+    -76.735738,
+    40.333841
+],
   "geometry": {"coordinates":[-76.735738,40.333841],"type":"Point"}
 }

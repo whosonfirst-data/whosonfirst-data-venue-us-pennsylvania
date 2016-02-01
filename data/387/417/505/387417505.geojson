@@ -2,13 +2,14 @@
   "id": 387417505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.997803,40.4431,-79.997803,40.4431",
     "geom:latitude":40.4431,
     "geom:longitude":-79.997803,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"909 Liberty Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85873585,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85873585
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"67f0820222bbc9ecaf00d0f60f979577",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85873585,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387417505,
-    "wof:lastmodified":1449057662,
+    "wof:lastmodified":1454360550,
     "wof:name":"Broadway War Surplus",
     "wof:parent_id":85873585,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "gear"
     ]
 },
-  "bbox": [-79.997803,40.4431,-79.997803,40.4431],
+  "bbox": [
+    -79.997803,
+    40.4431,
+    -79.997803,
+    40.4431
+],
   "geometry": {"coordinates":[-79.997803,40.4431],"type":"Point"}
 }

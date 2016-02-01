@@ -2,13 +2,14 @@
   "id": 387486379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.822967,40.455621,-79.822967,40.455621",
     "geom:latitude":40.455621,
     "geom:longitude":-79.822967,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"408 Rodi Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -26,8 +27,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85811007
+        85811007,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,17 +38,15 @@
     "wof:geomhash":"d87723bf1dd54e79c64168f75651b0b9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85811007,
             "region_id":85688481,
             "venue_id":387486379
         }
     ],
     "wof:id":387486379,
-    "wof:lastmodified":1449058232,
+    "wof:lastmodified":1454360716,
     "wof:name":"North American Heritage Services, Inc",
     "wof:parent_id":85811007,
     "wof:placetype":"venue",
@@ -55,6 +54,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.822967,40.455621,-79.822967,40.455621],
-  "geometry": {"coordinates":[-79.822967,40.455621],"type":"Point"}
+  "bbox": [
+    -79.822967,
+    40.455621,
+    -79.822967,
+    40.455621
+],
+  "geometry": {"coordinates":[-79.82296700000001,40.455621],"type":"Point"}
 }

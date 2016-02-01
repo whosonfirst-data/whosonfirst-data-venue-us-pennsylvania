@@ -2,13 +2,14 @@
   "id": 387247551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.996261,40.548831,-79.996261,40.548831",
     "geom:latitude":40.548831,
     "geom:longitude":-79.996261,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"242 Amity Rd",
     "sg:city":"Glenshaw",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85805835
+        85805835,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"0324a6438d87b8ffaa88cbed29dcb039",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85805835,
             "region_id":85688481,
             "venue_id":387247551
         }
     ],
     "wof:id":387247551,
-    "wof:lastmodified":1449058329,
+    "wof:lastmodified":1454360747,
     "wof:name":"Kelly Flooring",
     "wof:parent_id":85805835,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "material"
     ]
 },
-  "bbox": [-79.996261,40.548831,-79.996261,40.548831],
+  "bbox": [
+    -79.996261,
+    40.548831,
+    -79.996261,
+    40.548831
+],
   "geometry": {"coordinates":[-79.996261,40.548831],"type":"Point"}
 }

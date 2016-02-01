@@ -2,13 +2,14 @@
   "id": 403735283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.019402,40.246799,-77.019402,40.246799",
     "geom:latitude":40.246799,
     "geom:longitude":-77.019402,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5 Sample Bridge Rd",
     "sg:city":"Mechanicsburg",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081359,
-        85826667
+        85826667,
+        102081359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"5e39bc25f16460f92ec377f5eee58a24",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081359,
-            "locality_id":-1,
             "neighbourhood_id":85826667,
             "region_id":85688481,
             "venue_id":403735283
         }
     ],
     "wof:id":403735283,
-    "wof:lastmodified":1449055914,
+    "wof:lastmodified":1454357945,
     "wof:name":"Palmyra Animal Clinic",
     "wof:parent_id":85826667,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "sitting"
     ]
 },
-  "bbox": [-77.019402,40.246799,-77.019402,40.246799],
+  "bbox": [
+    -77.019402,
+    40.246799,
+    -77.019402,
+    40.246799
+],
   "geometry": {"coordinates":[-77.019402,40.246799],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387161457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.264444,40.675786,-80.264444,40.675786",
     "geom:latitude":40.675786,
     "geom:longitude":-80.264444,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2590 Ridge Rd",
     "sg:city":"Monaca",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85814681,
+        102191575,
+        404484467,
         85633793,
         101718359,
         102081323,
-        85814681
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"3b0e4fa28a1ad69fcc8c844bb929bc0c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081323,
+            "localadmin_id":404484467,
             "locality_id":101718359,
             "neighbourhood_id":85814681,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387161457,
-    "wof:lastmodified":1449057615,
+    "wof:lastmodified":1454360530,
     "wof:name":"Fifth Ward Elementary School",
     "wof:parent_id":85814681,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "elementary"
     ]
 },
-  "bbox": [-80.264444,40.675786,-80.264444,40.675786],
+  "bbox": [
+    -80.264444,
+    40.675786,
+    -80.264444,
+    40.675786
+],
   "geometry": {"coordinates":[-80.264444,40.675786],"type":"Point"}
 }

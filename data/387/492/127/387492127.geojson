@@ -2,13 +2,14 @@
   "id": 387492127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.951502,40.347781,-79.951502,40.347781",
     "geom:latitude":40.347781,
     "geom:longitude":-79.951502,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1717 Lebanon Church Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[],
@@ -19,11 +20,13 @@
     "sg:website":"http://clickserve.dartsearch.net/link/click?lid=43000000308049899",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85834159,
+        102191575,
+        404484243,
         85633793,
         101718717,
         102080887,
-        85834159
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -33,9 +36,10 @@
     "wof:geomhash":"0b80ededbba00a88e43774611de89bfb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484243,
             "locality_id":101718717,
             "neighbourhood_id":85834159,
             "region_id":85688481,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":387492127,
-    "wof:lastmodified":1449056109,
+    "wof:lastmodified":1454358091,
     "wof:name":"T-Mobile",
     "wof:parent_id":85834159,
     "wof:placetype":"venue",
@@ -51,6 +55,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.951502,40.347781,-79.951502,40.347781],
+  "bbox": [
+    -79.951502,
+    40.347781,
+    -79.951502,
+    40.347781
+],
   "geometry": {"coordinates":[-79.951502,40.347781],"type":"Point"}
 }

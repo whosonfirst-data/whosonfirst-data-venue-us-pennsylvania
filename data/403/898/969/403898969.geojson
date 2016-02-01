@@ -2,13 +2,14 @@
   "id": 403898969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.8368,40.255501,-76.8368,40.255501",
     "geom:latitude":40.255501,
     "geom:longitude":-76.8368,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3100 Paxton St",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -40,8 +41,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85868485
+        85868485,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,17 +52,15 @@
     "wof:geomhash":"2abc218787df7e540a79a258325c69cc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85868485,
             "region_id":85688481,
             "venue_id":403898969
         }
     ],
     "wof:id":403898969,
-    "wof:lastmodified":1449054603,
+    "wof:lastmodified":1454357163,
     "wof:name":"Underdog Sports Bar & Grill",
     "wof:parent_id":85868485,
     "wof:placetype":"venue",
@@ -72,6 +71,11 @@
         "caterer"
     ]
 },
-  "bbox": [-76.8368,40.255501,-76.8368,40.255501],
+  "bbox": [
+    -76.8368,
+    40.255501,
+    -76.8368,
+    40.255501
+],
   "geometry": {"coordinates":[-76.8368,40.255501],"type":"Point"}
 }

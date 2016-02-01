@@ -2,13 +2,14 @@
   "id": 387273241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.795467,40.432674,-79.795467,40.432674",
     "geom:latitude":40.432674,
     "geom:longitude":-79.795467,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"123 Monroeville Mall",
     "sg:city":"Monroeville",
     "sg:classifiers":[
@@ -49,11 +50,13 @@
     "sg:website":"http://clickserve.dartsearch.net/link/click?lid=43000000308049899",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85838743,
+        102191575,
+        404484135,
         85633793,
         101718841,
         102080887,
-        85838743
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,9 +66,10 @@
     "wof:geomhash":"fd59b91ec3930a6f07b2205501fa12d1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484135,
             "locality_id":101718841,
             "neighbourhood_id":85838743,
             "region_id":85688481,
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":387273241,
-    "wof:lastmodified":1449058084,
+    "wof:lastmodified":1454360676,
     "wof:name":"T-Mobile",
     "wof:parent_id":85838743,
     "wof:placetype":"venue",
@@ -89,6 +93,11 @@
         "cellular"
     ]
 },
-  "bbox": [-79.795467,40.432674,-79.795467,40.432674],
+  "bbox": [
+    -79.795467,
+    40.432674,
+    -79.795467,
+    40.432674
+],
   "geometry": {"coordinates":[-79.795467,40.432674],"type":"Point"}
 }

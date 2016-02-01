@@ -2,13 +2,14 @@
   "id": 387231225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.080536,40.411823,-80.080536,40.411823",
     "geom:latitude":40.411823,
     "geom:longitude":-80.080536,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"535 E Main St",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85816087,
+        102191575,
+        404484941,
         85633793,
         101718673,
         102080887,
-        85816087
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"59c3f348584a077e7a3f6e730c6fa155",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484941,
             "locality_id":101718673,
             "neighbourhood_id":85816087,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387231225,
-    "wof:lastmodified":1449058051,
+    "wof:lastmodified":1454360669,
     "wof:name":"Imagine Audio and Media Pittsburgh",
     "wof:parent_id":85816087,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "studio"
     ]
 },
-  "bbox": [-80.080536,40.411823,-80.080536,40.411823],
+  "bbox": [
+    -80.080536,
+    40.411823,
+    -80.080536,
+    40.411823
+],
   "geometry": {"coordinates":[-80.080536,40.411823],"type":"Point"}
 }

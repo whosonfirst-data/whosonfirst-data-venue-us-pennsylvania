@@ -2,13 +2,14 @@
   "id": 387439791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.993874,40.360939,-79.993874,40.360939",
     "geom:latitude":40.360939,
     "geom:longitude":-79.993874,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4701 Baptist Rd Ste 211A",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85857905,
+        102191575,
+        404484247,
         85633793,
         101718705,
         102080887,
-        85857905
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"713dc906033c60e1545377df8c31a7cd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484247,
             "locality_id":101718705,
             "neighbourhood_id":85857905,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387439791,
-    "wof:lastmodified":1449057149,
+    "wof:lastmodified":1454358883,
     "wof:name":"Granite Leasing Corporation",
     "wof:parent_id":85857905,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "store"
     ]
 },
-  "bbox": [-79.993874,40.360939,-79.993874,40.360939],
-  "geometry": {"coordinates":[-79.993874,40.360939],"type":"Point"}
+  "bbox": [
+    -79.993874,
+    40.360939,
+    -79.993874,
+    40.360939
+],
+  "geometry": {"coordinates":[-79.99387400000001,40.360939],"type":"Point"}
 }

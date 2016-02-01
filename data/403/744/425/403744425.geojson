@@ -2,13 +2,14 @@
   "id": 403744425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.954703,40.269019,-76.954703,40.269019",
     "geom:latitude":40.269019,
     "geom:longitude":-76.954703,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1011 Kent Dr",
     "sg:city":"Mechanicsburg",
     "sg:classifiers":[
@@ -33,8 +34,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081359,
-        85822223
+        85822223,
+        102081359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +45,15 @@
     "wof:geomhash":"0ef0ee3adcf2f4746dc649735a70d834",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081359,
-            "locality_id":-1,
             "neighbourhood_id":85822223,
             "region_id":85688481,
             "venue_id":403744425
         }
     ],
     "wof:id":403744425,
-    "wof:lastmodified":1449055109,
+    "wof:lastmodified":1454357475,
     "wof:name":"Ernest Camponovo Md",
     "wof:parent_id":85822223,
     "wof:placetype":"venue",
@@ -68,6 +67,11 @@
         "family"
     ]
 },
-  "bbox": [-76.954703,40.269019,-76.954703,40.269019],
-  "geometry": {"coordinates":[-76.954703,40.269019],"type":"Point"}
+  "bbox": [
+    -76.954703,
+    40.269019,
+    -76.954703,
+    40.269019
+],
+  "geometry": {"coordinates":[-76.95470299999999,40.269019],"type":"Point"}
 }

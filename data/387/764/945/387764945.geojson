@@ -2,13 +2,14 @@
   "id": 387764945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.445833,41.219496,-80.445833,41.219496",
     "geom:latitude":41.219496,
     "geom:longitude":-80.445833,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"991 Nantucket Dr",
     "sg:city":"Hermitage",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85824773,
+        102191575,
+        404487983,
         85633793,
         101718107,
         102080965,
-        85824773
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"02058b7554e31200fe1721317c3b98ff",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080965,
+            "localadmin_id":404487983,
             "locality_id":101718107,
             "neighbourhood_id":85824773,
             "region_id":85688481,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":387764945,
-    "wof:lastmodified":1449059739,
+    "wof:lastmodified":1454361176,
     "wof:name":"Buttermilk Hill Crafts",
     "wof:parent_id":85824773,
     "wof:placetype":"venue",
@@ -72,6 +76,11 @@
         "supply"
     ]
 },
-  "bbox": [-80.445833,41.219496,-80.445833,41.219496],
-  "geometry": {"coordinates":[-80.445833,41.219496],"type":"Point"}
+  "bbox": [
+    -80.445833,
+    41.219496,
+    -80.445833,
+    41.219496
+],
+  "geometry": {"coordinates":[-80.44583299999999,41.219496],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403972133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.651306,39.895534,-76.651306,39.895534",
     "geom:latitude":39.895534,
     "geom:longitude":-76.651306,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"396 Frederick Dr",
     "sg:city":"Dallastown",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080953,
-        85868591
+        85868591,
+        102080953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"ae4bb7e1f6b916ec93078b72f0cbbc0d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
             "neighbourhood_id":85868591,
             "region_id":85688481,
             "venue_id":403972133
         }
     ],
     "wof:id":403972133,
-    "wof:lastmodified":1449055313,
+    "wof:lastmodified":1454357598,
     "wof:name":"Mccullough Electric",
     "wof:parent_id":85868591,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "electrician"
     ]
 },
-  "bbox": [-76.651306,39.895534,-76.651306,39.895534],
-  "geometry": {"coordinates":[-76.651306,39.895534],"type":"Point"}
+  "bbox": [
+    -76.651306,
+    39.895534,
+    -76.651306,
+    39.895534
+],
+  "geometry": {"coordinates":[-76.65130600000001,39.895534],"type":"Point"}
 }

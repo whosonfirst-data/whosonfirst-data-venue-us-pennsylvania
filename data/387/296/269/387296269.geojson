@@ -2,13 +2,14 @@
   "id": 387296269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.072438,40.439446,-80.072438,40.439446",
     "geom:latitude":40.439446,
     "geom:longitude":-80.072438,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"Walgreens 112 W Steuben St",
     "sg:city":"Crafton",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"takecarehealth.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85826735,
+        102191575,
+        404484879,
         85633793,
-        101718743,
+        101718739,
         102080887,
-        85826735
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"0d0a6e999d47ce386f1bc1b2045a594d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":101718743,
+            "localadmin_id":404484879,
+            "locality_id":101718739,
             "neighbourhood_id":85826735,
             "region_id":85688481,
             "venue_id":387296269
         }
     ],
     "wof:id":387296269,
-    "wof:lastmodified":1449059216,
+    "wof:lastmodified":1454361013,
     "wof:name":"Take Care Clinic",
     "wof:parent_id":85826735,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "medical"
     ]
 },
-  "bbox": [-80.072438,40.439446,-80.072438,40.439446],
-  "geometry": {"coordinates":[-80.072438,40.439446],"type":"Point"}
+  "bbox": [
+    -80.072438,
+    40.439446,
+    -80.072438,
+    40.439446
+],
+  "geometry": {"coordinates":[-80.07243800000001,40.439446],"type":"Point"}
 }

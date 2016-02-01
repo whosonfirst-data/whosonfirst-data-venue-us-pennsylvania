@@ -2,13 +2,14 @@
   "id": 387337147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.041199,40.389702,-80.041199,40.389702",
     "geom:latitude":40.389702,
     "geom:longitude":-80.041199,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3239 W Liberty Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536353,
+        102191575,
+        404484881,
         85633793,
         101718733,
-        102080887
+        102080887,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +49,20 @@
     "wof:geomhash":"fec7f02e66b41739f8bf55be47e6ae6e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484881,
             "locality_id":101718733,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420536353,
             "region_id":85688481,
             "venue_id":387337147
         }
     ],
     "wof:id":387337147,
-    "wof:lastmodified":1449057887,
+    "wof:lastmodified":1454360626,
     "wof:name":"Cain's-A Saloon",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536353,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -65,6 +70,11 @@
         "nightlife"
     ]
 },
-  "bbox": [-80.041199,40.389702,-80.041199,40.389702],
-  "geometry": {"coordinates":[-80.041199,40.389702],"type":"Point"}
+  "bbox": [
+    -80.041199,
+    40.389702,
+    -80.041199,
+    40.389702
+],
+  "geometry": {"coordinates":[-80.04119900000001,40.389702],"type":"Point"}
 }

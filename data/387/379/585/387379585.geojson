@@ -2,13 +2,14 @@
   "id": 387379585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.998627,40.440071,-79.998627,40.440071",
     "geom:latitude":40.440071,
     "geom:longitude":-79.998627,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"400 5th Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"http://www.atlastravelservice.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85873585,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85873585
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"2e2f157e031aa66d4440bfd1193b4b31",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85873585,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387379585,
-    "wof:lastmodified":1449058316,
+    "wof:lastmodified":1454360743,
     "wof:name":"Atlas Travel Svc",
     "wof:parent_id":85873585,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "services-commercial"
     ]
 },
-  "bbox": [-79.998627,40.440071,-79.998627,40.440071],
+  "bbox": [
+    -79.998627,
+    40.440071,
+    -79.998627,
+    40.440071
+],
   "geometry": {"coordinates":[-79.998627,40.440071],"type":"Point"}
 }

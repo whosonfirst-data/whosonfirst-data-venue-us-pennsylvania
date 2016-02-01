@@ -2,13 +2,14 @@
   "id": 403729825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.500901,40.628523,-77.500901,40.628523",
     "geom:latitude":40.628523,
     "geom:longitude":-77.500901,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5 Bargo Ln",
     "sg:city":"Lewistown",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081333,
-        85835679
+        85835679,
+        102081333
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"aff4b13ac0499d303b2cffcf75fc76c9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081333,
-            "locality_id":-1,
             "neighbourhood_id":85835679,
             "region_id":85688481,
             "venue_id":403729825
         }
     ],
     "wof:id":403729825,
-    "wof:lastmodified":1449055313,
+    "wof:lastmodified":1454357600,
     "wof:name":"Allen Kratzer",
     "wof:parent_id":85835679,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "assistant"
     ]
 },
-  "bbox": [-77.500901,40.628523,-77.500901,40.628523],
+  "bbox": [
+    -77.500901,
+    40.628523,
+    -77.500901,
+    40.628523
+],
   "geometry": {"coordinates":[-77.500901,40.628523],"type":"Point"}
 }

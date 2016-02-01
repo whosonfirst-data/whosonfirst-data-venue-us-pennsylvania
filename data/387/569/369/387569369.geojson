@@ -2,13 +2,14 @@
   "id": 387569369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.135498,40.264099,-80.135498,40.264099",
     "geom:latitude":40.264099,
     "geom:longitude":-80.135498,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4000 Waterdam Plaza Dr Ste 140",
     "sg:city":"Canonsburg",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081343,
-        85814861
+        85814861,
+        102081343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"eca85492d9aad4b5a2ab3f5633f78756",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081343,
-            "locality_id":-1,
             "neighbourhood_id":85814861,
             "region_id":85688481,
             "venue_id":387569369
         }
     ],
     "wof:id":387569369,
-    "wof:lastmodified":1449059768,
+    "wof:lastmodified":1454361189,
     "wof:name":"Pediatric Dentistry South",
     "wof:parent_id":85814861,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "pediatric"
     ]
 },
-  "bbox": [-80.135498,40.264099,-80.135498,40.264099],
+  "bbox": [
+    -80.135498,
+    40.264099,
+    -80.135498,
+    40.264099
+],
   "geometry": {"coordinates":[-80.135498,40.264099],"type":"Point"}
 }

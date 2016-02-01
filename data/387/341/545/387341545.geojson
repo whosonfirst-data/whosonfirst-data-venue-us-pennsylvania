@@ -2,13 +2,14 @@
   "id": 387341545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.999207,40.437921,-79.999207,40.437921",
     "geom:latitude":40.437921,
     "geom:longitude":-79.999207,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"424 3rd Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85873585,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85873585
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"5e4260164eccab13df31592b273a6d63",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85873585,
             "region_id":85688481,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":387341545,
-    "wof:lastmodified":1449059751,
+    "wof:lastmodified":1454361180,
     "wof:name":"Project Bundle Up",
     "wof:parent_id":85873585,
     "wof:placetype":"venue",
@@ -72,6 +76,11 @@
         "hand"
     ]
 },
-  "bbox": [-79.999207,40.437921,-79.999207,40.437921],
+  "bbox": [
+    -79.999207,
+    40.437921,
+    -79.999207,
+    40.437921
+],
   "geometry": {"coordinates":[-79.999207,40.437921],"type":"Point"}
 }

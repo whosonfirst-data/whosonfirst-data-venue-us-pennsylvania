@@ -2,13 +2,14 @@
   "id": 404179165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.384588,40.665101,-75.384588,40.665101",
     "geom:latitude":40.665101,
     "geom:longitude":-75.384588,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3639 Bath Pike",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -55,8 +56,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081395,
-        85814279
+        85814279,
+        102081395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,17 +67,15 @@
     "wof:geomhash":"57295763720b48291f997525e8a771dc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081395,
-            "locality_id":-1,
             "neighbourhood_id":85814279,
             "region_id":85688481,
             "venue_id":404179165
         }
     ],
     "wof:id":404179165,
-    "wof:lastmodified":1449040209,
+    "wof:lastmodified":1454357064,
     "wof:name":"Allstate Insurance Company - William Dadio Jr., MBA",
     "wof:parent_id":85814279,
     "wof:placetype":"venue",
@@ -92,6 +91,11 @@
         "renter"
     ]
 },
-  "bbox": [-75.384588,40.665101,-75.384588,40.665101],
-  "geometry": {"coordinates":[-75.384588,40.665101],"type":"Point"}
+  "bbox": [
+    -75.384588,
+    40.665101,
+    -75.384588,
+    40.665101
+],
+  "geometry": {"coordinates":[-75.38458799999999,40.665101],"type":"Point"}
 }

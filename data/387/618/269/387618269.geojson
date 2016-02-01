@@ -2,13 +2,14 @@
   "id": 387618269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.509909,40.279528,-79.509909,40.279528",
     "geom:latitude":40.279528,
     "geom:longitude":-79.509909,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"218 Blackwood Dr",
     "sg:city":"Greensburg",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081383,
-        85851151
+        85851151,
+        102081383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"a327c9e24d9f042c29137d267858c5ee",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":-1,
             "neighbourhood_id":85851151,
             "region_id":85688481,
             "venue_id":387618269
         }
     ],
     "wof:id":387618269,
-    "wof:lastmodified":1449058475,
+    "wof:lastmodified":1454360793,
     "wof:name":"George A Smith",
     "wof:parent_id":85851151,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "bookkeeping"
     ]
 },
-  "bbox": [-79.509909,40.279528,-79.509909,40.279528],
-  "geometry": {"coordinates":[-79.509909,40.279528],"type":"Point"}
+  "bbox": [
+    -79.509909,
+    40.279528,
+    -79.509909,
+    40.279528
+],
+  "geometry": {"coordinates":[-79.50990899999999,40.279528],"type":"Point"}
 }

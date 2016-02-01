@@ -2,13 +2,14 @@
   "id": 387333465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.036697,40.398102,-80.036697,40.398102",
     "geom:latitude":40.398102,
     "geom:longitude":-80.036697,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1626 Potomac Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85804395,
+        102191575,
+        404482523,
         85633793,
+        101718805,
         102080887,
-        85804395
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,17 +41,18 @@
     "wof:geomhash":"4ef126818195489d0f648cfc49f1f52c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
+            "localadmin_id":404482523,
+            "locality_id":101718805,
             "neighbourhood_id":85804395,
             "region_id":85688481,
             "venue_id":387333465
         }
     ],
     "wof:id":387333465,
-    "wof:lastmodified":1449059655,
+    "wof:lastmodified":1454361146,
     "wof:name":"Love John E Physician",
     "wof:parent_id":85804395,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.036697,40.398102,-80.036697,40.398102],
+  "bbox": [
+    -80.036697,
+    40.398102,
+    -80.036697,
+    40.398102
+],
   "geometry": {"coordinates":[-80.036697,40.398102],"type":"Point"}
 }

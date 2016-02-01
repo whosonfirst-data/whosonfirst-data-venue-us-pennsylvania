@@ -2,13 +2,14 @@
   "id": 403906971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.779587,40.32655,-76.779587,40.32655",
     "geom:latitude":40.32655,
     "geom:longitude":-76.779587,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6345 Flank Dr Ste 1000",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     "sg:website":"http://www.allstate.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420537733,
+        102191575,
+        404486185,
         85633793,
-        101719819,
-        102081347
+        101719817,
+        102081347,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"cadb588cc97af5338aa2f7eeff953959",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":101719819,
-            "neighbourhood_id":-1,
+            "localadmin_id":404486185,
+            "locality_id":101719817,
+            "neighbourhood_id":420537733,
             "region_id":85688481,
             "venue_id":403906971
         }
     ],
     "wof:id":403906971,
-    "wof:lastmodified":1449055125,
+    "wof:lastmodified":1454357486,
     "wof:name":"Allstate Insurance",
-    "wof:parent_id":-1,
+    "wof:parent_id":420537733,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -63,6 +68,11 @@
         "business"
     ]
 },
-  "bbox": [-76.779587,40.32655,-76.779587,40.32655],
-  "geometry": {"coordinates":[-76.779587,40.32655],"type":"Point"}
+  "bbox": [
+    -76.779587,
+    40.32655,
+    -76.779587,
+    40.32655
+],
+  "geometry": {"coordinates":[-76.77958700000001,40.32655],"type":"Point"}
 }

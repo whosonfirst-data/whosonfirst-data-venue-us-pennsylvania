@@ -2,13 +2,14 @@
   "id": 387653619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.149551,40.642066,-79.149551,40.642066",
     "geom:latitude":40.642066,
     "geom:longitude":-79.149551,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"63 Cobblestone Dr",
     "sg:city":"Indiana",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081387,
-        85810803
+        85810803,
+        102081387
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"bfab9666e0c77d591eb4411424724f56",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081387,
-            "locality_id":-1,
             "neighbourhood_id":85810803,
             "region_id":85688481,
             "venue_id":387653619
         }
     ],
     "wof:id":387653619,
-    "wof:lastmodified":1449056386,
+    "wof:lastmodified":1454358300,
     "wof:name":"Green Valley Estates",
     "wof:parent_id":85810803,
     "wof:placetype":"venue",
@@ -64,6 +63,11 @@
         "vehicle"
     ]
 },
-  "bbox": [-79.149551,40.642066,-79.149551,40.642066],
+  "bbox": [
+    -79.149551,
+    40.642066,
+    -79.149551,
+    40.642066
+],
   "geometry": {"coordinates":[-79.149551,40.642066],"type":"Point"}
 }

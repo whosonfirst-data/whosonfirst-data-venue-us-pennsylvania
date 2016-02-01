@@ -2,13 +2,14 @@
   "id": 387325437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.951601,40.431493,-79.951601,40.431493",
     "geom:latitude":40.431493,
     "geom:longitude":-79.951601,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3721 Swinburne St",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85873595,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85873595
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"48e97931beb5183bcfc9b954f760f200",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85873595,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387325437,
-    "wof:lastmodified":1449057604,
+    "wof:lastmodified":1454360527,
     "wof:name":"Sestili Nursery Inc",
     "wof:parent_id":85873595,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.951601,40.431493,-79.951601,40.431493],
+  "bbox": [
+    -79.951601,
+    40.431493,
+    -79.951601,
+    40.431493
+],
   "geometry": {"coordinates":[-79.951601,40.431493],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387845249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.010296,42.110485,-80.010296,42.110485",
     "geom:latitude":42.110485,
     "geom:longitude":-80.010296,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2259 Brooksboro Dr",
     "sg:city":"Erie",
     "sg:classifiers":[
@@ -51,8 +52,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080955,
-        85827775
+        85827775,
+        102080955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,17 +63,15 @@
     "wof:geomhash":"309e7f79e01ce1b45716b0134d787049",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080955,
-            "locality_id":-1,
             "neighbourhood_id":85827775,
             "region_id":85688481,
             "venue_id":387845249
         }
     ],
     "wof:id":387845249,
-    "wof:lastmodified":1449056723,
+    "wof:lastmodified":1454358561,
     "wof:name":"Carlin Christopher S",
     "wof:parent_id":85827775,
     "wof:placetype":"venue",
@@ -93,6 +92,11 @@
         "contractors-commercial"
     ]
 },
-  "bbox": [-80.010296,42.110485,-80.010296,42.110485],
+  "bbox": [
+    -80.010296,
+    42.110485,
+    -80.010296,
+    42.110485
+],
   "geometry": {"coordinates":[-80.010296,42.110485],"type":"Point"}
 }

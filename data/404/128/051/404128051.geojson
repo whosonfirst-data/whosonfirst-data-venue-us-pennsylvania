@@ -2,13 +2,14 @@
   "id": 404128051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.606481,40.960327,-76.606481,40.960327",
     "geom:latitude":40.960327,
     "geom:longitude":-76.606481,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"518 Walnut St",
     "sg:city":"Danville",
     "sg:classifiers":[
@@ -51,8 +52,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080931,
-        85833629
+        85833629,
+        102080931
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,17 +63,15 @@
     "wof:geomhash":"adce88ed922c4921df191675c93cbb75",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080931,
-            "locality_id":-1,
             "neighbourhood_id":85833629,
             "region_id":85688481,
             "venue_id":404128051
         }
     ],
     "wof:id":404128051,
-    "wof:lastmodified":1449039498,
+    "wof:lastmodified":1454356681,
     "wof:name":"Curves",
     "wof:parent_id":85833629,
     "wof:placetype":"venue",
@@ -88,6 +87,11 @@
         "physical"
     ]
 },
-  "bbox": [-76.606481,40.960327,-76.606481,40.960327],
+  "bbox": [
+    -76.606481,
+    40.960327,
+    -76.606481,
+    40.960327
+],
   "geometry": {"coordinates":[-76.606481,40.960327],"type":"Point"}
 }

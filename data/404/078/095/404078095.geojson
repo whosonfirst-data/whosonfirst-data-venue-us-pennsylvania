@@ -2,13 +2,14 @@
   "id": 404078095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.294753,40.105522,-76.294753,40.105522",
     "geom:latitude":40.105522,
     "geom:longitude":-76.294753,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2869 Southwick Dr",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -34,8 +35,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85829687
+        85829687,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +46,15 @@
     "wof:geomhash":"0b24a1ebf215b1e2f4b9462858d7ed93",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85829687,
             "region_id":85688481,
             "venue_id":404078095
         }
     ],
     "wof:id":404078095,
-    "wof:lastmodified":1449040131,
+    "wof:lastmodified":1454357025,
     "wof:name":"Mid Atlantic Insurance Surveys",
     "wof:parent_id":85829687,
     "wof:placetype":"venue",
@@ -65,6 +64,11 @@
         "adjuster"
     ]
 },
-  "bbox": [-76.294753,40.105522,-76.294753,40.105522],
+  "bbox": [
+    -76.294753,
+    40.105522,
+    -76.294753,
+    40.105522
+],
   "geometry": {"coordinates":[-76.294753,40.105522],"type":"Point"}
 }

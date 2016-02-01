@@ -2,13 +2,14 @@
   "id": 387853847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.391417,40.500388,-78.391417,40.500388",
     "geom:latitude":40.500388,
     "geom:longitude":-78.391417,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1833 E Pleasant Valley Blvd",
     "sg:city":"Altoona",
     "sg:classifiers":[
@@ -34,7 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85842329,
+        102191575,
+        404484619,
         85633793,
+        101716595,
+        102081325,
         85688481
     ],
     "wof:breaches":[],
@@ -45,18 +51,20 @@
     "wof:geomhash":"f5e4e19820d75516cf5ec2d8e8f8b591",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081325,
+            "localadmin_id":404484619,
+            "locality_id":101716595,
+            "neighbourhood_id":85842329,
             "region_id":85688481,
             "venue_id":387853847
         }
     ],
     "wof:id":387853847,
-    "wof:lastmodified":1449057643,
+    "wof:lastmodified":1454360539,
     "wof:name":"Gts-Welco",
-    "wof:parent_id":-1,
+    "wof:parent_id":85842329,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -66,6 +74,11 @@
         "gas-industrial"
     ]
 },
-  "bbox": [-78.391417,40.500388,-78.391417,40.500388],
+  "bbox": [
+    -78.391417,
+    40.500388,
+    -78.391417,
+    40.500388
+],
   "geometry": {"coordinates":[-78.391417,40.500388],"type":"Point"}
 }

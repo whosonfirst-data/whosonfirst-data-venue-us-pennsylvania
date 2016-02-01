@@ -2,13 +2,14 @@
   "id": 387536541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.236256,40.172325,-80.236256,40.172325",
     "geom:latitude":40.172325,
     "geom:longitude":-80.236256,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"355 E Beau St",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -39,11 +40,13 @@
     "sg:website":"http://www.GordonPianoService.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85852963,
+        102191575,
+        404487917,
         85633793,
         101718569,
         102081343,
-        85852963
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,9 +56,10 @@
     "wof:geomhash":"ad928ec6cdb3d3f941a34d10bab984a6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081343,
+            "localadmin_id":404487917,
             "locality_id":101718569,
             "neighbourhood_id":85852963,
             "region_id":85688481,
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":387536541,
-    "wof:lastmodified":1449058374,
+    "wof:lastmodified":1454360762,
     "wof:name":"Gordon Piano Service",
     "wof:parent_id":85852963,
     "wof:placetype":"venue",
@@ -79,6 +83,11 @@
         "restoration"
     ]
 },
-  "bbox": [-80.236256,40.172325,-80.236256,40.172325],
+  "bbox": [
+    -80.236256,
+    40.172325,
+    -80.236256,
+    40.172325
+],
   "geometry": {"coordinates":[-80.236256,40.172325],"type":"Point"}
 }

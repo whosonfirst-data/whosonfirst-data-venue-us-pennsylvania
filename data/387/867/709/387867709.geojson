@@ -2,13 +2,14 @@
   "id": 387867709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.594547,41.970871,-78.594547,41.970871",
     "geom:latitude":41.970871,
     "geom:longitude":-78.594547,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"259 Derrick Rd",
     "sg:city":"Bradford",
     "sg:classifiers":[
@@ -32,8 +33,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080951,
-        85852805
+        85852805,
+        102080951
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +44,15 @@
     "wof:geomhash":"9aed3e43c00fd8adcfcee719820a498a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080951,
-            "locality_id":-1,
             "neighbourhood_id":85852805,
             "region_id":85688481,
             "venue_id":387867709
         }
     ],
     "wof:id":387867709,
-    "wof:lastmodified":1449057750,
+    "wof:lastmodified":1454360581,
     "wof:name":"Mike's Body Shop",
     "wof:parent_id":85852805,
     "wof:placetype":"venue",
@@ -66,6 +65,11 @@
         "repairing"
     ]
 },
-  "bbox": [-78.594547,41.970871,-78.594547,41.970871],
-  "geometry": {"coordinates":[-78.594547,41.970871],"type":"Point"}
+  "bbox": [
+    -78.594547,
+    41.970871,
+    -78.594547,
+    41.970871
+],
+  "geometry": {"coordinates":[-78.59454700000001,41.970871],"type":"Point"}
 }

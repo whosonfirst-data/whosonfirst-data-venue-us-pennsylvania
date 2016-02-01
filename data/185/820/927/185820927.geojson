@@ -2,13 +2,14 @@
   "id": 185820927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.000568,39.714251,-76.000568,39.714251",
     "geom:latitude":39.714251,
     "geom:longitude":-76.000568,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"325 Fell Rd",
     "sg:city":"Rising Sun",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081275,
-        85810983
+        85810983,
+        102081275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"6ab0a870b69e989282cc55fb3ca7890f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081275,
-            "locality_id":-1,
             "neighbourhood_id":85810983,
             "region_id":85688481,
             "venue_id":185820927
         }
     ],
     "wof:id":185820927,
-    "wof:lastmodified":1449007466,
+    "wof:lastmodified":1454356370,
     "wof:name":"Cecil Soil Magazine",
     "wof:parent_id":85810983,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "magazine"
     ]
 },
-  "bbox": [-76.000568,39.714251,-76.000568,39.714251],
+  "bbox": [
+    -76.000568,
+    39.714251,
+    -76.000568,
+    39.714251
+],
   "geometry": {"coordinates":[-76.000568,39.714251],"type":"Point"}
 }

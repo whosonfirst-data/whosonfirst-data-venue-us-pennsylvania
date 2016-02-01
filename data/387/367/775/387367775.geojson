@@ -2,13 +2,14 @@
   "id": 387367775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.986504,40.437698,-79.986504,40.437698",
     "geom:latitude":40.437698,
     "geom:longitude":-79.986504,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1401 Forbes Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85873593,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85873593
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"1b3e0c0bdf3a6d6dd87615b969c15810",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85873593,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387367775,
-    "wof:lastmodified":1449058356,
+    "wof:lastmodified":1454360753,
     "wof:name":"Boulevard Building Inc",
     "wof:parent_id":85873593,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.986504,40.437698,-79.986504,40.437698],
+  "bbox": [
+    -79.986504,
+    40.437698,
+    -79.986504,
+    40.437698
+],
   "geometry": {"coordinates":[-79.986504,40.437698],"type":"Point"}
 }

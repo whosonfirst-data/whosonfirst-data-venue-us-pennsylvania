@@ -2,13 +2,14 @@
   "id": 404062135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.398819,40.161541,-76.398819,40.161541",
     "geom:latitude":40.161541,
     "geom:longitude":-76.398819,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"213 W High St",
     "sg:city":"Manheim",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85836395
+        85836395,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"d5e13fdb42717fb7a35cc7737cb77713",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85836395,
             "region_id":85688481,
             "venue_id":404062135
         }
     ],
     "wof:id":404062135,
-    "wof:lastmodified":1449040255,
+    "wof:lastmodified":1454357093,
     "wof:name":"Lezzer Lumber Co",
     "wof:parent_id":85836395,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "lumber-used"
     ]
 },
-  "bbox": [-76.398819,40.161541,-76.398819,40.161541],
+  "bbox": [
+    -76.398819,
+    40.161541,
+    -76.398819,
+    40.161541
+],
   "geometry": {"coordinates":[-76.398819,40.161541],"type":"Point"}
 }

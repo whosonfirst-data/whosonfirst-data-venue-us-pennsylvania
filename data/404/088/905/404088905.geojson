@@ -2,13 +2,14 @@
   "id": 404088905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.30891,40.040096,-76.30891,40.040096",
     "geom:latitude":40.040096,
     "geom:longitude":-76.30891,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"132 N Water St",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85858805
+        85858805,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"61abcd95570797c583f94d4025682290",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85858805,
             "region_id":85688481,
             "venue_id":404088905
         }
     ],
     "wof:id":404088905,
-    "wof:lastmodified":1449040021,
+    "wof:lastmodified":1454356961,
     "wof:name":"Loyal Order of Moose Lodges",
     "wof:parent_id":85858805,
     "wof:placetype":"venue",
@@ -61,6 +60,11 @@
         "fraternal"
     ]
 },
-  "bbox": [-76.30891,40.040096,-76.30891,40.040096],
+  "bbox": [
+    -76.30891,
+    40.040096,
+    -76.30891,
+    40.040096
+],
   "geometry": {"coordinates":[-76.30891,40.040096],"type":"Point"}
 }

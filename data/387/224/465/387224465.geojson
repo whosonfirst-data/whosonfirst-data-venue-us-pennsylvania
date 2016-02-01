@@ -2,13 +2,14 @@
   "id": 387224465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.023365,40.332762,-80.023365,40.332762",
     "geom:latitude":40.332762,
     "geom:longitude":-80.023365,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5249 Library Rd",
     "sg:city":"Bethel Park",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85807579,
+        102191575,
+        404484853,
         85633793,
         101718799,
         102080887,
-        85807579
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"80ef4397a6aba9646a3b35e56dbf3122",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484853,
             "locality_id":101718799,
             "neighbourhood_id":85807579,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387224465,
-    "wof:lastmodified":1449058891,
+    "wof:lastmodified":1454360917,
     "wof:name":"Wine & Spirits Stores",
     "wof:parent_id":85807579,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "wine"
     ]
 },
-  "bbox": [-80.023365,40.332762,-80.023365,40.332762],
+  "bbox": [
+    -80.023365,
+    40.332762,
+    -80.023365,
+    40.332762
+],
   "geometry": {"coordinates":[-80.023365,40.332762],"type":"Point"}
 }

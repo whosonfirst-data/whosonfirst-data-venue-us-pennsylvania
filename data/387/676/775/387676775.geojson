@@ -2,13 +2,14 @@
   "id": 387676775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.910256,40.316642,-78.910256,40.316642",
     "geom:latitude":40.316642,
     "geom:longitude":-78.910256,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"220 Wood St",
     "sg:city":"Johnstown",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"http://www.numerouno.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85828219,
+        102191575,
+        404485493,
         85633793,
-        101717809,
+        101717777,
         102080879,
-        85828219
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"d3c8a9dab99189f79e041aab07562b13",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080879,
-            "locality_id":101717809,
+            "localadmin_id":404485493,
+            "locality_id":101717777,
             "neighbourhood_id":85828219,
             "region_id":85688481,
             "venue_id":387676775
         }
     ],
     "wof:id":387676775,
-    "wof:lastmodified":1449058551,
+    "wof:lastmodified":1454360810,
     "wof:name":"Numero Uno Pizza",
     "wof:parent_id":85828219,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "italian"
     ]
 },
-  "bbox": [-78.910256,40.316642,-78.910256,40.316642],
+  "bbox": [
+    -78.910256,
+    40.316642,
+    -78.910256,
+    40.316642
+],
   "geometry": {"coordinates":[-78.910256,40.316642],"type":"Point"}
 }

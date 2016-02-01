@@ -2,13 +2,14 @@
   "id": 403898161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.814058,40.272555,-76.814058,40.272555",
     "geom:latitude":40.272555,
     "geom:longitude":-76.814058,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"777 E Park Dr",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -33,8 +34,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85829485
+        85829485,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +45,15 @@
     "wof:geomhash":"74c9b6f72112e7e6845cf090ad1e1d64",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85829485,
             "region_id":85688481,
             "venue_id":403898161
         }
     ],
     "wof:id":403898161,
-    "wof:lastmodified":1449054602,
+    "wof:lastmodified":1454357164,
     "wof:name":"American College-Veterinary",
     "wof:parent_id":85829485,
     "wof:placetype":"venue",
@@ -68,6 +67,11 @@
         "pediatrics-radiology"
     ]
 },
-  "bbox": [-76.814058,40.272555,-76.814058,40.272555],
+  "bbox": [
+    -76.814058,
+    40.272555,
+    -76.814058,
+    40.272555
+],
   "geometry": {"coordinates":[-76.814058,40.272555],"type":"Point"}
 }

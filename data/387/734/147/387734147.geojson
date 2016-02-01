@@ -2,13 +2,14 @@
   "id": 387734147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.070801,40.685398,-80.070801,40.685398",
     "geom:latitude":40.685398,
     "geom:longitude":-80.070801,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1713 Route 228",
     "sg:city":"Cranberry Twp",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     "sg:website":"www.gamestop.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85824601,
+        102191575,
+        404485077,
         85633793,
         101720147,
         102083677,
-        85824601
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"f6afc9e538f62e59823a74115ff6dc9a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083677,
+            "localadmin_id":404485077,
             "locality_id":101720147,
             "neighbourhood_id":85824601,
             "region_id":85688481,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":387734147,
-    "wof:lastmodified":1449059438,
+    "wof:lastmodified":1454361081,
     "wof:name":"Gamestop",
     "wof:parent_id":85824601,
     "wof:placetype":"venue",
@@ -71,6 +75,11 @@
         "video"
     ]
 },
-  "bbox": [-80.070801,40.685398,-80.070801,40.685398],
+  "bbox": [
+    -80.070801,
+    40.685398,
+    -80.070801,
+    40.685398
+],
   "geometry": {"coordinates":[-80.070801,40.685398],"type":"Point"}
 }

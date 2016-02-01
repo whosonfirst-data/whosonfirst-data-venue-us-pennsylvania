@@ -2,13 +2,14 @@
   "id": 387249477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.239657,40.454635,-80.239657,40.454635",
     "geom:latitude":40.454635,
     "geom:longitude":-80.239657,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"271 Plum St",
     "sg:city":"Imperial",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85818161,
+        102191575,
+        404484901,
         85633793,
         101720525,
         102080887,
-        85818161
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"8455e29a43e9a7ce3c0bf67bce6131b7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484901,
             "locality_id":101720525,
             "neighbourhood_id":85818161,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387249477,
-    "wof:lastmodified":1449056309,
+    "wof:lastmodified":1454358247,
     "wof:name":"Ronald G Liebert Trenching An",
     "wof:parent_id":85818161,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "trenching"
     ]
 },
-  "bbox": [-80.239657,40.454635,-80.239657,40.454635],
-  "geometry": {"coordinates":[-80.239657,40.454635],"type":"Point"}
+  "bbox": [
+    -80.239657,
+    40.454635,
+    -80.239657,
+    40.454635
+],
+  "geometry": {"coordinates":[-80.23965699999999,40.454635],"type":"Point"}
 }

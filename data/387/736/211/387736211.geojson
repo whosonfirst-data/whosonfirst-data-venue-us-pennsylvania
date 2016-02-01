@@ -2,13 +2,14 @@
   "id": 387736211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.058342,40.709004,-80.058342,40.709004",
     "geom:latitude":40.709004,
     "geom:longitude":-80.058342,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"118 Mirage Dr",
     "sg:city":"Cranberry Twp",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85824601,
+        102191575,
+        404485077,
         85633793,
         101720147,
         102083677,
-        85824601
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"e13c9d13b426448d88e81a584d2dc78e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083677,
+            "localadmin_id":404485077,
             "locality_id":101720147,
             "neighbourhood_id":85824601,
             "region_id":85688481,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":387736211,
-    "wof:lastmodified":1449059879,
+    "wof:lastmodified":1454361220,
     "wof:name":"Pompa Merily & Daniel Dr",
     "wof:parent_id":85824601,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.058342,40.709004,-80.058342,40.709004],
+  "bbox": [
+    -80.058342,
+    40.709004,
+    -80.058342,
+    40.709004
+],
   "geometry": {"coordinates":[-80.058342,40.709004],"type":"Point"}
 }

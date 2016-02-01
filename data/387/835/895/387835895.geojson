@@ -2,13 +2,14 @@
   "id": 387835895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.128891,42.09145,-80.128891,42.09145",
     "geom:latitude":42.09145,
     "geom:longitude":-80.128891,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2525 W 26th St Suite 203",
     "sg:city":"Erie",
     "sg:classifiers":[
@@ -37,8 +38,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080955,
-        85810495
+        85810495,
+        102080955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +49,15 @@
     "wof:geomhash":"4fff2cae035bf75bc0c70fc9cb7e8781",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080955,
-            "locality_id":-1,
             "neighbourhood_id":85810495,
             "region_id":85688481,
             "venue_id":387835895
         }
     ],
     "wof:id":387835895,
-    "wof:lastmodified":1449056646,
+    "wof:lastmodified":1454358513,
     "wof:name":"Purchase Eric J",
     "wof:parent_id":85810495,
     "wof:placetype":"venue",
@@ -75,6 +74,11 @@
         "law"
     ]
 },
-  "bbox": [-80.128891,42.09145,-80.128891,42.09145],
+  "bbox": [
+    -80.128891,
+    42.09145,
+    -80.128891,
+    42.09145
+],
   "geometry": {"coordinates":[-80.128891,42.09145],"type":"Point"}
 }

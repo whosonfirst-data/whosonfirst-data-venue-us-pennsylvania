@@ -2,13 +2,14 @@
   "id": 404027315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.749297,39.965798,-76.749297,39.965798",
     "geom:latitude":39.965798,
     "geom:longitude":-76.749297,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"900 N Hartley St",
     "sg:city":"York",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85819331,
+        102191575,
+        404488029,
         85633793,
+        101717279,
         102080953,
-        85819331
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +46,18 @@
     "wof:geomhash":"3e3b84da7bbcb64812a38f751c0a00ca",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
+            "localadmin_id":404488029,
+            "locality_id":101717279,
             "neighbourhood_id":85819331,
             "region_id":85688481,
             "venue_id":404027315
         }
     ],
     "wof:id":404027315,
-    "wof:lastmodified":1449039264,
+    "wof:lastmodified":1454356543,
     "wof:name":"York Lintel & Cast Stone Inc",
     "wof:parent_id":85819331,
     "wof:placetype":"venue",
@@ -64,6 +69,11 @@
         "block"
     ]
 },
-  "bbox": [-76.749297,39.965798,-76.749297,39.965798],
+  "bbox": [
+    -76.749297,
+    39.965798,
+    -76.749297,
+    39.965798
+],
   "geometry": {"coordinates":[-76.749297,39.965798],"type":"Point"}
 }

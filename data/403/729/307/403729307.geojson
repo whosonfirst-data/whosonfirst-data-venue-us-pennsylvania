@@ -2,13 +2,14 @@
   "id": 403729307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.599642,40.589283,-77.599642,40.589283",
     "geom:latitude":40.589283,
     "geom:longitude":-77.599642,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1110 W 4th St",
     "sg:city":"Lewistown",
     "sg:classifiers":[
@@ -37,8 +38,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081333,
-        85835679
+        85835679,
+        102081333
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +49,15 @@
     "wof:geomhash":"1138557b3db87d1697ed629b527587f9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081333,
-            "locality_id":-1,
             "neighbourhood_id":85835679,
             "region_id":85688481,
             "venue_id":403729307
         }
     ],
     "wof:id":403729307,
-    "wof:lastmodified":1449055314,
+    "wof:lastmodified":1454357601,
     "wof:name":"Wall Paper Barn",
     "wof:parent_id":85835679,
     "wof:placetype":"venue",
@@ -71,6 +70,11 @@
         "wallcoverings"
     ]
 },
-  "bbox": [-77.599642,40.589283,-77.599642,40.589283],
+  "bbox": [
+    -77.599642,
+    40.589283,
+    -77.599642,
+    40.589283
+],
   "geometry": {"coordinates":[-77.599642,40.589283],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387897317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.431744,41.955791,-77.431744,41.955791",
     "geom:latitude":41.955791,
     "geom:longitude":-77.431744,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"113 N East St",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -31,10 +32,13 @@
     "sg:website":"http://www.searchmarketingservices.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420539793,
+        102191575,
+        404483891,
         85633793,
         101717069,
-        102080937
+        102080937,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +48,20 @@
     "wof:geomhash":"08ea1261d229b40077b2dd1e52c0795a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080937,
+            "localadmin_id":404483891,
             "locality_id":101717069,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420539793,
             "region_id":85688481,
             "venue_id":387897317
         }
     ],
     "wof:id":387897317,
-    "wof:lastmodified":1449059309,
+    "wof:lastmodified":1454361038,
     "wof:name":"Gary's Body Shop",
-    "wof:parent_id":-1,
+    "wof:parent_id":420539793,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -67,6 +72,11 @@
         "automobile"
     ]
 },
-  "bbox": [-77.431744,41.955791,-77.431744,41.955791],
-  "geometry": {"coordinates":[-77.431744,41.955791],"type":"Point"}
+  "bbox": [
+    -77.431744,
+    41.955791,
+    -77.431744,
+    41.955791
+],
+  "geometry": {"coordinates":[-77.43174399999999,41.955791],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387527479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.059905,40.343965,-80.059905,40.343965",
     "geom:latitude":40.343965,
     "geom:longitude":-80.059905,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1900 Washington Rd Ste 369",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     "sg:website":"www.christopherandbanks.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85805921,
+        102191575,
+        404484853,
         85633793,
         101718799,
         102080887,
-        85805921
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"5b19680c9c74e495f2b7ab7c7ac22b6c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484853,
             "locality_id":101718799,
             "neighbourhood_id":85805921,
             "region_id":85688481,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":387527479,
-    "wof:lastmodified":1449059128,
+    "wof:lastmodified":1454360993,
     "wof:name":"Christopher & Banks",
     "wof:parent_id":85805921,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "women's"
     ]
 },
-  "bbox": [-80.059905,40.343965,-80.059905,40.343965],
+  "bbox": [
+    -80.059905,
+    40.343965,
+    -80.059905,
+    40.343965
+],
   "geometry": {"coordinates":[-80.059905,40.343965],"type":"Point"}
 }

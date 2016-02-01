@@ -2,13 +2,14 @@
   "id": 387240693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.217537,40.50108,-80.217537,40.50108",
     "geom:latitude":40.50108,
     "geom:longitude":-80.217537,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"99 Soldiers Ln",
     "sg:city":"Coraopolis",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     "sg:website":"http://www.censop.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85809567,
+        102191575,
+        404484137,
         85633793,
         101720527,
         102080887,
-        85809567
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"4e1371846cfd04d6e61c065657c64aaa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484137,
             "locality_id":101720527,
             "neighbourhood_id":85809567,
             "region_id":85688481,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":387240693,
-    "wof:lastmodified":1449056504,
+    "wof:lastmodified":1454358400,
     "wof:name":"99 Rsc",
     "wof:parent_id":85809567,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "recruiting"
     ]
 },
-  "bbox": [-80.217537,40.50108,-80.217537,40.50108],
-  "geometry": {"coordinates":[-80.217537,40.50108],"type":"Point"}
+  "bbox": [
+    -80.217537,
+    40.50108,
+    -80.217537,
+    40.50108
+],
+  "geometry": {"coordinates":[-80.21753699999999,40.50108],"type":"Point"}
 }

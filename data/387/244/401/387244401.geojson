@@ -2,13 +2,14 @@
   "id": 387244401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.221173,40.517088,-80.221173,40.517088",
     "geom:latitude":40.517088,
     "geom:longitude":-80.221173,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6906 University Blvd",
     "sg:city":"Coraopolis",
     "sg:classifiers":[
@@ -89,11 +90,13 @@
     "sg:website":"http://www.walgreens.com/default.jsp?ec=iyp_yellowpages_trademark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85809567,
+        102191575,
+        404484137,
         85633793,
         101720527,
         102080887,
-        85809567
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -103,9 +106,10 @@
     "wof:geomhash":"80df61a73105a526b9b0efbec4329db8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484137,
             "locality_id":101720527,
             "neighbourhood_id":85809567,
             "region_id":85688481,
@@ -113,7 +117,7 @@
         }
     ],
     "wof:id":387244401,
-    "wof:lastmodified":1449057623,
+    "wof:lastmodified":1454360534,
     "wof:name":"Walgreens Pharmacies",
     "wof:parent_id":85809567,
     "wof:placetype":"venue",
@@ -134,6 +138,11 @@
         "consumer"
     ]
 },
-  "bbox": [-80.221173,40.517088,-80.221173,40.517088],
-  "geometry": {"coordinates":[-80.221173,40.517088],"type":"Point"}
+  "bbox": [
+    -80.221173,
+    40.517088,
+    -80.221173,
+    40.517088
+],
+  "geometry": {"coordinates":[-80.22117299999999,40.517088],"type":"Point"}
 }

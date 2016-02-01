@@ -2,13 +2,14 @@
   "id": 387639593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.647949,40.338881,-79.647949,40.338881",
     "geom:latitude":40.338881,
     "geom:longitude":-79.647949,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"427 Richmond Dr",
     "sg:city":"Jeannette",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081383,
-        85833221
+        85833221,
+        102081383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"2a0545b1a2895e54297bd65cd59f061c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":-1,
             "neighbourhood_id":85833221,
             "region_id":85688481,
             "venue_id":387639593
         }
     ],
     "wof:id":387639593,
-    "wof:lastmodified":1449059904,
+    "wof:lastmodified":1454361227,
     "wof:name":"Hutchinson Computers",
     "wof:parent_id":85833221,
     "wof:placetype":"venue",
@@ -63,6 +62,11 @@
         "equipment-service"
     ]
 },
-  "bbox": [-79.647949,40.338881,-79.647949,40.338881],
+  "bbox": [
+    -79.647949,
+    40.338881,
+    -79.647949,
+    40.338881
+],
   "geometry": {"coordinates":[-79.647949,40.338881],"type":"Point"}
 }

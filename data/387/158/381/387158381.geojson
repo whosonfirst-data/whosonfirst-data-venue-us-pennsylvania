@@ -2,13 +2,14 @@
   "id": 387158381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.205951,40.558904,-80.205951,40.558904",
     "geom:latitude":40.558904,
     "geom:longitude":-80.205951,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3 Avenue A Bldg 3",
     "sg:city":"Leetsdale",
     "sg:classifiers":[
@@ -49,11 +50,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85848361,
+        102191575,
+        404484893,
         85633793,
-        101718661,
+        101718695,
         102080887,
-        85848361
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,17 +66,18 @@
     "wof:geomhash":"1bf93cbf2630d05ad51ab5f116a8bb80",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":101718661,
+            "localadmin_id":404484893,
+            "locality_id":101718695,
             "neighbourhood_id":85848361,
             "region_id":85688481,
             "venue_id":387158381
         }
     ],
     "wof:id":387158381,
-    "wof:lastmodified":1449058645,
+    "wof:lastmodified":1454360839,
     "wof:name":"Allegheny Plastics, Inc.",
     "wof:parent_id":85848361,
     "wof:placetype":"venue",
@@ -95,6 +99,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-80.205951,40.558904,-80.205951,40.558904],
+  "bbox": [
+    -80.205951,
+    40.558904,
+    -80.205951,
+    40.558904
+],
   "geometry": {"coordinates":[-80.205951,40.558904],"type":"Point"}
 }

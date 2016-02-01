@@ -2,13 +2,14 @@
   "id": 404065637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.353684,40.012563,-76.353684,40.012563",
     "geom:latitude":40.012563,
     "geom:longitude":-76.353684,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"515D Leaman Ave",
     "sg:city":"Millersville",
     "sg:classifiers":[
@@ -49,8 +50,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85856227
+        85856227,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,17 +61,15 @@
     "wof:geomhash":"e94e2f1c064813de7c429ddaa3e47fb7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85856227,
             "region_id":85688481,
             "venue_id":404065637
         }
     ],
     "wof:id":404065637,
-    "wof:lastmodified":1449040319,
+    "wof:lastmodified":1454357131,
     "wof:name":"Allstate Insurance Company - Robert Heinsinger",
     "wof:parent_id":85856227,
     "wof:placetype":"venue",
@@ -85,6 +84,11 @@
         "renter"
     ]
 },
-  "bbox": [-76.353684,40.012563,-76.353684,40.012563],
+  "bbox": [
+    -76.353684,
+    40.012563,
+    -76.353684,
+    40.012563
+],
   "geometry": {"coordinates":[-76.353684,40.012563],"type":"Point"}
 }

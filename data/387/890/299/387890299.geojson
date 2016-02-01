@@ -2,13 +2,14 @@
   "id": 387890299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.238183,40.998131,-78.238183,40.998131",
     "geom:latitude":40.998131,
     "geom:longitude":-78.238183,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"172 Avie Ln",
     "sg:city":"Morrisdale",
     "sg:classifiers":[
@@ -32,7 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420537515,
+        102191575,
+        404487035,
         85633793,
+        101719609,
+        102080967,
         85688481
     ],
     "wof:breaches":[],
@@ -43,18 +49,20 @@
     "wof:geomhash":"8725355e3d239117319c1e610a4b9a79",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102080967,
+            "localadmin_id":404487035,
+            "locality_id":101719609,
+            "neighbourhood_id":420537515,
             "region_id":85688481,
             "venue_id":387890299
         }
     ],
     "wof:id":387890299,
-    "wof:lastmodified":1449056933,
+    "wof:lastmodified":1454358717,
     "wof:name":"Dwight D English",
-    "wof:parent_id":-1,
+    "wof:parent_id":420537515,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +70,11 @@
         "hay"
     ]
 },
-  "bbox": [-78.238183,40.998131,-78.238183,40.998131],
-  "geometry": {"coordinates":[-78.238183,40.998131],"type":"Point"}
+  "bbox": [
+    -78.238183,
+    40.998131,
+    -78.238183,
+    40.998131
+],
+  "geometry": {"coordinates":[-78.23818300000001,40.998131],"type":"Point"}
 }

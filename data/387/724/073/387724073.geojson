@@ -2,13 +2,14 @@
   "id": 387724073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.839411,40.760529,-79.839411,40.760529",
     "geom:latitude":40.760529,
     "geom:longitude":-79.839411,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"207 Ohara Rd",
     "sg:city":"Saxonburg",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102083677,
-        85845445
+        85845445,
+        102083677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"8320fc8bc12b347af302bfe3d7fa71a0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102083677,
-            "locality_id":-1,
             "neighbourhood_id":85845445,
             "region_id":85688481,
             "venue_id":387724073
         }
     ],
     "wof:id":387724073,
-    "wof:lastmodified":1449059839,
+    "wof:lastmodified":1454361207,
     "wof:name":"Saxonburg Farm Supplies",
     "wof:parent_id":85845445,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "equipment"
     ]
 },
-  "bbox": [-79.839411,40.760529,-79.839411,40.760529],
+  "bbox": [
+    -79.839411,
+    40.760529,
+    -79.839411,
+    40.760529
+],
   "geometry": {"coordinates":[-79.839411,40.760529],"type":"Point"}
 }

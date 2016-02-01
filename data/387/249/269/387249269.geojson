@@ -2,13 +2,14 @@
   "id": 387249269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.90813,40.384838,-79.90813,40.384838",
     "geom:latitude":40.384838,
     "geom:longitude":-79.90813,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3610 Forest Ave",
     "sg:city":"Homestead",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     "sg:website":"http://www.fscorp.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85830645,
+        102191575,
+        404482523,
         85633793,
-        101718717,
+        101718805,
         102080887,
-        85830645
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +47,18 @@
     "wof:geomhash":"64c07812aadc8fc7720b71a2b788d68d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":101718717,
+            "localadmin_id":404482523,
+            "locality_id":101718805,
             "neighbourhood_id":85830645,
             "region_id":85688481,
             "venue_id":387249269
         }
     ],
     "wof:id":387249269,
-    "wof:lastmodified":1449056310,
+    "wof:lastmodified":1454358249,
     "wof:name":"Advantage Capital Corporation",
     "wof:parent_id":85830645,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "mutual"
     ]
 },
-  "bbox": [-79.90813,40.384838,-79.90813,40.384838],
+  "bbox": [
+    -79.90813,
+    40.384838,
+    -79.90813,
+    40.384838
+],
   "geometry": {"coordinates":[-79.90813,40.384838],"type":"Point"}
 }

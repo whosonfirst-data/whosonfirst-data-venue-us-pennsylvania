@@ -2,13 +2,14 @@
   "id": 387650389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.58492,40.104192,-79.58492,40.104192",
     "geom:latitude":40.104192,
     "geom:longitude":-79.58492,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"18 Mount Pleasant Rd",
     "sg:city":"Scottdale",
     "sg:classifiers":[
@@ -43,11 +44,13 @@
     "sg:website":"http://www.marwas.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85828483,
+        102191575,
+        404484117,
         85633793,
         101717129,
         102081383,
-        85828483
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,9 +60,10 @@
     "wof:geomhash":"940bd11e0f1b98bdd8c9b5ef7535890e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081383,
+            "localadmin_id":404484117,
             "locality_id":101717129,
             "neighbourhood_id":85828483,
             "region_id":85688481,
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":387650389,
-    "wof:lastmodified":1449058426,
+    "wof:lastmodified":1454360779,
     "wof:name":"Fayette Steel Division",
     "wof:parent_id":85828483,
     "wof:placetype":"venue",
@@ -82,6 +86,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-79.58492,40.104192,-79.58492,40.104192],
+  "bbox": [
+    -79.58492,
+    40.104192,
+    -79.58492,
+    40.104192
+],
   "geometry": {"coordinates":[-79.58492,40.104192],"type":"Point"}
 }

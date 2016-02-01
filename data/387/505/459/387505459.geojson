@@ -2,13 +2,14 @@
   "id": 387505459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.036797,40.572201,-80.036797,40.572201",
     "geom:latitude":40.572201,
     "geom:longitude":-80.036797,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"8960 Perry Hwy",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85820441
+        85820441,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"f2c22d15dce7ecd7daa26da9949f2bc2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85820441,
             "region_id":85688481,
             "venue_id":387505459
         }
     ],
     "wof:id":387505459,
-    "wof:lastmodified":1449059300,
+    "wof:lastmodified":1454361035,
     "wof:name":"Northland Motors",
     "wof:parent_id":85820441,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "car"
     ]
 },
-  "bbox": [-80.036797,40.572201,-80.036797,40.572201],
-  "geometry": {"coordinates":[-80.036797,40.572201],"type":"Point"}
+  "bbox": [
+    -80.036797,
+    40.572201,
+    -80.036797,
+    40.572201
+],
+  "geometry": {"coordinates":[-80.03679700000001,40.572201],"type":"Point"}
 }

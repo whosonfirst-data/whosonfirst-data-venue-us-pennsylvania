@@ -2,13 +2,14 @@
   "id": 387635335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.678871,40.3018,-79.678871,40.3018",
     "geom:latitude":40.3018,
     "geom:longitude":-79.678871,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6 W Hempfield Dr",
     "sg:city":"Irwin",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081383,
-        85841171
+        85841171,
+        102081383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"74a70871d77dfbd3331a59b5869fdaae",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":-1,
             "neighbourhood_id":85841171,
             "region_id":85688481,
             "venue_id":387635335
         }
     ],
     "wof:id":387635335,
-    "wof:lastmodified":1449057757,
+    "wof:lastmodified":1454360583,
     "wof:name":"Sylvios Pizza",
     "wof:parent_id":85841171,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "pizza"
     ]
 },
-  "bbox": [-79.678871,40.3018,-79.678871,40.3018],
+  "bbox": [
+    -79.678871,
+    40.3018,
+    -79.678871,
+    40.3018
+],
   "geometry": {"coordinates":[-79.678871,40.3018],"type":"Point"}
 }

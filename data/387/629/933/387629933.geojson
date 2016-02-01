@@ -2,13 +2,14 @@
   "id": 387629933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.58407,40.407777,-79.58407,40.407777",
     "geom:latitude":40.407777,
     "geom:longitude":-79.58407,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"113 Surrey Dr",
     "sg:city":"Delmont",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420540199,
+        102191575,
+        404487539,
         85633793,
         101717149,
-        102081383
+        102081383,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"9d5cc2ebd1a06b3d4299d99dc42eae31",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081383,
+            "localadmin_id":404487539,
             "locality_id":101717149,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420540199,
             "region_id":85688481,
             "venue_id":387629933
         }
     ],
     "wof:id":387629933,
-    "wof:lastmodified":1449059016,
+    "wof:lastmodified":1454360959,
     "wof:name":"J E Dodds",
-    "wof:parent_id":-1,
+    "wof:parent_id":420540199,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "preparation-business"
     ]
 },
-  "bbox": [-79.58407,40.407777,-79.58407,40.407777],
+  "bbox": [
+    -79.58407,
+    40.407777,
+    -79.58407,
+    40.407777
+],
   "geometry": {"coordinates":[-79.58407,40.407777],"type":"Point"}
 }

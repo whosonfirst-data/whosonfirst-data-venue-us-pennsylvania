@@ -2,13 +2,14 @@
   "id": 387435485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.009003,40.384399,-80.009003,40.384399",
     "geom:latitude":40.384399,
     "geom:longitude":-80.009003,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1913 Creedmoor Pl",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85839961,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85839961
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"90cedebbe809690a25f46ebc6d4c8786",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85839961,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387435485,
-    "wof:lastmodified":1449059562,
+    "wof:lastmodified":1454361121,
     "wof:name":"Pat's Lock Shop",
     "wof:parent_id":85839961,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "key"
     ]
 },
-  "bbox": [-80.009003,40.384399,-80.009003,40.384399],
-  "geometry": {"coordinates":[-80.009003,40.384399],"type":"Point"}
+  "bbox": [
+    -80.009003,
+    40.384399,
+    -80.009003,
+    40.384399
+],
+  "geometry": {"coordinates":[-80.00900300000001,40.384399],"type":"Point"}
 }

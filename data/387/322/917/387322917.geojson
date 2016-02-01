@@ -2,13 +2,14 @@
   "id": 387322917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.991263,40.460013,-79.991263,40.460013",
     "geom:latitude":40.460013,
     "geom:longitude":-79.991263,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1207 Spring Garden Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     "sg:website":"www.pittsburghdelivers.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85852705,
+        102191575,
+        404482523,
         85633793,
+        101718805,
         102080887,
-        85852705
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +46,18 @@
     "wof:geomhash":"58d52ee7e8ac928ff26fb2793604addd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
+            "localadmin_id":404482523,
+            "locality_id":101718805,
             "neighbourhood_id":85852705,
             "region_id":85688481,
             "venue_id":387322917
         }
     ],
     "wof:id":387322917,
-    "wof:lastmodified":1449056074,
+    "wof:lastmodified":1454358066,
     "wof:name":"Pittsburgh Delivers",
     "wof:parent_id":85852705,
     "wof:placetype":"venue",
@@ -63,6 +68,11 @@
         "delivery"
     ]
 },
-  "bbox": [-79.991263,40.460013,-79.991263,40.460013],
+  "bbox": [
+    -79.991263,
+    40.460013,
+    -79.991263,
+    40.460013
+],
   "geometry": {"coordinates":[-79.991263,40.460013],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404007427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.582038,39.929894,-76.582038,39.929894",
     "geom:latitude":39.929894,
     "geom:longitude":-76.582038,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"770 White Oak Rd",
     "sg:city":"Windsor",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080953,
-        85826069
+        85826069,
+        102080953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"c7db0cbc16f8ca9184476efe04b39793",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
             "neighbourhood_id":85826069,
             "region_id":85688481,
             "venue_id":404007427
         }
     ],
     "wof:id":404007427,
-    "wof:lastmodified":1449040100,
+    "wof:lastmodified":1454357006,
     "wof:name":"D&J Distributors",
     "wof:parent_id":85826069,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "goods-wholesale"
     ]
 },
-  "bbox": [-76.582038,39.929894,-76.582038,39.929894],
+  "bbox": [
+    -76.582038,
+    39.929894,
+    -76.582038,
+    39.929894
+],
   "geometry": {"coordinates":[-76.582038,39.929894],"type":"Point"}
 }

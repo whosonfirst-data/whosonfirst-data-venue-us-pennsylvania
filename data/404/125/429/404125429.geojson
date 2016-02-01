@@ -2,13 +2,14 @@
   "id": 404125429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.60097,40.964109,-76.60097,40.964109",
     "geom:latitude":40.964109,
     "geom:longitude":-76.60097,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"8 S Huntington Ave Ste B",
     "sg:city":"Danville",
     "sg:classifiers":[
@@ -34,8 +35,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080931,
-        85833629
+        85833629,
+        102080931
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +46,15 @@
     "wof:geomhash":"ddfd3e3c5e7ac69bcc884e424a3783d9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080931,
-            "locality_id":-1,
             "neighbourhood_id":85833629,
             "region_id":85688481,
             "venue_id":404125429
         }
     ],
     "wof:id":404125429,
-    "wof:lastmodified":1449040287,
+    "wof:lastmodified":1454357111,
     "wof:name":"Hollywood Clinic",
     "wof:parent_id":85833629,
     "wof:placetype":"venue",
@@ -65,6 +64,11 @@
         "medical"
     ]
 },
-  "bbox": [-76.60097,40.964109,-76.60097,40.964109],
+  "bbox": [
+    -76.60097,
+    40.964109,
+    -76.60097,
+    40.964109
+],
   "geometry": {"coordinates":[-76.60097,40.964109],"type":"Point"}
 }

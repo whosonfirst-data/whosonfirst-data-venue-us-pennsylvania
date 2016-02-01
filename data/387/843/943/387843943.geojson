@@ -2,13 +2,14 @@
   "id": 387843943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.923393,42.14109,-79.923393,42.14109",
     "geom:latitude":42.14109,
     "geom:longitude":-79.923393,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4050 Depot Rd",
     "sg:city":"Erie",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080955,
-        85827775
+        85827775,
+        102080955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"dc690c3e94735af57369220df3e958e5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080955,
-            "locality_id":-1,
             "neighbourhood_id":85827775,
             "region_id":85688481,
             "venue_id":387843943
         }
     ],
     "wof:id":387843943,
-    "wof:lastmodified":1449056444,
+    "wof:lastmodified":1454358356,
     "wof:name":"Harry E Burroughs",
     "wof:parent_id":85827775,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "church"
     ]
 },
-  "bbox": [-79.923393,42.14109,-79.923393,42.14109],
+  "bbox": [
+    -79.923393,
+    42.14109,
+    -79.923393,
+    42.14109
+],
   "geometry": {"coordinates":[-79.923393,42.14109],"type":"Point"}
 }

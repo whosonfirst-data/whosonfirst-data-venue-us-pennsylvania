@@ -2,13 +2,14 @@
   "id": 404093269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.317019,40.036391,-76.317019,40.036391",
     "geom:latitude":40.036391,
     "geom:longitude":-76.317019,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"108 Crystal St",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85858805
+        85858805,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"5c2bd9239adb494583279016292673e8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85858805,
             "region_id":85688481,
             "venue_id":404093269
         }
     ],
     "wof:id":404093269,
-    "wof:lastmodified":1449039083,
+    "wof:lastmodified":1454356413,
     "wof:name":"Crystal Building",
     "wof:parent_id":85858805,
     "wof:placetype":"venue",
@@ -64,6 +63,11 @@
         "rental"
     ]
 },
-  "bbox": [-76.317019,40.036391,-76.317019,40.036391],
+  "bbox": [
+    -76.317019,
+    40.036391,
+    -76.317019,
+    40.036391
+],
   "geometry": {"coordinates":[-76.317019,40.036391],"type":"Point"}
 }

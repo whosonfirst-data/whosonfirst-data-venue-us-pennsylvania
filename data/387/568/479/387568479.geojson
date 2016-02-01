@@ -2,13 +2,14 @@
   "id": 387568479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.128899,40.266399,-80.128899,40.266399",
     "geom:latitude":40.266399,
     "geom:longitude":-80.128899,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4049 Washington Rd",
     "sg:city":"Canonsburg",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081343,
-        85814861
+        85814861,
+        102081343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"0d97a92ce01862303ad089f3dc9ce436",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081343,
-            "locality_id":-1,
             "neighbourhood_id":85814861,
             "region_id":85688481,
             "venue_id":387568479
         }
     ],
     "wof:id":387568479,
-    "wof:lastmodified":1449056026,
+    "wof:lastmodified":1454358021,
     "wof:name":"Labels",
     "wof:parent_id":85814861,
     "wof:placetype":"venue",
@@ -64,6 +63,11 @@
         "women's"
     ]
 },
-  "bbox": [-80.128899,40.266399,-80.128899,40.266399],
+  "bbox": [
+    -80.128899,
+    40.266399,
+    -80.128899,
+    40.266399
+],
   "geometry": {"coordinates":[-80.128899,40.266399],"type":"Point"}
 }

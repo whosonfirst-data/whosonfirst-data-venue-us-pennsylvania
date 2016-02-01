@@ -2,13 +2,14 @@
   "id": 404087977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.305371,40.047083,-76.305371,40.047083",
     "geom:latitude":40.047083,
     "geom:longitude":-76.305371,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"555 N Duke St",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     "sg:website":"http://www.cardiacsurgeons.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85846173,
+        102191575,
+        404487183,
         85633793,
         101718643,
         102081377,
-        85846173
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"ba68b3fd919d87f182d22ea1195607e1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081377,
+            "localadmin_id":404487183,
             "locality_id":101718643,
             "neighbourhood_id":85846173,
             "region_id":85688481,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":404087977,
-    "wof:lastmodified":1449039570,
+    "wof:lastmodified":1454356719,
     "wof:name":"Cardiovascular Thoracic Surgeons of Lancaster PC",
     "wof:parent_id":85846173,
     "wof:placetype":"venue",
@@ -74,6 +78,11 @@
         "cardiovascular"
     ]
 },
-  "bbox": [-76.305371,40.047083,-76.305371,40.047083],
-  "geometry": {"coordinates":[-76.305371,40.047083],"type":"Point"}
+  "bbox": [
+    -76.305371,
+    40.047083,
+    -76.305371,
+    40.047083
+],
+  "geometry": {"coordinates":[-76.30537099999999,40.047083],"type":"Point"}
 }

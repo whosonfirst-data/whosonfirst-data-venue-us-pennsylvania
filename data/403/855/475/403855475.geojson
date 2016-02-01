@@ -2,13 +2,14 @@
   "id": 403855475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.852256,40.278798,-76.852256,40.278798",
     "geom:latitude":40.278798,
     "geom:longitude":-76.852256,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2419 Canby St Apt 2",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85817391
+        85817391,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"2c574446f0f7a2ba59cdafa2809cb6ae",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85817391,
             "region_id":85688481,
             "venue_id":403855475
         }
     ],
     "wof:id":403855475,
-    "wof:lastmodified":1449055594,
+    "wof:lastmodified":1454357767,
     "wof:name":"Independent Staffing Agency Inc.",
     "wof:parent_id":85817391,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "business"
     ]
 },
-  "bbox": [-76.852256,40.278798,-76.852256,40.278798],
+  "bbox": [
+    -76.852256,
+    40.278798,
+    -76.852256,
+    40.278798
+],
   "geometry": {"coordinates":[-76.852256,40.278798],"type":"Point"}
 }

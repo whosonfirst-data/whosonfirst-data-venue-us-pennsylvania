@@ -2,13 +2,14 @@
   "id": 387537889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.173711,40.068604,-80.173711,40.068604",
     "geom:latitude":40.068604,
     "geom:longitude":-80.173711,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"785 Baker Hill Rd",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -44,8 +45,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081343,
-        85831279
+        85831279,
+        102081343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,17 +56,15 @@
     "wof:geomhash":"d82923608be635d94d5597d9eda67e5d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081343,
-            "locality_id":-1,
             "neighbourhood_id":85831279,
             "region_id":85688481,
             "venue_id":387537889
         }
     ],
     "wof:id":387537889,
-    "wof:lastmodified":1449057035,
+    "wof:lastmodified":1454358790,
     "wof:name":"Briggs Tire Service",
     "wof:parent_id":85831279,
     "wof:placetype":"venue",
@@ -79,6 +78,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-80.173711,40.068604,-80.173711,40.068604],
+  "bbox": [
+    -80.173711,
+    40.068604,
+    -80.173711,
+    40.068604
+],
   "geometry": {"coordinates":[-80.173711,40.068604],"type":"Point"}
 }

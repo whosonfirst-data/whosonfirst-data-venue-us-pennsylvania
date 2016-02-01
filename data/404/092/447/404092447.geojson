@@ -2,13 +2,14 @@
   "id": 404092447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.317036,40.036291,-76.317036,40.036291",
     "geom:latitude":40.036291,
     "geom:longitude":-76.317036,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"116 Crystal St",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -32,8 +33,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85858805
+        85858805,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +44,15 @@
     "wof:geomhash":"5ce0f1e24929b879bbac889bacc78418",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85858805,
             "region_id":85688481,
             "venue_id":404092447
         }
     ],
     "wof:id":404092447,
-    "wof:lastmodified":1449040072,
+    "wof:lastmodified":1454356991,
     "wof:name":"Klines Industrial & Environment",
     "wof:parent_id":85858805,
     "wof:placetype":"venue",
@@ -66,6 +65,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-76.317036,40.036291,-76.317036,40.036291],
+  "bbox": [
+    -76.317036,
+    40.036291,
+    -76.317036,
+    40.036291
+],
   "geometry": {"coordinates":[-76.317036,40.036291],"type":"Point"}
 }

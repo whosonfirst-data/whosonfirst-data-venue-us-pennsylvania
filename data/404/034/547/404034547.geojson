@@ -2,13 +2,14 @@
   "id": 404034547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.789239,39.901602,-76.789239,39.901602",
     "geom:latitude":39.901602,
     "geom:longitude":-76.789239,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"12 S Main St",
     "sg:city":"York",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080953,
-        85807591
+        85807591,
+        102080953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"56dde977264f5f683bce8f3ad94a6a59",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
             "neighbourhood_id":85807591,
             "region_id":85688481,
             "venue_id":404034547
         }
     ],
     "wof:id":404034547,
-    "wof:lastmodified":1449039152,
+    "wof:lastmodified":1454356478,
     "wof:name":"Bob's Sewer Vacuum",
     "wof:parent_id":85807591,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "machines-service"
     ]
 },
-  "bbox": [-76.789239,39.901602,-76.789239,39.901602],
-  "geometry": {"coordinates":[-76.789239,39.901602],"type":"Point"}
+  "bbox": [
+    -76.789239,
+    39.901602,
+    -76.789239,
+    39.901602
+],
+  "geometry": {"coordinates":[-76.78923899999999,39.901602],"type":"Point"}
 }

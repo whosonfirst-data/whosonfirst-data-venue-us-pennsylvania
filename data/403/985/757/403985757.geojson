@@ -2,13 +2,14 @@
   "id": 403985757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.240439,39.83266,-77.240439,39.83266",
     "geom:latitude":39.83266,
     "geom:longitude":-77.240439,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"228 Buford Ave",
     "sg:city":"Gettysburg",
     "sg:classifiers":[
@@ -39,8 +40,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080899,
-        85804527
+        85804527,
+        102080899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,17 +51,15 @@
     "wof:geomhash":"dcde2fba57ad4848c1ae64940f91b8f9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080899,
-            "locality_id":-1,
             "neighbourhood_id":85804527,
             "region_id":85688481,
             "venue_id":403985757
         }
     ],
     "wof:id":403985757,
-    "wof:lastmodified":1449055296,
+    "wof:lastmodified":1454357587,
     "wof:name":"Gettyburg Oral Surgery",
     "wof:parent_id":85804527,
     "wof:placetype":"venue",
@@ -75,6 +74,11 @@
         "oral"
     ]
 },
-  "bbox": [-77.240439,39.83266,-77.240439,39.83266],
-  "geometry": {"coordinates":[-77.240439,39.83266],"type":"Point"}
+  "bbox": [
+    -77.240439,
+    39.83266,
+    -77.240439,
+    39.83266
+],
+  "geometry": {"coordinates":[-77.24043899999999,39.83266],"type":"Point"}
 }

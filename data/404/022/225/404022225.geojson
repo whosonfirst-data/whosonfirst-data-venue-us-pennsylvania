@@ -2,13 +2,14 @@
   "id": 404022225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.704525,39.910093,-76.704525,39.910093",
     "geom:latitude":39.910093,
     "geom:longitude":-76.704525,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"154 Leaders Heights Rd",
     "sg:city":"York",
     "sg:classifiers":[
@@ -50,7 +51,12 @@
     "sg:website":"http://www.pensketruckrental.com/personal_rental/?cid=Yptmlist",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420540339,
+        102191575,
+        404488031,
         85633793,
+        101719457,
+        102080953,
         85688481
     ],
     "wof:breaches":[],
@@ -61,18 +67,20 @@
     "wof:geomhash":"6928e6d1fc19bb2bcdfa992a8db048f3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102080953,
+            "localadmin_id":404488031,
+            "locality_id":101719457,
+            "neighbourhood_id":420540339,
             "region_id":85688481,
             "venue_id":404022225
         }
     ],
     "wof:id":404022225,
-    "wof:lastmodified":1449039415,
+    "wof:lastmodified":1454356634,
     "wof:name":"Penske Truck Rental",
-    "wof:parent_id":-1,
+    "wof:parent_id":420540339,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -87,6 +95,11 @@
         "trailer"
     ]
 },
-  "bbox": [-76.704525,39.910093,-76.704525,39.910093],
+  "bbox": [
+    -76.704525,
+    39.910093,
+    -76.704525,
+    39.910093
+],
   "geometry": {"coordinates":[-76.704525,39.910093],"type":"Point"}
 }

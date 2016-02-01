@@ -2,13 +2,14 @@
   "id": 387848795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.407067,40.45834,-78.407067,40.45834",
     "geom:latitude":40.45834,
     "geom:longitude":-78.407067,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"417 Parkview Ln",
     "sg:city":"Altoona",
     "sg:classifiers":[
@@ -47,10 +48,13 @@
     "sg:website":"http://www.jethros4u.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85849795,
+        102191575,
+        404484717,
         85633793,
+        101718879,
         102081325,
-        85849795
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,17 +64,18 @@
     "wof:geomhash":"172f7f2313af2a46e1ce76f9ce205502",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081325,
-            "locality_id":-1,
+            "localadmin_id":404484717,
+            "locality_id":101718879,
             "neighbourhood_id":85849795,
             "region_id":85688481,
             "venue_id":387848795
         }
     ],
     "wof:id":387848795,
-    "wof:lastmodified":1449056640,
+    "wof:lastmodified":1454358506,
     "wof:name":"Jethro's",
     "wof:parent_id":85849795,
     "wof:placetype":"venue",
@@ -89,6 +94,11 @@
         "banquet"
     ]
 },
-  "bbox": [-78.407067,40.45834,-78.407067,40.45834],
+  "bbox": [
+    -78.407067,
+    40.45834,
+    -78.407067,
+    40.45834
+],
   "geometry": {"coordinates":[-78.407067,40.45834],"type":"Point"}
 }

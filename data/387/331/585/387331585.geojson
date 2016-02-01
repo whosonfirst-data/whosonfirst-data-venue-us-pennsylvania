@@ -2,13 +2,14 @@
   "id": 387331585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.035003,40.39596,-80.035003,40.39596",
     "geom:latitude":40.39596,
     "geom:longitude":-80.035003,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1437 Potomac Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -23,10 +24,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85807877,
+        102191575,
+        404482523,
         85633793,
+        101718805,
         102080887,
-        85807877
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,17 +40,18 @@
     "wof:geomhash":"d342b165cee5b5353e209b0ab3a47380",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
+            "localadmin_id":404482523,
+            "locality_id":101718805,
             "neighbourhood_id":85807877,
             "region_id":85688481,
             "venue_id":387331585
         }
     ],
     "wof:id":387331585,
-    "wof:lastmodified":1449058417,
+    "wof:lastmodified":1454360776,
     "wof:name":"Dormont Fresh Market",
     "wof:parent_id":85807877,
     "wof:placetype":"venue",
@@ -54,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.035003,40.39596,-80.035003,40.39596],
+  "bbox": [
+    -80.035003,
+    40.39596,
+    -80.035003,
+    40.39596
+],
   "geometry": {"coordinates":[-80.035003,40.39596],"type":"Point"}
 }

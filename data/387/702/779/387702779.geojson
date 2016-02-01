@@ -2,13 +2,14 @@
   "id": 387702779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.930294,40.784831,-79.930294,40.784831",
     "geom:latitude":40.784831,
     "geom:longitude":-79.930294,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"364 Pittsburgh Rd",
     "sg:city":"Butler",
     "sg:classifiers":[
@@ -43,8 +44,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102083677,
-        85833131
+        85833131,
+        102083677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,17 +55,15 @@
     "wof:geomhash":"4d2b08d68eb08ef19e07e40b6af98f30",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102083677,
-            "locality_id":-1,
             "neighbourhood_id":85833131,
             "region_id":85688481,
             "venue_id":387702779
         }
     ],
     "wof:id":387702779,
-    "wof:lastmodified":1449058007,
+    "wof:lastmodified":1454360649,
     "wof:name":"Ed Shields Realtor",
     "wof:parent_id":85833131,
     "wof:placetype":"venue",
@@ -78,6 +77,11 @@
         "appraiser"
     ]
 },
-  "bbox": [-79.930294,40.784831,-79.930294,40.784831],
+  "bbox": [
+    -79.930294,
+    40.784831,
+    -79.930294,
+    40.784831
+],
   "geometry": {"coordinates":[-79.930294,40.784831],"type":"Point"}
 }

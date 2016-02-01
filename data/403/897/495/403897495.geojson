@@ -2,13 +2,14 @@
   "id": 403897495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.818901,40.257771,-76.818901,40.257771",
     "geom:latitude":40.257771,
     "geom:longitude":-76.818901,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3901 Derry St",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -88,8 +89,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85839023
+        85839023,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,17 +100,15 @@
     "wof:geomhash":"69ef4a1d34c27fe2162069ef44900fda",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85839023,
             "region_id":85688481,
             "venue_id":403897495
         }
     ],
     "wof:id":403897495,
-    "wof:lastmodified":1449055758,
+    "wof:lastmodified":1454357860,
     "wof:name":"Sherwin-Williams",
     "wof:parent_id":85839023,
     "wof:placetype":"venue",
@@ -137,6 +136,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-76.818901,40.257771,-76.818901,40.257771],
+  "bbox": [
+    -76.818901,
+    40.257771,
+    -76.818901,
+    40.257771
+],
   "geometry": {"coordinates":[-76.818901,40.257771],"type":"Point"}
 }

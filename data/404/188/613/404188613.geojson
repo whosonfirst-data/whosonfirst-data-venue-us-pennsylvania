@@ -2,13 +2,14 @@
   "id": 404188613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.407692,40.640706,-75.407692,40.640706",
     "geom:latitude":40.640706,
     "geom:longitude":-75.407692,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2045 Westgate Dr",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -43,10 +44,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85856947,
+        102191575,
+        404485987,
         85633793,
+        101717907,
         102081395,
-        85856947
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,17 +60,18 @@
     "wof:geomhash":"f6b4f135d6d449a7b5c38b33088b8085",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081395,
-            "locality_id":-1,
+            "localadmin_id":404485987,
+            "locality_id":101717907,
             "neighbourhood_id":85856947,
             "region_id":85688481,
             "venue_id":404188613
         }
     ],
     "wof:id":404188613,
-    "wof:lastmodified":1449039667,
+    "wof:lastmodified":1454356756,
     "wof:name":"Thomas Retinal Eye Specialists",
     "wof:parent_id":85856947,
     "wof:placetype":"venue",
@@ -82,6 +87,11 @@
         "surgery"
     ]
 },
-  "bbox": [-75.407692,40.640706,-75.407692,40.640706],
+  "bbox": [
+    -75.407692,
+    40.640706,
+    -75.407692,
+    40.640706
+],
   "geometry": {"coordinates":[-75.407692,40.640706],"type":"Point"}
 }

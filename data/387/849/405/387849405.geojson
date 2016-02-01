@@ -2,13 +2,14 @@
   "id": 387849405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.409203,40.538355,-78.409203,40.538355",
     "geom:latitude":40.538355,
     "geom:longitude":-78.409203,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3509 Juniata Gap Rd",
     "sg:city":"Altoona",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081325,
-        85854977
+        85854977,
+        102081325
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"377f1de38008c331aaf7d73d911b3c46",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081325,
-            "locality_id":-1,
             "neighbourhood_id":85854977,
             "region_id":85688481,
             "venue_id":387849405
         }
     ],
     "wof:id":387849405,
-    "wof:lastmodified":1449056801,
+    "wof:lastmodified":1454358622,
     "wof:name":"Stonybrook Homes",
     "wof:parent_id":85854977,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-78.409203,40.538355,-78.409203,40.538355],
-  "geometry": {"coordinates":[-78.409203,40.538355],"type":"Point"}
+  "bbox": [
+    -78.409203,
+    40.538355,
+    -78.409203,
+    40.538355
+],
+  "geometry": {"coordinates":[-78.40920300000001,40.538355],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404111053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.777293,41.326876,-77.777293,41.326876",
     "geom:latitude":41.326876,
     "geom:longitude":-77.777293,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"19 Gratzmar Ave",
     "sg:city":"Renovo",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080917,
-        85826685
+        85826685,
+        102080917
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"50c4f4581e21caed8239b8f22a634b95",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080917,
-            "locality_id":-1,
             "neighbourhood_id":85826685,
             "region_id":85688481,
             "venue_id":404111053
         }
     ],
     "wof:id":404111053,
-    "wof:lastmodified":1449040349,
+    "wof:lastmodified":1454357153,
     "wof:name":"Green Lantern Bar & Restaurant",
     "wof:parent_id":85826685,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "family"
     ]
 },
-  "bbox": [-77.777293,41.326876,-77.777293,41.326876],
+  "bbox": [
+    -77.777293,
+    41.326876,
+    -77.777293,
+    41.326876
+],
   "geometry": {"coordinates":[-77.777293,41.326876],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387143197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.855647,40.249977,-79.855647,40.249977",
     "geom:latitude":40.249977,
     "geom:longitude":-79.855647,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1950 Scenery Dr",
     "sg:city":"Elizabeth",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85825513
+        85825513,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"a959632fd7307464210abaa796600099",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85825513,
             "region_id":85688481,
             "venue_id":387143197
         }
     ],
     "wof:id":387143197,
-    "wof:lastmodified":1449059281,
+    "wof:lastmodified":1454361032,
     "wof:name":"Elizabeth Forward School District",
     "wof:parent_id":85825513,
     "wof:placetype":"venue",
@@ -64,6 +63,11 @@
         "elementary"
     ]
 },
-  "bbox": [-79.855647,40.249977,-79.855647,40.249977],
+  "bbox": [
+    -79.855647,
+    40.249977,
+    -79.855647,
+    40.249977
+],
   "geometry": {"coordinates":[-79.855647,40.249977],"type":"Point"}
 }

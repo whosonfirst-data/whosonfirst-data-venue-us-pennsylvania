@@ -2,13 +2,14 @@
   "id": 387326285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.000268,40.500743,-80.000268,40.500743",
     "geom:latitude":40.500743,
     "geom:longitude":-80.000268,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"116 Oesterle Ln",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85851357
+        85851357,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"1955b9211a153d893c76af2427d0d038",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85851357,
             "region_id":85688481,
             "venue_id":387326285
         }
     ],
     "wof:id":387326285,
-    "wof:lastmodified":1449057725,
+    "wof:lastmodified":1454360573,
     "wof:name":"Woodys Tv Service",
     "wof:parent_id":85851357,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "radio-service"
     ]
 },
-  "bbox": [-80.000268,40.500743,-80.000268,40.500743],
-  "geometry": {"coordinates":[-80.000268,40.500743],"type":"Point"}
+  "bbox": [
+    -80.000268,
+    40.500743,
+    -80.000268,
+    40.500743
+],
+  "geometry": {"coordinates":[-80.00026800000001,40.500743],"type":"Point"}
 }

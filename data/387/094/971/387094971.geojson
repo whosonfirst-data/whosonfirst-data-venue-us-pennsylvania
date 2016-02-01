@@ -2,13 +2,14 @@
   "id": 387094971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.272288,40.609858,-80.272288,40.609858",
     "geom:latitude":40.609858,
     "geom:longitude":-80.272288,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1915 Kennedy Blvd",
     "sg:city":"Aliquippa",
     "sg:classifiers":[
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85858799,
+        102191575,
+        404484357,
         85633793,
         101718409,
         102081323,
-        85858799
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"a5da8552feb8b2d34ce0e9aa1d50aa3a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081323,
+            "localadmin_id":404484357,
             "locality_id":101718409,
             "neighbourhood_id":85858799,
             "region_id":85688481,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":387094971,
-    "wof:lastmodified":1449058492,
+    "wof:lastmodified":1454360798,
     "wof:name":"Hanna Real Estate Closing Co",
     "wof:parent_id":85858799,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "management"
     ]
 },
-  "bbox": [-80.272288,40.609858,-80.272288,40.609858],
+  "bbox": [
+    -80.272288,
+    40.609858,
+    -80.272288,
+    40.609858
+],
   "geometry": {"coordinates":[-80.272288,40.609858],"type":"Point"}
 }

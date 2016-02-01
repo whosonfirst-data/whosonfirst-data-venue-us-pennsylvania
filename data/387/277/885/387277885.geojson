@@ -2,13 +2,14 @@
   "id": 387277885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.848334,40.473622,-79.848334,40.473622",
     "geom:latitude":40.473622,
     "geom:longitude":-79.848334,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"270 Coal Hollow Rd",
     "sg:city":"Verona",
     "sg:classifiers":[
@@ -32,8 +33,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85812851
+        85812851,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +44,15 @@
     "wof:geomhash":"828a7a3d2fd7d9478750d46358d3cbb8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85812851,
             "region_id":85688481,
             "venue_id":387277885
         }
     ],
     "wof:id":387277885,
-    "wof:lastmodified":1449056542,
+    "wof:lastmodified":1454358425,
     "wof:name":"Everett Auto Spa",
     "wof:parent_id":85812851,
     "wof:placetype":"venue",
@@ -66,6 +65,11 @@
         "equipment"
     ]
 },
-  "bbox": [-79.848334,40.473622,-79.848334,40.473622],
-  "geometry": {"coordinates":[-79.848334,40.473622],"type":"Point"}
+  "bbox": [
+    -79.848334,
+    40.473622,
+    -79.848334,
+    40.473622
+],
+  "geometry": {"coordinates":[-79.84833399999999,40.473622],"type":"Point"}
 }

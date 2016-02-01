@@ -2,13 +2,14 @@
   "id": 387843829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.000382,42.147452,-80.000382,42.147452",
     "geom:latitude":42.147452,
     "geom:longitude":-80.000382,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4486 Buffalo Rd",
     "sg:city":"Erie",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"http://www.regiscorp.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85807963,
+        102191575,
+        404486683,
         85633793,
         101720203,
         102080955,
-        85807963
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"3fa1d0a58bc31306b7f5e2717315d3ff",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080955,
+            "localadmin_id":404486683,
             "locality_id":101720203,
             "neighbourhood_id":85807963,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387843829,
-    "wof:lastmodified":1449056444,
+    "wof:lastmodified":1454358360,
     "wof:name":"Famous Hair",
     "wof:parent_id":85807963,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "stylist"
     ]
 },
-  "bbox": [-80.000382,42.147452,-80.000382,42.147452],
+  "bbox": [
+    -80.000382,
+    42.147452,
+    -80.000382,
+    42.147452
+],
   "geometry": {"coordinates":[-80.000382,42.147452],"type":"Point"}
 }

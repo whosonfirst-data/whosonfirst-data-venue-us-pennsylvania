@@ -2,13 +2,14 @@
   "id": 404087043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.272571,40.023892,-76.272571,40.023892",
     "geom:latitude":40.023892,
     "geom:longitude":-76.272571,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"49 River Bend Park",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85851485
+        85851485,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"e49de156e574c33c7b19f8eed7d88aff",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85851485,
             "region_id":85688481,
             "venue_id":404087043
         }
     ],
     "wof:id":404087043,
-    "wof:lastmodified":1449039568,
+    "wof:lastmodified":1454356718,
     "wof:name":"Parma Pizza",
     "wof:parent_id":85851485,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "pizza"
     ]
 },
-  "bbox": [-76.272571,40.023892,-76.272571,40.023892],
+  "bbox": [
+    -76.272571,
+    40.023892,
+    -76.272571,
+    40.023892
+],
   "geometry": {"coordinates":[-76.272571,40.023892],"type":"Point"}
 }

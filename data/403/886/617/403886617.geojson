@@ -2,13 +2,14 @@
   "id": 403886617,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.823362,40.278483,-76.823362,40.278483",
     "geom:latitude":40.278483,
     "geom:longitude":-76.823362,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3840 Union Deposit Rd",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85829485
+        85829485,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"0daaaae8aa34c7deb2b7172194f5930a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85829485,
             "region_id":85688481,
             "venue_id":403886617
         }
     ],
     "wof:id":403886617,
-    "wof:lastmodified":1449055371,
+    "wof:lastmodified":1454357634,
     "wof:name":"Ben's Bagel Bakery & Cafe",
     "wof:parent_id":85829485,
     "wof:placetype":"venue",
@@ -65,6 +64,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.823362,40.278483,-76.823362,40.278483],
+  "bbox": [
+    -76.823362,
+    40.278483,
+    -76.823362,
+    40.278483
+],
   "geometry": {"coordinates":[-76.823362,40.278483],"type":"Point"}
 }

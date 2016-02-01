@@ -2,13 +2,14 @@
   "id": 387588775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.709349,39.913943,-79.709349,39.913943",
     "geom:latitude":39.913943,
     "geom:longitude":-79.709349,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"8 Oliver Hts",
     "sg:city":"Uniontown",
     "sg:classifiers":[
@@ -40,10 +41,13 @@
     "sg:website":"http://www.pizzahut.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85850161,
+        102191575,
+        404487055,
         85633793,
+        101719799,
         102080959,
-        85850161
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,17 +57,18 @@
     "wof:geomhash":"29bd97b176aebf7ee7e23e434a961b84",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080959,
-            "locality_id":-1,
+            "localadmin_id":404487055,
+            "locality_id":101719799,
             "neighbourhood_id":85850161,
             "region_id":85688481,
             "venue_id":387588775
         }
     ],
     "wof:id":387588775,
-    "wof:lastmodified":1449059168,
+    "wof:lastmodified":1454361003,
     "wof:name":"Pizza Hut",
     "wof:parent_id":85850161,
     "wof:placetype":"venue",
@@ -75,6 +80,11 @@
         "pizza"
     ]
 },
-  "bbox": [-79.709349,39.913943,-79.709349,39.913943],
+  "bbox": [
+    -79.709349,
+    39.913943,
+    -79.709349,
+    39.913943
+],
   "geometry": {"coordinates":[-79.709349,39.913943],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404034989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.795386,39.977453,-76.795386,39.977453",
     "geom:latitude":39.977453,
     "geom:longitude":-76.795386,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2145 Carlisle Rd",
     "sg:city":"York",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420540379,
+        102191575,
+        404487953,
         85633793,
         101719479,
-        102080953
+        102080953,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"c4928542671d10f867b5b5a1cd094b50",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080953,
+            "localadmin_id":404487953,
             "locality_id":101719479,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420540379,
             "region_id":85688481,
             "venue_id":404034989
         }
     ],
     "wof:id":404034989,
-    "wof:lastmodified":1449039153,
+    "wof:lastmodified":1454356480,
     "wof:name":"Tips N Toes",
-    "wof:parent_id":-1,
+    "wof:parent_id":420540379,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.795386,39.977453,-76.795386,39.977453],
-  "geometry": {"coordinates":[-76.795386,39.977453],"type":"Point"}
+  "bbox": [
+    -76.795386,
+    39.977453,
+    -76.795386,
+    39.977453
+],
+  "geometry": {"coordinates":[-76.79538599999999,39.977453],"type":"Point"}
 }

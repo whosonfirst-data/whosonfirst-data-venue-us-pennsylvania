@@ -2,13 +2,14 @@
   "id": 387823487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.045332,41.999111,-80.045332,41.999111",
     "geom:latitude":41.999111,
     "geom:longitude":-80.045332,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2060 Elk Creek Rd",
     "sg:city":"Waterford",
     "sg:classifiers":[
@@ -42,8 +43,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080955,
-        85819503
+        85819503,
+        102080955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,17 +54,15 @@
     "wof:geomhash":"83f6983c38930821d6902aca289d888a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080955,
-            "locality_id":-1,
             "neighbourhood_id":85819503,
             "region_id":85688481,
             "venue_id":387823487
         }
     ],
     "wof:id":387823487,
-    "wof:lastmodified":1449059886,
+    "wof:lastmodified":1454361223,
     "wof:name":"Nucerino General Contracting",
     "wof:parent_id":85819503,
     "wof:placetype":"venue",
@@ -81,6 +80,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-80.045332,41.999111,-80.045332,41.999111],
+  "bbox": [
+    -80.045332,
+    41.999111,
+    -80.045332,
+    41.999111
+],
   "geometry": {"coordinates":[-80.045332,41.999111],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387316273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.990416,40.460356,-79.990416,40.460356",
     "geom:latitude":40.460356,
     "geom:longitude":-79.990416,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1235 Spring Garden Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -36,10 +37,13 @@
     "sg:website":"http://www.mw-direct.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85852705,
+        102191575,
+        404482523,
         85633793,
+        101718805,
         102080887,
-        85852705
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +53,18 @@
     "wof:geomhash":"258a4b5edd3d86cdf9689263bbfc51e0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
+            "localadmin_id":404482523,
+            "locality_id":101718805,
             "neighbourhood_id":85852705,
             "region_id":85688481,
             "venue_id":387316273
         }
     ],
     "wof:id":387316273,
-    "wof:lastmodified":1449058686,
+    "wof:lastmodified":1454360850,
     "wof:name":"Mid West Direct",
     "wof:parent_id":85852705,
     "wof:placetype":"venue",
@@ -72,6 +77,11 @@
         "shipping"
     ]
 },
-  "bbox": [-79.990416,40.460356,-79.990416,40.460356],
+  "bbox": [
+    -79.990416,
+    40.460356,
+    -79.990416,
+    40.460356
+],
   "geometry": {"coordinates":[-79.990416,40.460356],"type":"Point"}
 }

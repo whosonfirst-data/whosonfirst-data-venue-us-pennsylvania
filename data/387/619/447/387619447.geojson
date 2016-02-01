@@ -2,13 +2,14 @@
   "id": 387619447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.46736,40.305532,-79.46736,40.305532",
     "geom:latitude":40.305532,
     "geom:longitude":-79.46736,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1504 Woodview Dr",
     "sg:city":"Greensburg",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081383,
-        85821303
+        85821303,
+        102081383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"811623eb7c233b07e7c1e92506e927ae",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":-1,
             "neighbourhood_id":85821303,
             "region_id":85688481,
             "venue_id":387619447
         }
     ],
     "wof:id":387619447,
-    "wof:lastmodified":1449056786,
+    "wof:lastmodified":1454358609,
     "wof:name":"Discover Pack Inc",
     "wof:parent_id":85821303,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "labeling"
     ]
 },
-  "bbox": [-79.46736,40.305532,-79.46736,40.305532],
+  "bbox": [
+    -79.46736,
+    40.305532,
+    -79.46736,
+    40.305532
+],
   "geometry": {"coordinates":[-79.46736,40.305532],"type":"Point"}
 }

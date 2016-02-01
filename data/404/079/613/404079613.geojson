@@ -2,13 +2,14 @@
   "id": 404079613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.418999,40.063221,-76.418999,40.063221",
     "geom:latitude":40.063221,
     "geom:longitude":-76.418999,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1200 Corporate Blvd Ste 6",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85824591
+        85824591,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"caddaa524f11e031f9af1dc2cf66b987",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85824591,
             "region_id":85688481,
             "venue_id":404079613
         }
     ],
     "wof:id":404079613,
-    "wof:lastmodified":1449040113,
+    "wof:lastmodified":1454357012,
     "wof:name":"Sydlin Incorporated",
     "wof:parent_id":85824591,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "courier"
     ]
 },
-  "bbox": [-76.418999,40.063221,-76.418999,40.063221],
+  "bbox": [
+    -76.418999,
+    40.063221,
+    -76.418999,
+    40.063221
+],
   "geometry": {"coordinates":[-76.418999,40.063221],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403875185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.844676,40.30372,-76.844676,40.30372",
     "geom:latitude":40.30372,
     "geom:longitude":-76.844676,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2613 Brindle Dr",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85851635
+        85851635,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"17e0c1c022f56e7c06e343cfa5ba25db",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85851635,
             "region_id":85688481,
             "venue_id":403875185
         }
     ],
     "wof:id":403875185,
-    "wof:lastmodified":1449055604,
+    "wof:lastmodified":1454357776,
     "wof:name":"Clark Shoe Co the",
     "wof:parent_id":85851635,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "store"
     ]
 },
-  "bbox": [-76.844676,40.30372,-76.844676,40.30372],
-  "geometry": {"coordinates":[-76.844676,40.30372],"type":"Point"}
+  "bbox": [
+    -76.844676,
+    40.30372,
+    -76.844676,
+    40.30372
+],
+  "geometry": {"coordinates":[-76.84467600000001,40.30372],"type":"Point"}
 }

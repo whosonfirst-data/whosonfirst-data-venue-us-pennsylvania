@@ -2,13 +2,14 @@
   "id": 387565391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.124215,40.265745,-80.124215,40.265745",
     "geom:latitude":40.265745,
     "geom:longitude":-80.124215,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1018 Sheriffs Ct",
     "sg:city":"Canonsburg",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081343,
-        85814861
+        85814861,
+        102081343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"f635f1e971565ca1493f7a00a598b968",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081343,
-            "locality_id":-1,
             "neighbourhood_id":85814861,
             "region_id":85688481,
             "venue_id":387565391
         }
     ],
     "wof:id":387565391,
-    "wof:lastmodified":1449059582,
+    "wof:lastmodified":1454361126,
     "wof:name":"Rolling Green Golf Course",
     "wof:parent_id":85814861,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "course"
     ]
 },
-  "bbox": [-80.124215,40.265745,-80.124215,40.265745],
-  "geometry": {"coordinates":[-80.124215,40.265745],"type":"Point"}
+  "bbox": [
+    -80.124215,
+    40.265745,
+    -80.124215,
+    40.265745
+],
+  "geometry": {"coordinates":[-80.12421500000001,40.265745],"type":"Point"}
 }

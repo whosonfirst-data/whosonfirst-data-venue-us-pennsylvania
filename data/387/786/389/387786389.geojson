@@ -2,13 +2,14 @@
   "id": 387786389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.876053,41.331539,-79.876053,41.331539",
     "geom:latitude":41.331539,
     "geom:longitude":-79.876053,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1509 Pittsburgh Rd",
     "sg:city":"Franklin",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081279,
-        85841083
+        85841083,
+        102081279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"152a58024c3caeed6cf6f967fc0dd92e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081279,
-            "locality_id":-1,
             "neighbourhood_id":85841083,
             "region_id":85688481,
             "venue_id":387786389
         }
     ],
     "wof:id":387786389,
-    "wof:lastmodified":1449056604,
+    "wof:lastmodified":1454358474,
     "wof:name":"Northwest Region",
     "wof:parent_id":85841083,
     "wof:placetype":"venue",
@@ -64,6 +63,11 @@
         "conservation"
     ]
 },
-  "bbox": [-79.876053,41.331539,-79.876053,41.331539],
+  "bbox": [
+    -79.876053,
+    41.331539,
+    -79.876053,
+    41.331539
+],
   "geometry": {"coordinates":[-79.876053,41.331539],"type":"Point"}
 }

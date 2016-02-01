@@ -2,13 +2,14 @@
   "id": 387614631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.27901,39.941133,-79.27901,39.941133",
     "geom:latitude":39.941133,
     "geom:longitude":-79.27901,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1816 Scullton Rd",
     "sg:city":"Rockwood",
     "sg:classifiers":[
@@ -54,8 +55,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081361,
-        85804619
+        85804619,
+        102081361
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,17 +66,15 @@
     "wof:geomhash":"28b054eb155389ece36063d64349499d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081361,
-            "locality_id":-1,
             "neighbourhood_id":85804619,
             "region_id":85688481,
             "venue_id":387614631
         }
     ],
     "wof:id":387614631,
-    "wof:lastmodified":1449060021,
+    "wof:lastmodified":1454361264,
     "wof:name":"Sandav Studio",
     "wof:parent_id":85804619,
     "wof:placetype":"venue",
@@ -94,6 +93,11 @@
         "banquet"
     ]
 },
-  "bbox": [-79.27901,39.941133,-79.27901,39.941133],
+  "bbox": [
+    -79.27901,
+    39.941133,
+    -79.27901,
+    39.941133
+],
   "geometry": {"coordinates":[-79.27901,39.941133],"type":"Point"}
 }

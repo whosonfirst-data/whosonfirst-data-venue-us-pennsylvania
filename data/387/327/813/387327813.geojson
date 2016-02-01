@@ -2,13 +2,14 @@
   "id": 387327813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.897301,40.489849,-79.897301,40.489849",
     "geom:latitude":40.489849,
     "geom:longitude":-79.897301,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"200 Delafield Rd Ste 2010",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -31,10 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85830655,
+        102191575,
+        404484931,
         85633793,
+        101718683,
         102080887,
-        85830655
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +48,18 @@
     "wof:geomhash":"df6ad369158301cd0c65ca371224ad06",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
+            "localadmin_id":404484931,
+            "locality_id":101718683,
             "neighbourhood_id":85830655,
             "region_id":85688481,
             "venue_id":387327813
         }
     ],
     "wof:id":387327813,
-    "wof:lastmodified":1449056396,
+    "wof:lastmodified":1454358313,
     "wof:name":"Morrison Bruce W Md",
     "wof:parent_id":85830655,
     "wof:placetype":"venue",
@@ -68,6 +73,11 @@
         "obstetrics"
     ]
 },
-  "bbox": [-79.897301,40.489849,-79.897301,40.489849],
+  "bbox": [
+    -79.897301,
+    40.489849,
+    -79.897301,
+    40.489849
+],
   "geometry": {"coordinates":[-79.897301,40.489849],"type":"Point"}
 }

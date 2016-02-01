@@ -2,13 +2,14 @@
   "id": 387303621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.985092,40.502063,-79.985092,40.502063",
     "geom:latitude":40.502063,
     "geom:longitude":-79.985092,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1833 Babcock Blvd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85818343
+        85818343,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"0af78bec1cd8195c280559b90be7a65c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85818343,
             "region_id":85688481,
             "venue_id":387303621
         }
     ],
     "wof:id":387303621,
-    "wof:lastmodified":1449056155,
+    "wof:lastmodified":1454358125,
     "wof:name":"Northway Transmissions, Inc.",
     "wof:parent_id":85818343,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "transmissions-other"
     ]
 },
-  "bbox": [-79.985092,40.502063,-79.985092,40.502063],
-  "geometry": {"coordinates":[-79.985092,40.502063],"type":"Point"}
+  "bbox": [
+    -79.985092,
+    40.502063,
+    -79.985092,
+    40.502063
+],
+  "geometry": {"coordinates":[-79.98509199999999,40.502063],"type":"Point"}
 }

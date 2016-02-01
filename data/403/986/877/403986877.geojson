@@ -2,13 +2,14 @@
   "id": 403986877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.954224,39.801731,-76.954224,39.801731",
     "geom:latitude":39.801731,
     "geom:longitude":-76.954224,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1101 York St",
     "sg:city":"Hanover",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080953,
-        85806445
+        85806445,
+        102080953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"5fa0fcc82be3d25e1e82c32856eeb686",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
             "neighbourhood_id":85806445,
             "region_id":85688481,
             "venue_id":403986877
         }
     ],
     "wof:id":403986877,
-    "wof:lastmodified":1449055703,
+    "wof:lastmodified":1454357830,
     "wof:name":"Brothers Pizza Of Hanover",
     "wof:parent_id":85806445,
     "wof:placetype":"venue",
@@ -61,6 +60,11 @@
         "pizza"
     ]
 },
-  "bbox": [-76.954224,39.801731,-76.954224,39.801731],
+  "bbox": [
+    -76.954224,
+    39.801731,
+    -76.954224,
+    39.801731
+],
   "geometry": {"coordinates":[-76.954224,39.801731],"type":"Point"}
 }

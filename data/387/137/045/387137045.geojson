@@ -2,13 +2,14 @@
   "id": 387137045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.875032,40.298721,-79.875032,40.298721",
     "geom:latitude":40.298721,
     "geom:longitude":-79.875032,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"68 Maple Ave",
     "sg:city":"Clairton",
     "sg:classifiers":[
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536347,
+        102191575,
+        404484873,
         85633793,
         101718753,
-        102080887
+        102080887,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +49,20 @@
     "wof:geomhash":"8ebd38a0f468441ec15fe342b7a1ad56",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484873,
             "locality_id":101718753,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420536347,
             "region_id":85688481,
             "venue_id":387137045
         }
     ],
     "wof:id":387137045,
-    "wof:lastmodified":1449059401,
+    "wof:lastmodified":1454361070,
     "wof:name":"Maple Gate Market",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536347,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -65,6 +70,11 @@
         "delicatessen"
     ]
 },
-  "bbox": [-79.875032,40.298721,-79.875032,40.298721],
+  "bbox": [
+    -79.875032,
+    40.298721,
+    -79.875032,
+    40.298721
+],
   "geometry": {"coordinates":[-79.875032,40.298721],"type":"Point"}
 }

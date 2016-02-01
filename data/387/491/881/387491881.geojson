@@ -2,13 +2,14 @@
   "id": 387491881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.944776,40.327964,-79.944776,40.327964",
     "geom:latitude":40.327964,
     "geom:longitude":-79.944776,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"705 Clairton Blvd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[],
@@ -18,11 +19,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85834159,
+        102191575,
+        404484243,
         85633793,
         101718717,
         102080887,
-        85834159
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -32,9 +35,10 @@
     "wof:geomhash":"1464662fbe50a0b35c6a9d8feecbdb4b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484243,
             "locality_id":101718717,
             "neighbourhood_id":85834159,
             "region_id":85688481,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":387491881,
-    "wof:lastmodified":1449056052,
+    "wof:lastmodified":1454358044,
     "wof:name":"Lolita's Outer Skin Boutique",
     "wof:parent_id":85834159,
     "wof:placetype":"venue",
@@ -50,6 +54,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.944776,40.327964,-79.944776,40.327964],
+  "bbox": [
+    -79.944776,
+    40.327964,
+    -79.944776,
+    40.327964
+],
   "geometry": {"coordinates":[-79.944776,40.327964],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387941043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.216202,40.2038,-77.216202,40.2038",
     "geom:latitude":40.2038,
     "geom:longitude":-77.216202,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1000 Newville Rd",
     "sg:city":"Carlisle",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85865395,
+        102191575,
+        404486423,
         85633793,
         101719085,
         102081359,
-        85865395
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"b39d5deb2c0b57291b7cc1a1a6a1c8ed",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081359,
+            "localadmin_id":404486423,
             "locality_id":101719085,
             "neighbourhood_id":85865395,
             "region_id":85688481,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":387941043,
-    "wof:lastmodified":1449058379,
+    "wof:lastmodified":1454360765,
     "wof:name":"Brenneman Auto Sales",
     "wof:parent_id":85865395,
     "wof:placetype":"venue",
@@ -68,6 +72,11 @@
         "towing"
     ]
 },
-  "bbox": [-77.216202,40.2038,-77.216202,40.2038],
+  "bbox": [
+    -77.216202,
+    40.2038,
+    -77.216202,
+    40.2038
+],
   "geometry": {"coordinates":[-77.216202,40.2038],"type":"Point"}
 }

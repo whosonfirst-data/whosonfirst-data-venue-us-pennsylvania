@@ -2,13 +2,14 @@
   "id": 403985281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.232407,39.822392,-77.232407,39.822392",
     "geom:latitude":39.822392,
     "geom:longitude":-77.232407,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"89 Steinwehr Ave",
     "sg:city":"Gettysburg",
     "sg:classifiers":[],
@@ -21,8 +22,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080899,
-        85804527
+        85804527,
+        102080899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -32,17 +33,15 @@
     "wof:geomhash":"748eb9b79fdad642e2a6e3456f9c8ef3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080899,
-            "locality_id":-1,
             "neighbourhood_id":85804527,
             "region_id":85688481,
             "venue_id":403985281
         }
     ],
     "wof:id":403985281,
-    "wof:lastmodified":1449055297,
+    "wof:lastmodified":1454357589,
     "wof:name":"Dobbin House Tavern",
     "wof:parent_id":85804527,
     "wof:placetype":"venue",
@@ -50,6 +49,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.232407,39.822392,-77.232407,39.822392],
-  "geometry": {"coordinates":[-77.232407,39.822392],"type":"Point"}
+  "bbox": [
+    -77.232407,
+    39.822392,
+    -77.232407,
+    39.822392
+],
+  "geometry": {"coordinates":[-77.23240699999999,39.822392],"type":"Point"}
 }

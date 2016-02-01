@@ -2,13 +2,14 @@
   "id": 387765017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.474842,41.226472,-80.474842,41.226472",
     "geom:latitude":41.226472,
     "geom:longitude":-80.474842,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1955 Shenango Valley Fwy",
     "sg:city":"Hermitage",
     "sg:classifiers":[
@@ -36,10 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420539011,
+        102191575,
+        404487969,
         85633793,
-        101718107,
-        102080965
+        101718115,
+        102080965,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,19 +53,20 @@
     "wof:geomhash":"a12be03272b9d75bebe841d22d0c5cc4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080965,
-            "locality_id":101718107,
-            "neighbourhood_id":-1,
+            "localadmin_id":404487969,
+            "locality_id":101718115,
+            "neighbourhood_id":420539011,
             "region_id":85688481,
             "venue_id":387765017
         }
     ],
     "wof:id":387765017,
-    "wof:lastmodified":1449058303,
+    "wof:lastmodified":1454360739,
     "wof:name":"Ameriprise Financial Service Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420539011,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -73,6 +78,11 @@
         "fund"
     ]
 },
-  "bbox": [-80.474842,41.226472,-80.474842,41.226472],
+  "bbox": [
+    -80.474842,
+    41.226472,
+    -80.474842,
+    41.226472
+],
   "geometry": {"coordinates":[-80.474842,41.226472],"type":"Point"}
 }

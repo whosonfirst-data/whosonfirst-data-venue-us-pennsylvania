@@ -2,13 +2,14 @@
   "id": 404070735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.146437,40.281274,-76.146437,40.281274",
     "geom:latitude":40.281274,
     "geom:longitude":-76.146437,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"20 Lane Rd",
     "sg:city":"Reinholds",
     "sg:classifiers":[
@@ -41,8 +42,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85811603
+        85811603,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,17 +53,15 @@
     "wof:geomhash":"ed57c631445b5a8fd3071acb8cc472ee",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85811603,
             "region_id":85688481,
             "venue_id":404070735
         }
     ],
     "wof:id":404070735,
-    "wof:lastmodified":1449039596,
+    "wof:lastmodified":1454356732,
     "wof:name":"Kauffman Harold G Plumbing & Heating",
     "wof:parent_id":85811603,
     "wof:placetype":"venue",
@@ -79,6 +78,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-76.146437,40.281274,-76.146437,40.281274],
-  "geometry": {"coordinates":[-76.146437,40.281274],"type":"Point"}
+  "bbox": [
+    -76.146437,
+    40.281274,
+    -76.146437,
+    40.281274
+],
+  "geometry": {"coordinates":[-76.14643700000001,40.281274],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387815057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.294525,42.045145,-80.294525,42.045145",
     "geom:latitude":42.045145,
     "geom:longitude":-80.294525,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"450 Hartley Rd",
     "sg:city":"Fairview",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420537901,
+        102191575,
+        404486675,
         85633793,
         101720199,
-        102080955
+        102080955,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"036f943fa3777860dd38ccf733c01ae7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080955,
+            "localadmin_id":404486675,
             "locality_id":101720199,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420537901,
             "region_id":85688481,
             "venue_id":387815057
         }
     ],
     "wof:id":387815057,
-    "wof:lastmodified":1449057945,
+    "wof:lastmodified":1454360639,
     "wof:name":"Lieutenant Dent Inc.",
-    "wof:parent_id":-1,
+    "wof:parent_id":420537901,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "part"
     ]
 },
-  "bbox": [-80.294525,42.045145,-80.294525,42.045145],
-  "geometry": {"coordinates":[-80.294525,42.045145],"type":"Point"}
+  "bbox": [
+    -80.294525,
+    42.045145,
+    -80.294525,
+    42.045145
+],
+  "geometry": {"coordinates":[-80.29452499999999,42.045145],"type":"Point"}
 }

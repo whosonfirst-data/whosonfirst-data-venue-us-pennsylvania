@@ -2,13 +2,14 @@
   "id": 387488571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.950302,40.32996,-79.950302,40.32996",
     "geom:latitude":40.32996,
     "geom:longitude":-79.950302,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"500 E Bruceton Rd Apt 725",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85834159,
+        102191575,
+        404484243,
         85633793,
         101718717,
         102080887,
-        85834159
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"ccdf312c446a076ac9446dec0059bfe7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484243,
             "locality_id":101718717,
             "neighbourhood_id":85834159,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387488571,
-    "wof:lastmodified":1449059824,
+    "wof:lastmodified":1454361203,
     "wof:name":"Trocheck, Vincent A",
     "wof:parent_id":85834159,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "chiropractic"
     ]
 },
-  "bbox": [-79.950302,40.32996,-79.950302,40.32996],
-  "geometry": {"coordinates":[-79.950302,40.32996],"type":"Point"}
+  "bbox": [
+    -79.950302,
+    40.32996,
+    -79.950302,
+    40.32996
+],
+  "geometry": {"coordinates":[-79.95030199999999,40.32996],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404062499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.386421,40.169091,-76.386421,40.169091",
     "geom:latitude":40.169091,
     "geom:longitude":-76.386421,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"55 Doe Run Rd.",
     "sg:city":"Manheim",
     "sg:classifiers":[
@@ -44,8 +45,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85836395
+        85836395,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,17 +56,15 @@
     "wof:geomhash":"e02a4037a52628d70066955fbfa06129",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85836395,
             "region_id":85688481,
             "venue_id":404062499
         }
     ],
     "wof:id":404062499,
-    "wof:lastmodified":1449040255,
+    "wof:lastmodified":1454357092,
     "wof:name":"MITechnik",
     "wof:parent_id":85836395,
     "wof:placetype":"venue",
@@ -79,6 +78,11 @@
         "tune"
     ]
 },
-  "bbox": [-76.386421,40.169091,-76.386421,40.169091],
+  "bbox": [
+    -76.386421,
+    40.169091,
+    -76.386421,
+    40.169091
+],
   "geometry": {"coordinates":[-76.386421,40.169091],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404096479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.979032,41.249682,-76.979032,41.249682",
     "geom:latitude":41.249682,
     "geom:longitude":-76.979032,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1418 E 3rd St",
     "sg:city":"Williamsport",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081317,
-        85828027
+        85828027,
+        102081317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"134b68494be3408710fe842dd5427030",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081317,
-            "locality_id":-1,
             "neighbourhood_id":85828027,
             "region_id":85688481,
             "venue_id":404096479
         }
     ],
     "wof:id":404096479,
-    "wof:lastmodified":1449039403,
+    "wof:lastmodified":1454356628,
     "wof:name":"Chez Claudette Inc",
     "wof:parent_id":85828027,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "shop"
     ]
 },
-  "bbox": [-76.979032,41.249682,-76.979032,41.249682],
+  "bbox": [
+    -76.979032,
+    41.249682,
+    -76.979032,
+    41.249682
+],
   "geometry": {"coordinates":[-76.979032,41.249682],"type":"Point"}
 }

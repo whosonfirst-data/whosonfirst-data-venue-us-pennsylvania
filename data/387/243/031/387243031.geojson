@@ -2,13 +2,14 @@
   "id": 387243031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.15889,40.512569,-80.15889,40.512569",
     "geom:latitude":40.512569,
     "geom:longitude":-80.15889,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1439 Vance Ave",
     "sg:city":"Coraopolis",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85835035
+        85835035,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"d193af164f10d5844094eba88ddfb9f7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85835035,
             "region_id":85688481,
             "venue_id":387243031
         }
     ],
     "wof:id":387243031,
-    "wof:lastmodified":1449057336,
+    "wof:lastmodified":1454359033,
     "wof:name":"Agnes Delbrocco",
     "wof:parent_id":85835035,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "plumber"
     ]
 },
-  "bbox": [-80.15889,40.512569,-80.15889,40.512569],
+  "bbox": [
+    -80.15889,
+    40.512569,
+    -80.15889,
+    40.512569
+],
   "geometry": {"coordinates":[-80.15889,40.512569],"type":"Point"}
 }

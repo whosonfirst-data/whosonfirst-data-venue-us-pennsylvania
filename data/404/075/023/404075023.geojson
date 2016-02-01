@@ -2,13 +2,14 @@
   "id": 404075023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.298245,40.075314,-76.298245,40.075314",
     "geom:latitude":40.075314,
     "geom:longitude":-76.298245,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"444 Murry Hill Cir",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -41,8 +42,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85811259
+        85811259,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,17 +53,15 @@
     "wof:geomhash":"b81fb5b664fc2d4f6e9d2174c6e4d7f7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85811259,
             "region_id":85688481,
             "venue_id":404075023
         }
     ],
     "wof:id":404075023,
-    "wof:lastmodified":1449039793,
+    "wof:lastmodified":1454356805,
     "wof:name":"NextStep Technology Advisors",
     "wof:parent_id":85811259,
     "wof:placetype":"venue",
@@ -78,6 +77,11 @@
         "software"
     ]
 },
-  "bbox": [-76.298245,40.075314,-76.298245,40.075314],
-  "geometry": {"coordinates":[-76.298245,40.075314],"type":"Point"}
+  "bbox": [
+    -76.298245,
+    40.075314,
+    -76.298245,
+    40.075314
+],
+  "geometry": {"coordinates":[-76.29824499999999,40.075314],"type":"Point"}
 }

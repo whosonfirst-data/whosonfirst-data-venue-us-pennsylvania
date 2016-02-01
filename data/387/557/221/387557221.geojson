@@ -2,13 +2,14 @@
   "id": 387557221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.089861,40.270967,-80.089861,40.270967",
     "geom:latitude":40.270967,
     "geom:longitude":-80.089861,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"131 Druid Dr",
     "sg:city":"Canonsburg",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081343,
-        85806851
+        85806851,
+        102081343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"487cd1ebc7920a560fdbb5d90d4ea0f9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081343,
-            "locality_id":-1,
             "neighbourhood_id":85806851,
             "region_id":85688481,
             "venue_id":387557221
         }
     ],
     "wof:id":387557221,
-    "wof:lastmodified":1449058821,
+    "wof:lastmodified":1454360894,
     "wof:name":"Abrakadoodle",
     "wof:parent_id":85806851,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "instruction"
     ]
 },
-  "bbox": [-80.089861,40.270967,-80.089861,40.270967],
+  "bbox": [
+    -80.089861,
+    40.270967,
+    -80.089861,
+    40.270967
+],
   "geometry": {"coordinates":[-80.089861,40.270967],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404079387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.301215,40.067285,-76.301215,40.067285",
     "geom:latitude":40.067285,
     "geom:longitude":-76.301215,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"255 Butler Ave",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -37,8 +38,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85811259
+        85811259,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +49,15 @@
     "wof:geomhash":"39cd0393179200095d755d102d2c578f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85811259,
             "region_id":85688481,
             "venue_id":404079387
         }
     ],
     "wof:id":404079387,
-    "wof:lastmodified":1449040115,
+    "wof:lastmodified":1454357013,
     "wof:name":"Case, DiGiamberardino & Lutz PC",
     "wof:parent_id":85811259,
     "wof:placetype":"venue",
@@ -70,6 +69,11 @@
         "bankruptcy"
     ]
 },
-  "bbox": [-76.301215,40.067285,-76.301215,40.067285],
+  "bbox": [
+    -76.301215,
+    40.067285,
+    -76.301215,
+    40.067285
+],
   "geometry": {"coordinates":[-76.301215,40.067285],"type":"Point"}
 }

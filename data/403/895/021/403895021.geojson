@@ -2,13 +2,14 @@
   "id": 403895021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.82865,40.253695,-76.82865,40.253695",
     "geom:latitude":40.253695,
     "geom:longitude":-76.82865,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3701 Paxton St",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85868485
+        85868485,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"90f37430d6cf7eba2bf002f4cd78f9e7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85868485,
             "region_id":85688481,
             "venue_id":403895021
         }
     ],
     "wof:id":403895021,
-    "wof:lastmodified":1449055199,
+    "wof:lastmodified":1454357529,
     "wof:name":"CLEAR High Speed Internet",
     "wof:parent_id":85868485,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "internet"
     ]
 },
-  "bbox": [-76.82865,40.253695,-76.82865,40.253695],
+  "bbox": [
+    -76.82865,
+    40.253695,
+    -76.82865,
+    40.253695
+],
   "geometry": {"coordinates":[-76.82865,40.253695],"type":"Point"}
 }

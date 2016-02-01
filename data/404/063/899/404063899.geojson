@@ -2,13 +2,14 @@
   "id": 404063899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.380315,40.146537,-76.380315,40.146537",
     "geom:latitude":40.146537,
     "geom:longitude":-76.380315,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"832 Lancaster Rd",
     "sg:city":"Manheim",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85853449
+        85853449,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"c9649f169f2289573cb0c34f2cf403d7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85853449,
             "region_id":85688481,
             "venue_id":404063899
         }
     ],
     "wof:id":404063899,
-    "wof:lastmodified":1449039126,
+    "wof:lastmodified":1454356456,
     "wof:name":"Hamilton Motor Sports",
     "wof:parent_id":85853449,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "development"
     ]
 },
-  "bbox": [-76.380315,40.146537,-76.380315,40.146537],
+  "bbox": [
+    -76.380315,
+    40.146537,
+    -76.380315,
+    40.146537
+],
   "geometry": {"coordinates":[-76.380315,40.146537],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403719331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.426038,40.329406,-76.426038,40.329406",
     "geom:latitude":40.329406,
     "geom:longitude":-76.426038,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"721 Quentin Rd",
     "sg:city":"Lebanon",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85842249,
+        102191575,
+        404485699,
         85633793,
         101717093,
         102081341,
-        85842249
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"08ad409ccfff2e5bf3c86ebb42739bcf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081341,
+            "localadmin_id":404485699,
             "locality_id":101717093,
             "neighbourhood_id":85842249,
             "region_id":85688481,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":403719331,
-    "wof:lastmodified":1449054794,
+    "wof:lastmodified":1454357287,
     "wof:name":"State Farm Insurance",
     "wof:parent_id":85842249,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.426038,40.329406,-76.426038,40.329406],
-  "geometry": {"coordinates":[-76.426038,40.329406],"type":"Point"}
+  "bbox": [
+    -76.426038,
+    40.329406,
+    -76.426038,
+    40.329406
+],
+  "geometry": {"coordinates":[-76.42603800000001,40.329406],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387319261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.025237,40.468376,-80.025237,40.468376",
     "geom:latitude":40.468376,
     "geom:longitude":-80.025237,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2637 Brighton Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -25,11 +26,13 @@
     "sg:website":"http://www.johnfries.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85832627,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85832627
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +42,10 @@
     "wof:geomhash":"f74f84474eb14ccb0c840af3d35789ef",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85832627,
             "region_id":85688481,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":387319261,
-    "wof:lastmodified":1449057655,
+    "wof:lastmodified":1454360546,
     "wof:name":"John Fries Communications",
     "wof:parent_id":85832627,
     "wof:placetype":"venue",
@@ -57,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.025237,40.468376,-80.025237,40.468376],
+  "bbox": [
+    -80.025237,
+    40.468376,
+    -80.025237,
+    40.468376
+],
   "geometry": {"coordinates":[-80.025237,40.468376],"type":"Point"}
 }

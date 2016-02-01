@@ -2,13 +2,14 @@
   "id": 404093011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.341335,40.038154,-76.341335,40.038154",
     "geom:latitude":40.038154,
     "geom:longitude":-76.341335,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1394 Columbia Ave",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -42,8 +43,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85858805
+        85858805,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,17 +54,15 @@
     "wof:geomhash":"2a5f68a830aae9355d46f8e2a6ba0a6c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85858805,
             "region_id":85688481,
             "venue_id":404093011
         }
     ],
     "wof:id":404093011,
-    "wof:lastmodified":1449039083,
+    "wof:lastmodified":1454356413,
     "wof:name":"H&R Block",
     "wof:parent_id":85858805,
     "wof:placetype":"venue",
@@ -80,6 +79,11 @@
         "bookkeeping"
     ]
 },
-  "bbox": [-76.341335,40.038154,-76.341335,40.038154],
+  "bbox": [
+    -76.341335,
+    40.038154,
+    -76.341335,
+    40.038154
+],
   "geometry": {"coordinates":[-76.341335,40.038154],"type":"Point"}
 }

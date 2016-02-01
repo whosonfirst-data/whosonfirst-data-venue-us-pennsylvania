@@ -2,13 +2,14 @@
   "id": 387702851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.914575,40.90662,-79.914575,40.90662",
     "geom:latitude":40.90662,
     "geom:longitude":-79.914575,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"116 Covewood Dr",
     "sg:city":"Butler",
     "sg:classifiers":[
@@ -35,10 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536957,
+        102191575,
+        404485061,
         85633793,
         101720155,
-        102083677
+        102083677,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +52,20 @@
     "wof:geomhash":"70431a6f08d5550743bb38e763db0365",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083677,
+            "localadmin_id":404485061,
             "locality_id":101720155,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420536957,
             "region_id":85688481,
             "venue_id":387702851
         }
     ],
     "wof:id":387702851,
-    "wof:lastmodified":1449058008,
+    "wof:lastmodified":1454360650,
     "wof:name":"Kirk A Snyder Electrical Contracting",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536957,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -71,6 +76,11 @@
         "electrician"
     ]
 },
-  "bbox": [-79.914575,40.90662,-79.914575,40.90662],
+  "bbox": [
+    -79.914575,
+    40.90662,
+    -79.914575,
+    40.90662
+],
   "geometry": {"coordinates":[-79.914575,40.90662],"type":"Point"}
 }

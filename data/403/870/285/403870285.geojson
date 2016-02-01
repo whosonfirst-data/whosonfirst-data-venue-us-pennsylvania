@@ -2,13 +2,14 @@
   "id": 403870285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.840599,40.2785,-76.840599,40.2785",
     "geom:latitude":40.2785,
     "geom:longitude":-76.840599,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"306 Stuart Pl",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85850427,
+        102191575,
+        404486197,
         85633793,
-        101719811,
+        101717715,
         102081347,
-        85850427
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +51,18 @@
     "wof:geomhash":"8532d13a5790dd99c60d4c8a87749f6d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":101719811,
+            "localadmin_id":404486197,
+            "locality_id":101717715,
             "neighbourhood_id":85850427,
             "region_id":85688481,
             "venue_id":403870285
         }
     ],
     "wof:id":403870285,
-    "wof:lastmodified":1449054993,
+    "wof:lastmodified":1454357405,
     "wof:name":"Henderson Carmen Q",
     "wof:parent_id":85850427,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "limo"
     ]
 },
-  "bbox": [-76.840599,40.2785,-76.840599,40.2785],
+  "bbox": [
+    -76.840599,
+    40.2785,
+    -76.840599,
+    40.2785
+],
   "geometry": {"coordinates":[-76.840599,40.2785],"type":"Point"}
 }

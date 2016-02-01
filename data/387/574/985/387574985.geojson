@@ -2,13 +2,14 @@
   "id": 387574985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.094597,40.2383,-80.094597,40.2383",
     "geom:latitude":40.2383,
     "geom:longitude":-80.094597,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"647 Thomas Rd",
     "sg:city":"Eighty Four",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081343,
-        85806851
+        85806851,
+        102081343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"98f68ed5e6e4db3c77ff9972961d7694",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081343,
-            "locality_id":-1,
             "neighbourhood_id":85806851,
             "region_id":85688481,
             "venue_id":387574985
         }
     ],
     "wof:id":387574985,
-    "wof:lastmodified":1449056089,
+    "wof:lastmodified":1454358077,
     "wof:name":"Kilkeary's Auto Body",
     "wof:parent_id":85806851,
     "wof:placetype":"venue",
@@ -63,6 +62,11 @@
         "shop"
     ]
 },
-  "bbox": [-80.094597,40.2383,-80.094597,40.2383],
-  "geometry": {"coordinates":[-80.094597,40.2383],"type":"Point"}
+  "bbox": [
+    -80.094597,
+    40.2383,
+    -80.094597,
+    40.2383
+],
+  "geometry": {"coordinates":[-80.09459699999999,40.2383],"type":"Point"}
 }

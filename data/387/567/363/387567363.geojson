@@ -2,13 +2,14 @@
   "id": 387567363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.083125,40.27879,-80.083125,40.27879",
     "geom:latitude":40.27879,
     "geom:longitude":-80.083125,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"502 Valley Brook Rd",
     "sg:city":"McMurray",
     "sg:classifiers":[
@@ -27,8 +28,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081343,
-        85806851
+        85806851,
+        102081343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +39,15 @@
     "wof:geomhash":"78cf8595f29a344717f023394a29edee",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081343,
-            "locality_id":-1,
             "neighbourhood_id":85806851,
             "region_id":85688481,
             "venue_id":387567363
         }
     ],
     "wof:id":387567363,
-    "wof:lastmodified":1449059949,
+    "wof:lastmodified":1454361241,
     "wof:name":"Farmhouse Coffee",
     "wof:parent_id":85806851,
     "wof:placetype":"venue",
@@ -56,6 +55,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.083125,40.27879,-80.083125,40.27879],
+  "bbox": [
+    -80.083125,
+    40.27879,
+    -80.083125,
+    40.27879
+],
   "geometry": {"coordinates":[-80.083125,40.27879],"type":"Point"}
 }

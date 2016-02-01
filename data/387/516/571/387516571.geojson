@@ -2,13 +2,14 @@
   "id": 387516571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.051209,40.352449,-80.051209,40.352449",
     "geom:latitude":40.352449,
     "geom:longitude":-80.051209,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1614 Washington Rd Ste 102",
     "sg:city":"Upper St Clair",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"www.acquablumedicalspa.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85805921,
+        102191575,
+        404484853,
         85633793,
         101718799,
         102080887,
-        85805921
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"a4e7ba1403a66e3b2cbfa6b006ebb51e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484853,
             "locality_id":101718799,
             "neighbourhood_id":85805921,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387516571,
-    "wof:lastmodified":1449056829,
+    "wof:lastmodified":1454358637,
     "wof:name":"Acqua Blu Medical Spa and Plastic Surgery",
     "wof:parent_id":85805921,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "medical"
     ]
 },
-  "bbox": [-80.051209,40.352449,-80.051209,40.352449],
+  "bbox": [
+    -80.051209,
+    40.352449,
+    -80.051209,
+    40.352449
+],
   "geometry": {"coordinates":[-80.051209,40.352449],"type":"Point"}
 }

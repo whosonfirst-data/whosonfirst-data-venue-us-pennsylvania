@@ -2,13 +2,14 @@
   "id": 404065317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.354973,39.996971,-76.354973,39.996971",
     "geom:latitude":39.996971,
     "geom:longitude":-76.354973,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"101 Shenks Ln",
     "sg:city":"Millersville",
     "sg:classifiers":[
@@ -27,8 +28,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85854053
+        85854053,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +39,15 @@
     "wof:geomhash":"cfe40a014d657a0c8d6c11b4d2167821",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85854053,
             "region_id":85688481,
             "venue_id":404065317
         }
     ],
     "wof:id":404065317,
-    "wof:lastmodified":1449040319,
+    "wof:lastmodified":1454357133,
     "wof:name":"Best Western",
     "wof:parent_id":85854053,
     "wof:placetype":"venue",
@@ -56,6 +55,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.354973,39.996971,-76.354973,39.996971],
+  "bbox": [
+    -76.354973,
+    39.996971,
+    -76.354973,
+    39.996971
+],
   "geometry": {"coordinates":[-76.354973,39.996971],"type":"Point"}
 }

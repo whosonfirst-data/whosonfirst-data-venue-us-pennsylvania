@@ -2,13 +2,14 @@
   "id": 387288547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.107533,40.449407,-80.107533,40.449407",
     "geom:latitude":40.449407,
     "geom:longitude":-80.107533,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4955 Steubenville Pike",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85835117
+        85835117,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"a2cb6926d7c5dadfa6aa7e6521ef1b40",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85835117,
             "region_id":85688481,
             "venue_id":387288547
         }
     ],
     "wof:id":387288547,
-    "wof:lastmodified":1449056509,
+    "wof:lastmodified":1454358404,
     "wof:name":"Sis Software",
     "wof:parent_id":85835117,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "equipment"
     ]
 },
-  "bbox": [-80.107533,40.449407,-80.107533,40.449407],
+  "bbox": [
+    -80.107533,
+    40.449407,
+    -80.107533,
+    40.449407
+],
   "geometry": {"coordinates":[-80.107533,40.449407],"type":"Point"}
 }

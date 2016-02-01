@@ -2,13 +2,14 @@
   "id": 404101383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.989717,41.231181,-76.989717,41.231181",
     "geom:latitude":41.231181,
     "geom:longitude":-76.989717,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"300 E Mountain Ave",
     "sg:city":"Williamsport",
     "sg:classifiers":[
@@ -37,11 +38,13 @@
     "sg:website":"http://www.axeman-anderson.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85802799,
+        102191575,
+        404485355,
         85633793,
-        101716811,
+        101716809,
         102081317,
-        85802799
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,17 +54,18 @@
     "wof:geomhash":"e63ee8a4c0651482bfc53b7180f772f3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081317,
-            "locality_id":101716811,
+            "localadmin_id":404485355,
+            "locality_id":101716809,
             "neighbourhood_id":85802799,
             "region_id":85688481,
             "venue_id":404101383
         }
     ],
     "wof:id":404101383,
-    "wof:lastmodified":1449039753,
+    "wof:lastmodified":1454356780,
     "wof:name":"Axeman-Anderson Company Inc",
     "wof:parent_id":85802799,
     "wof:placetype":"venue",
@@ -75,6 +79,11 @@
         "system"
     ]
 },
-  "bbox": [-76.989717,41.231181,-76.989717,41.231181],
+  "bbox": [
+    -76.989717,
+    41.231181,
+    -76.989717,
+    41.231181
+],
   "geometry": {"coordinates":[-76.989717,41.231181],"type":"Point"}
 }

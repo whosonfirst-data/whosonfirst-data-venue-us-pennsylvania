@@ -2,13 +2,14 @@
   "id": 353640373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.738534,42.25501,-79.738534,42.25501",
     "geom:latitude":42.25501,
     "geom:longitude":-79.738534,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"10370 W Main Rd",
     "sg:city":"Ripley",
     "sg:classifiers":[
@@ -33,8 +34,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080955,
-        85850957
+        85850957,
+        102080955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +45,15 @@
     "wof:geomhash":"f52a01b533d04ba3fcf222b10148b75f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080955,
-            "locality_id":-1,
             "neighbourhood_id":85850957,
             "region_id":85688481,
             "venue_id":353640373
         }
     ],
     "wof:id":353640373,
-    "wof:lastmodified":1449019366,
+    "wof:lastmodified":1454356382,
     "wof:name":"McDonald Farm",
     "wof:parent_id":85850957,
     "wof:placetype":"venue",
@@ -68,6 +67,11 @@
         "market"
     ]
 },
-  "bbox": [-79.738534,42.25501,-79.738534,42.25501],
+  "bbox": [
+    -79.738534,
+    42.25501,
+    -79.738534,
+    42.25501
+],
   "geometry": {"coordinates":[-79.738534,42.25501],"type":"Point"}
 }

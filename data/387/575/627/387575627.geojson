@@ -2,13 +2,14 @@
   "id": 387575627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.126099,40.2048,-80.126099,40.2048",
     "geom:latitude":40.2048,
     "geom:longitude":-80.126099,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1197 Route 519",
     "sg:city":"Eighty Four",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420539941,
+        102191575,
+        404487851,
         85633793,
-        101720327,
-        102081343
+        101720329,
+        102081343,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"e5786bcfb4f871aafbd58f808cb311d7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081343,
-            "locality_id":101720327,
-            "neighbourhood_id":-1,
+            "localadmin_id":404487851,
+            "locality_id":101720329,
+            "neighbourhood_id":420539941,
             "region_id":85688481,
             "venue_id":387575627
         }
     ],
     "wof:id":387575627,
-    "wof:lastmodified":1449057204,
+    "wof:lastmodified":1454358923,
     "wof:name":"Rush Accounting PC",
-    "wof:parent_id":-1,
+    "wof:parent_id":420539941,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "accountant"
     ]
 },
-  "bbox": [-80.126099,40.2048,-80.126099,40.2048],
+  "bbox": [
+    -80.126099,
+    40.2048,
+    -80.126099,
+    40.2048
+],
   "geometry": {"coordinates":[-80.126099,40.2048],"type":"Point"}
 }

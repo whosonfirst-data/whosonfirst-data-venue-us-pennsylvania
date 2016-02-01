@@ -2,13 +2,14 @@
   "id": 387386399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.033697,40.435446,-80.033697,40.435446",
     "geom:latitude":40.435446,
     "geom:longitude":-80.033697,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"401 Greentree Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85855407,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85855407
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"f0f1fb816fec83d880c9f2ab6db1a078",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85855407,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387386399,
-    "wof:lastmodified":1449058104,
+    "wof:lastmodified":1454360682,
     "wof:name":"Corbett William P Inc",
     "wof:parent_id":85855407,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "equipment"
     ]
 },
-  "bbox": [-80.033697,40.435446,-80.033697,40.435446],
+  "bbox": [
+    -80.033697,
+    40.435446,
+    -80.033697,
+    40.435446
+],
   "geometry": {"coordinates":[-80.033697,40.435446],"type":"Point"}
 }

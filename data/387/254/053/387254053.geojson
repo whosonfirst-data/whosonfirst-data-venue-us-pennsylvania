@@ -2,13 +2,14 @@
   "id": 387254053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.857715,40.349734,-79.857715,40.349734",
     "geom:latitude":40.349734,
     "geom:longitude":-79.857715,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"705 Shaw Ave",
     "sg:city":"Mckeesport",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85845081,
+        102191575,
+        404484971,
         85633793,
         101718847,
         102080887,
-        85845081
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"18fe6af9f9652063c1ea17a0f29a4cbe",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484971,
             "locality_id":101718847,
             "neighbourhood_id":85845081,
             "region_id":85688481,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":387254053,
-    "wof:lastmodified":1449058725,
+    "wof:lastmodified":1454360863,
     "wof:name":"New Beginnings Ministry Inc",
     "wof:parent_id":85845081,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "denomination"
     ]
 },
-  "bbox": [-79.857715,40.349734,-79.857715,40.349734],
+  "bbox": [
+    -79.857715,
+    40.349734,
+    -79.857715,
+    40.349734
+],
   "geometry": {"coordinates":[-79.857715,40.349734],"type":"Point"}
 }

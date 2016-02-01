@@ -2,13 +2,14 @@
   "id": 403703981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.651199,40.2742,-76.651199,40.2742",
     "geom:latitude":40.2742,
     "geom:longitude":-76.651199,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"72 W Governor Rd",
     "sg:city":"Hershey",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"www.mazzoliicecream.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85825831,
+        102191575,
+        404483303,
         85633793,
         101719813,
         102081347,
-        85825831
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"9a6a326ff52e0bddbf3c7eaf384c8ea5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
+            "localadmin_id":404483303,
             "locality_id":101719813,
             "neighbourhood_id":85825831,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":403703981,
-    "wof:lastmodified":1449055049,
+    "wof:lastmodified":1454357439,
     "wof:name":"Mazzoli Ice Cream",
     "wof:parent_id":85825831,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "yogurt"
     ]
 },
-  "bbox": [-76.651199,40.2742,-76.651199,40.2742],
-  "geometry": {"coordinates":[-76.651199,40.2742],"type":"Point"}
+  "bbox": [
+    -76.651199,
+    40.2742,
+    -76.651199,
+    40.2742
+],
+  "geometry": {"coordinates":[-76.65119900000001,40.2742],"type":"Point"}
 }

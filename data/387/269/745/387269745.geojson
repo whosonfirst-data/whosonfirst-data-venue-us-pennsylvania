@@ -2,13 +2,14 @@
   "id": 387269745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.128242,40.516772,-80.128242,40.516772",
     "geom:latitude":40.516772,
     "geom:longitude":-80.128242,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"156 E Beaver St",
     "sg:city":"Sewickley",
     "sg:classifiers":[
@@ -43,8 +44,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85814623
+        85814623,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,17 +55,15 @@
     "wof:geomhash":"cc827ac64f94678182acda0c6e2caa50",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85814623,
             "region_id":85688481,
             "venue_id":387269745
         }
     ],
     "wof:id":387269745,
-    "wof:lastmodified":1449058499,
+    "wof:lastmodified":1454360800,
     "wof:name":"Mueller Plumbing & Heating Services Inc",
     "wof:parent_id":85814623,
     "wof:placetype":"venue",
@@ -83,6 +82,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-80.128242,40.516772,-80.128242,40.516772],
+  "bbox": [
+    -80.128242,
+    40.516772,
+    -80.128242,
+    40.516772
+],
   "geometry": {"coordinates":[-80.128242,40.516772],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387615047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.600152,40.102165,-78.600152,40.102165",
     "geom:latitude":40.102165,
     "geom:longitude":-78.600152,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2049 Valley Rd",
     "sg:city":"Schellsburg",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080939,
-        85850607
+        85850607,
+        102080939
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"cb95774ac28da92a82d4327cc5dd70a9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080939,
-            "locality_id":-1,
             "neighbourhood_id":85850607,
             "region_id":85688481,
             "venue_id":387615047
         }
     ],
     "wof:id":387615047,
-    "wof:lastmodified":1449057302,
+    "wof:lastmodified":1454359000,
     "wof:name":"Fishertown Cemetery Association",
     "wof:parent_id":85850607,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "cemetery"
     ]
 },
-  "bbox": [-78.600152,40.102165,-78.600152,40.102165],
-  "geometry": {"coordinates":[-78.600152,40.102165],"type":"Point"}
+  "bbox": [
+    -78.600152,
+    40.102165,
+    -78.600152,
+    40.102165
+],
+  "geometry": {"coordinates":[-78.60015199999999,40.102165],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404173545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.3825,40.605598,-75.3825,40.605598",
     "geom:latitude":40.605598,
     "geom:longitude":-75.3825,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"616 Montclair Ave",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"www.pyknicwear.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85897245,
+        102191575,
+        404485987,
         85633793,
         101717907,
         102081395,
-        85897245
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"c2714f08b2c1f18e2a9e5fe45f0bde87",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081395,
+            "localadmin_id":404485987,
             "locality_id":101717907,
             "neighbourhood_id":85897245,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":404173545,
-    "wof:lastmodified":1449039285,
+    "wof:lastmodified":1454356548,
     "wof:name":"Pyknic Wear",
     "wof:parent_id":85897245,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "women's"
     ]
 },
-  "bbox": [-75.3825,40.605598,-75.3825,40.605598],
-  "geometry": {"coordinates":[-75.3825,40.605598],"type":"Point"}
+  "bbox": [
+    -75.3825,
+    40.605598,
+    -75.3825,
+    40.605598
+],
+  "geometry": {"coordinates":[-75.38249999999999,40.605598],"type":"Point"}
 }

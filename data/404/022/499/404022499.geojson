@@ -2,13 +2,14 @@
   "id": 404022499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.691395,39.96577,-76.691395,39.96577",
     "geom:latitude":39.96577,
     "geom:longitude":-76.691395,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1760 6th Ave",
     "sg:city":"York",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080953,
-        85817923
+        85817923,
+        102080953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"2f7b4275ccbdf8cfe8138449785b10dc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
             "neighbourhood_id":85817923,
             "region_id":85688481,
             "venue_id":404022499
         }
     ],
     "wof:id":404022499,
-    "wof:lastmodified":1449039410,
+    "wof:lastmodified":1454356633,
     "wof:name":"Williams Service Company",
     "wof:parent_id":85817923,
     "wof:placetype":"venue",
@@ -71,6 +70,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-76.691395,39.96577,-76.691395,39.96577],
+  "bbox": [
+    -76.691395,
+    39.96577,
+    -76.691395,
+    39.96577
+],
   "geometry": {"coordinates":[-76.691395,39.96577],"type":"Point"}
 }

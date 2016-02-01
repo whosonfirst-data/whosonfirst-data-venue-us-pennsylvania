@@ -2,13 +2,14 @@
   "id": 403894481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.832802,40.272301,-76.832802,40.272301",
     "geom:latitude":40.272301,
     "geom:longitude":-76.832802,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"811 S Progress Ave",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -51,8 +52,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85840955
+        85840955,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,17 +63,15 @@
     "wof:geomhash":"bc913e3d21ed8903adfbc36246807c30",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85840955,
             "region_id":85688481,
             "venue_id":403894481
         }
     ],
     "wof:id":403894481,
-    "wof:lastmodified":1449055175,
+    "wof:lastmodified":1454357512,
     "wof:name":"Harrisburg Gardens",
     "wof:parent_id":85840955,
     "wof:placetype":"venue",
@@ -88,6 +87,11 @@
         "landscape"
     ]
 },
-  "bbox": [-76.832802,40.272301,-76.832802,40.272301],
+  "bbox": [
+    -76.832802,
+    40.272301,
+    -76.832802,
+    40.272301
+],
   "geometry": {"coordinates":[-76.832802,40.272301],"type":"Point"}
 }

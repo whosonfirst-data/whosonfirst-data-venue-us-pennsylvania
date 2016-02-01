@@ -2,13 +2,14 @@
   "id": 404075503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.340348,40.081582,-76.340348,40.081582",
     "geom:latitude":40.081582,
     "geom:longitude":-76.340348,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1630 Manheim Pike",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -37,8 +38,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85848619
+        85848619,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +49,15 @@
     "wof:geomhash":"338083aed0298029cf7d14053a06db6f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85848619,
             "region_id":85688481,
             "venue_id":404075503
         }
     ],
     "wof:id":404075503,
-    "wof:lastmodified":1449039792,
+    "wof:lastmodified":1454356806,
     "wof:name":"Great American",
     "wof:parent_id":85848619,
     "wof:placetype":"venue",
@@ -70,6 +69,11 @@
         "casualty"
     ]
 },
-  "bbox": [-76.340348,40.081582,-76.340348,40.081582],
-  "geometry": {"coordinates":[-76.340348,40.081582],"type":"Point"}
+  "bbox": [
+    -76.340348,
+    40.081582,
+    -76.340348,
+    40.081582
+],
+  "geometry": {"coordinates":[-76.34034800000001,40.081582],"type":"Point"}
 }

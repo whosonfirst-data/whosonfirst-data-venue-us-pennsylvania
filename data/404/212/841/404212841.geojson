@@ -2,13 +2,14 @@
   "id": 404212841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.400471,40.622493,-75.400471,40.622493",
     "geom:latitude":40.622493,
     "geom:longitude":-75.400471,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1301 W Broad St",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85802779,
+        102191575,
+        404485987,
         85633793,
         101717907,
         102081395,
-        85802779
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"3a10a3511dc3cd3ebe2943c8114b6235",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081395,
+            "localadmin_id":404485987,
             "locality_id":101717907,
             "neighbourhood_id":85802779,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":404212841,
-    "wof:lastmodified":1449039908,
+    "wof:lastmodified":1454356882,
     "wof:name":"Abe's Six-Pack Llc",
     "wof:parent_id":85802779,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "wine"
     ]
 },
-  "bbox": [-75.400471,40.622493,-75.400471,40.622493],
+  "bbox": [
+    -75.400471,
+    40.622493,
+    -75.400471,
+    40.622493
+],
   "geometry": {"coordinates":[-75.400471,40.622493],"type":"Point"}
 }

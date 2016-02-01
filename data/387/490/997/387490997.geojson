@@ -2,13 +2,14 @@
   "id": 387490997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.972435,40.347345,-79.972435,40.347345",
     "geom:latitude":40.347345,
     "geom:longitude":-79.972435,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5081 Old Clairton Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -44,11 +45,13 @@
     "sg:website":"http://www.sccco.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85839661,
+        102191575,
+        404484247,
         85633793,
         101718705,
         102080887,
-        85839661
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,9 +61,10 @@
     "wof:geomhash":"aa4e2107a29b4d63f200ee8558ecc92d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484247,
             "locality_id":101718705,
             "neighbourhood_id":85839661,
             "region_id":85688481,
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":387490997,
-    "wof:lastmodified":1449059530,
+    "wof:lastmodified":1454361109,
     "wof:name":"Softcare Computer Consulting Company",
     "wof:parent_id":85839661,
     "wof:placetype":"venue",
@@ -84,6 +88,11 @@
         "software"
     ]
 },
-  "bbox": [-79.972435,40.347345,-79.972435,40.347345],
+  "bbox": [
+    -79.972435,
+    40.347345,
+    -79.972435,
+    40.347345
+],
   "geometry": {"coordinates":[-79.972435,40.347345],"type":"Point"}
 }

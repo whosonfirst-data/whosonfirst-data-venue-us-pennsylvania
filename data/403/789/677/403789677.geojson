@@ -2,13 +2,14 @@
   "id": 403789677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.131058,40.498962,-77.131058,40.498962",
     "geom:latitude":40.498962,
     "geom:longitude":-77.131058,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2 Juniata Pkwy W",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -47,8 +48,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080963,
-        85827701
+        85827701,
+        102080963
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,17 +59,15 @@
     "wof:geomhash":"f0a1cf57c0190ceb99c7d24bdc5584b9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080963,
-            "locality_id":-1,
             "neighbourhood_id":85827701,
             "region_id":85688481,
             "venue_id":403789677
         }
     ],
     "wof:id":403789677,
-    "wof:lastmodified":1449055233,
+    "wof:lastmodified":1454357551,
     "wof:name":"Latchford's Saw Shop",
     "wof:parent_id":85827701,
     "wof:placetype":"venue",
@@ -85,6 +84,11 @@
         "saw"
     ]
 },
-  "bbox": [-77.131058,40.498962,-77.131058,40.498962],
+  "bbox": [
+    -77.131058,
+    40.498962,
+    -77.131058,
+    40.498962
+],
   "geometry": {"coordinates":[-77.131058,40.498962],"type":"Point"}
 }

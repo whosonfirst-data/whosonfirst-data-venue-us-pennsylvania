@@ -2,13 +2,14 @@
   "id": 387166655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.997498,40.195301,-79.997498,40.195301",
     "geom:latitude":40.195301,
     "geom:longitude":-79.997498,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3730 Dry Run Rd Trlr G",
     "sg:city":"Monongahela",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081343,
-        85812977
+        85812977,
+        102081343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"1c212de99dbc001b69a30838512bbd41",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081343,
-            "locality_id":-1,
             "neighbourhood_id":85812977,
             "region_id":85688481,
             "venue_id":387166655
         }
     ],
     "wof:id":387166655,
-    "wof:lastmodified":1449058234,
+    "wof:lastmodified":1454360718,
     "wof:name":"Jancuski Auto Body",
     "wof:parent_id":85812977,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "shop"
     ]
 },
-  "bbox": [-79.997498,40.195301,-79.997498,40.195301],
-  "geometry": {"coordinates":[-79.997498,40.195301],"type":"Point"}
+  "bbox": [
+    -79.997498,
+    40.195301,
+    -79.997498,
+    40.195301
+],
+  "geometry": {"coordinates":[-79.99749799999999,40.195301],"type":"Point"}
 }

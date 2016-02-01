@@ -2,13 +2,14 @@
   "id": 387845013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.972281,42.131726,-79.972281,42.131726",
     "geom:latitude":42.131726,
     "geom:longitude":-79.972281,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5524 Reese Rd",
     "sg:city":"Erie",
     "sg:classifiers":[
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85807963,
+        102191575,
+        404486683,
         85633793,
         101720203,
         102080955,
-        85807963
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"14dbe60c2d19cea4ac097f837a498a1b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080955,
+            "localadmin_id":404486683,
             "locality_id":101720203,
             "neighbourhood_id":85807963,
             "region_id":85688481,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":387845013,
-    "wof:lastmodified":1449056726,
+    "wof:lastmodified":1454358563,
     "wof:name":"Fla Disney World Vac Home Rent",
     "wof:parent_id":85807963,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "management"
     ]
 },
-  "bbox": [-79.972281,42.131726,-79.972281,42.131726],
+  "bbox": [
+    -79.972281,
+    42.131726,
+    -79.972281,
+    42.131726
+],
   "geometry": {"coordinates":[-79.972281,42.131726],"type":"Point"}
 }

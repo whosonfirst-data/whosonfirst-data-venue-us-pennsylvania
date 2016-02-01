@@ -2,13 +2,14 @@
   "id": 387572577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.193802,40.325401,-80.193802,40.325401",
     "geom:latitude":40.325401,
     "geom:longitude":-80.193802,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3375 Millers Run Rd",
     "sg:city":"Cecil",
     "sg:classifiers":[
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420539939,
+        102191575,
+        404487735,
         85633793,
         101720321,
-        102081343
+        102081343,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +49,20 @@
     "wof:geomhash":"e4e706370b561a2a02994337debdde46",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081343,
+            "localadmin_id":404487735,
             "locality_id":101720321,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420539939,
             "region_id":85688481,
             "venue_id":387572577
         }
     ],
     "wof:id":387572577,
-    "wof:lastmodified":1449058434,
+    "wof:lastmodified":1454360781,
     "wof:name":"Cecil Community Child & Learning Ctr",
-    "wof:parent_id":-1,
+    "wof:parent_id":420539939,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -65,6 +70,11 @@
         "day"
     ]
 },
-  "bbox": [-80.193802,40.325401,-80.193802,40.325401],
-  "geometry": {"coordinates":[-80.193802,40.325401],"type":"Point"}
+  "bbox": [
+    -80.193802,
+    40.325401,
+    -80.193802,
+    40.325401
+],
+  "geometry": {"coordinates":[-80.19380200000001,40.325401],"type":"Point"}
 }

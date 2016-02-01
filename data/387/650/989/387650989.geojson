@@ -2,13 +2,14 @@
   "id": 387650989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.594347,40.106856,-79.594347,40.106856",
     "geom:latitude":40.106856,
     "geom:longitude":-79.594347,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"402 Fountain Mills Rd",
     "sg:city":"Scottdale",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85828483,
+        102191575,
+        404484117,
         85633793,
         101717129,
         102081383,
-        85828483
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"5c4c6a459fe2277e333fde5657fb745e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081383,
+            "localadmin_id":404484117,
             "locality_id":101717129,
             "neighbourhood_id":85828483,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387650989,
-    "wof:lastmodified":1449058425,
+    "wof:lastmodified":1454360779,
     "wof:name":"Tcb Services",
     "wof:parent_id":85828483,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "bureau"
     ]
 },
-  "bbox": [-79.594347,40.106856,-79.594347,40.106856],
+  "bbox": [
+    -79.594347,
+    40.106856,
+    -79.594347,
+    40.106856
+],
   "geometry": {"coordinates":[-79.594347,40.106856],"type":"Point"}
 }

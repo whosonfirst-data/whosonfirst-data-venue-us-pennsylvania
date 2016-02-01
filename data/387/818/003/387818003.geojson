@@ -2,13 +2,14 @@
   "id": 387818003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.919058,42.188117,-79.919058,42.188117",
     "geom:latitude":42.188117,
     "geom:longitude":-79.919058,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"951 King Rd",
     "sg:city":"Harborcreek",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080955,
-        85835179
+        85835179,
+        102080955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"53ee1e7a4fc8e5fca468a295b679c057",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080955,
-            "locality_id":-1,
             "neighbourhood_id":85835179,
             "region_id":85688481,
             "venue_id":387818003
         }
     ],
     "wof:id":387818003,
-    "wof:lastmodified":1449057950,
+    "wof:lastmodified":1454360640,
     "wof:name":"Hi Way Tavern",
     "wof:parent_id":85835179,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "tavern"
     ]
 },
-  "bbox": [-79.919058,42.188117,-79.919058,42.188117],
-  "geometry": {"coordinates":[-79.919058,42.188117],"type":"Point"}
+  "bbox": [
+    -79.919058,
+    42.188117,
+    -79.919058,
+    42.188117
+],
+  "geometry": {"coordinates":[-79.91905800000001,42.188117],"type":"Point"}
 }

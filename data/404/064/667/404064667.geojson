@@ -2,13 +2,14 @@
   "id": 404064667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.390529,40.156943,-76.390529,40.156943",
     "geom:latitude":40.156943,
     "geom:longitude":-76.390529,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"320 South Charalett St",
     "sg:city":"Manheim",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85853449
+        85853449,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"c73bd2500c8b08924f3e3edbb0875efa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85853449,
             "region_id":85688481,
             "venue_id":404064667
         }
     ],
     "wof:id":404064667,
-    "wof:lastmodified":1449039448,
+    "wof:lastmodified":1454356654,
     "wof:name":"JPS PAINTING AND RESTORATIONS",
     "wof:parent_id":85853449,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "painting-production"
     ]
 },
-  "bbox": [-76.390529,40.156943,-76.390529,40.156943],
+  "bbox": [
+    -76.390529,
+    40.156943,
+    -76.390529,
+    40.156943
+],
   "geometry": {"coordinates":[-76.390529,40.156943],"type":"Point"}
 }

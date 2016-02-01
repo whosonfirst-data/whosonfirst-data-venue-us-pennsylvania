@@ -2,13 +2,14 @@
   "id": 387540487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.264267,40.182159,-80.264267,40.182159",
     "geom:latitude":40.182159,
     "geom:longitude":-80.264267,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"999 Jefferson Ave",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -38,11 +39,13 @@
     "sg:website":"http://www.mcdonalds.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85852963,
+        102191575,
+        404487917,
         85633793,
         101718569,
         102081343,
-        85852963
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,9 +55,10 @@
     "wof:geomhash":"c2f8658bb38427c1b28560b67e91c856",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081343,
+            "localadmin_id":404487917,
             "locality_id":101718569,
             "neighbourhood_id":85852963,
             "region_id":85688481,
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":387540487,
-    "wof:lastmodified":1449057607,
+    "wof:lastmodified":1454360528,
     "wof:name":"McDonald's",
     "wof:parent_id":85852963,
     "wof:placetype":"venue",
@@ -77,6 +81,11 @@
         "chicken"
     ]
 },
-  "bbox": [-80.264267,40.182159,-80.264267,40.182159],
+  "bbox": [
+    -80.264267,
+    40.182159,
+    -80.264267,
+    40.182159
+],
   "geometry": {"coordinates":[-80.264267,40.182159],"type":"Point"}
 }

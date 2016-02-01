@@ -2,13 +2,14 @@
   "id": 387848031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.393619,40.52624,-78.393619,40.52624",
     "geom:latitude":40.52624,
     "geom:longitude":-78.393619,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"102 Howard Ave Apt 2",
     "sg:city":"Altoona",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85818685,
+        102191575,
+        404484619,
         85633793,
         101716595,
         102081325,
-        85818685
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"7ee8c3ac8ba4621110b69be0bafc3cbe",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081325,
+            "localadmin_id":404484619,
             "locality_id":101716595,
             "neighbourhood_id":85818685,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387848031,
-    "wof:lastmodified":1449056637,
+    "wof:lastmodified":1454358505,
     "wof:name":"Jpb Service Com",
     "wof:parent_id":85818685,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "bureau"
     ]
 },
-  "bbox": [-78.393619,40.52624,-78.393619,40.52624],
+  "bbox": [
+    -78.393619,
+    40.52624,
+    -78.393619,
+    40.52624
+],
   "geometry": {"coordinates":[-78.393619,40.52624],"type":"Point"}
 }

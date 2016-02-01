@@ -2,13 +2,14 @@
   "id": 404086843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.221916,40.027088,-76.221916,40.027088",
     "geom:latitude":40.027088,
     "geom:longitude":-76.221916,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"100 Stanley K Tanger Blvd",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -39,8 +40,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85823025
+        85823025,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,17 +51,15 @@
     "wof:geomhash":"af9746f9ae856d2a77da51fe67a6b6e9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85823025,
             "region_id":85688481,
             "venue_id":404086843
         }
     ],
     "wof:id":404086843,
-    "wof:lastmodified":1449039934,
+    "wof:lastmodified":1454356900,
     "wof:name":"Zales Jewelers",
     "wof:parent_id":85823025,
     "wof:placetype":"venue",
@@ -74,6 +73,11 @@
         "jeweler"
     ]
 },
-  "bbox": [-76.221916,40.027088,-76.221916,40.027088],
-  "geometry": {"coordinates":[-76.221916,40.027088],"type":"Point"}
+  "bbox": [
+    -76.221916,
+    40.027088,
+    -76.221916,
+    40.027088
+],
+  "geometry": {"coordinates":[-76.22191599999999,40.027088],"type":"Point"}
 }

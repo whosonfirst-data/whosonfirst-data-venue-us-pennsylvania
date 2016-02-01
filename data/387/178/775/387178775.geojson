@@ -2,13 +2,14 @@
   "id": 387178775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.209709,40.72049,-80.209709,40.72049",
     "geom:latitude":40.72049,
     "geom:longitude":-80.209709,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"493 Big Knob Rd",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081323,
-        85828661
+        85828661,
+        102081323
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"7c8db7a6fadae072d3626649708b6a8a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081323,
-            "locality_id":-1,
             "neighbourhood_id":85828661,
             "region_id":85688481,
             "venue_id":387178775
         }
     ],
     "wof:id":387178775,
-    "wof:lastmodified":1449058839,
+    "wof:lastmodified":1454360901,
     "wof:name":"Candys Cleaning Service",
     "wof:parent_id":85828661,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "house"
     ]
 },
-  "bbox": [-80.209709,40.72049,-80.209709,40.72049],
+  "bbox": [
+    -80.209709,
+    40.72049,
+    -80.209709,
+    40.72049
+],
   "geometry": {"coordinates":[-80.209709,40.72049],"type":"Point"}
 }

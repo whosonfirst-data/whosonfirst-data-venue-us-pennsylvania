@@ -2,13 +2,14 @@
   "id": 404065667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.353783,39.980278,-76.353783,39.980278",
     "geom:latitude":39.980278,
     "geom:longitude":-76.353783,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"913 Stehman Rd",
     "sg:city":"Millersville",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85854053
+        85854053,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"b0f8fabf2571b9c2ae532f3254e867e3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85854053,
             "region_id":85688481,
             "venue_id":404065667
         }
     ],
     "wof:id":404065667,
-    "wof:lastmodified":1449040321,
+    "wof:lastmodified":1454357134,
     "wof:name":"Balsley Construction",
     "wof:parent_id":85854053,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-76.353783,39.980278,-76.353783,39.980278],
-  "geometry": {"coordinates":[-76.353783,39.980278],"type":"Point"}
+  "bbox": [
+    -76.353783,
+    39.980278,
+    -76.353783,
+    39.980278
+],
+  "geometry": {"coordinates":[-76.35378300000001,39.980278],"type":"Point"}
 }

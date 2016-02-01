@@ -2,13 +2,14 @@
   "id": 387159007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.234596,40.3689,-80.234596,40.3689",
     "geom:latitude":40.3689,
     "geom:longitude":-80.234596,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"114 E Lincoln Ave",
     "sg:city":"Mc Donald",
     "sg:classifiers":[
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85829929,
+        102191575,
+        404483973,
         85633793,
-        101720523,
-        102080887,
-        85829929
+        101718557,
+        102081343,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"9956bb3df11ab461a5a9fb2d359b17ff",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102080887,
-            "locality_id":101720523,
+            "county_id":102081343,
+            "localadmin_id":404483973,
+            "locality_id":101718557,
             "neighbourhood_id":85829929,
             "region_id":85688481,
             "venue_id":387159007
         }
     ],
     "wof:id":387159007,
-    "wof:lastmodified":1449056569,
+    "wof:lastmodified":1454358440,
     "wof:name":"Jay's McDonald Pizza Shop & Delicatessen",
     "wof:parent_id":85829929,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "pizza"
     ]
 },
-  "bbox": [-80.234596,40.3689,-80.234596,40.3689],
+  "bbox": [
+    -80.234596,
+    40.3689,
+    -80.234596,
+    40.3689
+],
   "geometry": {"coordinates":[-80.234596,40.3689],"type":"Point"}
 }

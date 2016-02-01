@@ -2,13 +2,14 @@
   "id": 387851119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.401474,40.48273,-78.401474,40.48273",
     "geom:latitude":40.48273,
     "geom:longitude":-78.401474,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3415 Pleasant Valley Blvd",
     "sg:city":"Altoona",
     "sg:classifiers":[
@@ -86,10 +87,13 @@
     "sg:website":"http://national.citysearch.com/profile/external/8716374/altoona_pa/sherwin_williams.html?publisher=yellowpages&reference_id=1&placement=ypwebsitemip",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85831085,
+        102191575,
+        404484717,
         85633793,
+        101718879,
         102081325,
-        85831085
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,17 +103,18 @@
     "wof:geomhash":"34cee02676c3a1dfe695329a8f40b245",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081325,
-            "locality_id":-1,
+            "localadmin_id":404484717,
+            "locality_id":101718879,
             "neighbourhood_id":85831085,
             "region_id":85688481,
             "venue_id":387851119
         }
     ],
     "wof:id":387851119,
-    "wof:lastmodified":1449058618,
+    "wof:lastmodified":1454360829,
     "wof:name":"Sherwin-Williams",
     "wof:parent_id":85831085,
     "wof:placetype":"venue",
@@ -137,6 +142,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-78.401474,40.48273,-78.401474,40.48273],
-  "geometry": {"coordinates":[-78.401474,40.48273],"type":"Point"}
+  "bbox": [
+    -78.401474,
+    40.48273,
+    -78.401474,
+    40.48273
+],
+  "geometry": {"coordinates":[-78.40147399999999,40.48273],"type":"Point"}
 }

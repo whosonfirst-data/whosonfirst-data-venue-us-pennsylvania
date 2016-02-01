@@ -2,13 +2,14 @@
   "id": 387770327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.31287,41.101105,-80.31287,41.101105",
     "geom:latitude":41.101105,
     "geom:longitude":-80.31287,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4453 Old Mercer Rd",
     "sg:city":"Volant",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080929,
-        85836525
+        85836525,
+        102080929
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"0afac03bb17bd966f84de60fe1e88c7e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080929,
-            "locality_id":-1,
             "neighbourhood_id":85836525,
             "region_id":85688481,
             "venue_id":387770327
         }
     ],
     "wof:id":387770327,
-    "wof:lastmodified":1449059989,
+    "wof:lastmodified":1454361254,
     "wof:name":"Steve Black Tree Service",
     "wof:parent_id":85836525,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "tree"
     ]
 },
-  "bbox": [-80.31287,41.101105,-80.31287,41.101105],
+  "bbox": [
+    -80.31287,
+    41.101105,
+    -80.31287,
+    41.101105
+],
   "geometry": {"coordinates":[-80.31287,41.101105],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387485815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.812032,40.429389,-79.812032,40.429389",
     "geom:latitude":40.429389,
     "geom:longitude":-79.812032,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"333 Penn Center Blvd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85838743,
+        102191575,
+        404484135,
         85633793,
         101718841,
         102080887,
-        85838743
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"4a42f725ba6c2ab59b4d35fca113044c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484135,
             "locality_id":101718841,
             "neighbourhood_id":85838743,
             "region_id":85688481,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":387485815,
-    "wof:lastmodified":1449058421,
+    "wof:lastmodified":1454360777,
     "wof:name":"The Early Learning Institute",
     "wof:parent_id":85838743,
     "wof:placetype":"venue",
@@ -72,6 +76,11 @@
         "day"
     ]
 },
-  "bbox": [-79.812032,40.429389,-79.812032,40.429389],
+  "bbox": [
+    -79.812032,
+    40.429389,
+    -79.812032,
+    40.429389
+],
   "geometry": {"coordinates":[-79.812032,40.429389],"type":"Point"}
 }

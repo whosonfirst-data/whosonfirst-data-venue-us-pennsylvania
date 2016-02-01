@@ -2,13 +2,14 @@
   "id": 387851483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.371113,40.52668,-78.371113,40.52668",
     "geom:latitude":40.52668,
     "geom:longitude":-78.371113,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"919 Logan Blvd",
     "sg:city":"Altoona",
     "sg:classifiers":[
@@ -48,8 +49,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081325,
-        85813179
+        85813179,
+        102081325
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,17 +60,15 @@
     "wof:geomhash":"26db7af72fce6260499afff9aa118631",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081325,
-            "locality_id":-1,
             "neighbourhood_id":85813179,
             "region_id":85688481,
             "venue_id":387851483
         }
     ],
     "wof:id":387851483,
-    "wof:lastmodified":1449058617,
+    "wof:lastmodified":1454360829,
     "wof:name":"Cookie Grams",
     "wof:parent_id":85813179,
     "wof:placetype":"venue",
@@ -83,6 +82,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-78.371113,40.52668,-78.371113,40.52668],
-  "geometry": {"coordinates":[-78.371113,40.52668],"type":"Point"}
+  "bbox": [
+    -78.371113,
+    40.52668,
+    -78.371113,
+    40.52668
+],
+  "geometry": {"coordinates":[-78.37111299999999,40.52668],"type":"Point"}
 }

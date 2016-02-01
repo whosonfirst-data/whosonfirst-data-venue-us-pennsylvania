@@ -2,13 +2,14 @@
   "id": 404167943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.388058,40.581434,-75.388058,40.581434",
     "geom:latitude":40.581434,
     "geom:longitude":-75.388058,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3618 Route 378",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081395,
-        85859207
+        85859207,
+        102081395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"67d1d066d019f30e5960caf33b9782d8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081395,
-            "locality_id":-1,
             "neighbourhood_id":85859207,
             "region_id":85688481,
             "venue_id":404167943
         }
     ],
     "wof:id":404167943,
-    "wof:lastmodified":1449039724,
+    "wof:lastmodified":1454356769,
     "wof:name":"Marios Pizza Cafe",
     "wof:parent_id":85859207,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "italian"
     ]
 },
-  "bbox": [-75.388058,40.581434,-75.388058,40.581434],
+  "bbox": [
+    -75.388058,
+    40.581434,
+    -75.388058,
+    40.581434
+],
   "geometry": {"coordinates":[-75.388058,40.581434],"type":"Point"}
 }

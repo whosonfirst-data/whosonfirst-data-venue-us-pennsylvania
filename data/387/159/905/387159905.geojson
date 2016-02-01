@@ -2,13 +2,14 @@
   "id": 387159905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.234802,40.3694,-80.234802,40.3694",
     "geom:latitude":40.3694,
     "geom:longitude":-80.234802,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"120 N McDonald St",
     "sg:city":"Mc Donald",
     "sg:classifiers":[
@@ -25,11 +26,13 @@
     "sg:website":"www.rotorooter.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85829929,
+        102191575,
+        404483973,
         85633793,
-        101720523,
-        102080887,
-        85829929
+        101718557,
+        102081343,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +42,18 @@
     "wof:geomhash":"ca34704d00cba161c8ff86ea3c4550bd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102080887,
-            "locality_id":101720523,
+            "county_id":102081343,
+            "localadmin_id":404483973,
+            "locality_id":101718557,
             "neighbourhood_id":85829929,
             "region_id":85688481,
             "venue_id":387159905
         }
     ],
     "wof:id":387159905,
-    "wof:lastmodified":1449056566,
+    "wof:lastmodified":1454358439,
     "wof:name":"Roto-Rooter Plumbing Service",
     "wof:parent_id":85829929,
     "wof:placetype":"venue",
@@ -57,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.234802,40.3694,-80.234802,40.3694],
+  "bbox": [
+    -80.234802,
+    40.3694,
+    -80.234802,
+    40.3694
+],
   "geometry": {"coordinates":[-80.234802,40.3694],"type":"Point"}
 }

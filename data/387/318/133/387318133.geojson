@@ -2,13 +2,14 @@
   "id": 387318133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.991402,40.45417,-79.991402,40.45417",
     "geom:latitude":40.45417,
     "geom:longitude":-79.991402,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"300 Heinz St. Suite C-115",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"http://www.urbanescapepgh.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85815883,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85815883
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"504bcfb8cfeb2c0e909bf61b134e6e79",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85815883,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387318133,
-    "wof:lastmodified":1449056946,
+    "wof:lastmodified":1454358725,
     "wof:name":"Urban Escape/Customized Massage Therapy",
     "wof:parent_id":85815883,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "therapist"
     ]
 },
-  "bbox": [-79.991402,40.45417,-79.991402,40.45417],
-  "geometry": {"coordinates":[-79.991402,40.45417],"type":"Point"}
+  "bbox": [
+    -79.991402,
+    40.45417,
+    -79.991402,
+    40.45417
+],
+  "geometry": {"coordinates":[-79.99140199999999,40.45417],"type":"Point"}
 }

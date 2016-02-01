@@ -2,13 +2,14 @@
   "id": 403984039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.233764,39.823294,-77.233764,39.823294",
     "geom:latitude":39.823294,
     "geom:longitude":-77.233764,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"147 Gettys St",
     "sg:city":"Gettysburg",
     "sg:classifiers":[
@@ -38,8 +39,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080899,
-        85804527
+        85804527,
+        102080899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +50,15 @@
     "wof:geomhash":"0db02b845165ba94daa6c289abcfc731",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080899,
-            "locality_id":-1,
             "neighbourhood_id":85804527,
             "region_id":85688481,
             "venue_id":403984039
         }
     ],
     "wof:id":403984039,
-    "wof:lastmodified":1449055391,
+    "wof:lastmodified":1454357645,
     "wof:name":"Alexander Building Construction",
     "wof:parent_id":85804527,
     "wof:placetype":"venue",
@@ -73,6 +72,11 @@
         "contractor"
     ]
 },
-  "bbox": [-77.233764,39.823294,-77.233764,39.823294],
-  "geometry": {"coordinates":[-77.233764,39.823294],"type":"Point"}
+  "bbox": [
+    -77.233764,
+    39.823294,
+    -77.233764,
+    39.823294
+],
+  "geometry": {"coordinates":[-77.23376399999999,39.823294],"type":"Point"}
 }

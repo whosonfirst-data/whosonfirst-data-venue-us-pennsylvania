@@ -2,13 +2,14 @@
   "id": 387844889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.022505,42.118537,-80.022505,42.118537",
     "geom:latitude":42.118537,
     "geom:longitude":-80.022505,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2030 E 38th St",
     "sg:city":"Erie",
     "sg:classifiers":[
@@ -46,8 +47,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080955,
-        85827775
+        85827775,
+        102080955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,17 +58,15 @@
     "wof:geomhash":"794040d246055382d7b7ae0078373c72",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080955,
-            "locality_id":-1,
             "neighbourhood_id":85827775,
             "region_id":85688481,
             "venue_id":387844889
         }
     ],
     "wof:id":387844889,
-    "wof:lastmodified":1449057727,
+    "wof:lastmodified":1454360574,
     "wof:name":"Huffman Family Chiropractic - John Huffman DC",
     "wof:parent_id":85827775,
     "wof:placetype":"venue",
@@ -83,6 +82,11 @@
         "physical"
     ]
 },
-  "bbox": [-80.022505,42.118537,-80.022505,42.118537],
+  "bbox": [
+    -80.022505,
+    42.118537,
+    -80.022505,
+    42.118537
+],
   "geometry": {"coordinates":[-80.022505,42.118537],"type":"Point"}
 }

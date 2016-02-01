@@ -2,13 +2,14 @@
   "id": 387843281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.002213,42.114177,-80.002213,42.114177",
     "geom:latitude":42.114177,
     "geom:longitude":-80.002213,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4851 Avellino Dr",
     "sg:city":"Erie",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080955,
-        85827775
+        85827775,
+        102080955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"a346e05c20c63db336a384e874d38640",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080955,
-            "locality_id":-1,
             "neighbourhood_id":85827775,
             "region_id":85688481,
             "venue_id":387843281
         }
     ],
     "wof:id":387843281,
-    "wof:lastmodified":1449056445,
+    "wof:lastmodified":1454358358,
     "wof:name":"S H Real Estate",
     "wof:parent_id":85827775,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "broker"
     ]
 },
-  "bbox": [-80.002213,42.114177,-80.002213,42.114177],
+  "bbox": [
+    -80.002213,
+    42.114177,
+    -80.002213,
+    42.114177
+],
   "geometry": {"coordinates":[-80.002213,42.114177],"type":"Point"}
 }

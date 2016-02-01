@@ -2,13 +2,14 @@
   "id": 404063605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.394587,40.164134,-76.394587,40.164134",
     "geom:latitude":40.164134,
     "geom:longitude":-76.394587,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"18 E High St",
     "sg:city":"Manheim",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85836395
+        85836395,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"ed333c6efeda7575c397bd228d776c58",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85836395,
             "region_id":85688481,
             "venue_id":404063605
         }
     ],
     "wof:id":404063605,
-    "wof:lastmodified":1449039124,
+    "wof:lastmodified":1454356454,
     "wof:name":"Mariposa Azul",
     "wof:parent_id":85836395,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.394587,40.164134,-76.394587,40.164134],
+  "bbox": [
+    -76.394587,
+    40.164134,
+    -76.394587,
+    40.164134
+],
   "geometry": {"coordinates":[-76.394587,40.164134],"type":"Point"}
 }

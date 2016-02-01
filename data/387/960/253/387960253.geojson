@@ -2,13 +2,14 @@
   "id": 387960253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.652864,40.162557,-76.652864,40.162557",
     "geom:latitude":40.162557,
     "geom:longitude":-76.652864,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"68 Industrial Rd",
     "sg:city":"Elizabethtown",
     "sg:classifiers":[
@@ -45,8 +46,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85836929
+        85836929,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,17 +57,15 @@
     "wof:geomhash":"ecc95b270074cdbcec0abdc6e023994d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85836929,
             "region_id":85688481,
             "venue_id":387960253
         }
     ],
     "wof:id":387960253,
-    "wof:lastmodified":1449058846,
+    "wof:lastmodified":1454360902,
     "wof:name":"Pioneer",
     "wof:parent_id":85836929,
     "wof:placetype":"venue",
@@ -81,6 +80,11 @@
         "growers'"
     ]
 },
-  "bbox": [-76.652864,40.162557,-76.652864,40.162557],
-  "geometry": {"coordinates":[-76.652864,40.162557],"type":"Point"}
+  "bbox": [
+    -76.652864,
+    40.162557,
+    -76.652864,
+    40.162557
+],
+  "geometry": {"coordinates":[-76.65286399999999,40.162557],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404166713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.380126,40.602306,-75.380126,40.602306",
     "geom:latitude":40.602306,
     "geom:longitude":-75.380126,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"91 Upper Sayre Park Rd",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85897245,
+        102191575,
+        404485987,
         85633793,
         101717907,
         102081395,
-        85897245
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"0065142bd59125a8ed5affdd46ce15df",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081395,
+            "localadmin_id":404485987,
             "locality_id":101717907,
             "neighbourhood_id":85897245,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":404166713,
-    "wof:lastmodified":1449039813,
+    "wof:lastmodified":1454356818,
     "wof:name":"Delta Chi Theta",
     "wof:parent_id":85897245,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "fraternity"
     ]
 },
-  "bbox": [-75.380126,40.602306,-75.380126,40.602306],
+  "bbox": [
+    -75.380126,
+    40.602306,
+    -75.380126,
+    40.602306
+],
   "geometry": {"coordinates":[-75.380126,40.602306],"type":"Point"}
 }

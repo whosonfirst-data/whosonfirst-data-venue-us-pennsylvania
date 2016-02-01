@@ -2,13 +2,14 @@
   "id": 404049405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.220818,40.12789,-76.220818,40.12789",
     "geom:latitude":40.12789,
     "geom:longitude":-76.220818,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4140 Oregon Pike",
     "sg:city":"Ephrata",
     "sg:classifiers":[
@@ -34,8 +35,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85834405
+        85834405,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +46,15 @@
     "wof:geomhash":"d43d08a82666a6e2f254d0c4486fe675",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85834405,
             "region_id":85688481,
             "venue_id":404049405
         }
     ],
     "wof:id":404049405,
-    "wof:lastmodified":1449039665,
+    "wof:lastmodified":1454356753,
     "wof:name":"Rgal Brownstown",
     "wof:parent_id":85834405,
     "wof:placetype":"venue",
@@ -70,6 +69,11 @@
         "intestines"
     ]
 },
-  "bbox": [-76.220818,40.12789,-76.220818,40.12789],
-  "geometry": {"coordinates":[-76.220818,40.12789],"type":"Point"}
+  "bbox": [
+    -76.220818,
+    40.12789,
+    -76.220818,
+    40.12789
+],
+  "geometry": {"coordinates":[-76.22081799999999,40.12789],"type":"Point"}
 }

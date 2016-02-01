@@ -2,13 +2,14 @@
   "id": 387938551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.212979,40.203473,-77.212979,40.203473",
     "geom:latitude":40.203473,
     "geom:longitude":-77.212979,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"910 Newville Rd",
     "sg:city":"Carlisle",
     "sg:classifiers":[
@@ -48,11 +49,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85865395,
+        102191575,
+        404486423,
         85633793,
         101719085,
         102081359,
-        85865395
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,9 +65,10 @@
     "wof:geomhash":"7065368e8346c5b9ecda34c7342442b9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081359,
+            "localadmin_id":404486423,
             "locality_id":101719085,
             "neighbourhood_id":85865395,
             "region_id":85688481,
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":387938551,
-    "wof:lastmodified":1449058943,
+    "wof:lastmodified":1454360934,
     "wof:name":"Aero Energy",
     "wof:parent_id":85865395,
     "wof:placetype":"venue",
@@ -88,6 +92,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-77.212979,40.203473,-77.212979,40.203473],
+  "bbox": [
+    -77.212979,
+    40.203473,
+    -77.212979,
+    40.203473
+],
   "geometry": {"coordinates":[-77.212979,40.203473],"type":"Point"}
 }

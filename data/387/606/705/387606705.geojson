@@ -2,13 +2,14 @@
   "id": 387606705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.50407,40.02253,-78.50407,40.02253",
     "geom:latitude":40.02253,
     "geom:longitude":-78.50407,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"469 N Juliana St",
     "sg:city":"Bedford",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080939,
-        85810345
+        85810345,
+        102080939
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"2e4c5b65e17926e8f01b446e9cf95fb0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080939,
-            "locality_id":-1,
             "neighbourhood_id":85810345,
             "region_id":85688481,
             "venue_id":387606705
         }
     ],
     "wof:id":387606705,
-    "wof:lastmodified":1449056691,
+    "wof:lastmodified":1454358542,
     "wof:name":"Acn",
     "wof:parent_id":85810345,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "coach"
     ]
 },
-  "bbox": [-78.50407,40.02253,-78.50407,40.02253],
+  "bbox": [
+    -78.50407,
+    40.02253,
+    -78.50407,
+    40.02253
+],
   "geometry": {"coordinates":[-78.50407,40.02253],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403909811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.800813,40.213719,-76.800813,40.213719",
     "geom:latitude":40.213719,
     "geom:longitude":-76.800813,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2716 S Front St",
     "sg:city":"Steelton",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85851671
+        85851671,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"94c3a50bce5ce3bbe75e78da0c1ad1f8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85851671,
             "region_id":85688481,
             "venue_id":403909811
         }
     ],
     "wof:id":403909811,
-    "wof:lastmodified":1449055627,
+    "wof:lastmodified":1454357786,
     "wof:name":"Durabond Pipes",
     "wof:parent_id":85851671,
     "wof:placetype":"venue",
@@ -64,6 +63,11 @@
         "coating"
     ]
 },
-  "bbox": [-76.800813,40.213719,-76.800813,40.213719],
-  "geometry": {"coordinates":[-76.800813,40.213719],"type":"Point"}
+  "bbox": [
+    -76.800813,
+    40.213719,
+    -76.800813,
+    40.213719
+],
+  "geometry": {"coordinates":[-76.80081300000001,40.213719],"type":"Point"}
 }

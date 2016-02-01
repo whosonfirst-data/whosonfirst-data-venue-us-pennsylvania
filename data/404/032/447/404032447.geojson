@@ -2,13 +2,14 @@
   "id": 404032447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.739834,40.03499,-76.739834,40.03499",
     "geom:latitude":40.03499,
     "geom:longitude":-76.739834,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3735 Board Rd",
     "sg:city":"York",
     "sg:classifiers":[
@@ -41,8 +42,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080953,
-        85846231
+        85846231,
+        102080953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,17 +53,15 @@
     "wof:geomhash":"52dfb7854c74c1c4ac16527f33859825",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
             "neighbourhood_id":85846231,
             "region_id":85688481,
             "venue_id":404032447
         }
     ],
     "wof:id":404032447,
-    "wof:lastmodified":1449039623,
+    "wof:lastmodified":1454356740,
     "wof:name":"Thos. Somerville Co.",
     "wof:parent_id":85846231,
     "wof:placetype":"venue",
@@ -78,6 +77,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-76.739834,40.03499,-76.739834,40.03499],
+  "bbox": [
+    -76.739834,
+    40.03499,
+    -76.739834,
+    40.03499
+],
   "geometry": {"coordinates":[-76.739834,40.03499],"type":"Point"}
 }

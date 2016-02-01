@@ -2,13 +2,14 @@
   "id": 387962531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.03966,40.298008,-77.03966,40.298008",
     "geom:latitude":40.298008,
     "geom:longitude":-77.03966,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"475 Sample Bridge Rd",
     "sg:city":"Enola",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081359,
-        85826667
+        85826667,
+        102081359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"23ff941a76835bea603765ddee82ed73",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081359,
-            "locality_id":-1,
             "neighbourhood_id":85826667,
             "region_id":85688481,
             "venue_id":387962531
         }
     ],
     "wof:id":387962531,
-    "wof:lastmodified":1449058338,
+    "wof:lastmodified":1454360750,
     "wof:name":"Aaron Potteiger & Son",
     "wof:parent_id":85826667,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "plumber"
     ]
 },
-  "bbox": [-77.03966,40.298008,-77.03966,40.298008],
+  "bbox": [
+    -77.03966,
+    40.298008,
+    -77.03966,
+    40.298008
+],
   "geometry": {"coordinates":[-77.03966,40.298008],"type":"Point"}
 }

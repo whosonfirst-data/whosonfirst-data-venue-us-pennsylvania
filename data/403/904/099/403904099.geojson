@@ -2,13 +2,14 @@
   "id": 403904099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.787847,40.32276,-76.787847,40.32276",
     "geom:latitude":40.32276,
     "geom:longitude":-76.787847,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6059 Allentown Blvd 302",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420537733,
+        102191575,
+        404486185,
         85633793,
-        101719819,
-        102081347
+        101719817,
+        102081347,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"c6a6dc856911d67e47a014f5faea8efc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":101719819,
-            "neighbourhood_id":-1,
+            "localadmin_id":404486185,
+            "locality_id":101719817,
+            "neighbourhood_id":420537733,
             "region_id":85688481,
             "venue_id":403904099
         }
     ],
     "wof:id":403904099,
-    "wof:lastmodified":1449056004,
+    "wof:lastmodified":1454358006,
     "wof:name":"South Central Pa Investors",
-    "wof:parent_id":-1,
+    "wof:parent_id":420537733,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "advisory"
     ]
 },
-  "bbox": [-76.787847,40.32276,-76.787847,40.32276],
+  "bbox": [
+    -76.787847,
+    40.32276,
+    -76.787847,
+    40.32276
+],
   "geometry": {"coordinates":[-76.787847,40.32276],"type":"Point"}
 }

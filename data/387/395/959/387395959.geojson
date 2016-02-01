@@ -2,13 +2,14 @@
   "id": 387395959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.885586,40.44018,-79.885586,40.44018",
     "geom:latitude":40.44018,
     "geom:longitude":-79.885586,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"716 Rebecca Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85844235,
+        102191575,
+        404484253,
         85633793,
         101718701,
         102080887,
-        85844235
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"2d4a7ee47f11b8d032fc557d062f14a6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484253,
             "locality_id":101718701,
             "neighbourhood_id":85844235,
             "region_id":85688481,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":387395959,
-    "wof:lastmodified":1449059368,
+    "wof:lastmodified":1454361058,
     "wof:name":"Kab Distributors, Inc.",
     "wof:parent_id":85844235,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "merchandise-wholesale"
     ]
 },
-  "bbox": [-79.885586,40.44018,-79.885586,40.44018],
+  "bbox": [
+    -79.885586,
+    40.44018,
+    -79.885586,
+    40.44018
+],
   "geometry": {"coordinates":[-79.885586,40.44018],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404215873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.397102,40.6227,-75.397102,40.6227",
     "geom:latitude":40.6227,
     "geom:longitude":-75.397102,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1020 W Broad St",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85802779,
+        102191575,
+        404485987,
         85633793,
         101717907,
         102081395,
-        85802779
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"98085189e48d38625724bedb00150fc7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081395,
+            "localadmin_id":404485987,
             "locality_id":101717907,
             "neighbourhood_id":85802779,
             "region_id":85688481,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":404215873,
-    "wof:lastmodified":1449040089,
+    "wof:lastmodified":1454357000,
     "wof:name":"Arreola Ramon T DMD",
     "wof:parent_id":85802779,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.397102,40.6227,-75.397102,40.6227],
+  "bbox": [
+    -75.397102,
+    40.6227,
+    -75.397102,
+    40.6227
+],
   "geometry": {"coordinates":[-75.397102,40.6227],"type":"Point"}
 }

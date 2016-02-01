@@ -2,13 +2,14 @@
   "id": 387832931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.223879,42.078251,-80.223879,42.078251",
     "geom:latitude":42.078251,
     "geom:longitude":-80.223879,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"413 Pasadena Dr",
     "sg:city":"Erie",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080955,
-        85832053
+        85832053,
+        102080955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"1bf6f8d61ad65147af679764dd88a3aa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080955,
-            "locality_id":-1,
             "neighbourhood_id":85832053,
             "region_id":85688481,
             "venue_id":387832931
         }
     ],
     "wof:id":387832931,
-    "wof:lastmodified":1449056133,
+    "wof:lastmodified":1454358108,
     "wof:name":"Flagship Marketing",
     "wof:parent_id":85832053,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "consultant"
     ]
 },
-  "bbox": [-80.223879,42.078251,-80.223879,42.078251],
+  "bbox": [
+    -80.223879,
+    42.078251,
+    -80.223879,
+    42.078251
+],
   "geometry": {"coordinates":[-80.223879,42.078251],"type":"Point"}
 }

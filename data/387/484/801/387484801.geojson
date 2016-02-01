@@ -2,13 +2,14 @@
   "id": 387484801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.827763,40.464201,-79.827763,40.464201",
     "geom:latitude":40.464201,
     "geom:longitude":-79.827763,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"11628 Penn Hills Dr",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -40,8 +41,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85845623
+        85845623,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,17 +52,15 @@
     "wof:geomhash":"5d40def58d87b6816706b6caae36da45",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85845623,
             "region_id":85688481,
             "venue_id":387484801
         }
     ],
     "wof:id":387484801,
-    "wof:lastmodified":1449059699,
+    "wof:lastmodified":1454361163,
     "wof:name":"Big Lots",
     "wof:parent_id":85845623,
     "wof:placetype":"venue",
@@ -71,6 +70,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-79.827763,40.464201,-79.827763,40.464201],
+  "bbox": [
+    -79.827763,
+    40.464201,
+    -79.827763,
+    40.464201
+],
   "geometry": {"coordinates":[-79.827763,40.464201],"type":"Point"}
 }

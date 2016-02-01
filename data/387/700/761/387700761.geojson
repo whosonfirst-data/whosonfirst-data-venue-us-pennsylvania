@@ -2,13 +2,14 @@
   "id": 387700761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.906026,40.894379,-79.906026,40.894379",
     "geom:latitude":40.894379,
     "geom:longitude":-79.906026,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"101 Clearview Cir",
     "sg:city":"Butler",
     "sg:classifiers":[
@@ -45,10 +46,13 @@
     "sg:website":"http://www.chuckecheese.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536989,
+        102191575,
+        404485061,
         85633793,
         101720155,
-        102083677
+        102083677,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,19 +62,20 @@
     "wof:geomhash":"4b83919c8a33d519b45e1d103d7db753",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083677,
+            "localadmin_id":404485061,
             "locality_id":101720155,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420536989,
             "region_id":85688481,
             "venue_id":387700761
         }
     ],
     "wof:id":387700761,
-    "wof:lastmodified":1449059584,
+    "wof:lastmodified":1454361128,
     "wof:name":"Chuck E. Cheese's",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536989,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -85,6 +90,11 @@
         "pizza"
     ]
 },
-  "bbox": [-79.906026,40.894379,-79.906026,40.894379],
+  "bbox": [
+    -79.906026,
+    40.894379,
+    -79.906026,
+    40.894379
+],
   "geometry": {"coordinates":[-79.906026,40.894379],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404062473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.380435,40.146021,-76.380435,40.146021",
     "geom:latitude":40.146021,
     "geom:longitude":-76.380435,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"850 Lancaster Rd",
     "sg:city":"Manheim",
     "sg:classifiers":[
@@ -32,8 +33,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85853449
+        85853449,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +44,15 @@
     "wof:geomhash":"f01aa6bc8dc8902c173e7ee6ca68de78",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85853449,
             "region_id":85688481,
             "venue_id":404062473
         }
     ],
     "wof:id":404062473,
-    "wof:lastmodified":1449040256,
+    "wof:lastmodified":1454357092,
     "wof:name":"Morgan Automotive Inc",
     "wof:parent_id":85853449,
     "wof:placetype":"venue",
@@ -66,6 +65,11 @@
         "cars-wholesale"
     ]
 },
-  "bbox": [-76.380435,40.146021,-76.380435,40.146021],
-  "geometry": {"coordinates":[-76.380435,40.146021],"type":"Point"}
+  "bbox": [
+    -76.380435,
+    40.146021,
+    -76.380435,
+    40.146021
+],
+  "geometry": {"coordinates":[-76.38043500000001,40.146021],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387697317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.895266,40.860857,-79.895266,40.860857",
     "geom:latitude":40.860857,
     "geom:longitude":-79.895266,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"106 S Main St",
     "sg:city":"Butler",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"http://www.taxmefair.net/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85824973,
+        102191575,
+        404485057,
         85633793,
-        101720149,
+        101718197,
         102083677,
-        85824973
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"df334f809a3fa851db4aa606f5f4f9e8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083677,
-            "locality_id":101720149,
+            "localadmin_id":404485057,
+            "locality_id":101718197,
             "neighbourhood_id":85824973,
             "region_id":85688481,
             "venue_id":387697317
         }
     ],
     "wof:id":387697317,
-    "wof:lastmodified":1449058509,
+    "wof:lastmodified":1454360801,
     "wof:name":"W L Rodgers Associates",
     "wof:parent_id":85824973,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "appraiser"
     ]
 },
-  "bbox": [-79.895266,40.860857,-79.895266,40.860857],
-  "geometry": {"coordinates":[-79.895266,40.860857],"type":"Point"}
+  "bbox": [
+    -79.895266,
+    40.860857,
+    -79.895266,
+    40.860857
+],
+  "geometry": {"coordinates":[-79.89526600000001,40.860857],"type":"Point"}
 }

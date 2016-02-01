@@ -2,13 +2,14 @@
   "id": 387650423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.586365,40.099083,-79.586365,40.099083",
     "geom:latitude":40.099083,
     "geom:longitude":-79.586365,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2 Dollar Ave",
     "sg:city":"Scottdale",
     "sg:classifiers":[
@@ -44,11 +45,13 @@
     "sg:website":"http://www.nationwide.com/agent/Scottdale-PENNSYLVANIA-insurance-agent/don-hoke/office.html",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85828483,
+        102191575,
+        404484117,
         85633793,
         101717129,
         102081383,
-        85828483
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,9 +61,10 @@
     "wof:geomhash":"37a7aed6822f785d20c3a442f0e5de39",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081383,
+            "localadmin_id":404484117,
             "locality_id":101717129,
             "neighbourhood_id":85828483,
             "region_id":85688481,
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":387650423,
-    "wof:lastmodified":1449058423,
+    "wof:lastmodified":1454360778,
     "wof:name":"Don Hoke, Inc. - Nationwide Insurance",
     "wof:parent_id":85828483,
     "wof:placetype":"venue",
@@ -79,6 +83,11 @@
         "homeowner"
     ]
 },
-  "bbox": [-79.586365,40.099083,-79.586365,40.099083],
+  "bbox": [
+    -79.586365,
+    40.099083,
+    -79.586365,
+    40.099083
+],
   "geometry": {"coordinates":[-79.586365,40.099083],"type":"Point"}
 }

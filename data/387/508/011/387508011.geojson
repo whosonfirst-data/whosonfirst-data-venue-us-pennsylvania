@@ -2,13 +2,14 @@
   "id": 387508011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.870408,40.49001,-79.870408,40.49001",
     "geom:latitude":40.49001,
     "geom:longitude":-79.870408,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1384 Old Freeport Rd Ste 3B",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -39,8 +40,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85836241
+        85836241,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,17 +51,15 @@
     "wof:geomhash":"4dbf7a8699d328cda784faf97cd094aa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85836241,
             "region_id":85688481,
             "venue_id":387508011
         }
     ],
     "wof:id":387508011,
-    "wof:lastmodified":1449058243,
+    "wof:lastmodified":1454360718,
     "wof:name":"Allegheny Attorneys at Law P.C",
     "wof:parent_id":85836241,
     "wof:placetype":"venue",
@@ -79,6 +78,11 @@
         "dwi"
     ]
 },
-  "bbox": [-79.870408,40.49001,-79.870408,40.49001],
+  "bbox": [
+    -79.870408,
+    40.49001,
+    -79.870408,
+    40.49001
+],
   "geometry": {"coordinates":[-79.870408,40.49001],"type":"Point"}
 }

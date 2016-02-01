@@ -2,13 +2,14 @@
   "id": 387564123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.133904,40.262699,-80.133904,40.262699",
     "geom:latitude":40.262699,
     "geom:longitude":-80.133904,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1009 Waterdam Plaza Dr",
     "sg:city":"McMurray",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081343,
-        85814861
+        85814861,
+        102081343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"2ebbf31fb35946eaf6b743df026a3525",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081343,
-            "locality_id":-1,
             "neighbourhood_id":85814861,
             "region_id":85688481,
             "venue_id":387564123
         }
     ],
     "wof:id":387564123,
-    "wof:lastmodified":1449059692,
+    "wof:lastmodified":1454361161,
     "wof:name":"Angelia's Pizza",
     "wof:parent_id":85814861,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "pizza"
     ]
 },
-  "bbox": [-80.133904,40.262699,-80.133904,40.262699],
+  "bbox": [
+    -80.133904,
+    40.262699,
+    -80.133904,
+    40.262699
+],
   "geometry": {"coordinates":[-80.133904,40.262699],"type":"Point"}
 }

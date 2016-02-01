@@ -2,13 +2,14 @@
   "id": 387614729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.32795,39.958698,-79.32795,39.958698",
     "geom:latitude":39.958698,
     "geom:longitude":-79.32795,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"184 W. MUD PIKE RD.",
     "sg:city":"Rockwood",
     "sg:classifiers":[
@@ -51,8 +52,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081361,
-        85852609
+        85852609,
+        102081361
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,17 +63,15 @@
     "wof:geomhash":"1f781a089eb3392b46a4caa2b1375258",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081361,
-            "locality_id":-1,
             "neighbourhood_id":85852609,
             "region_id":85688481,
             "venue_id":387614729
         }
     ],
     "wof:id":387614729,
-    "wof:lastmodified":1449060022,
+    "wof:lastmodified":1454361264,
     "wof:name":"Thyme & Tradition,Ltd.",
     "wof:parent_id":85852609,
     "wof:placetype":"venue",
@@ -89,6 +88,11 @@
         "pilate"
     ]
 },
-  "bbox": [-79.32795,39.958698,-79.32795,39.958698],
+  "bbox": [
+    -79.32795,
+    39.958698,
+    -79.32795,
+    39.958698
+],
   "geometry": {"coordinates":[-79.32795,39.958698],"type":"Point"}
 }

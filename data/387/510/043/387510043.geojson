@@ -2,13 +2,14 @@
   "id": 387510043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.887283,40.486912,-79.887283,40.486912",
     "geom:latitude":40.486912,
     "geom:longitude":-79.887283,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"957 Freeport Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     "sg:website":"http://www.gamestop.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85830655,
+        102191575,
+        404484931,
         85633793,
+        101718683,
         102080887,
-        85830655
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +46,18 @@
     "wof:geomhash":"11132c3502d07818e8fdbe1aae28d8d3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
+            "localadmin_id":404484931,
+            "locality_id":101718683,
             "neighbourhood_id":85830655,
             "region_id":85688481,
             "venue_id":387510043
         }
     ],
     "wof:id":387510043,
-    "wof:lastmodified":1449058395,
+    "wof:lastmodified":1454360770,
     "wof:name":"Gamestop",
     "wof:parent_id":85830655,
     "wof:placetype":"venue",
@@ -63,6 +68,11 @@
         "supply"
     ]
 },
-  "bbox": [-79.887283,40.486912,-79.887283,40.486912],
+  "bbox": [
+    -79.887283,
+    40.486912,
+    -79.887283,
+    40.486912
+],
   "geometry": {"coordinates":[-79.887283,40.486912],"type":"Point"}
 }

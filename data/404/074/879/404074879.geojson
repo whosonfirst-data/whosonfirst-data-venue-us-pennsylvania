@@ -2,13 +2,14 @@
   "id": 404074879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.263305,40.066283,-76.263305,40.066283",
     "geom:latitude":40.066283,
     "geom:longitude":-76.263305,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"210 Eshelman Rd",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85812477
+        85812477,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"39d929c469d7120ea2d5ca580803f39b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85812477,
             "region_id":85688481,
             "venue_id":404074879
         }
     ],
     "wof:id":404074879,
-    "wof:lastmodified":1449039782,
+    "wof:lastmodified":1454356792,
     "wof:name":"The Binns Family Foundation",
     "wof:parent_id":85812477,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "trust"
     ]
 },
-  "bbox": [-76.263305,40.066283,-76.263305,40.066283],
+  "bbox": [
+    -76.263305,
+    40.066283,
+    -76.263305,
+    40.066283
+],
   "geometry": {"coordinates":[-76.263305,40.066283],"type":"Point"}
 }

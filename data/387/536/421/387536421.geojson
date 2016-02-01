@@ -2,13 +2,14 @@
   "id": 387536421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.209735,40.224353,-80.209735,40.224353",
     "geom:latitude":40.224353,
     "geom:longitude":-80.209735,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"275 Meadowlands Blvd",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081343,
-        85833251
+        85833251,
+        102081343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"7ea995c2db166bc12d6c802bdc36f539",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081343,
-            "locality_id":-1,
             "neighbourhood_id":85833251,
             "region_id":85688481,
             "venue_id":387536421
         }
     ],
     "wof:id":387536421,
-    "wof:lastmodified":1449058376,
+    "wof:lastmodified":1454360763,
     "wof:name":"Washington Hospital Home Health Service",
     "wof:parent_id":85833251,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "referral"
     ]
 },
-  "bbox": [-80.209735,40.224353,-80.209735,40.224353],
-  "geometry": {"coordinates":[-80.209735,40.224353],"type":"Point"}
+  "bbox": [
+    -80.209735,
+    40.224353,
+    -80.209735,
+    40.224353
+],
+  "geometry": {"coordinates":[-80.20973499999999,40.224353],"type":"Point"}
 }

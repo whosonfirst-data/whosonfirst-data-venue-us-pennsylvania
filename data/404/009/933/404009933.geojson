@@ -2,13 +2,14 @@
   "id": 404009933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.740043,39.958641,-76.740043,39.958641",
     "geom:latitude":39.958641,
     "geom:longitude":-76.740043,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"473 W Market St",
     "sg:city":"York",
     "sg:classifiers":[
@@ -38,10 +39,13 @@
     "sg:website":"http://www.fwbehler.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85833149,
+        102191575,
+        404488029,
         85633793,
+        101717279,
         102080953,
-        85833149
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,17 +55,18 @@
     "wof:geomhash":"c6a151efb6b394f59102da409025b76a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
+            "localadmin_id":404488029,
+            "locality_id":101717279,
             "neighbourhood_id":85833149,
             "region_id":85688481,
             "venue_id":404009933
         }
     ],
     "wof:id":404009933,
-    "wof:lastmodified":1449040310,
+    "wof:lastmodified":1454357125,
     "wof:name":"Behler F W Inc",
     "wof:parent_id":85833149,
     "wof:placetype":"venue",
@@ -76,6 +81,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-76.740043,39.958641,-76.740043,39.958641],
+  "bbox": [
+    -76.740043,
+    39.958641,
+    -76.740043,
+    39.958641
+],
   "geometry": {"coordinates":[-76.740043,39.958641],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403979275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.390764,39.785787,-77.390764,39.785787",
     "geom:latitude":39.785787,
     "geom:longitude":-77.390764,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"605 Fairfield Station Rd",
     "sg:city":"Fairfield",
     "sg:classifiers":[
@@ -37,11 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85827223,
+        102191575,
+        404484791,
         85633793,
         101718869,
         102080899,
-        85827223
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,9 +54,10 @@
     "wof:geomhash":"00aeec53cd937c259476370c67ef3e71",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080899,
+            "localadmin_id":404484791,
             "locality_id":101718869,
             "neighbourhood_id":85827223,
             "region_id":85688481,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":403979275,
-    "wof:lastmodified":1449055550,
+    "wof:lastmodified":1454357740,
     "wof:name":"American Mapping",
     "wof:parent_id":85827223,
     "wof:placetype":"venue",
@@ -76,6 +80,11 @@
         "shows"
     ]
 },
-  "bbox": [-77.390764,39.785787,-77.390764,39.785787],
+  "bbox": [
+    -77.390764,
+    39.785787,
+    -77.390764,
+    39.785787
+],
   "geometry": {"coordinates":[-77.390764,39.785787],"type":"Point"}
 }

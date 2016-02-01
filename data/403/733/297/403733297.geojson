@@ -2,13 +2,14 @@
   "id": 403733297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.448648,40.344078,-76.448648,40.344078",
     "geom:latitude":40.344078,
     "geom:longitude":-76.448648,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"344 N 21st St",
     "sg:city":"Lebanon",
     "sg:classifiers":[
@@ -24,7 +25,12 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420538695,
+        102191575,
+        404485699,
         85633793,
+        101717093,
+        102081341,
         85688481
     ],
     "wof:breaches":[],
@@ -35,23 +41,30 @@
     "wof:geomhash":"e8ca7095446a21b494eea25e2bf020cc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081341,
+            "localadmin_id":404485699,
+            "locality_id":101717093,
+            "neighbourhood_id":420538695,
             "region_id":85688481,
             "venue_id":403733297
         }
     ],
     "wof:id":403733297,
-    "wof:lastmodified":1449054806,
+    "wof:lastmodified":1454357295,
     "wof:name":"Clifford K Rauch Pastor",
-    "wof:parent_id":-1,
+    "wof:parent_id":420538695,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.448648,40.344078,-76.448648,40.344078],
-  "geometry": {"coordinates":[-76.448648,40.344078],"type":"Point"}
+  "bbox": [
+    -76.448648,
+    40.344078,
+    -76.448648,
+    40.344078
+],
+  "geometry": {"coordinates":[-76.44864800000001,40.344078],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387561395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.124826,40.277161,-80.124826,40.277161",
     "geom:latitude":40.277161,
     "geom:longitude":-80.124826,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2939 Washington Rd",
     "sg:city":"Canonsburg",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081343,
-        85814861
+        85814861,
+        102081343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"616ce2f135803eb6d7bc0954d18c4a75",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081343,
-            "locality_id":-1,
             "neighbourhood_id":85814861,
             "region_id":85688481,
             "venue_id":387561395
         }
     ],
     "wof:id":387561395,
-    "wof:lastmodified":1449058807,
+    "wof:lastmodified":1454360885,
     "wof:name":"Sun Chevrolet",
     "wof:parent_id":85814861,
     "wof:placetype":"venue",
@@ -66,6 +65,11 @@
         "car"
     ]
 },
-  "bbox": [-80.124826,40.277161,-80.124826,40.277161],
+  "bbox": [
+    -80.124826,
+    40.277161,
+    -80.124826,
+    40.277161
+],
   "geometry": {"coordinates":[-80.124826,40.277161],"type":"Point"}
 }

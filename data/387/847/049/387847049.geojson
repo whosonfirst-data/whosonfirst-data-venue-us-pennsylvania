@@ -2,13 +2,14 @@
   "id": 387847049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.093063,42.066525,-80.093063,42.066525",
     "geom:latitude":42.066525,
     "geom:longitude":-80.093063,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"100 Millcreek Mall",
     "sg:city":"Erie",
     "sg:classifiers":[
@@ -37,8 +38,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080955,
-        85827851
+        85827851,
+        102080955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +49,15 @@
     "wof:geomhash":"9ec5f2df6384c3aa31c502cd1f953982",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080955,
-            "locality_id":-1,
             "neighbourhood_id":85827851,
             "region_id":85688481,
             "venue_id":387847049
         }
     ],
     "wof:id":387847049,
-    "wof:lastmodified":1449057483,
+    "wof:lastmodified":1454359156,
     "wof:name":"Rue21",
     "wof:parent_id":85827851,
     "wof:placetype":"venue",
@@ -75,6 +74,11 @@
         "store"
     ]
 },
-  "bbox": [-80.093063,42.066525,-80.093063,42.066525],
+  "bbox": [
+    -80.093063,
+    42.066525,
+    -80.093063,
+    42.066525
+],
   "geometry": {"coordinates":[-80.093063,42.066525],"type":"Point"}
 }

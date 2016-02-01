@@ -2,13 +2,14 @@
   "id": 387908625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.95923,40.236572,-76.95923,40.236572",
     "geom:latitude":40.236572,
     "geom:longitude":-76.95923,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"115 Saint Johns Church Rd Ste A",
     "sg:city":"Camp Hill",
     "sg:classifiers":[
@@ -26,8 +27,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081359,
-        85850501
+        85850501,
+        102081359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,17 +38,15 @@
     "wof:geomhash":"cb3edab719539360c952e13cae9b92e6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081359,
-            "locality_id":-1,
             "neighbourhood_id":85850501,
             "region_id":85688481,
             "venue_id":387908625
         }
     ],
     "wof:id":387908625,
-    "wof:lastmodified":1449058262,
+    "wof:lastmodified":1454360729,
     "wof:name":"Sun by Weiss Tanning",
     "wof:parent_id":85850501,
     "wof:placetype":"venue",
@@ -55,6 +54,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.95923,40.236572,-76.95923,40.236572],
-  "geometry": {"coordinates":[-76.95923,40.236572],"type":"Point"}
+  "bbox": [
+    -76.95923,
+    40.236572,
+    -76.95923,
+    40.236572
+],
+  "geometry": {"coordinates":[-76.95923000000001,40.236572],"type":"Point"}
 }

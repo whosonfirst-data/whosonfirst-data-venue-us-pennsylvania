@@ -2,13 +2,14 @@
   "id": 404212161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.421898,40.631599,-75.421898,40.631599",
     "geom:latitude":40.631599,
     "geom:longitude":-75.421898,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1241 Club Ave",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85834145,
+        102191575,
+        404485941,
         85633793,
         101717925,
         102081327,
-        85834145
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"25b70e1b77343a31c40fe1b5b48dfc02",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081327,
+            "localadmin_id":404485941,
             "locality_id":101717925,
             "neighbourhood_id":85834145,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":404212161,
-    "wof:lastmodified":1449039912,
+    "wof:lastmodified":1454356883,
     "wof:name":"Park View Court Apts",
     "wof:parent_id":85834145,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-75.421898,40.631599,-75.421898,40.631599],
+  "bbox": [
+    -75.421898,
+    40.631599,
+    -75.421898,
+    40.631599
+],
   "geometry": {"coordinates":[-75.421898,40.631599],"type":"Point"}
 }

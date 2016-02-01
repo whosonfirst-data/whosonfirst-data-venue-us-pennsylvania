@@ -2,13 +2,14 @@
   "id": 286805911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.49331,41.217766,-80.49331,41.217766",
     "geom:latitude":41.217766,
     "geom:longitude":-80.49331,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1178 Stambaugh Ave",
     "sg:city":"Sharon",
     "sg:classifiers":[
@@ -29,7 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420539011,
+        102191575,
+        404487969,
         85633793,
+        101718115,
+        102080965,
         85688481
     ],
     "wof:breaches":[],
@@ -40,18 +46,20 @@
     "wof:geomhash":"fc3025ea271a71ace7c23c0366bc66ba",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102080965,
+            "localadmin_id":404487969,
+            "locality_id":101718115,
+            "neighbourhood_id":420539011,
             "region_id":85688481,
             "venue_id":286805911
         }
     ],
     "wof:id":286805911,
-    "wof:lastmodified":1449016169,
+    "wof:lastmodified":1454356378,
     "wof:name":"Ivan's Auto Body Shop",
-    "wof:parent_id":-1,
+    "wof:parent_id":420539011,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -61,6 +69,11 @@
         "painting"
     ]
 },
-  "bbox": [-80.49331,41.217766,-80.49331,41.217766],
-  "geometry": {"coordinates":[-80.49331,41.217766],"type":"Point"}
+  "bbox": [
+    -80.49331,
+    41.217766,
+    -80.49331,
+    41.217766
+],
+  "geometry": {"coordinates":[-80.49330999999999,41.217766],"type":"Point"}
 }

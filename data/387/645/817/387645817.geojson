@@ -2,13 +2,14 @@
   "id": 387645817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.287193,40.242882,-79.287193,40.242882",
     "geom:latitude":40.242882,
     "geom:longitude":-79.287193,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1160 Darlington Rd",
     "sg:city":"Ligonier",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081383,
-        85813565
+        85813565,
+        102081383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"a074a789f3290c28ccf3d20e8a001cf5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":-1,
             "neighbourhood_id":85813565,
             "region_id":85688481,
             "venue_id":387645817
         }
     ],
     "wof:id":387645817,
-    "wof:lastmodified":1449056492,
+    "wof:lastmodified":1454358395,
     "wof:name":"B & D Transport",
     "wof:parent_id":85813565,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-79.287193,40.242882,-79.287193,40.242882],
+  "bbox": [
+    -79.287193,
+    40.242882,
+    -79.287193,
+    40.242882
+],
   "geometry": {"coordinates":[-79.287193,40.242882],"type":"Point"}
 }

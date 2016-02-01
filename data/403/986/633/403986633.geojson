@@ -2,13 +2,14 @@
   "id": 403986633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.840727,39.764406,-76.840727,39.764406",
     "geom:latitude":39.764406,
     "geom:longitude":-76.840727,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6625 Blooming Grove Rd",
     "sg:city":"Glenville",
     "sg:classifiers":[
@@ -42,8 +43,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080953,
-        85832403
+        85832403,
+        102080953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,17 +54,15 @@
     "wof:geomhash":"14469de3234bcb756f37eff9d8981dd3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
             "neighbourhood_id":85832403,
             "region_id":85688481,
             "venue_id":403986633
         }
     ],
     "wof:id":403986633,
-    "wof:lastmodified":1449055705,
+    "wof:lastmodified":1454357831,
     "wof:name":"Brant Builders Inc.",
     "wof:parent_id":85832403,
     "wof:placetype":"venue",
@@ -81,6 +80,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-76.840727,39.764406,-76.840727,39.764406],
+  "bbox": [
+    -76.840727,
+    39.764406,
+    -76.840727,
+    39.764406
+],
   "geometry": {"coordinates":[-76.840727,39.764406],"type":"Point"}
 }

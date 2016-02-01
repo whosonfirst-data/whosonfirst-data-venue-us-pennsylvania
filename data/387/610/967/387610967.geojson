@@ -2,13 +2,14 @@
   "id": 387610967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.41961,39.846914,-78.41961,39.846914",
     "geom:latitude":39.846914,
     "geom:longitude":-78.41961,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5370 Clear Ridge Rd",
     "sg:city":"Clearville",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080939,
-        85848733
+        85848733,
+        102080939
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"4fbe6317724aa81a4890915b71a87109",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080939,
-            "locality_id":-1,
             "neighbourhood_id":85848733,
             "region_id":85688481,
             "venue_id":387610967
         }
     ],
     "wof:id":387610967,
-    "wof:lastmodified":1449059861,
+    "wof:lastmodified":1454361213,
     "wof:name":"Rocky Top Designs",
     "wof:parent_id":85848733,
     "wof:placetype":"venue",
@@ -64,6 +63,11 @@
         "producer"
     ]
 },
-  "bbox": [-78.41961,39.846914,-78.41961,39.846914],
-  "geometry": {"coordinates":[-78.41961,39.846914],"type":"Point"}
+  "bbox": [
+    -78.41961,
+    39.846914,
+    -78.41961,
+    39.846914
+],
+  "geometry": {"coordinates":[-78.41961000000001,39.846914],"type":"Point"}
 }

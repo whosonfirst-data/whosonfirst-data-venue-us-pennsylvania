@@ -2,13 +2,14 @@
   "id": 387492783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.991493,40.336942,-79.991493,40.336942",
     "geom:latitude":40.336942,
     "geom:longitude":-79.991493,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5460 Curry Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536253,
+        102191575,
+        404484861,
         85633793,
         101718815,
-        102080887
+        102080887,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,20 @@
     "wof:geomhash":"cb51b6c1114b6bfa1e1c97ea906bcb14",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484861,
             "locality_id":101718815,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420536253,
             "region_id":85688481,
             "venue_id":387492783
         }
     ],
     "wof:id":387492783,
-    "wof:lastmodified":1449056107,
+    "wof:lastmodified":1454358088,
     "wof:name":"Bloom Refractory Products",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536253,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -67,6 +72,11 @@
         "clay"
     ]
 },
-  "bbox": [-79.991493,40.336942,-79.991493,40.336942],
-  "geometry": {"coordinates":[-79.991493,40.336942],"type":"Point"}
+  "bbox": [
+    -79.991493,
+    40.336942,
+    -79.991493,
+    40.336942
+],
+  "geometry": {"coordinates":[-79.99149300000001,40.336942],"type":"Point"}
 }

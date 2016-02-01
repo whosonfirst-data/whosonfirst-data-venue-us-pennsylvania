@@ -2,13 +2,14 @@
   "id": 387541603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.233094,40.181608,-80.233094,40.181608",
     "geom:latitude":40.181608,
     "geom:longitude":-80.233094,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"196 Murtland Ave",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -36,11 +37,13 @@
     "sg:website":"http://www.aaa.com/scripts/WebObjects.dll/ZipCode.woa/wa/route",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85852963,
+        102191575,
+        404487917,
         85633793,
         101718569,
         102081343,
-        85852963
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,9 +53,10 @@
     "wof:geomhash":"51e8703ca6a7c4b333da197209690af1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081343,
+            "localadmin_id":404487917,
             "locality_id":101718569,
             "neighbourhood_id":85852963,
             "region_id":85688481,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":387541603,
-    "wof:lastmodified":1449056532,
+    "wof:lastmodified":1454358421,
     "wof:name":"AAA Insurance",
     "wof:parent_id":85852963,
     "wof:placetype":"venue",
@@ -73,6 +77,11 @@
         "business"
     ]
 },
-  "bbox": [-80.233094,40.181608,-80.233094,40.181608],
-  "geometry": {"coordinates":[-80.233094,40.181608],"type":"Point"}
+  "bbox": [
+    -80.233094,
+    40.181608,
+    -80.233094,
+    40.181608
+],
+  "geometry": {"coordinates":[-80.23309399999999,40.181608],"type":"Point"}
 }

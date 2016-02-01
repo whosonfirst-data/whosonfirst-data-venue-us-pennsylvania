@@ -2,13 +2,14 @@
   "id": 387522489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.071899,40.341,-80.071899,40.341",
     "geom:latitude":40.341,
     "geom:longitude":-80.071899,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"207 Devonwood Dr",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85811383,
+        102191575,
+        404484331,
         85633793,
         101720495,
         102080887,
-        85811383
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"6d07a05c82db2062fb51aeb22685228f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484331,
             "locality_id":101720495,
             "neighbourhood_id":85811383,
             "region_id":85688481,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":387522489,
-    "wof:lastmodified":1449057913,
+    "wof:lastmodified":1454360631,
     "wof:name":"Duff James C Atty",
     "wof:parent_id":85811383,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.071899,40.341,-80.071899,40.341],
+  "bbox": [
+    -80.071899,
+    40.341,
+    -80.071899,
+    40.341
+],
   "geometry": {"coordinates":[-80.071899,40.341],"type":"Point"}
 }

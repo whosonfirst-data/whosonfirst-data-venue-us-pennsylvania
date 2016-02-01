@@ -2,13 +2,14 @@
   "id": 387307459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.000041,40.399588,-80.000041,40.399588",
     "geom:latitude":40.399588,
     "geom:longitude":-80.000041,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1405 Saw Mill Run Blvd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"www.doglogic.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85806601,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85806601
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"15ba9e57161d6c3196854bbda249e286",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85806601,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387307459,
-    "wof:lastmodified":1449057086,
+    "wof:lastmodified":1454358824,
     "wof:name":"Doglogic Dog Daycare",
     "wof:parent_id":85806601,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "pet"
     ]
 },
-  "bbox": [-80.000041,40.399588,-80.000041,40.399588],
+  "bbox": [
+    -80.000041,
+    40.399588,
+    -80.000041,
+    40.399588
+],
   "geometry": {"coordinates":[-80.000041,40.399588],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387726603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.959503,40.697498,-79.959503,40.697498",
     "geom:latitude":40.697498,
     "geom:longitude":-79.959503,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"409 Route 228 W",
     "sg:city":"Valencia",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102083677,
-        85815109
+        85815109,
+        102083677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"16466b05e300919101adf563ca1bb72e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102083677,
-            "locality_id":-1,
             "neighbourhood_id":85815109,
             "region_id":85688481,
             "venue_id":387726603
         }
     ],
     "wof:id":387726603,
-    "wof:lastmodified":1449058719,
+    "wof:lastmodified":1454360862,
     "wof:name":"Quality Gardens",
     "wof:parent_id":85815109,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "gardening"
     ]
 },
-  "bbox": [-79.959503,40.697498,-79.959503,40.697498],
+  "bbox": [
+    -79.959503,
+    40.697498,
+    -79.959503,
+    40.697498
+],
   "geometry": {"coordinates":[-79.959503,40.697498],"type":"Point"}
 }

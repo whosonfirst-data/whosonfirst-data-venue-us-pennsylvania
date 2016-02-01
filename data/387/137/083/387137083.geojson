@@ -2,13 +2,14 @@
   "id": 387137083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.9388,40.315617,-79.9388,40.315617",
     "geom:latitude":40.315617,
     "geom:longitude":-79.9388,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1200 Brooks Ln",
     "sg:city":"Clairton",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536287,
+        102191575,
+        404484955,
         85633793,
         101718663,
-        102080887
+        102080887,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"dd066c9e4b3bf0f5556603b6ad3f5cc9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484955,
             "locality_id":101718663,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420536287,
             "region_id":85688481,
             "venue_id":387137083
         }
     ],
     "wof:id":387137083,
-    "wof:lastmodified":1449059399,
+    "wof:lastmodified":1454361069,
     "wof:name":"McCormick Medical Assocs",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536287,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.9388,40.315617,-79.9388,40.315617],
+  "bbox": [
+    -79.9388,
+    40.315617,
+    -79.9388,
+    40.315617
+],
   "geometry": {"coordinates":[-79.9388,40.315617],"type":"Point"}
 }

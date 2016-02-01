@@ -2,13 +2,14 @@
   "id": 387136921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.384071,40.528198,-80.384071,40.528198",
     "geom:latitude":40.528198,
     "geom:longitude":-80.384071,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"25 Wilson Rd",
     "sg:city":"Clinton",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85836049
+        85836049,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"7ac333ddc355eb0e1383ff73b9b60db4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85836049,
             "region_id":85688481,
             "venue_id":387136921
         }
     ],
     "wof:id":387136921,
-    "wof:lastmodified":1449059863,
+    "wof:lastmodified":1454361214,
     "wof:name":"Clinton United Presbyterian Church",
     "wof:parent_id":85836049,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "churches-presbyterian"
     ]
 },
-  "bbox": [-80.384071,40.528198,-80.384071,40.528198],
-  "geometry": {"coordinates":[-80.384071,40.528198],"type":"Point"}
+  "bbox": [
+    -80.384071,
+    40.528198,
+    -80.384071,
+    40.528198
+],
+  "geometry": {"coordinates":[-80.38407100000001,40.528198],"type":"Point"}
 }

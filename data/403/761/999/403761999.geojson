@@ -2,13 +2,14 @@
   "id": 403761999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.908082,40.140407,-76.908082,40.140407",
     "geom:latitude":40.140407,
     "geom:longitude":-76.908082,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1045 Siddonsburg Rd",
     "sg:city":"Mechanicsburg",
     "sg:classifiers":[
@@ -33,8 +34,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080953,
-        85833079
+        85833079,
+        102080953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +45,15 @@
     "wof:geomhash":"6ec90e3e3ee1889adf38c511e74a1600",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
             "neighbourhood_id":85833079,
             "region_id":85688481,
             "venue_id":403761999
         }
     ],
     "wof:id":403761999,
-    "wof:lastmodified":1449055648,
+    "wof:lastmodified":1454357797,
     "wof:name":"Chris Hengst",
     "wof:parent_id":85833079,
     "wof:placetype":"venue",
@@ -68,6 +67,11 @@
         "architectural"
     ]
 },
-  "bbox": [-76.908082,40.140407,-76.908082,40.140407],
-  "geometry": {"coordinates":[-76.908082,40.140407],"type":"Point"}
+  "bbox": [
+    -76.908082,
+    40.140407,
+    -76.908082,
+    40.140407
+],
+  "geometry": {"coordinates":[-76.90808199999999,40.140407],"type":"Point"}
 }

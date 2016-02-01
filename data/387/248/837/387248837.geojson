@@ -2,13 +2,14 @@
   "id": 387248837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.899467,40.409248,-79.899467,40.409248",
     "geom:latitude":40.409248,
     "geom:longitude":-79.899467,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"800 Martha St",
     "sg:city":"Homestead",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     "sg:website":"http://www.textro.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85851951,
+        102191575,
+        404482541,
         85633793,
         101718713,
         102080887,
-        85851951
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"1191d69a5ed72146162fbaa82ede6bce",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482541,
             "locality_id":101718713,
             "neighbourhood_id":85851951,
             "region_id":85688481,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":387248837,
-    "wof:lastmodified":1449058198,
+    "wof:lastmodified":1454360708,
     "wof:name":"Textro Division",
     "wof:parent_id":85851951,
     "wof:placetype":"venue",
@@ -69,6 +73,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.899467,40.409248,-79.899467,40.409248],
+  "bbox": [
+    -79.899467,
+    40.409248,
+    -79.899467,
+    40.409248
+],
   "geometry": {"coordinates":[-79.899467,40.409248],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387658355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.228603,40.442712,-79.228603,40.442712",
     "geom:latitude":40.442712,
     "geom:longitude":-79.228603,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"162 Resort Plaza Dr Suite 3",
     "sg:city":"Blairsville",
     "sg:classifiers":[],
@@ -19,7 +20,12 @@
     "sg:website":"http://www.advanceautoparts.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420538361,
+        102191575,
+        404486345,
         85633793,
+        101718953,
+        102081387,
         85688481
     ],
     "wof:breaches":[],
@@ -30,23 +36,30 @@
     "wof:geomhash":"2856411f3a736a66af7a8ed52cf6af16",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081387,
+            "localadmin_id":404486345,
+            "locality_id":101718953,
+            "neighbourhood_id":420538361,
             "region_id":85688481,
             "venue_id":387658355
         }
     ],
     "wof:id":387658355,
-    "wof:lastmodified":1449056033,
+    "wof:lastmodified":1454358023,
     "wof:name":"Advance Auto Parts",
-    "wof:parent_id":-1,
+    "wof:parent_id":420538361,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.228603,40.442712,-79.228603,40.442712],
-  "geometry": {"coordinates":[-79.228603,40.442712],"type":"Point"}
+  "bbox": [
+    -79.228603,
+    40.442712,
+    -79.228603,
+    40.442712
+],
+  "geometry": {"coordinates":[-79.22860300000001,40.442712],"type":"Point"}
 }

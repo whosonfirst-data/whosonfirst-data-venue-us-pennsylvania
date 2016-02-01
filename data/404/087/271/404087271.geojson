@@ -2,13 +2,14 @@
   "id": 404087271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.208826,40.025673,-76.208826,40.025673",
     "geom:latitude":40.025673,
     "geom:longitude":-76.208826,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2346 Lincoln Hwy E",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -38,8 +39,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85823025
+        85823025,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +50,15 @@
     "wof:geomhash":"6a2ed780873bfa9168668bec963db403",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85823025,
             "region_id":85688481,
             "venue_id":404087271
         }
     ],
     "wof:id":404087271,
-    "wof:lastmodified":1449039569,
+    "wof:lastmodified":1454356718,
     "wof:name":"Wendy's",
     "wof:parent_id":85823025,
     "wof:placetype":"venue",
@@ -72,6 +71,11 @@
         "dog"
     ]
 },
-  "bbox": [-76.208826,40.025673,-76.208826,40.025673],
+  "bbox": [
+    -76.208826,
+    40.025673,
+    -76.208826,
+    40.025673
+],
   "geometry": {"coordinates":[-76.208826,40.025673],"type":"Point"}
 }

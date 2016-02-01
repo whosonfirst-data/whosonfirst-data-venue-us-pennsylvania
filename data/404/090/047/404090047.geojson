@@ -2,13 +2,14 @@
   "id": 404090047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.40036,40.03883,-76.40036,40.03883",
     "geom:latitude":40.03883,
     "geom:longitude":-76.40036,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"200 Richardson Dr",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85814875
+        85814875,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"793f198a532b11004dddf22776ad4628",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85814875,
             "region_id":85688481,
             "venue_id":404090047
         }
     ],
     "wof:id":404090047,
-    "wof:lastmodified":1449040039,
+    "wof:lastmodified":1454356974,
     "wof:name":"Pennsylvania Jaycees",
     "wof:parent_id":85814875,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.40036,40.03883,-76.40036,40.03883],
-  "geometry": {"coordinates":[-76.40036,40.03883],"type":"Point"}
+  "bbox": [
+    -76.40036,
+    40.03883,
+    -76.40036,
+    40.03883
+],
+  "geometry": {"coordinates":[-76.40036000000001,40.03883],"type":"Point"}
 }

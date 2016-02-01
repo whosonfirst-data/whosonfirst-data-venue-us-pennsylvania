@@ -2,13 +2,14 @@
   "id": 387225149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.032607,40.308167,-80.032607,40.308167",
     "geom:latitude":40.308167,
     "geom:longitude":-80.032607,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5901 Library Rd",
     "sg:city":"Bethel Park",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     "sg:website":"www.kingsschoolkids.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85806925,
+        102191575,
+        404484853,
         85633793,
         101718799,
         102080887,
-        85806925
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"877773f9d12bfa31269d0a2eb21008b1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484853,
             "locality_id":101718799,
             "neighbourhood_id":85806925,
             "region_id":85688481,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":387225149,
-    "wof:lastmodified":1449057282,
+    "wof:lastmodified":1454358988,
     "wof:name":"Fbumc King School Kids",
     "wof:parent_id":85806925,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "elementary"
     ]
 },
-  "bbox": [-80.032607,40.308167,-80.032607,40.308167],
+  "bbox": [
+    -80.032607,
+    40.308167,
+    -80.032607,
+    40.308167
+],
   "geometry": {"coordinates":[-80.032607,40.308167],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387101913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.338232,40.680072,-80.338232,40.680072",
     "geom:latitude":40.680072,
     "geom:longitude":-80.338232,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"670 State Ave",
     "sg:city":"Beaver",
     "sg:classifiers":[
@@ -47,8 +48,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081323,
-        85827637
+        85827637,
+        102081323
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,17 +59,15 @@
     "wof:geomhash":"ebfb84d7350e166ee197d6a29e727222",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081323,
-            "locality_id":-1,
             "neighbourhood_id":85827637,
             "region_id":85688481,
             "venue_id":387101913
         }
     ],
     "wof:id":387101913,
-    "wof:lastmodified":1449058107,
+    "wof:lastmodified":1454360683,
     "wof:name":"Guardian Storage Center",
     "wof:parent_id":85827637,
     "wof:placetype":"venue",
@@ -85,6 +84,11 @@
         "self"
     ]
 },
-  "bbox": [-80.338232,40.680072,-80.338232,40.680072],
+  "bbox": [
+    -80.338232,
+    40.680072,
+    -80.338232,
+    40.680072
+],
   "geometry": {"coordinates":[-80.338232,40.680072],"type":"Point"}
 }

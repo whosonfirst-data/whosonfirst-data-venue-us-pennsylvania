@@ -2,13 +2,14 @@
   "id": 404101363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.004601,41.22556,-77.004601,41.22556",
     "geom:latitude":41.22556,
     "geom:longitude":-77.004601,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1120 W Mountain Ave",
     "sg:city":"Williamsport",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85802799,
+        102191575,
+        404485355,
         85633793,
-        101716811,
+        101716809,
         102081317,
-        85802799
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +51,18 @@
     "wof:geomhash":"f23237a3055e25a0c54dba0b3dff69bc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081317,
-            "locality_id":101716811,
+            "localadmin_id":404485355,
+            "locality_id":101716809,
             "neighbourhood_id":85802799,
             "region_id":85688481,
             "venue_id":404101363
         }
     ],
     "wof:id":404101363,
-    "wof:lastmodified":1449039767,
+    "wof:lastmodified":1454356782,
     "wof:name":"Sauers Wholesale Distributing, Inc",
     "wof:parent_id":85802799,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-77.004601,41.22556,-77.004601,41.22556],
-  "geometry": {"coordinates":[-77.004601,41.22556],"type":"Point"}
+  "bbox": [
+    -77.004601,
+    41.22556,
+    -77.004601,
+    41.22556
+],
+  "geometry": {"coordinates":[-77.00460099999999,41.22556],"type":"Point"}
 }

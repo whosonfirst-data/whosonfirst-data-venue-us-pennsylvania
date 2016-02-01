@@ -2,13 +2,14 @@
   "id": 387283737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.981432,40.429025,-79.981432,40.429025",
     "geom:latitude":40.429025,
     "geom:longitude":-79.981432,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1713 E Carson St",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -25,11 +26,13 @@
     "sg:website":"www.sbarpgh.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85850327,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85850327
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +42,10 @@
     "wof:geomhash":"5d39348cabbce0c53410447635781df9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85850327,
             "region_id":85688481,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":387283737,
-    "wof:lastmodified":1449057223,
+    "wof:lastmodified":1454358939,
     "wof:name":"S Bar",
     "wof:parent_id":85850327,
     "wof:placetype":"venue",
@@ -57,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.981432,40.429025,-79.981432,40.429025],
+  "bbox": [
+    -79.981432,
+    40.429025,
+    -79.981432,
+    40.429025
+],
   "geometry": {"coordinates":[-79.981432,40.429025],"type":"Point"}
 }

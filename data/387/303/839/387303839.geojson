@@ -2,13 +2,14 @@
   "id": 387303839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.982399,40.480999,-79.982399,40.480999",
     "geom:latitude":40.480999,
     "geom:longitude":-79.982399,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"201 Karen Dr",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85804759,
+        102191575,
+        404484241,
         85633793,
+        101718843,
         102080887,
-        85804759
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,17 +41,18 @@
     "wof:geomhash":"88df36ec64451da6cda275a4468f424b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
+            "localadmin_id":404484241,
+            "locality_id":101718843,
             "neighbourhood_id":85804759,
             "region_id":85688481,
             "venue_id":387303839
         }
     ],
     "wof:id":387303839,
-    "wof:lastmodified":1449056155,
+    "wof:lastmodified":1454358124,
     "wof:name":"Hunkele Edward Atty",
     "wof:parent_id":85804759,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.982399,40.480999,-79.982399,40.480999],
+  "bbox": [
+    -79.982399,
+    40.480999,
+    -79.982399,
+    40.480999
+],
   "geometry": {"coordinates":[-79.982399,40.480999],"type":"Point"}
 }

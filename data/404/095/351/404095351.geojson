@@ -2,13 +2,14 @@
   "id": 404095351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.306802,40.038378,-76.306802,40.038378",
     "geom:latitude":40.038378,
     "geom:longitude":-76.306802,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"33-35 N Market St",
     "sg:city":"Lancaster",
     "sg:classifiers":[],
@@ -19,11 +20,13 @@
     "sg:website":"http://www.dispensingco.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85818111,
+        102191575,
+        404487183,
         85633793,
         101718643,
         102081377,
-        85818111
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -33,9 +36,10 @@
     "wof:geomhash":"3368eb0dcf9c112d6eba38a467adc339",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081377,
+            "localadmin_id":404487183,
             "locality_id":101718643,
             "neighbourhood_id":85818111,
             "region_id":85688481,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":404095351,
-    "wof:lastmodified":1449039700,
+    "wof:lastmodified":1454356763,
     "wof:name":"Lancaster Dispensing Company",
     "wof:parent_id":85818111,
     "wof:placetype":"venue",
@@ -51,6 +55,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.306802,40.038378,-76.306802,40.038378],
+  "bbox": [
+    -76.306802,
+    40.038378,
+    -76.306802,
+    40.038378
+],
   "geometry": {"coordinates":[-76.306802,40.038378],"type":"Point"}
 }

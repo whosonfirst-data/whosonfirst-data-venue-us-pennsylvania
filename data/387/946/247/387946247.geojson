@@ -2,13 +2,14 @@
   "id": 387946247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.121803,40.233898,-77.121803,40.233898",
     "geom:latitude":40.233898,
     "geom:longitude":-77.121803,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1700 Harrisburg Pike",
     "sg:city":"Carlisle",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85865395,
+        102191575,
+        404486423,
         85633793,
         101719085,
         102081359,
-        85865395
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"dcdc4ba54d2bbcbd477ae6cbb359fefa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081359,
+            "localadmin_id":404486423,
             "locality_id":101719085,
             "neighbourhood_id":85865395,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387946247,
-    "wof:lastmodified":1449059460,
+    "wof:lastmodified":1454361090,
     "wof:name":"Embers Gift Shop",
     "wof:parent_id":85865395,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.121803,40.233898,-77.121803,40.233898],
+  "bbox": [
+    -77.121803,
+    40.233898,
+    -77.121803,
+    40.233898
+],
   "geometry": {"coordinates":[-77.121803,40.233898],"type":"Point"}
 }

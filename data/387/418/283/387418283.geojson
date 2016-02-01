@@ -2,13 +2,14 @@
   "id": 387418283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.000099,40.442299,-80.000099,40.442299",
     "geom:latitude":40.442299,
     "geom:longitude":-80.000099,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"210 6th Ave Ste 3720",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85873585,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85873585
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"af48f9fe48f164d1e39377b6bb866f76",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85873585,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387418283,
-    "wof:lastmodified":1449059088,
+    "wof:lastmodified":1454360979,
     "wof:name":"Wilshire Assocs",
     "wof:parent_id":85873585,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "investing"
     ]
 },
-  "bbox": [-80.000099,40.442299,-80.000099,40.442299],
-  "geometry": {"coordinates":[-80.000099,40.442299],"type":"Point"}
+  "bbox": [
+    -80.000099,
+    40.442299,
+    -80.000099,
+    40.442299
+],
+  "geometry": {"coordinates":[-80.00009900000001,40.442299],"type":"Point"}
 }

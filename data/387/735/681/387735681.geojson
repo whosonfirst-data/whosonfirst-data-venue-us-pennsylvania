@@ -2,13 +2,14 @@
   "id": 387735681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.100403,40.682098,-80.100403,40.682098",
     "geom:latitude":40.682098,
     "geom:longitude":-80.100403,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"10 Saint Francis Way",
     "sg:city":"Cranberry Twp",
     "sg:classifiers":[
@@ -40,8 +41,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102083677,
-        85812951
+        85812951,
+        102083677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,17 +52,15 @@
     "wof:geomhash":"bf6f8b8b6978f5658f21be0c54c9b164",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102083677,
-            "locality_id":-1,
             "neighbourhood_id":85812951,
             "region_id":85688481,
             "venue_id":387735681
         }
     ],
     "wof:id":387735681,
-    "wof:lastmodified":1449059833,
+    "wof:lastmodified":1454361205,
     "wof:name":"Mattress Factory the Original",
     "wof:parent_id":85812951,
     "wof:placetype":"venue",
@@ -72,6 +71,11 @@
         "mattress"
     ]
 },
-  "bbox": [-80.100403,40.682098,-80.100403,40.682098],
+  "bbox": [
+    -80.100403,
+    40.682098,
+    -80.100403,
+    40.682098
+],
   "geometry": {"coordinates":[-80.100403,40.682098],"type":"Point"}
 }

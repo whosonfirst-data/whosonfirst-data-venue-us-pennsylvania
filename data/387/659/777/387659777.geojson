@@ -2,13 +2,14 @@
   "id": 387659777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.937195,40.704052,-78.937195,40.704052",
     "geom:latitude":40.704052,
     "geom:longitude":-78.937195,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"549 Lovejoy Rd",
     "sg:city":"Commodore",
     "sg:classifiers":[
@@ -28,7 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420538335,
+        102191575,
+        404486465,
         85633793,
+        101718957,
+        102081387,
         85688481
     ],
     "wof:breaches":[],
@@ -39,18 +45,20 @@
     "wof:geomhash":"a9541ca13b9fd53a3e877063a3f55eb0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081387,
+            "localadmin_id":404486465,
+            "locality_id":101718957,
+            "neighbourhood_id":420538335,
             "region_id":85688481,
             "venue_id":387659777
         }
     ],
     "wof:id":387659777,
-    "wof:lastmodified":1449056517,
+    "wof:lastmodified":1454358413,
     "wof:name":"Barry Smith",
-    "wof:parent_id":-1,
+    "wof:parent_id":420538335,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -59,6 +67,11 @@
         "industrial"
     ]
 },
-  "bbox": [-78.937195,40.704052,-78.937195,40.704052],
+  "bbox": [
+    -78.937195,
+    40.704052,
+    -78.937195,
+    40.704052
+],
   "geometry": {"coordinates":[-78.937195,40.704052],"type":"Point"}
 }

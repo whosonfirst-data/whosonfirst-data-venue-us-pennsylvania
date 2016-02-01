@@ -2,13 +2,14 @@
   "id": 387633805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.734356,40.314676,-79.734356,40.314676",
     "geom:latitude":40.314676,
     "geom:longitude":-79.734356,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"11256 Drop Rd",
     "sg:city":"Irwin",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081383,
-        85851591
+        85851591,
+        102081383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"0ac8d64702830690d2a8cb909a246958",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":-1,
             "neighbourhood_id":85851591,
             "region_id":85688481,
             "venue_id":387633805
         }
     ],
     "wof:id":387633805,
-    "wof:lastmodified":1449059890,
+    "wof:lastmodified":1454361223,
     "wof:name":"Lynrich",
     "wof:parent_id":85851591,
     "wof:placetype":"venue",
@@ -63,6 +62,11 @@
         "engineer"
     ]
 },
-  "bbox": [-79.734356,40.314676,-79.734356,40.314676],
-  "geometry": {"coordinates":[-79.734356,40.314676],"type":"Point"}
+  "bbox": [
+    -79.734356,
+    40.314676,
+    -79.734356,
+    40.314676
+],
+  "geometry": {"coordinates":[-79.73435600000001,40.314676],"type":"Point"}
 }

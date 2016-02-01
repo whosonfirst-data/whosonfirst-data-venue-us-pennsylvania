@@ -2,13 +2,14 @@
   "id": 387514877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.052299,40.348499,-80.052299,40.348499",
     "geom:latitude":40.348499,
     "geom:longitude":-80.052299,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1720 Washington Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"www.blockbuster.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85805921,
+        102191575,
+        404484853,
         85633793,
         101718799,
         102080887,
-        85805921
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"6c3c5551f7e9c0160241648781c68f1c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484853,
             "locality_id":101718799,
             "neighbourhood_id":85805921,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387514877,
-    "wof:lastmodified":1449058021,
+    "wof:lastmodified":1454360655,
     "wof:name":"Blockbuster Video",
     "wof:parent_id":85805921,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "video"
     ]
 },
-  "bbox": [-80.052299,40.348499,-80.052299,40.348499],
+  "bbox": [
+    -80.052299,
+    40.348499,
+    -80.052299,
+    40.348499
+],
   "geometry": {"coordinates":[-80.052299,40.348499],"type":"Point"}
 }

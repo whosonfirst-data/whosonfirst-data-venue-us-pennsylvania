@@ -2,13 +2,14 @@
   "id": 387533643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.179394,40.44759,-80.179394,40.44759",
     "geom:latitude":40.44759,
     "geom:longitude":-80.179394,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"221 Summit Park Dr",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85805237
+        85805237,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"6d41a446145ba912a961d524a40a65b7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85805237,
             "region_id":85688481,
             "venue_id":387533643
         }
     ],
     "wof:id":387533643,
-    "wof:lastmodified":1449056072,
+    "wof:lastmodified":1454358060,
     "wof:name":"Sanaljon Medical Care",
     "wof:parent_id":85805237,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "shoes-orthopedic"
     ]
 },
-  "bbox": [-80.179394,40.44759,-80.179394,40.44759],
+  "bbox": [
+    -80.179394,
+    40.44759,
+    -80.179394,
+    40.44759
+],
   "geometry": {"coordinates":[-80.179394,40.44759],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387647849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.681267,40.42783,-79.681267,40.42783",
     "geom:latitude":40.42783,
     "geom:longitude":-79.681267,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4345 Old William Penn Hwy",
     "sg:city":"Murrysville",
     "sg:classifiers":[
@@ -44,11 +45,13 @@
     "sg:website":"http://www.nationwide.com/agent/Murrysville-PENNSYLVANIA-insurance-agent/ronald-panichelle/office.html",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85836835,
+        102191575,
+        404487539,
         85633793,
         101717149,
         102081383,
-        85836835
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,9 +61,10 @@
     "wof:geomhash":"edeb8f04cd6c5beec745668a5a0cd2c0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081383,
+            "localadmin_id":404487539,
             "locality_id":101717149,
             "neighbourhood_id":85836835,
             "region_id":85688481,
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":387647849,
-    "wof:lastmodified":1449057902,
+    "wof:lastmodified":1454360628,
     "wof:name":"Panichelle Financial Group Llc - Nationwide Insurance",
     "wof:parent_id":85836835,
     "wof:placetype":"venue",
@@ -79,6 +83,11 @@
         "homeowner"
     ]
 },
-  "bbox": [-79.681267,40.42783,-79.681267,40.42783],
-  "geometry": {"coordinates":[-79.681267,40.42783],"type":"Point"}
+  "bbox": [
+    -79.681267,
+    40.42783,
+    -79.681267,
+    40.42783
+],
+  "geometry": {"coordinates":[-79.68126700000001,40.42783],"type":"Point"}
 }

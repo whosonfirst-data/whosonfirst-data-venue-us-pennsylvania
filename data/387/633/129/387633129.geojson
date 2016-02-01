@@ -2,13 +2,14 @@
   "id": 387633129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.735565,40.342209,-79.735565,40.342209",
     "geom:latitude":40.342209,
     "geom:longitude":-79.735565,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"12200 Larimer Ave",
     "sg:city":"Irwin",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081383,
-        85804559
+        85804559,
+        102081383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"4d23c45313f84741b7cecd45b9da8bda",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":-1,
             "neighbourhood_id":85804559,
             "region_id":85688481,
             "venue_id":387633129
         }
     ],
     "wof:id":387633129,
-    "wof:lastmodified":1449059894,
+    "wof:lastmodified":1454361224,
     "wof:name":"Snap Marketing",
     "wof:parent_id":85804559,
     "wof:placetype":"venue",
@@ -64,6 +63,11 @@
         "software"
     ]
 },
-  "bbox": [-79.735565,40.342209,-79.735565,40.342209],
-  "geometry": {"coordinates":[-79.735565,40.342209],"type":"Point"}
+  "bbox": [
+    -79.735565,
+    40.342209,
+    -79.735565,
+    40.342209
+],
+  "geometry": {"coordinates":[-79.73556499999999,40.342209],"type":"Point"}
 }

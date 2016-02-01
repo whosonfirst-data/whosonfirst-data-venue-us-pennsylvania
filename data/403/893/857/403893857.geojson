@@ -2,13 +2,14 @@
   "id": 403893857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.798927,40.268902,-76.798927,40.268902",
     "geom:latitude":40.268902,
     "geom:longitude":-76.798927,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5152 Clover Ct",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85829991,
+        102191575,
+        404486309,
         85633793,
         101719815,
         102081347,
-        85829991
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"f891bc9ce78a8f7e8468726cd6535110",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
+            "localadmin_id":404486309,
             "locality_id":101719815,
             "neighbourhood_id":85829991,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":403893857,
-    "wof:lastmodified":1449055714,
+    "wof:lastmodified":1454357837,
     "wof:name":"Osif Contract Flooring",
     "wof:parent_id":85829991,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "material"
     ]
 },
-  "bbox": [-76.798927,40.268902,-76.798927,40.268902],
-  "geometry": {"coordinates":[-76.798927,40.268902],"type":"Point"}
+  "bbox": [
+    -76.798927,
+    40.268902,
+    -76.798927,
+    40.268902
+],
+  "geometry": {"coordinates":[-76.79892700000001,40.268902],"type":"Point"}
 }

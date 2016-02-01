@@ -2,13 +2,14 @@
   "id": 403892763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.850609,40.32127,-76.850609,40.32127",
     "geom:latitude":40.32127,
     "geom:longitude":-76.850609,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2400 Thea Dr",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85805097
+        85805097,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"e05a72159deaa7e8a057aa6c81fc5499",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85805097,
             "region_id":85688481,
             "venue_id":403892763
         }
     ],
     "wof:id":403892763,
-    "wof:lastmodified":1449054825,
+    "wof:lastmodified":1454357305,
     "wof:name":"Dst Systems, Inc.",
     "wof:parent_id":85805097,
     "wof:placetype":"venue",
@@ -61,6 +60,11 @@
         "cd-rom"
     ]
 },
-  "bbox": [-76.850609,40.32127,-76.850609,40.32127],
-  "geometry": {"coordinates":[-76.850609,40.32127],"type":"Point"}
+  "bbox": [
+    -76.850609,
+    40.32127,
+    -76.850609,
+    40.32127
+],
+  "geometry": {"coordinates":[-76.85060900000001,40.32127],"type":"Point"}
 }

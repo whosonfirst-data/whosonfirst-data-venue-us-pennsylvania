@@ -2,13 +2,14 @@
   "id": 404099749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.002968,41.24089,-77.002968,41.24089",
     "geom:latitude":41.24089,
     "geom:longitude":-77.002968,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"321 Pine St",
     "sg:city":"Williamsport",
     "sg:classifiers":[
@@ -39,11 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85802799,
+        102191575,
+        404485355,
         85633793,
-        101716811,
+        101716809,
         102081317,
-        85802799
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,17 +56,18 @@
     "wof:geomhash":"fc945ccc78bdbe9369eb64bf7d5dd013",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081317,
-            "locality_id":101716811,
+            "localadmin_id":404485355,
+            "locality_id":101716809,
             "neighbourhood_id":85802799,
             "region_id":85688481,
             "venue_id":404099749
         }
     ],
     "wof:id":404099749,
-    "wof:lastmodified":1449039913,
+    "wof:lastmodified":1454356887,
     "wof:name":"Kline Glennon Weiss & Assocs",
     "wof:parent_id":85802799,
     "wof:placetype":"venue",
@@ -75,6 +79,11 @@
         "psychologist"
     ]
 },
-  "bbox": [-77.002968,41.24089,-77.002968,41.24089],
+  "bbox": [
+    -77.002968,
+    41.24089,
+    -77.002968,
+    41.24089
+],
   "geometry": {"coordinates":[-77.002968,41.24089],"type":"Point"}
 }

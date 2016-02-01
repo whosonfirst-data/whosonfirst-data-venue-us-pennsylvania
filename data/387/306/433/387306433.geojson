@@ -2,13 +2,14 @@
   "id": 387306433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.988785,40.419077,-79.988785,40.419077",
     "geom:latitude":40.419077,
     "geom:longitude":-79.988785,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1517 Arlington Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536321,
+        102191575,
+        404482523,
         85633793,
         101718805,
-        102080887
+        102080887,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"02ba686c954a8021ee0f6dbc289967c8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420536321,
             "region_id":85688481,
             "venue_id":387306433
         }
     ],
     "wof:id":387306433,
-    "wof:lastmodified":1449059742,
+    "wof:lastmodified":1454361177,
     "wof:name":"Alpha Nv Omega Ministries",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536321,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.988785,40.419077,-79.988785,40.419077],
-  "geometry": {"coordinates":[-79.988785,40.419077],"type":"Point"}
+  "bbox": [
+    -79.988785,
+    40.419077,
+    -79.988785,
+    40.419077
+],
+  "geometry": {"coordinates":[-79.98878499999999,40.419077],"type":"Point"}
 }

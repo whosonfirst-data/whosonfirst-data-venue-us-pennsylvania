@@ -2,13 +2,14 @@
   "id": 387743511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.10393,40.710101,-80.10393,40.710101",
     "geom:latitude":40.710101,
     "geom:longitude":-80.10393,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"20424 Route 19 Ste 420",
     "sg:city":"Cranberry Township",
     "sg:classifiers":[
@@ -27,8 +28,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102083677,
-        85839239
+        85839239,
+        102083677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +39,15 @@
     "wof:geomhash":"e4e5822d74ea38d902fe8b98e504f33c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102083677,
-            "locality_id":-1,
             "neighbourhood_id":85839239,
             "region_id":85688481,
             "venue_id":387743511
         }
     ],
     "wof:id":387743511,
-    "wof:lastmodified":1449059899,
+    "wof:lastmodified":1454361226,
     "wof:name":"First Watch",
     "wof:parent_id":85839239,
     "wof:placetype":"venue",
@@ -56,6 +55,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.10393,40.710101,-80.10393,40.710101],
-  "geometry": {"coordinates":[-80.10393,40.710101],"type":"Point"}
+  "bbox": [
+    -80.10393,
+    40.710101,
+    -80.10393,
+    40.710101
+],
+  "geometry": {"coordinates":[-80.10393000000001,40.710101],"type":"Point"}
 }

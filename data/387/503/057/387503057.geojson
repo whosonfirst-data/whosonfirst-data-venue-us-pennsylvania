@@ -2,13 +2,14 @@
   "id": 387503057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.009018,40.536411,-80.009018,40.536411",
     "geom:latitude":40.536411,
     "geom:longitude":-80.009018,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"100 Mcknight Park Dr # 103",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -38,8 +39,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85805835
+        85805835,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +50,15 @@
     "wof:geomhash":"f4185132721e2bc7f7dfe2a5890b28d2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85805835,
             "region_id":85688481,
             "venue_id":387503057
         }
     ],
     "wof:id":387503057,
-    "wof:lastmodified":1449059931,
+    "wof:lastmodified":1454361236,
     "wof:name":"Markwalt Inc",
     "wof:parent_id":85805835,
     "wof:placetype":"venue",
@@ -73,6 +72,11 @@
         "listing"
     ]
 },
-  "bbox": [-80.009018,40.536411,-80.009018,40.536411],
+  "bbox": [
+    -80.009018,
+    40.536411,
+    -80.009018,
+    40.536411
+],
   "geometry": {"coordinates":[-80.009018,40.536411],"type":"Point"}
 }

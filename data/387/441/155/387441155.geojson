@@ -2,13 +2,14 @@
   "id": 387441155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.050901,40.353104,-80.050901,40.353104",
     "geom:latitude":40.353104,
     "geom:longitude":-80.050901,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1610 N Highland Rd",
     "sg:city":"Mount Lebanon",
     "sg:classifiers":[
@@ -41,8 +42,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85805039
+        85805039,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,17 +53,15 @@
     "wof:geomhash":"0d092edf0f692e9d4d89db1d463f0214",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85805039,
             "region_id":85688481,
             "venue_id":387441155
         }
     ],
     "wof:id":387441155,
-    "wof:lastmodified":1449056403,
+    "wof:lastmodified":1454358318,
     "wof:name":"Kindercare of Mt. Lebanon",
     "wof:parent_id":85805039,
     "wof:placetype":"venue",
@@ -73,6 +72,11 @@
         "day"
     ]
 },
-  "bbox": [-80.050901,40.353104,-80.050901,40.353104],
+  "bbox": [
+    -80.050901,
+    40.353104,
+    -80.050901,
+    40.353104
+],
   "geometry": {"coordinates":[-80.050901,40.353104],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387735713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.104599,40.6996,-80.104599,40.6996",
     "geom:latitude":40.6996,
     "geom:longitude":-80.104599,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"20411 Route 19",
     "sg:city":"Cranberry Twp",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102083677,
-        85839239
+        85839239,
+        102083677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"0924011ff59034d10b57d579ec41bf7a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102083677,
-            "locality_id":-1,
             "neighbourhood_id":85839239,
             "region_id":85688481,
             "venue_id":387735713
         }
     ],
     "wof:id":387735713,
-    "wof:lastmodified":1449059833,
+    "wof:lastmodified":1454361205,
     "wof:name":"Hair Professionals",
     "wof:parent_id":85839239,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.104599,40.6996,-80.104599,40.6996],
-  "geometry": {"coordinates":[-80.104599,40.6996],"type":"Point"}
+  "bbox": [
+    -80.104599,
+    40.6996,
+    -80.104599,
+    40.6996
+],
+  "geometry": {"coordinates":[-80.10459899999999,40.6996],"type":"Point"}
 }

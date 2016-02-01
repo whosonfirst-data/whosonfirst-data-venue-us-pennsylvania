@@ -2,13 +2,14 @@
   "id": 387863153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.549567,40.212328,-78.549567,40.212328",
     "geom:latitude":40.212328,
     "geom:longitude":-78.549567,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"109 Ickes Rd",
     "sg:city":"Imler",
     "sg:classifiers":[
@@ -38,8 +39,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080939,
-        85850607
+        85850607,
+        102080939
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +50,15 @@
     "wof:geomhash":"af746b32bb7e594bfefe9ff6c883b126",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080939,
-            "locality_id":-1,
             "neighbourhood_id":85850607,
             "region_id":85688481,
             "venue_id":387863153
         }
     ],
     "wof:id":387863153,
-    "wof:lastmodified":1449058740,
+    "wof:lastmodified":1454360867,
     "wof:name":"Pavia Township",
     "wof:parent_id":85850607,
     "wof:placetype":"venue",
@@ -73,6 +72,11 @@
         "village"
     ]
 },
-  "bbox": [-78.549567,40.212328,-78.549567,40.212328],
+  "bbox": [
+    -78.549567,
+    40.212328,
+    -78.549567,
+    40.212328
+],
   "geometry": {"coordinates":[-78.549567,40.212328],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387603199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.214334,40.037235,-79.214334,40.037235",
     "geom:latitude":40.037235,
     "geom:longitude":-79.214334,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2312 W Bakersville Edie Rd",
     "sg:city":"Somerset",
     "sg:classifiers":[
@@ -95,8 +96,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081361,
-        85804267
+        85804267,
+        102081361
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -106,17 +107,15 @@
     "wof:geomhash":"fb0065b0c147564210b507409fdc8c00",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081361,
-            "locality_id":-1,
             "neighbourhood_id":85804267,
             "region_id":85688481,
             "venue_id":387603199
         }
     ],
     "wof:id":387603199,
-    "wof:lastmodified":1449059337,
+    "wof:lastmodified":1454361044,
     "wof:name":"ServiceMaster Clean",
     "wof:parent_id":85804267,
     "wof:placetype":"venue",
@@ -156,6 +155,11 @@
         "polishing"
     ]
 },
-  "bbox": [-79.214334,40.037235,-79.214334,40.037235],
-  "geometry": {"coordinates":[-79.214334,40.037235],"type":"Point"}
+  "bbox": [
+    -79.214334,
+    40.037235,
+    -79.214334,
+    40.037235
+],
+  "geometry": {"coordinates":[-79.21433399999999,40.037235],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387638623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.575531,40.325169,-79.575531,40.325169",
     "geom:latitude":40.325169,
     "geom:longitude":-79.575531,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"228 Pleasant Valley Rd",
     "sg:city":"Jeannette",
     "sg:classifiers":[
@@ -41,8 +42,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081383,
-        85843595
+        85843595,
+        102081383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,17 +53,15 @@
     "wof:geomhash":"7ac1568c9fb626a43044a3a9a5074333",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":-1,
             "neighbourhood_id":85843595,
             "region_id":85688481,
             "venue_id":387638623
         }
     ],
     "wof:id":387638623,
-    "wof:lastmodified":1449056324,
+    "wof:lastmodified":1454358260,
     "wof:name":"Jeannette Assembly Of God",
     "wof:parent_id":85843595,
     "wof:placetype":"venue",
@@ -74,6 +73,11 @@
         "churches-assemblies"
     ]
 },
-  "bbox": [-79.575531,40.325169,-79.575531,40.325169],
+  "bbox": [
+    -79.575531,
+    40.325169,
+    -79.575531,
+    40.325169
+],
   "geometry": {"coordinates":[-79.575531,40.325169],"type":"Point"}
 }

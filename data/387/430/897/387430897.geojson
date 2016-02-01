@@ -2,13 +2,14 @@
   "id": 387430897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.985339,40.45038,-79.985339,40.45038",
     "geom:latitude":40.45038,
     "geom:longitude":-79.985339,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1729 Penn Avenue",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -25,11 +26,13 @@
     "sg:website":"www.penzeysspices.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85851271,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85851271
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +42,10 @@
     "wof:geomhash":"1161582461567d456afa9517acbea41a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85851271,
             "region_id":85688481,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":387430897,
-    "wof:lastmodified":1449058534,
+    "wof:lastmodified":1454360807,
     "wof:name":"Penzeys Spices",
     "wof:parent_id":85851271,
     "wof:placetype":"venue",
@@ -57,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.985339,40.45038,-79.985339,40.45038],
+  "bbox": [
+    -79.985339,
+    40.45038,
+    -79.985339,
+    40.45038
+],
   "geometry": {"coordinates":[-79.985339,40.45038],"type":"Point"}
 }

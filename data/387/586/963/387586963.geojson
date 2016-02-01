@@ -2,13 +2,14 @@
   "id": 387586963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.706868,39.900784,-79.706868,39.900784",
     "geom:latitude":39.900784,
     "geom:longitude":-79.706868,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"262 Connellsville St",
     "sg:city":"Uniontown",
     "sg:classifiers":[
@@ -64,10 +65,13 @@
     "sg:website":"http://www.riteaid.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85850161,
+        102191575,
+        404487055,
         85633793,
+        101719799,
         102080959,
-        85850161
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,17 +81,18 @@
     "wof:geomhash":"2da87c86f30699b72ec5de75fdd6666d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080959,
-            "locality_id":-1,
+            "localadmin_id":404487055,
+            "locality_id":101719799,
             "neighbourhood_id":85850161,
             "region_id":85688481,
             "venue_id":387586963
         }
     ],
     "wof:id":387586963,
-    "wof:lastmodified":1449059477,
+    "wof:lastmodified":1454361094,
     "wof:name":"Rite Aid",
     "wof:parent_id":85850161,
     "wof:placetype":"venue",
@@ -108,6 +113,11 @@
         "greeting"
     ]
 },
-  "bbox": [-79.706868,39.900784,-79.706868,39.900784],
+  "bbox": [
+    -79.706868,
+    39.900784,
+    -79.706868,
+    39.900784
+],
   "geometry": {"coordinates":[-79.706868,39.900784],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404023123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.700092,39.9407,-76.700092,39.9407",
     "geom:latitude":39.9407,
     "geom:longitude":-76.700092,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1925 S Queen St",
     "sg:city":"York",
     "sg:classifiers":[
@@ -35,10 +36,13 @@
     "sg:website":"http://www.enterprise.com/car_rental/deeplinkmap.do?gpbr=5705&bid=004&cnty=US&arc=YPTRL01&cm_mmc=Yellowpages.com-_-IYP-_-Tradelisting-_-branch",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420540339,
+        102191575,
+        404488031,
         85633793,
-        101719459,
-        102080953
+        101719457,
+        102080953,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +52,20 @@
     "wof:geomhash":"ee741842e1a5a46d4b72b90e6c2702f8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":101719459,
-            "neighbourhood_id":-1,
+            "localadmin_id":404488031,
+            "locality_id":101719457,
+            "neighbourhood_id":420540339,
             "region_id":85688481,
             "venue_id":404023123
         }
     ],
     "wof:id":404023123,
-    "wof:lastmodified":1449040215,
+    "wof:lastmodified":1454357068,
     "wof:name":"Enterprise Rent-A-Car",
-    "wof:parent_id":-1,
+    "wof:parent_id":420540339,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -70,6 +75,11 @@
         "truck"
     ]
 },
-  "bbox": [-76.700092,39.9407,-76.700092,39.9407],
+  "bbox": [
+    -76.700092,
+    39.9407,
+    -76.700092,
+    39.9407
+],
   "geometry": {"coordinates":[-76.700092,39.9407],"type":"Point"}
 }

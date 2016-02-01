@@ -2,13 +2,14 @@
   "id": 403857985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.859909,40.274734,-76.859909,40.274734",
     "geom:latitude":40.274734,
     "geom:longitude":-76.859909,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2050 State St",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85817391
+        85817391,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"746c488331ced636d41f203e1fd875a9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85817391,
             "region_id":85688481,
             "venue_id":403857985
         }
     ],
     "wof:id":403857985,
-    "wof:lastmodified":1449055482,
+    "wof:lastmodified":1454357693,
     "wof:name":"Georges Cleaners",
     "wof:parent_id":85817391,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "alteration"
     ]
 },
-  "bbox": [-76.859909,40.274734,-76.859909,40.274734],
+  "bbox": [
+    -76.859909,
+    40.274734,
+    -76.859909,
+    40.274734
+],
   "geometry": {"coordinates":[-76.859909,40.274734],"type":"Point"}
 }

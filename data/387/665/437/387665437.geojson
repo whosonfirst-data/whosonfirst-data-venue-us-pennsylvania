@@ -2,13 +2,14 @@
   "id": 387665437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.14233,41.212975,-79.14233,41.212975",
     "geom:latitude":41.212975,
     "geom:longitude":-79.14233,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2444 Bottom Rd",
     "sg:city":"Brookville",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102083883,
-        85846075
+        85846075,
+        102083883
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"a096110a98aa6bc300176d229880e60f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102083883,
-            "locality_id":-1,
             "neighbourhood_id":85846075,
             "region_id":85688481,
             "venue_id":387665437
         }
     ],
     "wof:id":387665437,
-    "wof:lastmodified":1449057265,
+    "wof:lastmodified":1454358975,
     "wof:name":"At Your Svc.",
     "wof:parent_id":85846075,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "bureau"
     ]
 },
-  "bbox": [-79.14233,41.212975,-79.14233,41.212975],
+  "bbox": [
+    -79.14233,
+    41.212975,
+    -79.14233,
+    41.212975
+],
   "geometry": {"coordinates":[-79.14233,41.212975],"type":"Point"}
 }

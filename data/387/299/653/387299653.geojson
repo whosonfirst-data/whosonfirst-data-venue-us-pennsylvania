@@ -2,13 +2,14 @@
   "id": 387299653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.052243,40.432348,-80.052243,40.432348",
     "geom:latitude":40.432348,
     "geom:longitude":-80.052243,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2121 Noblestown Rd Ste. 206",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[],
@@ -19,11 +20,13 @@
     "sg:website":"http://pittsburgh.citysearch.com/profile/external/41704553/pittsburgh_pa/curves.html?publisher=yellowpages&reference_id=1&placement=ypwebsitemip",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85857221,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85857221
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -33,9 +36,10 @@
     "wof:geomhash":"f44121cb70e13ad222a8c2bc1006bbe8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85857221,
             "region_id":85688481,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":387299653,
-    "wof:lastmodified":1449057068,
+    "wof:lastmodified":1454358811,
     "wof:name":"Curves",
     "wof:parent_id":85857221,
     "wof:placetype":"venue",
@@ -51,6 +55,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.052243,40.432348,-80.052243,40.432348],
+  "bbox": [
+    -80.052243,
+    40.432348,
+    -80.052243,
+    40.432348
+],
   "geometry": {"coordinates":[-80.052243,40.432348],"type":"Point"}
 }

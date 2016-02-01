@@ -2,13 +2,14 @@
   "id": 387487531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.004066,40.447643,-80.004066,40.447643",
     "geom:latitude":40.447643,
     "geom:longitude":-80.004066,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"28 Federal Dr",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"www.gnc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85838047,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85838047
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"1eb7dc08f22affddc8d79afea80a2ac7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85838047,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387487531,
-    "wof:lastmodified":1449057340,
+    "wof:lastmodified":1454359040,
     "wof:name":"General Nutrition Center",
     "wof:parent_id":85838047,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "market"
     ]
 },
-  "bbox": [-80.004066,40.447643,-80.004066,40.447643],
-  "geometry": {"coordinates":[-80.004066,40.447643],"type":"Point"}
+  "bbox": [
+    -80.004066,
+    40.447643,
+    -80.004066,
+    40.447643
+],
+  "geometry": {"coordinates":[-80.00406599999999,40.447643],"type":"Point"}
 }

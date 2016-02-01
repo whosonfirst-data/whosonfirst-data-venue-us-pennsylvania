@@ -2,13 +2,14 @@
   "id": 404125579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.616188,40.96777,-76.616188,40.96777",
     "geom:latitude":40.96777,
     "geom:longitude":-76.616188,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"800 Continental Blvd",
     "sg:city":"Danville",
     "sg:classifiers":[
@@ -42,8 +43,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080931,
-        85833629
+        85833629,
+        102080931
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,17 +54,15 @@
     "wof:geomhash":"5b55ef0e4d6d41614a307671ff03bb26",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080931,
-            "locality_id":-1,
             "neighbourhood_id":85833629,
             "region_id":85688481,
             "venue_id":404125579
         }
     ],
     "wof:id":404125579,
-    "wof:lastmodified":1449040283,
+    "wof:lastmodified":1454357110,
     "wof:name":"H&R Block",
     "wof:parent_id":85833629,
     "wof:placetype":"venue",
@@ -80,6 +79,11 @@
         "bookkeeping"
     ]
 },
-  "bbox": [-76.616188,40.96777,-76.616188,40.96777],
-  "geometry": {"coordinates":[-76.616188,40.96777],"type":"Point"}
+  "bbox": [
+    -76.616188,
+    40.96777,
+    -76.616188,
+    40.96777
+],
+  "geometry": {"coordinates":[-76.61618799999999,40.96777],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387235491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.130699,40.397099,-80.130699,40.397099",
     "geom:latitude":40.397099,
     "geom:longitude":-80.130699,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"77 Walkers Mill Rd",
     "sg:city":"Carnegie",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85854259,
+        102191575,
+        404484875,
         85633793,
         101720503,
         102080887,
-        85854259
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"0b25c481911081253bd99d7a80419cb7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484875,
             "locality_id":101720503,
             "neighbourhood_id":85854259,
             "region_id":85688481,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":387235491,
-    "wof:lastmodified":1449056755,
+    "wof:lastmodified":1454358585,
     "wof:name":"Collier's Sportsmens Assn",
     "wof:parent_id":85854259,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "team"
     ]
 },
-  "bbox": [-80.130699,40.397099,-80.130699,40.397099],
-  "geometry": {"coordinates":[-80.130699,40.397099],"type":"Point"}
+  "bbox": [
+    -80.130699,
+    40.397099,
+    -80.130699,
+    40.397099
+],
+  "geometry": {"coordinates":[-80.13069900000001,40.397099],"type":"Point"}
 }

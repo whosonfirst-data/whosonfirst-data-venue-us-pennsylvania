@@ -2,13 +2,14 @@
   "id": 387700575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.895802,40.861723,-79.895802,40.861723",
     "geom:latitude":40.861723,
     "geom:longitude":-79.895802,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"110 New Castle St",
     "sg:city":"Butler",
     "sg:classifiers":[
@@ -44,11 +45,13 @@
     "sg:website":"http://www.arbeent.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85824973,
+        102191575,
+        404485057,
         85633793,
-        101720149,
+        101718197,
         102083677,
-        85824973
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,17 +61,18 @@
     "wof:geomhash":"8d1a7e5cd9f1bd8522c9985109b0b798",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083677,
-            "locality_id":101720149,
+            "localadmin_id":404485057,
+            "locality_id":101718197,
             "neighbourhood_id":85824973,
             "region_id":85688481,
             "venue_id":387700575
         }
     ],
     "wof:id":387700575,
-    "wof:lastmodified":1449059584,
+    "wof:lastmodified":1454361127,
     "wof:name":"A R B E Enterprises",
     "wof:parent_id":85824973,
     "wof:placetype":"venue",
@@ -84,6 +88,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-79.895802,40.861723,-79.895802,40.861723],
+  "bbox": [
+    -79.895802,
+    40.861723,
+    -79.895802,
+    40.861723
+],
   "geometry": {"coordinates":[-79.895802,40.861723],"type":"Point"}
 }

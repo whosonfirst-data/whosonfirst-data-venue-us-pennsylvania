@@ -2,13 +2,14 @@
   "id": 404139085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.549606,40.78381,-76.549606,40.78381",
     "geom:latitude":40.78381,
     "geom:longitude":-76.549606,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"401 S Pearl St",
     "sg:city":"Shamokin",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85817501,
+        102191575,
+        404486113,
         85633793,
-        101719367,
+        101719303,
         102081349,
-        85817501
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"3966ce7a1a8604a8bf8f0e0340abc16f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081349,
-            "locality_id":101719367,
+            "localadmin_id":404486113,
+            "locality_id":101719303,
             "neighbourhood_id":85817501,
             "region_id":85688481,
             "venue_id":404139085
         }
     ],
     "wof:id":404139085,
-    "wof:lastmodified":1449039133,
+    "wof:lastmodified":1454356461,
     "wof:name":"Marionette Company Inc",
     "wof:parent_id":85817501,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-76.549606,40.78381,-76.549606,40.78381],
+  "bbox": [
+    -76.549606,
+    40.78381,
+    -76.549606,
+    40.78381
+],
   "geometry": {"coordinates":[-76.549606,40.78381],"type":"Point"}
 }

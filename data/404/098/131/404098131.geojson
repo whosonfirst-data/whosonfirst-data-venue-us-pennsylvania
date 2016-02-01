@@ -2,13 +2,14 @@
   "id": 404098131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.971558,41.249008,-76.971558,41.249008",
     "geom:latitude":41.249008,
     "geom:longitude":-76.971558,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"220 Russell Ave",
     "sg:city":"Williamsport",
     "sg:classifiers":[
@@ -37,8 +38,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081317,
-        85828027
+        85828027,
+        102081317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +49,15 @@
     "wof:geomhash":"51a5a91aee9a2f0f1163e41916e35a6c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081317,
-            "locality_id":-1,
             "neighbourhood_id":85828027,
             "region_id":85688481,
             "venue_id":404098131
         }
     ],
     "wof:id":404098131,
-    "wof:lastmodified":1449040203,
+    "wof:lastmodified":1454357059,
     "wof:name":"Magisterial District 29-3-02",
     "wof:parent_id":85828027,
     "wof:placetype":"venue",
@@ -70,6 +69,11 @@
         "government-county"
     ]
 },
-  "bbox": [-76.971558,41.249008,-76.971558,41.249008],
+  "bbox": [
+    -76.971558,
+    41.249008,
+    -76.971558,
+    41.249008
+],
   "geometry": {"coordinates":[-76.971558,41.249008],"type":"Point"}
 }

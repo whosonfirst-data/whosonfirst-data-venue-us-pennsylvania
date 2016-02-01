@@ -2,13 +2,14 @@
   "id": 387905423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.706325,40.612827,-77.706325,40.612827",
     "geom:latitude":40.612827,
     "geom:longitude":-77.706325,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4599 E Main St",
     "sg:city":"Belleville",
     "sg:classifiers":[
@@ -40,10 +41,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420539079,
+        102191575,
+        404488183,
         85633793,
         101719087,
-        102081333
+        102081333,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,19 +57,20 @@
     "wof:geomhash":"9197987cd084978377ebad3e68ce2106",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081333,
+            "localadmin_id":404488183,
             "locality_id":101719087,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420539079,
             "region_id":85688481,
             "venue_id":387905423
         }
     ],
     "wof:id":387905423,
-    "wof:lastmodified":1449057590,
+    "wof:lastmodified":1454360524,
     "wof:name":"Fisher & Thompson Inc.",
-    "wof:parent_id":-1,
+    "wof:parent_id":420539079,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -76,6 +81,11 @@
         "equipment"
     ]
 },
-  "bbox": [-77.706325,40.612827,-77.706325,40.612827],
-  "geometry": {"coordinates":[-77.706325,40.612827],"type":"Point"}
+  "bbox": [
+    -77.706325,
+    40.612827,
+    -77.706325,
+    40.612827
+],
+  "geometry": {"coordinates":[-77.70632500000001,40.612827],"type":"Point"}
 }

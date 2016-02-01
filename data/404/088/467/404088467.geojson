@@ -2,13 +2,14 @@
   "id": 404088467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.32637,40.054272,-76.32637,40.054272",
     "geom:latitude":40.054272,
     "geom:longitude":-76.32637,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1260 Harrisburg Ave",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -49,8 +50,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85868583
+        85868583,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,17 +61,15 @@
     "wof:geomhash":"bd92a5cf2835709eca80816b5c152e2b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85868583,
             "region_id":85688481,
             "venue_id":404088467
         }
     ],
     "wof:id":404088467,
-    "wof:lastmodified":1449040022,
+    "wof:lastmodified":1454356962,
     "wof:name":"Allstate Insurance Company - Mary Heinsinger",
     "wof:parent_id":85868583,
     "wof:placetype":"venue",
@@ -85,6 +84,11 @@
         "renter"
     ]
 },
-  "bbox": [-76.32637,40.054272,-76.32637,40.054272],
+  "bbox": [
+    -76.32637,
+    40.054272,
+    -76.32637,
+    40.054272
+],
   "geometry": {"coordinates":[-76.32637,40.054272],"type":"Point"}
 }

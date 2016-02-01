@@ -2,13 +2,14 @@
   "id": 387589327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.869232,40.01078,-79.869232,40.01078",
     "geom:latitude":40.01078,
     "geom:longitude":-79.869232,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"631A National Pike E",
     "sg:city":"Brownsville",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080959,
-        85828763
+        85828763,
+        102080959
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"c705a3c46344bb40eed112e7684cd876",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080959,
-            "locality_id":-1,
             "neighbourhood_id":85828763,
             "region_id":85688481,
             "venue_id":387589327
         }
     ],
     "wof:id":387589327,
-    "wof:lastmodified":1449058139,
+    "wof:lastmodified":1454360693,
     "wof:name":"Morris, Thomas Dpm",
     "wof:parent_id":85828763,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "surgeons"
     ]
 },
-  "bbox": [-79.869232,40.01078,-79.869232,40.01078],
+  "bbox": [
+    -79.869232,
+    40.01078,
+    -79.869232,
+    40.01078
+],
   "geometry": {"coordinates":[-79.869232,40.01078],"type":"Point"}
 }

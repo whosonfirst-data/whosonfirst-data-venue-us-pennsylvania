@@ -2,13 +2,14 @@
   "id": 404090445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.427537,40.009539,-76.427537,40.009539",
     "geom:latitude":40.009539,
     "geom:longitude":-76.427537,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3411 Charlestown Rd",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -26,8 +27,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85814875
+        85814875,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,17 +38,15 @@
     "wof:geomhash":"10014eeff3eb92ac12554cfb313bf3d4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85814875,
             "region_id":85688481,
             "venue_id":404090445
         }
     ],
     "wof:id":404090445,
-    "wof:lastmodified":1449040037,
+    "wof:lastmodified":1454356972,
     "wof:name":"Connies Salon",
     "wof:parent_id":85814875,
     "wof:placetype":"venue",
@@ -55,6 +54,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.427537,40.009539,-76.427537,40.009539],
+  "bbox": [
+    -76.427537,
+    40.009539,
+    -76.427537,
+    40.009539
+],
   "geometry": {"coordinates":[-76.427537,40.009539],"type":"Point"}
 }

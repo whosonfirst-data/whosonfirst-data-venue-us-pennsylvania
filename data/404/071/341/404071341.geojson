@@ -2,13 +2,14 @@
   "id": 404071341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.107489,40.265478,-76.107489,40.265478",
     "geom:latitude":40.265478,
     "geom:longitude":-76.107489,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1262 W Swartzville Rd",
     "sg:city":"Reinholds",
     "sg:classifiers":[
@@ -42,8 +43,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85811603
+        85811603,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,17 +54,15 @@
     "wof:geomhash":"af17450702ec5c4e68c499e346e456b7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85811603,
             "region_id":85688481,
             "venue_id":404071341
         }
     ],
     "wof:id":404071341,
-    "wof:lastmodified":1449039877,
+    "wof:lastmodified":1454356860,
     "wof:name":"Smith's Secretarial Service",
     "wof:parent_id":85811603,
     "wof:placetype":"venue",
@@ -76,6 +75,11 @@
         "typing"
     ]
 },
-  "bbox": [-76.107489,40.265478,-76.107489,40.265478],
+  "bbox": [
+    -76.107489,
+    40.265478,
+    -76.107489,
+    40.265478
+],
   "geometry": {"coordinates":[-76.107489,40.265478],"type":"Point"}
 }

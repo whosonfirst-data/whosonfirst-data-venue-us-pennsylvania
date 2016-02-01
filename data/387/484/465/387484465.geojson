@@ -2,13 +2,14 @@
   "id": 387484465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.011568,40.376333,-80.011568,40.376333",
     "geom:latitude":40.376333,
     "geom:longitude":-80.011568,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"826 Killarney Dr",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"computerhousecall.biz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85830717,
+        102191575,
+        404484869,
         85633793,
         101718761,
         102080887,
-        85830717
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"a906800ff0cf79991f8dfa6367328811",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484869,
             "locality_id":101718761,
             "neighbourhood_id":85830717,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387484465,
-    "wof:lastmodified":1449059700,
+    "wof:lastmodified":1454361163,
     "wof:name":"Computer House Call",
     "wof:parent_id":85830717,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "repair"
     ]
 },
-  "bbox": [-80.011568,40.376333,-80.011568,40.376333],
+  "bbox": [
+    -80.011568,
+    40.376333,
+    -80.011568,
+    40.376333
+],
   "geometry": {"coordinates":[-80.011568,40.376333],"type":"Point"}
 }

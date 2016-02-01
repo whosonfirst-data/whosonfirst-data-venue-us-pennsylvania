@@ -2,13 +2,14 @@
   "id": 387949799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.316617,40.165547,-77.316617,40.165547",
     "geom:latitude":40.165547,
     "geom:longitude":-77.316617,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"408 Kerrsville Rd",
     "sg:city":"Carlisle",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081359,
-        85835681
+        85835681,
+        102081359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"dfc0617c9663f2c77c1e9fe593ae92fc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081359,
-            "locality_id":-1,
             "neighbourhood_id":85835681,
             "region_id":85688481,
             "venue_id":387949799
         }
     ],
     "wof:id":387949799,
-    "wof:lastmodified":1449058464,
+    "wof:lastmodified":1454360791,
     "wof:name":"Motter's Silos",
     "wof:parent_id":85835681,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "harvesting-contract"
     ]
 },
-  "bbox": [-77.316617,40.165547,-77.316617,40.165547],
-  "geometry": {"coordinates":[-77.316617,40.165547],"type":"Point"}
+  "bbox": [
+    -77.316617,
+    40.165547,
+    -77.316617,
+    40.165547
+],
+  "geometry": {"coordinates":[-77.31661699999999,40.165547],"type":"Point"}
 }

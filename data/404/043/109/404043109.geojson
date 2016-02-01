@@ -2,13 +2,14 @@
   "id": 404043109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.202963,40.24898,-76.202963,40.24898",
     "geom:latitude":40.24898,
     "geom:longitude":-76.202963,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"140 Hillside Rd",
     "sg:city":"Denver",
     "sg:classifiers":[
@@ -32,8 +33,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85811603
+        85811603,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +44,15 @@
     "wof:geomhash":"ae5d4345a5bb699fbc0df43d0c96807b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85811603,
             "region_id":85688481,
             "venue_id":404043109
         }
     ],
     "wof:id":404043109,
-    "wof:lastmodified":1449040004,
+    "wof:lastmodified":1454356950,
     "wof:name":"Elvin Martin Painting",
     "wof:parent_id":85811603,
     "wof:placetype":"venue",
@@ -66,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-76.202963,40.24898,-76.202963,40.24898],
+  "bbox": [
+    -76.202963,
+    40.24898,
+    -76.202963,
+    40.24898
+],
   "geometry": {"coordinates":[-76.202963,40.24898],"type":"Point"}
 }

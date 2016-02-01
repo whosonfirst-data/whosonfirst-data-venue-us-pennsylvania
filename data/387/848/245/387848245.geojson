@@ -2,13 +2,14 @@
   "id": 387848245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.406131,40.524042,-78.406131,40.524042",
     "geom:latitude":40.524042,
     "geom:longitude":-78.406131,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2119 9th St",
     "sg:city":"Altoona",
     "sg:classifiers":[
@@ -41,11 +42,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85818685,
+        102191575,
+        404484619,
         85633793,
         101716595,
         102081325,
-        85818685
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,9 +58,10 @@
     "wof:geomhash":"8938ce9f7b0360def7e6cce020d6672c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081325,
+            "localadmin_id":404484619,
             "locality_id":101716595,
             "neighbourhood_id":85818685,
             "region_id":85688481,
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":387848245,
-    "wof:lastmodified":1449056641,
+    "wof:lastmodified":1454358507,
     "wof:name":"R Tire Shop",
     "wof:parent_id":85818685,
     "wof:placetype":"venue",
@@ -79,6 +83,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-78.406131,40.524042,-78.406131,40.524042],
+  "bbox": [
+    -78.406131,
+    40.524042,
+    -78.406131,
+    40.524042
+],
   "geometry": {"coordinates":[-78.406131,40.524042],"type":"Point"}
 }

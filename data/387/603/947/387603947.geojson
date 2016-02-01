@@ -2,13 +2,14 @@
   "id": 387603947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.075518,40.052026,-79.075518,40.052026",
     "geom:latitude":40.052026,
     "geom:longitude":-79.075518,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"422 Riggs Rd",
     "sg:city":"Somerset",
     "sg:classifiers":[
@@ -47,8 +48,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081361,
-        85868875
+        85868875,
+        102081361
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,17 +59,15 @@
     "wof:geomhash":"9a48450897cd5d7e555a641e22cfb828",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081361,
-            "locality_id":-1,
             "neighbourhood_id":85868875,
             "region_id":85688481,
             "venue_id":387603947
         }
     ],
     "wof:id":387603947,
-    "wof:lastmodified":1449059339,
+    "wof:lastmodified":1454361045,
     "wof:name":"Lincoln Supply & Equipment",
     "wof:parent_id":85868875,
     "wof:placetype":"venue",
@@ -85,6 +84,11 @@
         "saw"
     ]
 },
-  "bbox": [-79.075518,40.052026,-79.075518,40.052026],
+  "bbox": [
+    -79.075518,
+    40.052026,
+    -79.075518,
+    40.052026
+],
   "geometry": {"coordinates":[-79.075518,40.052026],"type":"Point"}
 }

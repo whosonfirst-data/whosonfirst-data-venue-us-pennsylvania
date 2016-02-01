@@ -2,13 +2,14 @@
   "id": 403971959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.635052,39.899523,-76.635052,39.899523",
     "geom:latitude":39.899523,
     "geom:longitude":-76.635052,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"427 E Main St",
     "sg:city":"Dallastown",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080953,
-        85868591
+        85868591,
+        102080953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"151d3b0fd88a90ab0c916228af1fdc75",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
             "neighbourhood_id":85868591,
             "region_id":85688481,
             "venue_id":403971959
         }
     ],
     "wof:id":403971959,
-    "wof:lastmodified":1449055320,
+    "wof:lastmodified":1454357606,
     "wof:name":"M Production",
     "wof:parent_id":85868591,
     "wof:placetype":"venue",
@@ -63,6 +62,11 @@
         "artist"
     ]
 },
-  "bbox": [-76.635052,39.899523,-76.635052,39.899523],
+  "bbox": [
+    -76.635052,
+    39.899523,
+    -76.635052,
+    39.899523
+],
   "geometry": {"coordinates":[-76.635052,39.899523],"type":"Point"}
 }

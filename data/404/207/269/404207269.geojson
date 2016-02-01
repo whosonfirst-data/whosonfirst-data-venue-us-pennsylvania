@@ -2,13 +2,14 @@
   "id": 404207269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.389815,40.621289,-75.389815,40.621289",
     "geom:latitude":40.621289,
     "geom:longitude":-75.389815,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"523 4th Ave",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85897247,
+        102191575,
+        404485987,
         85633793,
         101717907,
-        102081327,
-        85897247
+        102081395,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"7d735933d7a5db65ca7bf59803a75cd0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081327,
+            "county_id":102081395,
+            "localadmin_id":404485987,
             "locality_id":101717907,
             "neighbourhood_id":85897247,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":404207269,
-    "wof:lastmodified":1449039967,
+    "wof:lastmodified":1454356922,
     "wof:name":"Women of Excellence",
     "wof:parent_id":85897247,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.389815,40.621289,-75.389815,40.621289],
+  "bbox": [
+    -75.389815,
+    40.621289,
+    -75.389815,
+    40.621289
+],
   "geometry": {"coordinates":[-75.389815,40.621289],"type":"Point"}
 }

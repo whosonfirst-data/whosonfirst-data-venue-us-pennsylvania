@@ -2,13 +2,14 @@
   "id": 404204793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.386711,40.625179,-75.386711,40.625179",
     "geom:latitude":40.625179,
     "geom:longitude":-75.386711,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"300 W Union Blvd",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85897247,
+        102191575,
+        404485987,
         85633793,
         101717907,
-        102081327,
-        85897247
+        102081395,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"3e0bc950b2b91fbcf1d4481ba968f10f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081327,
+            "county_id":102081395,
+            "localadmin_id":404485987,
             "locality_id":101717907,
             "neighbourhood_id":85897247,
             "region_id":85688481,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":404204793,
-    "wof:lastmodified":1449040348,
+    "wof:lastmodified":1454357151,
     "wof:name":"Bethlehem Auto Sales",
     "wof:parent_id":85897247,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "cars-wholesale"
     ]
 },
-  "bbox": [-75.386711,40.625179,-75.386711,40.625179],
-  "geometry": {"coordinates":[-75.386711,40.625179],"type":"Point"}
+  "bbox": [
+    -75.386711,
+    40.625179,
+    -75.386711,
+    40.625179
+],
+  "geometry": {"coordinates":[-75.38671100000001,40.625179],"type":"Point"}
 }

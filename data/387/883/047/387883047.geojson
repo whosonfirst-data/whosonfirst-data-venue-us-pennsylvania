@@ -2,13 +2,14 @@
   "id": 387883047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.677696,40.853802,-77.677696,40.853802",
     "geom:latitude":40.853802,
     "geom:longitude":-77.677696,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"117 Kreitzer Ave",
     "sg:city":"Centre Hall",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85839333,
+        102191575,
+        404483083,
         85633793,
         101718143,
         102081369,
-        85839333
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"e7a2e5a76d78ac40ac9e5669c0ada04f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081369,
+            "localadmin_id":404483083,
             "locality_id":101718143,
             "neighbourhood_id":85839333,
             "region_id":85688481,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":387883047,
-    "wof:lastmodified":1449059014,
+    "wof:lastmodified":1454360958,
     "wof:name":"Coursen J T Plumbing & Heating",
     "wof:parent_id":85839333,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.677696,40.853802,-77.677696,40.853802],
+  "bbox": [
+    -77.677696,
+    40.853802,
+    -77.677696,
+    40.853802
+],
   "geometry": {"coordinates":[-77.677696,40.853802],"type":"Point"}
 }

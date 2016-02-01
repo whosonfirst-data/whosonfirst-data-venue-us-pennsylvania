@@ -2,13 +2,14 @@
   "id": 387962939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.929507,40.296122,-76.929507,40.296122",
     "geom:latitude":40.296122,
     "geom:longitude":-76.929507,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"325 N Enola Rd",
     "sg:city":"Enola",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081359,
-        85852571
+        85852571,
+        102081359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"70fa927626d8a843121991f8ed2c436a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081359,
-            "locality_id":-1,
             "neighbourhood_id":85852571,
             "region_id":85688481,
             "venue_id":387962939
         }
     ],
     "wof:id":387962939,
-    "wof:lastmodified":1449058337,
+    "wof:lastmodified":1454360750,
     "wof:name":"Panther Jungle",
     "wof:parent_id":85852571,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "pizza"
     ]
 },
-  "bbox": [-76.929507,40.296122,-76.929507,40.296122],
+  "bbox": [
+    -76.929507,
+    40.296122,
+    -76.929507,
+    40.296122
+],
   "geometry": {"coordinates":[-76.929507,40.296122],"type":"Point"}
 }

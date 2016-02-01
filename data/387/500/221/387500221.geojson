@@ -2,13 +2,14 @@
   "id": 387500221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.036163,40.540089,-80.036163,40.540089",
     "geom:latitude":40.540089,
     "geom:longitude":-80.036163,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1012 Perry Hwy",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -40,8 +41,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85841395
+        85841395,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,17 +52,15 @@
     "wof:geomhash":"5a70d9784d07d050f1716e68ba0571f6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85841395,
             "region_id":85688481,
             "venue_id":387500221
         }
     ],
     "wof:id":387500221,
-    "wof:lastmodified":1449057053,
+    "wof:lastmodified":1454358802,
     "wof:name":"Perry Perk",
     "wof:parent_id":85841395,
     "wof:placetype":"venue",
@@ -72,6 +71,11 @@
         "espresso"
     ]
 },
-  "bbox": [-80.036163,40.540089,-80.036163,40.540089],
+  "bbox": [
+    -80.036163,
+    40.540089,
+    -80.036163,
+    40.540089
+],
   "geometry": {"coordinates":[-80.036163,40.540089],"type":"Point"}
 }

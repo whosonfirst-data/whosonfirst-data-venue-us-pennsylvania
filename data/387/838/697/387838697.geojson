@@ -2,13 +2,14 @@
   "id": 387838697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.06678,42.095989,-80.06678,42.095989",
     "geom:latitude":42.095989,
     "geom:longitude":-80.06678,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4201 Sassafras St",
     "sg:city":"Erie",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"http://www.omnidisc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85822031,
+        102191575,
+        404486673,
         85633793,
         101718253,
         102080955,
-        85822031
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"9718a7b5bd3b767c33c1c66a48f871a5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080955,
+            "localadmin_id":404486673,
             "locality_id":101718253,
             "neighbourhood_id":85822031,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387838697,
-    "wof:lastmodified":1449056571,
+    "wof:lastmodified":1454358444,
     "wof:name":"Omnidisc",
     "wof:parent_id":85822031,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "business"
     ]
 },
-  "bbox": [-80.06678,42.095989,-80.06678,42.095989],
-  "geometry": {"coordinates":[-80.06678,42.095989],"type":"Point"}
+  "bbox": [
+    -80.06678,
+    42.095989,
+    -80.06678,
+    42.095989
+],
+  "geometry": {"coordinates":[-80.06677999999999,42.095989],"type":"Point"}
 }

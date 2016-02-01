@@ -2,13 +2,14 @@
   "id": 404059567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.292919,40.188052,-76.292919,40.188052",
     "geom:latitude":40.188052,
     "geom:longitude":-76.292919,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"306 E Lexington Rd",
     "sg:city":"Lititz",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85834405
+        85834405,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"62d9b2e724a55a59fe1480b0a8f6f3e1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85834405,
             "region_id":85688481,
             "venue_id":404059567
         }
     ],
     "wof:id":404059567,
-    "wof:lastmodified":1449039354,
+    "wof:lastmodified":1454356591,
     "wof:name":"Tim's Tree Service",
     "wof:parent_id":85834405,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "tree"
     ]
 },
-  "bbox": [-76.292919,40.188052,-76.292919,40.188052],
+  "bbox": [
+    -76.292919,
+    40.188052,
+    -76.292919,
+    40.188052
+],
   "geometry": {"coordinates":[-76.292919,40.188052],"type":"Point"}
 }

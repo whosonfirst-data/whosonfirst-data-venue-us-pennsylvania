@@ -2,13 +2,14 @@
   "id": 387844819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.930371,42.129237,-79.930371,42.129237",
     "geom:latitude":42.129237,
     "geom:longitude":-79.930371,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"7660 Clark Rd",
     "sg:city":"Erie",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080955,
-        85827775
+        85827775,
+        102080955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"1e25c4a5760b6de51ded87b30030d7e5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080955,
-            "locality_id":-1,
             "neighbourhood_id":85827775,
             "region_id":85688481,
             "venue_id":387844819
         }
     ],
     "wof:id":387844819,
-    "wof:lastmodified":1449057729,
+    "wof:lastmodified":1454360575,
     "wof:name":"Jack Frost Doughnut Shop",
     "wof:parent_id":85827775,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "shop"
     ]
 },
-  "bbox": [-79.930371,42.129237,-79.930371,42.129237],
-  "geometry": {"coordinates":[-79.930371,42.129237],"type":"Point"}
+  "bbox": [
+    -79.930371,
+    42.129237,
+    -79.930371,
+    42.129237
+],
+  "geometry": {"coordinates":[-79.93037099999999,42.129237],"type":"Point"}
 }

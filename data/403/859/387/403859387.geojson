@@ -2,13 +2,14 @@
   "id": 403859387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.84493,40.241638,-76.84493,40.241638",
     "geom:latitude":40.241638,
     "geom:longitude":-76.84493,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1840 S 19th St",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85868485
+        85868485,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"0aafd37faee4edbd4af2046e01e02b69",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85868485,
             "region_id":85688481,
             "venue_id":403859387
         }
     ],
     "wof:id":403859387,
-    "wof:lastmodified":1449055562,
+    "wof:lastmodified":1454357747,
     "wof:name":"Packaging Service",
     "wof:parent_id":85868485,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-76.84493,40.241638,-76.84493,40.241638],
-  "geometry": {"coordinates":[-76.84493,40.241638],"type":"Point"}
+  "bbox": [
+    -76.84493,
+    40.241638,
+    -76.84493,
+    40.241638
+],
+  "geometry": {"coordinates":[-76.84493000000001,40.241638],"type":"Point"}
 }

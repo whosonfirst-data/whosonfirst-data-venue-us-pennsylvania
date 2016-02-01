@@ -2,13 +2,14 @@
   "id": 387301291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.93228,40.458814,-79.93228,40.458814",
     "geom:latitude":40.458814,
     "geom:longitude":-79.93228,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5740 Baum Blvd Ste 1",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85820739,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85820739
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"ae324cc3b694f9d0ed2ed199dd8aeb37",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85820739,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387301291,
-    "wof:lastmodified":1449057073,
+    "wof:lastmodified":1454358817,
     "wof:name":"National Artificial Limb Co Inc",
     "wof:parent_id":85820739,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "prosthetic"
     ]
 },
-  "bbox": [-79.93228,40.458814,-79.93228,40.458814],
-  "geometry": {"coordinates":[-79.93228,40.458814],"type":"Point"}
+  "bbox": [
+    -79.93228,
+    40.458814,
+    -79.93228,
+    40.458814
+],
+  "geometry": {"coordinates":[-79.93228000000001,40.458814],"type":"Point"}
 }

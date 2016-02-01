@@ -2,13 +2,14 @@
   "id": 387420385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.983803,40.452599,-79.983803,40.452599",
     "geom:latitude":40.452599,
     "geom:longitude":-79.983803,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2121 Smallman St",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85851271,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85851271
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"1be311acaba818cf28b8aaf320e7513f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85851271,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387420385,
-    "wof:lastmodified":1449057922,
+    "wof:lastmodified":1454360634,
     "wof:name":"Ayoob Tom Inc",
     "wof:parent_id":85851271,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "veggie"
     ]
 },
-  "bbox": [-79.983803,40.452599,-79.983803,40.452599],
-  "geometry": {"coordinates":[-79.983803,40.452599],"type":"Point"}
+  "bbox": [
+    -79.983803,
+    40.452599,
+    -79.983803,
+    40.452599
+],
+  "geometry": {"coordinates":[-79.98380299999999,40.452599],"type":"Point"}
 }

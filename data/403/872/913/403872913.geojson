@@ -2,13 +2,14 @@
   "id": 403872913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.840652,40.283878,-76.840652,40.283878",
     "geom:latitude":40.283878,
     "geom:longitude":-76.840652,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"160 S Progress Ave Ste 1C",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85850427,
+        102191575,
+        404486197,
         85633793,
-        101719811,
+        101717715,
         102081347,
-        85850427
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"93027d482a92e8ef2bdce9eed2766251",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":101719811,
+            "localadmin_id":404486197,
+            "locality_id":101717715,
             "neighbourhood_id":85850427,
             "region_id":85688481,
             "venue_id":403872913
         }
     ],
     "wof:id":403872913,
-    "wof:lastmodified":1449054753,
+    "wof:lastmodified":1454357260,
     "wof:name":"Capital Division",
     "wof:parent_id":85850427,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "raising"
     ]
 },
-  "bbox": [-76.840652,40.283878,-76.840652,40.283878],
-  "geometry": {"coordinates":[-76.840652,40.283878],"type":"Point"}
+  "bbox": [
+    -76.840652,
+    40.283878,
+    -76.840652,
+    40.283878
+],
+  "geometry": {"coordinates":[-76.84065200000001,40.283878],"type":"Point"}
 }

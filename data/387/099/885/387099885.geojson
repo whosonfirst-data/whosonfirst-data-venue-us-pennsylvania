@@ -2,13 +2,14 @@
   "id": 387099885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.224726,40.588152,-80.224726,40.588152",
     "geom:latitude":40.588152,
     "geom:longitude":-80.224726,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"648 Duss Ave",
     "sg:city":"Ambridge",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     "sg:website":"http://mattscarpentryservices.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85803005,
+        102191575,
+        404484359,
         85633793,
+        101718407,
         102081323,
-        85803005
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +45,18 @@
     "wof:geomhash":"9ca736a92d73d6ea2e7913c759bb5c53",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081323,
-            "locality_id":-1,
+            "localadmin_id":404484359,
+            "locality_id":101718407,
             "neighbourhood_id":85803005,
             "region_id":85688481,
             "venue_id":387099885
         }
     ],
     "wof:id":387099885,
-    "wof:lastmodified":1449058587,
+    "wof:lastmodified":1454360820,
     "wof:name":"Matt's Carpentry Service",
     "wof:parent_id":85803005,
     "wof:placetype":"venue",
@@ -61,6 +66,11 @@
         "carpenter"
     ]
 },
-  "bbox": [-80.224726,40.588152,-80.224726,40.588152],
+  "bbox": [
+    -80.224726,
+    40.588152,
+    -80.224726,
+    40.588152
+],
   "geometry": {"coordinates":[-80.224726,40.588152],"type":"Point"}
 }

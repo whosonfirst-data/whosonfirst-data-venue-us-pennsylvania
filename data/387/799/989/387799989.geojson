@@ -2,13 +2,14 @@
   "id": 387799989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.147049,41.858463,-79.147049,41.858463",
     "geom:latitude":41.858463,
     "geom:longitude":-79.147049,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"105 West St",
     "sg:city":"Warren",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85853597,
+        102191575,
+        404487619,
         85633793,
         101719505,
         102081337,
-        85853597
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"cd7164d63a1f46f1662a564c06a0cc8c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081337,
+            "localadmin_id":404487619,
             "locality_id":101719505,
             "neighbourhood_id":85853597,
             "region_id":85688481,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":387799989,
-    "wof:lastmodified":1449059939,
+    "wof:lastmodified":1454361238,
     "wof:name":"S. Taylor Construction",
     "wof:parent_id":85853597,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.147049,41.858463,-79.147049,41.858463],
+  "bbox": [
+    -79.147049,
+    41.858463,
+    -79.147049,
+    41.858463
+],
   "geometry": {"coordinates":[-79.147049,41.858463],"type":"Point"}
 }

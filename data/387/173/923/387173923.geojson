@@ -2,13 +2,14 @@
   "id": 387173923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.916367,40.18198,-79.916367,40.18198",
     "geom:latitude":40.18198,
     "geom:longitude":-79.916367,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1163 Country Club Rd",
     "sg:city":"Monongahela",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85853767,
+        102191575,
+        404487733,
         85633793,
         101720343,
         102081343,
-        85853767
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"f94227819cad6816ab0ba26d411b781b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081343,
+            "localadmin_id":404487733,
             "locality_id":101720343,
             "neighbourhood_id":85853767,
             "region_id":85688481,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":387173923,
-    "wof:lastmodified":1449056835,
+    "wof:lastmodified":1454358639,
     "wof:name":"Monongahela Valley Hospital",
     "wof:parent_id":85853767,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "surgeons"
     ]
 },
-  "bbox": [-79.916367,40.18198,-79.916367,40.18198],
-  "geometry": {"coordinates":[-79.916367,40.18198],"type":"Point"}
+  "bbox": [
+    -79.916367,
+    40.18198,
+    -79.916367,
+    40.18198
+],
+  "geometry": {"coordinates":[-79.91636699999999,40.18198],"type":"Point"}
 }

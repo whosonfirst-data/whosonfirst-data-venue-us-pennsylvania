@@ -2,13 +2,14 @@
   "id": 387478937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.036888,40.368542,-80.036888,40.368542",
     "geom:latitude":40.368542,
     "geom:longitude":-80.036888,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"300 Mount Lebanon Blvd 301A",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85830717,
+        102191575,
+        404484869,
         85633793,
         101718761,
         102080887,
-        85830717
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"0ca079f8d26d47dcb8e372983b714d3e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484869,
             "locality_id":101718761,
             "neighbourhood_id":85830717,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387478937,
-    "wof:lastmodified":1449056242,
+    "wof:lastmodified":1454358192,
     "wof:name":"Kelley, G Clinton Attorney At Law",
     "wof:parent_id":85830717,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "practice"
     ]
 },
-  "bbox": [-80.036888,40.368542,-80.036888,40.368542],
+  "bbox": [
+    -80.036888,
+    40.368542,
+    -80.036888,
+    40.368542
+],
   "geometry": {"coordinates":[-80.036888,40.368542],"type":"Point"}
 }

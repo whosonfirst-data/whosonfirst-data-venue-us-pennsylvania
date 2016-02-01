@@ -2,13 +2,14 @@
   "id": 387775867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.397099,41.189151,-79.397099,41.189151",
     "geom:latitude":41.189151,
     "geom:longitude":-79.397099,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"18 Sportsman Dr Ste 20",
     "sg:city":"Clarion",
     "sg:classifiers":[
@@ -48,8 +49,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081389,
-        85857843
+        85857843,
+        102081389
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,17 +60,15 @@
     "wof:geomhash":"54ac831d4ed52e8387f46a98e9805a5e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081389,
-            "locality_id":-1,
             "neighbourhood_id":85857843,
             "region_id":85688481,
             "venue_id":387775867
         }
     ],
     "wof:id":387775867,
-    "wof:lastmodified":1449058919,
+    "wof:lastmodified":1454360926,
     "wof:name":"West Penn Orthopaedics",
     "wof:parent_id":85857843,
     "wof:placetype":"venue",
@@ -88,6 +87,11 @@
         "sport"
     ]
 },
-  "bbox": [-79.397099,41.189151,-79.397099,41.189151],
+  "bbox": [
+    -79.397099,
+    41.189151,
+    -79.397099,
+    41.189151
+],
   "geometry": {"coordinates":[-79.397099,41.189151],"type":"Point"}
 }

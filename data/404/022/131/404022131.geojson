@@ -2,13 +2,14 @@
   "id": 404022131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.69548,39.965309,-76.69548,39.965309",
     "geom:latitude":39.965309,
     "geom:longitude":-76.69548,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1600 6th Ave Ste 102",
     "sg:city":"York",
     "sg:classifiers":[
@@ -34,8 +35,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080953,
-        85817923
+        85817923,
+        102080953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +46,15 @@
     "wof:geomhash":"86de61492312ab28e3558a487629fc51",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
             "neighbourhood_id":85817923,
             "region_id":85688481,
             "venue_id":404022131
         }
     ],
     "wof:id":404022131,
-    "wof:lastmodified":1449039410,
+    "wof:lastmodified":1454356634,
     "wof:name":"Emi Physiatry",
     "wof:parent_id":85817923,
     "wof:placetype":"venue",
@@ -70,6 +69,11 @@
         "physical"
     ]
 },
-  "bbox": [-76.69548,39.965309,-76.69548,39.965309],
+  "bbox": [
+    -76.69548,
+    39.965309,
+    -76.69548,
+    39.965309
+],
   "geometry": {"coordinates":[-76.69548,39.965309],"type":"Point"}
 }

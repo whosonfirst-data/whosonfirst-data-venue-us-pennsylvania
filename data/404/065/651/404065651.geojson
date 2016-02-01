@@ -2,13 +2,14 @@
   "id": 404065651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.359113,40.0079,-76.359113,40.0079",
     "geom:latitude":40.0079,
     "geom:longitude":-76.359113,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"14 Blue Rock Rd",
     "sg:city":"Millersville",
     "sg:classifiers":[],
@@ -20,8 +21,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85854053
+        85854053,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -31,17 +32,15 @@
     "wof:geomhash":"96a40487cb8c6c5e9e2dec3d288d923c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85854053,
             "region_id":85688481,
             "venue_id":404065651
         }
     ],
     "wof:id":404065651,
-    "wof:lastmodified":1449040318,
+    "wof:lastmodified":1454357132,
     "wof:name":"Barn Door Restaraunt",
     "wof:parent_id":85854053,
     "wof:placetype":"venue",
@@ -49,6 +48,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.359113,40.0079,-76.359113,40.0079],
-  "geometry": {"coordinates":[-76.359113,40.0079],"type":"Point"}
+  "bbox": [
+    -76.359113,
+    40.0079,
+    -76.359113,
+    40.0079
+],
+  "geometry": {"coordinates":[-76.35911299999999,40.0079],"type":"Point"}
 }

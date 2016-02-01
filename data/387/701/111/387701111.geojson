@@ -2,13 +2,14 @@
   "id": 387701111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.930065,40.91113,-79.930065,40.91113",
     "geom:latitude":40.91113,
     "geom:longitude":-79.930065,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"512 Sunset Dr",
     "sg:city":"Butler",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536957,
+        102191575,
+        404485061,
         85633793,
         101720155,
-        102083677
+        102083677,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"1df400082e214001af79461d662560a0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083677,
+            "localadmin_id":404485061,
             "locality_id":101720155,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420536957,
             "region_id":85688481,
             "venue_id":387701111
         }
     ],
     "wof:id":387701111,
-    "wof:lastmodified":1449059119,
+    "wof:lastmodified":1454360990,
     "wof:name":"Sew & Vac Services",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536957,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "machines-service"
     ]
 },
-  "bbox": [-79.930065,40.91113,-79.930065,40.91113],
+  "bbox": [
+    -79.930065,
+    40.91113,
+    -79.930065,
+    40.91113
+],
   "geometry": {"coordinates":[-79.930065,40.91113],"type":"Point"}
 }

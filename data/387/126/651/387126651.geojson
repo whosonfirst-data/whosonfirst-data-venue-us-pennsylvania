@@ -2,13 +2,14 @@
   "id": 387126651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.796598,40.543696,-79.796598,40.543696",
     "geom:latitude":40.543696,
     "geom:longitude":-79.796598,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1607 Beech St",
     "sg:city":"Cheswick",
     "sg:classifiers":[
@@ -36,11 +37,13 @@
     "sg:website":"http://www.yext.com/p/superpages/access-systems-integration-cheswick-pennsylvania.html",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85839857,
+        102191575,
+        404484317,
         85633793,
         101718751,
         102080887,
-        85839857
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,9 +53,10 @@
     "wof:geomhash":"a3044f29cd17edac5a2093295f474ae0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484317,
             "locality_id":101718751,
             "neighbourhood_id":85839857,
             "region_id":85688481,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":387126651,
-    "wof:lastmodified":1449057504,
+    "wof:lastmodified":1454359767,
     "wof:name":"Access Systems Integration",
     "wof:parent_id":85839857,
     "wof:placetype":"venue",
@@ -73,6 +77,11 @@
         "lock"
     ]
 },
-  "bbox": [-79.796598,40.543696,-79.796598,40.543696],
+  "bbox": [
+    -79.796598,
+    40.543696,
+    -79.796598,
+    40.543696
+],
   "geometry": {"coordinates":[-79.796598,40.543696],"type":"Point"}
 }

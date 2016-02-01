@@ -2,13 +2,14 @@
   "id": 404021137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.707382,39.94458,-76.707382,39.94458",
     "geom:latitude":39.94458,
     "geom:longitude":-76.707382,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1601 S Queen St",
     "sg:city":"York",
     "sg:classifiers":[
@@ -31,7 +32,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420540339,
+        102191575,
+        404488031,
         85633793,
+        101719457,
+        102080953,
         85688481
     ],
     "wof:breaches":[],
@@ -42,18 +48,20 @@
     "wof:geomhash":"fcf0dc7638f39d49871f1d4b660074a7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102080953,
+            "localadmin_id":404488031,
+            "locality_id":101719457,
+            "neighbourhood_id":420540339,
             "region_id":85688481,
             "venue_id":404021137
         }
     ],
     "wof:id":404021137,
-    "wof:lastmodified":1449039879,
+    "wof:lastmodified":1454356862,
     "wof:name":"Schmitt Douglas A Dentist",
-    "wof:parent_id":-1,
+    "wof:parent_id":420540339,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -65,6 +73,11 @@
         "dentistry"
     ]
 },
-  "bbox": [-76.707382,39.94458,-76.707382,39.94458],
+  "bbox": [
+    -76.707382,
+    39.94458,
+    -76.707382,
+    39.94458
+],
   "geometry": {"coordinates":[-76.707382,39.94458],"type":"Point"}
 }

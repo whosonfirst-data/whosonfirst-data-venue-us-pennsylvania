@@ -2,13 +2,14 @@
   "id": 387549925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.089349,40.271726,-80.089349,40.271726",
     "geom:latitude":40.271726,
     "geom:longitude":-80.089349,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"113 Druid Dr",
     "sg:city":"Canonsburg",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081343,
-        85806851
+        85806851,
+        102081343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"063fe394a3b876d579ebe394181ee0ed",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081343,
-            "locality_id":-1,
             "neighbourhood_id":85806851,
             "region_id":85688481,
             "venue_id":387549925
         }
     ],
     "wof:id":387549925,
-    "wof:lastmodified":1449057143,
+    "wof:lastmodified":1454358874,
     "wof:name":"T M Tallant & Associates",
     "wof:parent_id":85806851,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-80.089349,40.271726,-80.089349,40.271726],
+  "bbox": [
+    -80.089349,
+    40.271726,
+    -80.089349,
+    40.271726
+],
   "geometry": {"coordinates":[-80.089349,40.271726],"type":"Point"}
 }

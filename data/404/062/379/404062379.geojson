@@ -2,13 +2,14 @@
   "id": 404062379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.39843,40.173027,-76.39843,40.173027",
     "geom:latitude":40.173027,
     "geom:longitude":-76.39843,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"236 Julia Ln",
     "sg:city":"Manheim",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85836395
+        85836395,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"278fd4598b76045ed7a49782d221b048",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85836395,
             "region_id":85688481,
             "venue_id":404062379
         }
     ],
     "wof:id":404062379,
-    "wof:lastmodified":1449040261,
+    "wof:lastmodified":1454357094,
     "wof:name":"American Business Insurance Group",
     "wof:parent_id":85836395,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "business"
     ]
 },
-  "bbox": [-76.39843,40.173027,-76.39843,40.173027],
+  "bbox": [
+    -76.39843,
+    40.173027,
+    -76.39843,
+    40.173027
+],
   "geometry": {"coordinates":[-76.39843,40.173027],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404086713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.300143,40.038568,-76.300143,40.038568",
     "geom:latitude":40.038568,
     "geom:longitude":-76.300143,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"234 E King St",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85818111,
+        102191575,
+        404487183,
         85633793,
         101718643,
         102081377,
-        85818111
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"eddea7e9a9058224f9f7e73b439e2fb7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081377,
+            "localadmin_id":404487183,
             "locality_id":101718643,
             "neighbourhood_id":85818111,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":404086713,
-    "wof:lastmodified":1449039937,
+    "wof:lastmodified":1454356904,
     "wof:name":"Gordon Smoker",
     "wof:parent_id":85818111,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-76.300143,40.038568,-76.300143,40.038568],
-  "geometry": {"coordinates":[-76.300143,40.038568],"type":"Point"}
+  "bbox": [
+    -76.300143,
+    40.038568,
+    -76.300143,
+    40.038568
+],
+  "geometry": {"coordinates":[-76.30014300000001,40.038568],"type":"Point"}
 }

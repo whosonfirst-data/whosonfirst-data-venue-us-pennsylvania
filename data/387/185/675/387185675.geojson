@@ -2,13 +2,14 @@
   "id": 387185675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.111099,40.6842,-80.111099,40.6842",
     "geom:latitude":40.6842,
     "geom:longitude":-80.111099,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"820 Commonwealth Dr",
     "sg:city":"Warrendale",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102083677,
-        85812951
+        85812951,
+        102083677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"2c9d13c402ce938e35fd309645feb242",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102083677,
-            "locality_id":-1,
             "neighbourhood_id":85812951,
             "region_id":85688481,
             "venue_id":387185675
         }
     ],
     "wof:id":387185675,
-    "wof:lastmodified":1449056728,
+    "wof:lastmodified":1454358565,
     "wof:name":"Eagle Mountain Scientific",
     "wof:parent_id":85812951,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "physical"
     ]
 },
-  "bbox": [-80.111099,40.6842,-80.111099,40.6842],
+  "bbox": [
+    -80.111099,
+    40.6842,
+    -80.111099,
+    40.6842
+],
   "geometry": {"coordinates":[-80.111099,40.6842],"type":"Point"}
 }

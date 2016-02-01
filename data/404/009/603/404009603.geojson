@@ -2,13 +2,14 @@
   "id": 404009603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.74099,39.956741,-76.74099,39.956741",
     "geom:latitude":39.956741,
     "geom:longitude":-76.74099,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"550 W King St",
     "sg:city":"York",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     "sg:website":"http://www.erieinsurance.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85833149,
+        102191575,
+        404488029,
         85633793,
+        101717279,
         102080953,
-        85833149
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +45,18 @@
     "wof:geomhash":"4ecb26b63e7d37a037be075b318e340e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
+            "localadmin_id":404488029,
+            "locality_id":101717279,
             "neighbourhood_id":85833149,
             "region_id":85688481,
             "venue_id":404009603
         }
     ],
     "wof:id":404009603,
-    "wof:lastmodified":1449040311,
+    "wof:lastmodified":1454357129,
     "wof:name":"RICHARD A THOMAN INC",
     "wof:parent_id":85833149,
     "wof:placetype":"venue",
@@ -61,6 +66,11 @@
         "auto"
     ]
 },
-  "bbox": [-76.74099,39.956741,-76.74099,39.956741],
+  "bbox": [
+    -76.74099,
+    39.956741,
+    -76.74099,
+    39.956741
+],
   "geometry": {"coordinates":[-76.74099,39.956741],"type":"Point"}
 }

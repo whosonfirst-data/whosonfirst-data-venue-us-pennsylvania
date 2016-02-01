@@ -2,13 +2,14 @@
   "id": 387242845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.165398,40.52037,-80.165398,40.52037",
     "geom:latitude":40.52037,
     "geom:longitude":-80.165398,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"901 2nd Ave",
     "sg:city":"Coraopolis",
     "sg:classifiers":[
@@ -39,8 +40,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85835111
+        85835111,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,17 +51,15 @@
     "wof:geomhash":"5d770e9306700dcd4d22e51b4a172345",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85835111,
             "region_id":85688481,
             "venue_id":387242845
         }
     ],
     "wof:id":387242845,
-    "wof:lastmodified":1449059467,
+    "wof:lastmodified":1454361092,
     "wof:name":"Irriland Corporation",
     "wof:parent_id":85835111,
     "wof:placetype":"venue",
@@ -74,6 +73,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.165398,40.52037,-80.165398,40.52037],
+  "bbox": [
+    -80.165398,
+    40.52037,
+    -80.165398,
+    40.52037
+],
   "geometry": {"coordinates":[-80.165398,40.52037],"type":"Point"}
 }

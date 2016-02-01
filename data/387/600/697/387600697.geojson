@@ -2,13 +2,14 @@
   "id": 387600697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.74585,40.174425,-79.74585,40.174425",
     "geom:latitude":40.174425,
     "geom:longitude":-79.74585,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"302 Fitz Henry Rd",
     "sg:city":"Smithton",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081383,
-        85842839
+        85842839,
+        102081383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"6619ea2a71c7d6496e45d13b35b140e4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":-1,
             "neighbourhood_id":85842839,
             "region_id":85688481,
             "venue_id":387600697
         }
     ],
     "wof:id":387600697,
-    "wof:lastmodified":1449056456,
+    "wof:lastmodified":1454358368,
     "wof:name":"Shasko Global Logistics",
     "wof:parent_id":85842839,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "broker"
     ]
 },
-  "bbox": [-79.74585,40.174425,-79.74585,40.174425],
+  "bbox": [
+    -79.74585,
+    40.174425,
+    -79.74585,
+    40.174425
+],
   "geometry": {"coordinates":[-79.74585,40.174425],"type":"Point"}
 }

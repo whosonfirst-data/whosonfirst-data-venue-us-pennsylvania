@@ -2,13 +2,14 @@
   "id": 403714929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.426182,40.338687,-76.426182,40.338687",
     "geom:latitude":40.338687,
     "geom:longitude":-76.426182,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"15 S 9th St",
     "sg:city":"Lebanon",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85842249,
+        102191575,
+        404485699,
         85633793,
         101717093,
         102081341,
-        85842249
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"18df3868b1d9ddadc372ae18a83c97f0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081341,
+            "localadmin_id":404485699,
             "locality_id":101717093,
             "neighbourhood_id":85842249,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":403714929,
-    "wof:lastmodified":1449055286,
+    "wof:lastmodified":1454357581,
     "wof:name":"Mental Health Association Of Lebanon City",
     "wof:parent_id":85842249,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "welfare"
     ]
 },
-  "bbox": [-76.426182,40.338687,-76.426182,40.338687],
+  "bbox": [
+    -76.426182,
+    40.338687,
+    -76.426182,
+    40.338687
+],
   "geometry": {"coordinates":[-76.426182,40.338687],"type":"Point"}
 }

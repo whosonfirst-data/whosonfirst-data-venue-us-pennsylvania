@@ -2,13 +2,14 @@
   "id": 387304909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.989516,40.412586,-79.989516,40.412586",
     "geom:latitude":40.412586,
     "geom:longitude":-79.989516,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"448 Brownsville Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85828757,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85828757
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"d781a372202a890846e6fe947209f86b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85828757,
             "region_id":85688481,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":387304909,
-    "wof:lastmodified":1449058941,
+    "wof:lastmodified":1454360934,
     "wof:name":"Temwa African Hair Braiding Salon",
     "wof:parent_id":85828757,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "hair"
     ]
 },
-  "bbox": [-79.989516,40.412586,-79.989516,40.412586],
-  "geometry": {"coordinates":[-79.989516,40.412586],"type":"Point"}
+  "bbox": [
+    -79.989516,
+    40.412586,
+    -79.989516,
+    40.412586
+],
+  "geometry": {"coordinates":[-79.98951599999999,40.412586],"type":"Point"}
 }

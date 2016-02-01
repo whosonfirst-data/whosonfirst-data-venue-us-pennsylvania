@@ -2,13 +2,14 @@
   "id": 387490287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.014758,40.344303,-80.014758,40.344303",
     "geom:latitude":40.344303,
     "geom:longitude":-80.014758,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6011 Baptist Rd Ste 300",
     "sg:city":"Bethel Park",
     "sg:classifiers":[
@@ -25,11 +26,13 @@
     "sg:website":"www.kevinsullivandental.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85831349,
+        102191575,
+        404484853,
         85633793,
         101718799,
         102080887,
-        85831349
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +42,10 @@
     "wof:geomhash":"b07104c7d2fe492734819f6a163d8d08",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484853,
             "locality_id":101718799,
             "neighbourhood_id":85831349,
             "region_id":85688481,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":387490287,
-    "wof:lastmodified":1449059528,
+    "wof:lastmodified":1454361108,
     "wof:name":"Sullivan Kevin DMD",
     "wof:parent_id":85831349,
     "wof:placetype":"venue",
@@ -57,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.014758,40.344303,-80.014758,40.344303],
+  "bbox": [
+    -80.014758,
+    40.344303,
+    -80.014758,
+    40.344303
+],
   "geometry": {"coordinates":[-80.014758,40.344303],"type":"Point"}
 }

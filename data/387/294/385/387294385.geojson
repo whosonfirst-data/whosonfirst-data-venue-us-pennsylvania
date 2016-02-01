@@ -2,13 +2,14 @@
   "id": 387294385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.161527,40.451821,-80.161527,40.451821",
     "geom:latitude":40.451821,
     "geom:longitude":-80.161527,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1020 Park Manor Blvd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -32,8 +33,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85821263
+        85821263,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +44,15 @@
     "wof:geomhash":"80cd04980da635c4ec9b55e01a71acc0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85821263,
             "region_id":85688481,
             "venue_id":387294385
         }
     ],
     "wof:id":387294385,
-    "wof:lastmodified":1449058820,
+    "wof:lastmodified":1454360893,
     "wof:name":"Guitar Center - Pittsburgh",
     "wof:parent_id":85821263,
     "wof:placetype":"venue",
@@ -65,6 +64,11 @@
         "musical"
     ]
 },
-  "bbox": [-80.161527,40.451821,-80.161527,40.451821],
-  "geometry": {"coordinates":[-80.161527,40.451821],"type":"Point"}
+  "bbox": [
+    -80.161527,
+    40.451821,
+    -80.161527,
+    40.451821
+],
+  "geometry": {"coordinates":[-80.16152700000001,40.451821],"type":"Point"}
 }

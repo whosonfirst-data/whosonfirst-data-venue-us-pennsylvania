@@ -2,13 +2,14 @@
   "id": 403745871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.976539,40.240812,-76.976539,40.240812",
     "geom:latitude":40.240812,
     "geom:longitude":-76.976539,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1776 Louisa Ln",
     "sg:city":"Mechanicsburg",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081359,
-        85850501
+        85850501,
+        102081359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"869e22ab64da2326021bf37d5b579a22",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081359,
-            "locality_id":-1,
             "neighbourhood_id":85850501,
             "region_id":85688481,
             "venue_id":403745871
         }
     ],
     "wof:id":403745871,
-    "wof:lastmodified":1449055888,
+    "wof:lastmodified":1454357932,
     "wof:name":"Pmi Brambles Apts",
     "wof:parent_id":85850501,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "apartment"
     ]
 },
-  "bbox": [-76.976539,40.240812,-76.976539,40.240812],
+  "bbox": [
+    -76.976539,
+    40.240812,
+    -76.976539,
+    40.240812
+],
   "geometry": {"coordinates":[-76.976539,40.240812],"type":"Point"}
 }

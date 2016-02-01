@@ -2,13 +2,14 @@
   "id": 403894009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.805762,40.25166,-76.805762,40.25166",
     "geom:latitude":40.25166,
     "geom:longitude":-76.805762,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4400 Lewis Rd Ste A",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     "sg:website":"http://www.mallinckrodt.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85829991,
+        102191575,
+        404486309,
         85633793,
         101719815,
         102081347,
-        85829991
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"72fbd73730c4ee2d1de128f49a5700c9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
+            "localadmin_id":404486309,
             "locality_id":101719815,
             "neighbourhood_id":85829991,
             "region_id":85688481,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":403894009,
-    "wof:lastmodified":1449055173,
+    "wof:lastmodified":1454357513,
     "wof:name":"Mallinckrodt Inc.",
     "wof:parent_id":85829991,
     "wof:placetype":"venue",
@@ -69,6 +73,11 @@
         "supply"
     ]
 },
-  "bbox": [-76.805762,40.25166,-76.805762,40.25166],
+  "bbox": [
+    -76.805762,
+    40.25166,
+    -76.805762,
+    40.25166
+],
   "geometry": {"coordinates":[-76.805762,40.25166],"type":"Point"}
 }

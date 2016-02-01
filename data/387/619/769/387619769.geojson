@@ -2,13 +2,14 @@
   "id": 387619769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.580711,40.306049,-79.580711,40.306049",
     "geom:latitude":40.306049,
     "geom:longitude":-79.580711,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"800 Greengate Centre Cir",
     "sg:city":"Greensburg",
     "sg:classifiers":[
@@ -42,8 +43,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081383,
-        85843595
+        85843595,
+        102081383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,17 +54,15 @@
     "wof:geomhash":"a06c6b6f32d8432cd538d92640a33846",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":-1,
             "neighbourhood_id":85843595,
             "region_id":85688481,
             "venue_id":387619769
         }
     ],
     "wof:id":387619769,
-    "wof:lastmodified":1449056783,
+    "wof:lastmodified":1454358607,
     "wof:name":"Arby's",
     "wof:parent_id":85843595,
     "wof:placetype":"venue",
@@ -75,6 +74,11 @@
         "sandwich"
     ]
 },
-  "bbox": [-79.580711,40.306049,-79.580711,40.306049],
-  "geometry": {"coordinates":[-79.580711,40.306049],"type":"Point"}
+  "bbox": [
+    -79.580711,
+    40.306049,
+    -79.580711,
+    40.306049
+],
+  "geometry": {"coordinates":[-79.58071099999999,40.306049],"type":"Point"}
 }

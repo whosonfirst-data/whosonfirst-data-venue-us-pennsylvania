@@ -2,13 +2,14 @@
   "id": 404077721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.296402,40.076432,-76.296402,40.076432",
     "geom:latitude":40.076432,
     "geom:longitude":-76.296402,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1825 Oregon Pike",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -38,8 +39,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85811259
+        85811259,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +50,15 @@
     "wof:geomhash":"e174e87c6932b01992af1f5a5c4127a9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85811259,
             "region_id":85688481,
             "venue_id":404077721
         }
     ],
     "wof:id":404077721,
-    "wof:lastmodified":1449039206,
+    "wof:lastmodified":1454356520,
     "wof:name":"Century 21 Park Rd Ltd",
     "wof:parent_id":85811259,
     "wof:placetype":"venue",
@@ -72,6 +71,11 @@
         "broker"
     ]
 },
-  "bbox": [-76.296402,40.076432,-76.296402,40.076432],
+  "bbox": [
+    -76.296402,
+    40.076432,
+    -76.296402,
+    40.076432
+],
   "geometry": {"coordinates":[-76.296402,40.076432],"type":"Point"}
 }

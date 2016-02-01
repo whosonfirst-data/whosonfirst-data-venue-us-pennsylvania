@@ -2,13 +2,14 @@
   "id": 387642201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.380326,40.284798,-79.380326,40.284798",
     "geom:latitude":40.284798,
     "geom:longitude":-79.380326,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1724 Theatre St Ste A",
     "sg:city":"Latrobe",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85846727,
+        102191575,
+        404487601,
         85633793,
-        101719445,
+        101719411,
         102081383,
-        85846727
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"8e07db4aa0b269a93f5dd7257df18c4f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":101719445,
+            "localadmin_id":404487601,
+            "locality_id":101719411,
             "neighbourhood_id":85846727,
             "region_id":85688481,
             "venue_id":387642201
         }
     ],
     "wof:id":387642201,
-    "wof:lastmodified":1449056337,
+    "wof:lastmodified":1454358269,
     "wof:name":"Horner Insurance",
     "wof:parent_id":85846727,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "business"
     ]
 },
-  "bbox": [-79.380326,40.284798,-79.380326,40.284798],
+  "bbox": [
+    -79.380326,
+    40.284798,
+    -79.380326,
+    40.284798
+],
   "geometry": {"coordinates":[-79.380326,40.284798],"type":"Point"}
 }

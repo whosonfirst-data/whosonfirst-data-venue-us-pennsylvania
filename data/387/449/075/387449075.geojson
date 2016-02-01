@@ -2,13 +2,14 @@
   "id": 387449075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.05308,40.384419,-80.05308,40.384419",
     "geom:latitude":40.384419,
     "geom:longitude":-80.05308,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"421 Cochran Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     "sg:website":"http://www.kartsonasinsurance.com?utm_source=yp&utm_medium=cpc&utm_campaign=ck_yp",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85804395,
+        102191575,
+        404482523,
         85633793,
+        101718805,
         102080887,
-        85804395
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +45,18 @@
     "wof:geomhash":"2eafedda2f83fcf298842eb63c22b32f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
+            "localadmin_id":404482523,
+            "locality_id":101718805,
             "neighbourhood_id":85804395,
             "region_id":85688481,
             "venue_id":387449075
         }
     ],
     "wof:id":387449075,
-    "wof:lastmodified":1449059643,
+    "wof:lastmodified":1454361143,
     "wof:name":"KARTSONAS AGENCY, INC.",
     "wof:parent_id":85804395,
     "wof:placetype":"venue",
@@ -61,6 +66,11 @@
         "auto"
     ]
 },
-  "bbox": [-80.05308,40.384419,-80.05308,40.384419],
-  "geometry": {"coordinates":[-80.05308,40.384419],"type":"Point"}
+  "bbox": [
+    -80.05308,
+    40.384419,
+    -80.05308,
+    40.384419
+],
+  "geometry": {"coordinates":[-80.05307999999999,40.384419],"type":"Point"}
 }

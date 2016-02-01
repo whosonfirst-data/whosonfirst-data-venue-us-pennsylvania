@@ -2,13 +2,14 @@
   "id": 403985953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.244759,39.884601,-77.244759,39.884601",
     "geom:latitude":39.884601,
     "geom:longitude":-77.244759,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2087 Biglerville Rd",
     "sg:city":"Gettysburg",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080899,
-        85822177
+        85822177,
+        102080899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"5bdae56ee0bc34d79cb03b628c0b4b64",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080899,
-            "locality_id":-1,
             "neighbourhood_id":85822177,
             "region_id":85688481,
             "venue_id":403985953
         }
     ],
     "wof:id":403985953,
-    "wof:lastmodified":1449055296,
+    "wof:lastmodified":1454357587,
     "wof:name":"Kelly Aluminum",
     "wof:parent_id":85822177,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-77.244759,39.884601,-77.244759,39.884601],
+  "bbox": [
+    -77.244759,
+    39.884601,
+    -77.244759,
+    39.884601
+],
   "geometry": {"coordinates":[-77.244759,39.884601],"type":"Point"}
 }

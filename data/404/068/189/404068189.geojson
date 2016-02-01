@@ -2,13 +2,14 @@
   "id": 404068189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.359605,39.876398,-76.359605,39.876398",
     "geom:latitude":39.876398,
     "geom:longitude":-76.359605,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"343 House Rock Rd",
     "sg:city":"Pequea",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85818203
+        85818203,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"9b9d8265ca2ec63ccddf23a76da75920",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85818203,
             "region_id":85688481,
             "venue_id":404068189
         }
     ],
     "wof:id":404068189,
-    "wof:lastmodified":1449039722,
+    "wof:lastmodified":1454356767,
     "wof:name":"David D Roadman",
     "wof:parent_id":85818203,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "timber"
     ]
 },
-  "bbox": [-76.359605,39.876398,-76.359605,39.876398],
+  "bbox": [
+    -76.359605,
+    39.876398,
+    -76.359605,
+    39.876398
+],
   "geometry": {"coordinates":[-76.359605,39.876398],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403742897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.028495,40.228879,-77.028495,40.228879",
     "geom:latitude":40.228879,
     "geom:longitude":-77.028495,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"103 Holly Ln",
     "sg:city":"Mechanicsburg",
     "sg:classifiers":[
@@ -32,8 +33,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081359,
-        85826667
+        85826667,
+        102081359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +44,15 @@
     "wof:geomhash":"2cea04a92aea62aa41c5b92ffb5d969e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081359,
-            "locality_id":-1,
             "neighbourhood_id":85826667,
             "region_id":85688481,
             "venue_id":403742897
         }
     ],
     "wof:id":403742897,
-    "wof:lastmodified":1449054721,
+    "wof:lastmodified":1454357241,
     "wof:name":"Mcfadden Drywall",
     "wof:parent_id":85826667,
     "wof:placetype":"venue",
@@ -66,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-77.028495,40.228879,-77.028495,40.228879],
-  "geometry": {"coordinates":[-77.028495,40.228879],"type":"Point"}
+  "bbox": [
+    -77.028495,
+    40.228879,
+    -77.028495,
+    40.228879
+],
+  "geometry": {"coordinates":[-77.02849500000001,40.228879],"type":"Point"}
 }

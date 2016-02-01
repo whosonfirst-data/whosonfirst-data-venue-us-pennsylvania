@@ -2,13 +2,14 @@
   "id": 387833249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.168698,42.098386,-80.168698,42.098386",
     "geom:latitude":42.098386,
     "geom:longitude":-80.168698,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"634 Glenruadh Ave",
     "sg:city":"Erie",
     "sg:classifiers":[
@@ -43,8 +44,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080955,
-        85815773
+        85815773,
+        102080955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,17 +55,15 @@
     "wof:geomhash":"aee6d1b9e6cbf3d044e34b5d8b8ddcac",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080955,
-            "locality_id":-1,
             "neighbourhood_id":85815773,
             "region_id":85688481,
             "venue_id":387833249
         }
     ],
     "wof:id":387833249,
-    "wof:lastmodified":1449056593,
+    "wof:lastmodified":1454358466,
     "wof:name":"Foht Realtors",
     "wof:parent_id":85815773,
     "wof:placetype":"venue",
@@ -78,6 +77,11 @@
         "appraiser"
     ]
 },
-  "bbox": [-80.168698,42.098386,-80.168698,42.098386],
-  "geometry": {"coordinates":[-80.168698,42.098386],"type":"Point"}
+  "bbox": [
+    -80.168698,
+    42.098386,
+    -80.168698,
+    42.098386
+],
+  "geometry": {"coordinates":[-80.16869800000001,42.098386],"type":"Point"}
 }

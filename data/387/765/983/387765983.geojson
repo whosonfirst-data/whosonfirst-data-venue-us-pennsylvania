@@ -2,13 +2,14 @@
   "id": 387765983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.439662,41.23449,-80.439662,41.23449",
     "geom:latitude":41.23449,
     "geom:longitude":-80.439662,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3871 E State St",
     "sg:city":"Hermitage",
     "sg:classifiers":[
@@ -47,11 +48,13 @@
     "sg:website":"http://www.heartlandhospice.com/Erie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85824773,
+        102191575,
+        404487983,
         85633793,
         101718107,
         102080965,
-        85824773
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,9 +64,10 @@
     "wof:geomhash":"2b7e675beffdde57a48ce29c999ea8f8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080965,
+            "localadmin_id":404487983,
             "locality_id":101718107,
             "neighbourhood_id":85824773,
             "region_id":85688481,
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":387765983,
-    "wof:lastmodified":1449058306,
+    "wof:lastmodified":1454360739,
     "wof:name":"Heartland Hospice Services",
     "wof:parent_id":85824773,
     "wof:placetype":"venue",
@@ -85,6 +89,11 @@
         "home"
     ]
 },
-  "bbox": [-80.439662,41.23449,-80.439662,41.23449],
+  "bbox": [
+    -80.439662,
+    41.23449,
+    -80.439662,
+    41.23449
+],
   "geometry": {"coordinates":[-80.439662,41.23449],"type":"Point"}
 }

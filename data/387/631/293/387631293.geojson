@@ -2,13 +2,14 @@
   "id": 387631293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.650497,40.419979,-79.650497,40.419979",
     "geom:latitude":40.419979,
     "geom:longitude":-79.650497,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5100 Old William Penn Hwy",
     "sg:city":"Export",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85836835,
+        102191575,
+        404487539,
         85633793,
         101717149,
         102081383,
-        85836835
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"b49770cf29956c430fabe83dc3dd47f7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081383,
+            "localadmin_id":404487539,
             "locality_id":101717149,
             "neighbourhood_id":85836835,
             "region_id":85688481,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":387631293,
-    "wof:lastmodified":1449057273,
+    "wof:lastmodified":1454358986,
     "wof:name":"Good Friends Inc",
     "wof:parent_id":85836835,
     "wof:placetype":"venue",
@@ -68,6 +72,11 @@
         "army"
     ]
 },
-  "bbox": [-79.650497,40.419979,-79.650497,40.419979],
+  "bbox": [
+    -79.650497,
+    40.419979,
+    -79.650497,
+    40.419979
+],
   "geometry": {"coordinates":[-79.650497,40.419979],"type":"Point"}
 }

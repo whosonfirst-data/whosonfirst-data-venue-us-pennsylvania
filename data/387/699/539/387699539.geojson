@@ -2,13 +2,14 @@
   "id": 387699539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.910248,40.858711,-79.910248,40.858711",
     "geom:latitude":40.858711,
     "geom:longitude":-79.910248,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"100 Cdc Dr",
     "sg:city":"Butler",
     "sg:classifiers":[
@@ -40,11 +41,13 @@
     "sg:website":"http://www.arbys.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85824973,
+        102191575,
+        404485057,
         85633793,
-        101720149,
+        101718197,
         102083677,
-        85824973
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,17 +57,18 @@
     "wof:geomhash":"cd6f7777bafc8390b5333e73b6ede7c3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083677,
-            "locality_id":101720149,
+            "localadmin_id":404485057,
+            "locality_id":101718197,
             "neighbourhood_id":85824973,
             "region_id":85688481,
             "venue_id":387699539
         }
     ],
     "wof:id":387699539,
-    "wof:lastmodified":1449056628,
+    "wof:lastmodified":1454358499,
     "wof:name":"Arby's",
     "wof:parent_id":85824973,
     "wof:placetype":"venue",
@@ -76,6 +80,11 @@
         "sandwich"
     ]
 },
-  "bbox": [-79.910248,40.858711,-79.910248,40.858711],
+  "bbox": [
+    -79.910248,
+    40.858711,
+    -79.910248,
+    40.858711
+],
   "geometry": {"coordinates":[-79.910248,40.858711],"type":"Point"}
 }

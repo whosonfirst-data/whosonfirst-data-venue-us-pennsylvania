@@ -2,13 +2,14 @@
   "id": 387438985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.982097,40.367485,-79.982097,40.367485",
     "geom:latitude":40.367485,
     "geom:longitude":-79.982097,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"513 Towne Square Way Nationwide Insurance - Brentwood",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -44,11 +45,13 @@
     "sg:website":"http://www.nationwide.com/agent/Pittsburgh-PENNSYLVANIA-insurance-agent/oysc-brentwood/office.html",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85839661,
+        102191575,
+        404484247,
         85633793,
         101718705,
         102080887,
-        85839661
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,9 +61,10 @@
     "wof:geomhash":"f0a9039199e9bbf2519309cd5fccabf1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484247,
             "locality_id":101718705,
             "neighbourhood_id":85839661,
             "region_id":85688481,
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":387438985,
-    "wof:lastmodified":1449057386,
+    "wof:lastmodified":1454359081,
     "wof:name":"Nationwide Sales Solutions Inc - Nationwide Insurance",
     "wof:parent_id":85839661,
     "wof:placetype":"venue",
@@ -79,6 +83,11 @@
         "homeowner"
     ]
 },
-  "bbox": [-79.982097,40.367485,-79.982097,40.367485],
+  "bbox": [
+    -79.982097,
+    40.367485,
+    -79.982097,
+    40.367485
+],
   "geometry": {"coordinates":[-79.982097,40.367485],"type":"Point"}
 }

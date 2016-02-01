@@ -2,13 +2,14 @@
   "id": 387131599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.930632,40.322942,-79.930632,40.322942",
     "geom:latitude":40.322942,
     "geom:longitude":-79.930632,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"550 Coal Valley Rd",
     "sg:city":"Clairton",
     "sg:classifiers":[
@@ -31,10 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536345,
+        102191575,
+        404484243,
         85633793,
-        101718663,
-        102080887
+        101718717,
+        102080887,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +48,20 @@
     "wof:geomhash":"7730bcc26a82b1fbbff9b8fb46040812",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":101718663,
-            "neighbourhood_id":-1,
+            "localadmin_id":404484243,
+            "locality_id":101718717,
+            "neighbourhood_id":420536345,
             "region_id":85688481,
             "venue_id":387131599
         }
     ],
     "wof:id":387131599,
-    "wof:lastmodified":1449057244,
+    "wof:lastmodified":1454358961,
     "wof:name":"Jefferson Hosp Spt Mdcine Cnte",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536345,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -68,6 +73,11 @@
         "surgeons"
     ]
 },
-  "bbox": [-79.930632,40.322942,-79.930632,40.322942],
+  "bbox": [
+    -79.930632,
+    40.322942,
+    -79.930632,
+    40.322942
+],
   "geometry": {"coordinates":[-79.930632,40.322942],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403856881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.846089,40.282202,-76.846089,40.282202",
     "geom:latitude":40.282202,
     "geom:longitude":-76.846089,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2920 Herr St",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -43,11 +44,13 @@
     "sg:website":"http://www.ballooncapitalusa.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85850427,
+        102191575,
+        404486197,
         85633793,
-        101719811,
+        101717715,
         102081347,
-        85850427
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,17 +60,18 @@
     "wof:geomhash":"f83eb44216c188d6ec3b9b2c1ddf9db9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":101719811,
+            "localadmin_id":404486197,
+            "locality_id":101717715,
             "neighbourhood_id":85850427,
             "region_id":85688481,
             "venue_id":403856881
         }
     ],
     "wof:id":403856881,
-    "wof:lastmodified":1449055020,
+    "wof:lastmodified":1454357420,
     "wof:name":"Balloon Capital USA",
     "wof:parent_id":85850427,
     "wof:placetype":"venue",
@@ -82,6 +86,11 @@
         "decorator"
     ]
 },
-  "bbox": [-76.846089,40.282202,-76.846089,40.282202],
-  "geometry": {"coordinates":[-76.846089,40.282202],"type":"Point"}
+  "bbox": [
+    -76.846089,
+    40.282202,
+    -76.846089,
+    40.282202
+],
+  "geometry": {"coordinates":[-76.84608900000001,40.282202],"type":"Point"}
 }

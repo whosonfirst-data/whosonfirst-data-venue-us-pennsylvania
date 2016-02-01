@@ -2,13 +2,14 @@
   "id": 387646655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.239037,40.243809,-79.239037,40.243809",
     "geom:latitude":40.243809,
     "geom:longitude":-79.239037,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"200 W Main St",
     "sg:city":"Ligonier",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081383,
-        85834295
+        85834295,
+        102081383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"fec24b779c2dc0d318342f5afbea5729",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":-1,
             "neighbourhood_id":85834295,
             "region_id":85688481,
             "venue_id":387646655
         }
     ],
     "wof:id":387646655,
-    "wof:lastmodified":1449056022,
+    "wof:lastmodified":1454358017,
     "wof:name":"Conemaugh Physicians Group",
     "wof:parent_id":85834295,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-79.239037,40.243809,-79.239037,40.243809],
+  "bbox": [
+    -79.239037,
+    40.243809,
+    -79.239037,
+    40.243809
+],
   "geometry": {"coordinates":[-79.239037,40.243809],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404045103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.265262,39.808316,-76.265262,39.808316",
     "geom:latitude":39.808316,
     "geom:longitude":-76.265262,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1864 Fern Glen Dr",
     "sg:city":"Drumore",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85819165
+        85819165,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"b657f60aec82e8a4fd72671c0583dfb1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85819165,
             "region_id":85688481,
             "venue_id":404045103
         }
     ],
     "wof:id":404045103,
-    "wof:lastmodified":1449040181,
+    "wof:lastmodified":1454357048,
     "wof:name":"Southern Creations",
     "wof:parent_id":85819165,
     "wof:placetype":"venue",
@@ -64,6 +63,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-76.265262,39.808316,-76.265262,39.808316],
-  "geometry": {"coordinates":[-76.265262,39.808316],"type":"Point"}
+  "bbox": [
+    -76.265262,
+    39.808316,
+    -76.265262,
+    39.808316
+],
+  "geometry": {"coordinates":[-76.26526200000001,39.808316],"type":"Point"}
 }

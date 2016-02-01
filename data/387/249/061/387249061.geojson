@@ -2,13 +2,14 @@
   "id": 387249061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.896417,40.381364,-79.896417,40.381364",
     "geom:latitude":40.381364,
     "geom:longitude":-79.896417,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4719 Woodhill Dr",
     "sg:city":"Homestead",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85851951,
+        102191575,
+        404482541,
         85633793,
         101718713,
         102080887,
-        85851951
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"e4f6edcf884251c7ddc36c02383bfadb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482541,
             "locality_id":101718713,
             "neighbourhood_id":85851951,
             "region_id":85688481,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":387249061,
-    "wof:lastmodified":1449056311,
+    "wof:lastmodified":1454358249,
     "wof:name":"Fas Enterprises",
     "wof:parent_id":85851951,
     "wof:placetype":"venue",
@@ -72,6 +76,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-79.896417,40.381364,-79.896417,40.381364],
+  "bbox": [
+    -79.896417,
+    40.381364,
+    -79.896417,
+    40.381364
+],
   "geometry": {"coordinates":[-79.896417,40.381364],"type":"Point"}
 }

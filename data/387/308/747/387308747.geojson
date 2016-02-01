@@ -2,13 +2,14 @@
   "id": 387308747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.990601,40.4165,-79.990601,40.4165",
     "geom:latitude":40.4165,
     "geom:longitude":-79.990601,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"200 Charles St",
     "sg:city":"Mount Oliver",
     "sg:classifiers":[
@@ -37,11 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85828757,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85828757
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,9 +54,10 @@
     "wof:geomhash":"f4bd4e1525aa0ce076a6c265a5fb5ca2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85828757,
             "region_id":85688481,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":387308747,
-    "wof:lastmodified":1449060016,
+    "wof:lastmodified":1454361262,
     "wof:name":"Council of Three Rivers American Indian Center Inc",
     "wof:parent_id":85828757,
     "wof:placetype":"venue",
@@ -71,6 +75,11 @@
         "elementary"
     ]
 },
-  "bbox": [-79.990601,40.4165,-79.990601,40.4165],
+  "bbox": [
+    -79.990601,
+    40.4165,
+    -79.990601,
+    40.4165
+],
   "geometry": {"coordinates":[-79.990601,40.4165],"type":"Point"}
 }

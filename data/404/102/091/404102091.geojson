@@ -2,13 +2,14 @@
   "id": 404102091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.852881,41.654874,-76.852881,41.654874",
     "geom:latitude":41.654874,
     "geom:longitude":-76.852881,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"68 Troy St",
     "sg:city":"Canton",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081319,
-        85868601
+        85868601,
+        102081319
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"41fd515f774cc1f35dea32f766e8528e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081319,
-            "locality_id":-1,
             "neighbourhood_id":85868601,
             "region_id":85688481,
             "venue_id":404102091
         }
     ],
     "wof:id":404102091,
-    "wof:lastmodified":1449040250,
+    "wof:lastmodified":1454357089,
     "wof:name":"Gannon Associates Inc",
     "wof:parent_id":85868601,
     "wof:placetype":"venue",
@@ -63,6 +62,11 @@
         "business"
     ]
 },
-  "bbox": [-76.852881,41.654874,-76.852881,41.654874],
+  "bbox": [
+    -76.852881,
+    41.654874,
+    -76.852881,
+    41.654874
+],
   "geometry": {"coordinates":[-76.852881,41.654874],"type":"Point"}
 }

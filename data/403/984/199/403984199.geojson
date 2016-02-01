@@ -2,13 +2,14 @@
   "id": 403984199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.133183,39.860448,-77.133183,39.860448",
     "geom:latitude":39.860448,
     "geom:longitude":-77.133183,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3243 York Rd",
     "sg:city":"Gettysburg",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080899,
-        85865375
+        85865375,
+        102080899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"645a44f2e412e3d2ec37da4c7e97f9ad",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080899,
-            "locality_id":-1,
             "neighbourhood_id":85865375,
             "region_id":85688481,
             "venue_id":403984199
         }
     ],
     "wof:id":403984199,
-    "wof:lastmodified":1449055385,
+    "wof:lastmodified":1454357642,
     "wof:name":"S&M Hunting Ldg Inc",
     "wof:parent_id":85865375,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.133183,39.860448,-77.133183,39.860448],
+  "bbox": [
+    -77.133183,
+    39.860448,
+    -77.133183,
+    39.860448
+],
   "geometry": {"coordinates":[-77.133183,39.860448],"type":"Point"}
 }

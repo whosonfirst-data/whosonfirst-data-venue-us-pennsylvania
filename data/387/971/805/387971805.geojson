@@ -2,13 +2,14 @@
   "id": 387971805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.655701,40.283298,-76.655701,40.283298",
     "geom:latitude":40.283298,
     "geom:longitude":-76.655701,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"265 W Chocolate Ave",
     "sg:city":"Hershey",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85850549,
+        102191575,
+        404483303,
         85633793,
         101719813,
         102081347,
-        85850549
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"0d229ca185a040bb2e32bcd987d691c7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
+            "localadmin_id":404483303,
             "locality_id":101719813,
             "neighbourhood_id":85850549,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387971805,
-    "wof:lastmodified":1449058031,
+    "wof:lastmodified":1454360661,
     "wof:name":"Lumber Yard the",
     "wof:parent_id":85850549,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-76.655701,40.283298,-76.655701,40.283298],
-  "geometry": {"coordinates":[-76.655701,40.283298],"type":"Point"}
+  "bbox": [
+    -76.655701,
+    40.283298,
+    -76.655701,
+    40.283298
+],
+  "geometry": {"coordinates":[-76.65570099999999,40.283298],"type":"Point"}
 }

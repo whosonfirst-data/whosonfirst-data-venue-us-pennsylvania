@@ -2,13 +2,14 @@
   "id": 387153373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.946629,40.626428,-79.946629,40.626428",
     "geom:latitude":40.626428,
     "geom:longitude":-79.946629,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4020 Waters Ln",
     "sg:city":"Gibsonia",
     "sg:classifiers":[
@@ -33,7 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420536325,
+        102191575,
+        404484173,
         85633793,
+        101720497,
+        102080887,
         85688481
     ],
     "wof:breaches":[],
@@ -44,18 +50,20 @@
     "wof:geomhash":"78f9a3c7aabfe0a614dd94c034821c87",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102080887,
+            "localadmin_id":404484173,
+            "locality_id":101720497,
+            "neighbourhood_id":420536325,
             "region_id":85688481,
             "venue_id":387153373
         }
     ],
     "wof:id":387153373,
-    "wof:lastmodified":1449058730,
+    "wof:lastmodified":1454360865,
     "wof:name":"Wall Street Financial Group Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536325,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +72,11 @@
         "planner"
     ]
 },
-  "bbox": [-79.946629,40.626428,-79.946629,40.626428],
+  "bbox": [
+    -79.946629,
+    40.626428,
+    -79.946629,
+    40.626428
+],
   "geometry": {"coordinates":[-79.946629,40.626428],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387155693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.796592,40.552207,-79.796592,40.552207",
     "geom:latitude":40.552207,
     "geom:longitude":-79.796592,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1060 Thompson Run Rd",
     "sg:city":"Harwick",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"http://www.completelandscaping.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85839857,
+        102191575,
+        404484317,
         85633793,
         101718751,
         102080887,
-        85839857
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"39558560ace38963316ceddf31577d83",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484317,
             "locality_id":101718751,
             "neighbourhood_id":85839857,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387155693,
-    "wof:lastmodified":1449059253,
+    "wof:lastmodified":1454361026,
     "wof:name":"Complete Landscape Maintenance",
     "wof:parent_id":85839857,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.796592,40.552207,-79.796592,40.552207],
+  "bbox": [
+    -79.796592,
+    40.552207,
+    -79.796592,
+    40.552207
+],
   "geometry": {"coordinates":[-79.796592,40.552207],"type":"Point"}
 }

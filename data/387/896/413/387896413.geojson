@@ -2,13 +2,14 @@
   "id": 387896413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.642382,41.734627,-77.642382,41.734627",
     "geom:latitude":41.734627,
     "geom:longitude":-77.642382,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"28 Bridge St",
     "sg:city":"Galeton",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081299,
-        85821383
+        85821383,
+        102081299
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"4c038a2aee4c572bf679e2cbdf5fb696",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081299,
-            "locality_id":-1,
             "neighbourhood_id":85821383,
             "region_id":85688481,
             "venue_id":387896413
         }
     ],
     "wof:id":387896413,
-    "wof:lastmodified":1449057485,
+    "wof:lastmodified":1454359203,
     "wof:name":"Us Post Office",
     "wof:parent_id":85821383,
     "wof:placetype":"venue",
@@ -68,6 +67,11 @@
         "shipping"
     ]
 },
-  "bbox": [-77.642382,41.734627,-77.642382,41.734627],
+  "bbox": [
+    -77.642382,
+    41.734627,
+    -77.642382,
+    41.734627
+],
   "geometry": {"coordinates":[-77.642382,41.734627],"type":"Point"}
 }

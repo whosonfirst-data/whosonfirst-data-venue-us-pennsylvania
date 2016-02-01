@@ -2,13 +2,14 @@
   "id": 220021855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.543408,41.05093,-80.543408,41.05093",
     "geom:latitude":41.05093,
     "geom:longitude":-80.543408,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2640 S Hubbard Rd",
     "sg:city":"Lowellville",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080929,
-        85845265
+        85845265,
+        102080929
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"e5b3909ad6916a14f1a27dc3f90485b7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080929,
-            "locality_id":-1,
             "neighbourhood_id":85845265,
             "region_id":85688481,
             "venue_id":220021855
         }
     ],
     "wof:id":220021855,
-    "wof:lastmodified":1449074556,
+    "wof:lastmodified":1454361273,
     "wof:name":"New Music Society",
     "wof:parent_id":85845265,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "group"
     ]
 },
-  "bbox": [-80.543408,41.05093,-80.543408,41.05093],
+  "bbox": [
+    -80.543408,
+    41.05093,
+    -80.543408,
+    41.05093
+],
   "geometry": {"coordinates":[-80.543408,41.05093],"type":"Point"}
 }

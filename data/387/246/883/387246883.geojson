@@ -2,13 +2,14 @@
   "id": 387246883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.96209,40.524712,-79.96209,40.524712",
     "geom:latitude":40.524712,
     "geom:longitude":-79.96209,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1700 Mount Royal Blvd",
     "sg:city":"Glenshaw",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536361,
+        102191575,
+        404484307,
         85633793,
         101720515,
-        102080887
+        102080887,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,24 +46,30 @@
     "wof:geomhash":"f16f36f2a04f1e878022b20c2453fc03",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484307,
             "locality_id":101720515,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420536361,
             "region_id":85688481,
             "venue_id":387246883
         }
     ],
     "wof:id":387246883,
-    "wof:lastmodified":1449056369,
+    "wof:lastmodified":1454358287,
     "wof:name":"Artistic Xpressions Nails",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536361,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.96209,40.524712,-79.96209,40.524712],
+  "bbox": [
+    -79.96209,
+    40.524712,
+    -79.96209,
+    40.524712
+],
   "geometry": {"coordinates":[-79.96209,40.524712],"type":"Point"}
 }

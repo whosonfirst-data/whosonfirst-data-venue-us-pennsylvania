@@ -2,13 +2,14 @@
   "id": 387126455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.800812,40.54118,-79.800812,40.54118",
     "geom:latitude":40.54118,
     "geom:longitude":-79.800812,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1401 Pittsburgh St",
     "sg:city":"Cheswick",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85839857,
+        102191575,
+        404484317,
         85633793,
         101718751,
         102080887,
-        85839857
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"712a640d31afd41b2c6d17654c035725",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484317,
             "locality_id":101718751,
             "neighbourhood_id":85839857,
             "region_id":85688481,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":387126455,
-    "wof:lastmodified":1449057505,
+    "wof:lastmodified":1454359878,
     "wof:name":"Cheswick Presbt Preschool",
     "wof:parent_id":85839857,
     "wof:placetype":"venue",
@@ -68,6 +72,11 @@
         "churches-presbyterian"
     ]
 },
-  "bbox": [-79.800812,40.54118,-79.800812,40.54118],
-  "geometry": {"coordinates":[-79.800812,40.54118],"type":"Point"}
+  "bbox": [
+    -79.800812,
+    40.54118,
+    -79.800812,
+    40.54118
+],
+  "geometry": {"coordinates":[-79.80081199999999,40.54118],"type":"Point"}
 }

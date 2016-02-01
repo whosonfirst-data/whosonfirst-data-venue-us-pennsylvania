@@ -2,13 +2,14 @@
   "id": 404184827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.423573,40.650516,-75.423573,40.650516",
     "geom:latitude":40.650516,
     "geom:longitude":-75.423573,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3075 Avenue B",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081327,
-        85838547
+        85838547,
+        102081327
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"01f7a8078c04d580df8ebf74d7e57262",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081327,
-            "locality_id":-1,
             "neighbourhood_id":85838547,
             "region_id":85688481,
             "venue_id":404184827
         }
     ],
     "wof:id":404184827,
-    "wof:lastmodified":1449039237,
+    "wof:lastmodified":1454356533,
     "wof:name":"Clarklift Services",
     "wof:parent_id":85838547,
     "wof:placetype":"venue",
@@ -63,6 +62,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-75.423573,40.650516,-75.423573,40.650516],
+  "bbox": [
+    -75.423573,
+    40.650516,
+    -75.423573,
+    40.650516
+],
   "geometry": {"coordinates":[-75.423573,40.650516],"type":"Point"}
 }

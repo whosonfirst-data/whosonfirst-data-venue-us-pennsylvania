@@ -2,13 +2,14 @@
   "id": 387829315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.065889,42.13414,-80.065889,42.13414",
     "geom:latitude":42.13414,
     "geom:longitude":-80.065889,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"814 E 8th St",
     "sg:city":"Erie",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     "sg:website":"http://www.swansonsystems.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85822031,
+        102191575,
+        404486673,
         85633793,
         101718253,
         102080955,
-        85822031
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"4dcf5ab53552b2f67f8ef064d4e01112",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080955,
+            "localadmin_id":404486673,
             "locality_id":101718253,
             "neighbourhood_id":85822031,
             "region_id":85688481,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":387829315,
-    "wof:lastmodified":1449059672,
+    "wof:lastmodified":1454361155,
     "wof:name":"Swanson Assembly Systems",
     "wof:parent_id":85822031,
     "wof:placetype":"venue",
@@ -71,6 +75,11 @@
         "used"
     ]
 },
-  "bbox": [-80.065889,42.13414,-80.065889,42.13414],
+  "bbox": [
+    -80.065889,
+    42.13414,
+    -80.065889,
+    42.13414
+],
   "geometry": {"coordinates":[-80.065889,42.13414],"type":"Point"}
 }

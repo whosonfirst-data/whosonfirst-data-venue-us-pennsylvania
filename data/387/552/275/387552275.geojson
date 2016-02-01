@@ -2,13 +2,14 @@
   "id": 387552275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.169944,40.28118,-80.169944,40.28118",
     "geom:latitude":40.28118,
     "geom:longitude":-80.169944,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"125 Technology Dr Ste 207",
     "sg:city":"Canonsburg",
     "sg:classifiers":[
@@ -30,7 +31,12 @@
     "sg:website":"http://www.baileytechnicalservices.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420539915,
+        102191575,
+        404487735,
         85633793,
+        101720271,
+        102081343,
         85688481
     ],
     "wof:breaches":[],
@@ -41,18 +47,20 @@
     "wof:geomhash":"85c488bbc88a7b5c42a4bdaf97ced4ab",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081343,
+            "localadmin_id":404487735,
+            "locality_id":101720271,
+            "neighbourhood_id":420539915,
             "region_id":85688481,
             "venue_id":387552275
         }
     ],
     "wof:id":387552275,
-    "wof:lastmodified":1449057698,
+    "wof:lastmodified":1454360564,
     "wof:name":"Bailey Technical Services Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420539915,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +70,11 @@
         "engineer"
     ]
 },
-  "bbox": [-80.169944,40.28118,-80.169944,40.28118],
+  "bbox": [
+    -80.169944,
+    40.28118,
+    -80.169944,
+    40.28118
+],
   "geometry": {"coordinates":[-80.169944,40.28118],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387137609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.235291,40.665148,-80.235291,40.665148",
     "geom:latitude":40.665148,
     "geom:longitude":-80.235291,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1421 Dupont St",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85851083,
+        102191575,
+        404482587,
         85633793,
+        101718393,
         102081323,
-        85851083
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +45,18 @@
     "wof:geomhash":"ec198f344b2d4e14fe67b8d0272ff085",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081323,
-            "locality_id":-1,
+            "localadmin_id":404482587,
+            "locality_id":101718393,
             "neighbourhood_id":85851083,
             "region_id":85688481,
             "venue_id":387137609
         }
     ],
     "wof:id":387137609,
-    "wof:lastmodified":1449059398,
+    "wof:lastmodified":1454361069,
     "wof:name":"Talerico Family Restaurant",
     "wof:parent_id":85851083,
     "wof:placetype":"venue",
@@ -62,6 +67,11 @@
         "family"
     ]
 },
-  "bbox": [-80.235291,40.665148,-80.235291,40.665148],
+  "bbox": [
+    -80.235291,
+    40.665148,
+    -80.235291,
+    40.665148
+],
   "geometry": {"coordinates":[-80.235291,40.665148],"type":"Point"}
 }

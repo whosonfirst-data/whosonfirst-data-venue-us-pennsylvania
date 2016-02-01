@@ -2,13 +2,14 @@
   "id": 403867969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.815773,40.30101,-76.815773,40.30101",
     "geom:latitude":40.30101,
     "geom:longitude":-76.815773,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4600 Jonestown Rd",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -50,10 +51,13 @@
     "sg:website":"http://www.att.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85824251,
+        102191575,
+        404486185,
         85633793,
+        101719811,
         102081347,
-        85824251
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,17 +67,18 @@
     "wof:geomhash":"805d219ad1c82651066419d2edddc367",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
+            "localadmin_id":404486185,
+            "locality_id":101719811,
             "neighbourhood_id":85824251,
             "region_id":85688481,
             "venue_id":403867969
         }
     ],
     "wof:id":403867969,
-    "wof:lastmodified":1449055212,
+    "wof:lastmodified":1454357540,
     "wof:name":"AT&T",
     "wof:parent_id":85824251,
     "wof:placetype":"venue",
@@ -90,6 +95,11 @@
         "provider"
     ]
 },
-  "bbox": [-76.815773,40.30101,-76.815773,40.30101],
-  "geometry": {"coordinates":[-76.815773,40.30101],"type":"Point"}
+  "bbox": [
+    -76.815773,
+    40.30101,
+    -76.815773,
+    40.30101
+],
+  "geometry": {"coordinates":[-76.81577299999999,40.30101],"type":"Point"}
 }

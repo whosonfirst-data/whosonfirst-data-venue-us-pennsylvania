@@ -2,13 +2,14 @@
   "id": 403774511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.722595,40.212929,-76.722595,40.212929",
     "geom:latitude":40.212929,
     "geom:longitude":-76.722595,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1 Fryes Grove Ln",
     "sg:city":"Middletown",
     "sg:classifiers":[
@@ -44,8 +45,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85811387
+        85811387,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,17 +56,15 @@
     "wof:geomhash":"8bd0ddd28d4f3d272798491ce1d7fd80",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85811387,
             "region_id":85688481,
             "venue_id":403774511
         }
     ],
     "wof:id":403774511,
-    "wof:lastmodified":1449055152,
+    "wof:lastmodified":1454357500,
     "wof:name":"Farr Family Tire & Auto",
     "wof:parent_id":85811387,
     "wof:placetype":"venue",
@@ -79,6 +78,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-76.722595,40.212929,-76.722595,40.212929],
+  "bbox": [
+    -76.722595,
+    40.212929,
+    -76.722595,
+    40.212929
+],
   "geometry": {"coordinates":[-76.722595,40.212929],"type":"Point"}
 }

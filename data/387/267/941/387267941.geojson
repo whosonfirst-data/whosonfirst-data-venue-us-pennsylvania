@@ -2,13 +2,14 @@
   "id": 387267941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.173637,40.54686,-80.173637,40.54686",
     "geom:latitude":40.54686,
     "geom:longitude":-80.173637,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"807 Blackburn Rd",
     "sg:city":"Sewickley",
     "sg:classifiers":[
@@ -49,8 +50,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85835111
+        85835111,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,17 +61,15 @@
     "wof:geomhash":"1a89920e5bd528b3370f32de35ab07c4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85835111,
             "region_id":85688481,
             "venue_id":387267941
         }
     ],
     "wof:id":387267941,
-    "wof:lastmodified":1449059573,
+    "wof:lastmodified":1454361123,
     "wof:name":"Oakhill Kennels",
     "wof:parent_id":85835111,
     "wof:placetype":"venue",
@@ -85,6 +84,11 @@
         "kennel"
     ]
 },
-  "bbox": [-80.173637,40.54686,-80.173637,40.54686],
+  "bbox": [
+    -80.173637,
+    40.54686,
+    -80.173637,
+    40.54686
+],
   "geometry": {"coordinates":[-80.173637,40.54686],"type":"Point"}
 }

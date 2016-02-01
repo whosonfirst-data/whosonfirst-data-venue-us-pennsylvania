@@ -2,13 +2,14 @@
   "id": 387840689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.998685,42.104131,-79.998685,42.104131",
     "geom:latitude":42.104131,
     "geom:longitude":-79.998685,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5530 Appleman Rd",
     "sg:city":"Erie",
     "sg:classifiers":[
@@ -26,8 +27,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080955,
-        85827775
+        85827775,
+        102080955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,17 +38,15 @@
     "wof:geomhash":"0bdcc4255e8b8121bb856ea1768fbc32",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080955,
-            "locality_id":-1,
             "neighbourhood_id":85827775,
             "region_id":85688481,
             "venue_id":387840689
         }
     ],
     "wof:id":387840689,
-    "wof:lastmodified":1449059052,
+    "wof:lastmodified":1454360969,
     "wof:name":"City Motel",
     "wof:parent_id":85827775,
     "wof:placetype":"venue",
@@ -55,6 +54,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.998685,42.104131,-79.998685,42.104131],
-  "geometry": {"coordinates":[-79.998685,42.104131],"type":"Point"}
+  "bbox": [
+    -79.998685,
+    42.104131,
+    -79.998685,
+    42.104131
+],
+  "geometry": {"coordinates":[-79.99868499999999,42.104131],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387972571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.668549,40.275485,-76.668549,40.275485",
     "geom:latitude":40.275485,
     "geom:longitude":-76.668549,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"925 Reese Ave",
     "sg:city":"Hershey",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85821955,
+        102191575,
+        404483303,
         85633793,
         101719813,
         102081347,
-        85821955
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"8876d4f70de1411cf64a4b4dd67b6d1a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
+            "localadmin_id":404483303,
             "locality_id":101719813,
             "neighbourhood_id":85821955,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387972571,
-    "wof:lastmodified":1449058015,
+    "wof:lastmodified":1454360654,
     "wof:name":"Hershey Company the",
     "wof:parent_id":85821955,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "store"
     ]
 },
-  "bbox": [-76.668549,40.275485,-76.668549,40.275485],
+  "bbox": [
+    -76.668549,
+    40.275485,
+    -76.668549,
+    40.275485
+],
   "geometry": {"coordinates":[-76.668549,40.275485],"type":"Point"}
 }

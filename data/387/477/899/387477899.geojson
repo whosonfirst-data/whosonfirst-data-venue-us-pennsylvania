@@ -2,13 +2,14 @@
   "id": 387477899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.028682,40.366204,-80.028682,40.366204",
     "geom:latitude":40.366204,
     "geom:longitude":-80.028682,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"836 Bockstoce Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85830717,
+        102191575,
+        404484869,
         85633793,
         101718761,
         102080887,
-        85830717
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"93033598c7c2650ab9d81432c25c2fb2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484869,
             "locality_id":101718761,
             "neighbourhood_id":85830717,
             "region_id":85688481,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":387477899,
-    "wof:lastmodified":1449056753,
+    "wof:lastmodified":1454358584,
     "wof:name":"Baratta Landscaping",
     "wof:parent_id":85830717,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.028682,40.366204,-80.028682,40.366204],
+  "bbox": [
+    -80.028682,
+    40.366204,
+    -80.028682,
+    40.366204
+],
   "geometry": {"coordinates":[-80.028682,40.366204],"type":"Point"}
 }

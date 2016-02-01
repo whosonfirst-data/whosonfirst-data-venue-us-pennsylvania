@@ -2,13 +2,14 @@
   "id": 403971055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.248306,39.913895,-77.248306,39.913895",
     "geom:latitude":39.913895,
     "geom:longitude":-77.248306,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3086 Biglerville Rd",
     "sg:city":"Biglerville",
     "sg:classifiers":[
@@ -40,8 +41,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080899,
-        85822177
+        85822177,
+        102080899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,17 +52,15 @@
     "wof:geomhash":"ac7c465b45743ed11d4c5cfe0c39c2b9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080899,
-            "locality_id":-1,
             "neighbourhood_id":85822177,
             "region_id":85688481,
             "venue_id":403971055
         }
     ],
     "wof:id":403971055,
-    "wof:lastmodified":1449055319,
+    "wof:lastmodified":1454357604,
     "wof:name":"Jireh Independent Baptist Church",
     "wof:parent_id":85822177,
     "wof:placetype":"venue",
@@ -71,6 +70,11 @@
         "churches-baptist"
     ]
 },
-  "bbox": [-77.248306,39.913895,-77.248306,39.913895],
+  "bbox": [
+    -77.248306,
+    39.913895,
+    -77.248306,
+    39.913895
+],
   "geometry": {"coordinates":[-77.248306,39.913895],"type":"Point"}
 }

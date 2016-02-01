@@ -2,13 +2,14 @@
   "id": 387150181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.01436,40.690094,-80.01436,40.690094",
     "geom:latitude":40.690094,
     "geom:longitude":-80.01436,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"641 Rt 228",
     "sg:city":"Mars",
     "sg:classifiers":[
@@ -32,8 +33,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102083677,
-        85815109
+        85815109,
+        102083677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +44,15 @@
     "wof:geomhash":"e26225bd7be549de58d700ed13fc4b50",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102083677,
-            "locality_id":-1,
             "neighbourhood_id":85815109,
             "region_id":85688481,
             "venue_id":387150181
         }
     ],
     "wof:id":387150181,
-    "wof:lastmodified":1449056168,
+    "wof:lastmodified":1454358131,
     "wof:name":"Fergusons Free Energy",
     "wof:parent_id":85815109,
     "wof:placetype":"venue",
@@ -65,6 +64,11 @@
         "conditioning/hvac"
     ]
 },
-  "bbox": [-80.01436,40.690094,-80.01436,40.690094],
+  "bbox": [
+    -80.01436,
+    40.690094,
+    -80.01436,
+    40.690094
+],
   "geometry": {"coordinates":[-80.01436,40.690094],"type":"Point"}
 }

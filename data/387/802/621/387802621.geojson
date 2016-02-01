@@ -2,13 +2,14 @@
   "id": 387802621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.32202,41.856889,-79.32202,41.856889",
     "geom:latitude":41.856889,
     "geom:longitude":-79.32202,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"631 N Main St",
     "sg:city":"Youngsville",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081337,
-        85802759
+        85802759,
+        102081337
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"3eb2cf194ffd5c18e56d182c4d68cea4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081337,
-            "locality_id":-1,
             "neighbourhood_id":85802759,
             "region_id":85688481,
             "venue_id":387802621
         }
     ],
     "wof:id":387802621,
-    "wof:lastmodified":1449059213,
+    "wof:lastmodified":1454361012,
     "wof:name":"William Jenkins Trucking",
     "wof:parent_id":85802759,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "trucking"
     ]
 },
-  "bbox": [-79.32202,41.856889,-79.32202,41.856889],
-  "geometry": {"coordinates":[-79.32202,41.856889],"type":"Point"}
+  "bbox": [
+    -79.32202,
+    41.856889,
+    -79.32202,
+    41.856889
+],
+  "geometry": {"coordinates":[-79.32201999999999,41.856889],"type":"Point"}
 }

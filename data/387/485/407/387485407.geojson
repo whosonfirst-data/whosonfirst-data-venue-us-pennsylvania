@@ -2,13 +2,14 @@
   "id": 387485407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.821678,40.466042,-79.821678,40.466042",
     "geom:latitude":40.466042,
     "geom:longitude":-79.821678,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"131 Universal Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -33,8 +34,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85845623
+        85845623,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +45,15 @@
     "wof:geomhash":"6f824e76d61caa11026a058ed8734c72",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85845623,
             "region_id":85688481,
             "venue_id":387485407
         }
     ],
     "wof:id":387485407,
-    "wof:lastmodified":1449058422,
+    "wof:lastmodified":1454360777,
     "wof:name":"La Petite Wildflower",
     "wof:parent_id":85845623,
     "wof:placetype":"venue",
@@ -68,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-79.821678,40.466042,-79.821678,40.466042],
-  "geometry": {"coordinates":[-79.821678,40.466042],"type":"Point"}
+  "bbox": [
+    -79.821678,
+    40.466042,
+    -79.821678,
+    40.466042
+],
+  "geometry": {"coordinates":[-79.82167800000001,40.466042],"type":"Point"}
 }

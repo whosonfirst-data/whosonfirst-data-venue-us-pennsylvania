@@ -2,13 +2,14 @@
   "id": 387056029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.943519,39.695757,-75.943519,39.695757",
     "geom:latitude":39.695757,
     "geom:longitude":-75.943519,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"185 Springfield Dr",
     "sg:city":"North East",
     "sg:classifiers":[
@@ -26,8 +27,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081275,
-        85810983
+        85810983,
+        102081275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,17 +38,15 @@
     "wof:geomhash":"631a6df520bf14c62adfc2d37ae7b5b8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081275,
-            "locality_id":-1,
             "neighbourhood_id":85810983,
             "region_id":85688481,
             "venue_id":387056029
         }
     ],
     "wof:id":387056029,
-    "wof:lastmodified":1449057187,
+    "wof:lastmodified":1454358912,
     "wof:name":"Forum For Equity & Fairness",
     "wof:parent_id":85810983,
     "wof:placetype":"venue",
@@ -55,6 +54,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.943519,39.695757,-75.943519,39.695757],
-  "geometry": {"coordinates":[-75.943519,39.695757],"type":"Point"}
+  "bbox": [
+    -75.943519,
+    39.695757,
+    -75.943519,
+    39.695757
+],
+  "geometry": {"coordinates":[-75.94351899999999,39.695757],"type":"Point"}
 }

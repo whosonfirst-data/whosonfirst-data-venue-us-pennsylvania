@@ -2,13 +2,14 @@
   "id": 404098265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.007421,41.250655,-77.007421,41.250655",
     "geom:latitude":41.250655,
     "geom:longitude":-77.007421,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1005 Hepburn St",
     "sg:city":"Williamsport",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85802799,
+        102191575,
+        404485355,
         85633793,
-        101716811,
+        101716809,
         102081317,
-        85802799
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,18 @@
     "wof:geomhash":"0b70b7947d69f6cfe7780a1f129021ad",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081317,
-            "locality_id":101716811,
+            "localadmin_id":404485355,
+            "locality_id":101716809,
             "neighbourhood_id":85802799,
             "region_id":85688481,
             "venue_id":404098265
         }
     ],
     "wof:id":404098265,
-    "wof:lastmodified":1449040204,
+    "wof:lastmodified":1454357059,
     "wof:name":"Bevan Mortgage Group",
     "wof:parent_id":85802799,
     "wof:placetype":"venue",
@@ -68,6 +72,11 @@
         "processing"
     ]
 },
-  "bbox": [-77.007421,41.250655,-77.007421,41.250655],
-  "geometry": {"coordinates":[-77.007421,41.250655],"type":"Point"}
+  "bbox": [
+    -77.007421,
+    41.250655,
+    -77.007421,
+    41.250655
+],
+  "geometry": {"coordinates":[-77.00742099999999,41.250655],"type":"Point"}
 }

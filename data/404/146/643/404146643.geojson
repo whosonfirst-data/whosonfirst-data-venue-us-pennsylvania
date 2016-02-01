@@ -2,13 +2,14 @@
   "id": 404146643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.225032,40.776094,-76.225032,40.776094",
     "geom:latitude":40.776094,
     "geom:longitude":-76.225032,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"644 Altamont Blvd",
     "sg:city":"Frackville",
     "sg:classifiers":[
@@ -47,11 +48,13 @@
     "sg:website":"http://www.dynamarkalarm.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85820509,
+        102191575,
+        404483819,
         85633793,
         101717629,
         102081271,
-        85820509
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,9 +64,10 @@
     "wof:geomhash":"d73ecdbc5f846127ca951f03cfcacedc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081271,
+            "localadmin_id":404483819,
             "locality_id":101717629,
             "neighbourhood_id":85820509,
             "region_id":85688481,
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":404146643,
-    "wof:lastmodified":1449039533,
+    "wof:lastmodified":1454356702,
     "wof:name":"Dynamark Security INC",
     "wof:parent_id":85820509,
     "wof:placetype":"venue",
@@ -90,6 +94,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-76.225032,40.776094,-76.225032,40.776094],
+  "bbox": [
+    -76.225032,
+    40.776094,
+    -76.225032,
+    40.776094
+],
   "geometry": {"coordinates":[-76.225032,40.776094],"type":"Point"}
 }

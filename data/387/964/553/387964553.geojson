@@ -2,13 +2,14 @@
   "id": 387964553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.931848,40.297805,-76.931848,40.297805",
     "geom:latitude":40.297805,
     "geom:longitude":-76.931848,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"90 E Shady Ln",
     "sg:city":"Enola",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081359,
-        85852571
+        85852571,
+        102081359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"f82a155295c23a21ea03cfec9aa4ca7b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081359,
-            "locality_id":-1,
             "neighbourhood_id":85852571,
             "region_id":85688481,
             "venue_id":387964553
         }
     ],
     "wof:id":387964553,
-    "wof:lastmodified":1449058971,
+    "wof:lastmodified":1454360943,
     "wof:name":"East Pennsboro Animal Clinic",
     "wof:parent_id":85852571,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "veterinarian"
     ]
 },
-  "bbox": [-76.931848,40.297805,-76.931848,40.297805],
+  "bbox": [
+    -76.931848,
+    40.297805,
+    -76.931848,
+    40.297805
+],
   "geometry": {"coordinates":[-76.931848,40.297805],"type":"Point"}
 }

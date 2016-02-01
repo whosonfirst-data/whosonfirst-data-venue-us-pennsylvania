@@ -2,13 +2,14 @@
   "id": 404086461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.234774,40.023801,-76.234774,40.023801",
     "geom:latitude":40.023801,
     "geom:longitude":-76.234774,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"368 Dohner Dr",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -37,8 +38,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85823025
+        85823025,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +49,15 @@
     "wof:geomhash":"ed0457cd476b06fed16f97c537c9038e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85823025,
             "region_id":85688481,
             "venue_id":404086461
         }
     ],
     "wof:id":404086461,
-    "wof:lastmodified":1449039935,
+    "wof:lastmodified":1454356901,
     "wof:name":"Orlando's Cleaning Service",
     "wof:parent_id":85823025,
     "wof:placetype":"venue",
@@ -70,6 +69,11 @@
         "cleaners-interior"
     ]
 },
-  "bbox": [-76.234774,40.023801,-76.234774,40.023801],
+  "bbox": [
+    -76.234774,
+    40.023801,
+    -76.234774,
+    40.023801
+],
   "geometry": {"coordinates":[-76.234774,40.023801],"type":"Point"}
 }

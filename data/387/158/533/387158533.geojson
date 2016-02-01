@@ -2,13 +2,14 @@
   "id": 387158533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.2351,40.366798,-80.2351,40.366798",
     "geom:latitude":40.366798,
     "geom:longitude":-80.2351,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"136 S McDonald St",
     "sg:city":"Mc Donald",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85829929,
+        102191575,
+        404483973,
         85633793,
-        101720523,
-        102080887,
-        85829929
+        101718557,
+        102081343,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"3ec4db15751bddbdd105f0aca0cb8e53",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102080887,
-            "locality_id":101720523,
+            "county_id":102081343,
+            "localadmin_id":404483973,
+            "locality_id":101718557,
             "neighbourhood_id":85829929,
             "region_id":85688481,
             "venue_id":387158533
         }
     ],
     "wof:id":387158533,
-    "wof:lastmodified":1449058645,
+    "wof:lastmodified":1454360838,
     "wof:name":"McDonald Auto Supply",
     "wof:parent_id":85829929,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "shop"
     ]
 },
-  "bbox": [-80.2351,40.366798,-80.2351,40.366798],
+  "bbox": [
+    -80.2351,
+    40.366798,
+    -80.2351,
+    40.366798
+],
   "geometry": {"coordinates":[-80.2351,40.366798],"type":"Point"}
 }

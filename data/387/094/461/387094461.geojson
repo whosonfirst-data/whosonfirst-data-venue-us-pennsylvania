@@ -2,13 +2,14 @@
   "id": 387094461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.304939,40.626307,-80.304939,40.626307",
     "geom:latitude":40.626307,
     "geom:longitude":-80.304939,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3090 Brodhead Rd",
     "sg:city":"Aliquippa",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081323,
-        85827637
+        85827637,
+        102081323
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"06fa91acd7e1eb44e782d7df8f7e1996",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081323,
-            "locality_id":-1,
             "neighbourhood_id":85827637,
             "region_id":85688481,
             "venue_id":387094461
         }
     ],
     "wof:id":387094461,
-    "wof:lastmodified":1449058492,
+    "wof:lastmodified":1454360798,
     "wof:name":"Kwik Katz Lube",
     "wof:parent_id":85827637,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "oil"
     ]
 },
-  "bbox": [-80.304939,40.626307,-80.304939,40.626307],
+  "bbox": [
+    -80.304939,
+    40.626307,
+    -80.304939,
+    40.626307
+],
   "geometry": {"coordinates":[-80.304939,40.626307],"type":"Point"}
 }

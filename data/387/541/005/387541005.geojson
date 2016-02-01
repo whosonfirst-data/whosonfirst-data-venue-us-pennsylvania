@@ -2,13 +2,14 @@
   "id": 387541005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.257033,40.173248,-80.257033,40.173248",
     "geom:latitude":40.173248,
     "geom:longitude":-80.257033,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"430 Addison St",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85852963,
+        102191575,
+        404487917,
         85633793,
         101718569,
         102081343,
-        85852963
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"02370ff3d67fa24cc769c5681395fe4d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081343,
+            "localadmin_id":404487917,
             "locality_id":101718569,
             "neighbourhood_id":85852963,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387541005,
-    "wof:lastmodified":1449056533,
+    "wof:lastmodified":1454358422,
     "wof:name":"Kingsley Westerman, Catherine Y",
     "wof:parent_id":85852963,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "laboratories-research"
     ]
 },
-  "bbox": [-80.257033,40.173248,-80.257033,40.173248],
-  "geometry": {"coordinates":[-80.257033,40.173248],"type":"Point"}
+  "bbox": [
+    -80.257033,
+    40.173248,
+    -80.257033,
+    40.173248
+],
+  "geometry": {"coordinates":[-80.25703300000001,40.173248],"type":"Point"}
 }

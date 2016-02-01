@@ -2,13 +2,14 @@
   "id": 387802829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.736154,41.263829,-79.736154,41.263829",
     "geom:latitude":41.263829,
     "geom:longitude":-79.736154,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"331 Stalman Ln",
     "sg:city":"Kennerdell",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081279,
-        85868879
+        85868879,
+        102081279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"5eb1faacb59f76e5c8f5c621c43baf63",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081279,
-            "locality_id":-1,
             "neighbourhood_id":85868879,
             "region_id":85688481,
             "venue_id":387802829
         }
     ],
     "wof:id":387802829,
-    "wof:lastmodified":1449059214,
+    "wof:lastmodified":1454361012,
     "wof:name":"Capitol Projects Finance Authority",
     "wof:parent_id":85868879,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "planning"
     ]
 },
-  "bbox": [-79.736154,41.263829,-79.736154,41.263829],
+  "bbox": [
+    -79.736154,
+    41.263829,
+    -79.736154,
+    41.263829
+],
   "geometry": {"coordinates":[-79.736154,41.263829],"type":"Point"}
 }

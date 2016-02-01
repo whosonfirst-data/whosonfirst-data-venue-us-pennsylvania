@@ -2,13 +2,14 @@
   "id": 403872659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.842529,40.286003,-76.842529,40.286003",
     "geom:latitude":40.286003,
     "geom:longitude":-76.842529,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5 N Progress Ave",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -25,11 +26,13 @@
     "sg:website":"www.lightningrto.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85843183,
+        102191575,
+        404486305,
         85633793,
         101719821,
         102081347,
-        85843183
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +42,10 @@
     "wof:geomhash":"d6aa7c677ef06eaa0a8691d128ed5557",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
+            "localadmin_id":404486305,
             "locality_id":101719821,
             "neighbourhood_id":85843183,
             "region_id":85688481,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":403872659,
-    "wof:lastmodified":1449054752,
+    "wof:lastmodified":1454357258,
     "wof:name":"Lightning Rent To Own Inc",
     "wof:parent_id":85843183,
     "wof:placetype":"venue",
@@ -57,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.842529,40.286003,-76.842529,40.286003],
+  "bbox": [
+    -76.842529,
+    40.286003,
+    -76.842529,
+    40.286003
+],
   "geometry": {"coordinates":[-76.842529,40.286003],"type":"Point"}
 }

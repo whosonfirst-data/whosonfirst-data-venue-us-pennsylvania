@@ -2,13 +2,14 @@
   "id": 404034299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.766352,39.983176,-76.766352,39.983176",
     "geom:latitude":39.983176,
     "geom:longitude":-76.766352,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1800 Roosevelt Ave",
     "sg:city":"York",
     "sg:classifiers":[
@@ -34,10 +35,13 @@
     "sg:website":"http://www.usps.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85819331,
+        102191575,
+        404488029,
         85633793,
+        101717279,
         102080953,
-        85819331
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +51,18 @@
     "wof:geomhash":"fd7656b1cf4230d6cda44ee622a21787",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
+            "localadmin_id":404488029,
+            "locality_id":101717279,
             "neighbourhood_id":85819331,
             "region_id":85688481,
             "venue_id":404034299
         }
     ],
     "wof:id":404034299,
-    "wof:lastmodified":1449039153,
+    "wof:lastmodified":1454356479,
     "wof:name":"USPS - United States Post Office - Weis Market #71",
     "wof:parent_id":85819331,
     "wof:placetype":"venue",
@@ -68,6 +73,11 @@
         "shipping"
     ]
 },
-  "bbox": [-76.766352,39.983176,-76.766352,39.983176],
+  "bbox": [
+    -76.766352,
+    39.983176,
+    -76.766352,
+    39.983176
+],
   "geometry": {"coordinates":[-76.766352,39.983176],"type":"Point"}
 }

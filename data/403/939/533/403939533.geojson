@@ -2,13 +2,14 @@
   "id": 403939533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.576999,40.153968,-77.576999,40.153968",
     "geom:latitude":40.153968,
     "geom:longitude":-77.576999,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"317 Turnpike Rd",
     "sg:city":"Newburg",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081365,
-        85833285
+        85833285,
+        102081365
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"0ba23022d125e99194c7b2ed4e5791a6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081365,
-            "locality_id":-1,
             "neighbourhood_id":85833285,
             "region_id":85688481,
             "venue_id":403939533
         }
     ],
     "wof:id":403939533,
-    "wof:lastmodified":1449055038,
+    "wof:lastmodified":1454357430,
     "wof:name":"Reese's Plumbing And Heating",
     "wof:parent_id":85833285,
     "wof:placetype":"venue",
@@ -64,6 +63,11 @@
         "contractors-commercial"
     ]
 },
-  "bbox": [-77.576999,40.153968,-77.576999,40.153968],
+  "bbox": [
+    -77.576999,
+    40.153968,
+    -77.576999,
+    40.153968
+],
   "geometry": {"coordinates":[-77.576999,40.153968],"type":"Point"}
 }

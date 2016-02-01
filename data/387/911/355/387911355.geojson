@@ -2,13 +2,14 @@
   "id": 387911355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.954803,40.235802,-76.954803,40.235802",
     "geom:latitude":40.235802,
     "geom:longitude":-76.954803,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4315 Chestnut St",
     "sg:city":"Camp Hill",
     "sg:classifiers":[
@@ -40,8 +41,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081359,
-        85850501
+        85850501,
+        102081359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,17 +52,15 @@
     "wof:geomhash":"ba2f306029a16e979b509018ea57387a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081359,
-            "locality_id":-1,
             "neighbourhood_id":85850501,
             "region_id":85688481,
             "venue_id":387911355
         }
     ],
     "wof:id":387911355,
-    "wof:lastmodified":1449059302,
+    "wof:lastmodified":1454361036,
     "wof:name":"Oakwood Baptist Day School",
     "wof:parent_id":85850501,
     "wof:placetype":"venue",
@@ -72,6 +71,11 @@
         "day"
     ]
 },
-  "bbox": [-76.954803,40.235802,-76.954803,40.235802],
+  "bbox": [
+    -76.954803,
+    40.235802,
+    -76.954803,
+    40.235802
+],
   "geometry": {"coordinates":[-76.954803,40.235802],"type":"Point"}
 }

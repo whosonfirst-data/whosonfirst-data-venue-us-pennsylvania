@@ -2,13 +2,14 @@
   "id": 387381669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.999199,40.437302,-79.999199,40.437302",
     "geom:latitude":40.437302,
     "geom:longitude":-79.999199,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"432 Blvd of the Allies",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -42,11 +43,13 @@
     "sg:website":"www.debt-be-gone.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85853291,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85853291
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,9 +59,10 @@
     "wof:geomhash":"3f94e0ae71929e8e037ee933d50b0807",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85853291,
             "region_id":85688481,
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":387381669,
-    "wof:lastmodified":1449056417,
+    "wof:lastmodified":1454358333,
     "wof:name":"Mazzei & Associates",
     "wof:parent_id":85853291,
     "wof:placetype":"venue",
@@ -80,6 +84,11 @@
         "bankruptcy"
     ]
 },
-  "bbox": [-79.999199,40.437302,-79.999199,40.437302],
+  "bbox": [
+    -79.999199,
+    40.437302,
+    -79.999199,
+    40.437302
+],
   "geometry": {"coordinates":[-79.999199,40.437302],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387549573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.121957,40.294818,-80.121957,40.294818",
     "geom:latitude":40.294818,
     "geom:longitude":-80.121957,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"101 Sandcreek Dr",
     "sg:city":"Canonsburg",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081343,
-        85852193
+        85852193,
+        102081343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"d2e8170ed1b20a9241ff7f6b79f16cfa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081343,
-            "locality_id":-1,
             "neighbourhood_id":85852193,
             "region_id":85688481,
             "venue_id":387549573
         }
     ],
     "wof:id":387549573,
-    "wof:lastmodified":1449057144,
+    "wof:lastmodified":1454358878,
     "wof:name":"Ryan Homes",
     "wof:parent_id":85852193,
     "wof:placetype":"venue",
@@ -61,6 +60,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.121957,40.294818,-80.121957,40.294818],
-  "geometry": {"coordinates":[-80.121957,40.294818],"type":"Point"}
+  "bbox": [
+    -80.121957,
+    40.294818,
+    -80.121957,
+    40.294818
+],
+  "geometry": {"coordinates":[-80.12195699999999,40.294818],"type":"Point"}
 }

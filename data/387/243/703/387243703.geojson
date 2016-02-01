@@ -2,13 +2,14 @@
   "id": 387243703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.213829,40.503319,-80.213829,40.503319",
     "geom:latitude":40.503319,
     "geom:longitude":-80.213829,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"200 Marshall Dr",
     "sg:city":"Coraopolis",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85809567,
+        102191575,
+        404484137,
         85633793,
         101720527,
         102080887,
-        85809567
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"b72deb00ad9d4f342431a253d4fee903",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484137,
             "locality_id":101720527,
             "neighbourhood_id":85809567,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387243703,
-    "wof:lastmodified":1449057333,
+    "wof:lastmodified":1454359033,
     "wof:name":"Tech One Associates",
     "wof:parent_id":85809567,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "development"
     ]
 },
-  "bbox": [-80.213829,40.503319,-80.213829,40.503319],
+  "bbox": [
+    -80.213829,
+    40.503319,
+    -80.213829,
+    40.503319
+],
   "geometry": {"coordinates":[-80.213829,40.503319],"type":"Point"}
 }

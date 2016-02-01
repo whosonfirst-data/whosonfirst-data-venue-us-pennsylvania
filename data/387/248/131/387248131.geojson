@@ -2,13 +2,14 @@
   "id": 387248131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.90509,40.403042,-79.90509,40.403042",
     "geom:latitude":40.403042,
     "geom:longitude":-79.90509,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"214 E 15th Ave",
     "sg:city":"Homestead",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85821717,
+        102191575,
+        404482523,
         85633793,
         101718719,
         102080887,
-        85821717
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"cdff73a90a30c40bd28d5c33f02a0218",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718719,
             "neighbourhood_id":85821717,
             "region_id":85688481,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":387248131,
-    "wof:lastmodified":1449058198,
+    "wof:lastmodified":1454360708,
     "wof:name":"Saint Gregory Russian Orthodox Church Rectory",
     "wof:parent_id":85821717,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "denomination"
     ]
 },
-  "bbox": [-79.90509,40.403042,-79.90509,40.403042],
+  "bbox": [
+    -79.90509,
+    40.403042,
+    -79.90509,
+    40.403042
+],
   "geometry": {"coordinates":[-79.90509,40.403042],"type":"Point"}
 }

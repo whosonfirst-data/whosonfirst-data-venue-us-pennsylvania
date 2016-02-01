@@ -2,13 +2,14 @@
   "id": 404049691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.220411,40.15725,-76.220411,40.15725",
     "geom:latitude":40.15725,
     "geom:longitude":-76.220411,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"144 Scenic View Dr",
     "sg:city":"Ephrata",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85834405
+        85834405,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"186520429f84b800a412edbaaf34dc25",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85834405,
             "region_id":85688481,
             "venue_id":404049691
         }
     ],
     "wof:id":404049691,
-    "wof:lastmodified":1449039659,
+    "wof:lastmodified":1454356749,
     "wof:name":"Lehman Concrete",
     "wof:parent_id":85834405,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-76.220411,40.15725,-76.220411,40.15725],
+  "bbox": [
+    -76.220411,
+    40.15725,
+    -76.220411,
+    40.15725
+],
   "geometry": {"coordinates":[-76.220411,40.15725],"type":"Point"}
 }

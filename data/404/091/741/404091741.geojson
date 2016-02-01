@@ -2,13 +2,14 @@
   "id": 404091741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.31378,40.051621,-76.31378,40.051621",
     "geom:latitude":40.051621,
     "geom:longitude":-76.31378,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"313 W Liberty St Ste 129",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -38,10 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85821747,
+        102191575,
+        404487183,
         85633793,
+        101718643,
         102081377,
-        85821747
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,17 +55,18 @@
     "wof:geomhash":"d6eb7e74caecba8e9b95e52d30f92c37",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
+            "localadmin_id":404487183,
+            "locality_id":101718643,
             "neighbourhood_id":85821747,
             "region_id":85688481,
             "venue_id":404091741
         }
     ],
     "wof:id":404091741,
-    "wof:lastmodified":1449039134,
+    "wof:lastmodified":1454356465,
     "wof:name":"Naatp",
     "wof:parent_id":85821747,
     "wof:placetype":"venue",
@@ -77,6 +82,11 @@
         "alcoholism"
     ]
 },
-  "bbox": [-76.31378,40.051621,-76.31378,40.051621],
-  "geometry": {"coordinates":[-76.31378,40.051621],"type":"Point"}
+  "bbox": [
+    -76.31378,
+    40.051621,
+    -76.31378,
+    40.051621
+],
+  "geometry": {"coordinates":[-76.31377999999999,40.051621],"type":"Point"}
 }

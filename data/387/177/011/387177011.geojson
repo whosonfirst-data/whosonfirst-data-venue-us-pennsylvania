@@ -2,13 +2,14 @@
   "id": 387177011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.112,40.393299,-80.112,40.393299",
     "geom:latitude":40.393299,
     "geom:longitude":-80.112,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"149 Dorrington Rd",
     "sg:city":"Oakdale",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"www.ladconstruction",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85854259,
+        102191575,
+        404484875,
         85633793,
         101720503,
         102080887,
-        85854259
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"feeb7cc5073537f6ed65a7fb91f658c9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484875,
             "locality_id":101720503,
             "neighbourhood_id":85854259,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387177011,
-    "wof:lastmodified":1449059920,
+    "wof:lastmodified":1454361233,
     "wof:name":"Lad Construction Company Inc",
     "wof:parent_id":85854259,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.112,40.393299,-80.112,40.393299],
-  "geometry": {"coordinates":[-80.112,40.393299],"type":"Point"}
+  "bbox": [
+    -80.112,
+    40.393299,
+    -80.112,
+    40.393299
+],
+  "geometry": {"coordinates":[-80.11199999999999,40.393299],"type":"Point"}
 }

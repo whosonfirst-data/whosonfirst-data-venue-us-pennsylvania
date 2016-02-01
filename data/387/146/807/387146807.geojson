@@ -2,13 +2,14 @@
   "id": 387146807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.229046,40.681883,-80.229046,40.681883",
     "geom:latitude":40.681883,
     "geom:longitude":-80.229046,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"804 Romigh Rd",
     "sg:city":"Freedom",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85851083,
+        102191575,
+        404482587,
         85633793,
+        101718393,
         102081323,
-        85851083
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,17 +41,18 @@
     "wof:geomhash":"0b7ecbc4097cf14e12b0792145628ae4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081323,
-            "locality_id":-1,
+            "localadmin_id":404482587,
+            "locality_id":101718393,
             "neighbourhood_id":85851083,
             "region_id":85688481,
             "venue_id":387146807
         }
     ],
     "wof:id":387146807,
-    "wof:lastmodified":1449057679,
+    "wof:lastmodified":1454360558,
     "wof:name":"Dental Office",
     "wof:parent_id":85851083,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.229046,40.681883,-80.229046,40.681883],
+  "bbox": [
+    -80.229046,
+    40.681883,
+    -80.229046,
+    40.681883
+],
   "geometry": {"coordinates":[-80.229046,40.681883],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403714475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.424019,40.319931,-76.424019,40.319931",
     "geom:latitude":40.319931,
     "geom:longitude":-76.424019,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1301 Quentin Rd",
     "sg:city":"Lebanon",
     "sg:classifiers":[
@@ -40,11 +41,13 @@
     "sg:website":"http://www.hrblock.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85842249,
+        102191575,
+        404485699,
         85633793,
         101717093,
         102081341,
-        85842249
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,9 +57,10 @@
     "wof:geomhash":"cb95e2014909db727f0ca4a58dc45512",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081341,
+            "localadmin_id":404485699,
             "locality_id":101717093,
             "neighbourhood_id":85842249,
             "region_id":85688481,
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":403714475,
-    "wof:lastmodified":1449055286,
+    "wof:lastmodified":1454357581,
     "wof:name":"H&R Block",
     "wof:parent_id":85842249,
     "wof:placetype":"venue",
@@ -81,6 +85,11 @@
         "bookkeeping"
     ]
 },
-  "bbox": [-76.424019,40.319931,-76.424019,40.319931],
+  "bbox": [
+    -76.424019,
+    40.319931,
+    -76.424019,
+    40.319931
+],
   "geometry": {"coordinates":[-76.424019,40.319931],"type":"Point"}
 }

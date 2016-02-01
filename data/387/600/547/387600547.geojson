@@ -2,13 +2,14 @@
   "id": 387600547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.730698,40.172824,-79.730698,40.172824",
     "geom:latitude":40.172824,
     "geom:longitude":-79.730698,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"150 Motor Drome Rd",
     "sg:city":"Smithton",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081383,
-        85833771
+        85833771,
+        102081383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"dd0f1f1459c34b4a1194f1bbd649fdb5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":-1,
             "neighbourhood_id":85833771,
             "region_id":85688481,
             "venue_id":387600547
         }
     ],
     "wof:id":387600547,
-    "wof:lastmodified":1449056454,
+    "wof:lastmodified":1454358367,
     "wof:name":"Filly Corral",
     "wof:parent_id":85833771,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "night"
     ]
 },
-  "bbox": [-79.730698,40.172824,-79.730698,40.172824],
+  "bbox": [
+    -79.730698,
+    40.172824,
+    -79.730698,
+    40.172824
+],
   "geometry": {"coordinates":[-79.730698,40.172824],"type":"Point"}
 }

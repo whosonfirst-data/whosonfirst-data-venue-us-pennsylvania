@@ -2,13 +2,14 @@
   "id": 387567219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.172699,40.287601,-80.172699,40.287601",
     "geom:latitude":40.287601,
     "geom:longitude":-80.172699,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"325 Southpointe Blvd Ste 100",
     "sg:city":"Canonsburg",
     "sg:classifiers":[
@@ -33,7 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420539915,
+        102191575,
+        404487735,
         85633793,
+        101720271,
+        102081343,
         85688481
     ],
     "wof:breaches":[],
@@ -44,18 +50,20 @@
     "wof:geomhash":"2679fd60a55f0164a0fa3dbc66f65c91",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081343,
+            "localadmin_id":404487735,
+            "locality_id":101720271,
+            "neighbourhood_id":420539915,
             "region_id":85688481,
             "venue_id":387567219
         }
     ],
     "wof:id":387567219,
-    "wof:lastmodified":1449059947,
+    "wof:lastmodified":1454361241,
     "wof:name":"Community Bank",
-    "wof:parent_id":-1,
+    "wof:parent_id":420539915,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +72,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-80.172699,40.287601,-80.172699,40.287601],
-  "geometry": {"coordinates":[-80.172699,40.287601],"type":"Point"}
+  "bbox": [
+    -80.172699,
+    40.287601,
+    -80.172699,
+    40.287601
+],
+  "geometry": {"coordinates":[-80.17269899999999,40.287601],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403988353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.960312,39.774151,-76.960312,39.774151",
     "geom:latitude":39.774151,
     "geom:longitude":-76.960312,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1400 Baltimore St Ste A",
     "sg:city":"Hanover",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080953,
-        85806445
+        85806445,
+        102080953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"d693a17109e0a01b9c27c5e89a9a7d81",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
             "neighbourhood_id":85806445,
             "region_id":85688481,
             "venue_id":403988353
         }
     ],
     "wof:id":403988353,
-    "wof:lastmodified":1449055083,
+    "wof:lastmodified":1454357460,
     "wof:name":"Peoplesbank",
     "wof:parent_id":85806445,
     "wof:placetype":"venue",
@@ -63,6 +62,11 @@
         "commercial"
     ]
 },
-  "bbox": [-76.960312,39.774151,-76.960312,39.774151],
+  "bbox": [
+    -76.960312,
+    39.774151,
+    -76.960312,
+    39.774151
+],
   "geometry": {"coordinates":[-76.960312,39.774151],"type":"Point"}
 }

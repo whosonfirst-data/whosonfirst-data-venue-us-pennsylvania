@@ -2,13 +2,14 @@
   "id": 404127093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.618465,40.960881,-76.618465,40.960881",
     "geom:latitude":40.960881,
     "geom:longitude":-76.618465,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"134 Mill St",
     "sg:city":"Danville",
     "sg:classifiers":[
@@ -41,8 +42,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080931,
-        85833629
+        85833629,
+        102080931
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,17 +53,15 @@
     "wof:geomhash":"8243de5832e5e10d8b633659ab94a624",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080931,
-            "locality_id":-1,
             "neighbourhood_id":85833629,
             "region_id":85688481,
             "venue_id":404127093
         }
     ],
     "wof:id":404127093,
-    "wof:lastmodified":1449040230,
+    "wof:lastmodified":1454357076,
     "wof:name":"Mc Williams Homecare & Uniform",
     "wof:parent_id":85833629,
     "wof:placetype":"venue",
@@ -73,6 +72,11 @@
         "uniform"
     ]
 },
-  "bbox": [-76.618465,40.960881,-76.618465,40.960881],
+  "bbox": [
+    -76.618465,
+    40.960881,
+    -76.618465,
+    40.960881
+],
   "geometry": {"coordinates":[-76.618465,40.960881],"type":"Point"}
 }

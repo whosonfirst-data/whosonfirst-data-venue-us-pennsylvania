@@ -2,13 +2,14 @@
   "id": 387276087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.755552,40.446234,-79.755552,40.446234",
     "geom:latitude":40.446234,
     "geom:longitude":-79.755552,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1100 Rico Rd",
     "sg:city":"Monroeville",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     "sg:website":"http://www.acdist.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85821019,
+        102191575,
+        404484135,
         85633793,
         101718841,
         102080887,
-        85821019
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"8f2de4084488fa68afe533f65c8b5b39",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484135,
             "locality_id":101718841,
             "neighbourhood_id":85821019,
             "region_id":85688481,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":387276087,
-    "wof:lastmodified":1449056257,
+    "wof:lastmodified":1454358203,
     "wof:name":"Advanced Control & Distribution",
     "wof:parent_id":85821019,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "service-circular"
     ]
 },
-  "bbox": [-79.755552,40.446234,-79.755552,40.446234],
-  "geometry": {"coordinates":[-79.755552,40.446234],"type":"Point"}
+  "bbox": [
+    -79.755552,
+    40.446234,
+    -79.755552,
+    40.446234
+],
+  "geometry": {"coordinates":[-79.75555199999999,40.446234],"type":"Point"}
 }

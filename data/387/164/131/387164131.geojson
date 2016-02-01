@@ -2,13 +2,14 @@
   "id": 387164131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.897061,40.162212,-79.897061,40.162212",
     "geom:latitude":40.162212,
     "geom:longitude":-79.897061,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1200 Maronda Way",
     "sg:city":"Monessen",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85816095,
+        102191575,
+        404487505,
         85633793,
-        101718539,
-        102081343,
-        85816095
+        101717153,
+        102081383,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +41,18 @@
     "wof:geomhash":"e1a565905790cd7a53803b0cda5df6af",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081343,
-            "locality_id":101718539,
+            "county_id":102081383,
+            "localadmin_id":404487505,
+            "locality_id":101717153,
             "neighbourhood_id":85816095,
             "region_id":85688481,
             "venue_id":387164131
         }
     ],
     "wof:id":387164131,
-    "wof:lastmodified":1449056561,
+    "wof:lastmodified":1454358437,
     "wof:name":"Monessen Food Pantry",
     "wof:parent_id":85816095,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.897061,40.162212,-79.897061,40.162212],
-  "geometry": {"coordinates":[-79.897061,40.162212],"type":"Point"}
+  "bbox": [
+    -79.897061,
+    40.162212,
+    -79.897061,
+    40.162212
+],
+  "geometry": {"coordinates":[-79.89706099999999,40.162212],"type":"Point"}
 }

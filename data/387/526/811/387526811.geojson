@@ -2,13 +2,14 @@
   "id": 387526811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.051799,40.33754,-80.051799,40.33754",
     "geom:latitude":40.33754,
     "geom:longitude":-80.051799,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"59 Fort Couch Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536213,
+        102191575,
+        404484331,
         85633793,
-        101718799,
-        102080887
+        101720495,
+        102080887,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"4d4496f6812b932b258dd8835567a2b8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":101718799,
-            "neighbourhood_id":-1,
+            "localadmin_id":404484331,
+            "locality_id":101720495,
+            "neighbourhood_id":420536213,
             "region_id":85688481,
             "venue_id":387526811
         }
     ],
     "wof:id":387526811,
-    "wof:lastmodified":1449057265,
+    "wof:lastmodified":1454358978,
     "wof:name":"Schilken Robert E MD",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536213,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.051799,40.33754,-80.051799,40.33754],
+  "bbox": [
+    -80.051799,
+    40.33754,
+    -80.051799,
+    40.33754
+],
   "geometry": {"coordinates":[-80.051799,40.33754],"type":"Point"}
 }

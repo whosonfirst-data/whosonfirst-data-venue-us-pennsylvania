@@ -2,13 +2,14 @@
   "id": 404218353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.419278,40.646685,-75.419278,40.646685",
     "geom:latitude":40.646685,
     "geom:longitude":-75.419278,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2054 Dogwood Ln",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -33,10 +34,13 @@
     "sg:website":"http://www.premaircleaning.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85856947,
+        102191575,
+        404485987,
         85633793,
+        101717907,
         102081395,
-        85856947
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +50,18 @@
     "wof:geomhash":"ab329ebbbde485a88684e15b8d41c86d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081395,
-            "locality_id":-1,
+            "localadmin_id":404485987,
+            "locality_id":101717907,
             "neighbourhood_id":85856947,
             "region_id":85688481,
             "venue_id":404218353
         }
     ],
     "wof:id":404218353,
-    "wof:lastmodified":1449039892,
+    "wof:lastmodified":1454356871,
     "wof:name":"Premair Cleaning & Maintenance",
     "wof:parent_id":85856947,
     "wof:placetype":"venue",
@@ -71,6 +76,11 @@
         "cleaners-interior"
     ]
 },
-  "bbox": [-75.419278,40.646685,-75.419278,40.646685],
-  "geometry": {"coordinates":[-75.419278,40.646685],"type":"Point"}
+  "bbox": [
+    -75.419278,
+    40.646685,
+    -75.419278,
+    40.646685
+],
+  "geometry": {"coordinates":[-75.41927800000001,40.646685],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403781753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.300471,40.4328,-76.300471,40.4328",
     "geom:latitude":40.4328,
     "geom:longitude":-76.300471,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4 Mill Rd",
     "sg:city":"Myerstown",
     "sg:classifiers":[
@@ -55,8 +56,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080991,
-        85846219
+        85846219,
+        102080991
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,17 +67,15 @@
     "wof:geomhash":"7ffdfa80d2994e2a4406a8bf7b66959d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080991,
-            "locality_id":-1,
             "neighbourhood_id":85846219,
             "region_id":85688481,
             "venue_id":403781753
         }
     ],
     "wof:id":403781753,
-    "wof:lastmodified":1449054886,
+    "wof:lastmodified":1454357344,
     "wof:name":"Seigfried's Restaurant Equipment",
     "wof:parent_id":85846219,
     "wof:placetype":"venue",
@@ -91,6 +90,11 @@
         "hood"
     ]
 },
-  "bbox": [-76.300471,40.4328,-76.300471,40.4328],
+  "bbox": [
+    -76.300471,
+    40.4328,
+    -76.300471,
+    40.4328
+],
   "geometry": {"coordinates":[-76.300471,40.4328],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403715317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.426331,40.333309,-76.426331,40.333309",
     "geom:latitude":40.333309,
     "geom:longitude":-76.426331,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"933 Oak St",
     "sg:city":"Lebanon",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85842249,
+        102191575,
+        404485699,
         85633793,
         101717093,
         102081341,
-        85842249
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"7b5060937f26d7945da34e5bb0dfd961",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081341,
+            "localadmin_id":404485699,
             "locality_id":101717093,
             "neighbourhood_id":85842249,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":403715317,
-    "wof:lastmodified":1449055690,
+    "wof:lastmodified":1454357823,
     "wof:name":"Government Offices City Municipal Building",
     "wof:parent_id":85842249,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "village"
     ]
 },
-  "bbox": [-76.426331,40.333309,-76.426331,40.333309],
+  "bbox": [
+    -76.426331,
+    40.333309,
+    -76.426331,
+    40.333309
+],
   "geometry": {"coordinates":[-76.426331,40.333309],"type":"Point"}
 }

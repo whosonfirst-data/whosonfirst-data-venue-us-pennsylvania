@@ -2,13 +2,14 @@
   "id": 404077379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.340272,40.065686,-76.340272,40.065686",
     "geom:latitude":40.065686,
     "geom:longitude":-76.340272,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"400 Park City Ctr",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -85,8 +86,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85848619
+        85848619,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -96,17 +97,15 @@
     "wof:geomhash":"a9995e1332d2a8995c806214fab19291",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85848619,
             "region_id":85688481,
             "venue_id":404077379
         }
     ],
     "wof:id":404077379,
-    "wof:lastmodified":1449039200,
+    "wof:lastmodified":1454356518,
     "wof:name":"JCPenney Custom Decorating",
     "wof:parent_id":85848619,
     "wof:placetype":"venue",
@@ -131,6 +130,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-76.340272,40.065686,-76.340272,40.065686],
+  "bbox": [
+    -76.340272,
+    40.065686,
+    -76.340272,
+    40.065686
+],
   "geometry": {"coordinates":[-76.340272,40.065686],"type":"Point"}
 }

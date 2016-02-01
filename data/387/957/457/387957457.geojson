@@ -2,13 +2,14 @@
   "id": 387957457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.589703,40.139913,-76.589703,40.139913",
     "geom:latitude":40.139913,
     "geom:longitude":-76.589703,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1278 S Market St",
     "sg:city":"Elizabethtown",
     "sg:classifiers":[
@@ -37,8 +38,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85803077
+        85803077,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +49,15 @@
     "wof:geomhash":"daf54a69b70eec0f5acf5bde5c37f26b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85803077,
             "region_id":85688481,
             "venue_id":387957457
         }
     ],
     "wof:id":387957457,
-    "wof:lastmodified":1449059358,
+    "wof:lastmodified":1454361055,
     "wof:name":"Citizens Bank",
     "wof:parent_id":85803077,
     "wof:placetype":"venue",
@@ -70,6 +69,11 @@
         "saving"
     ]
 },
-  "bbox": [-76.589703,40.139913,-76.589703,40.139913],
+  "bbox": [
+    -76.589703,
+    40.139913,
+    -76.589703,
+    40.139913
+],
   "geometry": {"coordinates":[-76.589703,40.139913],"type":"Point"}
 }

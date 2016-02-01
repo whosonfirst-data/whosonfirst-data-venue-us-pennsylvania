@@ -2,13 +2,14 @@
   "id": 387588163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.725733,39.904792,-79.725733,39.904792",
     "geom:latitude":39.904792,
     "geom:longitude":-79.725733,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"137 N Beeson Ave Ste 105",
     "sg:city":"Uniontown",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85850161,
+        102191575,
+        404487055,
         85633793,
+        101719799,
         102080959,
-        85850161
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,17 +41,18 @@
     "wof:geomhash":"80b02b8b999ea476ae21175f0bb98d26",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080959,
-            "locality_id":-1,
+            "localadmin_id":404487055,
+            "locality_id":101719799,
             "neighbourhood_id":85850161,
             "region_id":85688481,
             "venue_id":387588163
         }
     ],
     "wof:id":387588163,
-    "wof:lastmodified":1449059169,
+    "wof:lastmodified":1454361004,
     "wof:name":"Office Vctional Rehabilatation",
     "wof:parent_id":85850161,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.725733,39.904792,-79.725733,39.904792],
-  "geometry": {"coordinates":[-79.725733,39.904792],"type":"Point"}
+  "bbox": [
+    -79.725733,
+    39.904792,
+    -79.725733,
+    39.904792
+],
+  "geometry": {"coordinates":[-79.72573300000001,39.904792],"type":"Point"}
 }

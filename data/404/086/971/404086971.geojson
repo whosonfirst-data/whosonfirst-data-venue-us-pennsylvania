@@ -2,13 +2,14 @@
   "id": 404086971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.19696,40.0233,-76.19696,40.0233",
     "geom:latitude":40.0233,
     "geom:longitude":-76.19696,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2464 Lincoln Hwy E",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -38,8 +39,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85868585
+        85868585,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +50,15 @@
     "wof:geomhash":"0f942512e7c6d054df75a59fa4055665",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85868585,
             "region_id":85688481,
             "venue_id":404086971
         }
     ],
     "wof:id":404086971,
-    "wof:lastmodified":1449039936,
+    "wof:lastmodified":1454356902,
     "wof:name":"Burger King",
     "wof:parent_id":85868585,
     "wof:placetype":"venue",
@@ -72,6 +71,11 @@
         "dog"
     ]
 },
-  "bbox": [-76.19696,40.0233,-76.19696,40.0233],
+  "bbox": [
+    -76.19696,
+    40.0233,
+    -76.19696,
+    40.0233
+],
   "geometry": {"coordinates":[-76.19696,40.0233],"type":"Point"}
 }

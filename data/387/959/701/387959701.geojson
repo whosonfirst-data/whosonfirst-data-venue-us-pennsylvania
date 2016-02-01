@@ -2,13 +2,14 @@
   "id": 387959701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.605024,40.150033,-76.605024,40.150033",
     "geom:latitude":40.150033,
     "geom:longitude":-76.605024,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"117 S Market St",
     "sg:city":"Elizabethtown",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85836929
+        85836929,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"6a82df3588fdd5385dbf572dc04eb9f6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85836929,
             "region_id":85688481,
             "venue_id":387959701
         }
     ],
     "wof:id":387959701,
-    "wof:lastmodified":1449059536,
+    "wof:lastmodified":1454361110,
     "wof:name":"Lynden Gallary",
     "wof:parent_id":85836929,
     "wof:placetype":"venue",
@@ -63,6 +62,11 @@
         "galleries"
     ]
 },
-  "bbox": [-76.605024,40.150033,-76.605024,40.150033],
+  "bbox": [
+    -76.605024,
+    40.150033,
+    -76.605024,
+    40.150033
+],
   "geometry": {"coordinates":[-76.605024,40.150033],"type":"Point"}
 }

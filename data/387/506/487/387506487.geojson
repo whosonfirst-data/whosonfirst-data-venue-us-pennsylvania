@@ -2,13 +2,14 @@
   "id": 387506487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.005814,40.546268,-80.005814,40.546268",
     "geom:latitude":40.546268,
     "geom:longitude":-80.005814,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1000 Ross Park Mall Dr Ste 20",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -51,8 +52,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85805835
+        85805835,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,17 +63,15 @@
     "wof:geomhash":"15b280d8cb3c8dcdbf2b332bd12e8559",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85805835,
             "region_id":85688481,
             "venue_id":387506487
         }
     ],
     "wof:id":387506487,
-    "wof:lastmodified":1449056205,
+    "wof:lastmodified":1454358158,
     "wof:name":"T-Mobile",
     "wof:parent_id":85805835,
     "wof:placetype":"venue",
@@ -88,6 +87,11 @@
         "cellular"
     ]
 },
-  "bbox": [-80.005814,40.546268,-80.005814,40.546268],
+  "bbox": [
+    -80.005814,
+    40.546268,
+    -80.005814,
+    40.546268
+],
   "geometry": {"coordinates":[-80.005814,40.546268],"type":"Point"}
 }

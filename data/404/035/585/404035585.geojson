@@ -2,13 +2,14 @@
   "id": 404035585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.789429,39.98188,-76.789429,39.98188",
     "geom:latitude":39.98188,
     "geom:longitude":-76.789429,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1800 Barrington Dr",
     "sg:city":"York",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420540379,
+        102191575,
+        404487953,
         85633793,
         101719479,
-        102080953
+        102080953,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"64e545a4225590c8db69f761c06ae56e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080953,
+            "localadmin_id":404487953,
             "locality_id":101719479,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420540379,
             "region_id":85688481,
             "venue_id":404035585
         }
     ],
     "wof:id":404035585,
-    "wof:lastmodified":1449040061,
+    "wof:lastmodified":1454356985,
     "wof:name":"Wildflower Expressions",
-    "wof:parent_id":-1,
+    "wof:parent_id":420540379,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "embroidery"
     ]
 },
-  "bbox": [-76.789429,39.98188,-76.789429,39.98188],
+  "bbox": [
+    -76.789429,
+    39.98188,
+    -76.789429,
+    39.98188
+],
   "geometry": {"coordinates":[-76.789429,39.98188],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404063511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.384482,40.178006,-76.384482,40.178006",
     "geom:latitude":40.178006,
     "geom:longitude":-76.384482,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"573 Wood Duck Dr",
     "sg:city":"Manheim",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85836395
+        85836395,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"7508b12f6d48652cd9e36361ee0cf6b1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85836395,
             "region_id":85688481,
             "venue_id":404063511
         }
     ],
     "wof:id":404063511,
-    "wof:lastmodified":1449039125,
+    "wof:lastmodified":1454356453,
     "wof:name":"Gymtique",
     "wof:parent_id":85836395,
     "wof:placetype":"venue",
@@ -64,6 +63,11 @@
         "physical"
     ]
 },
-  "bbox": [-76.384482,40.178006,-76.384482,40.178006],
-  "geometry": {"coordinates":[-76.384482,40.178006],"type":"Point"}
+  "bbox": [
+    -76.384482,
+    40.178006,
+    -76.384482,
+    40.178006
+],
+  "geometry": {"coordinates":[-76.38448200000001,40.178006],"type":"Point"}
 }

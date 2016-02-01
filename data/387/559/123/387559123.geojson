@@ -2,13 +2,14 @@
   "id": 387559123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.136299,40.264301,-80.136299,40.264301",
     "geom:latitude":40.264301,
     "geom:longitude":-80.136299,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5000 Waterdam Plaza Dr Ste 240",
     "sg:city":"Canonsburg",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081343,
-        85814861
+        85814861,
+        102081343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"70a47a553843a844741e016b4d05a8b1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081343,
-            "locality_id":-1,
             "neighbourhood_id":85814861,
             "region_id":85688481,
             "venue_id":387559123
         }
     ],
     "wof:id":387559123,
-    "wof:lastmodified":1449059079,
+    "wof:lastmodified":1454360977,
     "wof:name":"Southwestern PA Orthopedic Associates PC",
     "wof:parent_id":85814861,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "orthopedist"
     ]
 },
-  "bbox": [-80.136299,40.264301,-80.136299,40.264301],
-  "geometry": {"coordinates":[-80.136299,40.264301],"type":"Point"}
+  "bbox": [
+    -80.136299,
+    40.264301,
+    -80.136299,
+    40.264301
+],
+  "geometry": {"coordinates":[-80.13629899999999,40.264301],"type":"Point"}
 }

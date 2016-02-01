@@ -2,13 +2,14 @@
   "id": 404060569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.303596,40.162628,-76.303596,40.162628",
     "geom:latitude":40.162628,
     "geom:longitude":-76.303596,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"201 Market St",
     "sg:city":"Lititz",
     "sg:classifiers":[
@@ -37,8 +38,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85834405
+        85834405,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +49,15 @@
     "wof:geomhash":"42a91884ec9511cafaf5bb84c51735b0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85834405,
             "region_id":85688481,
             "venue_id":404060569
         }
     ],
     "wof:id":404060569,
-    "wof:lastmodified":1449040227,
+    "wof:lastmodified":1454357075,
     "wof:name":"Lititz United Methodist Church",
     "wof:parent_id":85834405,
     "wof:placetype":"venue",
@@ -71,6 +70,11 @@
         "churches-methodist"
     ]
 },
-  "bbox": [-76.303596,40.162628,-76.303596,40.162628],
+  "bbox": [
+    -76.303596,
+    40.162628,
+    -76.303596,
+    40.162628
+],
   "geometry": {"coordinates":[-76.303596,40.162628],"type":"Point"}
 }

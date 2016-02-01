@@ -2,13 +2,14 @@
   "id": 387824507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.078639,41.994257,-80.078639,41.994257",
     "geom:latitude":41.994257,
     "geom:longitude":-80.078639,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"9781 Tileyard Rd",
     "sg:city":"Waterford",
     "sg:classifiers":[
@@ -34,8 +35,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080955,
-        85819503
+        85819503,
+        102080955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +46,15 @@
     "wof:geomhash":"adf6b7d8c3e891572f689697566ab713",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080955,
-            "locality_id":-1,
             "neighbourhood_id":85819503,
             "region_id":85688481,
             "venue_id":387824507
         }
     ],
     "wof:id":387824507,
-    "wof:lastmodified":1449057453,
+    "wof:lastmodified":1454359138,
     "wof:name":"Mark Evanoff",
     "wof:parent_id":85819503,
     "wof:placetype":"venue",
@@ -65,6 +64,11 @@
         "feeding"
     ]
 },
-  "bbox": [-80.078639,41.994257,-80.078639,41.994257],
+  "bbox": [
+    -80.078639,
+    41.994257,
+    -80.078639,
+    41.994257
+],
   "geometry": {"coordinates":[-80.078639,41.994257],"type":"Point"}
 }

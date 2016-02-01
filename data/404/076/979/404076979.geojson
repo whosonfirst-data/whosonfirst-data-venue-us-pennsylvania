@@ -2,13 +2,14 @@
   "id": 404076979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.333509,40.10688,-76.333509,40.10688",
     "geom:latitude":40.10688,
     "geom:longitude":-76.333509,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"605 Richmond Dr",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -45,8 +46,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85806481
+        85806481,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,17 +57,15 @@
     "wof:geomhash":"e9da2221091fc99f777585b8467ac4aa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85806481,
             "region_id":85688481,
             "venue_id":404076979
         }
     ],
     "wof:id":404076979,
-    "wof:lastmodified":1449040037,
+    "wof:lastmodified":1454356969,
     "wof:name":"Ciros Italian Bistro",
     "wof:parent_id":85806481,
     "wof:placetype":"venue",
@@ -81,6 +80,11 @@
         "italian"
     ]
 },
-  "bbox": [-76.333509,40.10688,-76.333509,40.10688],
-  "geometry": {"coordinates":[-76.333509,40.10688],"type":"Point"}
+  "bbox": [
+    -76.333509,
+    40.10688,
+    -76.333509,
+    40.10688
+],
+  "geometry": {"coordinates":[-76.33350900000001,40.10688],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387904135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.56366,40.404477,-76.56366,40.404477",
     "geom:latitude":40.404477,
     "geom:longitude":-76.56366,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4 Indiantown Gap Rd",
     "sg:city":"Annville",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     "sg:website":"http://www.censop.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85826915,
+        102191575,
+        404485823,
         85633793,
         101719381,
         102081341,
-        85826915
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"ae7042be0773b82f02df45a4a445b22d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081341,
+            "localadmin_id":404485823,
             "locality_id":101719381,
             "neighbourhood_id":85826915,
             "region_id":85688481,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":387904135,
-    "wof:lastmodified":1449060004,
+    "wof:lastmodified":1454361258,
     "wof:name":"State Garage",
     "wof:parent_id":85826915,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "recruiting"
     ]
 },
-  "bbox": [-76.56366,40.404477,-76.56366,40.404477],
+  "bbox": [
+    -76.56366,
+    40.404477,
+    -76.56366,
+    40.404477
+],
   "geometry": {"coordinates":[-76.56366,40.404477],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403981925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.240239,39.83126,-77.240239,39.83126",
     "geom:latitude":39.83126,
     "geom:longitude":-77.240239,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"42 N Howard Ave",
     "sg:city":"Gettysburg",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080899,
-        85804527
+        85804527,
+        102080899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"7884874f8ed95179e666f4c3b95f54e5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080899,
-            "locality_id":-1,
             "neighbourhood_id":85804527,
             "region_id":85688481,
             "venue_id":403981925
         }
     ],
     "wof:id":403981925,
-    "wof:lastmodified":1449055991,
+    "wof:lastmodified":1454357997,
     "wof:name":"William Lewis",
     "wof:parent_id":85804527,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "educational"
     ]
 },
-  "bbox": [-77.240239,39.83126,-77.240239,39.83126],
+  "bbox": [
+    -77.240239,
+    39.83126,
+    -77.240239,
+    39.83126
+],
   "geometry": {"coordinates":[-77.240239,39.83126],"type":"Point"}
 }

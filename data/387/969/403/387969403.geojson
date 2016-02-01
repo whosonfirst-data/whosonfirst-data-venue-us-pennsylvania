@@ -2,13 +2,14 @@
   "id": 387969403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.657591,40.274105,-76.657591,40.274105",
     "geom:latitude":40.274105,
     "geom:longitude":-76.657591,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"501 Hockersville Rd",
     "sg:city":"Hershey",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85821955,
+        102191575,
+        404483303,
         85633793,
         101719813,
         102081347,
-        85821955
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"c7f67a50fe4221800a40754eb8825144",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
+            "localadmin_id":404483303,
             "locality_id":101719813,
             "neighbourhood_id":85821955,
             "region_id":85688481,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":387969403,
-    "wof:lastmodified":1449057018,
+    "wof:lastmodified":1454358773,
     "wof:name":"Feasers Focus",
     "wof:parent_id":85821955,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-76.657591,40.274105,-76.657591,40.274105],
+  "bbox": [
+    -76.657591,
+    40.274105,
+    -76.657591,
+    40.274105
+],
   "geometry": {"coordinates":[-76.657591,40.274105],"type":"Point"}
 }

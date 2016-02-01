@@ -2,13 +2,14 @@
   "id": 387532583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.060204,40.386501,-80.060204,40.386501",
     "geom:latitude":40.386501,
     "geom:longitude":-80.060204,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"104 Oak Park Pl",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85859075
+        85859075,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"6bdc06e2758e3cb4e65443ee711862f8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85859075,
             "region_id":85688481,
             "venue_id":387532583
         }
     ],
     "wof:id":387532583,
-    "wof:lastmodified":1449057379,
+    "wof:lastmodified":1454359072,
     "wof:name":"Multi Dimensional Designs Inc",
     "wof:parent_id":85859075,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "design"
     ]
 },
-  "bbox": [-80.060204,40.386501,-80.060204,40.386501],
+  "bbox": [
+    -80.060204,
+    40.386501,
+    -80.060204,
+    40.386501
+],
   "geometry": {"coordinates":[-80.060204,40.386501],"type":"Point"}
 }

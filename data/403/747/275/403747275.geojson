@@ -2,13 +2,14 @@
   "id": 403747275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.97206,40.23721,-76.97206,40.23721",
     "geom:latitude":40.23721,
     "geom:longitude":-76.97206,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5007 Carlisle Pike",
     "sg:city":"Mechanicsburg",
     "sg:classifiers":[
@@ -38,8 +39,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081359,
-        85850501
+        85850501,
+        102081359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +50,15 @@
     "wof:geomhash":"11c9837732441af6625ecf6398c2f0f3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081359,
-            "locality_id":-1,
             "neighbourhood_id":85850501,
             "region_id":85688481,
             "venue_id":403747275
         }
     ],
     "wof:id":403747275,
-    "wof:lastmodified":1449054867,
+    "wof:lastmodified":1454357336,
     "wof:name":"Club Med Billards Incorporated",
     "wof:parent_id":85850501,
     "wof:placetype":"venue",
@@ -73,6 +72,11 @@
         "supply"
     ]
 },
-  "bbox": [-76.97206,40.23721,-76.97206,40.23721],
+  "bbox": [
+    -76.97206,
+    40.23721,
+    -76.97206,
+    40.23721
+],
   "geometry": {"coordinates":[-76.97206,40.23721],"type":"Point"}
 }

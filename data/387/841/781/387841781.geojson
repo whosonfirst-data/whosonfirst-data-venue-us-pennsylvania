@@ -2,13 +2,14 @@
   "id": 387841781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.090723,42.05766,-80.090723,42.05766",
     "geom:latitude":42.05766,
     "geom:longitude":-80.090723,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6716 Peach St",
     "sg:city":"Erie",
     "sg:classifiers":[
@@ -37,8 +38,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080955,
-        85819503
+        85819503,
+        102080955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +49,15 @@
     "wof:geomhash":"3356fcb84dd00601fc48eebc3dec6005",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080955,
-            "locality_id":-1,
             "neighbourhood_id":85819503,
             "region_id":85688481,
             "venue_id":387841781
         }
     ],
     "wof:id":387841781,
-    "wof:lastmodified":1449056900,
+    "wof:lastmodified":1454358689,
     "wof:name":"Payless ShoeSource",
     "wof:parent_id":85819503,
     "wof:placetype":"venue",
@@ -70,6 +69,11 @@
         "women's"
     ]
 },
-  "bbox": [-80.090723,42.05766,-80.090723,42.05766],
+  "bbox": [
+    -80.090723,
+    42.05766,
+    -80.090723,
+    42.05766
+],
   "geometry": {"coordinates":[-80.090723,42.05766],"type":"Point"}
 }

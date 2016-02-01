@@ -2,13 +2,14 @@
   "id": 404172741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.387604,40.5816,-75.387604,40.5816",
     "geom:latitude":40.5816,
     "geom:longitude":-75.387604,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2432 Black River Rd",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081395,
-        85859207
+        85859207,
+        102081395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"0a06cf4e51b7c68ce1f4576f68b80423",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081395,
-            "locality_id":-1,
             "neighbourhood_id":85859207,
             "region_id":85688481,
             "venue_id":404172741
         }
     ],
     "wof:id":404172741,
-    "wof:lastmodified":1449039519,
+    "wof:lastmodified":1454356693,
     "wof:name":"Trump Notary",
     "wof:parent_id":85859207,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "notary"
     ]
 },
-  "bbox": [-75.387604,40.5816,-75.387604,40.5816],
+  "bbox": [
+    -75.387604,
+    40.5816,
+    -75.387604,
+    40.5816
+],
   "geometry": {"coordinates":[-75.387604,40.5816],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387541249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.265167,40.183336,-80.265167,40.183336",
     "geom:latitude":40.183336,
     "geom:longitude":-80.265167,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1050 Jefferson Ave",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -41,11 +42,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85852963,
+        102191575,
+        404487917,
         85633793,
         101718569,
         102081343,
-        85852963
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,9 +58,10 @@
     "wof:geomhash":"ae9a6879aa8e3a564885917ef5c243ae",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081343,
+            "localadmin_id":404487917,
             "locality_id":101718569,
             "neighbourhood_id":85852963,
             "region_id":85688481,
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":387541249,
-    "wof:lastmodified":1449056527,
+    "wof:lastmodified":1454358418,
     "wof:name":"Wireless N Washington Ser",
     "wof:parent_id":85852963,
     "wof:placetype":"venue",
@@ -79,6 +83,11 @@
         "supply"
     ]
 },
-  "bbox": [-80.265167,40.183336,-80.265167,40.183336],
-  "geometry": {"coordinates":[-80.265167,40.183336],"type":"Point"}
+  "bbox": [
+    -80.265167,
+    40.183336,
+    -80.265167,
+    40.183336
+],
+  "geometry": {"coordinates":[-80.26516700000001,40.183336],"type":"Point"}
 }

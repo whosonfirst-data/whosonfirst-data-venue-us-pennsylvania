@@ -2,13 +2,14 @@
   "id": 404218239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.409103,40.623901,-75.409103,40.623901",
     "geom:latitude":40.623901,
     "geom:longitude":-75.409103,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1832 W North St",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081327,
-        85897231
+        85897231,
+        102081327
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"5cc220183dc31e2bff0d062d2798d65a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081327,
-            "locality_id":-1,
             "neighbourhood_id":85897231,
             "region_id":85688481,
             "venue_id":404218239
         }
     ],
     "wof:id":404218239,
-    "wof:lastmodified":1449039892,
+    "wof:lastmodified":1454356870,
     "wof:name":"Rosemont Fire Co",
     "wof:parent_id":85897231,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "nightlife"
     ]
 },
-  "bbox": [-75.409103,40.623901,-75.409103,40.623901],
+  "bbox": [
+    -75.409103,
+    40.623901,
+    -75.409103,
+    40.623901
+],
   "geometry": {"coordinates":[-75.409103,40.623901],"type":"Point"}
 }

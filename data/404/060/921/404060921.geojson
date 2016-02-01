@@ -2,13 +2,14 @@
   "id": 404060921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.305413,40.156904,-76.305413,40.156904",
     "geom:latitude":40.156904,
     "geom:longitude":-76.305413,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"54 E Main St",
     "sg:city":"Lititz",
     "sg:classifiers":[
@@ -37,8 +38,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85834405
+        85834405,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +49,15 @@
     "wof:geomhash":"91fff253f7e499be1499f3d2ac50d555",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85834405,
             "region_id":85688481,
             "venue_id":404060921
         }
     ],
     "wof:id":404060921,
-    "wof:lastmodified":1449040220,
+    "wof:lastmodified":1454357072,
     "wof:name":"Roma Pizza",
     "wof:parent_id":85834405,
     "wof:placetype":"venue",
@@ -70,6 +69,11 @@
         "italian"
     ]
 },
-  "bbox": [-76.305413,40.156904,-76.305413,40.156904],
+  "bbox": [
+    -76.305413,
+    40.156904,
+    -76.305413,
+    40.156904
+],
   "geometry": {"coordinates":[-76.305413,40.156904],"type":"Point"}
 }

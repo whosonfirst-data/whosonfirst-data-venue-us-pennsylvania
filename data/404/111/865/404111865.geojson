@@ -2,13 +2,14 @@
   "id": 404111865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.797583,41.118767,-76.797583,41.118767",
     "geom:latitude":41.118767,
     "geom:longitude":-76.797583,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5960 Susquehanna Trl",
     "sg:city":"Turbotville",
     "sg:classifiers":[
@@ -42,8 +43,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081349,
-        85837713
+        85837713,
+        102081349
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,17 +54,15 @@
     "wof:geomhash":"df8ea60ca5846003c69f42822af766a8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081349,
-            "locality_id":-1,
             "neighbourhood_id":85837713,
             "region_id":85688481,
             "venue_id":404111865
         }
     ],
     "wof:id":404111865,
-    "wof:lastmodified":1449040352,
+    "wof:lastmodified":1454357156,
     "wof:name":"Yoder Builders, Inc.",
     "wof:parent_id":85837713,
     "wof:placetype":"venue",
@@ -81,6 +80,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-76.797583,41.118767,-76.797583,41.118767],
+  "bbox": [
+    -76.797583,
+    41.118767,
+    -76.797583,
+    41.118767
+],
   "geometry": {"coordinates":[-76.797583,41.118767],"type":"Point"}
 }

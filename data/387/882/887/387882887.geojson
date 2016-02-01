@@ -2,13 +2,14 @@
   "id": 387882887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.673748,40.834868,-77.673748,40.834868",
     "geom:latitude":40.834868,
     "geom:longitude":-77.673748,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2827 Earlystown Rd",
     "sg:city":"Centre Hall",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85839333,
+        102191575,
+        404483083,
         85633793,
         101718143,
         102081369,
-        85839333
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"eb9a468785cc6c10175c7e07d5ae5863",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081369,
+            "localadmin_id":404483083,
             "locality_id":101718143,
             "neighbourhood_id":85839333,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387882887,
-    "wof:lastmodified":1449056781,
+    "wof:lastmodified":1454358605,
     "wof:name":"McLanahan Drug Centre Hall",
     "wof:parent_id":85839333,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "drugstore"
     ]
 },
-  "bbox": [-77.673748,40.834868,-77.673748,40.834868],
+  "bbox": [
+    -77.673748,
+    40.834868,
+    -77.673748,
+    40.834868
+],
   "geometry": {"coordinates":[-77.673748,40.834868],"type":"Point"}
 }

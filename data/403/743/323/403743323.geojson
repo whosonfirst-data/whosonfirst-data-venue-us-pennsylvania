@@ -2,13 +2,14 @@
   "id": 403743323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.988876,40.260891,-76.988876,40.260891",
     "geom:latitude":40.260891,
     "geom:longitude":-76.988876,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1155 Cross Creek Dr",
     "sg:city":"Mechanicsburg",
     "sg:classifiers":[
@@ -34,8 +35,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081359,
-        85822223
+        85822223,
+        102081359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +46,15 @@
     "wof:geomhash":"dd8b04669de569a781920ec6eb91ff76",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081359,
-            "locality_id":-1,
             "neighbourhood_id":85822223,
             "region_id":85688481,
             "venue_id":403743323
         }
     ],
     "wof:id":403743323,
-    "wof:lastmodified":1449055950,
+    "wof:lastmodified":1454357971,
     "wof:name":"Rdz Signs",
     "wof:parent_id":85822223,
     "wof:placetype":"venue",
@@ -65,6 +64,11 @@
         "specialty"
     ]
 },
-  "bbox": [-76.988876,40.260891,-76.988876,40.260891],
+  "bbox": [
+    -76.988876,
+    40.260891,
+    -76.988876,
+    40.260891
+],
   "geometry": {"coordinates":[-76.988876,40.260891],"type":"Point"}
 }

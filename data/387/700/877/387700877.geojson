@@ -2,13 +2,14 @@
   "id": 387700877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.887016,40.85429,-79.887016,40.85429",
     "geom:latitude":40.85429,
     "geom:longitude":-79.887016,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"107 Donaghy Ave",
     "sg:city":"Butler",
     "sg:classifiers":[
@@ -36,11 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85865387,
+        102191575,
+        404485059,
         85633793,
         101720139,
         102083677,
-        85865387
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,9 +53,10 @@
     "wof:geomhash":"b921a63131b55a3f55f9a1f3c94efb84",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083677,
+            "localadmin_id":404485059,
             "locality_id":101720139,
             "neighbourhood_id":85865387,
             "region_id":85688481,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":387700877,
-    "wof:lastmodified":1449059584,
+    "wof:lastmodified":1454361128,
     "wof:name":"Laskowski Plumbing",
     "wof:parent_id":85865387,
     "wof:placetype":"venue",
@@ -74,6 +78,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.887016,40.85429,-79.887016,40.85429],
+  "bbox": [
+    -79.887016,
+    40.85429,
+    -79.887016,
+    40.85429
+],
   "geometry": {"coordinates":[-79.887016,40.85429],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387443009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.040703,40.377602,-80.040703,40.377602",
     "geom:latitude":40.377602,
     "geom:longitude":-80.040703,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"186 Castle Shannon Blvd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85830717,
+        102191575,
+        404484869,
         85633793,
         101718761,
         102080887,
-        85830717
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"e83af4ed82dea78eabc65dc066ca4fd8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484869,
             "locality_id":101718761,
             "neighbourhood_id":85830717,
             "region_id":85688481,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":387443009,
-    "wof:lastmodified":1449059220,
+    "wof:lastmodified":1454361015,
     "wof:name":"Krahe Denero Linda Atty",
     "wof:parent_id":85830717,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.040703,40.377602,-80.040703,40.377602],
-  "geometry": {"coordinates":[-80.040703,40.377602],"type":"Point"}
+  "bbox": [
+    -80.040703,
+    40.377602,
+    -80.040703,
+    40.377602
+],
+  "geometry": {"coordinates":[-80.04070299999999,40.377602],"type":"Point"}
 }

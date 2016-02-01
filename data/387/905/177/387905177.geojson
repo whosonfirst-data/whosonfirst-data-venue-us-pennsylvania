@@ -2,13 +2,14 @@
   "id": 387905177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.786006,40.583212,-77.786006,40.583212",
     "geom:latitude":40.583212,
     "geom:longitude":-77.786006,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1399 W Back Mountain Rd",
     "sg:city":"Belleville",
     "sg:classifiers":[
@@ -33,7 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420539079,
+        102191575,
+        404488183,
         85633793,
+        101719087,
+        102081333,
         85688481
     ],
     "wof:breaches":[],
@@ -44,18 +50,20 @@
     "wof:geomhash":"281db8aa5b43518da342e536011bc1aa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081333,
+            "localadmin_id":404488183,
+            "locality_id":101719087,
+            "neighbourhood_id":420539079,
             "region_id":85688481,
             "venue_id":387905177
         }
     ],
     "wof:id":387905177,
-    "wof:lastmodified":1449057595,
+    "wof:lastmodified":1454360524,
     "wof:name":"Benjamin L Zook",
-    "wof:parent_id":-1,
+    "wof:parent_id":420539079,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +72,11 @@
         "product"
     ]
 },
-  "bbox": [-77.786006,40.583212,-77.786006,40.583212],
+  "bbox": [
+    -77.786006,
+    40.583212,
+    -77.786006,
+    40.583212
+],
   "geometry": {"coordinates":[-77.786006,40.583212],"type":"Point"}
 }

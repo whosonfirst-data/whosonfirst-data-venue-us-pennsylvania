@@ -2,13 +2,14 @@
   "id": 387817085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.34203,41.950432,-80.34203,41.950432",
     "geom:latitude":41.950432,
     "geom:longitude":-80.34203,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"10451 Peach St",
     "sg:city":"Girard",
     "sg:classifiers":[],
@@ -19,10 +20,13 @@
     "sg:website":"http://www.bestwindsocks.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420537927,
+        102191575,
+        404486677,
         85633793,
-        101718229,
-        102080955
+        101718251,
+        102080955,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -32,24 +36,30 @@
     "wof:geomhash":"f595d0280abc0c25a866dcc4b14f2bf2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080955,
-            "locality_id":101718229,
-            "neighbourhood_id":-1,
+            "localadmin_id":404486677,
+            "locality_id":101718251,
+            "neighbourhood_id":420537927,
             "region_id":85688481,
             "venue_id":387817085
         }
     ],
     "wof:id":387817085,
-    "wof:lastmodified":1449059169,
+    "wof:lastmodified":1454361004,
     "wof:name":"Windtek Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420537927,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.34203,41.950432,-80.34203,41.950432],
-  "geometry": {"coordinates":[-80.34203,41.950432],"type":"Point"}
+  "bbox": [
+    -80.34203,
+    41.950432,
+    -80.34203,
+    41.950432
+],
+  "geometry": {"coordinates":[-80.34202999999999,41.950432],"type":"Point"}
 }

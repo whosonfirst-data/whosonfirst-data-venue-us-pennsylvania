@@ -2,13 +2,14 @@
   "id": 387718585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.057859,40.68633,-80.057859,40.68633",
     "geom:latitude":40.68633,
     "geom:longitude":-80.057859,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2200 Garden Dr 220",
     "sg:city":"Seven Fields",
     "sg:classifiers":[
@@ -47,11 +48,13 @@
     "sg:website":"http://www.heartlandhospice.com/Pittsburgh",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85824601,
+        102191575,
+        404485077,
         85633793,
         101720147,
         102083677,
-        85824601
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,9 +64,10 @@
     "wof:geomhash":"990ce6c24891e06649bd1fac5d5538af",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083677,
+            "localadmin_id":404485077,
             "locality_id":101720147,
             "neighbourhood_id":85824601,
             "region_id":85688481,
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":387718585,
-    "wof:lastmodified":1449056919,
+    "wof:lastmodified":1454358707,
     "wof:name":"Heartland Hospice Services",
     "wof:parent_id":85824601,
     "wof:placetype":"venue",
@@ -85,6 +89,11 @@
         "home"
     ]
 },
-  "bbox": [-80.057859,40.68633,-80.057859,40.68633],
-  "geometry": {"coordinates":[-80.057859,40.68633],"type":"Point"}
+  "bbox": [
+    -80.057859,
+    40.68633,
+    -80.057859,
+    40.68633
+],
+  "geometry": {"coordinates":[-80.05785899999999,40.68633],"type":"Point"}
 }

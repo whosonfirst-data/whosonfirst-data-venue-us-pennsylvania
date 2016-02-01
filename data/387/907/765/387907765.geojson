@@ -2,13 +2,14 @@
   "id": 387907765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.92583,40.228317,-76.92583,40.228317",
     "geom:latitude":40.228317,
     "geom:longitude":-76.92583,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3300 Hartzdale Dr Ste 106",
     "sg:city":"Camp Hill",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"www.tinderboxcamphill.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85857441,
+        102191575,
+        404486405,
         85633793,
         101719079,
         102081359,
-        85857441
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"10da4f2500f6a68cf4b216251c055ace",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081359,
+            "localadmin_id":404486405,
             "locality_id":101719079,
             "neighbourhood_id":85857441,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387907765,
-    "wof:lastmodified":1449059630,
+    "wof:lastmodified":1454361140,
     "wof:name":"Tinder Box",
     "wof:parent_id":85857441,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "shop"
     ]
 },
-  "bbox": [-76.92583,40.228317,-76.92583,40.228317],
+  "bbox": [
+    -76.92583,
+    40.228317,
+    -76.92583,
+    40.228317
+],
   "geometry": {"coordinates":[-76.92583,40.228317],"type":"Point"}
 }

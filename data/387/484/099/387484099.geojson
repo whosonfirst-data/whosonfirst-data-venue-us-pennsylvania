@@ -2,13 +2,14 @@
   "id": 387484099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.00832,40.371574,-80.00832,40.371574",
     "geom:latitude":40.371574,
     "geom:longitude":-80.00832,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3161 Library Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85839961,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85839961
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"e87befd0aaf337abcb6ad321c5c2eb81",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85839961,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387484099,
-    "wof:lastmodified":1449059699,
+    "wof:lastmodified":1454361163,
     "wof:name":"Nora Dang Tailor Shop",
     "wof:parent_id":85839961,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "alteration"
     ]
 },
-  "bbox": [-80.00832,40.371574,-80.00832,40.371574],
+  "bbox": [
+    -80.00832,
+    40.371574,
+    -80.00832,
+    40.371574
+],
   "geometry": {"coordinates":[-80.00832,40.371574],"type":"Point"}
 }

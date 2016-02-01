@@ -2,13 +2,14 @@
   "id": 404156857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.421303,40.702301,-75.421303,40.702301",
     "geom:latitude":40.702301,
     "geom:longitude":-75.421303,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"7265 Penn Dr",
     "sg:city":"Bath",
     "sg:classifiers":[
@@ -26,8 +27,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081395,
-        85830333
+        85830333,
+        102081395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,17 +38,15 @@
     "wof:geomhash":"2c94f69129ba2c84fe2ce40541067367",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081395,
-            "locality_id":-1,
             "neighbourhood_id":85830333,
             "region_id":85688481,
             "venue_id":404156857
         }
     ],
     "wof:id":404156857,
-    "wof:lastmodified":1449039289,
+    "wof:lastmodified":1454356552,
     "wof:name":"Arc Maintenance Inc",
     "wof:parent_id":85830333,
     "wof:placetype":"venue",
@@ -55,6 +54,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.421303,40.702301,-75.421303,40.702301],
-  "geometry": {"coordinates":[-75.421303,40.702301],"type":"Point"}
+  "bbox": [
+    -75.421303,
+    40.702301,
+    -75.421303,
+    40.702301
+],
+  "geometry": {"coordinates":[-75.42130299999999,40.702301],"type":"Point"}
 }

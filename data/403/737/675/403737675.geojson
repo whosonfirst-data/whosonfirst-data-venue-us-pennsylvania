@@ -2,13 +2,14 @@
   "id": 403737675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.019302,40.246498,-77.019302,40.246498",
     "geom:latitude":40.246498,
     "geom:longitude":-77.019302,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6483 Carlisle Pike",
     "sg:city":"Mechanicsburg",
     "sg:classifiers":[
@@ -26,8 +27,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081359,
-        85826667
+        85826667,
+        102081359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,17 +38,15 @@
     "wof:geomhash":"c120bdc78a983dafb7f0f29056786917",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081359,
-            "locality_id":-1,
             "neighbourhood_id":85826667,
             "region_id":85688481,
             "venue_id":403737675
         }
     ],
     "wof:id":403737675,
-    "wof:lastmodified":1449054949,
+    "wof:lastmodified":1454357377,
     "wof:name":"Hampden Cleaners",
     "wof:parent_id":85826667,
     "wof:placetype":"venue",
@@ -55,6 +54,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.019302,40.246498,-77.019302,40.246498],
+  "bbox": [
+    -77.019302,
+    40.246498,
+    -77.019302,
+    40.246498
+],
   "geometry": {"coordinates":[-77.019302,40.246498],"type":"Point"}
 }

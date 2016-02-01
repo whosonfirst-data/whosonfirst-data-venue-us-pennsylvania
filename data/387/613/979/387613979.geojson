@@ -2,13 +2,14 @@
   "id": 387613979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.983872,39.863463,-78.983872,39.863463",
     "geom:latitude":39.863463,
     "geom:longitude":-78.983872,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"751 Old Cumberland Pike",
     "sg:city":"Meyersdale",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081361,
-        85828263
+        85828263,
+        102081361
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"8d95efcc2a14a3011204017cb7a5d31f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081361,
-            "locality_id":-1,
             "neighbourhood_id":85828263,
             "region_id":85688481,
             "venue_id":387613979
         }
     ],
     "wof:id":387613979,
-    "wof:lastmodified":1449057877,
+    "wof:lastmodified":1454360620,
     "wof:name":"Pax Terra Farms",
     "wof:parent_id":85828263,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "vegetables-wholesale"
     ]
 },
-  "bbox": [-78.983872,39.863463,-78.983872,39.863463],
-  "geometry": {"coordinates":[-78.983872,39.863463],"type":"Point"}
+  "bbox": [
+    -78.983872,
+    39.863463,
+    -78.983872,
+    39.863463
+],
+  "geometry": {"coordinates":[-78.98387200000001,39.863463],"type":"Point"}
 }

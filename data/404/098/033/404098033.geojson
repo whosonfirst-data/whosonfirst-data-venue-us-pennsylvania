@@ -2,13 +2,14 @@
   "id": 404098033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.998908,41.253827,-76.998908,41.253827",
     "geom:latitude":41.253827,
     "geom:longitude":-76.998908,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"281 Union Ave",
     "sg:city":"Williamsport",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081317,
-        85828027
+        85828027,
+        102081317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"4f0d958911623a502cde04425c284bb2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081317,
-            "locality_id":-1,
             "neighbourhood_id":85828027,
             "region_id":85688481,
             "venue_id":404098033
         }
     ],
     "wof:id":404098033,
-    "wof:lastmodified":1449040198,
+    "wof:lastmodified":1454357059,
     "wof:name":"Tony And Nancys Ballroom",
     "wof:parent_id":85828027,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "auditorium"
     ]
 },
-  "bbox": [-76.998908,41.253827,-76.998908,41.253827],
+  "bbox": [
+    -76.998908,
+    41.253827,
+    -76.998908,
+    41.253827
+],
   "geometry": {"coordinates":[-76.998908,41.253827],"type":"Point"}
 }

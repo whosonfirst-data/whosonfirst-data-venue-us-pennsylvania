@@ -2,13 +2,14 @@
   "id": 387239971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.19252,40.524121,-80.19252,40.524121",
     "geom:latitude":40.524121,
     "geom:longitude":-80.19252,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"510 Lee Dr Apt 103",
     "sg:city":"Coraopolis",
     "sg:classifiers":[
@@ -32,8 +33,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85835111
+        85835111,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +44,15 @@
     "wof:geomhash":"df98a224655445ff8f78f846644ac6e3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85835111,
             "region_id":85688481,
             "venue_id":387239971
         }
     ],
     "wof:id":387239971,
-    "wof:lastmodified":1449056476,
+    "wof:lastmodified":1454358384,
     "wof:name":"M3 Design & Graphics Inc",
     "wof:parent_id":85835111,
     "wof:placetype":"venue",
@@ -66,6 +65,11 @@
         "artist"
     ]
 },
-  "bbox": [-80.19252,40.524121,-80.19252,40.524121],
+  "bbox": [
+    -80.19252,
+    40.524121,
+    -80.19252,
+    40.524121
+],
   "geometry": {"coordinates":[-80.19252,40.524121],"type":"Point"}
 }

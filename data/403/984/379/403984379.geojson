@@ -2,13 +2,14 @@
   "id": 403984379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.231056,39.826735,-77.231056,39.826735",
     "geom:latitude":39.826735,
     "geom:longitude":-77.231056,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"312 Baltimore St Ste A",
     "sg:city":"Gettysburg",
     "sg:classifiers":[
@@ -34,8 +35,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080899,
-        85804527
+        85804527,
+        102080899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +46,15 @@
     "wof:geomhash":"2ec6d11dd88841325cff2ce2b3326e43",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080899,
-            "locality_id":-1,
             "neighbourhood_id":85804527,
             "region_id":85688481,
             "venue_id":403984379
         }
     ],
     "wof:id":403984379,
-    "wof:lastmodified":1449055390,
+    "wof:lastmodified":1454357644,
     "wof:name":"Home Front General Store",
     "wof:parent_id":85804527,
     "wof:placetype":"venue",
@@ -65,6 +64,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-77.231056,39.826735,-77.231056,39.826735],
+  "bbox": [
+    -77.231056,
+    39.826735,
+    -77.231056,
+    39.826735
+],
   "geometry": {"coordinates":[-77.231056,39.826735],"type":"Point"}
 }

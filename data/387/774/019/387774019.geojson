@@ -2,13 +2,14 @@
   "id": 387774019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.516531,40.814637,-79.516531,40.814637",
     "geom:latitude":40.814637,
     "geom:longitude":-79.516531,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"155 S Grant Ave",
     "sg:city":"Kittanning",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081371,
-        85816487
+        85816487,
+        102081371
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"22f38e12a0c9a006a2d5ef5c28dbb06a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081371,
-            "locality_id":-1,
             "neighbourhood_id":85816487,
             "region_id":85688481,
             "venue_id":387774019
         }
     ],
     "wof:id":387774019,
-    "wof:lastmodified":1449057586,
+    "wof:lastmodified":1454360522,
     "wof:name":"Lodge 137 - Kittanning",
     "wof:parent_id":85816487,
     "wof:placetype":"venue",
@@ -61,6 +60,11 @@
         "fraternal"
     ]
 },
-  "bbox": [-79.516531,40.814637,-79.516531,40.814637],
+  "bbox": [
+    -79.516531,
+    40.814637,
+    -79.516531,
+    40.814637
+],
   "geometry": {"coordinates":[-79.516531,40.814637],"type":"Point"}
 }

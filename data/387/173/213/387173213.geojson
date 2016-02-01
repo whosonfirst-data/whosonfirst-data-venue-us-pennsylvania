@@ -2,13 +2,14 @@
   "id": 387173213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.923526,40.200842,-79.923526,40.200842",
     "geom:latitude":40.200842,
     "geom:longitude":-79.923526,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"138 W Main St",
     "sg:city":"Monongahela",
     "sg:classifiers":[
@@ -33,10 +34,13 @@
     "sg:website":"www.chaneysnatural.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420539901,
+        102191575,
+        404487805,
         85633793,
         101718465,
-        102081343
+        102081343,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,20 @@
     "wof:geomhash":"5e7c697d9fb5147a9f2c24da71594f10",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081343,
+            "localadmin_id":404487805,
             "locality_id":101718465,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420539901,
             "region_id":85688481,
             "venue_id":387173213
         }
     ],
     "wof:id":387173213,
-    "wof:lastmodified":1449056832,
+    "wof:lastmodified":1454358638,
     "wof:name":"Chaney's Natural",
-    "wof:parent_id":-1,
+    "wof:parent_id":420539901,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -66,6 +71,11 @@
         "nutritionist"
     ]
 },
-  "bbox": [-79.923526,40.200842,-79.923526,40.200842],
+  "bbox": [
+    -79.923526,
+    40.200842,
+    -79.923526,
+    40.200842
+],
   "geometry": {"coordinates":[-79.923526,40.200842],"type":"Point"}
 }

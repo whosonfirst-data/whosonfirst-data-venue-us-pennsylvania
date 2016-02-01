@@ -2,13 +2,14 @@
   "id": 387440039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.982369,40.365572,-79.982369,40.365572",
     "geom:latitude":40.365572,
     "geom:longitude":-79.982369,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4127 Brownsville Rd Ste 204",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -36,11 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85857905,
+        102191575,
+        404484247,
         85633793,
         101718705,
         102080887,
-        85857905
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,9 +53,10 @@
     "wof:geomhash":"67834d49f848449abad0b01d65a8fb9d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484247,
             "locality_id":101718705,
             "neighbourhood_id":85857905,
             "region_id":85688481,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":387440039,
-    "wof:lastmodified":1449057447,
+    "wof:lastmodified":1454359133,
     "wof:name":"Total Sales & Marketing Inc",
     "wof:parent_id":85857905,
     "wof:placetype":"venue",
@@ -74,6 +78,11 @@
         "consultant"
     ]
 },
-  "bbox": [-79.982369,40.365572,-79.982369,40.365572],
-  "geometry": {"coordinates":[-79.982369,40.365572],"type":"Point"}
+  "bbox": [
+    -79.982369,
+    40.365572,
+    -79.982369,
+    40.365572
+],
+  "geometry": {"coordinates":[-79.98236900000001,40.365572],"type":"Point"}
 }

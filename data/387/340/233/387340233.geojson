@@ -2,13 +2,14 @@
   "id": 387340233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.888646,40.422583,-79.888646,40.422583",
     "geom:latitude":40.422583,
     "geom:longitude":-79.888646,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"7465 Church St",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85844235,
+        102191575,
+        404484253,
         85633793,
         101718701,
         102080887,
-        85844235
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"b0f3eded9aa0070841bad00412947813",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484253,
             "locality_id":101718701,
             "neighbourhood_id":85844235,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387340233,
-    "wof:lastmodified":1449059043,
+    "wof:lastmodified":1454360966,
     "wof:name":"Robert P Normann",
     "wof:parent_id":85844235,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "plan"
     ]
 },
-  "bbox": [-79.888646,40.422583,-79.888646,40.422583],
-  "geometry": {"coordinates":[-79.888646,40.422583],"type":"Point"}
+  "bbox": [
+    -79.888646,
+    40.422583,
+    -79.888646,
+    40.422583
+],
+  "geometry": {"coordinates":[-79.88864599999999,40.422583],"type":"Point"}
 }

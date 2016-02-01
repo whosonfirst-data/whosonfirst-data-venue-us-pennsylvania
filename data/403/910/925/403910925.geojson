@@ -2,13 +2,14 @@
   "id": 403910925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.823601,40.245899,-76.823601,40.245899",
     "geom:latitude":40.245899,
     "geom:longitude":-76.823601,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"51 S Harrisburg St",
     "sg:city":"Steelton",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85868485
+        85868485,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"4e0054602d84d37d0ef84985688b5df9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85868485,
             "region_id":85688481,
             "venue_id":403910925
         }
     ],
     "wof:id":403910925,
-    "wof:lastmodified":1449055177,
+    "wof:lastmodified":1454357516,
     "wof:name":"Churchville Cemetery Assn",
     "wof:parent_id":85868485,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "cemetery"
     ]
 },
-  "bbox": [-76.823601,40.245899,-76.823601,40.245899],
+  "bbox": [
+    -76.823601,
+    40.245899,
+    -76.823601,
+    40.245899
+],
   "geometry": {"coordinates":[-76.823601,40.245899],"type":"Point"}
 }

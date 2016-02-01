@@ -2,13 +2,14 @@
   "id": 387386461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.070971,40.391636,-80.070971,40.391636",
     "geom:latitude":40.391636,
     "geom:longitude":-80.070971,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2120 Greentree Rd, Suite Pe 9",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -45,8 +46,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85859075
+        85859075,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,17 +57,15 @@
     "wof:geomhash":"92375212a65e519b39bd4c1a69778b9b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85859075,
             "region_id":85688481,
             "venue_id":387386461
         }
     ],
     "wof:id":387386461,
-    "wof:lastmodified":1449058104,
+    "wof:lastmodified":1454360682,
     "wof:name":"Ann Barrows, PhD, LPC",
     "wof:parent_id":85859075,
     "wof:placetype":"venue",
@@ -82,6 +81,11 @@
         "counselor"
     ]
 },
-  "bbox": [-80.070971,40.391636,-80.070971,40.391636],
+  "bbox": [
+    -80.070971,
+    40.391636,
+    -80.070971,
+    40.391636
+],
   "geometry": {"coordinates":[-80.070971,40.391636],"type":"Point"}
 }

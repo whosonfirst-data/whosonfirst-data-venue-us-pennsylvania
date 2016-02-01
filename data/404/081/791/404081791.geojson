@@ -2,13 +2,14 @@
   "id": 404081791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.305351,40.100349,-76.305351,40.100349",
     "geom:latitude":40.100349,
     "geom:longitude":-76.305351,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2700 Lititz Pike",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -52,8 +53,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85806481
+        85806481,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,17 +64,15 @@
     "wof:geomhash":"723454fc9893e355b56721abcad70595",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85806481,
             "region_id":85688481,
             "venue_id":404081791
         }
     ],
     "wof:id":404081791,
-    "wof:lastmodified":1449039392,
+    "wof:lastmodified":1454356618,
     "wof:name":"Neffsville Flower Shoppe",
     "wof:parent_id":85806481,
     "wof:placetype":"venue",
@@ -90,6 +89,11 @@
         "flowers"
     ]
 },
-  "bbox": [-76.305351,40.100349,-76.305351,40.100349],
+  "bbox": [
+    -76.305351,
+    40.100349,
+    -76.305351,
+    40.100349
+],
   "geometry": {"coordinates":[-76.305351,40.100349],"type":"Point"}
 }

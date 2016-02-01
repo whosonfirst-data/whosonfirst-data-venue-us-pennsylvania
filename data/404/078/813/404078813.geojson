@@ -2,13 +2,14 @@
   "id": 404078813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.306709,40.077202,-76.306709,40.077202",
     "geom:latitude":40.077202,
     "geom:longitude":-76.306709,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"32E E Roseville Rd",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85811259
+        85811259,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"bd76e225a88df40d0a542e0992d8a700",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85811259,
             "region_id":85688481,
             "venue_id":404078813
         }
     ],
     "wof:id":404078813,
-    "wof:lastmodified":1449040131,
+    "wof:lastmodified":1454357024,
     "wof:name":"Howard Miller Assoc",
     "wof:parent_id":85811259,
     "wof:placetype":"venue",
@@ -63,6 +62,11 @@
         "specialty"
     ]
 },
-  "bbox": [-76.306709,40.077202,-76.306709,40.077202],
+  "bbox": [
+    -76.306709,
+    40.077202,
+    -76.306709,
+    40.077202
+],
   "geometry": {"coordinates":[-76.306709,40.077202],"type":"Point"}
 }

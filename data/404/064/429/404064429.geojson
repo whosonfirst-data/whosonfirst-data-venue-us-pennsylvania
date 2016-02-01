@@ -2,13 +2,14 @@
   "id": 404064429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.394449,40.1593,-76.394449,40.1593",
     "geom:latitude":40.1593,
     "geom:longitude":-76.394449,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"142 S Pitt St",
     "sg:city":"Manheim",
     "sg:classifiers":[
@@ -34,8 +35,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85836395
+        85836395,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +46,15 @@
     "wof:geomhash":"2a5f526e5e88c2bc189c12f4ca6696ce",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85836395,
             "region_id":85688481,
             "venue_id":404064429
         }
     ],
     "wof:id":404064429,
-    "wof:lastmodified":1449039448,
+    "wof:lastmodified":1454356656,
     "wof:name":"Sign Me Up",
     "wof:parent_id":85836395,
     "wof:placetype":"venue",
@@ -65,6 +64,11 @@
         "specialty"
     ]
 },
-  "bbox": [-76.394449,40.1593,-76.394449,40.1593],
-  "geometry": {"coordinates":[-76.394449,40.1593],"type":"Point"}
+  "bbox": [
+    -76.394449,
+    40.1593,
+    -76.394449,
+    40.1593
+],
+  "geometry": {"coordinates":[-76.39444899999999,40.1593],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403733969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.345383,40.365669,-77.345383,40.365669",
     "geom:latitude":40.365669,
     "geom:longitude":-77.345383,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3531 Shermans Valley Rd",
     "sg:city":"Loysville",
     "sg:classifiers":[
@@ -57,8 +58,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080963,
-        85854111
+        85854111,
+        102080963
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,17 +69,15 @@
     "wof:geomhash":"8eb88c58f723f029c3df4b1c1aac7e22",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080963,
-            "locality_id":-1,
             "neighbourhood_id":85854111,
             "region_id":85688481,
             "venue_id":403733969
         }
     ],
     "wof:id":403733969,
-    "wof:lastmodified":1449054802,
+    "wof:lastmodified":1454357294,
     "wof:name":"Ray M. Bitting Insurance Agency",
     "wof:parent_id":85854111,
     "wof:placetype":"venue",
@@ -95,6 +94,11 @@
         "casualty"
     ]
 },
-  "bbox": [-77.345383,40.365669,-77.345383,40.365669],
+  "bbox": [
+    -77.345383,
+    40.365669,
+    -77.345383,
+    40.365669
+],
   "geometry": {"coordinates":[-77.345383,40.365669],"type":"Point"}
 }

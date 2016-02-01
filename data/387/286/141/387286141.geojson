@@ -2,13 +2,14 @@
   "id": 387286141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.986801,40.427299,-79.986801,40.427299",
     "geom:latitude":40.427299,
     "geom:longitude":-79.986801,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1113 Bradish St",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85850327,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85850327
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"0c883e992f7d805e645d3a6beedc6a4e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85850327,
             "region_id":85688481,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":387286141,
-    "wof:lastmodified":1449057097,
+    "wof:lastmodified":1454358834,
     "wof:name":"Lench Michael M Catrng",
     "wof:parent_id":85850327,
     "wof:placetype":"venue",
@@ -68,6 +72,11 @@
         "caterer"
     ]
 },
-  "bbox": [-79.986801,40.427299,-79.986801,40.427299],
+  "bbox": [
+    -79.986801,
+    40.427299,
+    -79.986801,
+    40.427299
+],
   "geometry": {"coordinates":[-79.986801,40.427299],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387844305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.986404,42.154002,-79.986404,42.154002",
     "geom:latitude":42.154002,
     "geom:longitude":-79.986404,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5083 Buffalo Rd",
     "sg:city":"Erie",
     "sg:classifiers":[
@@ -25,11 +26,13 @@
     "sg:website":"http://statefarm.mqgroup.com/url.asp?usr=383159",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85807963,
+        102191575,
+        404486683,
         85633793,
         101720203,
         102080955,
-        85807963
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +42,10 @@
     "wof:geomhash":"c1c57fd98762cee899e0425ed73bed9a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080955,
+            "localadmin_id":404486683,
             "locality_id":101720203,
             "neighbourhood_id":85807963,
             "region_id":85688481,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":387844305,
-    "wof:lastmodified":1449057728,
+    "wof:lastmodified":1454360575,
     "wof:name":"State Farm Insurance Agent-Vince Ragosta",
     "wof:parent_id":85807963,
     "wof:placetype":"venue",
@@ -57,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.986404,42.154002,-79.986404,42.154002],
-  "geometry": {"coordinates":[-79.986404,42.154002],"type":"Point"}
+  "bbox": [
+    -79.986404,
+    42.154002,
+    -79.986404,
+    42.154002
+],
+  "geometry": {"coordinates":[-79.98640399999999,42.154002],"type":"Point"}
 }

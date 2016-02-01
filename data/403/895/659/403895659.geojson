@@ -2,13 +2,14 @@
   "id": 403895659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.832298,40.2542,-76.832298,40.2542",
     "geom:latitude":40.2542,
     "geom:longitude":-76.832298,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3314 Paxton St Apt C1",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85868485
+        85868485,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"971cbf7193c6e3d8a1765b1821d26ae6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85868485,
             "region_id":85688481,
             "venue_id":403895659
         }
     ],
     "wof:id":403895659,
-    "wof:lastmodified":1449055197,
+    "wof:lastmodified":1454357526,
     "wof:name":"Presidential Halls Apartments Rental Office",
     "wof:parent_id":85868485,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "apartment"
     ]
 },
-  "bbox": [-76.832298,40.2542,-76.832298,40.2542],
-  "geometry": {"coordinates":[-76.832298,40.2542],"type":"Point"}
+  "bbox": [
+    -76.832298,
+    40.2542,
+    -76.832298,
+    40.2542
+],
+  "geometry": {"coordinates":[-76.83229799999999,40.2542],"type":"Point"}
 }

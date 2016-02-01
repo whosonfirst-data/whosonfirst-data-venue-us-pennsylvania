@@ -2,13 +2,14 @@
   "id": 404087647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.299803,40.049666,-76.299803,40.049666",
     "geom:latitude":40.049666,
     "geom:longitude":-76.299803,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"353 E New St",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85846173,
+        102191575,
+        404487183,
         85633793,
         101718643,
         102081377,
-        85846173
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"e2fab376d1441ec30219f8b2ab97946c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081377,
+            "localadmin_id":404487183,
             "locality_id":101718643,
             "neighbourhood_id":85846173,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":404087647,
-    "wof:lastmodified":1449039567,
+    "wof:lastmodified":1454356718,
     "wof:name":"The May Group",
     "wof:parent_id":85846173,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "business"
     ]
 },
-  "bbox": [-76.299803,40.049666,-76.299803,40.049666],
+  "bbox": [
+    -76.299803,
+    40.049666,
+    -76.299803,
+    40.049666
+],
   "geometry": {"coordinates":[-76.299803,40.049666],"type":"Point"}
 }

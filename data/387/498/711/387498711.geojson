@@ -2,13 +2,14 @@
   "id": 387498711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.018557,40.548643,-80.018557,40.548643",
     "geom:latitude":40.548643,
     "geom:longitude":-80.018557,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"7903 Mcknight Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -42,8 +43,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85828195
+        85828195,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,17 +54,15 @@
     "wof:geomhash":"3d885e37aa68872bf40dc3c3d25a26fa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85828195,
             "region_id":85688481,
             "venue_id":387498711
         }
     ],
     "wof:id":387498711,
-    "wof:lastmodified":1449058990,
+    "wof:lastmodified":1454360950,
     "wof:name":"CORT Furniture Rental and Clearance Center",
     "wof:parent_id":85828195,
     "wof:placetype":"venue",
@@ -75,6 +74,11 @@
         "equipment-renting"
     ]
 },
-  "bbox": [-80.018557,40.548643,-80.018557,40.548643],
+  "bbox": [
+    -80.018557,
+    40.548643,
+    -80.018557,
+    40.548643
+],
   "geometry": {"coordinates":[-80.018557,40.548643],"type":"Point"}
 }

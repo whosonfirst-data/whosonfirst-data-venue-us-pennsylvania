@@ -2,13 +2,14 @@
   "id": 387704969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.914291,40.818481,-79.914291,40.818481",
     "geom:latitude":40.818481,
     "geom:longitude":-79.914291,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"103 Crossland Rd",
     "sg:city":"Butler",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102083677,
-        85833131
+        85833131,
+        102083677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"bef11aacf1706a44924d27b42d45de17",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102083677,
-            "locality_id":-1,
             "neighbourhood_id":85833131,
             "region_id":85688481,
             "venue_id":387704969
         }
     ],
     "wof:id":387704969,
-    "wof:lastmodified":1449057094,
+    "wof:lastmodified":1454358832,
     "wof:name":"Blue Horizon Development",
     "wof:parent_id":85833131,
     "wof:placetype":"venue",
@@ -64,6 +63,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.914291,40.818481,-79.914291,40.818481],
-  "geometry": {"coordinates":[-79.914291,40.818481],"type":"Point"}
+  "bbox": [
+    -79.914291,
+    40.818481,
+    -79.914291,
+    40.818481
+],
+  "geometry": {"coordinates":[-79.91429100000001,40.818481],"type":"Point"}
 }

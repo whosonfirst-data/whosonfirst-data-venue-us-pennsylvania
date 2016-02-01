@@ -2,13 +2,14 @@
   "id": 404097459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.009583,41.25029,-77.009583,41.25029",
     "geom:latitude":41.25029,
     "geom:longitude":-77.009583,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"400 Glenwood Ave Fl 1",
     "sg:city":"Williamsport",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85802799,
+        102191575,
+        404485355,
         85633793,
-        101716811,
+        101716809,
         102081317,
-        85802799
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +41,18 @@
     "wof:geomhash":"8b1d2d4c086a22cec20d7a8ade16865c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081317,
-            "locality_id":101716811,
+            "localadmin_id":404485355,
+            "locality_id":101716809,
             "neighbourhood_id":85802799,
             "region_id":85688481,
             "venue_id":404097459
         }
     ],
     "wof:id":404097459,
-    "wof:lastmodified":1449039505,
+    "wof:lastmodified":1454356684,
     "wof:name":"Garys Hair Designs",
     "wof:parent_id":85802799,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.009583,41.25029,-77.009583,41.25029],
-  "geometry": {"coordinates":[-77.009583,41.25029],"type":"Point"}
+  "bbox": [
+    -77.009583,
+    41.25029,
+    -77.009583,
+    41.25029
+],
+  "geometry": {"coordinates":[-77.00958300000001,41.25029],"type":"Point"}
 }

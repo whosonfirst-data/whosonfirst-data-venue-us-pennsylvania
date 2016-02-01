@@ -2,13 +2,14 @@
   "id": 387770847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.35922,40.832458,-80.35922,40.832458",
     "geom:latitude":40.832458,
     "geom:longitude":-80.35922,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"409 Careywood Rd",
     "sg:city":"Wampum",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85842905,
+        102191575,
+        404484367,
         85633793,
-        101716719,
-        102080929,
-        85842905
+        101718397,
+        102081323,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +51,18 @@
     "wof:geomhash":"65da951db54dab8d171a8599190561f6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102080929,
-            "locality_id":101716719,
+            "county_id":102081323,
+            "localadmin_id":404484367,
+            "locality_id":101718397,
             "neighbourhood_id":85842905,
             "region_id":85688481,
             "venue_id":387770847
         }
     ],
     "wof:id":387770847,
-    "wof:lastmodified":1449059992,
+    "wof:lastmodified":1454361254,
     "wof:name":"Clearvue Photography",
     "wof:parent_id":85842905,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "wedding"
     ]
 },
-  "bbox": [-80.35922,40.832458,-80.35922,40.832458],
-  "geometry": {"coordinates":[-80.35922,40.832458],"type":"Point"}
+  "bbox": [
+    -80.35922,
+    40.832458,
+    -80.35922,
+    40.832458
+],
+  "geometry": {"coordinates":[-80.35921999999999,40.832458],"type":"Point"}
 }

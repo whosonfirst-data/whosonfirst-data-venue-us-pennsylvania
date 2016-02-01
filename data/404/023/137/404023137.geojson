@@ -2,13 +2,14 @@
   "id": 404023137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.695576,39.934431,-76.695576,39.934431",
     "geom:latitude":39.934431,
     "geom:longitude":-76.695576,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"397 Tyler Run Rd",
     "sg:city":"York",
     "sg:classifiers":[
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420540339,
+        102191575,
+        404488031,
         85633793,
         101719457,
-        102080953
+        102080953,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +49,20 @@
     "wof:geomhash":"36f3f3e70d2834427cc347e4c2f981f1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080953,
+            "localadmin_id":404488031,
             "locality_id":101719457,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420540339,
             "region_id":85688481,
             "venue_id":404023137
         }
     ],
     "wof:id":404023137,
-    "wof:lastmodified":1449040219,
+    "wof:lastmodified":1454357069,
     "wof:name":"Aldersgate United Methodist Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":420540339,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -65,6 +70,11 @@
         "churches-methodist"
     ]
 },
-  "bbox": [-76.695576,39.934431,-76.695576,39.934431],
+  "bbox": [
+    -76.695576,
+    39.934431,
+    -76.695576,
+    39.934431
+],
   "geometry": {"coordinates":[-76.695576,39.934431],"type":"Point"}
 }

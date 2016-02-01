@@ -2,13 +2,14 @@
   "id": 387773663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.51939,40.815665,-79.51939,40.815665",
     "geom:latitude":40.815665,
     "geom:longitude":-79.51939,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"158 N Mckean St",
     "sg:city":"Kittanning",
     "sg:classifiers":[
@@ -45,8 +46,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081371,
-        85816487
+        85816487,
+        102081371
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,17 +57,15 @@
     "wof:geomhash":"ab312ec2d37f2b9cde8a65d7acdc3848",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081371,
-            "locality_id":-1,
             "neighbourhood_id":85816487,
             "region_id":85688481,
             "venue_id":387773663
         }
     ],
     "wof:id":387773663,
-    "wof:lastmodified":1449056589,
+    "wof:lastmodified":1454358465,
     "wof:name":"The Printing Co",
     "wof:parent_id":85816487,
     "wof:placetype":"venue",
@@ -82,6 +81,11 @@
         "plotting"
     ]
 },
-  "bbox": [-79.51939,40.815665,-79.51939,40.815665],
+  "bbox": [
+    -79.51939,
+    40.815665,
+    -79.51939,
+    40.815665
+],
   "geometry": {"coordinates":[-79.51939,40.815665],"type":"Point"}
 }

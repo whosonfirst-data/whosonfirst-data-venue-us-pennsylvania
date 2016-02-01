@@ -2,13 +2,14 @@
   "id": 403988047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.951672,39.822436,-76.951672,39.822436",
     "geom:latitude":39.822436,
     "geom:longitude":-76.951672,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"515 Gitts Run Rd",
     "sg:city":"Hanover",
     "sg:classifiers":[
@@ -32,8 +33,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080953,
-        85806445
+        85806445,
+        102080953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +44,15 @@
     "wof:geomhash":"b091d1be8c0d124f0c9acace6dd6b651",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
             "neighbourhood_id":85806445,
             "region_id":85688481,
             "venue_id":403988047
         }
     ],
     "wof:id":403988047,
-    "wof:lastmodified":1449055087,
+    "wof:lastmodified":1454357461,
     "wof:name":"Gitts Run Mini Storage",
     "wof:parent_id":85806445,
     "wof:placetype":"venue",
@@ -66,6 +65,11 @@
         "boat"
     ]
 },
-  "bbox": [-76.951672,39.822436,-76.951672,39.822436],
+  "bbox": [
+    -76.951672,
+    39.822436,
+    -76.951672,
+    39.822436
+],
   "geometry": {"coordinates":[-76.951672,39.822436],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403789709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.177201,40.467138,-77.177201,40.467138",
     "geom:latitude":40.467138,
     "geom:longitude":-77.177201,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2618 Middle Ridge Rd",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -37,8 +38,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080963,
-        85827701
+        85827701,
+        102080963
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +49,15 @@
     "wof:geomhash":"0ef2f72085d5eff0d9eef61f52594b18",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080963,
-            "locality_id":-1,
             "neighbourhood_id":85827701,
             "region_id":85688481,
             "venue_id":403789709
         }
     ],
     "wof:id":403789709,
-    "wof:lastmodified":1449055232,
+    "wof:lastmodified":1454357550,
     "wof:name":"Rosenblu Vacations",
     "wof:parent_id":85827701,
     "wof:placetype":"venue",
@@ -70,6 +69,11 @@
         "steamship"
     ]
 },
-  "bbox": [-77.177201,40.467138,-77.177201,40.467138],
+  "bbox": [
+    -77.177201,
+    40.467138,
+    -77.177201,
+    40.467138
+],
   "geometry": {"coordinates":[-77.177201,40.467138],"type":"Point"}
 }

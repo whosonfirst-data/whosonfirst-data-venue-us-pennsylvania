@@ -2,13 +2,14 @@
   "id": 404073651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.19482,39.98934,-76.19482,39.98934",
     "geom:latitude":39.98934,
     "geom:longitude":-76.19482,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"950 Strasburg Pike",
     "sg:city":"Strasburg",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85868585
+        85868585,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"b1cda54b17564d5a678ea8d9df9fed8f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85868585,
             "region_id":85688481,
             "venue_id":404073651
         }
     ],
     "wof:id":404073651,
-    "wof:lastmodified":1449039174,
+    "wof:lastmodified":1454356496,
     "wof:name":"Tecks And Sheds",
     "wof:parent_id":85868585,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "patio"
     ]
 },
-  "bbox": [-76.19482,39.98934,-76.19482,39.98934],
-  "geometry": {"coordinates":[-76.19482,39.98934],"type":"Point"}
+  "bbox": [
+    -76.19482,
+    39.98934,
+    -76.19482,
+    39.98934
+],
+  "geometry": {"coordinates":[-76.19482000000001,39.98934],"type":"Point"}
 }

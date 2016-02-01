@@ -2,13 +2,14 @@
   "id": 387497743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.996061,40.516785,-79.996061,40.516785",
     "geom:latitude":40.516785,
     "geom:longitude":-79.996061,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"113 Radcliff Dr",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85818343
+        85818343,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"e2b89078eb6a3e6862540ffdf10f1cbf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85818343,
             "region_id":85688481,
             "venue_id":387497743
         }
     ],
     "wof:id":387497743,
-    "wof:lastmodified":1449059869,
+    "wof:lastmodified":1454361215,
     "wof:name":"Amy K Wagner",
     "wof:parent_id":85818343,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "employer"
     ]
 },
-  "bbox": [-79.996061,40.516785,-79.996061,40.516785],
+  "bbox": [
+    -79.996061,
+    40.516785,
+    -79.996061,
+    40.516785
+],
   "geometry": {"coordinates":[-79.996061,40.516785],"type":"Point"}
 }

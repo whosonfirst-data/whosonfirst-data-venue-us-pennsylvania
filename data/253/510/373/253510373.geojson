@@ -2,13 +2,14 @@
   "id": 253510373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.496912,41.22238,-80.496912,41.22238",
     "geom:latitude":41.22238,
     "geom:longitude":-80.496912,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"833 Cedar Ave",
     "sg:city":"Sharon",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"OH",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420539011,
+        102191575,
+        404487969,
         85633793,
-        101718093,
-        102080965
+        101718115,
+        102080965,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"fb4fbcd3aec9c5e44ffb6f3cdab59a99",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080965,
-            "locality_id":101718093,
-            "neighbourhood_id":-1,
+            "localadmin_id":404487969,
+            "locality_id":101718115,
+            "neighbourhood_id":420539011,
             "region_id":85688481,
             "venue_id":253510373
         }
     ],
     "wof:id":253510373,
-    "wof:lastmodified":1449064583,
+    "wof:lastmodified":1454361270,
     "wof:name":"First Catholic Slovak Ladies",
-    "wof:parent_id":-1,
+    "wof:parent_id":420539011,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.496912,41.22238,-80.496912,41.22238],
-  "geometry": {"coordinates":[-80.496912,41.22238],"type":"Point"}
+  "bbox": [
+    -80.496912,
+    41.22238,
+    -80.496912,
+    41.22238
+],
+  "geometry": {"coordinates":[-80.49691199999999,41.22238],"type":"Point"}
 }

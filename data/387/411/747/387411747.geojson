@@ -2,13 +2,14 @@
   "id": 387411747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.986694,40.450244,-79.986694,40.450244",
     "geom:latitude":40.450244,
     "geom:longitude":-79.986694,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1700 Smallman St",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85851271,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85851271
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"8ff0cf01c1381806a87dac4ec7a3c42f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85851271,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387411747,
-    "wof:lastmodified":1449056294,
+    "wof:lastmodified":1454358230,
     "wof:name":"Mahla Office Furniture",
     "wof:parent_id":85851271,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "store"
     ]
 },
-  "bbox": [-79.986694,40.450244,-79.986694,40.450244],
+  "bbox": [
+    -79.986694,
+    40.450244,
+    -79.986694,
+    40.450244
+],
   "geometry": {"coordinates":[-79.986694,40.450244],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387503857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.003173,40.501534,-80.003173,40.501534",
     "geom:latitude":40.501534,
     "geom:longitude":-80.003173,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4501 Peoples Rd Ste 209",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85827181
+        85827181,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"d65c263eeaea721c8fbb4a4af25364fe",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85827181,
             "region_id":85688481,
             "venue_id":387503857
         }
     ],
     "wof:id":387503857,
-    "wof:lastmodified":1449059930,
+    "wof:lastmodified":1454361236,
     "wof:name":"Julco Productions",
     "wof:parent_id":85827181,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "consultant"
     ]
 },
-  "bbox": [-80.003173,40.501534,-80.003173,40.501534],
+  "bbox": [
+    -80.003173,
+    40.501534,
+    -80.003173,
+    40.501534
+],
   "geometry": {"coordinates":[-80.003173,40.501534],"type":"Point"}
 }

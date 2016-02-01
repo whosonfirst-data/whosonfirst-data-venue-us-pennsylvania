@@ -2,13 +2,14 @@
   "id": 387705703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.88559,40.768622,-79.88559,40.768622",
     "geom:latitude":40.768622,
     "geom:longitude":-79.88559,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"163 Morgan Rd",
     "sg:city":"Butler",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102083677,
-        85845445
+        85845445,
+        102083677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"af15151a76ff8fc0bf959ef1c5555f4b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102083677,
-            "locality_id":-1,
             "neighbourhood_id":85845445,
             "region_id":85688481,
             "venue_id":387705703
         }
     ],
     "wof:id":387705703,
-    "wof:lastmodified":1449059940,
+    "wof:lastmodified":1454361239,
     "wof:name":"Nacsse",
     "wof:parent_id":85845445,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "educational"
     ]
 },
-  "bbox": [-79.88559,40.768622,-79.88559,40.768622],
-  "geometry": {"coordinates":[-79.88559,40.768622],"type":"Point"}
+  "bbox": [
+    -79.88559,
+    40.768622,
+    -79.88559,
+    40.768622
+],
+  "geometry": {"coordinates":[-79.88558999999999,40.768622],"type":"Point"}
 }

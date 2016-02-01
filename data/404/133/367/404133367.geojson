@@ -2,13 +2,14 @@
   "id": 404133367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.045965,40.918475,-77.045965,40.918475",
     "geom:latitude":40.918475,
     "geom:longitude":-77.045965,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"304 Chestnut St",
     "sg:city":"Mifflinburg",
     "sg:classifiers":[
@@ -43,7 +44,6 @@
     "wof:geomhash":"2a9521f1df28ec5c37681ff0075a69a2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081335,
             "locality_id":101717293,
@@ -53,7 +53,7 @@
         }
     ],
     "wof:id":404133367,
-    "wof:lastmodified":1449040096,
+    "wof:lastmodified":1454357003,
     "wof:name":"National Auction Supply House",
     "wof:parent_id":85827561,
     "wof:placetype":"venue",
@@ -64,6 +64,11 @@
         "auctioneer"
     ]
 },
-  "bbox": [-77.045965,40.918475,-77.045965,40.918475],
+  "bbox": [
+    -77.045965,
+    40.918475,
+    -77.045965,
+    40.918475
+],
   "geometry": {"coordinates":[-77.045965,40.918475],"type":"Point"}
 }

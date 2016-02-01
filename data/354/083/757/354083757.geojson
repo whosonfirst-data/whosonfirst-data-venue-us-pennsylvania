@@ -2,13 +2,14 @@
   "id": 354083757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.917424,39.698662,-75.917424,39.698662",
     "geom:latitude":39.698662,
     "geom:longitude":-75.917424,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3341 Telegraph Rd",
     "sg:city":"Elkton",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081275,
-        85810983
+        85810983,
+        102081275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"e6b3da3a6b131fbe5cbeae72b6cd581d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081275,
-            "locality_id":-1,
             "neighbourhood_id":85810983,
             "region_id":85688481,
             "venue_id":354083757
         }
     ],
     "wof:id":354083757,
-    "wof:lastmodified":1449066728,
+    "wof:lastmodified":1454361271,
     "wof:name":"Mvp Builders",
     "wof:parent_id":85810983,
     "wof:placetype":"venue",
@@ -64,6 +63,11 @@
         "contractor"
     ]
 },
-  "bbox": [-75.917424,39.698662,-75.917424,39.698662],
+  "bbox": [
+    -75.917424,
+    39.698662,
+    -75.917424,
+    39.698662
+],
   "geometry": {"coordinates":[-75.917424,39.698662],"type":"Point"}
 }

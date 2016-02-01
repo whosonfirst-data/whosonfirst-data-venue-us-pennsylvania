@@ -2,13 +2,14 @@
   "id": 387493179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.005159,40.52095,-80.005159,40.52095",
     "geom:latitude":40.52095,
     "geom:longitude":-80.005159,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4771 Mcknight Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -65,8 +66,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85805835
+        85805835,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,17 +77,15 @@
     "wof:geomhash":"b4220eb262348983e8d79727e03ce47b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85805835,
             "region_id":85688481,
             "venue_id":387493179
         }
     ],
     "wof:id":387493179,
-    "wof:lastmodified":1449057308,
+    "wof:lastmodified":1454359005,
     "wof:name":"FedEx Office Print & Ship Center",
     "wof:parent_id":85805835,
     "wof:placetype":"venue",
@@ -106,6 +105,11 @@
         "copy"
     ]
 },
-  "bbox": [-80.005159,40.52095,-80.005159,40.52095],
-  "geometry": {"coordinates":[-80.005159,40.52095],"type":"Point"}
+  "bbox": [
+    -80.005159,
+    40.52095,
+    -80.005159,
+    40.52095
+],
+  "geometry": {"coordinates":[-80.00515900000001,40.52095],"type":"Point"}
 }

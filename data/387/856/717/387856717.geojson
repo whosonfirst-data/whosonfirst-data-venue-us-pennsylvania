@@ -2,13 +2,14 @@
   "id": 387856717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.448572,40.311263,-78.448572,40.311263",
     "geom:latitude":40.311263,
     "geom:longitude":-78.448572,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"137 Sycamore Ln",
     "sg:city":"Claysburg",
     "sg:classifiers":[
@@ -34,7 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420536683,
+        102191575,
+        404484709,
         85633793,
+        101718893,
+        102081325,
         85688481
     ],
     "wof:breaches":[],
@@ -45,18 +51,20 @@
     "wof:geomhash":"6395cd4b0e55688bc6e1cf2b7d156174",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081325,
+            "localadmin_id":404484709,
+            "locality_id":101718893,
+            "neighbourhood_id":420536683,
             "region_id":85688481,
             "venue_id":387856717
         }
     ],
     "wof:id":387856717,
-    "wof:lastmodified":1449057173,
+    "wof:lastmodified":1454358904,
     "wof:name":"Nelson's Homes of Claysburg In",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536683,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -66,6 +74,11 @@
         "contractor"
     ]
 },
-  "bbox": [-78.448572,40.311263,-78.448572,40.311263],
+  "bbox": [
+    -78.448572,
+    40.311263,
+    -78.448572,
+    40.311263
+],
   "geometry": {"coordinates":[-78.448572,40.311263],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387431941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.074397,40.469195,-80.074397,40.469195",
     "geom:latitude":40.469195,
     "geom:longitude":-80.074397,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"55 Ann St",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85810503,
+        102191575,
+        404482511,
         85633793,
-        101718805,
+        101718845,
         102080887,
-        85810503
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"92ad61f0d7299205ffa8debf45e0d385",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":101718805,
+            "localadmin_id":404482511,
+            "locality_id":101718845,
             "neighbourhood_id":85810503,
             "region_id":85688481,
             "venue_id":387431941
         }
     ],
     "wof:id":387431941,
-    "wof:lastmodified":1449056617,
+    "wof:lastmodified":1454358490,
     "wof:name":"Tobacco Beer Outlet",
     "wof:parent_id":85810503,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "wine"
     ]
 },
-  "bbox": [-80.074397,40.469195,-80.074397,40.469195],
+  "bbox": [
+    -80.074397,
+    40.469195,
+    -80.074397,
+    40.469195
+],
   "geometry": {"coordinates":[-80.074397,40.469195],"type":"Point"}
 }

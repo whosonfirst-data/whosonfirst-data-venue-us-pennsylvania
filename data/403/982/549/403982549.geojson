@@ -2,13 +2,14 @@
   "id": 403982549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.257704,39.766256,-77.257704,39.766256",
     "geom:latitude":39.766256,
     "geom:longitude":-77.257704,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"609 Ridge Rd",
     "sg:city":"Gettysburg",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080899,
-        85847703
+        85847703,
+        102080899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"82fe3a43576fc4a77f7763575c993daf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080899,
-            "locality_id":-1,
             "neighbourhood_id":85847703,
             "region_id":85688481,
             "venue_id":403982549
         }
     ],
     "wof:id":403982549,
-    "wof:lastmodified":1449054862,
+    "wof:lastmodified":1454357329,
     "wof:name":"Jeffrey Allen Koenig",
     "wof:parent_id":85847703,
     "wof:placetype":"venue",
@@ -64,6 +63,11 @@
         "darkroom"
     ]
 },
-  "bbox": [-77.257704,39.766256,-77.257704,39.766256],
+  "bbox": [
+    -77.257704,
+    39.766256,
+    -77.257704,
+    39.766256
+],
   "geometry": {"coordinates":[-77.257704,39.766256],"type":"Point"}
 }

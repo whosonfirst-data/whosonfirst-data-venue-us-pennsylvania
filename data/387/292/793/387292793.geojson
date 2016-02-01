@@ -2,13 +2,14 @@
   "id": 387292793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.130804,40.431852,-80.130804,40.431852",
     "geom:latitude":40.431852,
     "geom:longitude":-80.130804,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"401 Parkway View Dr",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85821263
+        85821263,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"305948d4eb44c22b3929e97b46d7e339",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85821263,
             "region_id":85688481,
             "venue_id":387292793
         }
     ],
     "wof:id":387292793,
-    "wof:lastmodified":1449056426,
+    "wof:lastmodified":1454358343,
     "wof:name":"Henderson Fluid Power Company",
     "wof:parent_id":85821263,
     "wof:placetype":"venue",
@@ -66,6 +65,11 @@
         "equipment-testing"
     ]
 },
-  "bbox": [-80.130804,40.431852,-80.130804,40.431852],
+  "bbox": [
+    -80.130804,
+    40.431852,
+    -80.130804,
+    40.431852
+],
   "geometry": {"coordinates":[-80.130804,40.431852],"type":"Point"}
 }

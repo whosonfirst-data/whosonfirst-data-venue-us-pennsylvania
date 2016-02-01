@@ -2,13 +2,14 @@
   "id": 387364479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.997101,40.429901,-79.997101,40.429901",
     "geom:latitude":40.429901,
     "geom:longitude":-79.997101,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"16 Terminal Way",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85853291,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85853291
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"5298915bfe3f6c32ac0eb76fbf6edae5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85853291,
             "region_id":85688481,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":387364479,
-    "wof:lastmodified":1449058244,
+    "wof:lastmodified":1454360720,
     "wof:name":"Giglio Harry Photographer",
     "wof:parent_id":85853291,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "store"
     ]
 },
-  "bbox": [-79.997101,40.429901,-79.997101,40.429901],
+  "bbox": [
+    -79.997101,
+    40.429901,
+    -79.997101,
+    40.429901
+],
   "geometry": {"coordinates":[-79.997101,40.429901],"type":"Point"}
 }

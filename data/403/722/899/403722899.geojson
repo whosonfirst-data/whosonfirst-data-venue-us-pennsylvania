@@ -2,13 +2,14 @@
   "id": 403722899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.903572,40.243301,-76.903572,40.243301",
     "geom:latitude":40.243301,
     "geom:longitude":-76.903572,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"900 Market St",
     "sg:city":"Lemoyne",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85820057,
+        102191575,
+        404483155,
         85633793,
         101716771,
         102081359,
-        85820057
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"d6ac8bcedaa5b30799304d57d426bcf9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081359,
+            "localadmin_id":404483155,
             "locality_id":101716771,
             "neighbourhood_id":85820057,
             "region_id":85688481,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":403722899,
-    "wof:lastmodified":1449055096,
+    "wof:lastmodified":1454357469,
     "wof:name":"Health Food Center",
     "wof:parent_id":85820057,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "diet"
     ]
 },
-  "bbox": [-76.903572,40.243301,-76.903572,40.243301],
+  "bbox": [
+    -76.903572,
+    40.243301,
+    -76.903572,
+    40.243301
+],
   "geometry": {"coordinates":[-76.903572,40.243301],"type":"Point"}
 }

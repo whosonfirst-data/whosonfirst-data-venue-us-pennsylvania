@@ -2,13 +2,14 @@
   "id": 387325129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.958062,40.442061,-79.958062,40.442061",
     "geom:latitude":40.442061,
     "geom:longitude":-79.958062,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3705 5th Ave Ste 7469",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85838975,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85838975
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"868d15fc8fd815dbc639752c17d10f18",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85838975,
             "region_id":85688481,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":387325129,
-    "wof:lastmodified":1449057604,
+    "wof:lastmodified":1454360527,
     "wof:name":"Brozanski, Beverly, Md - Children's Hospital-Pittsburgh",
     "wof:parent_id":85838975,
     "wof:placetype":"venue",
@@ -73,6 +77,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-79.958062,40.442061,-79.958062,40.442061],
+  "bbox": [
+    -79.958062,
+    40.442061,
+    -79.958062,
+    40.442061
+],
   "geometry": {"coordinates":[-79.958062,40.442061],"type":"Point"}
 }

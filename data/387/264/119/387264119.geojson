@@ -2,13 +2,14 @@
   "id": 387264119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.058899,40.464901,-80.058899,40.464901",
     "geom:latitude":40.464901,
     "geom:longitude":-80.058899,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"312 Thompson Ave",
     "sg:city":"Mc Kees Rocks",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85818229,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85818229
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"9d0e14985612df00cc6461bb349156af",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85818229,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387264119,
-    "wof:lastmodified":1449058582,
+    "wof:lastmodified":1454360818,
     "wof:name":"Smart Print Technologies",
     "wof:parent_id":85818229,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "repair"
     ]
 },
-  "bbox": [-80.058899,40.464901,-80.058899,40.464901],
+  "bbox": [
+    -80.058899,
+    40.464901,
+    -80.058899,
+    40.464901
+],
   "geometry": {"coordinates":[-80.058899,40.464901],"type":"Point"}
 }

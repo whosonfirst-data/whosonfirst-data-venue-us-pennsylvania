@@ -2,13 +2,14 @@
   "id": 387853303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.384046,40.508628,-78.384046,40.508628",
     "geom:latitude":40.508628,
     "geom:longitude":-78.384046,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"912 Pleasant Valley Blvd # 2",
     "sg:city":"Altoona",
     "sg:classifiers":[
@@ -24,7 +25,12 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85842329,
+        102191575,
+        404484619,
         85633793,
+        101716595,
+        102081325,
         85688481
     ],
     "wof:breaches":[],
@@ -35,23 +41,30 @@
     "wof:geomhash":"5fd8c1185a2922af778b8fda7158f3d0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081325,
+            "localadmin_id":404484619,
+            "locality_id":101716595,
+            "neighbourhood_id":85842329,
             "region_id":85688481,
             "venue_id":387853303
         }
     ],
     "wof:id":387853303,
-    "wof:lastmodified":1449057642,
+    "wof:lastmodified":1454360539,
     "wof:name":"Thomas, Stetter",
-    "wof:parent_id":-1,
+    "wof:parent_id":85842329,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.384046,40.508628,-78.384046,40.508628],
+  "bbox": [
+    -78.384046,
+    40.508628,
+    -78.384046,
+    40.508628
+],
   "geometry": {"coordinates":[-78.384046,40.508628],"type":"Point"}
 }

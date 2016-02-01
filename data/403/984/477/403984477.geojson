@@ -2,13 +2,14 @@
   "id": 403984477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.197861,39.81752,-77.197861,39.81752",
     "geom:latitude":39.81752,
     "geom:longitude":-77.197861,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1270 Highland Avenue Rd",
     "sg:city":"Gettysburg",
     "sg:classifiers":[
@@ -39,8 +40,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080899,
-        85846225
+        85846225,
+        102080899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,17 +51,15 @@
     "wof:geomhash":"5813497d8d0af5d6d3b505b1c3af06cb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080899,
-            "locality_id":-1,
             "neighbourhood_id":85846225,
             "region_id":85688481,
             "venue_id":403984477
         }
     ],
     "wof:id":403984477,
-    "wof:lastmodified":1449055384,
+    "wof:lastmodified":1454357643,
     "wof:name":"Kingdom Hall Jehovahs Witnesses",
     "wof:parent_id":85846225,
     "wof:placetype":"venue",
@@ -74,6 +73,11 @@
         "witness"
     ]
 },
-  "bbox": [-77.197861,39.81752,-77.197861,39.81752],
+  "bbox": [
+    -77.197861,
+    39.81752,
+    -77.197861,
+    39.81752
+],
   "geometry": {"coordinates":[-77.197861,39.81752],"type":"Point"}
 }

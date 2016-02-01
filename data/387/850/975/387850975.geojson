@@ -2,13 +2,14 @@
   "id": 387850975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.403099,40.483559,-78.403099,40.483559",
     "geom:latitude":40.483559,
     "geom:longitude":-78.403099,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"301 Union Ave",
     "sg:city":"Altoona",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85849385,
+        102191575,
+        404484619,
         85633793,
         101716595,
         102081325,
-        85849385
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"9d4ae790f54fb938c76e9929481ebb1c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081325,
+            "localadmin_id":404484619,
             "locality_id":101716595,
             "neighbourhood_id":85849385,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387850975,
-    "wof:lastmodified":1449058308,
+    "wof:lastmodified":1454360741,
     "wof:name":"The Tax Shelter",
     "wof:parent_id":85849385,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "preparation-business"
     ]
 },
-  "bbox": [-78.403099,40.483559,-78.403099,40.483559],
+  "bbox": [
+    -78.403099,
+    40.483559,
+    -78.403099,
+    40.483559
+],
   "geometry": {"coordinates":[-78.403099,40.483559],"type":"Point"}
 }

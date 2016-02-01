@@ -2,13 +2,14 @@
   "id": 387660679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.794123,40.648545,-78.794123,40.648545",
     "geom:latitude":40.648545,
     "geom:longitude":-78.794123,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"273 Freidhof Ln",
     "sg:city":"Nicktown",
     "sg:classifiers":[
@@ -27,7 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420537019,
+        102191575,
+        404482913,
         85633793,
+        101717821,
+        102080879,
         85688481
     ],
     "wof:breaches":[],
@@ -38,18 +44,20 @@
     "wof:geomhash":"389417a9758b7fa3ae23d64a09863a65",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102080879,
+            "localadmin_id":404482913,
+            "locality_id":101717821,
+            "neighbourhood_id":420537019,
             "region_id":85688481,
             "venue_id":387660679
         }
     ],
     "wof:id":387660679,
-    "wof:lastmodified":1449059521,
+    "wof:lastmodified":1454361107,
     "wof:name":"Freidhof Farms",
-    "wof:parent_id":-1,
+    "wof:parent_id":420537019,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +65,11 @@
         "feeding"
     ]
 },
-  "bbox": [-78.794123,40.648545,-78.794123,40.648545],
+  "bbox": [
+    -78.794123,
+    40.648545,
+    -78.794123,
+    40.648545
+],
   "geometry": {"coordinates":[-78.794123,40.648545],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403979501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.421204,39.7691,-77.421204,39.7691",
     "geom:latitude":39.7691,
     "geom:longitude":-77.421204,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"18 Yankee Mountain Ln",
     "sg:city":"Fairfield",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85827223,
+        102191575,
+        404484791,
         85633793,
         101718869,
         102080899,
-        85827223
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"a5d2ebe69478f0ec6c32605a503f9092",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080899,
+            "localadmin_id":404484791,
             "locality_id":101718869,
             "neighbourhood_id":85827223,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":403979501,
-    "wof:lastmodified":1449055553,
+    "wof:lastmodified":1454357743,
     "wof:name":"Alering-Schroll C Pet Sitting",
     "wof:parent_id":85827223,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "sitting"
     ]
 },
-  "bbox": [-77.421204,39.7691,-77.421204,39.7691],
+  "bbox": [
+    -77.421204,
+    39.7691,
+    -77.421204,
+    39.7691
+],
   "geometry": {"coordinates":[-77.421204,39.7691],"type":"Point"}
 }

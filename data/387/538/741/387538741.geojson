@@ -2,13 +2,14 @@
   "id": 387538741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.242405,40.182113,-80.242405,40.182113",
     "geom:latitude":40.182113,
     "geom:longitude":-80.242405,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"95 Leonard Ave Ste 301",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -37,11 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85852963,
+        102191575,
+        404487917,
         85633793,
         101718569,
         102081343,
-        85852963
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,9 +54,10 @@
     "wof:geomhash":"b274c63ba51ed0fb47d0abcb6290fa33",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081343,
+            "localadmin_id":404487917,
             "locality_id":101718569,
             "neighbourhood_id":85852963,
             "region_id":85688481,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":387538741,
-    "wof:lastmodified":1449056585,
+    "wof:lastmodified":1454358460,
     "wof:name":"Washington Ob & Gyn Associates",
     "wof:parent_id":85852963,
     "wof:placetype":"venue",
@@ -76,6 +80,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-80.242405,40.182113,-80.242405,40.182113],
-  "geometry": {"coordinates":[-80.242405,40.182113],"type":"Point"}
+  "bbox": [
+    -80.242405,
+    40.182113,
+    -80.242405,
+    40.182113
+],
+  "geometry": {"coordinates":[-80.24240500000001,40.182113],"type":"Point"}
 }

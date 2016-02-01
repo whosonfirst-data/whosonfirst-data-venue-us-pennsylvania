@@ -2,13 +2,14 @@
   "id": 403734437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.403716,40.361935,-76.403716,40.361935",
     "geom:latitude":40.361935,
     "geom:longitude":-76.403716,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"992 Miller St",
     "sg:city":"Lebanon",
     "sg:classifiers":[
@@ -28,7 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420538681,
+        102191575,
+        404485809,
         85633793,
+        101719397,
+        102081341,
         85688481
     ],
     "wof:breaches":[],
@@ -39,18 +45,20 @@
     "wof:geomhash":"923a8f295ebca9c6c953eac4dbafe53c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081341,
+            "localadmin_id":404485809,
+            "locality_id":101719397,
+            "neighbourhood_id":420538681,
             "region_id":85688481,
             "venue_id":403734437
         }
     ],
     "wof:id":403734437,
-    "wof:lastmodified":1449055804,
+    "wof:lastmodified":1454357885,
     "wof:name":"Ronald R Hoffer Construct",
-    "wof:parent_id":-1,
+    "wof:parent_id":420538681,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -59,6 +67,11 @@
         "builder"
     ]
 },
-  "bbox": [-76.403716,40.361935,-76.403716,40.361935],
+  "bbox": [
+    -76.403716,
+    40.361935,
+    -76.403716,
+    40.361935
+],
   "geometry": {"coordinates":[-76.403716,40.361935],"type":"Point"}
 }

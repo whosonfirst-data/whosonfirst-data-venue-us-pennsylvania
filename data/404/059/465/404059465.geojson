@@ -2,13 +2,14 @@
   "id": 404059465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.268028,40.204258,-76.268028,40.204258",
     "geom:latitude":40.204258,
     "geom:longitude":-76.268028,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"590 Hammer Creek Rd",
     "sg:city":"Lititz",
     "sg:classifiers":[
@@ -40,8 +41,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85834405
+        85834405,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,17 +52,15 @@
     "wof:geomhash":"1adf1de355631bf7636d04f7bd3e72ef",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85834405,
             "region_id":85688481,
             "venue_id":404059465
         }
     ],
     "wof:id":404059465,
-    "wof:lastmodified":1449039352,
+    "wof:lastmodified":1454356589,
     "wof:name":"Hammer Creek Mennonite Church",
     "wof:parent_id":85834405,
     "wof:placetype":"venue",
@@ -72,6 +71,11 @@
         "churches-mennonite"
     ]
 },
-  "bbox": [-76.268028,40.204258,-76.268028,40.204258],
+  "bbox": [
+    -76.268028,
+    40.204258,
+    -76.268028,
+    40.204258
+],
   "geometry": {"coordinates":[-76.268028,40.204258],"type":"Point"}
 }

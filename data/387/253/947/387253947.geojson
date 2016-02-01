@@ -2,13 +2,14 @@
   "id": 387253947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.848325,40.341122,-79.848325,40.341122",
     "geom:latitude":40.341122,
     "geom:longitude":-79.848325,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2406 Irwin St",
     "sg:city":"Mckeesport",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85845081,
+        102191575,
+        404484971,
         85633793,
         101718847,
         102080887,
-        85845081
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"66d39346783053c3cec86c7c8b184e9b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484971,
             "locality_id":101718847,
             "neighbourhood_id":85845081,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387253947,
-    "wof:lastmodified":1449059449,
+    "wof:lastmodified":1454361083,
     "wof:name":"Andrea Marie Interiors",
     "wof:parent_id":85845081,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-79.848325,40.341122,-79.848325,40.341122],
+  "bbox": [
+    -79.848325,
+    40.341122,
+    -79.848325,
+    40.341122
+],
   "geometry": {"coordinates":[-79.848325,40.341122],"type":"Point"}
 }

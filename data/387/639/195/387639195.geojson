@@ -2,13 +2,14 @@
   "id": 387639195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.657795,40.396593,-79.657795,40.396593",
     "geom:latitude":40.396593,
     "geom:longitude":-79.657795,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1015 Ramsey Rd",
     "sg:city":"Jeannette",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85836835,
+        102191575,
+        404487539,
         85633793,
         101717149,
         102081383,
-        85836835
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"752f0d90e992dddddd8fbb7b83a55191",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081383,
+            "localadmin_id":404487539,
             "locality_id":101717149,
             "neighbourhood_id":85836835,
             "region_id":85688481,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":387639195,
-    "wof:lastmodified":1449059904,
+    "wof:lastmodified":1454361227,
     "wof:name":"Quality Care Painting",
     "wof:parent_id":85836835,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.657795,40.396593,-79.657795,40.396593],
-  "geometry": {"coordinates":[-79.657795,40.396593],"type":"Point"}
+  "bbox": [
+    -79.657795,
+    40.396593,
+    -79.657795,
+    40.396593
+],
+  "geometry": {"coordinates":[-79.65779499999999,40.396593],"type":"Point"}
 }

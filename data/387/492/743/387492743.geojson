@@ -2,13 +2,14 @@
   "id": 387492743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.003347,40.340272,-80.003347,40.340272",
     "geom:latitude":40.340272,
     "geom:longitude":-80.003347,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"718 Lucy Dr",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85846775,
+        102191575,
+        404484853,
         85633793,
         101718799,
         102080887,
-        85846775
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"78a7df853386df76db6c51c5963a50b8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484853,
             "locality_id":101718799,
             "neighbourhood_id":85846775,
             "region_id":85688481,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":387492743,
-    "wof:lastmodified":1449056111,
+    "wof:lastmodified":1454358091,
     "wof:name":"Catholic Action League",
     "wof:parent_id":85846775,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.003347,40.340272,-80.003347,40.340272],
-  "geometry": {"coordinates":[-80.003347,40.340272],"type":"Point"}
+  "bbox": [
+    -80.003347,
+    40.340272,
+    -80.003347,
+    40.340272
+],
+  "geometry": {"coordinates":[-80.00334700000001,40.340272],"type":"Point"}
 }

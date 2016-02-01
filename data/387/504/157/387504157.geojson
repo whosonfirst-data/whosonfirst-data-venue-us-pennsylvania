@@ -2,13 +2,14 @@
   "id": 387504157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.008709,40.536194,-80.008709,40.536194",
     "geom:latitude":40.536194,
     "geom:longitude":-80.008709,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1005 Mcknight Park Dr",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -49,8 +50,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85805835
+        85805835,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,17 +61,15 @@
     "wof:geomhash":"4341e82df25a2fffdee6377cc15bb592",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85805835,
             "region_id":85688481,
             "venue_id":387504157
         }
     ],
     "wof:id":387504157,
-    "wof:lastmodified":1449056770,
+    "wof:lastmodified":1454358595,
     "wof:name":"Allstate Insurance Company - Vincent Profeta",
     "wof:parent_id":85805835,
     "wof:placetype":"venue",
@@ -85,6 +84,11 @@
         "renter"
     ]
 },
-  "bbox": [-80.008709,40.536194,-80.008709,40.536194],
+  "bbox": [
+    -80.008709,
+    40.536194,
+    -80.008709,
+    40.536194
+],
   "geometry": {"coordinates":[-80.008709,40.536194],"type":"Point"}
 }

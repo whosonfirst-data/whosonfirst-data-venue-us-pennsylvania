@@ -2,13 +2,14 @@
   "id": 404111261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.893751,41.434175,-77.893751,41.434175",
     "geom:latitude":41.434175,
     "geom:longitude":-77.893751,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5782 Tamarack Rd",
     "sg:city":"Renovo",
     "sg:classifiers":[
@@ -41,8 +42,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080917,
-        85851785
+        85851785,
+        102080917
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,17 +53,15 @@
     "wof:geomhash":"7944c3b9cb7abf7da718bfe6de8e36ea",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080917,
-            "locality_id":-1,
             "neighbourhood_id":85851785,
             "region_id":85688481,
             "venue_id":404111261
         }
     ],
     "wof:id":404111261,
-    "wof:lastmodified":1449040349,
+    "wof:lastmodified":1454357152,
     "wof:name":"Emmanuel Assembly Of God",
     "wof:parent_id":85851785,
     "wof:placetype":"venue",
@@ -74,6 +73,11 @@
         "churches-assemblies"
     ]
 },
-  "bbox": [-77.893751,41.434175,-77.893751,41.434175],
-  "geometry": {"coordinates":[-77.893751,41.434175],"type":"Point"}
+  "bbox": [
+    -77.893751,
+    41.434175,
+    -77.893751,
+    41.434175
+],
+  "geometry": {"coordinates":[-77.89375099999999,41.434175],"type":"Point"}
 }

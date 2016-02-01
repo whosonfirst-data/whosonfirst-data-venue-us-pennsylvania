@@ -2,13 +2,14 @@
   "id": 403887121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.873586,40.30497,-76.873586,40.30497",
     "geom:latitude":40.30497,
     "geom:longitude":-76.873586,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1320 Paxton Church Rd",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85851635
+        85851635,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"d73114d27f3ea69c17a0d56d2439121e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85851635,
             "region_id":85688481,
             "venue_id":403887121
         }
     ],
     "wof:id":403887121,
-    "wof:lastmodified":1449055695,
+    "wof:lastmodified":1454357826,
     "wof:name":"M&M Dump Truck Service, Llp",
     "wof:parent_id":85851635,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "dump"
     ]
 },
-  "bbox": [-76.873586,40.30497,-76.873586,40.30497],
+  "bbox": [
+    -76.873586,
+    40.30497,
+    -76.873586,
+    40.30497
+],
   "geometry": {"coordinates":[-76.873586,40.30497],"type":"Point"}
 }

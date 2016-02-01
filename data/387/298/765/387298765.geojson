@@ -2,13 +2,14 @@
   "id": 387298765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.167071,40.456168,-80.167071,40.456168",
     "geom:latitude":40.456168,
     "geom:longitude":-80.167071,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2000 Robinson Town Ctr",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -43,8 +44,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85821263
+        85821263,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,17 +55,15 @@
     "wof:geomhash":"d00b291e6882ad54fdf7cca3296f80dc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85821263,
             "region_id":85688481,
             "venue_id":387298765
         }
     ],
     "wof:id":387298765,
-    "wof:lastmodified":1449057128,
+    "wof:lastmodified":1454358863,
     "wof:name":"JCPenney",
     "wof:parent_id":85821263,
     "wof:placetype":"venue",
@@ -77,6 +76,11 @@
         "women's"
     ]
 },
-  "bbox": [-80.167071,40.456168,-80.167071,40.456168],
-  "geometry": {"coordinates":[-80.167071,40.456168],"type":"Point"}
+  "bbox": [
+    -80.167071,
+    40.456168,
+    -80.167071,
+    40.456168
+],
+  "geometry": {"coordinates":[-80.16707100000001,40.456168],"type":"Point"}
 }

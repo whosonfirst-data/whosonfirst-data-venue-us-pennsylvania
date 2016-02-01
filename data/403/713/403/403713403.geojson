@@ -2,13 +2,14 @@
   "id": 403713403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.287258,40.35766,-77.287258,40.35766",
     "geom:latitude":40.35766,
     "geom:longitude":-77.287258,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"21 Bells Hl",
     "sg:city":"Landisburg",
     "sg:classifiers":[
@@ -44,8 +45,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080963,
-        85854111
+        85854111,
+        102080963
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,17 +56,15 @@
     "wof:geomhash":"9bedff6b0ea2735b81102826dc53345b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080963,
-            "locality_id":-1,
             "neighbourhood_id":85854111,
             "region_id":85688481,
             "venue_id":403713403
         }
     ],
     "wof:id":403713403,
-    "wof:lastmodified":1449055844,
+    "wof:lastmodified":1454357905,
     "wof:name":"Brownawell's Garage",
     "wof:parent_id":85854111,
     "wof:placetype":"venue",
@@ -79,6 +78,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-77.287258,40.35766,-77.287258,40.35766],
-  "geometry": {"coordinates":[-77.287258,40.35766],"type":"Point"}
+  "bbox": [
+    -77.287258,
+    40.35766,
+    -77.287258,
+    40.35766
+],
+  "geometry": {"coordinates":[-77.28725799999999,40.35766],"type":"Point"}
 }

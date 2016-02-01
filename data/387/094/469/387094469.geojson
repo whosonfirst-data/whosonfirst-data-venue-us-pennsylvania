@@ -2,13 +2,14 @@
   "id": 387094469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.258057,40.620366,-80.258057,40.620366",
     "geom:latitude":40.620366,
     "geom:longitude":-80.258057,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"800 Davis St",
     "sg:city":"Aliquippa",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85858799,
+        102191575,
+        404484357,
         85633793,
         101718409,
         102081323,
-        85858799
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"580fb9d24405b21f312424b6af8624a0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081323,
+            "localadmin_id":404484357,
             "locality_id":101718409,
             "neighbourhood_id":85858799,
             "region_id":85688481,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":387094469,
-    "wof:lastmodified":1449058496,
+    "wof:lastmodified":1454360798,
     "wof:name":"Curenton Mini Mart",
     "wof:parent_id":85858799,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.258057,40.620366,-80.258057,40.620366],
-  "geometry": {"coordinates":[-80.258057,40.620366],"type":"Point"}
+  "bbox": [
+    -80.258057,
+    40.620366,
+    -80.258057,
+    40.620366
+],
+  "geometry": {"coordinates":[-80.25805699999999,40.620366],"type":"Point"}
 }

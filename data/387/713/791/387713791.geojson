@@ -2,13 +2,14 @@
   "id": 387713791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.006447,40.69611,-80.006447,40.69611",
     "geom:latitude":40.69611,
     "geom:longitude":-80.006447,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"623 Spring St",
     "sg:city":"Mars",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102083677,
-        85815109
+        85815109,
+        102083677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"347a00341cc6233c6c91e6f50558c853",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102083677,
-            "locality_id":-1,
             "neighbourhood_id":85815109,
             "region_id":85688481,
             "venue_id":387713791
         }
     ],
     "wof:id":387713791,
-    "wof:lastmodified":1449059561,
+    "wof:lastmodified":1454361117,
     "wof:name":"Fluid Power Sealing",
     "wof:parent_id":85815109,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "supply"
     ]
 },
-  "bbox": [-80.006447,40.69611,-80.006447,40.69611],
-  "geometry": {"coordinates":[-80.006447,40.69611],"type":"Point"}
+  "bbox": [
+    -80.006447,
+    40.69611,
+    -80.006447,
+    40.69611
+],
+  "geometry": {"coordinates":[-80.00644699999999,40.69611],"type":"Point"}
 }

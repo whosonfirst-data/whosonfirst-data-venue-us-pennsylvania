@@ -2,13 +2,14 @@
   "id": 387544345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.203054,40.218656,-80.203054,40.218656",
     "geom:latitude":40.218656,
     "geom:longitude":-80.203054,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"150 Racetrack Rd",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081343,
-        85833251
+        85833251,
+        102081343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"59122a5d9d1f9db992ab3e9ac1b8ff39",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081343,
-            "locality_id":-1,
             "neighbourhood_id":85833251,
             "region_id":85688481,
             "venue_id":387544345
         }
     ],
     "wof:id":387544345,
-    "wof:lastmodified":1449059916,
+    "wof:lastmodified":1454361232,
     "wof:name":"Tomsic Chrysler Jeep",
     "wof:parent_id":85833251,
     "wof:placetype":"venue",
@@ -66,6 +65,11 @@
         "car"
     ]
 },
-  "bbox": [-80.203054,40.218656,-80.203054,40.218656],
-  "geometry": {"coordinates":[-80.203054,40.218656],"type":"Point"}
+  "bbox": [
+    -80.203054,
+    40.218656,
+    -80.203054,
+    40.218656
+],
+  "geometry": {"coordinates":[-80.20305399999999,40.218656],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387302035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.926706,40.45941,-79.926706,40.45941",
     "geom:latitude":40.45941,
     "geom:longitude":-79.926706,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5956 Penn Cir S",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -89,11 +90,13 @@
     "sg:website":"http://www.walgreens.com/default.jsp?ec=iyp_yellowpages_trademark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85820739,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85820739
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -103,9 +106,10 @@
     "wof:geomhash":"26f09ff2f6b77fff735d80eb35761116",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85820739,
             "region_id":85688481,
@@ -113,7 +117,7 @@
         }
     ],
     "wof:id":387302035,
-    "wof:lastmodified":1449057383,
+    "wof:lastmodified":1454359077,
     "wof:name":"Walgreens Pharmacies",
     "wof:parent_id":85820739,
     "wof:placetype":"venue",
@@ -134,6 +138,11 @@
         "consumer"
     ]
 },
-  "bbox": [-79.926706,40.45941,-79.926706,40.45941],
+  "bbox": [
+    -79.926706,
+    40.45941,
+    -79.926706,
+    40.45941
+],
   "geometry": {"coordinates":[-79.926706,40.45941],"type":"Point"}
 }

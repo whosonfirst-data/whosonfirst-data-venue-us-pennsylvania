@@ -2,13 +2,14 @@
   "id": 387136313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.976043,40.310641,-79.976043,40.310641",
     "geom:latitude":40.310641,
     "geom:longitude":-79.976043,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"502 Cochran Mill Rd",
     "sg:city":"Clairton",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85808185,
+        102191575,
+        404484315,
         85633793,
-        101718663,
+        101720491,
         102080887,
-        85808185
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +47,18 @@
     "wof:geomhash":"921918c8cb873b662793e9f16ad25cba",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":101718663,
+            "localadmin_id":404484315,
+            "locality_id":101720491,
             "neighbourhood_id":85808185,
             "region_id":85688481,
             "venue_id":387136313
         }
     ],
     "wof:id":387136313,
-    "wof:lastmodified":1449059862,
+    "wof:lastmodified":1454361213,
     "wof:name":"Precision Auto Sales Inc",
     "wof:parent_id":85808185,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "car"
     ]
 },
-  "bbox": [-79.976043,40.310641,-79.976043,40.310641],
+  "bbox": [
+    -79.976043,
+    40.310641,
+    -79.976043,
+    40.310641
+],
   "geometry": {"coordinates":[-79.976043,40.310641],"type":"Point"}
 }

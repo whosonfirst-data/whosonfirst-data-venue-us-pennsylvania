@@ -2,13 +2,14 @@
   "id": 387340221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.885847,40.421039,-79.885847,40.421039",
     "geom:latitude":40.421039,
     "geom:longitude":-79.885847,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2021 Noble St Ste 200",
     "sg:city":"Swissvale",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85844235,
+        102191575,
+        404484253,
         85633793,
         101718701,
         102080887,
-        85844235
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"03c99dd56c46d6e4a78bc9fbf512cf52",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484253,
             "locality_id":101718701,
             "neighbourhood_id":85844235,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387340221,
-    "wof:lastmodified":1449059041,
+    "wof:lastmodified":1454360965,
     "wof:name":"Pride Promotions, Inc.",
     "wof:parent_id":85844235,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "sale"
     ]
 },
-  "bbox": [-79.885847,40.421039,-79.885847,40.421039],
+  "bbox": [
+    -79.885847,
+    40.421039,
+    -79.885847,
+    40.421039
+],
   "geometry": {"coordinates":[-79.885847,40.421039],"type":"Point"}
 }

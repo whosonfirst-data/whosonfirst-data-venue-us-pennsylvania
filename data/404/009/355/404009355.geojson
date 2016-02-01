@@ -2,13 +2,14 @@
   "id": 404009355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.725708,39.96307,-76.725708,39.96307",
     "geom:latitude":39.96307,
     "geom:longitude":-76.725708,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"101 E Market St",
     "sg:city":"York",
     "sg:classifiers":[
@@ -40,10 +41,13 @@
     "sg:website":"http://www.hrblock.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85850705,
+        102191575,
+        404488029,
         85633793,
+        101717279,
         102080953,
-        85850705
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,17 +57,18 @@
     "wof:geomhash":"a093dbb06ae028a626ddfb63ca560af8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
+            "localadmin_id":404488029,
+            "locality_id":101717279,
             "neighbourhood_id":85850705,
             "region_id":85688481,
             "venue_id":404009355
         }
     ],
     "wof:id":404009355,
-    "wof:lastmodified":1449040310,
+    "wof:lastmodified":1454357126,
     "wof:name":"H&R Block",
     "wof:parent_id":85850705,
     "wof:placetype":"venue",
@@ -80,6 +85,11 @@
         "bookkeeping"
     ]
 },
-  "bbox": [-76.725708,39.96307,-76.725708,39.96307],
+  "bbox": [
+    -76.725708,
+    39.96307,
+    -76.725708,
+    39.96307
+],
   "geometry": {"coordinates":[-76.725708,39.96307],"type":"Point"}
 }

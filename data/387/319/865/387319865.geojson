@@ -2,13 +2,14 @@
   "id": 387319865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.007409,40.457241,-80.007409,40.457241",
     "geom:latitude":40.457241,
     "geom:longitude":-80.007409,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1307 Federal St Ste 200",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85838061,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85838061
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"2171f808d610b5f0e7695a2dffe29ce8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85838061,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387319865,
-    "wof:lastmodified":1449057658,
+    "wof:lastmodified":1454360548,
     "wof:name":"Human Motion Rehabilitation",
     "wof:parent_id":85838061,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "physical"
     ]
 },
-  "bbox": [-80.007409,40.457241,-80.007409,40.457241],
+  "bbox": [
+    -80.007409,
+    40.457241,
+    -80.007409,
+    40.457241
+],
   "geometry": {"coordinates":[-80.007409,40.457241],"type":"Point"}
 }

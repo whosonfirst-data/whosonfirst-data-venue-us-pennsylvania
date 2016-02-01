@@ -2,13 +2,14 @@
   "id": 387506437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.008915,40.536339,-80.008915,40.536339",
     "geom:latitude":40.536339,
     "geom:longitude":-80.008915,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"400 Mcknight Park Dr",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -33,8 +34,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85805835
+        85805835,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +45,15 @@
     "wof:geomhash":"974ea7704f6824e994920ea79a07869c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85805835,
             "region_id":85688481,
             "venue_id":387506437
         }
     ],
     "wof:id":387506437,
-    "wof:lastmodified":1449056204,
+    "wof:lastmodified":1454358160,
     "wof:name":"Pittsburgh Computer Service Corp",
     "wof:parent_id":85805835,
     "wof:placetype":"venue",
@@ -68,6 +67,11 @@
         "equipment-service"
     ]
 },
-  "bbox": [-80.008915,40.536339,-80.008915,40.536339],
+  "bbox": [
+    -80.008915,
+    40.536339,
+    -80.008915,
+    40.536339
+],
   "geometry": {"coordinates":[-80.008915,40.536339],"type":"Point"}
 }

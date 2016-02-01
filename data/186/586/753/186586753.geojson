@@ -2,13 +2,14 @@
   "id": 186586753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.53169,41.034665,-80.53169,41.034665",
     "geom:latitude":41.034665,
     "geom:longitude":-80.53169,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"600 E Water St",
     "sg:city":"Lowellville",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080929,
-        85845265
+        85845265,
+        102080929
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"df867c9a5ffc953e0379b56673daab06",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080929,
-            "locality_id":-1,
             "neighbourhood_id":85845265,
             "region_id":85688481,
             "venue_id":186586753
         }
     ],
     "wof:id":186586753,
-    "wof:lastmodified":1449052712,
+    "wof:lastmodified":1454357161,
     "wof:name":"Lowellville Sewage Treatment",
     "wof:parent_id":85845265,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "village"
     ]
 },
-  "bbox": [-80.53169,41.034665,-80.53169,41.034665],
+  "bbox": [
+    -80.53169,
+    41.034665,
+    -80.53169,
+    41.034665
+],
   "geometry": {"coordinates":[-80.53169,41.034665],"type":"Point"}
 }

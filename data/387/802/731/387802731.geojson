@@ -2,13 +2,14 @@
   "id": 387802731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.766158,41.220719,-79.766158,41.220719",
     "geom:latitude":41.220719,
     "geom:longitude":-79.766158,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"514 Riviera Rd",
     "sg:city":"Emlenton",
     "sg:classifiers":[
@@ -40,8 +41,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081279,
-        85868879
+        85868879,
+        102081279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,17 +52,15 @@
     "wof:geomhash":"bd79edc3d71fd1a4839b171dd0942331",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081279,
-            "locality_id":-1,
             "neighbourhood_id":85868879,
             "region_id":85688481,
             "venue_id":387802731
         }
     ],
     "wof:id":387802731,
-    "wof:lastmodified":1449059213,
+    "wof:lastmodified":1454361012,
     "wof:name":"Emlenton I G A",
     "wof:parent_id":85868879,
     "wof:placetype":"venue",
@@ -72,6 +71,11 @@
         "grocers-specialty"
     ]
 },
-  "bbox": [-79.766158,41.220719,-79.766158,41.220719],
+  "bbox": [
+    -79.766158,
+    41.220719,
+    -79.766158,
+    41.220719
+],
   "geometry": {"coordinates":[-79.766158,41.220719],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387587989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.712028,39.919211,-79.712028,39.919211",
     "geom:latitude":39.919211,
     "geom:longitude":-79.712028,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"92 Big Banana Rd",
     "sg:city":"Uniontown",
     "sg:classifiers":[
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85850161,
+        102191575,
+        404487055,
         85633793,
+        101719799,
         102080959,
-        85850161
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +49,18 @@
     "wof:geomhash":"f501a01f41c0d157a8d22d68a4fdbade",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080959,
-            "locality_id":-1,
+            "localadmin_id":404487055,
+            "locality_id":101719799,
             "neighbourhood_id":85850161,
             "region_id":85688481,
             "venue_id":387587989
         }
     ],
     "wof:id":387587989,
-    "wof:lastmodified":1449057401,
+    "wof:lastmodified":1454359101,
     "wof:name":"Big Banana Fruit Market",
     "wof:parent_id":85850161,
     "wof:placetype":"venue",
@@ -65,6 +70,11 @@
         "vegetables-wholesale"
     ]
 },
-  "bbox": [-79.712028,39.919211,-79.712028,39.919211],
+  "bbox": [
+    -79.712028,
+    39.919211,
+    -79.712028,
+    39.919211
+],
   "geometry": {"coordinates":[-79.712028,39.919211],"type":"Point"}
 }

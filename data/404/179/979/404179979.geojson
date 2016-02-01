@@ -2,13 +2,14 @@
   "id": 404179979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.409763,40.64895,-75.409763,40.64895",
     "geom:latitude":40.64895,
     "geom:longitude":-75.409763,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2915 Schoenersville Rd",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -39,10 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85856947,
+        102191575,
+        404485987,
         85633793,
+        101717907,
         102081395,
-        85856947
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,17 +56,18 @@
     "wof:geomhash":"a81a7a116f29f56fabfd4234a2c582cd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081395,
-            "locality_id":-1,
+            "localadmin_id":404485987,
+            "locality_id":101717907,
             "neighbourhood_id":85856947,
             "region_id":85688481,
             "venue_id":404179979
         }
     ],
     "wof:id":404179979,
-    "wof:lastmodified":1449040209,
+    "wof:lastmodified":1454357064,
     "wof:name":"Primohoagies",
     "wof:parent_id":85856947,
     "wof:placetype":"venue",
@@ -74,6 +79,11 @@
         "sandwich"
     ]
 },
-  "bbox": [-75.409763,40.64895,-75.409763,40.64895],
+  "bbox": [
+    -75.409763,
+    40.64895,
+    -75.409763,
+    40.64895
+],
   "geometry": {"coordinates":[-75.409763,40.64895],"type":"Point"}
 }

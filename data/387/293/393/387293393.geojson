@@ -2,13 +2,14 @@
   "id": 387293393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.053596,40.429501,-80.053596,40.429501",
     "geom:latitude":40.429501,
     "geom:longitude":-80.053596,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2200 Noblestown Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85857221,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85857221
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"d9d96a444307a3d32d220684ce0fbc5d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85857221,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387293393,
-    "wof:lastmodified":1449056846,
+    "wof:lastmodified":1454358650,
     "wof:name":"C S Kim Karate Inc",
     "wof:parent_id":85857221,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "martial art"
     ]
 },
-  "bbox": [-80.053596,40.429501,-80.053596,40.429501],
+  "bbox": [
+    -80.053596,
+    40.429501,
+    -80.053596,
+    40.429501
+],
   "geometry": {"coordinates":[-80.053596,40.429501],"type":"Point"}
 }

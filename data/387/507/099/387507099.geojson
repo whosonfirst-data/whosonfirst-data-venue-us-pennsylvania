@@ -2,13 +2,14 @@
   "id": 387507099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.888458,40.486691,-79.888458,40.486691",
     "geom:latitude":40.486691,
     "geom:longitude":-79.888458,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"932 Freeport Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[],
@@ -18,10 +19,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85830655,
+        102191575,
+        404484931,
         85633793,
+        101718683,
         102080887,
-        85830655
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -31,17 +35,18 @@
     "wof:geomhash":"ab7bd6809d37fbd5d445aac81636034d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
+            "localadmin_id":404484931,
+            "locality_id":101718683,
             "neighbourhood_id":85830655,
             "region_id":85688481,
             "venue_id":387507099
         }
     ],
     "wof:id":387507099,
-    "wof:lastmodified":1449058062,
+    "wof:lastmodified":1454360672,
     "wof:name":"Empress Restaurant",
     "wof:parent_id":85830655,
     "wof:placetype":"venue",
@@ -49,6 +54,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.888458,40.486691,-79.888458,40.486691],
+  "bbox": [
+    -79.888458,
+    40.486691,
+    -79.888458,
+    40.486691
+],
   "geometry": {"coordinates":[-79.888458,40.486691],"type":"Point"}
 }

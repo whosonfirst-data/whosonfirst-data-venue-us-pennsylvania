@@ -2,13 +2,14 @@
   "id": 387650653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.595802,40.09391,-79.595802,40.09391",
     "geom:latitude":40.09391,
     "geom:longitude":-79.595802,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"101 3rd Ave",
     "sg:city":"Scottdale",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85841971,
+        102191575,
+        404484117,
         85633793,
         101717129,
         102081383,
-        85841971
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"7dc037c2e84752f41d7b575294033d55",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081383,
+            "localadmin_id":404484117,
             "locality_id":101717129,
             "neighbourhood_id":85841971,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387650653,
-    "wof:lastmodified":1449058424,
+    "wof:lastmodified":1454360778,
     "wof:name":"Harry Overly & Assoc",
     "wof:parent_id":85841971,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "online"
     ]
 },
-  "bbox": [-79.595802,40.09391,-79.595802,40.09391],
-  "geometry": {"coordinates":[-79.595802,40.09391],"type":"Point"}
+  "bbox": [
+    -79.595802,
+    40.09391,
+    -79.595802,
+    40.09391
+],
+  "geometry": {"coordinates":[-79.59580200000001,40.09391],"type":"Point"}
 }

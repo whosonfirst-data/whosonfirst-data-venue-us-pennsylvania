@@ -2,13 +2,14 @@
   "id": 403984771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.141696,39.860953,-77.141696,39.860953",
     "geom:latitude":39.860953,
     "geom:longitude":-77.141696,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"138 Carey Ln",
     "sg:city":"Gettysburg",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080899,
-        85865375
+        85865375,
+        102080899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"3b27db251c92d11de430e73bd18ee3f5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080899,
-            "locality_id":-1,
             "neighbourhood_id":85865375,
             "region_id":85688481,
             "venue_id":403984771
         }
     ],
     "wof:id":403984771,
-    "wof:lastmodified":1449055390,
+    "wof:lastmodified":1454357644,
     "wof:name":"Banky's Repair Service",
     "wof:parent_id":85865375,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "bureau"
     ]
 },
-  "bbox": [-77.141696,39.860953,-77.141696,39.860953],
+  "bbox": [
+    -77.141696,
+    39.860953,
+    -77.141696,
+    39.860953
+],
   "geometry": {"coordinates":[-77.141696,39.860953],"type":"Point"}
 }

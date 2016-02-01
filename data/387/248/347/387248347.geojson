@@ -2,13 +2,14 @@
   "id": 387248347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.904706,40.40468,-79.904706,40.40468",
     "geom:latitude":40.40468,
     "geom:longitude":-79.904706,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1321 Mifflin St",
     "sg:city":"Homestead",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85821717,
+        102191575,
+        404482523,
         85633793,
         101718719,
         102080887,
-        85821717
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"4ef5b1ffb01f3e6ca6a495a84d61292f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718719,
             "neighbourhood_id":85821717,
             "region_id":85688481,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":387248347,
-    "wof:lastmodified":1449058199,
+    "wof:lastmodified":1454360709,
     "wof:name":"Higher Call World Outreach",
     "wof:parent_id":85821717,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "denomination"
     ]
 },
-  "bbox": [-79.904706,40.40468,-79.904706,40.40468],
+  "bbox": [
+    -79.904706,
+    40.40468,
+    -79.904706,
+    40.40468
+],
   "geometry": {"coordinates":[-79.904706,40.40468],"type":"Point"}
 }

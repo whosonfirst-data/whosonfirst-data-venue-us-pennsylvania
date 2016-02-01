@@ -2,13 +2,14 @@
   "id": 387906967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.566886,40.630636,-77.566886,40.630636",
     "geom:latitude":40.630636,
     "geom:longitude":-77.566886,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"220 W Freedom Ave Ste B",
     "sg:city":"Burnham",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081333,
-        85835679
+        85835679,
+        102081333
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"37544432f2a0d0ef96e2bf8a04399230",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081333,
-            "locality_id":-1,
             "neighbourhood_id":85835679,
             "region_id":85688481,
             "venue_id":387906967
         }
     ],
     "wof:id":387906967,
-    "wof:lastmodified":1449057552,
+    "wof:lastmodified":1454360448,
     "wof:name":"Central PA Dock & Door",
     "wof:parent_id":85835679,
     "wof:placetype":"venue",
@@ -64,6 +63,11 @@
         "accessory"
     ]
 },
-  "bbox": [-77.566886,40.630636,-77.566886,40.630636],
+  "bbox": [
+    -77.566886,
+    40.630636,
+    -77.566886,
+    40.630636
+],
   "geometry": {"coordinates":[-77.566886,40.630636],"type":"Point"}
 }

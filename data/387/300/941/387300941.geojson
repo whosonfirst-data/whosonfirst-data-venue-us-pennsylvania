@@ -2,13 +2,14 @@
   "id": 387300941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.932921,40.457606,-79.932921,40.457606",
     "geom:latitude":40.457606,
     "geom:longitude":-79.932921,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5750 Centre Ave Ste 100",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85820739,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85820739
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"d61248e582d1be624ebf203f858832b2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85820739,
             "region_id":85688481,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":387300941,
-    "wof:lastmodified":1449058250,
+    "wof:lastmodified":1454360724,
     "wof:name":"Kasdan, Richard B Md",
     "wof:parent_id":85820739,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "surgeons"
     ]
 },
-  "bbox": [-79.932921,40.457606,-79.932921,40.457606],
-  "geometry": {"coordinates":[-79.932921,40.457606],"type":"Point"}
+  "bbox": [
+    -79.932921,
+    40.457606,
+    -79.932921,
+    40.457606
+],
+  "geometry": {"coordinates":[-79.93292099999999,40.457606],"type":"Point"}
 }

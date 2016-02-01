@@ -2,13 +2,14 @@
   "id": 337455471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.935807,39.719962,-75.935807,39.719962",
     "geom:latitude":39.719962,
     "geom:longitude":-75.935807,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"123 Warren Dr",
     "sg:city":"Elkton",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081275,
-        85810983
+        85810983,
+        102081275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"26e95d9bc038cd760e3c9298b8e5ba65",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081275,
-            "locality_id":-1,
             "neighbourhood_id":85810983,
             "region_id":85688481,
             "venue_id":337455471
         }
     ],
     "wof:id":337455471,
-    "wof:lastmodified":1449027610,
+    "wof:lastmodified":1454356388,
     "wof:name":"S & D Garage Doors",
     "wof:parent_id":85810983,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "door"
     ]
 },
-  "bbox": [-75.935807,39.719962,-75.935807,39.719962],
+  "bbox": [
+    -75.935807,
+    39.719962,
+    -75.935807,
+    39.719962
+],
   "geometry": {"coordinates":[-75.935807,39.719962],"type":"Point"}
 }

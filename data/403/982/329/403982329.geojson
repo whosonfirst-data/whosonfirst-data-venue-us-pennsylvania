@@ -2,13 +2,14 @@
   "id": 403982329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.233599,39.830874,-77.233599,39.830874",
     "geom:latitude":39.830874,
     "geom:longitude":-77.233599,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"116 Chambersburg St",
     "sg:city":"Gettysburg",
     "sg:classifiers":[
@@ -34,8 +35,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080899,
-        85804527
+        85804527,
+        102080899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +46,15 @@
     "wof:geomhash":"d3a60975f887c5ceadb1b6b3bdd9c4bc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080899,
-            "locality_id":-1,
             "neighbourhood_id":85804527,
             "region_id":85688481,
             "venue_id":403982329
         }
     ],
     "wof:id":403982329,
-    "wof:lastmodified":1449054860,
+    "wof:lastmodified":1454357329,
     "wof:name":"Cindys Wings",
     "wof:parent_id":85804527,
     "wof:placetype":"venue",
@@ -65,6 +64,11 @@
         "take"
     ]
 },
-  "bbox": [-77.233599,39.830874,-77.233599,39.830874],
+  "bbox": [
+    -77.233599,
+    39.830874,
+    -77.233599,
+    39.830874
+],
   "geometry": {"coordinates":[-77.233599,39.830874],"type":"Point"}
 }

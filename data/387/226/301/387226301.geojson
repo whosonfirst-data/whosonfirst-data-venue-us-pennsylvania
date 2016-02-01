@@ -2,13 +2,14 @@
   "id": 387226301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.025902,40.344299,-80.025902,40.344299",
     "geom:latitude":40.344299,
     "geom:longitude":-80.025902,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"105 Broughton Rd",
     "sg:city":"Bethel Park",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85807579,
+        102191575,
+        404484853,
         85633793,
         101718799,
         102080887,
-        85807579
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"22a015f0d18d16e37e106939170c904b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484853,
             "locality_id":101718799,
             "neighbourhood_id":85807579,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387226301,
-    "wof:lastmodified":1449058868,
+    "wof:lastmodified":1454360908,
     "wof:name":"Popa Alan J CPA",
     "wof:parent_id":85807579,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "accountant"
     ]
 },
-  "bbox": [-80.025902,40.344299,-80.025902,40.344299],
+  "bbox": [
+    -80.025902,
+    40.344299,
+    -80.025902,
+    40.344299
+],
   "geometry": {"coordinates":[-80.025902,40.344299],"type":"Point"}
 }

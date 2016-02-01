@@ -2,13 +2,14 @@
   "id": 387533955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.199257,40.466251,-80.199257,40.466251",
     "geom:latitude":40.466251,
     "geom:longitude":-80.199257,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1 Industry Ln",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -41,8 +42,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85805237
+        85805237,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,17 +53,15 @@
     "wof:geomhash":"81766e579c012ec0bff714598e0f4dd3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85805237,
             "region_id":85688481,
             "venue_id":387533955
         }
     ],
     "wof:id":387533955,
-    "wof:lastmodified":1449056071,
+    "wof:lastmodified":1454358060,
     "wof:name":"Four Points by Sheraton Pittsburgh Airport",
     "wof:parent_id":85805237,
     "wof:placetype":"venue",
@@ -73,6 +72,11 @@
         "lodging"
     ]
 },
-  "bbox": [-80.199257,40.466251,-80.199257,40.466251],
+  "bbox": [
+    -80.199257,
+    40.466251,
+    -80.199257,
+    40.466251
+],
   "geometry": {"coordinates":[-80.199257,40.466251],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404124667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.401331,40.880914,-76.401331,40.880914",
     "geom:latitude":40.880914,
     "geom:longitude":-76.401331,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"23 Ringtown Mountain Rd",
     "sg:city":"Catawissa",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420537581,
+        102191575,
+        404485395,
         85633793,
-        101720245,
-        102080973
+        101720251,
+        102080973,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"70158a7eb5d52125bb086427e56f073c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080973,
-            "locality_id":101720245,
-            "neighbourhood_id":-1,
+            "localadmin_id":404485395,
+            "locality_id":101720251,
+            "neighbourhood_id":420537581,
             "region_id":85688481,
             "venue_id":404124667
         }
     ],
     "wof:id":404124667,
-    "wof:lastmodified":1449040248,
+    "wof:lastmodified":1454357088,
     "wof:name":"Saint Paul Lutheran Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":420537581,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.401331,40.880914,-76.401331,40.880914],
+  "bbox": [
+    -76.401331,
+    40.880914,
+    -76.401331,
+    40.880914
+],
   "geometry": {"coordinates":[-76.401331,40.880914],"type":"Point"}
 }

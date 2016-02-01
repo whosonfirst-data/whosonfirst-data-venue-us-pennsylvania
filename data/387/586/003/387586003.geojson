@@ -2,13 +2,14 @@
   "id": 387586003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.726342,39.921517,-79.726342,39.921517",
     "geom:latitude":39.921517,
     "geom:longitude":-79.726342,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"650 Pittsburgh Rd",
     "sg:city":"Uniontown",
     "sg:classifiers":[
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85850161,
+        102191575,
+        404487055,
         85633793,
+        101719799,
         102080959,
-        85850161
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +50,18 @@
     "wof:geomhash":"ac05e5838441ff22d2faeef85ae5f59c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080959,
-            "locality_id":-1,
+            "localadmin_id":404487055,
+            "locality_id":101719799,
             "neighbourhood_id":85850161,
             "region_id":85688481,
             "venue_id":387586003
         }
     ],
     "wof:id":387586003,
-    "wof:lastmodified":1449059484,
+    "wof:lastmodified":1454361096,
     "wof:name":"Cricket Wireless",
     "wof:parent_id":85850161,
     "wof:placetype":"venue",
@@ -67,6 +72,11 @@
         "cellular"
     ]
 },
-  "bbox": [-79.726342,39.921517,-79.726342,39.921517],
+  "bbox": [
+    -79.726342,
+    39.921517,
+    -79.726342,
+    39.921517
+],
   "geometry": {"coordinates":[-79.726342,39.921517],"type":"Point"}
 }

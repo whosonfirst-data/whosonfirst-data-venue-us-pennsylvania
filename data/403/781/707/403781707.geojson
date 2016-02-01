@@ -2,13 +2,14 @@
   "id": 403781707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.35386,40.46565,-76.35386,40.46565",
     "geom:latitude":40.46565,
     "geom:longitude":-76.35386,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1141 Little Mountain Rd",
     "sg:city":"Myerstown",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080991,
-        85846219
+        85846219,
+        102080991
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"bc21256f3ec676e5d46fd2d577686cf5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080991,
-            "locality_id":-1,
             "neighbourhood_id":85846219,
             "region_id":85688481,
             "venue_id":403781707
         }
     ],
     "wof:id":403781707,
-    "wof:lastmodified":1449054889,
+    "wof:lastmodified":1454357345,
     "wof:name":"Apgar",
     "wof:parent_id":85846219,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-76.35386,40.46565,-76.35386,40.46565],
+  "bbox": [
+    -76.35386,
+    40.46565,
+    -76.35386,
+    40.46565
+],
   "geometry": {"coordinates":[-76.35386,40.46565],"type":"Point"}
 }

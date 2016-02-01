@@ -2,13 +2,14 @@
   "id": 387490247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.988197,40.330799,-79.988197,40.330799",
     "geom:latitude":40.330799,
     "geom:longitude":-79.988197,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5811 Curry Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85808185,
+        102191575,
+        404484315,
         85633793,
-        101718663,
+        101720491,
         102080887,
-        85808185
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +41,18 @@
     "wof:geomhash":"febfb7679c4924e124c62c93946cdadf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":101718663,
+            "localadmin_id":404484315,
+            "locality_id":101720491,
             "neighbourhood_id":85808185,
             "region_id":85688481,
             "venue_id":387490247
         }
     ],
     "wof:id":387490247,
-    "wof:lastmodified":1449059528,
+    "wof:lastmodified":1454361109,
     "wof:name":"Nativity Church-South Park",
     "wof:parent_id":85808185,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.988197,40.330799,-79.988197,40.330799],
+  "bbox": [
+    -79.988197,
+    40.330799,
+    -79.988197,
+    40.330799
+],
   "geometry": {"coordinates":[-79.988197,40.330799],"type":"Point"}
 }

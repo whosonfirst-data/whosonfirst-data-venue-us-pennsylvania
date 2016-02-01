@@ -2,13 +2,14 @@
   "id": 387514713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.052369,40.340673,-80.052369,40.340673",
     "geom:latitude":40.340673,
     "geom:longitude":-80.052369,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"110 Fort Couch Rd Ste 5",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85805921,
+        102191575,
+        404484853,
         85633793,
         101718799,
         102080887,
-        85805921
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"ba6c0a09ed6cc38d7f2d62252a638bb9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484853,
             "locality_id":101718799,
             "neighbourhood_id":85805921,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387514713,
-    "wof:lastmodified":1449058022,
+    "wof:lastmodified":1454360655,
     "wof:name":"Weidaw, Carole Jeanne Rn Edd",
     "wof:parent_id":85805921,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "disorders-information"
     ]
 },
-  "bbox": [-80.052369,40.340673,-80.052369,40.340673],
+  "bbox": [
+    -80.052369,
+    40.340673,
+    -80.052369,
+    40.340673
+],
   "geometry": {"coordinates":[-80.052369,40.340673],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387765853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.456785,41.251603,-80.456785,41.251603",
     "geom:latitude":41.251603,
     "geom:longitude":-80.456785,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1386 Dutch Ln",
     "sg:city":"Hermitage",
     "sg:classifiers":[
@@ -39,11 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85824773,
+        102191575,
+        404487983,
         85633793,
         101718107,
         102080965,
-        85824773
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,9 +56,10 @@
     "wof:geomhash":"870d9cf77aafcc471502b04cecd73877",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080965,
+            "localadmin_id":404487983,
             "locality_id":101718107,
             "neighbourhood_id":85824773,
             "region_id":85688481,
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":387765853,
-    "wof:lastmodified":1449058303,
+    "wof:lastmodified":1454360739,
     "wof:name":"Hermitage Heating & Cooling",
     "wof:parent_id":85824773,
     "wof:placetype":"venue",
@@ -80,6 +84,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-80.456785,41.251603,-80.456785,41.251603],
+  "bbox": [
+    -80.456785,
+    41.251603,
+    -80.456785,
+    41.251603
+],
   "geometry": {"coordinates":[-80.456785,41.251603],"type":"Point"}
 }

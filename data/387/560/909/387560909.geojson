@@ -2,13 +2,14 @@
   "id": 387560909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.128403,40.269001,-80.128403,40.269001",
     "geom:latitude":40.269001,
     "geom:longitude":-80.128403,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3971 Washington Rd",
     "sg:city":"Canonsburg",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081343,
-        85814861
+        85814861,
+        102081343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"4d8235286860358659c05720b641b410",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081343,
-            "locality_id":-1,
             "neighbourhood_id":85814861,
             "region_id":85688481,
             "venue_id":387560909
         }
     ],
     "wof:id":387560909,
-    "wof:lastmodified":1449059013,
+    "wof:lastmodified":1454360957,
     "wof:name":"General Nutrition Center",
     "wof:parent_id":85814861,
     "wof:placetype":"venue",
@@ -61,6 +60,11 @@
         "market"
     ]
 },
-  "bbox": [-80.128403,40.269001,-80.128403,40.269001],
-  "geometry": {"coordinates":[-80.128403,40.269001],"type":"Point"}
+  "bbox": [
+    -80.128403,
+    40.269001,
+    -80.128403,
+    40.269001
+],
+  "geometry": {"coordinates":[-80.12840300000001,40.269001],"type":"Point"}
 }

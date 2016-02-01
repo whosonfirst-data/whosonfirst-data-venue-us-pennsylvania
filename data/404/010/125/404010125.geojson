@@ -2,13 +2,14 @@
   "id": 404010125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.679657,39.957399,-76.679657,39.957399",
     "geom:latitude":39.957399,
     "geom:longitude":-76.679657,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1230 Greensprings Dr",
     "sg:city":"York",
     "sg:classifiers":[
@@ -49,11 +50,13 @@
     "sg:website":"http://www.colortyme.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85822751,
+        102191575,
+        404487939,
         85633793,
         101719469,
         102080953,
-        85822751
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,9 +66,10 @@
     "wof:geomhash":"e7ffaf4ecc9db5763f93fab4d8e8639a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080953,
+            "localadmin_id":404487939,
             "locality_id":101719469,
             "neighbourhood_id":85822751,
             "region_id":85688481,
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":404010125,
-    "wof:lastmodified":1449039863,
+    "wof:lastmodified":1454356849,
     "wof:name":"Colortyme Rent To Own",
     "wof:parent_id":85822751,
     "wof:placetype":"venue",
@@ -89,6 +93,11 @@
         "store"
     ]
 },
-  "bbox": [-76.679657,39.957399,-76.679657,39.957399],
-  "geometry": {"coordinates":[-76.679657,39.957399],"type":"Point"}
+  "bbox": [
+    -76.679657,
+    39.957399,
+    -76.679657,
+    39.957399
+],
+  "geometry": {"coordinates":[-76.67965700000001,39.957399],"type":"Point"}
 }

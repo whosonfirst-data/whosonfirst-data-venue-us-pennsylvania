@@ -2,13 +2,14 @@
   "id": 387121489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.426126,40.378563,-80.426126,40.378563",
     "geom:latitude":40.378563,
     "geom:longitude":-80.426126,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"71 Dinsmore Ave",
     "sg:city":"Burgettstown",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081343,
-        85819639
+        85819639,
+        102081343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"1608084d2fd8658a737f7fda9cd8f080",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081343,
-            "locality_id":-1,
             "neighbourhood_id":85819639,
             "region_id":85688481,
             "venue_id":387121489
         }
     ],
     "wof:id":387121489,
-    "wof:lastmodified":1449059077,
+    "wof:lastmodified":1454360975,
     "wof:name":"Dinsmore Farm And Garden",
     "wof:parent_id":85819639,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "bamboo"
     ]
 },
-  "bbox": [-80.426126,40.378563,-80.426126,40.378563],
+  "bbox": [
+    -80.426126,
+    40.378563,
+    -80.426126,
+    40.378563
+],
   "geometry": {"coordinates":[-80.426126,40.378563],"type":"Point"}
 }

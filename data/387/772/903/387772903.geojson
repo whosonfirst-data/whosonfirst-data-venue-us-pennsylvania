@@ -2,13 +2,14 @@
   "id": 387772903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.516024,40.808592,-79.516024,40.808592",
     "geom:latitude":40.808592,
     "geom:longitude":-79.516024,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"503 S Water St",
     "sg:city":"Kittanning",
     "sg:classifiers":[
@@ -40,8 +41,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081371,
-        85816487
+        85816487,
+        102081371
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,17 +52,15 @@
     "wof:geomhash":"7e64bfdb3fa98f5cd0f4dc95a6c9a33d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081371,
-            "locality_id":-1,
             "neighbourhood_id":85816487,
             "region_id":85688481,
             "venue_id":387772903
         }
     ],
     "wof:id":387772903,
-    "wof:lastmodified":1449057808,
+    "wof:lastmodified":1454360602,
     "wof:name":"Bradigan's Heating & Air Conditioning",
     "wof:parent_id":85816487,
     "wof:placetype":"venue",
@@ -76,6 +75,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-79.516024,40.808592,-79.516024,40.808592],
+  "bbox": [
+    -79.516024,
+    40.808592,
+    -79.516024,
+    40.808592
+],
   "geometry": {"coordinates":[-79.516024,40.808592],"type":"Point"}
 }

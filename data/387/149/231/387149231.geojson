@@ -2,13 +2,14 @@
   "id": 387149231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.939879,40.625547,-79.939879,40.625547",
     "geom:latitude":40.625547,
     "geom:longitude":-79.939879,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4204 E Ewalt Rd",
     "sg:city":"Gibsonia",
     "sg:classifiers":[
@@ -24,7 +25,12 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420536325,
+        102191575,
+        404484173,
         85633793,
+        101720497,
+        102080887,
         85688481
     ],
     "wof:breaches":[],
@@ -35,23 +41,30 @@
     "wof:geomhash":"3191b05003ee0d4679b879cdf3f938ba",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102080887,
+            "localadmin_id":404484173,
+            "locality_id":101720497,
+            "neighbourhood_id":420536325,
             "region_id":85688481,
             "venue_id":387149231
         }
     ],
     "wof:id":387149231,
-    "wof:lastmodified":1449056121,
+    "wof:lastmodified":1454358099,
     "wof:name":"Aaron Duhl Insurance",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536325,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.939879,40.625547,-79.939879,40.625547],
+  "bbox": [
+    -79.939879,
+    40.625547,
+    -79.939879,
+    40.625547
+],
   "geometry": {"coordinates":[-79.939879,40.625547],"type":"Point"}
 }

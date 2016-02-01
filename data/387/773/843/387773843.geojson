@@ -2,13 +2,14 @@
   "id": 387773843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.464246,40.782312,-79.464246,40.782312",
     "geom:latitude":40.782312,
     "geom:longitude":-79.464246,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"568 Silvis Hollow Rd",
     "sg:city":"Kittanning",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081371,
-        85816487
+        85816487,
+        102081371
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"c78ec0702a586c0b22fe9fdcd0a7795b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081371,
-            "locality_id":-1,
             "neighbourhood_id":85816487,
             "region_id":85688481,
             "venue_id":387773843
         }
     ],
     "wof:id":387773843,
-    "wof:lastmodified":1449056587,
+    "wof:lastmodified":1454358463,
     "wof:name":"Northern Son, Inc.",
     "wof:parent_id":85816487,
     "wof:placetype":"venue",
@@ -64,6 +63,11 @@
         "shipper"
     ]
 },
-  "bbox": [-79.464246,40.782312,-79.464246,40.782312],
+  "bbox": [
+    -79.464246,
+    40.782312,
+    -79.464246,
+    40.782312
+],
   "geometry": {"coordinates":[-79.464246,40.782312],"type":"Point"}
 }

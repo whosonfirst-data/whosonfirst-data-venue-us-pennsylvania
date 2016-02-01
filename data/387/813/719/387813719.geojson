@@ -2,13 +2,14 @@
   "id": 387813719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.237888,42.025225,-80.237888,42.025225",
     "geom:latitude":42.025225,
     "geom:longitude":-80.237888,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5700 Kell Rd",
     "sg:city":"Fairview",
     "sg:classifiers":[
@@ -37,8 +38,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080955,
-        85851029
+        85851029,
+        102080955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +49,15 @@
     "wof:geomhash":"0a09141ef1786a4bc7bf0dab0fc158d6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080955,
-            "locality_id":-1,
             "neighbourhood_id":85851029,
             "region_id":85688481,
             "venue_id":387813719
         }
     ],
     "wof:id":387813719,
-    "wof:lastmodified":1449057081,
+    "wof:lastmodified":1454358821,
     "wof:name":"Borecky Fruit Farm",
     "wof:parent_id":85851029,
     "wof:placetype":"venue",
@@ -71,6 +70,11 @@
         "grower"
     ]
 },
-  "bbox": [-80.237888,42.025225,-80.237888,42.025225],
+  "bbox": [
+    -80.237888,
+    42.025225,
+    -80.237888,
+    42.025225
+],
   "geometry": {"coordinates":[-80.237888,42.025225],"type":"Point"}
 }

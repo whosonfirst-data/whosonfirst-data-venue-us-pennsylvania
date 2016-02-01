@@ -2,13 +2,14 @@
   "id": 387242833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.209373,40.503479,-80.209373,40.503479",
     "geom:latitude":40.503479,
     "geom:longitude":-80.209373,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"200 Commerce Dr Ste 202",
     "sg:city":"Coraopolis",
     "sg:classifiers":[
@@ -37,11 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85809567,
+        102191575,
+        404484137,
         85633793,
         101720527,
         102080887,
-        85809567
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,9 +54,10 @@
     "wof:geomhash":"6eaef091956e684c6e9846f6d7f02b4f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484137,
             "locality_id":101720527,
             "neighbourhood_id":85809567,
             "region_id":85688481,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":387242833,
-    "wof:lastmodified":1449059467,
+    "wof:lastmodified":1454361092,
     "wof:name":"Denardo Kenneth DMD",
     "wof:parent_id":85809567,
     "wof:placetype":"venue",
@@ -76,6 +80,11 @@
         "oral"
     ]
 },
-  "bbox": [-80.209373,40.503479,-80.209373,40.503479],
+  "bbox": [
+    -80.209373,
+    40.503479,
+    -80.209373,
+    40.503479
+],
   "geometry": {"coordinates":[-80.209373,40.503479],"type":"Point"}
 }

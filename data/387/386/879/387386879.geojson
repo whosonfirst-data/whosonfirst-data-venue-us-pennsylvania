@@ -2,13 +2,14 @@
   "id": 387386879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.061897,40.422094,-80.061897,40.422094",
     "geom:latitude":40.422094,
     "geom:longitude":-80.061897,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"730 Holiday Dr Ste 1",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85816087,
+        102191575,
+        404484941,
         85633793,
         101718673,
         102080887,
-        85816087
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"bcec264db46e164c36f58f52be339b82",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484941,
             "locality_id":101718673,
             "neighbourhood_id":85816087,
             "region_id":85688481,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":387386879,
-    "wof:lastmodified":1449058103,
+    "wof:lastmodified":1454360681,
     "wof:name":"Aetna",
     "wof:parent_id":85816087,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-80.061897,40.422094,-80.061897,40.422094],
+  "bbox": [
+    -80.061897,
+    40.422094,
+    -80.061897,
+    40.422094
+],
   "geometry": {"coordinates":[-80.061897,40.422094],"type":"Point"}
 }

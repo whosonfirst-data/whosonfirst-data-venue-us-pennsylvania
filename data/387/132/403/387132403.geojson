@@ -2,13 +2,14 @@
   "id": 387132403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.886391,40.30695,-79.886391,40.30695",
     "geom:latitude":40.30695,
     "geom:longitude":-79.886391,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"300 N State St",
     "sg:city":"Clairton",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     "sg:website":"http://www.koppers.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536347,
+        102191575,
+        404484873,
         85633793,
         101718753,
-        102080887
+        102080887,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"46c0b0c88b546a443977b570d8088012",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484873,
             "locality_id":101718753,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420536347,
             "region_id":85688481,
             "venue_id":387132403
         }
     ],
     "wof:id":387132403,
-    "wof:lastmodified":1449057966,
+    "wof:lastmodified":1454360642,
     "wof:name":"Coppers Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536347,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -63,6 +68,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-79.886391,40.30695,-79.886391,40.30695],
+  "bbox": [
+    -79.886391,
+    40.30695,
+    -79.886391,
+    40.30695
+],
   "geometry": {"coordinates":[-79.886391,40.30695],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387800917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.156776,41.842892,-79.156776,41.842892",
     "geom:latitude":41.842892,
     "geom:longitude":-79.156776,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2 W Crescent Park",
     "sg:city":"Warren",
     "sg:classifiers":[
@@ -25,11 +26,13 @@
     "sg:website":"http://www.sodexo.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85853597,
+        102191575,
+        404487619,
         85633793,
         101719505,
         102081337,
-        85853597
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +42,10 @@
     "wof:geomhash":"662dbbba1732af63c47ef01a95a4bafb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081337,
+            "localadmin_id":404487619,
             "locality_id":101719505,
             "neighbourhood_id":85853597,
             "region_id":85688481,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":387800917,
-    "wof:lastmodified":1449056414,
+    "wof:lastmodified":1454358328,
     "wof:name":"Sodexo, Inc.",
     "wof:parent_id":85853597,
     "wof:placetype":"venue",
@@ -57,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.156776,41.842892,-79.156776,41.842892],
-  "geometry": {"coordinates":[-79.156776,41.842892],"type":"Point"}
+  "bbox": [
+    -79.156776,
+    41.842892,
+    -79.156776,
+    41.842892
+],
+  "geometry": {"coordinates":[-79.15677599999999,41.842892],"type":"Point"}
 }

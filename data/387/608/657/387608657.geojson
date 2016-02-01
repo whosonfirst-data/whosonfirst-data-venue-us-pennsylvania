@@ -2,13 +2,14 @@
   "id": 387608657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.509707,40.019715,-78.509707,40.019715",
     "geom:latitude":40.019715,
     "geom:longitude":-78.509707,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"736 W Pitt St",
     "sg:city":"Bedford",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080939,
-        85810345
+        85810345,
+        102080939
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"61ad2f35bece7b46da632cc474560743",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080939,
-            "locality_id":-1,
             "neighbourhood_id":85810345,
             "region_id":85688481,
             "venue_id":387608657
         }
     ],
     "wof:id":387608657,
-    "wof:lastmodified":1449057732,
+    "wof:lastmodified":1454360576,
     "wof:name":"Jake's Custom Outdoor Design",
     "wof:parent_id":85810345,
     "wof:placetype":"venue",
@@ -64,6 +63,11 @@
         "producer"
     ]
 },
-  "bbox": [-78.509707,40.019715,-78.509707,40.019715],
-  "geometry": {"coordinates":[-78.509707,40.019715],"type":"Point"}
+  "bbox": [
+    -78.509707,
+    40.019715,
+    -78.509707,
+    40.019715
+],
+  "geometry": {"coordinates":[-78.50970700000001,40.019715],"type":"Point"}
 }

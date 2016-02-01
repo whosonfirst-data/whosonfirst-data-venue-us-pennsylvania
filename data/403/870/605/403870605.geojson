@@ -2,13 +2,14 @@
   "id": 403870605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.820164,40.273434,-76.820164,40.273434",
     "geom:latitude":40.273434,
     "geom:longitude":-76.820164,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"980 Briarsdale Rd",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85829485
+        85829485,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"c7b024588b28c9afdbae9b183df0f3a5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85829485,
             "region_id":85688481,
             "venue_id":403870605
         }
     ],
     "wof:id":403870605,
-    "wof:lastmodified":1449054995,
+    "wof:lastmodified":1454357407,
     "wof:name":"Orlowski John",
     "wof:parent_id":85829485,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "medium"
     ]
 },
-  "bbox": [-76.820164,40.273434,-76.820164,40.273434],
-  "geometry": {"coordinates":[-76.820164,40.273434],"type":"Point"}
+  "bbox": [
+    -76.820164,
+    40.273434,
+    -76.820164,
+    40.273434
+],
+  "geometry": {"coordinates":[-76.82016400000001,40.273434],"type":"Point"}
 }

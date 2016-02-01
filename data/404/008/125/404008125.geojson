@@ -2,13 +2,14 @@
   "id": 404008125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.505682,39.97023,-76.505682,39.97023",
     "geom:latitude":39.97023,
     "geom:longitude":-76.505682,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"149 Calvary Church Rd",
     "sg:city":"Wrightsville",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080953,
-        85832427
+        85832427,
+        102080953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"0665d7f47097a75d271ecb0253e4ef14",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
             "neighbourhood_id":85832427,
             "region_id":85688481,
             "venue_id":404008125
         }
     ],
     "wof:id":404008125,
-    "wof:lastmodified":1449039398,
+    "wof:lastmodified":1454356624,
     "wof:name":"Karl Packaging",
     "wof:parent_id":85832427,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-76.505682,39.97023,-76.505682,39.97023],
-  "geometry": {"coordinates":[-76.505682,39.97023],"type":"Point"}
+  "bbox": [
+    -76.505682,
+    39.97023,
+    -76.505682,
+    39.97023
+],
+  "geometry": {"coordinates":[-76.50568199999999,39.97023],"type":"Point"}
 }

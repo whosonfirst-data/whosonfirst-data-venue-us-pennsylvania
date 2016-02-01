@@ -2,13 +2,14 @@
   "id": 387896349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.677976,41.658585,-77.677976,41.658585",
     "geom:latitude":41.658585,
     "geom:longitude":-77.677976,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"201 Gross Rd",
     "sg:city":"Galeton",
     "sg:classifiers":[
@@ -32,8 +33,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081299,
-        85821383
+        85821383,
+        102081299
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +44,15 @@
     "wof:geomhash":"6ee764398ce1f4be835012f65bb00a17",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081299,
-            "locality_id":-1,
             "neighbourhood_id":85821383,
             "region_id":85688481,
             "venue_id":387896349
         }
     ],
     "wof:id":387896349,
-    "wof:lastmodified":1449057485,
+    "wof:lastmodified":1454359217,
     "wof:name":"Succowich Auto Body",
     "wof:parent_id":85821383,
     "wof:placetype":"venue",
@@ -66,6 +65,11 @@
         "repairing"
     ]
 },
-  "bbox": [-77.677976,41.658585,-77.677976,41.658585],
+  "bbox": [
+    -77.677976,
+    41.658585,
+    -77.677976,
+    41.658585
+],
   "geometry": {"coordinates":[-77.677976,41.658585],"type":"Point"}
 }

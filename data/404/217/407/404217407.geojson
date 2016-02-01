@@ -2,13 +2,14 @@
   "id": 404217407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.376081,40.630848,-75.376081,40.630848",
     "geom:latitude":40.630848,
     "geom:longitude":-75.376081,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"65 E Elizabeth Ave Ste 301A",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -44,11 +45,13 @@
     "sg:website":"http://www.valleycounselinggroup.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85897241,
+        102191575,
+        404485987,
         85633793,
         101717907,
         102081395,
-        85897241
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,9 +61,10 @@
     "wof:geomhash":"54a5f332c8785c19b43e2d44ca56f843",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081395,
+            "localadmin_id":404485987,
             "locality_id":101717907,
             "neighbourhood_id":85897241,
             "region_id":85688481,
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":404217407,
-    "wof:lastmodified":1449040267,
+    "wof:lastmodified":1454357101,
     "wof:name":"Valley Counseling Group",
     "wof:parent_id":85897241,
     "wof:placetype":"venue",
@@ -84,6 +88,11 @@
         "addiction"
     ]
 },
-  "bbox": [-75.376081,40.630848,-75.376081,40.630848],
+  "bbox": [
+    -75.376081,
+    40.630848,
+    -75.376081,
+    40.630848
+],
   "geometry": {"coordinates":[-75.376081,40.630848],"type":"Point"}
 }

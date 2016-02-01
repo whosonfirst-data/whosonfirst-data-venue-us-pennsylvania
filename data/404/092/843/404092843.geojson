@@ -2,13 +2,14 @@
   "id": 404092843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.364222,40.040124,-76.364222,40.040124",
     "geom:latitude":40.040124,
     "geom:longitude":-76.364222,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"25 Rohrerstown Rd",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -47,8 +48,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85810789
+        85810789,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,17 +59,15 @@
     "wof:geomhash":"bee2090c8679354e440de3d937708744",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85810789,
             "region_id":85688481,
             "venue_id":404092843
         }
     ],
     "wof:id":404092843,
-    "wof:lastmodified":1449040069,
+    "wof:lastmodified":1454356989,
     "wof:name":"Lowe's",
     "wof:parent_id":85810789,
     "wof:placetype":"venue",
@@ -80,6 +79,11 @@
         "improvement"
     ]
 },
-  "bbox": [-76.364222,40.040124,-76.364222,40.040124],
+  "bbox": [
+    -76.364222,
+    40.040124,
+    -76.364222,
+    40.040124
+],
   "geometry": {"coordinates":[-76.364222,40.040124],"type":"Point"}
 }

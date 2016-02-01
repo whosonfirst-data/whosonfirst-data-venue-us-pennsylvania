@@ -2,13 +2,14 @@
   "id": 387715091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.064636,40.685083,-80.064636,40.685083",
     "geom:latitude":40.685083,
     "geom:longitude":-80.064636,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"300 Northpointe Cir Ste 100",
     "sg:city":"Cranberry Twp",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85824601,
+        102191575,
+        404485077,
         85633793,
         101720147,
         102083677,
-        85824601
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"a1c3720b216377213ca6bfa6296cf6de",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083677,
+            "localadmin_id":404485077,
             "locality_id":101720147,
             "neighbourhood_id":85824601,
             "region_id":85688481,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":387715091,
-    "wof:lastmodified":1449059148,
+    "wof:lastmodified":1454360997,
     "wof:name":"Tri-State Orthopaedics & Sports Medicine",
     "wof:parent_id":85824601,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "sport"
     ]
 },
-  "bbox": [-80.064636,40.685083,-80.064636,40.685083],
-  "geometry": {"coordinates":[-80.064636,40.685083],"type":"Point"}
+  "bbox": [
+    -80.064636,
+    40.685083,
+    -80.064636,
+    40.685083
+],
+  "geometry": {"coordinates":[-80.06463599999999,40.685083],"type":"Point"}
 }

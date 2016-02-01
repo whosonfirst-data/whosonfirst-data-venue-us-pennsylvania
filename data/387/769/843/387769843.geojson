@@ -2,13 +2,14 @@
   "id": 387769843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.148019,41.130673,-80.148019,41.130673",
     "geom:latitude":41.130673,
     "geom:longitude":-80.148019,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"211 Oregon Rd",
     "sg:city":"Volant",
     "sg:classifiers":[
@@ -32,8 +33,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080965,
-        85831255
+        85831255,
+        102080965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +44,15 @@
     "wof:geomhash":"ad68f0e110a619874ac53e0cbf4a8f5a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080965,
-            "locality_id":-1,
             "neighbourhood_id":85831255,
             "region_id":85688481,
             "venue_id":387769843
         }
     ],
     "wof:id":387769843,
-    "wof:lastmodified":1449057363,
+    "wof:lastmodified":1454359053,
     "wof:name":"Decker Appliance",
     "wof:parent_id":85831255,
     "wof:placetype":"venue",
@@ -66,6 +65,11 @@
         "refinishing"
     ]
 },
-  "bbox": [-80.148019,41.130673,-80.148019,41.130673],
-  "geometry": {"coordinates":[-80.148019,41.130673],"type":"Point"}
+  "bbox": [
+    -80.148019,
+    41.130673,
+    -80.148019,
+    41.130673
+],
+  "geometry": {"coordinates":[-80.14801900000001,41.130673],"type":"Point"}
 }

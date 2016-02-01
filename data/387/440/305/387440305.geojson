@@ -2,13 +2,14 @@
   "id": 387440305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.983417,40.368307,-79.983417,40.368307",
     "geom:latitude":40.368307,
     "geom:longitude":-79.983417,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"70 Towne Square Way",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     "sg:website":"http://www.usafinancialgroup.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85857905,
+        102191575,
+        404484247,
         85633793,
         101718705,
         102080887,
-        85857905
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"051943d9063b11fc5c25f19a54adadec",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484247,
             "locality_id":101718705,
             "neighbourhood_id":85857905,
             "region_id":85688481,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":387440305,
-    "wof:lastmodified":1449057443,
+    "wof:lastmodified":1454359130,
     "wof:name":"Citizens Bank",
     "wof:parent_id":85857905,
     "wof:placetype":"venue",
@@ -71,6 +75,11 @@
         "saving"
     ]
 },
-  "bbox": [-79.983417,40.368307,-79.983417,40.368307],
+  "bbox": [
+    -79.983417,
+    40.368307,
+    -79.983417,
+    40.368307
+],
   "geometry": {"coordinates":[-79.983417,40.368307],"type":"Point"}
 }

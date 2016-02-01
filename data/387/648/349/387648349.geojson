@@ -2,13 +2,14 @@
   "id": 387648349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.674891,40.427383,-79.674891,40.427383",
     "geom:latitude":40.427383,
     "geom:longitude":-79.674891,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4495 Old William Penn Hwy",
     "sg:city":"Murrysville",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85836835,
+        102191575,
+        404487539,
         85633793,
         101717149,
         102081383,
-        85836835
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"9f8b46f9d77c5184850b85091e4604e0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081383,
+            "localadmin_id":404487539,
             "locality_id":101717149,
             "neighbourhood_id":85836835,
             "region_id":85688481,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":387648349,
-    "wof:lastmodified":1449057135,
+    "wof:lastmodified":1454358870,
     "wof:name":"Doller Financial Service",
     "wof:parent_id":85836835,
     "wof:placetype":"venue",
@@ -68,6 +72,11 @@
         "preparation-business"
     ]
 },
-  "bbox": [-79.674891,40.427383,-79.674891,40.427383],
+  "bbox": [
+    -79.674891,
+    40.427383,
+    -79.674891,
+    40.427383
+],
   "geometry": {"coordinates":[-79.674891,40.427383],"type":"Point"}
 }

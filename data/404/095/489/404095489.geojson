@@ -2,13 +2,14 @@
   "id": 404095489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.338675,40.010377,-76.338675,40.010377",
     "geom:latitude":40.010377,
     "geom:longitude":-76.338675,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"115 Waypoint Dr",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -26,8 +27,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85843407
+        85843407,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,17 +38,15 @@
     "wof:geomhash":"b5a90afe1310e480fbb3012c4a1b197f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85843407,
             "region_id":85688481,
             "venue_id":404095489
         }
     ],
     "wof:id":404095489,
-    "wof:lastmodified":1449039698,
+    "wof:lastmodified":1454356762,
     "wof:name":"Grower's Connection",
     "wof:parent_id":85843407,
     "wof:placetype":"venue",
@@ -55,6 +54,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.338675,40.010377,-76.338675,40.010377],
-  "geometry": {"coordinates":[-76.338675,40.010377],"type":"Point"}
+  "bbox": [
+    -76.338675,
+    40.010377,
+    -76.338675,
+    40.010377
+],
+  "geometry": {"coordinates":[-76.33867499999999,40.010377],"type":"Point"}
 }

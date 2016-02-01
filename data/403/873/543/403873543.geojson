@@ -2,13 +2,14 @@
   "id": 403873543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.8044,40.293384,-76.8044,40.293384",
     "geom:latitude":40.293384,
     "geom:longitude":-76.8044,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5005 Locust Ln",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -44,11 +45,13 @@
     "sg:website":"http://www.nationwide.com/agent/HARRISBURG-PENNSYLVANIA-insurance-agent/scott-stoltz/office.html",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85844549,
+        102191575,
+        404486185,
         85633793,
-        101719819,
+        101719811,
         102081347,
-        85844549
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,17 +61,18 @@
     "wof:geomhash":"0143d5cd66f52103fad2396e5a0fb07f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":101719819,
+            "localadmin_id":404486185,
+            "locality_id":101719811,
             "neighbourhood_id":85844549,
             "region_id":85688481,
             "venue_id":403873543
         }
     ],
     "wof:id":403873543,
-    "wof:lastmodified":1449054912,
+    "wof:lastmodified":1454357359,
     "wof:name":"Potteiger-Stoltz Insurance Agency Inc - Nationwide Insurance",
     "wof:parent_id":85844549,
     "wof:placetype":"venue",
@@ -79,6 +83,11 @@
         "homeowner"
     ]
 },
-  "bbox": [-76.8044,40.293384,-76.8044,40.293384],
+  "bbox": [
+    -76.8044,
+    40.293384,
+    -76.8044,
+    40.293384
+],
   "geometry": {"coordinates":[-76.8044,40.293384],"type":"Point"}
 }

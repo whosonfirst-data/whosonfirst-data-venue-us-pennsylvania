@@ -2,13 +2,14 @@
   "id": 387642131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.414567,40.334804,-79.414567,40.334804",
     "geom:latitude":40.334804,
     "geom:longitude":-79.414567,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"18 Lightcap Rd",
     "sg:city":"Latrobe",
     "sg:classifiers":[
@@ -54,7 +55,6 @@
     "wof:geomhash":"1e463c21de2b00dda2f614c6fbcd766d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081383,
             "locality_id":101717167,
@@ -64,7 +64,7 @@
         }
     ],
     "wof:id":387642131,
-    "wof:lastmodified":1449056336,
+    "wof:lastmodified":1454358266,
     "wof:name":"Subway",
     "wof:parent_id":85855831,
     "wof:placetype":"venue",
@@ -77,6 +77,11 @@
         "take"
     ]
 },
-  "bbox": [-79.414567,40.334804,-79.414567,40.334804],
-  "geometry": {"coordinates":[-79.414567,40.334804],"type":"Point"}
+  "bbox": [
+    -79.414567,
+    40.334804,
+    -79.414567,
+    40.334804
+],
+  "geometry": {"coordinates":[-79.41456700000001,40.334804],"type":"Point"}
 }

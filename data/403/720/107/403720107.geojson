@@ -2,13 +2,14 @@
   "id": 403720107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.450844,40.339111,-76.450844,40.339111",
     "geom:latitude":40.339111,
     "geom:longitude":-76.450844,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2200 Cumberland St",
     "sg:city":"Lebanon",
     "sg:classifiers":[
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420538675,
+        102191575,
+        404485807,
         85633793,
         101719391,
-        102081341
+        102081341,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +49,20 @@
     "wof:geomhash":"1c080dc893620e8a1e090fecf20b4aaa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081341,
+            "localadmin_id":404485807,
             "locality_id":101719391,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420538675,
             "region_id":85688481,
             "venue_id":403720107
         }
     ],
     "wof:id":403720107,
-    "wof:lastmodified":1449054959,
+    "wof:lastmodified":1454357384,
     "wof:name":"The Fenwick",
-    "wof:parent_id":-1,
+    "wof:parent_id":420538675,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -65,6 +70,11 @@
         "tavern"
     ]
 },
-  "bbox": [-76.450844,40.339111,-76.450844,40.339111],
+  "bbox": [
+    -76.450844,
+    40.339111,
+    -76.450844,
+    40.339111
+],
   "geometry": {"coordinates":[-76.450844,40.339111],"type":"Point"}
 }

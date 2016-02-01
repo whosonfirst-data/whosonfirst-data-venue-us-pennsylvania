@@ -2,13 +2,14 @@
   "id": 387714817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.004097,40.704399,-80.004097,40.704399",
     "geom:latitude":40.704399,
     "geom:longitude":-80.004097,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"414 Spring Street Ext",
     "sg:city":"Mars",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102083677,
-        85815109
+        85815109,
+        102083677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"06ad03ebcef0e3172bb4187369579d9a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102083677,
-            "locality_id":-1,
             "neighbourhood_id":85815109,
             "region_id":85688481,
             "venue_id":387714817
         }
     ],
     "wof:id":387714817,
-    "wof:lastmodified":1449057979,
+    "wof:lastmodified":1454360645,
     "wof:name":"Rinaman Robert D Electric Contractor",
     "wof:parent_id":85815109,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.004097,40.704399,-80.004097,40.704399],
+  "bbox": [
+    -80.004097,
+    40.704399,
+    -80.004097,
+    40.704399
+],
   "geometry": {"coordinates":[-80.004097,40.704399],"type":"Point"}
 }

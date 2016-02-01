@@ -2,13 +2,14 @@
   "id": 387586753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.754967,39.900532,-79.754967,39.900532",
     "geom:latitude":39.900532,
     "geom:longitude":-79.754967,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"655 Cherry Tree Ln",
     "sg:city":"Uniontown",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85850161,
+        102191575,
+        404487055,
         85633793,
+        101719799,
         102080959,
-        85850161
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +45,18 @@
     "wof:geomhash":"492acb49fe3272e1445c9a7895896f48",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080959,
-            "locality_id":-1,
+            "localadmin_id":404487055,
+            "locality_id":101719799,
             "neighbourhood_id":85850161,
             "region_id":85688481,
             "venue_id":387586753
         }
     ],
     "wof:id":387586753,
-    "wof:lastmodified":1449059477,
+    "wof:lastmodified":1454361094,
     "wof:name":"Larsen, Charles Allan Dpm",
     "wof:parent_id":85850161,
     "wof:placetype":"venue",
@@ -62,6 +67,11 @@
         "surgeons"
     ]
 },
-  "bbox": [-79.754967,39.900532,-79.754967,39.900532],
-  "geometry": {"coordinates":[-79.754967,39.900532],"type":"Point"}
+  "bbox": [
+    -79.754967,
+    39.900532,
+    -79.754967,
+    39.900532
+],
+  "geometry": {"coordinates":[-79.75496699999999,39.900532],"type":"Point"}
 }

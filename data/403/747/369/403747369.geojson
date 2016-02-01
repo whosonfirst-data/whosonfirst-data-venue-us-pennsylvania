@@ -2,13 +2,14 @@
   "id": 403747369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.967461,40.237305,-76.967461,40.237305",
     "geom:latitude":40.237305,
     "geom:longitude":-76.967461,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4850 Carlisle Pike",
     "sg:city":"Mechanicsburg",
     "sg:classifiers":[
@@ -27,8 +28,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081359,
-        85850501
+        85850501,
+        102081359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +39,15 @@
     "wof:geomhash":"eb9238c94e3dfb56432dd51212093677",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081359,
-            "locality_id":-1,
             "neighbourhood_id":85850501,
             "region_id":85688481,
             "venue_id":403747369
         }
     ],
     "wof:id":403747369,
-    "wof:lastmodified":1449054872,
+    "wof:lastmodified":1454357338,
     "wof:name":"Planet Fitness",
     "wof:parent_id":85850501,
     "wof:placetype":"venue",
@@ -56,6 +55,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.967461,40.237305,-76.967461,40.237305],
+  "bbox": [
+    -76.967461,
+    40.237305,
+    -76.967461,
+    40.237305
+],
   "geometry": {"coordinates":[-76.967461,40.237305],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387433847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.149292,40.517502,-80.149292,40.517502",
     "geom:latitude":40.517502,
     "geom:longitude":-80.149292,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"7601 Grand Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[],
@@ -20,8 +21,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85835035
+        85835035,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -31,17 +32,15 @@
     "wof:geomhash":"7ece851451172f30c0873d5007e74a27",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85835035,
             "region_id":85688481,
             "venue_id":387433847
         }
     ],
     "wof:id":387433847,
-    "wof:lastmodified":1449056549,
+    "wof:lastmodified":1454358429,
     "wof:name":"Corpen Lanes",
     "wof:parent_id":85835035,
     "wof:placetype":"venue",
@@ -49,6 +48,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.149292,40.517502,-80.149292,40.517502],
+  "bbox": [
+    -80.149292,
+    40.517502,
+    -80.149292,
+    40.517502
+],
   "geometry": {"coordinates":[-80.149292,40.517502],"type":"Point"}
 }

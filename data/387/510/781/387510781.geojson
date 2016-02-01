@@ -2,13 +2,14 @@
   "id": 387510781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.836594,40.541342,-79.836594,40.541342",
     "geom:latitude":40.541342,
     "geom:longitude":-79.836594,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"520 William Pitt Way",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85844787
+        85844787,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"3575cc5bb9f7e0d0de7023b01822d6ff",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85844787,
             "region_id":85688481,
             "venue_id":387510781
         }
     ],
     "wof:id":387510781,
-    "wof:lastmodified":1449058394,
+    "wof:lastmodified":1454360769,
     "wof:name":"Kairos Instruments",
     "wof:parent_id":85844787,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "laboratory"
     ]
 },
-  "bbox": [-79.836594,40.541342,-79.836594,40.541342],
-  "geometry": {"coordinates":[-79.836594,40.541342],"type":"Point"}
+  "bbox": [
+    -79.836594,
+    40.541342,
+    -79.836594,
+    40.541342
+],
+  "geometry": {"coordinates":[-79.83659400000001,40.541342],"type":"Point"}
 }

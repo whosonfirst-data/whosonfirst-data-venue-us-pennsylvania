@@ -2,13 +2,14 @@
   "id": 403728801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.574096,40.597055,-77.574096,40.597055",
     "geom:latitude":40.597055,
     "geom:longitude":-77.574096,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"11 S Main St",
     "sg:city":"Lewistown",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081333,
-        85835679
+        85835679,
+        102081333
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"773bbadd1be9a26c2f8e4b45ffa6f19e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081333,
-            "locality_id":-1,
             "neighbourhood_id":85835679,
             "region_id":85688481,
             "venue_id":403728801
         }
     ],
     "wof:id":403728801,
-    "wof:lastmodified":1449054952,
+    "wof:lastmodified":1454357382,
     "wof:name":"Curry Wade E Wienken & Associates",
     "wof:parent_id":85835679,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "business"
     ]
 },
-  "bbox": [-77.574096,40.597055,-77.574096,40.597055],
+  "bbox": [
+    -77.574096,
+    40.597055,
+    -77.574096,
+    40.597055
+],
   "geometry": {"coordinates":[-77.574096,40.597055],"type":"Point"}
 }

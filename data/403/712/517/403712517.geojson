@@ -2,13 +2,14 @@
   "id": 403712517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.536008,40.500085,-76.536008,40.500085",
     "geom:latitude":40.500085,
     "geom:longitude":-76.536008,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"203 Green Point School Rd",
     "sg:city":"Jonestown",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081341,
-        85826993
+        85826993,
+        102081341
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"bbdf00b0463f1b1122952d4d65784722",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081341,
-            "locality_id":-1,
             "neighbourhood_id":85826993,
             "region_id":85688481,
             "venue_id":403712517
         }
     ],
     "wof:id":403712517,
-    "wof:lastmodified":1449055206,
+    "wof:lastmodified":1454357534,
     "wof:name":"Reinbold Farms",
     "wof:parent_id":85826993,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "ranch"
     ]
 },
-  "bbox": [-76.536008,40.500085,-76.536008,40.500085],
+  "bbox": [
+    -76.536008,
+    40.500085,
+    -76.536008,
+    40.500085
+],
   "geometry": {"coordinates":[-76.536008,40.500085],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403772939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.750637,40.230917,-76.750637,40.230917",
     "geom:latitude":40.230917,
     "geom:longitude":-76.750637,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1200 Aip Dr",
     "sg:city":"Middletown",
     "sg:classifiers":[
@@ -43,8 +44,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85817195
+        85817195,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,17 +55,15 @@
     "wof:geomhash":"d2c30f8b7d94b845686603e636fd8f9e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85817195,
             "region_id":85688481,
             "venue_id":403772939
         }
     ],
     "wof:id":403772939,
-    "wof:lastmodified":1449055229,
+    "wof:lastmodified":1454357547,
     "wof:name":"Hershey Creamery Co",
     "wof:parent_id":85817195,
     "wof:placetype":"venue",
@@ -78,6 +77,11 @@
         "foods-wholesale"
     ]
 },
-  "bbox": [-76.750637,40.230917,-76.750637,40.230917],
+  "bbox": [
+    -76.750637,
+    40.230917,
+    -76.750637,
+    40.230917
+],
   "geometry": {"coordinates":[-76.750637,40.230917],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387881301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.798212,40.786716,-77.798212,40.786716",
     "geom:latitude":40.786716,
     "geom:longitude":-77.798212,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"341 Mary Elizabeth St",
     "sg:city":"Boalsburg",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081369,
-        85838721
+        85838721,
+        102081369
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"4e301a6f08fd3bfae8b6bab374034ea9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081369,
-            "locality_id":-1,
             "neighbourhood_id":85838721,
             "region_id":85688481,
             "venue_id":387881301
         }
     ],
     "wof:id":387881301,
-    "wof:lastmodified":1449058310,
+    "wof:lastmodified":1454360741,
     "wof:name":"Connelly's Carpet Cleaning",
     "wof:parent_id":85838721,
     "wof:placetype":"venue",
@@ -64,6 +63,11 @@
         "carpet"
     ]
 },
-  "bbox": [-77.798212,40.786716,-77.798212,40.786716],
-  "geometry": {"coordinates":[-77.798212,40.786716],"type":"Point"}
+  "bbox": [
+    -77.798212,
+    40.786716,
+    -77.798212,
+    40.786716
+],
+  "geometry": {"coordinates":[-77.79821200000001,40.786716],"type":"Point"}
 }

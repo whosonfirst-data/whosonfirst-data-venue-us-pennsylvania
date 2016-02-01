@@ -2,13 +2,14 @@
   "id": 387959611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.605615,40.150931,-76.605615,40.150931",
     "geom:latitude":40.150931,
     "geom:longitude":-76.605615,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"45 S Market St",
     "sg:city":"Elizabethtown",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85836929
+        85836929,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"54c668537b2784812d1fd16967aa2770",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85836929,
             "region_id":85688481,
             "venue_id":387959611
         }
     ],
     "wof:id":387959611,
-    "wof:lastmodified":1449059536,
+    "wof:lastmodified":1454361110,
     "wof:name":"Elizabethtown Realty Inc",
     "wof:parent_id":85836929,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "broker"
     ]
 },
-  "bbox": [-76.605615,40.150931,-76.605615,40.150931],
+  "bbox": [
+    -76.605615,
+    40.150931,
+    -76.605615,
+    40.150931
+],
   "geometry": {"coordinates":[-76.605615,40.150931],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404080887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.283298,40.056202,-76.283298,40.056202",
     "geom:latitude":40.056202,
     "geom:longitude":-76.283298,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1068 New Holland Ave",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"http://www.acrscientific.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85822505,
+        102191575,
+        404487183,
         85633793,
         101718643,
         102081377,
-        85822505
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"fde05504b13b59d7d4d71e8fe56797f8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081377,
+            "localadmin_id":404487183,
             "locality_id":101718643,
             "neighbourhood_id":85822505,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":404080887,
-    "wof:lastmodified":1449040300,
+    "wof:lastmodified":1454357121,
     "wof:name":"Acr Scientific Corp",
     "wof:parent_id":85822505,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "laboratories-research"
     ]
 },
-  "bbox": [-76.283298,40.056202,-76.283298,40.056202],
+  "bbox": [
+    -76.283298,
+    40.056202,
+    -76.283298,
+    40.056202
+],
   "geometry": {"coordinates":[-76.283298,40.056202],"type":"Point"}
 }

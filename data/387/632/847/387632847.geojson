@@ -2,13 +2,14 @@
   "id": 387632847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.681458,40.300386,-79.681458,40.300386",
     "geom:latitude":40.300386,
     "geom:longitude":-79.681458,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5 S Rolling Hills Ave",
     "sg:city":"Irwin",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081383,
-        85841171
+        85841171,
+        102081383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"877b868264c96130734c724ad41e94f0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":-1,
             "neighbourhood_id":85841171,
             "region_id":85688481,
             "venue_id":387632847
         }
     ],
     "wof:id":387632847,
-    "wof:lastmodified":1449058536,
+    "wof:lastmodified":1454360808,
     "wof:name":"Mary V. Paich Court Reporting",
     "wof:parent_id":85841171,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "reporters-court"
     ]
 },
-  "bbox": [-79.681458,40.300386,-79.681458,40.300386],
-  "geometry": {"coordinates":[-79.681458,40.300386],"type":"Point"}
+  "bbox": [
+    -79.681458,
+    40.300386,
+    -79.681458,
+    40.300386
+],
+  "geometry": {"coordinates":[-79.68145800000001,40.300386],"type":"Point"}
 }

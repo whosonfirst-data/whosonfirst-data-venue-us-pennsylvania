@@ -2,13 +2,14 @@
   "id": 403789351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.111633,40.492895,-77.111633,40.492895",
     "geom:latitude":40.492895,
     "geom:longitude":-77.111633,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"10 Newport Pl",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -66,8 +67,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080963,
-        85827701
+        85827701,
+        102080963
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,17 +78,15 @@
     "wof:geomhash":"46ee77f14ba2ea9f5ece32383feea563",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080963,
-            "locality_id":-1,
             "neighbourhood_id":85827701,
             "region_id":85688481,
             "venue_id":403789351
         }
     ],
     "wof:id":403789351,
-    "wof:lastmodified":1449055235,
+    "wof:lastmodified":1454357553,
     "wof:name":"Rite Aid",
     "wof:parent_id":85827701,
     "wof:placetype":"venue",
@@ -108,6 +107,11 @@
         "greeting"
     ]
 },
-  "bbox": [-77.111633,40.492895,-77.111633,40.492895],
+  "bbox": [
+    -77.111633,
+    40.492895,
+    -77.111633,
+    40.492895
+],
   "geometry": {"coordinates":[-77.111633,40.492895],"type":"Point"}
 }

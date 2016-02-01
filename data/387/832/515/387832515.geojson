@@ -2,13 +2,14 @@
   "id": 387832515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.143379,42.096378,-80.143379,42.096378",
     "geom:latitude":42.096378,
     "geom:longitude":-80.143379,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1600 Peninsula Dr Ste 15",
     "sg:city":"Erie",
     "sg:classifiers":[
@@ -41,8 +42,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080955,
-        85815773
+        85815773,
+        102080955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,17 +53,15 @@
     "wof:geomhash":"0e5370c84a5ab2a4f2de501a94ffe74b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080955,
-            "locality_id":-1,
             "neighbourhood_id":85815773,
             "region_id":85688481,
             "venue_id":387832515
         }
     ],
     "wof:id":387832515,
-    "wof:lastmodified":1449056130,
+    "wof:lastmodified":1454358107,
     "wof:name":"Snyder Edgar & Assoc",
     "wof:parent_id":85815773,
     "wof:placetype":"venue",
@@ -83,6 +82,11 @@
         "administrative"
     ]
 },
-  "bbox": [-80.143379,42.096378,-80.143379,42.096378],
+  "bbox": [
+    -80.143379,
+    42.096378,
+    -80.143379,
+    42.096378
+],
   "geometry": {"coordinates":[-80.143379,42.096378],"type":"Point"}
 }

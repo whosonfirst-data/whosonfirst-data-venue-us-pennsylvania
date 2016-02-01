@@ -2,13 +2,14 @@
   "id": 404060911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.259522,40.157375,-76.259522,40.157375",
     "geom:latitude":40.157375,
     "geom:longitude":-76.259522,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"133 Rothsville Station Rd",
     "sg:city":"Lititz",
     "sg:classifiers":[
@@ -47,8 +48,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85834405
+        85834405,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,17 +59,15 @@
     "wof:geomhash":"72dab459f3e0cad8592124eb8de8d849",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85834405,
             "region_id":85688481,
             "venue_id":404060911
         }
     ],
     "wof:id":404060911,
-    "wof:lastmodified":1449040227,
+    "wof:lastmodified":1454357073,
     "wof:name":"Binkley & Hurst, LP",
     "wof:parent_id":85834405,
     "wof:placetype":"venue",
@@ -85,6 +84,11 @@
         "saw"
     ]
 },
-  "bbox": [-76.259522,40.157375,-76.259522,40.157375],
+  "bbox": [
+    -76.259522,
+    40.157375,
+    -76.259522,
+    40.157375
+],
   "geometry": {"coordinates":[-76.259522,40.157375],"type":"Point"}
 }

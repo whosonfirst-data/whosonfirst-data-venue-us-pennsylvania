@@ -2,13 +2,14 @@
   "id": 387436875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.019096,40.4049,-80.019096,40.4049",
     "geom:latitude":40.4049,
     "geom:longitude":-80.019096,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1900 W Liberty Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -35,10 +36,13 @@
     "sg:website":"enterprise.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536319,
+        102191575,
+        404482523,
         85633793,
         101718805,
-        102080887
+        102080887,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +52,20 @@
     "wof:geomhash":"b958510294c4841717530c1bfbaf235d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420536319,
             "region_id":85688481,
             "venue_id":387436875
         }
     ],
     "wof:id":387436875,
-    "wof:lastmodified":1449059554,
+    "wof:lastmodified":1454361114,
     "wof:name":"Enterprise Rent A Car",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536319,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -70,6 +75,11 @@
         "car"
     ]
 },
-  "bbox": [-80.019096,40.4049,-80.019096,40.4049],
+  "bbox": [
+    -80.019096,
+    40.4049,
+    -80.019096,
+    40.4049
+],
   "geometry": {"coordinates":[-80.019096,40.4049],"type":"Point"}
 }

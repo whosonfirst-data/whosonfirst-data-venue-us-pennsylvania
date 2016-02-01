@@ -2,13 +2,14 @@
   "id": 253642193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.533458,41.035565,-80.533458,41.035565",
     "geom:latitude":41.035565,
     "geom:longitude":-80.533458,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"400 E Water St",
     "sg:city":"Lowellville",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080929,
-        85845265
+        85845265,
+        102080929
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"78dd378ad8337767d85e894125a3598b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080929,
-            "locality_id":-1,
             "neighbourhood_id":85845265,
             "region_id":85688481,
             "venue_id":253642193
         }
     ],
     "wof:id":253642193,
-    "wof:lastmodified":1449062994,
+    "wof:lastmodified":1454361269,
     "wof:name":"Cricket Construction Ltd",
     "wof:parent_id":85845265,
     "wof:placetype":"venue",
@@ -64,6 +63,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.533458,41.035565,-80.533458,41.035565],
+  "bbox": [
+    -80.533458,
+    41.035565,
+    -80.533458,
+    41.035565
+],
   "geometry": {"coordinates":[-80.533458,41.035565],"type":"Point"}
 }

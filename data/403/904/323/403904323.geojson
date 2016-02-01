@@ -2,13 +2,14 @@
   "id": 403904323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.776337,40.30579,-76.776337,40.30579",
     "geom:latitude":40.30579,
     "geom:longitude":-76.776337,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"708 Wrigley Ln",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85844549,
+        102191575,
+        404486185,
         85633793,
-        101719819,
+        101719811,
         102081347,
-        85844549
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +41,18 @@
     "wof:geomhash":"1cef431ba02771335798c39173bb889e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":101719819,
+            "localadmin_id":404486185,
+            "locality_id":101719811,
             "neighbourhood_id":85844549,
             "region_id":85688481,
             "venue_id":403904323
         }
     ],
     "wof:id":403904323,
-    "wof:lastmodified":1449056005,
+    "wof:lastmodified":1454358004,
     "wof:name":"Find It Media",
     "wof:parent_id":85844549,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.776337,40.30579,-76.776337,40.30579],
+  "bbox": [
+    -76.776337,
+    40.30579,
+    -76.776337,
+    40.30579
+],
   "geometry": {"coordinates":[-76.776337,40.30579],"type":"Point"}
 }

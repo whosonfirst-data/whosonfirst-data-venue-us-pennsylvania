@@ -2,13 +2,14 @@
   "id": 387542707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.237543,40.175785,-80.237543,40.175785",
     "geom:latitude":40.175785,
     "geom:longitude":-80.237543,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"221 Ford Ave",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85852963,
+        102191575,
+        404487917,
         85633793,
         101718569,
         102081343,
-        85852963
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"4486742631fec25cb19b21b4572d34c5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081343,
+            "localadmin_id":404487917,
             "locality_id":101718569,
             "neighbourhood_id":85852963,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387542707,
-    "wof:lastmodified":1449059059,
+    "wof:lastmodified":1454360972,
     "wof:name":"Dhans Electronics",
     "wof:parent_id":85852963,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "consultant"
     ]
 },
-  "bbox": [-80.237543,40.175785,-80.237543,40.175785],
+  "bbox": [
+    -80.237543,
+    40.175785,
+    -80.237543,
+    40.175785
+],
   "geometry": {"coordinates":[-80.237543,40.175785],"type":"Point"}
 }

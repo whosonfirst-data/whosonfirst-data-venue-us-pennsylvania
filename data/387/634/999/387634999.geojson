@@ -2,13 +2,14 @@
   "id": 387634999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.765661,40.321737,-79.765661,40.321737",
     "geom:latitude":40.321737,
     "geom:longitude":-79.765661,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"13490 Lincoln Way",
     "sg:city":"Irwin",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081383,
-        85804559
+        85804559,
+        102081383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"2a9ba595620424cd287baf794f5cb0c3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":-1,
             "neighbourhood_id":85804559,
             "region_id":85688481,
             "venue_id":387634999
         }
     ],
     "wof:id":387634999,
-    "wof:lastmodified":1449057919,
+    "wof:lastmodified":1454360633,
     "wof:name":"General Electric Company",
     "wof:parent_id":85804559,
     "wof:placetype":"venue",
@@ -63,6 +62,11 @@
         "supply"
     ]
 },
-  "bbox": [-79.765661,40.321737,-79.765661,40.321737],
-  "geometry": {"coordinates":[-79.765661,40.321737],"type":"Point"}
+  "bbox": [
+    -79.765661,
+    40.321737,
+    -79.765661,
+    40.321737
+],
+  "geometry": {"coordinates":[-79.76566099999999,40.321737],"type":"Point"}
 }

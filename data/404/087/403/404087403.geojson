@@ -2,13 +2,14 @@
   "id": 404087403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.242097,40.032482,-76.242097,40.032482",
     "geom:latitude":40.032482,
     "geom:longitude":-76.242097,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2034 Lincoln Hwy E",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -79,8 +80,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85823025
+        85823025,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,17 +91,15 @@
     "wof:geomhash":"8fe6b121eec1b8d8a3268efae2ff6770",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85823025,
             "region_id":85688481,
             "venue_id":404087403
         }
     ],
     "wof:id":404087403,
-    "wof:lastmodified":1449039569,
+    "wof:lastmodified":1454356719,
     "wof:name":"T-Mobile",
     "wof:parent_id":85823025,
     "wof:placetype":"venue",
@@ -119,6 +118,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-76.242097,40.032482,-76.242097,40.032482],
+  "bbox": [
+    -76.242097,
+    40.032482,
+    -76.242097,
+    40.032482
+],
   "geometry": {"coordinates":[-76.242097,40.032482],"type":"Point"}
 }

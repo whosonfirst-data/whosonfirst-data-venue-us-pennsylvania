@@ -2,13 +2,14 @@
   "id": 387491133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.952083,40.347654,-79.952083,40.347654",
     "geom:latitude":40.347654,
     "geom:longitude":-79.952083,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1686 Lebanon Church Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85834159,
+        102191575,
+        404484243,
         85633793,
         101718717,
         102080887,
-        85834159
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"26e0f58b30c97dd3ced16afcbc235e15",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484243,
             "locality_id":101718717,
             "neighbourhood_id":85834159,
             "region_id":85688481,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":387491133,
-    "wof:lastmodified":1449056052,
+    "wof:lastmodified":1454358045,
     "wof:name":"Tim Mcconnell",
     "wof:parent_id":85834159,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "cars-wholesale"
     ]
 },
-  "bbox": [-79.952083,40.347654,-79.952083,40.347654],
+  "bbox": [
+    -79.952083,
+    40.347654,
+    -79.952083,
+    40.347654
+],
   "geometry": {"coordinates":[-79.952083,40.347654],"type":"Point"}
 }

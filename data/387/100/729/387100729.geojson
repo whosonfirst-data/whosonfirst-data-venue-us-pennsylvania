@@ -2,13 +2,14 @@
   "id": 387100729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.164803,40.640999,-80.164803,40.640999",
     "geom:latitude":40.640999,
     "geom:longitude":-80.164803,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3151 Conway Wallrose Rd",
     "sg:city":"Baden",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85854277,
+        102191575,
+        404484437,
         85633793,
         101718383,
         102081323,
-        85854277
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"5240b3f5b293c4c4a8340064df3662e4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081323,
+            "localadmin_id":404484437,
             "locality_id":101718383,
             "neighbourhood_id":85854277,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387100729,
-    "wof:lastmodified":1449058928,
+    "wof:lastmodified":1454360929,
     "wof:name":"Allegheny Baptist Temple",
     "wof:parent_id":85854277,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "elementary"
     ]
 },
-  "bbox": [-80.164803,40.640999,-80.164803,40.640999],
-  "geometry": {"coordinates":[-80.164803,40.640999],"type":"Point"}
+  "bbox": [
+    -80.164803,
+    40.640999,
+    -80.164803,
+    40.640999
+],
+  "geometry": {"coordinates":[-80.16480300000001,40.640999],"type":"Point"}
 }

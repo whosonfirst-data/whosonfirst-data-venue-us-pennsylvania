@@ -2,13 +2,14 @@
   "id": 404161145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.387012,40.584612,-75.387012,40.584612",
     "geom:latitude":40.584612,
     "geom:longitude":-75.387012,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3673 Route 378",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -46,8 +47,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081395,
-        85859207
+        85859207,
+        102081395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,17 +58,15 @@
     "wof:geomhash":"091c01d5533bff54598cf3d02ee3f431",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081395,
-            "locality_id":-1,
             "neighbourhood_id":85859207,
             "region_id":85688481,
             "venue_id":404161145
         }
     ],
     "wof:id":404161145,
-    "wof:lastmodified":1449039508,
+    "wof:lastmodified":1454356689,
     "wof:name":"Blockbuster Video",
     "wof:parent_id":85859207,
     "wof:placetype":"venue",
@@ -84,6 +83,11 @@
         "tape"
     ]
 },
-  "bbox": [-75.387012,40.584612,-75.387012,40.584612],
+  "bbox": [
+    -75.387012,
+    40.584612,
+    -75.387012,
+    40.584612
+],
   "geometry": {"coordinates":[-75.387012,40.584612],"type":"Point"}
 }

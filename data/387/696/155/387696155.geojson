@@ -2,13 +2,14 @@
   "id": 387696155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.917572,40.90453,-79.917572,40.90453",
     "geom:latitude":40.90453,
     "geom:longitude":-79.917572,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1650 N Main Street Ext",
     "sg:city":"Butler",
     "sg:classifiers":[
@@ -44,10 +45,13 @@
     "sg:website":"http://www.dickmusko.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536957,
+        102191575,
+        404485061,
         85633793,
         101720155,
-        102083677
+        102083677,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,19 +61,20 @@
     "wof:geomhash":"83100d9d1bee2284ddd3d49ed92a6a3b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083677,
+            "localadmin_id":404485061,
             "locality_id":101720155,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420536957,
             "region_id":85688481,
             "venue_id":387696155
         }
     ],
     "wof:id":387696155,
-    "wof:lastmodified":1449056395,
+    "wof:lastmodified":1454358311,
     "wof:name":"R P Musko & Associates",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536957,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -83,6 +88,11 @@
         "public"
     ]
 },
-  "bbox": [-79.917572,40.90453,-79.917572,40.90453],
-  "geometry": {"coordinates":[-79.917572,40.90453],"type":"Point"}
+  "bbox": [
+    -79.917572,
+    40.90453,
+    -79.917572,
+    40.90453
+],
+  "geometry": {"coordinates":[-79.91757200000001,40.90453],"type":"Point"}
 }

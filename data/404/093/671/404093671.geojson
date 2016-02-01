@@ -2,13 +2,14 @@
   "id": 404093671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.424119,40.015273,-76.424119,40.015273",
     "geom:latitude":40.015273,
     "geom:longitude":-76.424119,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"651A Forrey Rd",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85814875
+        85814875,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"cd69f87b0204f5ec947bd123943a0336",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85814875,
             "region_id":85688481,
             "venue_id":404093671
         }
     ],
     "wof:id":404093671,
-    "wof:lastmodified":1449039082,
+    "wof:lastmodified":1454356411,
     "wof:name":"Robert Noll",
     "wof:parent_id":85814875,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "product"
     ]
 },
-  "bbox": [-76.424119,40.015273,-76.424119,40.015273],
+  "bbox": [
+    -76.424119,
+    40.015273,
+    -76.424119,
+    40.015273
+],
   "geometry": {"coordinates":[-76.424119,40.015273],"type":"Point"}
 }

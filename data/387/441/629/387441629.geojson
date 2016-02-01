@@ -2,13 +2,14 @@
   "id": 387441629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.053213,40.384609,-80.053213,40.384609",
     "geom:latitude":40.384609,
     "geom:longitude":-80.053213,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"461 Cochran Rd Ste 139",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     "sg:website":"www.sterling-advertising.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85804395,
+        102191575,
+        404482523,
         85633793,
+        101718805,
         102080887,
-        85804395
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +46,18 @@
     "wof:geomhash":"81ea0826b4fd03834d88efe37bb04967",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
+            "localadmin_id":404482523,
+            "locality_id":101718805,
             "neighbourhood_id":85804395,
             "region_id":85688481,
             "venue_id":387441629
         }
     ],
     "wof:id":387441629,
-    "wof:lastmodified":1449056404,
+    "wof:lastmodified":1454358318,
     "wof:name":"Sterling Advertising Company",
     "wof:parent_id":85804395,
     "wof:placetype":"venue",
@@ -63,6 +68,11 @@
         "mass"
     ]
 },
-  "bbox": [-80.053213,40.384609,-80.053213,40.384609],
+  "bbox": [
+    -80.053213,
+    40.384609,
+    -80.053213,
+    40.384609
+],
   "geometry": {"coordinates":[-80.053213,40.384609],"type":"Point"}
 }

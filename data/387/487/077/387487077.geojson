@@ -2,13 +2,14 @@
   "id": 387487077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.829368,40.445816,-79.829368,40.445816",
     "geom:latitude":40.445816,
     "geom:longitude":-79.829368,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"145 Purity Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85812851
+        85812851,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"01d919daa0cdd4e44a4e6bec198c3d8a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85812851,
             "region_id":85688481,
             "venue_id":387487077
         }
     ],
     "wof:id":387487077,
-    "wof:lastmodified":1449057341,
+    "wof:lastmodified":1454359040,
     "wof:name":"Wp Snacks",
     "wof:parent_id":85812851,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "potato"
     ]
 },
-  "bbox": [-79.829368,40.445816,-79.829368,40.445816],
+  "bbox": [
+    -79.829368,
+    40.445816,
+    -79.829368,
+    40.445816
+],
   "geometry": {"coordinates":[-79.829368,40.445816],"type":"Point"}
 }

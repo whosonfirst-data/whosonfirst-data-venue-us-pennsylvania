@@ -2,13 +2,14 @@
   "id": 404098881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.998087,41.248124,-76.998087,41.248124",
     "geom:latitude":41.248124,
     "geom:longitude":-76.998087,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"835 Franklin St",
     "sg:city":"Williamsport",
     "sg:classifiers":[
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85802799,
+        102191575,
+        404485355,
         85633793,
-        101716811,
+        101716809,
         102081317,
-        85802799
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"8db42ec2ad7872e451cdcf2d1e77f9d3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081317,
-            "locality_id":101716811,
+            "localadmin_id":404485355,
+            "locality_id":101716809,
             "neighbourhood_id":85802799,
             "region_id":85688481,
             "venue_id":404098881
         }
     ],
     "wof:id":404098881,
-    "wof:lastmodified":1449040205,
+    "wof:lastmodified":1454357060,
     "wof:name":"The Port Tavern",
     "wof:parent_id":85802799,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "tavern"
     ]
 },
-  "bbox": [-76.998087,41.248124,-76.998087,41.248124],
+  "bbox": [
+    -76.998087,
+    41.248124,
+    -76.998087,
+    41.248124
+],
   "geometry": {"coordinates":[-76.998087,41.248124],"type":"Point"}
 }

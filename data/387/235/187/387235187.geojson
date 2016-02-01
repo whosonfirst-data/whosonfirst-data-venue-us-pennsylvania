@@ -2,13 +2,14 @@
   "id": 387235187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.087898,40.3936,-80.087898,40.3936",
     "geom:latitude":40.3936,
     "geom:longitude":-80.087898,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"409 1st St",
     "sg:city":"Carnegie",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85821875,
+        102191575,
+        404484865,
         85633793,
         101718775,
         102080887,
-        85821875
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"19f3222ca6394657f7bad499c8d6e1ac",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484865,
             "locality_id":101718775,
             "neighbourhood_id":85821875,
             "region_id":85688481,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":387235187,
-    "wof:lastmodified":1449056755,
+    "wof:lastmodified":1454358585,
     "wof:name":"Target Cleaners",
     "wof:parent_id":85821875,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.087898,40.3936,-80.087898,40.3936],
+  "bbox": [
+    -80.087898,
+    40.3936,
+    -80.087898,
+    40.3936
+],
   "geometry": {"coordinates":[-80.087898,40.3936],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387574323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.1815,39.971773,-80.1815,39.971773",
     "geom:latitude":39.971773,
     "geom:longitude":-80.1815,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"104 Shamrock Rd",
     "sg:city":"Prosperity",
     "sg:classifiers":[
@@ -32,8 +33,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080975,
-        85830833
+        85830833,
+        102080975
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +44,15 @@
     "wof:geomhash":"e3420be24fdb5eb020c0fb5f8939e9d9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080975,
-            "locality_id":-1,
             "neighbourhood_id":85830833,
             "region_id":85688481,
             "venue_id":387574323
         }
     ],
     "wof:id":387574323,
-    "wof:lastmodified":1449056088,
+    "wof:lastmodified":1454358076,
     "wof:name":"Wayne Blaker Electrical Contractor",
     "wof:parent_id":85830833,
     "wof:placetype":"venue",
@@ -66,6 +65,11 @@
         "electric"
     ]
 },
-  "bbox": [-80.1815,39.971773,-80.1815,39.971773],
+  "bbox": [
+    -80.1815,
+    39.971773,
+    -80.1815,
+    39.971773
+],
   "geometry": {"coordinates":[-80.1815,39.971773],"type":"Point"}
 }

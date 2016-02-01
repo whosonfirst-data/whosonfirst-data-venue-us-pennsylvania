@@ -2,13 +2,14 @@
   "id": 404019291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.667122,39.90003,-76.667122,39.90003",
     "geom:latitude":39.90003,
     "geom:longitude":-76.667122,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2935 Woodshead Ter",
     "sg:city":"York",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080953,
-        85868591
+        85868591,
+        102080953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"bf543ba2c3aa3c0a0428c1f4ef9eda79",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
             "neighbourhood_id":85868591,
             "region_id":85688481,
             "venue_id":404019291
         }
     ],
     "wof:id":404019291,
-    "wof:lastmodified":1449039818,
+    "wof:lastmodified":1454356821,
     "wof:name":"James W Rutledge Agent",
     "wof:parent_id":85868591,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "business"
     ]
 },
-  "bbox": [-76.667122,39.90003,-76.667122,39.90003],
-  "geometry": {"coordinates":[-76.667122,39.90003],"type":"Point"}
+  "bbox": [
+    -76.667122,
+    39.90003,
+    -76.667122,
+    39.90003
+],
+  "geometry": {"coordinates":[-76.66712200000001,39.90003],"type":"Point"}
 }

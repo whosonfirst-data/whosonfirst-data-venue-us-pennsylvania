@@ -2,13 +2,14 @@
   "id": 387853635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.396976,40.514558,-78.396976,40.514558",
     "geom:latitude":40.514558,
     "geom:longitude":-78.396976,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1103 8th Ave",
     "sg:city":"Altoona",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85808899,
+        102191575,
+        404484619,
         85633793,
         101716595,
         102081325,
-        85808899
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"8b7950817bc959b8de272f3d21db3da6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081325,
+            "localadmin_id":404484619,
             "locality_id":101716595,
             "neighbourhood_id":85808899,
             "region_id":85688481,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":387853635,
-    "wof:lastmodified":1449057642,
+    "wof:lastmodified":1454360540,
     "wof:name":"Curl Up & Dye Inc",
     "wof:parent_id":85808899,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.396976,40.514558,-78.396976,40.514558],
+  "bbox": [
+    -78.396976,
+    40.514558,
+    -78.396976,
+    40.514558
+],
   "geometry": {"coordinates":[-78.396976,40.514558],"type":"Point"}
 }

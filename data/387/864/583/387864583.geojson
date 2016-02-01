@@ -2,13 +2,14 @@
   "id": 387864583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.628907,40.620683,-78.628907,40.620683",
     "geom:latitude":40.620683,
     "geom:longitude":-78.628907,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4453 Colonel Drake Hwy",
     "sg:city":"Patton",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080879,
-        85836245
+        85836245,
+        102080879
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"f4a0f5ca62eaf4fdd7c8bc9b5af31305",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080879,
-            "locality_id":-1,
             "neighbourhood_id":85836245,
             "region_id":85688481,
             "venue_id":387864583
         }
     ],
     "wof:id":387864583,
-    "wof:lastmodified":1449059968,
+    "wof:lastmodified":1454361247,
     "wof:name":"T & J Distributors",
     "wof:parent_id":85836245,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-78.628907,40.620683,-78.628907,40.620683],
+  "bbox": [
+    -78.628907,
+    40.620683,
+    -78.628907,
+    40.620683
+],
   "geometry": {"coordinates":[-78.628907,40.620683],"type":"Point"}
 }

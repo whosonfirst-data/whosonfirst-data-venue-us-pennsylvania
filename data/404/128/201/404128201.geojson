@@ -2,13 +2,14 @@
   "id": 404128201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.603552,40.966621,-76.603552,40.966621",
     "geom:latitude":40.966621,
     "geom:longitude":-76.603552,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"100 N Academy Ave",
     "sg:city":"Danville",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080931,
-        85833629
+        85833629,
+        102080931
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"f1cb572face8bab2e498cfaf2bfbe151",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080931,
-            "locality_id":-1,
             "neighbourhood_id":85833629,
             "region_id":85688481,
             "venue_id":404128201
         }
     ],
     "wof:id":404128201,
-    "wof:lastmodified":1449039499,
+    "wof:lastmodified":1454356681,
     "wof:name":"Select Specialty Hospital-Danville",
     "wof:parent_id":85833629,
     "wof:placetype":"venue",
@@ -66,6 +65,11 @@
         "medical"
     ]
 },
-  "bbox": [-76.603552,40.966621,-76.603552,40.966621],
-  "geometry": {"coordinates":[-76.603552,40.966621],"type":"Point"}
+  "bbox": [
+    -76.603552,
+    40.966621,
+    -76.603552,
+    40.966621
+],
+  "geometry": {"coordinates":[-76.60355199999999,40.966621],"type":"Point"}
 }

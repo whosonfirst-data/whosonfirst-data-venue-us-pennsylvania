@@ -2,13 +2,14 @@
   "id": 387179107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.794611,40.570872,-79.794611,40.570872",
     "geom:latitude":40.570872,
     "geom:longitude":-79.794611,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"234 Pittsburgh Mills Cir",
     "sg:city":"Tarentum",
     "sg:classifiers":[
@@ -39,8 +40,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85821635
+        85821635,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,17 +51,15 @@
     "wof:geomhash":"a915af5fe00da345775fb423d315e653",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85821635,
             "region_id":85688481,
             "venue_id":387179107
         }
     ],
     "wof:id":387179107,
-    "wof:lastmodified":1449059522,
+    "wof:lastmodified":1454361107,
     "wof:name":"Verizon Wireless",
     "wof:parent_id":85821635,
     "wof:placetype":"venue",
@@ -75,6 +74,11 @@
         "cellular"
     ]
 },
-  "bbox": [-79.794611,40.570872,-79.794611,40.570872],
+  "bbox": [
+    -79.794611,
+    40.570872,
+    -79.794611,
+    40.570872
+],
   "geometry": {"coordinates":[-79.794611,40.570872],"type":"Point"}
 }

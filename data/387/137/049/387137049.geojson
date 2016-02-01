@@ -2,13 +2,14 @@
   "id": 387137049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.422287,40.529267,-80.422287,40.529267",
     "geom:latitude":40.529267,
     "geom:longitude":-80.422287,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2634 Route 18",
     "sg:city":"Clinton",
     "sg:classifiers":[
@@ -37,8 +38,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85836049
+        85836049,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +49,15 @@
     "wof:geomhash":"d7ff5ff90a324428881bfc735716be0c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85836049,
             "region_id":85688481,
             "venue_id":387137049
         }
     ],
     "wof:id":387137049,
-    "wof:lastmodified":1449059398,
+    "wof:lastmodified":1454361069,
     "wof:name":"Reese Concrete",
     "wof:parent_id":85836049,
     "wof:placetype":"venue",
@@ -70,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.422287,40.529267,-80.422287,40.529267],
+  "bbox": [
+    -80.422287,
+    40.529267,
+    -80.422287,
+    40.529267
+],
   "geometry": {"coordinates":[-80.422287,40.529267],"type":"Point"}
 }

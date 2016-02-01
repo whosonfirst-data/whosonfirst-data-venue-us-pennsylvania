@@ -2,13 +2,14 @@
   "id": 404209717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.372324,40.62257,-75.372324,40.62257",
     "geom:latitude":40.62257,
     "geom:longitude":-75.372324,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"221 E Broad St",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     "sg:website":"www.trescalini.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85897241,
+        102191575,
+        404485987,
         85633793,
         101717907,
         102081395,
-        85897241
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"588441e0454823e74165bdbcf954adb6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081395,
+            "localadmin_id":404485987,
             "locality_id":101717907,
             "neighbourhood_id":85897241,
             "region_id":85688481,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":404209717,
-    "wof:lastmodified":1449040194,
+    "wof:lastmodified":1454357056,
     "wof:name":"Tre Scalini",
     "wof:parent_id":85897241,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "italian"
     ]
 },
-  "bbox": [-75.372324,40.62257,-75.372324,40.62257],
-  "geometry": {"coordinates":[-75.372324,40.62257],"type":"Point"}
+  "bbox": [
+    -75.372324,
+    40.62257,
+    -75.372324,
+    40.62257
+],
+  "geometry": {"coordinates":[-75.37232400000001,40.62257],"type":"Point"}
 }

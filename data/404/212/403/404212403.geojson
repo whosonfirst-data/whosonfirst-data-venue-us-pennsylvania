@@ -2,13 +2,14 @@
   "id": 404212403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.368919,40.621342,-75.368919,40.621342",
     "geom:latitude":40.621342,
     "geom:longitude":-75.368919,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"528 Maple St",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     "sg:website":"http://www.aristidelaw.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85897241,
+        102191575,
+        404485987,
         85633793,
         101717907,
         102081395,
-        85897241
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"8196387b9b18fea71e2452d7efa7b90f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081395,
+            "localadmin_id":404485987,
             "locality_id":101717907,
             "neighbourhood_id":85897241,
             "region_id":85688481,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":404212403,
-    "wof:lastmodified":1449039912,
+    "wof:lastmodified":1454356884,
     "wof:name":"Aristide Law Offices",
     "wof:parent_id":85897241,
     "wof:placetype":"venue",
@@ -72,6 +76,11 @@
         "law"
     ]
 },
-  "bbox": [-75.368919,40.621342,-75.368919,40.621342],
-  "geometry": {"coordinates":[-75.368919,40.621342],"type":"Point"}
+  "bbox": [
+    -75.368919,
+    40.621342,
+    -75.368919,
+    40.621342
+],
+  "geometry": {"coordinates":[-75.36891900000001,40.621342],"type":"Point"}
 }

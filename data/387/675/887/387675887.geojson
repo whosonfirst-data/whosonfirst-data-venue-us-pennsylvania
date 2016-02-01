@@ -2,13 +2,14 @@
   "id": 387675887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.921198,40.321795,-78.921198,40.321795",
     "geom:latitude":40.321795,
     "geom:longitude":-78.921198,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"337 Somerset St Fl 1",
     "sg:city":"Johnstown",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     "sg:website":"http://www.upmc.edu",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85828219,
+        102191575,
+        404485493,
         85633793,
-        101717809,
+        101717777,
         102080879,
-        85828219
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +51,18 @@
     "wof:geomhash":"662556e861bcf9a0a0736129ef78683d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080879,
-            "locality_id":101717809,
+            "localadmin_id":404485493,
+            "locality_id":101717777,
             "neighbourhood_id":85828219,
             "region_id":85688481,
             "venue_id":387675887
         }
     ],
     "wof:id":387675887,
-    "wof:lastmodified":1449058041,
+    "wof:lastmodified":1454360665,
     "wof:name":"Upmc Cancer Center",
     "wof:parent_id":85828219,
     "wof:placetype":"venue",
@@ -69,6 +73,11 @@
         "cancer"
     ]
 },
-  "bbox": [-78.921198,40.321795,-78.921198,40.321795],
+  "bbox": [
+    -78.921198,
+    40.321795,
+    -78.921198,
+    40.321795
+],
   "geometry": {"coordinates":[-78.921198,40.321795],"type":"Point"}
 }

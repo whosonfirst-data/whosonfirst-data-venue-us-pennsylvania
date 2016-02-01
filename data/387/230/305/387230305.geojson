@@ -2,13 +2,14 @@
   "id": 387230305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.865617,40.397222,-79.865617,40.397222",
     "geom:latitude":40.397222,
     "geom:longitude":-79.865617,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1000 Washington Ave",
     "sg:city":"Braddock",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     "sg:website":"http://www.cryostar.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536333,
+        102191575,
+        404484859,
         85633793,
-        101718793,
-        102080887
+        101718785,
+        102080887,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,20 @@
     "wof:geomhash":"d8c1299279942ca5ce2979bfcfefd69f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":101718793,
-            "neighbourhood_id":-1,
+            "localadmin_id":404484859,
+            "locality_id":101718785,
+            "neighbourhood_id":420536333,
             "region_id":85688481,
             "venue_id":387230305
         }
     ],
     "wof:id":387230305,
-    "wof:lastmodified":1449058930,
+    "wof:lastmodified":1454360930,
     "wof:name":"Linde",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536333,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -65,6 +70,11 @@
         "gas-industrial"
     ]
 },
-  "bbox": [-79.865617,40.397222,-79.865617,40.397222],
+  "bbox": [
+    -79.865617,
+    40.397222,
+    -79.865617,
+    40.397222
+],
   "geometry": {"coordinates":[-79.865617,40.397222],"type":"Point"}
 }

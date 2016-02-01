@@ -2,13 +2,14 @@
   "id": 387248435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.906472,40.413418,-79.906472,40.413418",
     "geom:latitude":40.413418,
     "geom:longitude":-79.906472,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"529 Waterfront Dr E # 3108",
     "sg:city":"Homestead",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85821717,
+        102191575,
+        404482523,
         85633793,
         101718719,
         102080887,
-        85821717
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"743ec6bc1afaec664177f8ea7c6d0f85",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718719,
             "neighbourhood_id":85821717,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387248435,
-    "wof:lastmodified":1449058201,
+    "wof:lastmodified":1454360709,
     "wof:name":"State Security And Investigations Services",
     "wof:parent_id":85821717,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "system"
     ]
 },
-  "bbox": [-79.906472,40.413418,-79.906472,40.413418],
-  "geometry": {"coordinates":[-79.906472,40.413418],"type":"Point"}
+  "bbox": [
+    -79.906472,
+    40.413418,
+    -79.906472,
+    40.413418
+],
+  "geometry": {"coordinates":[-79.90647199999999,40.413418],"type":"Point"}
 }

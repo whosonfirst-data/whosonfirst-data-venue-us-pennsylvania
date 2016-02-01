@@ -2,13 +2,14 @@
   "id": 403986395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.233743,39.828514,-77.233743,39.828514",
     "geom:latitude":39.828514,
     "geom:longitude":-77.233743,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"124 W High St",
     "sg:city":"Gettysburg",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080899,
-        85804527
+        85804527,
+        102080899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"328d0be9f519c8884bcb004a2635bd39",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080899,
-            "locality_id":-1,
             "neighbourhood_id":85804527,
             "region_id":85688481,
             "venue_id":403986395
         }
     ],
     "wof:id":403986395,
-    "wof:lastmodified":1449055705,
+    "wof:lastmodified":1454357830,
     "wof:name":"Viramgama Kiran J MD",
     "wof:parent_id":85804527,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-77.233743,39.828514,-77.233743,39.828514],
+  "bbox": [
+    -77.233743,
+    39.828514,
+    -77.233743,
+    39.828514
+],
   "geometry": {"coordinates":[-77.233743,39.828514],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403717321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.424347,40.337978,-76.424347,40.337978",
     "geom:latitude":40.337978,
     "geom:longitude":-76.424347,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"101 S 8th St",
     "sg:city":"Lebanon",
     "sg:classifiers":[],
@@ -19,11 +20,13 @@
     "sg:website":"http://national.citysearch.com/profile/external/604421842/lebanon_pa/roto_rooter_plumbing_drain_services.html?publisher=yellowpages&reference_id=1&placement=ypwebsitemip",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85842249,
+        102191575,
+        404485699,
         85633793,
         101717093,
         102081341,
-        85842249
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -33,9 +36,10 @@
     "wof:geomhash":"e3ee7143e0f53e2ac0f25dfafc177ee2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081341,
+            "localadmin_id":404485699,
             "locality_id":101717093,
             "neighbourhood_id":85842249,
             "region_id":85688481,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":403717321,
-    "wof:lastmodified":1449054654,
+    "wof:lastmodified":1454357194,
     "wof:name":"Roto-Rooter Plumbing & Drain Services",
     "wof:parent_id":85842249,
     "wof:placetype":"venue",
@@ -51,6 +55,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.424347,40.337978,-76.424347,40.337978],
+  "bbox": [
+    -76.424347,
+    40.337978,
+    -76.424347,
+    40.337978
+],
   "geometry": {"coordinates":[-76.424347,40.337978],"type":"Point"}
 }

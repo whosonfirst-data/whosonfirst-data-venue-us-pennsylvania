@@ -2,13 +2,14 @@
   "id": 387966055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.430592,40.445882,-76.430592,40.445882",
     "geom:latitude":40.445882,
     "geom:longitude":-76.430592,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"132 N Center St",
     "sg:city":"Fredericksburg",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081341,
-        85848469
+        85848469,
+        102081341
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"bfbd31d8b2cdc79a7f1ecd081c3c0716",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081341,
-            "locality_id":-1,
             "neighbourhood_id":85848469,
             "region_id":85688481,
             "venue_id":387966055
         }
     ],
     "wof:id":387966055,
-    "wof:lastmodified":1449056139,
+    "wof:lastmodified":1454358113,
     "wof:name":"Carl R Miller",
     "wof:parent_id":85848469,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "carpenter"
     ]
 },
-  "bbox": [-76.430592,40.445882,-76.430592,40.445882],
+  "bbox": [
+    -76.430592,
+    40.445882,
+    -76.430592,
+    40.445882
+],
   "geometry": {"coordinates":[-76.430592,40.445882],"type":"Point"}
 }

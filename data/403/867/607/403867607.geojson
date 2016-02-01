@@ -2,13 +2,14 @@
   "id": 403867607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.825251,40.296539,-76.825251,40.296539",
     "geom:latitude":40.296539,
     "geom:longitude":-76.825251,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4059 Jonestown Rd",
     "sg:city":"Colonial Park",
     "sg:classifiers":[
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85843183,
+        102191575,
+        404486305,
         85633793,
         101719821,
         102081347,
-        85843183
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"d0673347929f35e8ea0096352c94c4d7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
+            "localadmin_id":404486305,
             "locality_id":101719821,
             "neighbourhood_id":85843183,
             "region_id":85688481,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":403867607,
-    "wof:lastmodified":1449055211,
+    "wof:lastmodified":1454357539,
     "wof:name":"RDS Paving & Seal Coating Inc",
     "wof:parent_id":85843183,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "contractor"
     ]
 },
-  "bbox": [-76.825251,40.296539,-76.825251,40.296539],
-  "geometry": {"coordinates":[-76.825251,40.296539],"type":"Point"}
+  "bbox": [
+    -76.825251,
+    40.296539,
+    -76.825251,
+    40.296539
+],
+  "geometry": {"coordinates":[-76.82525099999999,40.296539],"type":"Point"}
 }

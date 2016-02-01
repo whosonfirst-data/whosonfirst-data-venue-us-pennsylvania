@@ -2,13 +2,14 @@
   "id": 387324325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.952508,40.447886,-79.952508,40.447886",
     "geom:latitude":40.447886,
     "geom:longitude":-79.952508,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"154 N Bellefield Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85873565,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85873565
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"e3371c295b0f47504f28f48f447888c0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85873565,
             "region_id":85688481,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":387324325,
-    "wof:lastmodified":1449058325,
+    "wof:lastmodified":1454360745,
     "wof:name":"Bristol, The Inc",
     "wof:parent_id":85873565,
     "wof:placetype":"venue",
@@ -68,6 +72,11 @@
         "broker"
     ]
 },
-  "bbox": [-79.952508,40.447886,-79.952508,40.447886],
-  "geometry": {"coordinates":[-79.952508,40.447886],"type":"Point"}
+  "bbox": [
+    -79.952508,
+    40.447886,
+    -79.952508,
+    40.447886
+],
+  "geometry": {"coordinates":[-79.95250799999999,40.447886],"type":"Point"}
 }

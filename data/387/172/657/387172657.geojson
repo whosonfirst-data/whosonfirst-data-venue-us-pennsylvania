@@ -2,13 +2,14 @@
   "id": 387172657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.918701,40.190201,-79.918701,40.190201",
     "geom:latitude":40.190201,
     "geom:longitude":-79.918701,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1029 Country Club Rd",
     "sg:city":"Monongahela",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420539901,
+        102191575,
+        404487805,
         85633793,
         101718465,
-        102081343
+        102081343,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"0f6beb8b3d89fec79466a41eb4fd99cf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081343,
+            "localadmin_id":404487805,
             "locality_id":101718465,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420539901,
             "region_id":85688481,
             "venue_id":387172657
         }
     ],
     "wof:id":387172657,
-    "wof:lastmodified":1449057636,
+    "wof:lastmodified":1454360538,
     "wof:name":"Lebovitz Charles N MD",
-    "wof:parent_id":-1,
+    "wof:parent_id":420539901,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.918701,40.190201,-79.918701,40.190201],
+  "bbox": [
+    -79.918701,
+    40.190201,
+    -79.918701,
+    40.190201
+],
   "geometry": {"coordinates":[-79.918701,40.190201],"type":"Point"}
 }

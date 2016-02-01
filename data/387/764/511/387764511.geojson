@@ -2,13 +2,14 @@
   "id": 387764511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.465571,41.233382,-80.465571,41.233382",
     "geom:latitude":41.233382,
     "geom:longitude":-80.465571,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2417 E State St",
     "sg:city":"Hermitage",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85824773,
+        102191575,
+        404487983,
         85633793,
         101718107,
         102080965,
-        85824773
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"ce0486f918f90780bfe767d8acb5a807",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080965,
+            "localadmin_id":404487983,
             "locality_id":101718107,
             "neighbourhood_id":85824773,
             "region_id":85688481,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":387764511,
-    "wof:lastmodified":1449059740,
+    "wof:lastmodified":1454361176,
     "wof:name":"Plaza Pizza",
     "wof:parent_id":85824773,
     "wof:placetype":"venue",
@@ -68,6 +72,11 @@
         "pizza"
     ]
 },
-  "bbox": [-80.465571,41.233382,-80.465571,41.233382],
+  "bbox": [
+    -80.465571,
+    41.233382,
+    -80.465571,
+    41.233382
+],
   "geometry": {"coordinates":[-80.465571,41.233382],"type":"Point"}
 }

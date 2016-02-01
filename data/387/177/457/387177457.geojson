@@ -2,13 +2,14 @@
   "id": 387177457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.244324,40.42516,-80.244324,40.42516",
     "geom:latitude":40.42516,
     "geom:longitude":-80.244324,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"402 Raymond Dr",
     "sg:city":"Oakdale",
     "sg:classifiers":[
@@ -37,8 +38,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85819043
+        85819043,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +49,15 @@
     "wof:geomhash":"703cea2ed02a0aa3abf7c58776a744a0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85819043,
             "region_id":85688481,
             "venue_id":387177457
         }
     ],
     "wof:id":387177457,
-    "wof:lastmodified":1449059920,
+    "wof:lastmodified":1454361233,
     "wof:name":"Craft Beehive",
     "wof:parent_id":85819043,
     "wof:placetype":"venue",
@@ -71,6 +70,11 @@
         "supply"
     ]
 },
-  "bbox": [-80.244324,40.42516,-80.244324,40.42516],
-  "geometry": {"coordinates":[-80.244324,40.42516],"type":"Point"}
+  "bbox": [
+    -80.244324,
+    40.42516,
+    -80.244324,
+    40.42516
+],
+  "geometry": {"coordinates":[-80.24432400000001,40.42516],"type":"Point"}
 }

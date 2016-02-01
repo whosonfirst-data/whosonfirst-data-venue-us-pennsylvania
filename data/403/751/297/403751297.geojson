@@ -2,13 +2,14 @@
   "id": 403751297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.9804,40.218102,-76.9804,40.218102",
     "geom:latitude":40.218102,
     "geom:longitude":-76.9804,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5215 Simpson Ferry Rd",
     "sg:city":"Mechanicsburg",
     "sg:classifiers":[
@@ -24,7 +25,12 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420537701,
+        102191575,
+        404486411,
         85633793,
+        101716789,
+        102081359,
         85688481
     ],
     "wof:breaches":[],
@@ -35,23 +41,30 @@
     "wof:geomhash":"117ab2130135616ceb43eb44acb5c6b0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081359,
+            "localadmin_id":404486411,
+            "locality_id":101716789,
+            "neighbourhood_id":420537701,
             "region_id":85688481,
             "venue_id":403751297
         }
     ],
     "wof:id":403751297,
-    "wof:lastmodified":1449054703,
+    "wof:lastmodified":1454357226,
     "wof:name":"Star Automotive",
-    "wof:parent_id":-1,
+    "wof:parent_id":420537701,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.9804,40.218102,-76.9804,40.218102],
+  "bbox": [
+    -76.9804,
+    40.218102,
+    -76.9804,
+    40.218102
+],
   "geometry": {"coordinates":[-76.9804,40.218102],"type":"Point"}
 }

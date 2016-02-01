@@ -2,13 +2,14 @@
   "id": 387720687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.046692,40.903912,-80.046692,40.903912",
     "geom:latitude":40.903912,
     "geom:longitude":-80.046692,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"106 S Franklin St",
     "sg:city":"Prospect",
     "sg:classifiers":[
@@ -43,8 +44,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102083677,
-        85836433
+        85836433,
+        102083677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,17 +55,15 @@
     "wof:geomhash":"3a09ed70cfd7df136c5a04cde88d842f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102083677,
-            "locality_id":-1,
             "neighbourhood_id":85836433,
             "region_id":85688481,
             "venue_id":387720687
         }
     ],
     "wof:id":387720687,
-    "wof:lastmodified":1449057013,
+    "wof:lastmodified":1454358768,
     "wof:name":"USPS - United States Post Office",
     "wof:parent_id":85836433,
     "wof:placetype":"venue",
@@ -77,6 +76,11 @@
         "shipping"
     ]
 },
-  "bbox": [-80.046692,40.903912,-80.046692,40.903912],
-  "geometry": {"coordinates":[-80.046692,40.903912],"type":"Point"}
+  "bbox": [
+    -80.046692,
+    40.903912,
+    -80.046692,
+    40.903912
+],
+  "geometry": {"coordinates":[-80.04669199999999,40.903912],"type":"Point"}
 }

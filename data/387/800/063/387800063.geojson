@@ -2,13 +2,14 @@
   "id": 387800063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.153086,41.876441,-79.153086,41.876441",
     "geom:latitude":41.876441,
     "geom:longitude":-79.153086,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"400 Jackson Run Rd",
     "sg:city":"Warren",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     "sg:website":"http://www.northwestsavingsbank.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85853597,
+        102191575,
+        404487619,
         85633793,
         101719505,
         102081337,
-        85853597
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"95ca47ed8e98f4698ebffa184dae0916",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081337,
+            "localadmin_id":404487619,
             "locality_id":101719505,
             "neighbourhood_id":85853597,
             "region_id":85688481,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":387800063,
-    "wof:lastmodified":1449056408,
+    "wof:lastmodified":1454358324,
     "wof:name":"Northwest Savings Bank and ATM",
     "wof:parent_id":85853597,
     "wof:placetype":"venue",
@@ -71,6 +75,11 @@
         "saving"
     ]
 },
-  "bbox": [-79.153086,41.876441,-79.153086,41.876441],
+  "bbox": [
+    -79.153086,
+    41.876441,
+    -79.153086,
+    41.876441
+],
   "geometry": {"coordinates":[-79.153086,41.876441],"type":"Point"}
 }

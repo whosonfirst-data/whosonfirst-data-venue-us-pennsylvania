@@ -2,13 +2,14 @@
   "id": 387818773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.49692,41.606488,-80.49692,41.606488",
     "geom:latitude":41.606488,
     "geom:longitude":-80.49692,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1368 Highway 285",
     "sg:city":"Linesville",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420537603,
+        102191575,
+        404486159,
         85633793,
         101718903,
-        102080911
+        102080911,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"edde7685ac878a2aaef04652006cd96f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080911,
+            "localadmin_id":404486159,
             "locality_id":101718903,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420537603,
             "region_id":85688481,
             "venue_id":387818773
         }
     ],
     "wof:id":387818773,
-    "wof:lastmodified":1449057947,
+    "wof:lastmodified":1454360640,
     "wof:name":"Yorkie's Grill & Custard",
-    "wof:parent_id":-1,
+    "wof:parent_id":420537603,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "bar"
     ]
 },
-  "bbox": [-80.49692,41.606488,-80.49692,41.606488],
+  "bbox": [
+    -80.49692,
+    41.606488,
+    -80.49692,
+    41.606488
+],
   "geometry": {"coordinates":[-80.49692,41.606488],"type":"Point"}
 }

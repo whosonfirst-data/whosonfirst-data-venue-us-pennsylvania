@@ -2,13 +2,14 @@
   "id": 403984561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.200882,39.85699,-77.200882,39.85699",
     "geom:latitude":39.85699,
     "geom:longitude":-77.200882,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"60 Fairview Rd",
     "sg:city":"Gettysburg",
     "sg:classifiers":[
@@ -37,8 +38,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080899,
-        85804527
+        85804527,
+        102080899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +49,15 @@
     "wof:geomhash":"99a0b8cc00ef196fab083e4aebbfbdf6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080899,
-            "locality_id":-1,
             "neighbourhood_id":85804527,
             "region_id":85688481,
             "venue_id":403984561
         }
     ],
     "wof:id":403984561,
-    "wof:lastmodified":1449055391,
+    "wof:lastmodified":1454357644,
     "wof:name":"Gettysburg Church Of Christ",
     "wof:parent_id":85804527,
     "wof:placetype":"venue",
@@ -71,6 +70,11 @@
         "christ"
     ]
 },
-  "bbox": [-77.200882,39.85699,-77.200882,39.85699],
-  "geometry": {"coordinates":[-77.200882,39.85699],"type":"Point"}
+  "bbox": [
+    -77.200882,
+    39.85699,
+    -77.200882,
+    39.85699
+],
+  "geometry": {"coordinates":[-77.20088199999999,39.85699],"type":"Point"}
 }

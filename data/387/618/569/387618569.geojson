@@ -2,13 +2,14 @@
   "id": 387618569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.497631,40.302548,-79.497631,40.302548",
     "geom:latitude":40.302548,
     "geom:longitude":-79.497631,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"104 Nature Park Rd",
     "sg:city":"Greensburg",
     "sg:classifiers":[
@@ -48,8 +49,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081383,
-        85851151
+        85851151,
+        102081383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,17 +60,15 @@
     "wof:geomhash":"5aa69e6073b8eb300ef7a4697e59cda8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":-1,
             "neighbourhood_id":85851151,
             "region_id":85688481,
             "venue_id":387618569
         }
     ],
     "wof:id":387618569,
-    "wof:lastmodified":1449058475,
+    "wof:lastmodified":1454360793,
     "wof:name":"NTB - National Tire & Battery",
     "wof:parent_id":85851151,
     "wof:placetype":"venue",
@@ -87,6 +86,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-79.497631,40.302548,-79.497631,40.302548],
+  "bbox": [
+    -79.497631,
+    40.302548,
+    -79.497631,
+    40.302548
+],
   "geometry": {"coordinates":[-79.497631,40.302548],"type":"Point"}
 }

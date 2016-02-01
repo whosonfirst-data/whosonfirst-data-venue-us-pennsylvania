@@ -2,13 +2,14 @@
   "id": 387338749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.912015,40.424901,-79.912015,40.424901",
     "geom:latitude":40.424901,
     "geom:longitude":-79.912015,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1008 Summerset Dr",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -37,11 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85873591,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85873591
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,9 +54,10 @@
     "wof:geomhash":"2c2e84cd14425d8f81030e290b05fbc8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85873591,
             "region_id":85688481,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":387338749,
-    "wof:lastmodified":1449057410,
+    "wof:lastmodified":1454359107,
     "wof:name":"Micro Management",
     "wof:parent_id":85873591,
     "wof:placetype":"venue",
@@ -76,6 +80,11 @@
         "planning"
     ]
 },
-  "bbox": [-79.912015,40.424901,-79.912015,40.424901],
+  "bbox": [
+    -79.912015,
+    40.424901,
+    -79.912015,
+    40.424901
+],
   "geometry": {"coordinates":[-79.912015,40.424901],"type":"Point"}
 }

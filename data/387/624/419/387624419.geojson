@@ -2,13 +2,14 @@
   "id": 387624419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.548342,40.314993,-79.548342,40.314993",
     "geom:latitude":40.314993,
     "geom:longitude":-79.548342,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"685 N Main St",
     "sg:city":"Greensburg",
     "sg:classifiers":[
@@ -64,11 +65,13 @@
     "sg:website":"http://www.riteaid.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85809439,
+        102191575,
+        404487487,
         85633793,
-        101717119,
+        101717177,
         102081383,
-        85809439
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,17 +81,18 @@
     "wof:geomhash":"00acd266d7220c2518d516f5d2efc830",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":101717119,
+            "localadmin_id":404487487,
+            "locality_id":101717177,
             "neighbourhood_id":85809439,
             "region_id":85688481,
             "venue_id":387624419
         }
     ],
     "wof:id":387624419,
-    "wof:lastmodified":1449058723,
+    "wof:lastmodified":1454360863,
     "wof:name":"Rite Aid",
     "wof:parent_id":85809439,
     "wof:placetype":"venue",
@@ -109,6 +113,11 @@
         "greeting"
     ]
 },
-  "bbox": [-79.548342,40.314993,-79.548342,40.314993],
-  "geometry": {"coordinates":[-79.548342,40.314993],"type":"Point"}
+  "bbox": [
+    -79.548342,
+    40.314993,
+    -79.548342,
+    40.314993
+],
+  "geometry": {"coordinates":[-79.54834200000001,40.314993],"type":"Point"}
 }

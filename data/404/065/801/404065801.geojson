@@ -2,13 +2,14 @@
   "id": 404065801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.354994,39.999634,-76.354994,39.999634",
     "geom:latitude":39.999634,
     "geom:longitude":-76.354994,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"121 N George St",
     "sg:city":"Millersville",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85854053
+        85854053,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"a4d227411e9962034cab64ed6427c6ed",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85854053,
             "region_id":85688481,
             "venue_id":404065801
         }
     ],
     "wof:id":404065801,
-    "wof:lastmodified":1449040321,
+    "wof:lastmodified":1454357135,
     "wof:name":"Meals On Wheels-Millersville Area",
     "wof:parent_id":85854053,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "bank"
     ]
 },
-  "bbox": [-76.354994,39.999634,-76.354994,39.999634],
+  "bbox": [
+    -76.354994,
+    39.999634,
+    -76.354994,
+    39.999634
+],
   "geometry": {"coordinates":[-76.354994,39.999634],"type":"Point"}
 }

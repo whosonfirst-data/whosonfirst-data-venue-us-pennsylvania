@@ -2,13 +2,14 @@
   "id": 387335683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.041,40.4034,-80.041,40.4034",
     "geom:latitude":40.4034,
     "geom:longitude":-80.041,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2898 Banksville Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85804395,
+        102191575,
+        404482523,
         85633793,
+        101718805,
         102080887,
-        85804395
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +44,18 @@
     "wof:geomhash":"2b1e4ddafac5843474574cd3f55c14dc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
+            "localadmin_id":404482523,
+            "locality_id":101718805,
             "neighbourhood_id":85804395,
             "region_id":85688481,
             "venue_id":387335683
         }
     ],
     "wof:id":387335683,
-    "wof:lastmodified":1449058619,
+    "wof:lastmodified":1454360831,
     "wof:name":"Comfort Inn & Suites by Choice Hotels",
     "wof:parent_id":85804395,
     "wof:placetype":"venue",
@@ -60,6 +65,11 @@
         "venue"
     ]
 },
-  "bbox": [-80.041,40.4034,-80.041,40.4034],
+  "bbox": [
+    -80.041,
+    40.4034,
+    -80.041,
+    40.4034
+],
   "geometry": {"coordinates":[-80.041,40.4034],"type":"Point"}
 }

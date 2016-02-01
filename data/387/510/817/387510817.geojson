@@ -2,13 +2,14 @@
   "id": 387510817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.760277,40.476421,-79.760277,40.476421",
     "geom:latitude":40.476421,
     "geom:longitude":-79.760277,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"7901 Saltsburg Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85810135,
+        102191575,
+        404484167,
         85633793,
         101718791,
         102080887,
-        85810135
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"e5aac704cbcd0759080635101e4543a5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484167,
             "locality_id":101718791,
             "neighbourhood_id":85810135,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387510817,
-    "wof:lastmodified":1449058396,
+    "wof:lastmodified":1454360770,
     "wof:name":"Puff Discount Tobacco",
     "wof:parent_id":85810135,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "cigar"
     ]
 },
-  "bbox": [-79.760277,40.476421,-79.760277,40.476421],
+  "bbox": [
+    -79.760277,
+    40.476421,
+    -79.760277,
+    40.476421
+],
   "geometry": {"coordinates":[-79.760277,40.476421],"type":"Point"}
 }

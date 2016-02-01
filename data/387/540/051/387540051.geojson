@@ -2,13 +2,14 @@
   "id": 387540051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.184502,40.225201,-80.184502,40.225201",
     "geom:latitude":40.225201,
     "geom:longitude":-80.184502,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1990 Washington Rd",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081343,
-        85825315
+        85825315,
+        102081343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"9122cc70f71cbd3848afbd107e7fa3ee",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081343,
-            "locality_id":-1,
             "neighbourhood_id":85825315,
             "region_id":85688481,
             "venue_id":387540051
         }
     ],
     "wof:id":387540051,
-    "wof:lastmodified":1449057607,
+    "wof:lastmodified":1454360528,
     "wof:name":"Summit Homes",
     "wof:parent_id":85825315,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.184502,40.225201,-80.184502,40.225201],
-  "geometry": {"coordinates":[-80.184502,40.225201],"type":"Point"}
+  "bbox": [
+    -80.184502,
+    40.225201,
+    -80.184502,
+    40.225201
+],
+  "geometry": {"coordinates":[-80.18450199999999,40.225201],"type":"Point"}
 }

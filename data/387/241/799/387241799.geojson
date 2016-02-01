@@ -2,13 +2,14 @@
   "id": 387241799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.222445,40.503781,-80.222445,40.503781",
     "geom:latitude":40.503781,
     "geom:longitude":-80.222445,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"8952 University Blvd",
     "sg:city":"Coraopolis",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85809567,
+        102191575,
+        404484137,
         85633793,
         101720527,
         102080887,
-        85809567
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"3db348ffdaf55ed594353dda3520d13d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484137,
             "locality_id":101720527,
             "neighbourhood_id":85809567,
             "region_id":85688481,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":387241799,
-    "wof:lastmodified":1449059821,
+    "wof:lastmodified":1454361201,
     "wof:name":"Carlino Motors",
     "wof:parent_id":85809567,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "cars-wholesale"
     ]
 },
-  "bbox": [-80.222445,40.503781,-80.222445,40.503781],
-  "geometry": {"coordinates":[-80.222445,40.503781],"type":"Point"}
+  "bbox": [
+    -80.222445,
+    40.503781,
+    -80.222445,
+    40.503781
+],
+  "geometry": {"coordinates":[-80.22244499999999,40.503781],"type":"Point"}
 }

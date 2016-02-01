@@ -2,13 +2,14 @@
   "id": 403712729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.511932,40.451639,-76.511932,40.451639",
     "geom:latitude":40.451639,
     "geom:longitude":-76.511932,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1 Lickdale Rd",
     "sg:city":"Jonestown",
     "sg:classifiers":[
@@ -42,8 +43,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081341,
-        85830459
+        85830459,
+        102081341
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,17 +54,15 @@
     "wof:geomhash":"4f330431da9c6b80c9f545d215ed7c4f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081341,
-            "locality_id":-1,
             "neighbourhood_id":85830459,
             "region_id":85688481,
             "venue_id":403712729
         }
     ],
     "wof:id":403712729,
-    "wof:lastmodified":1449055206,
+    "wof:lastmodified":1454357534,
     "wof:name":"BLIMPIE Subs & Salads",
     "wof:parent_id":85830459,
     "wof:placetype":"venue",
@@ -75,6 +74,11 @@
         "take"
     ]
 },
-  "bbox": [-76.511932,40.451639,-76.511932,40.451639],
+  "bbox": [
+    -76.511932,
+    40.451639,
+    -76.511932,
+    40.451639
+],
   "geometry": {"coordinates":[-76.511932,40.451639],"type":"Point"}
 }

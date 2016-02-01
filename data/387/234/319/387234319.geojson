@@ -2,13 +2,14 @@
   "id": 387234319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.084329,40.396739,-80.084329,40.396739",
     "geom:latitude":40.396739,
     "geom:longitude":-80.084329,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1137 Washington Ave",
     "sg:city":"Carnegie",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85821875,
+        102191575,
+        404484865,
         85633793,
         101718775,
         102080887,
-        85821875
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"fc6f25963033a054724df3aaf627237f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484865,
             "locality_id":101718775,
             "neighbourhood_id":85821875,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387234319,
-    "wof:lastmodified":1449059711,
+    "wof:lastmodified":1454361167,
     "wof:name":"Giant Eagle Inc",
     "wof:parent_id":85821875,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "video"
     ]
 },
-  "bbox": [-80.084329,40.396739,-80.084329,40.396739],
+  "bbox": [
+    -80.084329,
+    40.396739,
+    -80.084329,
+    40.396739
+],
   "geometry": {"coordinates":[-80.084329,40.396739],"type":"Point"}
 }

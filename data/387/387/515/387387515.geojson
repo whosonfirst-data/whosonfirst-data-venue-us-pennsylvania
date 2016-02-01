@@ -2,13 +2,14 @@
   "id": 387387515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.05768,40.421501,-80.05768,40.421501",
     "geom:latitude":40.421501,
     "geom:longitude":-80.05768,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"501 Holiday Dr Ste 2",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -25,10 +26,13 @@
     "sg:website":"www.sprint.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536243,
+        102191575,
+        404482523,
         85633793,
-        101718673,
-        102080887
+        101718805,
+        102080887,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,24 +42,30 @@
     "wof:geomhash":"ccfc687124d3decd2e56cda9db4ca83f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":101718673,
-            "neighbourhood_id":-1,
+            "localadmin_id":404482523,
+            "locality_id":101718805,
+            "neighbourhood_id":420536243,
             "region_id":85688481,
             "venue_id":387387515
         }
     ],
     "wof:id":387387515,
-    "wof:lastmodified":1449059407,
+    "wof:lastmodified":1454361071,
     "wof:name":"Sprint Nextel Retail",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536243,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.05768,40.421501,-80.05768,40.421501],
+  "bbox": [
+    -80.05768,
+    40.421501,
+    -80.05768,
+    40.421501
+],
   "geometry": {"coordinates":[-80.05768,40.421501],"type":"Point"}
 }

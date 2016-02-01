@@ -2,13 +2,14 @@
   "id": 387632571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.677811,40.368321,-79.677811,40.368321",
     "geom:latitude":40.368321,
     "geom:longitude":-79.677811,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"7034 Pleasant Valley Rd",
     "sg:city":"Irwin",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85836835,
+        102191575,
+        404487539,
         85633793,
         101717149,
         102081383,
-        85836835
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"c4f14f4e035ec0e55f01e90d1b255190",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081383,
+            "localadmin_id":404487539,
             "locality_id":101717149,
             "neighbourhood_id":85836835,
             "region_id":85688481,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":387632571,
-    "wof:lastmodified":1449058538,
+    "wof:lastmodified":1454360808,
     "wof:name":"Stephen Tabak",
     "wof:parent_id":85836835,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.677811,40.368321,-79.677811,40.368321],
-  "geometry": {"coordinates":[-79.677811,40.368321],"type":"Point"}
+  "bbox": [
+    -79.677811,
+    40.368321,
+    -79.677811,
+    40.368321
+],
+  "geometry": {"coordinates":[-79.67781100000001,40.368321],"type":"Point"}
 }

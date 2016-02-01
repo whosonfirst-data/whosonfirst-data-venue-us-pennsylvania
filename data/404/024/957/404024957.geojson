@@ -2,13 +2,14 @@
   "id": 404024957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.689982,39.938029,-76.689982,39.938029",
     "geom:latitude":39.938029,
     "geom:longitude":-76.689982,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2095 Springwood Rd",
     "sg:city":"York",
     "sg:classifiers":[
@@ -50,10 +51,13 @@
     "sg:website":"http://www.att.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420540339,
+        102191575,
+        404488031,
         85633793,
-        101719459,
-        102080953
+        101719457,
+        102080953,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,19 +67,20 @@
     "wof:geomhash":"779086e3ec3d0ebdf8e298f698b6bf6a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":101719459,
-            "neighbourhood_id":-1,
+            "localadmin_id":404488031,
+            "locality_id":101719457,
+            "neighbourhood_id":420540339,
             "region_id":85688481,
             "venue_id":404024957
         }
     ],
     "wof:id":404024957,
-    "wof:lastmodified":1449039588,
+    "wof:lastmodified":1454356729,
     "wof:name":"AT&T",
-    "wof:parent_id":-1,
+    "wof:parent_id":420540339,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -90,6 +95,11 @@
         "provider"
     ]
 },
-  "bbox": [-76.689982,39.938029,-76.689982,39.938029],
+  "bbox": [
+    -76.689982,
+    39.938029,
+    -76.689982,
+    39.938029
+],
   "geometry": {"coordinates":[-76.689982,39.938029],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404032795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.725222,39.880401,-76.725222,39.880401",
     "geom:latitude":39.880401,
     "geom:longitude":-76.725222,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"10 Eagleton Dr",
     "sg:city":"York",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080953,
-        85844343
+        85844343,
+        102080953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"682fd90a280ae638e7632274c89fcfae",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
             "neighbourhood_id":85844343,
             "region_id":85688481,
             "venue_id":404032795
         }
     ],
     "wof:id":404032795,
-    "wof:lastmodified":1449039625,
+    "wof:lastmodified":1454356739,
     "wof:name":"Willie C's Bbq",
     "wof:parent_id":85844343,
     "wof:placetype":"venue",
@@ -64,6 +63,11 @@
         "barbecue"
     ]
 },
-  "bbox": [-76.725222,39.880401,-76.725222,39.880401],
+  "bbox": [
+    -76.725222,
+    39.880401,
+    -76.725222,
+    39.880401
+],
   "geometry": {"coordinates":[-76.725222,39.880401],"type":"Point"}
 }

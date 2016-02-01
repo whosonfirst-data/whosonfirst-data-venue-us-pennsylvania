@@ -2,13 +2,14 @@
   "id": 387890215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.238441,40.982047,-78.238441,40.982047",
     "geom:latitude":40.982047,
     "geom:longitude":-78.238441,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"86 Ducky Ln",
     "sg:city":"Morrisdale",
     "sg:classifiers":[
@@ -46,7 +47,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420537515,
+        102191575,
+        404487035,
         85633793,
+        101719609,
+        102080967,
         85688481
     ],
     "wof:breaches":[],
@@ -57,18 +63,20 @@
     "wof:geomhash":"21fb75c8d7a96e2e4a1528fc9e86955e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102080967,
+            "localadmin_id":404487035,
+            "locality_id":101719609,
+            "neighbourhood_id":420537515,
             "region_id":85688481,
             "venue_id":387890215
         }
     ],
     "wof:id":387890215,
-    "wof:lastmodified":1449056938,
+    "wof:lastmodified":1454358718,
     "wof:name":"Seger's Wheel Aligning",
-    "wof:parent_id":-1,
+    "wof:parent_id":420537515,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -85,6 +93,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-78.238441,40.982047,-78.238441,40.982047],
-  "geometry": {"coordinates":[-78.238441,40.982047],"type":"Point"}
+  "bbox": [
+    -78.238441,
+    40.982047,
+    -78.238441,
+    40.982047
+],
+  "geometry": {"coordinates":[-78.23844099999999,40.982047],"type":"Point"}
 }

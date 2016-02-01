@@ -2,13 +2,14 @@
   "id": 404074079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.299784,40.069906,-76.299784,40.069906",
     "geom:latitude":40.069906,
     "geom:longitude":-76.299784,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"222 Eden Rd",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85811259
+        85811259,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"b9cb3253bdd455c5ec4a592f68059fe5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85811259,
             "region_id":85688481,
             "venue_id":404074079
         }
     ],
     "wof:id":404074079,
-    "wof:lastmodified":1449039784,
+    "wof:lastmodified":1454356796,
     "wof:name":"Arthur's Terrace Restaurant",
     "wof:parent_id":85811259,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "italian"
     ]
 },
-  "bbox": [-76.299784,40.069906,-76.299784,40.069906],
+  "bbox": [
+    -76.299784,
+    40.069906,
+    -76.299784,
+    40.069906
+],
   "geometry": {"coordinates":[-76.299784,40.069906],"type":"Point"}
 }

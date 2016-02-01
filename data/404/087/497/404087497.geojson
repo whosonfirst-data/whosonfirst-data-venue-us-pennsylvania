@@ -2,13 +2,14 @@
   "id": 404087497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.225906,40.02858,-76.225906,40.02858",
     "geom:latitude":40.02858,
     "geom:longitude":-76.225906,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2175 Lincoln Hwy E",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -39,8 +40,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85823025
+        85823025,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,17 +51,15 @@
     "wof:geomhash":"03e611f8fda79f50b7b423770bd5748e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85823025,
             "region_id":85688481,
             "venue_id":404087497
         }
     ],
     "wof:id":404087497,
-    "wof:lastmodified":1449039570,
+    "wof:lastmodified":1454356719,
     "wof:name":"Perkins Restaurant & Bakery",
     "wof:parent_id":85823025,
     "wof:placetype":"venue",
@@ -74,6 +73,11 @@
         "balloons-retail"
     ]
 },
-  "bbox": [-76.225906,40.02858,-76.225906,40.02858],
-  "geometry": {"coordinates":[-76.225906,40.02858],"type":"Point"}
+  "bbox": [
+    -76.225906,
+    40.02858,
+    -76.225906,
+    40.02858
+],
+  "geometry": {"coordinates":[-76.22590599999999,40.02858],"type":"Point"}
 }

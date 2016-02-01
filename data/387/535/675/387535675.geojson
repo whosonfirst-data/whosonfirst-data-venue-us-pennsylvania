@@ -2,13 +2,14 @@
   "id": 387535675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.125247,40.427048,-80.125247,40.427048",
     "geom:latitude":40.427048,
     "geom:longitude":-80.125247,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4 Penn Ctr W 2nd Floor",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -33,8 +34,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85821263
+        85821263,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +45,15 @@
     "wof:geomhash":"b7f05b5960ee3df2b95457bce30464c2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85821263,
             "region_id":85688481,
             "venue_id":387535675
         }
     ],
     "wof:id":387535675,
-    "wof:lastmodified":1449056788,
+    "wof:lastmodified":1454358611,
     "wof:name":"Aerotek",
     "wof:parent_id":85821263,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.125247,40.427048,-80.125247,40.427048],
+  "bbox": [
+    -80.125247,
+    40.427048,
+    -80.125247,
+    40.427048
+],
   "geometry": {"coordinates":[-80.125247,40.427048],"type":"Point"}
 }

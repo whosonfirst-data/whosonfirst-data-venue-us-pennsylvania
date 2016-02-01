@@ -2,13 +2,14 @@
   "id": 387622205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.543938,40.28672,-79.543938,40.28672",
     "geom:latitude":40.28672,
     "geom:longitude":-79.543938,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"500 Rugh St",
     "sg:city":"Greensburg",
     "sg:classifiers":[
@@ -44,11 +45,13 @@
     "sg:website":"http://www.hwtcpa.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85809439,
+        102191575,
+        404487487,
         85633793,
-        101717119,
+        101717177,
         102081383,
-        85809439
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,17 +61,18 @@
     "wof:geomhash":"63b6d30268ccfa92ec181d26dc32373b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":101717119,
+            "localadmin_id":404487487,
+            "locality_id":101717177,
             "neighbourhood_id":85809439,
             "region_id":85688481,
             "venue_id":387622205
         }
     ],
     "wof:id":387622205,
-    "wof:lastmodified":1449059237,
+    "wof:lastmodified":1454361017,
     "wof:name":"Horner, Wible & Terek Pc",
     "wof:parent_id":85809439,
     "wof:placetype":"venue",
@@ -84,6 +88,11 @@
         "public"
     ]
 },
-  "bbox": [-79.543938,40.28672,-79.543938,40.28672],
+  "bbox": [
+    -79.543938,
+    40.28672,
+    -79.543938,
+    40.28672
+],
   "geometry": {"coordinates":[-79.543938,40.28672],"type":"Point"}
 }

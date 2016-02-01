@@ -2,13 +2,14 @@
   "id": 403905107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.812397,40.341793,-76.812397,40.341793",
     "geom:latitude":40.341793,
     "geom:longitude":-76.812397,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5074 Carrolton Dr",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -32,8 +33,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85819927
+        85819927,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +44,15 @@
     "wof:geomhash":"250043fa96f92368a7369e76e5412e11",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85819927,
             "region_id":85688481,
             "venue_id":403905107
         }
     ],
     "wof:id":403905107,
-    "wof:lastmodified":1449055157,
+    "wof:lastmodified":1454357505,
     "wof:name":"Basement Boys",
     "wof:parent_id":85819927,
     "wof:placetype":"venue",
@@ -66,6 +65,11 @@
         "damage"
     ]
 },
-  "bbox": [-76.812397,40.341793,-76.812397,40.341793],
+  "bbox": [
+    -76.812397,
+    40.341793,
+    -76.812397,
+    40.341793
+],
   "geometry": {"coordinates":[-76.812397,40.341793],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387505729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.999045,40.540539,-79.999045,40.540539",
     "geom:latitude":40.540539,
     "geom:longitude":-79.999045,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"112 Shannon Dr",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85805835
+        85805835,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"2bad6e4c588921292152987a3df04bf6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85805835,
             "region_id":85688481,
             "venue_id":387505729
         }
     ],
     "wof:id":387505729,
-    "wof:lastmodified":1449059301,
+    "wof:lastmodified":1454361035,
     "wof:name":"Michael A Katz Atty At Law",
     "wof:parent_id":85805835,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "practice"
     ]
 },
-  "bbox": [-79.999045,40.540539,-79.999045,40.540539],
+  "bbox": [
+    -79.999045,
+    40.540539,
+    -79.999045,
+    40.540539
+],
   "geometry": {"coordinates":[-79.999045,40.540539],"type":"Point"}
 }

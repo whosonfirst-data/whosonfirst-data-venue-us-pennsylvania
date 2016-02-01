@@ -2,13 +2,14 @@
   "id": 387639489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.633445,40.349392,-79.633445,40.349392",
     "geom:latitude":40.349392,
     "geom:longitude":-79.633445,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"109 Fieldstone Ct",
     "sg:city":"Jeannette",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081383,
-        85833221
+        85833221,
+        102081383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"dbd4c4bc11f1e9a03a12ec2973f3899f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":-1,
             "neighbourhood_id":85833221,
             "region_id":85688481,
             "venue_id":387639489
         }
     ],
     "wof:id":387639489,
-    "wof:lastmodified":1449059903,
+    "wof:lastmodified":1454361227,
     "wof:name":"Tmc Properties",
     "wof:parent_id":85833221,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "park"
     ]
 },
-  "bbox": [-79.633445,40.349392,-79.633445,40.349392],
-  "geometry": {"coordinates":[-79.633445,40.349392],"type":"Point"}
+  "bbox": [
+    -79.633445,
+    40.349392,
+    -79.633445,
+    40.349392
+],
+  "geometry": {"coordinates":[-79.63344499999999,40.349392],"type":"Point"}
 }

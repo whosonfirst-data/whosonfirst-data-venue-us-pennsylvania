@@ -2,13 +2,14 @@
   "id": 404074383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.333267,40.107109,-76.333267,40.107109",
     "geom:latitude":40.107109,
     "geom:longitude":-76.333267,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"600 Richmond Dr Ste 1",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85806481
+        85806481,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"5753bb1317990fb5aa287a5c8e2fbe8a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85806481,
             "region_id":85688481,
             "venue_id":404074383
         }
     ],
     "wof:id":404074383,
-    "wof:lastmodified":1449039783,
+    "wof:lastmodified":1454356794,
     "wof:name":"Susquehanna Bancshares, Inc.",
     "wof:parent_id":85806481,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "commercial"
     ]
 },
-  "bbox": [-76.333267,40.107109,-76.333267,40.107109],
-  "geometry": {"coordinates":[-76.333267,40.107109],"type":"Point"}
+  "bbox": [
+    -76.333267,
+    40.107109,
+    -76.333267,
+    40.107109
+],
+  "geometry": {"coordinates":[-76.33326700000001,40.107109],"type":"Point"}
 }

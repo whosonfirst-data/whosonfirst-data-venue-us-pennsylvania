@@ -2,13 +2,14 @@
   "id": 403893235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.813362,40.25005,-76.813362,40.25005",
     "geom:latitude":40.25005,
     "geom:longitude":-76.813362,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"479 Eisenhower Blvd",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -37,8 +38,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85839023
+        85839023,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +49,15 @@
     "wof:geomhash":"c81797e8beb52e8c4fc950ff0907eb6c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85839023,
             "region_id":85688481,
             "venue_id":403893235
         }
     ],
     "wof:id":403893235,
-    "wof:lastmodified":1449055711,
+    "wof:lastmodified":1454357835,
     "wof:name":"Enterprise Rent-A-Car",
     "wof:parent_id":85839023,
     "wof:placetype":"venue",
@@ -70,6 +69,11 @@
         "truck"
     ]
 },
-  "bbox": [-76.813362,40.25005,-76.813362,40.25005],
+  "bbox": [
+    -76.813362,
+    40.25005,
+    -76.813362,
+    40.25005
+],
   "geometry": {"coordinates":[-76.813362,40.25005],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387543651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.210179,40.224289,-80.210179,40.224289",
     "geom:latitude":40.224289,
     "geom:longitude":-80.210179,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"179 Meadowlands Blvd",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081343,
-        85833251
+        85833251,
+        102081343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"16191aeaa9e102221259b7e10a91dae7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081343,
-            "locality_id":-1,
             "neighbourhood_id":85833251,
             "region_id":85688481,
             "venue_id":387543651
         }
     ],
     "wof:id":387543651,
-    "wof:lastmodified":1449056844,
+    "wof:lastmodified":1454358644,
     "wof:name":"Nilu Enterprises Inc",
     "wof:parent_id":85833251,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "tire"
     ]
 },
-  "bbox": [-80.210179,40.224289,-80.210179,40.224289],
+  "bbox": [
+    -80.210179,
+    40.224289,
+    -80.210179,
+    40.224289
+],
   "geometry": {"coordinates":[-80.210179,40.224289],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404204093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.395302,40.625099,-75.395302,40.625099",
     "geom:latitude":40.625099,
     "geom:longitude":-75.395302,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"909 W Union Blvd",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85802779,
+        102191575,
+        404485987,
         85633793,
         101717907,
         102081395,
-        85802779
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"612a1641f47529c54688f3c13adf7ca5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081395,
+            "localadmin_id":404485987,
             "locality_id":101717907,
             "neighbourhood_id":85802779,
             "region_id":85688481,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":404204093,
-    "wof:lastmodified":1449040344,
+    "wof:lastmodified":1454357149,
     "wof:name":"Bethlehem Area School Nitschmann",
     "wof:parent_id":85802779,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.395302,40.625099,-75.395302,40.625099],
+  "bbox": [
+    -75.395302,
+    40.625099,
+    -75.395302,
+    40.625099
+],
   "geometry": {"coordinates":[-75.395302,40.625099],"type":"Point"}
 }

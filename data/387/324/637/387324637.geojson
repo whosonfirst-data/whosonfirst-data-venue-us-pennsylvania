@@ -2,13 +2,14 @@
   "id": 387324637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.958285,40.440609,-79.958285,40.440609",
     "geom:latitude":40.440609,
     "geom:longitude":-79.958285,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3606 Forbes Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -49,11 +50,13 @@
     "sg:website":"http://clickserve.dartsearch.net/link/click?lid=43000000308049899",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85838975,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85838975
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,9 +66,10 @@
     "wof:geomhash":"516fa59950ef867a9ae6150328bbe6c1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85838975,
             "region_id":85688481,
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":387324637,
-    "wof:lastmodified":1449058322,
+    "wof:lastmodified":1454360745,
     "wof:name":"T-Mobile",
     "wof:parent_id":85838975,
     "wof:placetype":"venue",
@@ -89,6 +93,11 @@
         "cellular"
     ]
 },
-  "bbox": [-79.958285,40.440609,-79.958285,40.440609],
+  "bbox": [
+    -79.958285,
+    40.440609,
+    -79.958285,
+    40.440609
+],
   "geometry": {"coordinates":[-79.958285,40.440609],"type":"Point"}
 }

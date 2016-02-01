@@ -2,13 +2,14 @@
   "id": 387800491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.186737,41.838181,-79.186737,41.838181",
     "geom:latitude":41.838181,
     "geom:longitude":-79.186737,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2240 Pennsylvania Ave W Ste G",
     "sg:city":"Warren",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85853597,
+        102191575,
+        404487619,
         85633793,
         101719505,
         102081337,
-        85853597
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"e3bb5d5df16f6a3f84f905c745c28f6c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081337,
+            "localadmin_id":404487619,
             "locality_id":101719505,
             "neighbourhood_id":85853597,
             "region_id":85688481,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":387800491,
-    "wof:lastmodified":1449056408,
+    "wof:lastmodified":1454358324,
     "wof:name":"Warren Motel",
     "wof:parent_id":85853597,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.186737,41.838181,-79.186737,41.838181],
-  "geometry": {"coordinates":[-79.186737,41.838181],"type":"Point"}
+  "bbox": [
+    -79.186737,
+    41.838181,
+    -79.186737,
+    41.838181
+],
+  "geometry": {"coordinates":[-79.18673699999999,41.838181],"type":"Point"}
 }

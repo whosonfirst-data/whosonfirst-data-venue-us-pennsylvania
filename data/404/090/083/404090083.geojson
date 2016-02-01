@@ -2,13 +2,14 @@
   "id": 404090083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.31841,40.039853,-76.31841,40.039853",
     "geom:latitude":40.039853,
     "geom:longitude":-76.31841,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"619 W Chestnut St",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85858805
+        85858805,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"244d97ada6b6bc5629a8341cda576997",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85858805,
             "region_id":85688481,
             "venue_id":404090083
         }
     ],
     "wof:id":404090083,
-    "wof:lastmodified":1449040039,
+    "wof:lastmodified":1454356973,
     "wof:name":"Ssco Properties",
     "wof:parent_id":85858805,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "park"
     ]
 },
-  "bbox": [-76.31841,40.039853,-76.31841,40.039853],
+  "bbox": [
+    -76.31841,
+    40.039853,
+    -76.31841,
+    40.039853
+],
   "geometry": {"coordinates":[-76.31841,40.039853],"type":"Point"}
 }

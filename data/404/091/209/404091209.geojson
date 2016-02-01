@@ -2,13 +2,14 @@
   "id": 404091209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.312424,40.04723,-76.312424,40.04723",
     "geom:latitude":40.04723,
     "geom:longitude":-76.312424,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1320 Harrisburg Ave",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -34,10 +35,13 @@
     "sg:website":"http://www.americasbestvalueinn.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85821747,
+        102191575,
+        404487183,
         85633793,
+        101718643,
         102081377,
-        85821747
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +51,18 @@
     "wof:geomhash":"d8598ddc481c1cebba5bee7ef2c38f45",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
+            "localadmin_id":404487183,
+            "locality_id":101718643,
             "neighbourhood_id":85821747,
             "region_id":85688481,
             "venue_id":404091209
         }
     ],
     "wof:id":404091209,
-    "wof:lastmodified":1449039140,
+    "wof:lastmodified":1454356469,
     "wof:name":"America's Best Value Inn Lancaster",
     "wof:parent_id":85821747,
     "wof:placetype":"venue",
@@ -68,6 +73,11 @@
         "lodging"
     ]
 },
-  "bbox": [-76.312424,40.04723,-76.312424,40.04723],
-  "geometry": {"coordinates":[-76.312424,40.04723],"type":"Point"}
+  "bbox": [
+    -76.312424,
+    40.04723,
+    -76.312424,
+    40.04723
+],
+  "geometry": {"coordinates":[-76.31242399999999,40.04723],"type":"Point"}
 }

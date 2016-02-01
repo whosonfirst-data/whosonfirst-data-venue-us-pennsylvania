@@ -2,13 +2,14 @@
   "id": 387763395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.451156,41.23341,-80.451156,41.23341",
     "geom:latitude":41.23341,
     "geom:longitude":-80.451156,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3176 E State St",
     "sg:city":"Hermitage",
     "sg:classifiers":[],
@@ -18,11 +19,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85824773,
+        102191575,
+        404487983,
         85633793,
         101718107,
         102080965,
-        85824773
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -32,9 +35,10 @@
     "wof:geomhash":"5612514a9bddaebbd33e2740322a65fb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080965,
+            "localadmin_id":404487983,
             "locality_id":101718107,
             "neighbourhood_id":85824773,
             "region_id":85688481,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":387763395,
-    "wof:lastmodified":1449059907,
+    "wof:lastmodified":1454361229,
     "wof:name":"Da Vanzo's Italian Grille",
     "wof:parent_id":85824773,
     "wof:placetype":"venue",
@@ -50,6 +54,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.451156,41.23341,-80.451156,41.23341],
+  "bbox": [
+    -80.451156,
+    41.23341,
+    -80.451156,
+    41.23341
+],
   "geometry": {"coordinates":[-80.451156,41.23341],"type":"Point"}
 }

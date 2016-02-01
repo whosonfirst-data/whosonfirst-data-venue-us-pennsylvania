@@ -2,13 +2,14 @@
   "id": 387822795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.060744,41.989293,-80.060744,41.989293",
     "geom:latitude":41.989293,
     "geom:longitude":-80.060744,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2280 Greenlee Rd",
     "sg:city":"Waterford",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080955,
-        85819503
+        85819503,
+        102080955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"38d07e0d9f8b464001632b7dd1866fba",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080955,
-            "locality_id":-1,
             "neighbourhood_id":85819503,
             "region_id":85688481,
             "venue_id":387822795
         }
     ],
     "wof:id":387822795,
-    "wof:lastmodified":1449059804,
+    "wof:lastmodified":1454361198,
     "wof:name":"Ed & Joan Hess",
     "wof:parent_id":85819503,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "feeding"
     ]
 },
-  "bbox": [-80.060744,41.989293,-80.060744,41.989293],
+  "bbox": [
+    -80.060744,
+    41.989293,
+    -80.060744,
+    41.989293
+],
   "geometry": {"coordinates":[-80.060744,41.989293],"type":"Point"}
 }

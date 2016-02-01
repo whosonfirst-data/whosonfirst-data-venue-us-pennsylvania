@@ -2,13 +2,14 @@
   "id": 387576173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.00432,40.258378,-80.00432,40.258378",
     "geom:latitude":40.258378,
     "geom:longitude":-80.00432,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"45 Hobbitt Ln",
     "sg:city":"Finleyville",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85855859,
+        102191575,
+        404487915,
         85633793,
-        101720491,
-        102080887,
-        85855859
+        101720335,
+        102081343,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"a60b5e74945c2938b08adf329b131267",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102080887,
-            "locality_id":101720491,
+            "county_id":102081343,
+            "localadmin_id":404487915,
+            "locality_id":101720335,
             "neighbourhood_id":85855859,
             "region_id":85688481,
             "venue_id":387576173
         }
     ],
     "wof:id":387576173,
-    "wof:lastmodified":1449059030,
+    "wof:lastmodified":1454360961,
     "wof:name":"Best In Dance Music",
     "wof:parent_id":85855859,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "dancing"
     ]
 },
-  "bbox": [-80.00432,40.258378,-80.00432,40.258378],
-  "geometry": {"coordinates":[-80.00432,40.258378],"type":"Point"}
+  "bbox": [
+    -80.00432,
+    40.258378,
+    -80.00432,
+    40.258378
+],
+  "geometry": {"coordinates":[-80.00432000000001,40.258378],"type":"Point"}
 }

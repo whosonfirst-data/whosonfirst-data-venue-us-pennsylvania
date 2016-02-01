@@ -2,13 +2,14 @@
   "id": 387611665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.357616,39.99476,-78.357616,39.99476",
     "geom:latitude":39.99476,
     "geom:longitude":-78.357616,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"172 Penny Ln",
     "sg:city":"Everett",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85815813,
+        102191575,
+        404484499,
         85633793,
         101716769,
         102080939,
-        85815813
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"b9f88c2a3be7355fcb0c3ecd8d4df7ef",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080939,
+            "localadmin_id":404484499,
             "locality_id":101716769,
             "neighbourhood_id":85815813,
             "region_id":85688481,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":387611665,
-    "wof:lastmodified":1449059108,
+    "wof:lastmodified":1454360984,
     "wof:name":"Gene's Athletic Sales",
     "wof:parent_id":85815813,
     "wof:placetype":"venue",
@@ -68,6 +72,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-78.357616,39.99476,-78.357616,39.99476],
-  "geometry": {"coordinates":[-78.357616,39.99476],"type":"Point"}
+  "bbox": [
+    -78.357616,
+    39.99476,
+    -78.357616,
+    39.99476
+],
+  "geometry": {"coordinates":[-78.35761599999999,39.99476],"type":"Point"}
 }

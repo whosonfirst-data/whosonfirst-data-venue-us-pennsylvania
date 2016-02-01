@@ -2,13 +2,14 @@
   "id": 387557633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.113023,40.289704,-80.113023,40.289704",
     "geom:latitude":40.289704,
     "geom:longitude":-80.113023,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"102 Gallery Dr",
     "sg:city":"McMurray",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081343,
-        85852193
+        85852193,
+        102081343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"dfdcddc679bf1f5fa6d9931797ca3d5e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081343,
-            "locality_id":-1,
             "neighbourhood_id":85852193,
             "region_id":85688481,
             "venue_id":387557633
         }
     ],
     "wof:id":387557633,
-    "wof:lastmodified":1449058825,
+    "wof:lastmodified":1454360895,
     "wof:name":"The Sharp Edge Brasserie",
     "wof:parent_id":85852193,
     "wof:placetype":"venue",
@@ -66,6 +65,11 @@
         "belgian"
     ]
 },
-  "bbox": [-80.113023,40.289704,-80.113023,40.289704],
+  "bbox": [
+    -80.113023,
+    40.289704,
+    -80.113023,
+    40.289704
+],
   "geometry": {"coordinates":[-80.113023,40.289704],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387595495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.757637,39.82003,-79.757637,39.82003",
     "geom:latitude":39.82003,
     "geom:longitude":-79.757637,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"100 Sheehan Ln",
     "sg:city":"Fairchance",
     "sg:classifiers":[
@@ -32,8 +33,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080959,
-        85827687
+        85827687,
+        102080959
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +44,15 @@
     "wof:geomhash":"31edbbf499f4d35e0e74919580e54796",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080959,
-            "locality_id":-1,
             "neighbourhood_id":85827687,
             "region_id":85688481,
             "venue_id":387595495
         }
     ],
     "wof:id":387595495,
-    "wof:lastmodified":1449059548,
+    "wof:lastmodified":1454361112,
     "wof:name":"Civit Collision",
     "wof:parent_id":85827687,
     "wof:placetype":"venue",
@@ -66,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-79.757637,39.82003,-79.757637,39.82003],
+  "bbox": [
+    -79.757637,
+    39.82003,
+    -79.757637,
+    39.82003
+],
   "geometry": {"coordinates":[-79.757637,39.82003],"type":"Point"}
 }

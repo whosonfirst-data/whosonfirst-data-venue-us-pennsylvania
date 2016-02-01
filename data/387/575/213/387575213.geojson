@@ -2,13 +2,14 @@
   "id": 387575213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.154125,40.199376,-80.154125,40.199376",
     "geom:latitude":40.199376,
     "geom:longitude":-80.154125,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"263 Linnwood Rd",
     "sg:city":"Eighty Four",
     "sg:classifiers":[
@@ -28,7 +29,12 @@
     "sg:website":"www.pwcatering.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420539941,
+        102191575,
+        404487851,
         85633793,
+        101720329,
+        102081343,
         85688481
     ],
     "wof:breaches":[],
@@ -39,18 +45,20 @@
     "wof:geomhash":"e0c2bdadab78704e012b8099466d329b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081343,
+            "localadmin_id":404487851,
+            "locality_id":101720329,
+            "neighbourhood_id":420539941,
             "region_id":85688481,
             "venue_id":387575213
         }
     ],
     "wof:id":387575213,
-    "wof:lastmodified":1449057199,
+    "wof:lastmodified":1454358919,
     "wof:name":"P W Catering Llc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420539941,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -58,6 +66,11 @@
         "caterer"
     ]
 },
-  "bbox": [-80.154125,40.199376,-80.154125,40.199376],
-  "geometry": {"coordinates":[-80.154125,40.199376],"type":"Point"}
+  "bbox": [
+    -80.154125,
+    40.199376,
+    -80.154125,
+    40.199376
+],
+  "geometry": {"coordinates":[-80.15412499999999,40.199376],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403896219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.809189,40.244591,-76.809189,40.244591",
     "geom:latitude":40.244591,
     "geom:longitude":-76.809189,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"631 Eisenhower Blvd",
     "sg:city":"Harrisburg",
     "sg:classifiers":[],
@@ -19,11 +20,13 @@
     "sg:website":"http://www.rodewayinn.com/hotel-harrisburg-pennsylvania-PA628",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85829991,
+        102191575,
+        404486309,
         85633793,
         101719815,
         102081347,
-        85829991
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -33,9 +36,10 @@
     "wof:geomhash":"cded2217cf18c4d94a5bb53a46397108",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
+            "localadmin_id":404486309,
             "locality_id":101719815,
             "neighbourhood_id":85829991,
             "region_id":85688481,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":403896219,
-    "wof:lastmodified":1449055121,
+    "wof:lastmodified":1454357483,
     "wof:name":"Rodeway Inn Harrisburg",
     "wof:parent_id":85829991,
     "wof:placetype":"venue",
@@ -51,6 +55,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.809189,40.244591,-76.809189,40.244591],
+  "bbox": [
+    -76.809189,
+    40.244591,
+    -76.809189,
+    40.244591
+],
   "geometry": {"coordinates":[-76.809189,40.244591],"type":"Point"}
 }

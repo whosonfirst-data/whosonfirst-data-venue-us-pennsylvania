@@ -2,13 +2,14 @@
   "id": 387565841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.170013,40.280063,-80.170013,40.280063",
     "geom:latitude":40.280063,
     "geom:longitude":-80.170013,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"150 Technology Dr",
     "sg:city":"Canonsburg",
     "sg:classifiers":[
@@ -37,8 +38,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081343,
-        85836101
+        85836101,
+        102081343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +49,15 @@
     "wof:geomhash":"7e01a0b03899e3b0878f70f1314fbd90",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081343,
-            "locality_id":-1,
             "neighbourhood_id":85836101,
             "region_id":85688481,
             "venue_id":387565841
         }
     ],
     "wof:id":387565841,
-    "wof:lastmodified":1449059581,
+    "wof:lastmodified":1454361125,
     "wof:name":"Continental Design & Management Group",
     "wof:parent_id":85836101,
     "wof:placetype":"venue",
@@ -70,6 +69,11 @@
         "engineer"
     ]
 },
-  "bbox": [-80.170013,40.280063,-80.170013,40.280063],
+  "bbox": [
+    -80.170013,
+    40.280063,
+    -80.170013,
+    40.280063
+],
   "geometry": {"coordinates":[-80.170013,40.280063],"type":"Point"}
 }

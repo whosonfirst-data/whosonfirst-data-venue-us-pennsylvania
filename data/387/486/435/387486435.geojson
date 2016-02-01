@@ -2,13 +2,14 @@
   "id": 387486435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.823273,40.45895,-79.823273,40.45895",
     "geom:latitude":40.45895,
     "geom:longitude":-79.823273,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1000 Integrity Dr Ste 202",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85811007
+        85811007,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"a1a59c64b66b5d93baa219d611d770f7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85811007,
             "region_id":85688481,
             "venue_id":387486435
         }
     ],
     "wof:id":387486435,
-    "wof:lastmodified":1449058234,
+    "wof:lastmodified":1454360716,
     "wof:name":"Hawthorne Clinical",
     "wof:parent_id":85811007,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "laboratory"
     ]
 },
-  "bbox": [-79.823273,40.45895,-79.823273,40.45895],
+  "bbox": [
+    -79.823273,
+    40.45895,
+    -79.823273,
+    40.45895
+],
   "geometry": {"coordinates":[-79.823273,40.45895],"type":"Point"}
 }

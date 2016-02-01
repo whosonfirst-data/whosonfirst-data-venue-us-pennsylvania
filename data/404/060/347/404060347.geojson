@@ -2,13 +2,14 @@
   "id": 404060347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.337821,40.177476,-76.337821,40.177476",
     "geom:latitude":40.177476,
     "geom:longitude":-76.337821,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"564 W Lexington Rd",
     "sg:city":"Lititz",
     "sg:classifiers":[
@@ -26,8 +27,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85853449
+        85853449,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,17 +38,15 @@
     "wof:geomhash":"72723b5824a98865fcca349d318dcd37",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85853449,
             "region_id":85688481,
             "venue_id":404060347
         }
     ],
     "wof:id":404060347,
-    "wof:lastmodified":1449040221,
+    "wof:lastmodified":1454357072,
     "wof:name":"Flower Wagon",
     "wof:parent_id":85853449,
     "wof:placetype":"venue",
@@ -55,6 +54,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.337821,40.177476,-76.337821,40.177476],
-  "geometry": {"coordinates":[-76.337821,40.177476],"type":"Point"}
+  "bbox": [
+    -76.337821,
+    40.177476,
+    -76.337821,
+    40.177476
+],
+  "geometry": {"coordinates":[-76.33782100000001,40.177476],"type":"Point"}
 }

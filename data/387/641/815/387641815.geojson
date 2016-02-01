@@ -2,13 +2,14 @@
   "id": 387641815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.378655,40.31792,-79.378655,40.31792",
     "geom:latitude":40.31792,
     "geom:longitude":-79.378655,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"622 Weldon St",
     "sg:city":"Latrobe",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85831075,
+        102191575,
+        404487493,
         85633793,
         101717167,
         102081383,
-        85831075
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"bc7a6b4fe2edb1edcad8cd6e67971e42",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081383,
+            "localadmin_id":404487493,
             "locality_id":101717167,
             "neighbourhood_id":85831075,
             "region_id":85688481,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":387641815,
-    "wof:lastmodified":1449058997,
+    "wof:lastmodified":1454360951,
     "wof:name":"Lori Ostroski Photography",
     "wof:parent_id":85831075,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "wedding"
     ]
 },
-  "bbox": [-79.378655,40.31792,-79.378655,40.31792],
-  "geometry": {"coordinates":[-79.378655,40.31792],"type":"Point"}
+  "bbox": [
+    -79.378655,
+    40.31792,
+    -79.378655,
+    40.31792
+],
+  "geometry": {"coordinates":[-79.37865499999999,40.31792],"type":"Point"}
 }

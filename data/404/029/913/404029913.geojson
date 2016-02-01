@@ -2,13 +2,14 @@
   "id": 404029913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.745011,40.039281,-76.745011,40.039281",
     "geom:latitude":40.039281,
     "geom:longitude":-76.745011,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"52 GRUMBACHER RD #A3",
     "sg:city":"YORK",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080953,
-        85846231
+        85846231,
+        102080953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"a478718732e61952a95291cf1a059430",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
             "neighbourhood_id":85846231,
             "region_id":85688481,
             "venue_id":404029913
         }
     ],
     "wof:id":404029913,
-    "wof:lastmodified":1449039544,
+    "wof:lastmodified":1454356706,
     "wof:name":"Mid-Atlantic Waterproofing",
     "wof:parent_id":85846231,
     "wof:placetype":"venue",
@@ -63,6 +62,11 @@
         "contractor"
     ]
 },
-  "bbox": [-76.745011,40.039281,-76.745011,40.039281],
-  "geometry": {"coordinates":[-76.745011,40.039281],"type":"Point"}
+  "bbox": [
+    -76.745011,
+    40.039281,
+    -76.745011,
+    40.039281
+],
+  "geometry": {"coordinates":[-76.74501100000001,40.039281],"type":"Point"}
 }

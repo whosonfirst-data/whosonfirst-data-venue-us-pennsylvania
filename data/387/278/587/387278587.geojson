@@ -2,13 +2,14 @@
   "id": 387278587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.832446,40.481388,-79.832446,40.481388",
     "geom:latitude":40.481388,
     "geom:longitude":-79.832446,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"120 Gernert Dr",
     "sg:city":"Verona",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85812851
+        85812851,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"428d52efc6875e1b9e854e4f690fd20b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85812851,
             "region_id":85688481,
             "venue_id":387278587
         }
     ],
     "wof:id":387278587,
-    "wof:lastmodified":1449058214,
+    "wof:lastmodified":1454360710,
     "wof:name":"Rolling Hills Baptist Church",
     "wof:parent_id":85812851,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "churches-baptist"
     ]
 },
-  "bbox": [-79.832446,40.481388,-79.832446,40.481388],
+  "bbox": [
+    -79.832446,
+    40.481388,
+    -79.832446,
+    40.481388
+],
   "geometry": {"coordinates":[-79.832446,40.481388],"type":"Point"}
 }

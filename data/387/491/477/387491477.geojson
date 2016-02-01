@@ -2,13 +2,14 @@
   "id": 387491477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.959613,40.345344,-79.959613,40.345344",
     "geom:latitude":40.345344,
     "geom:longitude":-79.959613,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1328 Lebanon Church Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85834159,
+        102191575,
+        404484243,
         85633793,
         101718717,
         102080887,
-        85834159
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"482bc95efcf95266232ecc28fb283997",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484243,
             "locality_id":101718717,
             "neighbourhood_id":85834159,
             "region_id":85688481,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":387491477,
-    "wof:lastmodified":1449056050,
+    "wof:lastmodified":1454358042,
     "wof:name":"Glenwood Globe",
     "wof:parent_id":85834159,
     "wof:placetype":"venue",
@@ -72,6 +76,11 @@
         "women's"
     ]
 },
-  "bbox": [-79.959613,40.345344,-79.959613,40.345344],
+  "bbox": [
+    -79.959613,
+    40.345344,
+    -79.959613,
+    40.345344
+],
   "geometry": {"coordinates":[-79.959613,40.345344],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387829807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.038048,42.112789,-80.038048,42.112789",
     "geom:latitude":42.112789,
     "geom:longitude":-80.038048,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1258 E 38th St",
     "sg:city":"Erie",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85822031,
+        102191575,
+        404486673,
         85633793,
         101718253,
         102080955,
-        85822031
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"ef883082d03c36f332d2d605179b8014",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080955,
+            "localadmin_id":404486673,
             "locality_id":101718253,
             "neighbourhood_id":85822031,
             "region_id":85688481,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":387829807,
-    "wof:lastmodified":1449059669,
+    "wof:lastmodified":1454361153,
     "wof:name":"Homeland Real Estate Service",
     "wof:parent_id":85822031,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "broker"
     ]
 },
-  "bbox": [-80.038048,42.112789,-80.038048,42.112789],
+  "bbox": [
+    -80.038048,
+    42.112789,
+    -80.038048,
+    42.112789
+],
   "geometry": {"coordinates":[-80.038048,42.112789],"type":"Point"}
 }

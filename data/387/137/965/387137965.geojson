@@ -2,13 +2,14 @@
   "id": 387137965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.784584,40.58454,-79.784584,40.58454",
     "geom:latitude":40.58454,
     "geom:longitude":-79.784584,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"124 Meadow Ave",
     "sg:city":"Creighton",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85821635
+        85821635,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"685e088551d46082c2253df3ced741f3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85821635,
             "region_id":85688481,
             "venue_id":387137965
         }
     ],
     "wof:id":387137965,
-    "wof:lastmodified":1449059400,
+    "wof:lastmodified":1454361069,
     "wof:name":"Beaches Pizza",
     "wof:parent_id":85821635,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "pizza"
     ]
 },
-  "bbox": [-79.784584,40.58454,-79.784584,40.58454],
+  "bbox": [
+    -79.784584,
+    40.58454,
+    -79.784584,
+    40.58454
+],
   "geometry": {"coordinates":[-79.784584,40.58454],"type":"Point"}
 }

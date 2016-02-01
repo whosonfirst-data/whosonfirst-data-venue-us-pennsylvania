@@ -2,13 +2,14 @@
   "id": 404060645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.24445,40.143053,-76.24445,40.143053",
     "geom:latitude":40.143053,
     "geom:longitude":-76.24445,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"915 Rabbit Hill Rd",
     "sg:city":"Lititz",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85834405
+        85834405,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"14dbd2bf44c14beda0f8e10f603759df",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85834405,
             "region_id":85688481,
             "venue_id":404060645
         }
     ],
     "wof:id":404060645,
-    "wof:lastmodified":1449040219,
+    "wof:lastmodified":1454357070,
     "wof:name":"Hopkins Systematizing",
     "wof:parent_id":85834405,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "coach"
     ]
 },
-  "bbox": [-76.24445,40.143053,-76.24445,40.143053],
+  "bbox": [
+    -76.24445,
+    40.143053,
+    -76.24445,
+    40.143053
+],
   "geometry": {"coordinates":[-76.24445,40.143053],"type":"Point"}
 }

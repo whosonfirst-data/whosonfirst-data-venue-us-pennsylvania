@@ -2,13 +2,14 @@
   "id": 387497399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.012257,40.540509,-80.012257,40.540509",
     "geom:latitude":40.540509,
     "geom:longitude":-80.012257,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"7400 Mcknight Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85805835
+        85805835,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"725cf2ade3637218f84fca32c014f35e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85805835,
             "region_id":85688481,
             "venue_id":387497399
         }
     ],
     "wof:id":387497399,
-    "wof:lastmodified":1449059866,
+    "wof:lastmodified":1454361214,
     "wof:name":"Mr. Tire Auto Service Centers",
     "wof:parent_id":85805835,
     "wof:placetype":"venue",
@@ -68,6 +67,11 @@
         "tire"
     ]
 },
-  "bbox": [-80.012257,40.540509,-80.012257,40.540509],
-  "geometry": {"coordinates":[-80.012257,40.540509],"type":"Point"}
+  "bbox": [
+    -80.012257,
+    40.540509,
+    -80.012257,
+    40.540509
+],
+  "geometry": {"coordinates":[-80.01225700000001,40.540509],"type":"Point"}
 }

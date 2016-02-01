@@ -2,13 +2,14 @@
   "id": 387390669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.049855,40.421043,-80.049855,40.421043",
     "geom:latitude":40.421043,
     "geom:longitude":-80.049855,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"100 Fleet St",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536243,
+        102191575,
+        404482523,
         85633793,
-        101718673,
-        102080887
+        101718805,
+        102080887,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"f27e262922802fc52e9a1af42d66b62a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":101718673,
-            "neighbourhood_id":-1,
+            "localadmin_id":404482523,
+            "locality_id":101718805,
+            "neighbourhood_id":420536243,
             "region_id":85688481,
             "venue_id":387390669
         }
     ],
     "wof:id":387390669,
-    "wof:lastmodified":1449059958,
+    "wof:lastmodified":1454361244,
     "wof:name":"Eyesee 360",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536243,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "eyewear"
     ]
 },
-  "bbox": [-80.049855,40.421043,-80.049855,40.421043],
-  "geometry": {"coordinates":[-80.049855,40.421043],"type":"Point"}
+  "bbox": [
+    -80.049855,
+    40.421043,
+    -80.049855,
+    40.421043
+],
+  "geometry": {"coordinates":[-80.04985499999999,40.421043],"type":"Point"}
 }

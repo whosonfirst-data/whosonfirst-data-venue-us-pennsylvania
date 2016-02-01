@@ -2,13 +2,14 @@
   "id": 404098501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.994305,41.247473,-76.994305,41.247473",
     "geom:latitude":41.247473,
     "geom:longitude":-76.994305,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"503 Washington Blvd",
     "sg:city":"Williamsport",
     "sg:classifiers":[
@@ -40,11 +41,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85802799,
+        102191575,
+        404485355,
         85633793,
-        101716811,
+        101716809,
         102081317,
-        85802799
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,17 +57,18 @@
     "wof:geomhash":"c9e34b76b4ed1f1041fe08e931669957",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081317,
-            "locality_id":101716811,
+            "localadmin_id":404485355,
+            "locality_id":101716809,
             "neighbourhood_id":85802799,
             "region_id":85688481,
             "venue_id":404098501
         }
     ],
     "wof:id":404098501,
-    "wof:lastmodified":1449040206,
+    "wof:lastmodified":1454357062,
     "wof:name":"Jac's Produce",
     "wof:parent_id":85802799,
     "wof:placetype":"venue",
@@ -77,6 +81,11 @@
         "vegetables-wholesale"
     ]
 },
-  "bbox": [-76.994305,41.247473,-76.994305,41.247473],
+  "bbox": [
+    -76.994305,
+    41.247473,
+    -76.994305,
+    41.247473
+],
   "geometry": {"coordinates":[-76.994305,41.247473],"type":"Point"}
 }

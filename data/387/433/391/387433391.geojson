@@ -2,13 +2,14 @@
   "id": 387433391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.946738,40.460435,-79.946738,40.460435",
     "geom:latitude":40.460435,
     "geom:longitude":-79.946738,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4824 Liberty Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"http://www.pa4life.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85865519,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85865519
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"8f7d8384ca5ad66f310142e64bba6458",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85865519,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387433391,
-    "wof:lastmodified":1449056550,
+    "wof:lastmodified":1454358430,
     "wof:name":"House Of Representatives, Pennsylvania",
     "wof:parent_id":85865519,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "legislator"
     ]
 },
-  "bbox": [-79.946738,40.460435,-79.946738,40.460435],
+  "bbox": [
+    -79.946738,
+    40.460435,
+    -79.946738,
+    40.460435
+],
   "geometry": {"coordinates":[-79.946738,40.460435],"type":"Point"}
 }

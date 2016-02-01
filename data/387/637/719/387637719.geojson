@@ -2,13 +2,14 @@
   "id": 387637719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.675599,40.314341,-79.675599,40.314341",
     "geom:latitude":40.314341,
     "geom:longitude":-79.675599,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"60 Arona Rd",
     "sg:city":"Irwin",
     "sg:classifiers":[
@@ -37,8 +38,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081383,
-        85841171
+        85841171,
+        102081383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +49,15 @@
     "wof:geomhash":"bb453b49ec99f9303dacd444090abefe",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":-1,
             "neighbourhood_id":85841171,
             "region_id":85688481,
             "venue_id":387637719
         }
     ],
     "wof:id":387637719,
-    "wof:lastmodified":1449056111,
+    "wof:lastmodified":1454358093,
     "wof:name":"Synergy Salon & Day Spa",
     "wof:parent_id":85841171,
     "wof:placetype":"venue",
@@ -66,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.675599,40.314341,-79.675599,40.314341],
-  "geometry": {"coordinates":[-79.675599,40.314341],"type":"Point"}
+  "bbox": [
+    -79.675599,
+    40.314341,
+    -79.675599,
+    40.314341
+],
+  "geometry": {"coordinates":[-79.67559900000001,40.314341],"type":"Point"}
 }

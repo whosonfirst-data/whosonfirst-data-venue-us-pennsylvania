@@ -2,13 +2,14 @@
   "id": 404091669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.307763,40.044194,-76.307763,40.044194",
     "geom:latitude":40.044194,
     "geom:longitude":-76.307763,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"30 W Lemon St",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     "sg:website":"http://www.alleykat-cove.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85846173,
+        102191575,
+        404487183,
         85633793,
         101718643,
         102081377,
-        85846173
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"81c22a1ce12f8e5afc947abc8ad806c2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081377,
+            "localadmin_id":404487183,
             "locality_id":101718643,
             "neighbourhood_id":85846173,
             "region_id":85688481,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":404091669,
-    "wof:lastmodified":1449039135,
+    "wof:lastmodified":1454356465,
     "wof:name":"Alley Kat Inc",
     "wof:parent_id":85846173,
     "wof:placetype":"venue",
@@ -71,6 +75,11 @@
         "brew"
     ]
 },
-  "bbox": [-76.307763,40.044194,-76.307763,40.044194],
-  "geometry": {"coordinates":[-76.307763,40.044194],"type":"Point"}
+  "bbox": [
+    -76.307763,
+    40.044194,
+    -76.307763,
+    40.044194
+],
+  "geometry": {"coordinates":[-76.30776299999999,40.044194],"type":"Point"}
 }

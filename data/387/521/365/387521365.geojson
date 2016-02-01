@@ -2,13 +2,14 @@
   "id": 387521365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.06286,40.354638,-80.06286,40.354638",
     "geom:latitude":40.354638,
     "geom:longitude":-80.06286,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"537 Long Dr",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85805039
+        85805039,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"29b0ca73bb6c3365a31377e1ea19f71d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85805039,
             "region_id":85688481,
             "venue_id":387521365
         }
     ],
     "wof:id":387521365,
-    "wof:lastmodified":1449059731,
+    "wof:lastmodified":1454361174,
     "wof:name":"T&W Industrial Products",
     "wof:parent_id":85805039,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "valve"
     ]
 },
-  "bbox": [-80.06286,40.354638,-80.06286,40.354638],
+  "bbox": [
+    -80.06286,
+    40.354638,
+    -80.06286,
+    40.354638
+],
   "geometry": {"coordinates":[-80.06286,40.354638],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387103525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.348463,40.71195,-80.348463,40.71195",
     "geom:latitude":40.71195,
     "geom:longitude":-80.348463,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"110 Duncan Cir",
     "sg:city":"Beaver",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081323,
-        85827637
+        85827637,
+        102081323
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"1ae96ba334780c05ed76c8796895e3d5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081323,
-            "locality_id":-1,
             "neighbourhood_id":85827637,
             "region_id":85688481,
             "venue_id":387103525
         }
     ],
     "wof:id":387103525,
-    "wof:lastmodified":1449058487,
+    "wof:lastmodified":1454360795,
     "wof:name":"Patrick C Custard",
     "wof:parent_id":85827637,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "dessert"
     ]
 },
-  "bbox": [-80.348463,40.71195,-80.348463,40.71195],
+  "bbox": [
+    -80.348463,
+    40.71195,
+    -80.348463,
+    40.71195
+],
   "geometry": {"coordinates":[-80.348463,40.71195],"type":"Point"}
 }

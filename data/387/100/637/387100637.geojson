@@ -2,13 +2,14 @@
   "id": 387100637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.236576,40.655868,-80.236576,40.655868",
     "geom:latitude":40.655868,
     "geom:longitude":-80.236576,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1649 W State St",
     "sg:city":"Baden",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85851083,
+        102191575,
+        404482587,
         85633793,
+        101718393,
         102081323,
-        85851083
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,17 +41,18 @@
     "wof:geomhash":"6a9a1933a460b5deae768b5c948f46e8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081323,
-            "locality_id":-1,
+            "localadmin_id":404482587,
+            "locality_id":101718393,
             "neighbourhood_id":85851083,
             "region_id":85688481,
             "venue_id":387100637
         }
     ],
     "wof:id":387100637,
-    "wof:lastmodified":1449058925,
+    "wof:lastmodified":1454360928,
     "wof:name":"Talerico Family Restaurant",
     "wof:parent_id":85851083,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.236576,40.655868,-80.236576,40.655868],
+  "bbox": [
+    -80.236576,
+    40.655868,
+    -80.236576,
+    40.655868
+],
   "geometry": {"coordinates":[-80.236576,40.655868],"type":"Point"}
 }

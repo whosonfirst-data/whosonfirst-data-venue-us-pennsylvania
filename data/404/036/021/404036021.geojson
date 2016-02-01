@@ -2,13 +2,14 @@
   "id": 404036021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.769386,39.97514,-76.769386,39.97514",
     "geom:latitude":39.97514,
     "geom:longitude":-76.769386,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1800 Loucks Rd",
     "sg:city":"York",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     "sg:website":"http://www.dover.k12.pa.us",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85819331,
+        102191575,
+        404488029,
         85633793,
+        101717279,
         102080953,
-        85819331
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +45,18 @@
     "wof:geomhash":"bcb5b9322f16773437b529fe05ac9ce5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
+            "localadmin_id":404488029,
+            "locality_id":101717279,
             "neighbourhood_id":85819331,
             "region_id":85688481,
             "venue_id":404036021
         }
     ],
     "wof:id":404036021,
-    "wof:lastmodified":1449039312,
+    "wof:lastmodified":1454356564,
     "wof:name":"York County High School",
     "wof:parent_id":85819331,
     "wof:placetype":"venue",
@@ -61,6 +66,11 @@
         "high"
     ]
 },
-  "bbox": [-76.769386,39.97514,-76.769386,39.97514],
+  "bbox": [
+    -76.769386,
+    39.97514,
+    -76.769386,
+    39.97514
+],
   "geometry": {"coordinates":[-76.769386,39.97514],"type":"Point"}
 }

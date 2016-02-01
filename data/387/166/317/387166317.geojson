@@ -2,13 +2,14 @@
   "id": 387166317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.914552,40.1694,-79.914552,40.1694",
     "geom:latitude":40.1694,
     "geom:longitude":-79.914552,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"130 Baird St",
     "sg:city":"Monongahela",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85853767,
+        102191575,
+        404487733,
         85633793,
         101720343,
         102081343,
-        85853767
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"43dd89ebb87677dc073ea876e34213c1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081343,
+            "localadmin_id":404487733,
             "locality_id":101720343,
             "neighbourhood_id":85853767,
             "region_id":85688481,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":387166317,
-    "wof:lastmodified":1449058235,
+    "wof:lastmodified":1454360718,
     "wof:name":"Carroll Twp Social Hall",
     "wof:parent_id":85853767,
     "wof:placetype":"venue",
@@ -68,6 +72,11 @@
         "caterer"
     ]
 },
-  "bbox": [-79.914552,40.1694,-79.914552,40.1694],
+  "bbox": [
+    -79.914552,
+    40.1694,
+    -79.914552,
+    40.1694
+],
   "geometry": {"coordinates":[-79.914552,40.1694],"type":"Point"}
 }

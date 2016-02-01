@@ -2,13 +2,14 @@
   "id": 387840995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.101952,42.064808,-80.101952,42.064808",
     "geom:latitude":42.064808,
     "geom:longitude":-80.101952,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2069 Interchange Rd",
     "sg:city":"Erie",
     "sg:classifiers":[
@@ -37,8 +38,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080955,
-        85827851
+        85827851,
+        102080955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +49,15 @@
     "wof:geomhash":"f0c732cad72de18dc4c5bf9113572bb9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080955,
-            "locality_id":-1,
             "neighbourhood_id":85827851,
             "region_id":85688481,
             "venue_id":387840995
         }
     ],
     "wof:id":387840995,
-    "wof:lastmodified":1449059052,
+    "wof:lastmodified":1454360969,
     "wof:name":"PNC Bank",
     "wof:parent_id":85827851,
     "wof:placetype":"venue",
@@ -70,6 +69,11 @@
         "saving"
     ]
 },
-  "bbox": [-80.101952,42.064808,-80.101952,42.064808],
+  "bbox": [
+    -80.101952,
+    42.064808,
+    -80.101952,
+    42.064808
+],
   "geometry": {"coordinates":[-80.101952,42.064808],"type":"Point"}
 }

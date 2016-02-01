@@ -2,13 +2,14 @@
   "id": 387521587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.066689,40.351261,-80.066689,40.351261",
     "geom:latitude":40.351261,
     "geom:longitude":-80.066689,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"153 Seegar Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -45,8 +46,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85805039
+        85805039,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,17 +57,15 @@
     "wof:geomhash":"ac383c91bbf55d2b301524233cbad3a4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85805039,
             "region_id":85688481,
             "venue_id":387521587
         }
     ],
     "wof:id":387521587,
-    "wof:lastmodified":1449059731,
+    "wof:lastmodified":1454361174,
     "wof:name":"Nps",
     "wof:parent_id":85805039,
     "wof:placetype":"venue",
@@ -81,6 +80,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-80.066689,40.351261,-80.066689,40.351261],
+  "bbox": [
+    -80.066689,
+    40.351261,
+    -80.066689,
+    40.351261
+],
   "geometry": {"coordinates":[-80.066689,40.351261],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387441059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.984238,40.367,-79.984238,40.367",
     "geom:latitude":40.367,
     "geom:longitude":-79.984238,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4144 Clairton Blvd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"venicepizzeriaonline.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85857905,
+        102191575,
+        404484247,
         85633793,
         101718705,
         102080887,
-        85857905
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"27a9a4ce93acb94bcc3a234c1340688d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484247,
             "locality_id":101718705,
             "neighbourhood_id":85857905,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387441059,
-    "wof:lastmodified":1449056401,
+    "wof:lastmodified":1454358317,
     "wof:name":"Venice Pizzeria",
     "wof:parent_id":85857905,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "italian"
     ]
 },
-  "bbox": [-79.984238,40.367,-79.984238,40.367],
+  "bbox": [
+    -79.984238,
+    40.367,
+    -79.984238,
+    40.367
+],
   "geometry": {"coordinates":[-79.984238,40.367],"type":"Point"}
 }

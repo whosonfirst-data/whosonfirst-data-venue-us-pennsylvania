@@ -2,13 +2,14 @@
   "id": 387532607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.075829,40.370088,-80.075829,40.370088",
     "geom:latitude":40.370088,
     "geom:longitude":-80.075829,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"551 Kelso Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -43,8 +44,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85805039
+        85805039,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,17 +55,15 @@
     "wof:geomhash":"9b3facb8bd08acc8756a20158462abbb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85805039,
             "region_id":85688481,
             "venue_id":387532607
         }
     ],
     "wof:id":387532607,
-    "wof:lastmodified":1449057375,
+    "wof:lastmodified":1454359069,
     "wof:name":"Neuleo Collective",
     "wof:parent_id":85805039,
     "wof:placetype":"venue",
@@ -77,6 +76,11 @@
         "advertising"
     ]
 },
-  "bbox": [-80.075829,40.370088,-80.075829,40.370088],
+  "bbox": [
+    -80.075829,
+    40.370088,
+    -80.075829,
+    40.370088
+],
   "geometry": {"coordinates":[-80.075829,40.370088],"type":"Point"}
 }

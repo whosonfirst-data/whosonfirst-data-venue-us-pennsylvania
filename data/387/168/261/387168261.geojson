@@ -2,13 +2,14 @@
   "id": 387168261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.9244,40.201698,-79.9244,40.201698",
     "geom:latitude":40.201698,
     "geom:longitude":-79.9244,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"204 W Main St",
     "sg:city":"Monongahela",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420539901,
+        102191575,
+        404487805,
         85633793,
         101718465,
-        102081343
+        102081343,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"65c5f01ccb5eb747132371f53c25c98e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081343,
+            "localadmin_id":404487805,
             "locality_id":101718465,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420539901,
             "region_id":85688481,
             "venue_id":387168261
         }
     ],
     "wof:id":387168261,
-    "wof:lastmodified":1449058091,
+    "wof:lastmodified":1454360678,
     "wof:name":"Hanna Carol L Attorney",
-    "wof:parent_id":-1,
+    "wof:parent_id":420539901,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.9244,40.201698,-79.9244,40.201698],
-  "geometry": {"coordinates":[-79.9244,40.201698],"type":"Point"}
+  "bbox": [
+    -79.9244,
+    40.201698,
+    -79.9244,
+    40.201698
+],
+  "geometry": {"coordinates":[-79.92440000000001,40.201698],"type":"Point"}
 }

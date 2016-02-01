@@ -2,13 +2,14 @@
   "id": 387865631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.243518,39.965582,-75.243518,39.965582",
     "geom:latitude":39.965582,
     "geom:longitude":-75.243518,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"135 Horton Drive",
     "sg:city":"Saxton",
     "sg:classifiers":[
@@ -25,10 +26,13 @@
     "sg:website":"www.setonleather.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420539515,
+        102191575,
+        404483701,
         85633793,
         101718083,
-        102081353
+        102081353,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,24 +42,30 @@
     "wof:geomhash":"8e89aafe8c639269a4bd02c4953b3e9b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081353,
+            "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420539515,
             "region_id":85688481,
             "venue_id":387865631
         }
     ],
     "wof:id":387865631,
-    "wof:lastmodified":1449058978,
+    "wof:lastmodified":1454360945,
     "wof:name":"Seton Leather Company",
-    "wof:parent_id":-1,
+    "wof:parent_id":420539515,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.243518,39.965582,-75.243518,39.965582],
-  "geometry": {"coordinates":[-75.243518,39.965582],"type":"Point"}
+  "bbox": [
+    -75.243518,
+    39.965582,
+    -75.243518,
+    39.965582
+],
+  "geometry": {"coordinates":[-75.24351799999999,39.965582],"type":"Point"}
 }

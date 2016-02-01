@@ -2,13 +2,14 @@
   "id": 387622459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.467744,40.285349,-79.467744,40.285349",
     "geom:latitude":40.285349,
     "geom:longitude":-79.467744,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"433 White School Rd",
     "sg:city":"Greensburg",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081383,
-        85814893
+        85814893,
+        102081383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"ceb2d23a436cfb42d4e64cf577721ede",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":-1,
             "neighbourhood_id":85814893,
             "region_id":85688481,
             "venue_id":387622459
         }
     ],
     "wof:id":387622459,
-    "wof:lastmodified":1449059236,
+    "wof:lastmodified":1454361017,
     "wof:name":"Richard E Frantz Enterprises",
     "wof:parent_id":85814893,
     "wof:placetype":"venue",
@@ -64,6 +63,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.467744,40.285349,-79.467744,40.285349],
+  "bbox": [
+    -79.467744,
+    40.285349,
+    -79.467744,
+    40.285349
+],
   "geometry": {"coordinates":[-79.467744,40.285349],"type":"Point"}
 }

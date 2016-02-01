@@ -2,13 +2,14 @@
   "id": 387264595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.098556,40.466482,-80.098556,40.466482",
     "geom:latitude":40.466482,
     "geom:longitude":-80.098556,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1929 McKees Rocks Rd",
     "sg:city":"Mc Kees Rocks",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85835117
+        85835117,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"677d0e26cca651afdf40311b5c01a77c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85835117,
             "region_id":85688481,
             "venue_id":387264595
         }
     ],
     "wof:id":387264595,
-    "wof:lastmodified":1449058583,
+    "wof:lastmodified":1454360818,
     "wof:name":"Happy Wheels Body Shop",
     "wof:parent_id":85835117,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "shop"
     ]
 },
-  "bbox": [-80.098556,40.466482,-80.098556,40.466482],
+  "bbox": [
+    -80.098556,
+    40.466482,
+    -80.098556,
+    40.466482
+],
   "geometry": {"coordinates":[-80.098556,40.466482],"type":"Point"}
 }

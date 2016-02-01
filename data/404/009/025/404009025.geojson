@@ -2,13 +2,14 @@
   "id": 404009025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.7388,39.960673,-76.7388,39.960673",
     "geom:latitude":39.960673,
     "geom:longitude":-76.7388,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"412 W Philadelphia St",
     "sg:city":"York",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85833149,
+        102191575,
+        404488029,
         85633793,
+        101717279,
         102080953,
-        85833149
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +46,18 @@
     "wof:geomhash":"a065bf05dce4dd7601c9cbb470197b55",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
+            "localadmin_id":404488029,
+            "locality_id":101717279,
             "neighbourhood_id":85833149,
             "region_id":85688481,
             "venue_id":404009025
         }
     ],
     "wof:id":404009025,
-    "wof:lastmodified":1449040311,
+    "wof:lastmodified":1454357129,
     "wof:name":"You Keep Your Money",
     "wof:parent_id":85833149,
     "wof:placetype":"venue",
@@ -64,6 +69,11 @@
         "referral"
     ]
 },
-  "bbox": [-76.7388,39.960673,-76.7388,39.960673],
+  "bbox": [
+    -76.7388,
+    39.960673,
+    -76.7388,
+    39.960673
+],
   "geometry": {"coordinates":[-76.7388,39.960673],"type":"Point"}
 }

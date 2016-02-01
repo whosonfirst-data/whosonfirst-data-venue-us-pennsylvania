@@ -2,13 +2,14 @@
   "id": 387849283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.39579,40.520901,-78.39579,40.520901",
     "geom:latitude":40.520901,
     "geom:longitude":-78.39579,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"600 Chestnut Ave",
     "sg:city":"Altoona",
     "sg:classifiers":[
@@ -64,11 +65,13 @@
     "sg:website":"http://www.riteaid.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85818685,
+        102191575,
+        404484619,
         85633793,
         101716595,
         102081325,
-        85818685
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,9 +81,10 @@
     "wof:geomhash":"afaafa13c2d9d04839af72e013a894fa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081325,
+            "localadmin_id":404484619,
             "locality_id":101716595,
             "neighbourhood_id":85818685,
             "region_id":85688481,
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":387849283,
-    "wof:lastmodified":1449056798,
+    "wof:lastmodified":1454358620,
     "wof:name":"Rite Aid",
     "wof:parent_id":85818685,
     "wof:placetype":"venue",
@@ -109,6 +113,11 @@
         "greeting"
     ]
 },
-  "bbox": [-78.39579,40.520901,-78.39579,40.520901],
-  "geometry": {"coordinates":[-78.39579,40.520901],"type":"Point"}
+  "bbox": [
+    -78.39579,
+    40.520901,
+    -78.39579,
+    40.520901
+],
+  "geometry": {"coordinates":[-78.39579000000001,40.520901],"type":"Point"}
 }

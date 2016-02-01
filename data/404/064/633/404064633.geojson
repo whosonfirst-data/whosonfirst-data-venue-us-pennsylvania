@@ -2,13 +2,14 @@
   "id": 404064633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.381561,40.149891,-76.381561,40.149891",
     "geom:latitude":40.149891,
     "geom:longitude":-76.381561,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"700 Lancaster Rd",
     "sg:city":"Manheim",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85853449
+        85853449,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"786a972b95a0f3b256bb639589fd5664",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85853449,
             "region_id":85688481,
             "venue_id":404064633
         }
     ],
     "wof:id":404064633,
-    "wof:lastmodified":1449039449,
+    "wof:lastmodified":1454356656,
     "wof:name":"Manheim Chrysler",
     "wof:parent_id":85853449,
     "wof:placetype":"venue",
@@ -68,6 +67,11 @@
         "new"
     ]
 },
-  "bbox": [-76.381561,40.149891,-76.381561,40.149891],
+  "bbox": [
+    -76.381561,
+    40.149891,
+    -76.381561,
+    40.149891
+],
   "geometry": {"coordinates":[-76.381561,40.149891],"type":"Point"}
 }

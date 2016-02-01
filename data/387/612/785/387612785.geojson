@@ -2,13 +2,14 @@
   "id": 387612785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.882087,40.033002,-78.882087,40.033002",
     "geom:latitude":40.033002,
     "geom:longitude":-78.882087,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"473 Springdale Rd",
     "sg:city":"Friedens",
     "sg:classifiers":[
@@ -34,8 +35,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081361,
-        85829623
+        85829623,
+        102081361
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +46,15 @@
     "wof:geomhash":"4d3118a3e29fe6353dfd24accd677094",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081361,
-            "locality_id":-1,
             "neighbourhood_id":85829623,
             "region_id":85688481,
             "venue_id":387612785
         }
     ],
     "wof:id":387612785,
-    "wof:lastmodified":1449057793,
+    "wof:lastmodified":1454360597,
     "wof:name":"Stonycreek Valley Farms",
     "wof:parent_id":85829623,
     "wof:placetype":"venue",
@@ -65,6 +64,11 @@
         "hay"
     ]
 },
-  "bbox": [-78.882087,40.033002,-78.882087,40.033002],
+  "bbox": [
+    -78.882087,
+    40.033002,
+    -78.882087,
+    40.033002
+],
   "geometry": {"coordinates":[-78.882087,40.033002],"type":"Point"}
 }

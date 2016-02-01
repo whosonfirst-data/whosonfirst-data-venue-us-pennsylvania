@@ -2,13 +2,14 @@
   "id": 404187215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.412044,40.651217,-75.412044,40.651217",
     "geom:latitude":40.651217,
     "geom:longitude":-75.412044,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3025 Schoenersville Rd",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -32,8 +33,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081395,
-        85814279
+        85814279,
+        102081395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +44,15 @@
     "wof:geomhash":"a05ac798158e213cc89a9594808063af",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081395,
-            "locality_id":-1,
             "neighbourhood_id":85814279,
             "region_id":85688481,
             "venue_id":404187215
         }
     ],
     "wof:id":404187215,
-    "wof:lastmodified":1449039199,
+    "wof:lastmodified":1454356516,
     "wof:name":"U-Haul Co.",
     "wof:parent_id":85814279,
     "wof:placetype":"venue",
@@ -66,6 +65,11 @@
         "trailer"
     ]
 },
-  "bbox": [-75.412044,40.651217,-75.412044,40.651217],
-  "geometry": {"coordinates":[-75.412044,40.651217],"type":"Point"}
+  "bbox": [
+    -75.412044,
+    40.651217,
+    -75.412044,
+    40.651217
+],
+  "geometry": {"coordinates":[-75.41204399999999,40.651217],"type":"Point"}
 }

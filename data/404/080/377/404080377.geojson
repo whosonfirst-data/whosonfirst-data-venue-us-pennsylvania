@@ -2,13 +2,14 @@
   "id": 404080377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.334721,40.078132,-76.334721,40.078132",
     "geom:latitude":40.078132,
     "geom:longitude":-76.334721,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"231 Granite Run Dr",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -34,8 +35,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85848619
+        85848619,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +46,15 @@
     "wof:geomhash":"881387d7687471800bb1a05e321c88d3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85848619,
             "region_id":85688481,
             "venue_id":404080377
         }
     ],
     "wof:id":404080377,
-    "wof:lastmodified":1449040300,
+    "wof:lastmodified":1454357117,
     "wof:name":"Wayne R Conrad Md",
     "wof:parent_id":85848619,
     "wof:placetype":"venue",
@@ -70,6 +69,11 @@
         "surgery"
     ]
 },
-  "bbox": [-76.334721,40.078132,-76.334721,40.078132],
+  "bbox": [
+    -76.334721,
+    40.078132,
+    -76.334721,
+    40.078132
+],
   "geometry": {"coordinates":[-76.334721,40.078132],"type":"Point"}
 }

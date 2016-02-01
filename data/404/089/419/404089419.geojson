@@ -2,13 +2,14 @@
   "id": 404089419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.323373,40.039675,-76.323373,40.039675",
     "geom:latitude":40.039675,
     "geom:longitude":-76.323373,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"941 Wheatland Ave Ste 303",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85858805
+        85858805,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"165d6ff05b21edec879354852d5c29c6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85858805,
             "region_id":85688481,
             "venue_id":404089419
         }
     ],
     "wof:id":404089419,
-    "wof:lastmodified":1449039303,
+    "wof:lastmodified":1454356558,
     "wof:name":"David Campbell & Associates",
     "wof:parent_id":85858805,
     "wof:placetype":"venue",
@@ -71,6 +70,11 @@
         "law"
     ]
 },
-  "bbox": [-76.323373,40.039675,-76.323373,40.039675],
+  "bbox": [
+    -76.323373,
+    40.039675,
+    -76.323373,
+    40.039675
+],
   "geometry": {"coordinates":[-76.323373,40.039675],"type":"Point"}
 }

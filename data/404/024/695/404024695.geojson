@@ -2,13 +2,14 @@
   "id": 404024695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.705963,39.874699,-76.705963,39.874699",
     "geom:latitude":39.874699,
     "geom:longitude":-76.705963,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"90 Hidden Hill Farm Ln",
     "sg:city":"York",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080953,
-        85844343
+        85844343,
+        102080953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"6968c37a4903a3b3fa44276c758fb2e0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
             "neighbourhood_id":85844343,
             "region_id":85688481,
             "venue_id":404024695
         }
     ],
     "wof:id":404024695,
-    "wof:lastmodified":1449039586,
+    "wof:lastmodified":1454356728,
     "wof:name":"Michael Grim",
     "wof:parent_id":85844343,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "trucking"
     ]
 },
-  "bbox": [-76.705963,39.874699,-76.705963,39.874699],
+  "bbox": [
+    -76.705963,
+    39.874699,
+    -76.705963,
+    39.874699
+],
   "geometry": {"coordinates":[-76.705963,39.874699],"type":"Point"}
 }

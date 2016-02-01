@@ -2,13 +2,14 @@
   "id": 403878203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.844428,40.303949,-76.844428,40.303949",
     "geom:latitude":40.303949,
     "geom:longitude":-76.844428,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2619 Brindle Dr Shoppes at Susquehanna Marketplace",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -37,8 +38,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85851635
+        85851635,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +49,15 @@
     "wof:geomhash":"e055061af9de52d02ba565c31fa49601",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85851635,
             "region_id":85688481,
             "venue_id":403878203
         }
     ],
     "wof:id":403878203,
-    "wof:lastmodified":1449055339,
+    "wof:lastmodified":1454357613,
     "wof:name":"Plumbottom",
     "wof:parent_id":85851635,
     "wof:placetype":"venue",
@@ -70,6 +69,11 @@
         "store"
     ]
 },
-  "bbox": [-76.844428,40.303949,-76.844428,40.303949],
-  "geometry": {"coordinates":[-76.844428,40.303949],"type":"Point"}
+  "bbox": [
+    -76.844428,
+    40.303949,
+    -76.844428,
+    40.303949
+],
+  "geometry": {"coordinates":[-76.84442799999999,40.303949],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387392889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.049698,40.416698,-80.049698,40.416698",
     "geom:latitude":40.416698,
     "geom:longitude":-80.049698,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"875 Greentree Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85816087,
+        102191575,
+        404484941,
         85633793,
         101718673,
         102080887,
-        85816087
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"cfd07152ab22a3466ef901bc8e592bd7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484941,
             "locality_id":101718673,
             "neighbourhood_id":85816087,
             "region_id":85688481,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":387392889,
-    "wof:lastmodified":1449059158,
+    "wof:lastmodified":1454361000,
     "wof:name":"Word-Fm 1015",
     "wof:parent_id":85816087,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.049698,40.416698,-80.049698,40.416698],
-  "geometry": {"coordinates":[-80.049698,40.416698],"type":"Point"}
+  "bbox": [
+    -80.049698,
+    40.416698,
+    -80.049698,
+    40.416698
+],
+  "geometry": {"coordinates":[-80.04969800000001,40.416698],"type":"Point"}
 }

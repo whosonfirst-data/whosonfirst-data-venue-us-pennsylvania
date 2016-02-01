@@ -2,13 +2,14 @@
   "id": 387245687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.850671,40.372294,-79.850671,40.372294",
     "geom:latitude":40.372294,
     "geom:longitude":-79.850671,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"523 Grant Ave",
     "sg:city":"Duquesne",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85830645,
+        102191575,
+        404482523,
         85633793,
-        101718717,
+        101718805,
         102080887,
-        85830645
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"890d2301dcd55a0ff2ffb67b37fd1fa7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":101718717,
+            "localadmin_id":404482523,
+            "locality_id":101718805,
             "neighbourhood_id":85830645,
             "region_id":85688481,
             "venue_id":387245687
         }
     ],
     "wof:id":387245687,
-    "wof:lastmodified":1449059792,
+    "wof:lastmodified":1454361196,
     "wof:name":"Public Safety Security",
     "wof:parent_id":85830645,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "patrol"
     ]
 },
-  "bbox": [-79.850671,40.372294,-79.850671,40.372294],
-  "geometry": {"coordinates":[-79.850671,40.372294],"type":"Point"}
+  "bbox": [
+    -79.850671,
+    40.372294,
+    -79.850671,
+    40.372294
+],
+  "geometry": {"coordinates":[-79.85067100000001,40.372294],"type":"Point"}
 }

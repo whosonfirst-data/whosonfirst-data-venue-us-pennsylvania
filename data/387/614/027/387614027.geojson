@@ -2,13 +2,14 @@
   "id": 387614027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.050132,39.823671,-79.050132,39.823671",
     "geom:latitude":39.823671,
     "geom:longitude":-79.050132,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"166 Klink Rd",
     "sg:city":"Meyersdale",
     "sg:classifiers":[
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85846793,
+        102191575,
+        404488119,
         85633793,
+        101717945,
         102081361,
-        85846793
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +50,18 @@
     "wof:geomhash":"2f402cae95b7dfd295975483518242e7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081361,
-            "locality_id":-1,
+            "localadmin_id":404488119,
+            "locality_id":101717945,
             "neighbourhood_id":85846793,
             "region_id":85688481,
             "venue_id":387614027
         }
     ],
     "wof:id":387614027,
-    "wof:lastmodified":1449060022,
+    "wof:lastmodified":1454361263,
     "wof:name":"Castleview Farms",
     "wof:parent_id":85846793,
     "wof:placetype":"venue",
@@ -67,6 +72,11 @@
         "product"
     ]
 },
-  "bbox": [-79.050132,39.823671,-79.050132,39.823671],
+  "bbox": [
+    -79.050132,
+    39.823671,
+    -79.050132,
+    39.823671
+],
   "geometry": {"coordinates":[-79.050132,39.823671],"type":"Point"}
 }

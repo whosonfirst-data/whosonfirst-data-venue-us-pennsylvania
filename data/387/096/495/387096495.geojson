@@ -2,13 +2,14 @@
   "id": 387096495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.295972,40.651283,-80.295972,40.651283",
     "geom:latitude":40.651283,
     "geom:longitude":-80.295972,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"855 Chapel Rd",
     "sg:city":"Aliquippa",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85814681,
+        102191575,
+        404484467,
         85633793,
         101718359,
         102081323,
-        85814681
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"5f6215ec9bb3596c1c522e78bac28a60",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081323,
+            "localadmin_id":404484467,
             "locality_id":101718359,
             "neighbourhood_id":85814681,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387096495,
-    "wof:lastmodified":1449057331,
+    "wof:lastmodified":1454359031,
     "wof:name":"Urban Designs",
     "wof:parent_id":85814681,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "producer"
     ]
 },
-  "bbox": [-80.295972,40.651283,-80.295972,40.651283],
-  "geometry": {"coordinates":[-80.295972,40.651283],"type":"Point"}
+  "bbox": [
+    -80.295972,
+    40.651283,
+    -80.295972,
+    40.651283
+],
+  "geometry": {"coordinates":[-80.29597200000001,40.651283],"type":"Point"}
 }

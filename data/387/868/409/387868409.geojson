@@ -2,13 +2,14 @@
   "id": 387868409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.639479,41.964954,-78.639479,41.964954",
     "geom:latitude":41.964954,
     "geom:longitude":-78.639479,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"308 Jackson Ave",
     "sg:city":"Bradford",
     "sg:classifiers":[
@@ -41,8 +42,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080951,
-        85824425
+        85824425,
+        102080951
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,17 +53,15 @@
     "wof:geomhash":"01c9eac364e1ff008cf2084dd55d8252",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080951,
-            "locality_id":-1,
             "neighbourhood_id":85824425,
             "region_id":85688481,
             "venue_id":387868409
         }
     ],
     "wof:id":387868409,
-    "wof:lastmodified":1449056291,
+    "wof:lastmodified":1454358227,
     "wof:name":"Vinelli's Picture & Sound",
     "wof:parent_id":85824425,
     "wof:placetype":"venue",
@@ -79,6 +78,11 @@
         "store"
     ]
 },
-  "bbox": [-78.639479,41.964954,-78.639479,41.964954],
-  "geometry": {"coordinates":[-78.639479,41.964954],"type":"Point"}
+  "bbox": [
+    -78.639479,
+    41.964954,
+    -78.639479,
+    41.964954
+],
+  "geometry": {"coordinates":[-78.63947899999999,41.964954],"type":"Point"}
 }

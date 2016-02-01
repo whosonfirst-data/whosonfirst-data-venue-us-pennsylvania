@@ -2,13 +2,14 @@
   "id": 404092059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.406764,40.037504,-76.406764,40.037504",
     "geom:latitude":40.037504,
     "geom:longitude":-76.406764,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3630 Columbia Ave",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -32,8 +33,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85814875
+        85814875,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +44,15 @@
     "wof:geomhash":"e64edc52e84969ae2da4626da0a4d257",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85814875,
             "region_id":85688481,
             "venue_id":404092059
         }
     ],
     "wof:id":404092059,
-    "wof:lastmodified":1449040071,
+    "wof:lastmodified":1454356990,
     "wof:name":"Commerical Prep & Paint",
     "wof:parent_id":85814875,
     "wof:placetype":"venue",
@@ -66,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-76.406764,40.037504,-76.406764,40.037504],
+  "bbox": [
+    -76.406764,
+    40.037504,
+    -76.406764,
+    40.037504
+],
   "geometry": {"coordinates":[-76.406764,40.037504],"type":"Point"}
 }

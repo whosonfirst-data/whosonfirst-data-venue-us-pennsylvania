@@ -2,13 +2,14 @@
   "id": 387239957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.211922,40.511452,-80.211922,40.511452",
     "geom:latitude":40.511452,
     "geom:longitude":-80.211922,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"101 Snell Dr",
     "sg:city":"Coraopolis",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85809567,
+        102191575,
+        404484137,
         85633793,
         101720527,
         102080887,
-        85809567
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"34096b918a24bd02b6c78b4accd50f0e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484137,
             "locality_id":101720527,
             "neighbourhood_id":85809567,
             "region_id":85688481,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":387239957,
-    "wof:lastmodified":1449056477,
+    "wof:lastmodified":1454358385,
     "wof:name":"Brougher Appraisal Service",
     "wof:parent_id":85809567,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "appraiser"
     ]
 },
-  "bbox": [-80.211922,40.511452,-80.211922,40.511452],
+  "bbox": [
+    -80.211922,
+    40.511452,
+    -80.211922,
+    40.511452
+],
   "geometry": {"coordinates":[-80.211922,40.511452],"type":"Point"}
 }

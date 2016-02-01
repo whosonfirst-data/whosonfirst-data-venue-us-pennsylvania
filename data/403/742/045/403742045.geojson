@@ -2,13 +2,14 @@
   "id": 403742045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.006599,40.246601,-77.006599,40.246601",
     "geom:latitude":40.246601,
     "geom:longitude":-77.006599,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6423 Carlisle Pike",
     "sg:city":"Mechanicsburg",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081359,
-        85822223
+        85822223,
+        102081359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"05481b16544cfd97d79c1f7d14a8bfcb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081359,
-            "locality_id":-1,
             "neighbourhood_id":85822223,
             "region_id":85688481,
             "venue_id":403742045
         }
     ],
     "wof:id":403742045,
-    "wof:lastmodified":1449054722,
+    "wof:lastmodified":1454357242,
     "wof:name":"A Child's Eyes",
     "wof:parent_id":85822223,
     "wof:placetype":"venue",
@@ -61,6 +60,11 @@
         "eyewear"
     ]
 },
-  "bbox": [-77.006599,40.246601,-77.006599,40.246601],
-  "geometry": {"coordinates":[-77.006599,40.246601],"type":"Point"}
+  "bbox": [
+    -77.006599,
+    40.246601,
+    -77.006599,
+    40.246601
+],
+  "geometry": {"coordinates":[-77.00659899999999,40.246601],"type":"Point"}
 }

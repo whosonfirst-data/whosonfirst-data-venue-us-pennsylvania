@@ -2,13 +2,14 @@
   "id": 387442573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.044965,40.38019,-80.044965,40.38019",
     "geom:latitude":40.38019,
     "geom:longitude":-80.044965,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"702 Washington Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -37,10 +38,13 @@
     "sg:website":"www.steelcityballroom.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85804395,
+        102191575,
+        404482523,
         85633793,
+        101718805,
         102080887,
-        85804395
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,17 +54,18 @@
     "wof:geomhash":"483f1c0bef9007c345b4af6d6ecc36d8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
+            "localadmin_id":404482523,
+            "locality_id":101718805,
             "neighbourhood_id":85804395,
             "region_id":85688481,
             "venue_id":387442573
         }
     ],
     "wof:id":387442573,
-    "wof:lastmodified":1449057779,
+    "wof:lastmodified":1454360593,
     "wof:name":"Steel City Ballroom",
     "wof:parent_id":85804395,
     "wof:placetype":"venue",
@@ -74,6 +79,11 @@
         "mill"
     ]
 },
-  "bbox": [-80.044965,40.38019,-80.044965,40.38019],
+  "bbox": [
+    -80.044965,
+    40.38019,
+    -80.044965,
+    40.38019
+],
   "geometry": {"coordinates":[-80.044965,40.38019],"type":"Point"}
 }

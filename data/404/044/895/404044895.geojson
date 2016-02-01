@@ -2,13 +2,14 @@
   "id": 404044895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.183823,40.25805,-76.183823,40.25805",
     "geom:latitude":40.25805,
     "geom:longitude":-76.183823,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1375 S Cocalico Rd",
     "sg:city":"Denver",
     "sg:classifiers":[
@@ -37,8 +38,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85811603
+        85811603,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +49,15 @@
     "wof:geomhash":"04fc711bf9c8ca5c68db859b788a5ef8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85811603,
             "region_id":85688481,
             "venue_id":404044895
         }
     ],
     "wof:id":404044895,
-    "wof:lastmodified":1449039730,
+    "wof:lastmodified":1454356772,
     "wof:name":"Warnings Small Craft",
     "wof:parent_id":85811603,
     "wof:placetype":"venue",
@@ -71,6 +70,11 @@
         "supply"
     ]
 },
-  "bbox": [-76.183823,40.25805,-76.183823,40.25805],
+  "bbox": [
+    -76.183823,
+    40.25805,
+    -76.183823,
+    40.25805
+],
   "geometry": {"coordinates":[-76.183823,40.25805],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404084991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.304983,40.045068,-76.304983,40.045068",
     "geom:latitude":40.045068,
     "geom:longitude":-76.304983,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"439 N Duke St Ste 2",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -44,11 +45,13 @@
     "sg:website":"http://www.alanhcherkin.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85846173,
+        102191575,
+        404487183,
         85633793,
         101718643,
         102081377,
-        85846173
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,9 +61,10 @@
     "wof:geomhash":"bacc9ebfe54e3fd81f7e69b6cabdc198",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081377,
+            "localadmin_id":404487183,
             "locality_id":101718643,
             "neighbourhood_id":85846173,
             "region_id":85688481,
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":404084991,
-    "wof:lastmodified":1449039146,
+    "wof:lastmodified":1454356474,
     "wof:name":"Alan H Cherkin Real Estate",
     "wof:parent_id":85846173,
     "wof:placetype":"venue",
@@ -84,6 +88,11 @@
         "referral"
     ]
 },
-  "bbox": [-76.304983,40.045068,-76.304983,40.045068],
-  "geometry": {"coordinates":[-76.304983,40.045068],"type":"Point"}
+  "bbox": [
+    -76.304983,
+    40.045068,
+    -76.304983,
+    40.045068
+],
+  "geometry": {"coordinates":[-76.30498299999999,40.045068],"type":"Point"}
 }

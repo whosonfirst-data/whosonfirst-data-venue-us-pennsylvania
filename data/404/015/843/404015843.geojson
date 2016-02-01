@@ -2,13 +2,14 @@
   "id": 404015843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.66956,39.974162,-76.66956,39.974162",
     "geom:latitude":39.974162,
     "geom:longitude":-76.66956,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2875 Eastern Blvd",
     "sg:city":"York",
     "sg:classifiers":[
@@ -39,10 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420540439,
+        102191575,
+        404487939,
         85633793,
         101719469,
-        102080953
+        102080953,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,19 +56,20 @@
     "wof:geomhash":"45fdb026e7e9ee13ccdce672fce045fe",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080953,
+            "localadmin_id":404487939,
             "locality_id":101719469,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420540439,
             "region_id":85688481,
             "venue_id":404015843
         }
     ],
     "wof:id":404015843,
-    "wof:lastmodified":1449039329,
+    "wof:lastmodified":1454356573,
     "wof:name":"Lincoln General Insurance Company",
-    "wof:parent_id":-1,
+    "wof:parent_id":420540439,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -74,6 +79,11 @@
         "homeowner"
     ]
 },
-  "bbox": [-76.66956,39.974162,-76.66956,39.974162],
+  "bbox": [
+    -76.66956,
+    39.974162,
+    -76.66956,
+    39.974162
+],
   "geometry": {"coordinates":[-76.66956,39.974162],"type":"Point"}
 }

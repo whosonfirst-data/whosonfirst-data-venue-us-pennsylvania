@@ -2,13 +2,14 @@
   "id": 387432751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.942226,40.496982,-79.942226,40.496982",
     "geom:latitude":40.496982,
     "geom:longitude":-79.942226,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"51 Bridge St",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[],
@@ -19,10 +20,13 @@
     "sg:website":"http://www.deckwithus.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536351,
+        102191575,
+        404484899,
         85633793,
         101718687,
-        102080887
+        102080887,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -32,24 +36,30 @@
     "wof:geomhash":"5b0c131eaf6d788a465ba38dcd157fda",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484899,
             "locality_id":101718687,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420536351,
             "region_id":85688481,
             "venue_id":387432751
         }
     ],
     "wof:id":387432751,
-    "wof:lastmodified":1449056045,
+    "wof:lastmodified":1454358039,
     "wof:name":"Dek With Us",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536351,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.942226,40.496982,-79.942226,40.496982],
-  "geometry": {"coordinates":[-79.942226,40.496982],"type":"Point"}
+  "bbox": [
+    -79.942226,
+    40.496982,
+    -79.942226,
+    40.496982
+],
+  "geometry": {"coordinates":[-79.94222600000001,40.496982],"type":"Point"}
 }

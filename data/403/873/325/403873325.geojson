@@ -2,13 +2,14 @@
   "id": 403873325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.848112,40.293011,-76.848112,40.293011",
     "geom:latitude":40.293011,
     "geom:longitude":-76.848112,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3271 Trinity Rd",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85851635
+        85851635,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"ee10a8ea44cfe6fc9ba7404eda61267e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85851635,
             "region_id":85688481,
             "venue_id":403873325
         }
     ],
     "wof:id":403873325,
-    "wof:lastmodified":1449054912,
+    "wof:lastmodified":1454357361,
     "wof:name":"Daryl Hunsberger",
     "wof:parent_id":85851635,
     "wof:placetype":"venue",
@@ -64,6 +63,11 @@
         "contractors-commercial"
     ]
 },
-  "bbox": [-76.848112,40.293011,-76.848112,40.293011],
+  "bbox": [
+    -76.848112,
+    40.293011,
+    -76.848112,
+    40.293011
+],
   "geometry": {"coordinates":[-76.848112,40.293011],"type":"Point"}
 }

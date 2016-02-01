@@ -2,13 +2,14 @@
   "id": 387137203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.324057,40.509302,-80.324057,40.509302",
     "geom:latitude":40.509302,
     "geom:longitude":-80.324057,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"766 Bocktown Cork Rd",
     "sg:city":"Clinton",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85836049
+        85836049,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"b4b6a90ddbdf0ee1b8b02c55750e5c00",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85836049,
             "region_id":85688481,
             "venue_id":387137203
         }
     ],
     "wof:id":387137203,
-    "wof:lastmodified":1449059398,
+    "wof:lastmodified":1454361069,
     "wof:name":"Independence Accounting Servic",
     "wof:parent_id":85836049,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "bookkeeping"
     ]
 },
-  "bbox": [-80.324057,40.509302,-80.324057,40.509302],
+  "bbox": [
+    -80.324057,
+    40.509302,
+    -80.324057,
+    40.509302
+],
   "geometry": {"coordinates":[-80.324057,40.509302],"type":"Point"}
 }

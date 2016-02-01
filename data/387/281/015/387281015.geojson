@@ -2,13 +2,14 @@
   "id": 387281015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.067326,40.500031,-80.067326,40.500031",
     "geom:latitude":40.500031,
     "geom:longitude":-80.067326,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"727 Taylor Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85842091
+        85842091,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"1c083a2d74b1a3c7b3289b3a6db7146d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85842091,
             "region_id":85688481,
             "venue_id":387281015
         }
     ],
     "wof:id":387281015,
-    "wof:lastmodified":1449059346,
+    "wof:lastmodified":1454361047,
     "wof:name":"City Of Pittsburgh",
     "wof:parent_id":85842091,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "department"
     ]
 },
-  "bbox": [-80.067326,40.500031,-80.067326,40.500031],
-  "geometry": {"coordinates":[-80.067326,40.500031],"type":"Point"}
+  "bbox": [
+    -80.067326,
+    40.500031,
+    -80.067326,
+    40.500031
+],
+  "geometry": {"coordinates":[-80.06732599999999,40.500031],"type":"Point"}
 }

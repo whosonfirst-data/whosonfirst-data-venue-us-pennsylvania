@@ -2,13 +2,14 @@
   "id": 387830417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.061218,42.113331,-80.061218,42.113331",
     "geom:latitude":42.113331,
     "geom:longitude":-80.061218,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"501 E 29th St",
     "sg:city":"Erie",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85822031,
+        102191575,
+        404486673,
         85633793,
         101718253,
         102080955,
-        85822031
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"f2246eec6e73e23727655aeaa239e6b8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080955,
+            "localadmin_id":404486673,
             "locality_id":101718253,
             "neighbourhood_id":85822031,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387830417,
-    "wof:lastmodified":1449056909,
+    "wof:lastmodified":1454358696,
     "wof:name":"Bob Neil Electric",
     "wof:parent_id":85822031,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "electrician"
     ]
 },
-  "bbox": [-80.061218,42.113331,-80.061218,42.113331],
+  "bbox": [
+    -80.061218,
+    42.113331,
+    -80.061218,
+    42.113331
+],
   "geometry": {"coordinates":[-80.061218,42.113331],"type":"Point"}
 }

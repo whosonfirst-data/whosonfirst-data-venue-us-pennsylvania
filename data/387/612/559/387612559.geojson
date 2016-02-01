@@ -2,13 +2,14 @@
   "id": 387612559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.582544,40.132302,-78.582544,40.132302",
     "geom:latitude":40.132302,
     "geom:longitude":-78.582544,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2262 Quaker Valley Rd",
     "sg:city":"Fishertown",
     "sg:classifiers":[
@@ -44,8 +45,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080939,
-        85850607
+        85850607,
+        102080939
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,17 +56,15 @@
     "wof:geomhash":"a2f838c03ba201a0f3d500238cc41222",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080939,
-            "locality_id":-1,
             "neighbourhood_id":85850607,
             "region_id":85688481,
             "venue_id":387612559
         }
     ],
     "wof:id":387612559,
-    "wof:lastmodified":1449057789,
+    "wof:lastmodified":1454360597,
     "wof:name":"Trademark Homes",
     "wof:parent_id":85850607,
     "wof:placetype":"venue",
@@ -79,6 +78,11 @@
         "contractor"
     ]
 },
-  "bbox": [-78.582544,40.132302,-78.582544,40.132302],
+  "bbox": [
+    -78.582544,
+    40.132302,
+    -78.582544,
+    40.132302
+],
   "geometry": {"coordinates":[-78.582544,40.132302],"type":"Point"}
 }

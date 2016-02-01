@@ -2,13 +2,14 @@
   "id": 403869095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.845802,40.298801,-76.845802,40.298801",
     "geom:latitude":40.298801,
     "geom:longitude":-76.845802,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"510 N Progress Ave",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -26,8 +27,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85851635
+        85851635,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,17 +38,15 @@
     "wof:geomhash":"a062e5ec71055935d62bf2018d98c284",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85851635,
             "region_id":85688481,
             "venue_id":403869095
         }
     ],
     "wof:id":403869095,
-    "wof:lastmodified":1449055856,
+    "wof:lastmodified":1454357913,
     "wof:name":"T J's Car Wash",
     "wof:parent_id":85851635,
     "wof:placetype":"venue",
@@ -55,6 +54,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.845802,40.298801,-76.845802,40.298801],
-  "geometry": {"coordinates":[-76.845802,40.298801],"type":"Point"}
+  "bbox": [
+    -76.845802,
+    40.298801,
+    -76.845802,
+    40.298801
+],
+  "geometry": {"coordinates":[-76.84580200000001,40.298801],"type":"Point"}
 }

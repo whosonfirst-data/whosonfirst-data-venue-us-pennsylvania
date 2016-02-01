@@ -2,13 +2,14 @@
   "id": 387868881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.627419,41.965851,-78.627419,41.965851",
     "geom:latitude":41.965851,
     "geom:longitude":-78.627419,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"48 N Kendall Ave",
     "sg:city":"Bradford",
     "sg:classifiers":[
@@ -41,10 +42,13 @@
     "sg:website":"http://www.jcpenney.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420538975,
+        102191575,
+        404483587,
         85633793,
         101717315,
-        102080951
+        102080951,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,19 +58,20 @@
     "wof:geomhash":"fee0fddea4dc65375204ff2ef2dcfdd7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080951,
+            "localadmin_id":404483587,
             "locality_id":101717315,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420538975,
             "region_id":85688481,
             "venue_id":387868881
         }
     ],
     "wof:id":387868881,
-    "wof:lastmodified":1449056290,
+    "wof:lastmodified":1454358227,
     "wof:name":"J C Penney Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":420538975,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -77,6 +82,11 @@
         "women's"
     ]
 },
-  "bbox": [-78.627419,41.965851,-78.627419,41.965851],
+  "bbox": [
+    -78.627419,
+    41.965851,
+    -78.627419,
+    41.965851
+],
   "geometry": {"coordinates":[-78.627419,41.965851],"type":"Point"}
 }

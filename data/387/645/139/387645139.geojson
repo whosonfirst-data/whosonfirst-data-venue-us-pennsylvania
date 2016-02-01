@@ -2,13 +2,14 @@
   "id": 387645139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.612872,40.640608,-79.612872,40.640608",
     "geom:latitude":40.640608,
     "geom:longitude":-79.612872,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"8 Main St",
     "sg:city":"Leechburg",
     "sg:classifiers":[
@@ -39,8 +40,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081383,
-        85822365
+        85822365,
+        102081383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,17 +51,15 @@
     "wof:geomhash":"b4f9b44d16f068dc7524fc4f5a53be89",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":-1,
             "neighbourhood_id":85822365,
             "region_id":85688481,
             "venue_id":387645139
         }
     ],
     "wof:id":387645139,
-    "wof:lastmodified":1449056490,
+    "wof:lastmodified":1454358393,
     "wof:name":"Qualk Lester F DMD",
     "wof:parent_id":85822365,
     "wof:placetype":"venue",
@@ -75,6 +74,11 @@
         "oral"
     ]
 },
-  "bbox": [-79.612872,40.640608,-79.612872,40.640608],
+  "bbox": [
+    -79.612872,
+    40.640608,
+    -79.612872,
+    40.640608
+],
   "geometry": {"coordinates":[-79.612872,40.640608],"type":"Point"}
 }

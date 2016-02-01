@@ -2,13 +2,14 @@
   "id": 403741297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.981824,40.217827,-76.981824,40.217827",
     "geom:latitude":40.217827,
     "geom:longitude":-76.981824,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5223 Simpson Ferry Rd",
     "sg:city":"Mechanicsburg",
     "sg:classifiers":[
@@ -29,7 +30,12 @@
     "sg:website":"http://www.scottwray.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420537701,
+        102191575,
+        404486411,
         85633793,
+        101716789,
+        102081359,
         85688481
     ],
     "wof:breaches":[],
@@ -40,18 +46,20 @@
     "wof:geomhash":"afe8b2b6869197e3853b8d0840840aed",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081359,
+            "localadmin_id":404486411,
+            "locality_id":101716789,
+            "neighbourhood_id":420537701,
             "region_id":85688481,
             "venue_id":403741297
         }
     ],
     "wof:id":403741297,
-    "wof:lastmodified":1449054698,
+    "wof:lastmodified":1454357222,
     "wof:name":"After Seven Studios, Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420537701,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +68,11 @@
         "service-sound"
     ]
 },
-  "bbox": [-76.981824,40.217827,-76.981824,40.217827],
+  "bbox": [
+    -76.981824,
+    40.217827,
+    -76.981824,
+    40.217827
+],
   "geometry": {"coordinates":[-76.981824,40.217827],"type":"Point"}
 }

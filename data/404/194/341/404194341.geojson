@@ -2,13 +2,14 @@
   "id": 404194341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.405658,40.645016,-75.405658,40.645016",
     "geom:latitude":40.645016,
     "geom:longitude":-75.405658,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2649 Schoenersville Rd",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85856947,
+        102191575,
+        404485987,
         85633793,
+        101717907,
         102081395,
-        85856947
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +44,18 @@
     "wof:geomhash":"bac5f01830237ce2a31ef2c10eb1568e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081395,
-            "locality_id":-1,
+            "localadmin_id":404485987,
+            "locality_id":101717907,
             "neighbourhood_id":85856947,
             "region_id":85688481,
             "venue_id":404194341
         }
     ],
     "wof:id":404194341,
-    "wof:lastmodified":1449040142,
+    "wof:lastmodified":1454357032,
     "wof:name":"Cooper Mitchell E MD",
     "wof:parent_id":85856947,
     "wof:placetype":"venue",
@@ -60,6 +65,11 @@
         "orthopedist"
     ]
 },
-  "bbox": [-75.405658,40.645016,-75.405658,40.645016],
+  "bbox": [
+    -75.405658,
+    40.645016,
+    -75.405658,
+    40.645016
+],
   "geometry": {"coordinates":[-75.405658,40.645016],"type":"Point"}
 }

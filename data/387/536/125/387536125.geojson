@@ -2,13 +2,14 @@
   "id": 387536125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.2239,40.1842,-80.2239,40.1842",
     "geom:latitude":40.1842,
     "geom:longitude":-80.2239,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"40 Trinity Point Dr",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081343,
-        85832105
+        85832105,
+        102081343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"467acf8f456e6be0c5492cca032ac734",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081343,
-            "locality_id":-1,
             "neighbourhood_id":85832105,
             "region_id":85688481,
             "venue_id":387536125
         }
     ],
     "wof:id":387536125,
-    "wof:lastmodified":1449058378,
+    "wof:lastmodified":1454360764,
     "wof:name":"Sally Beauty Supply",
     "wof:parent_id":85832105,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "supply"
     ]
 },
-  "bbox": [-80.2239,40.1842,-80.2239,40.1842],
+  "bbox": [
+    -80.2239,
+    40.1842,
+    -80.2239,
+    40.1842
+],
   "geometry": {"coordinates":[-80.2239,40.1842],"type":"Point"}
 }

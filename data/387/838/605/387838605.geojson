@@ -2,13 +2,14 @@
   "id": 387838605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.075727,42.108917,-80.075727,42.108917",
     "geom:latitude":42.108917,
     "geom:longitude":-80.075727,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2720 Peach St",
     "sg:city":"Erie",
     "sg:classifiers":[
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85822031,
+        102191575,
+        404486673,
         85633793,
         101718253,
         102080955,
-        85822031
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"e85d14f26c528d93f0896b36547a0860",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080955,
+            "localadmin_id":404486673,
             "locality_id":101718253,
             "neighbourhood_id":85822031,
             "region_id":85688481,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":387838605,
-    "wof:lastmodified":1449056570,
+    "wof:lastmodified":1454358444,
     "wof:name":"Erie Oriental Market",
     "wof:parent_id":85822031,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "grocers-specialty"
     ]
 },
-  "bbox": [-80.075727,42.108917,-80.075727,42.108917],
+  "bbox": [
+    -80.075727,
+    42.108917,
+    -80.075727,
+    42.108917
+],
   "geometry": {"coordinates":[-80.075727,42.108917],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387777515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.632603,40.747491,-79.632603,40.747491",
     "geom:latitude":40.747491,
     "geom:longitude":-79.632603,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"250 Boyd Rd",
     "sg:city":"Freeport",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081371,
-        85828225
+        85828225,
+        102081371
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"f0593d6719a19e5e664f6f0b2eb3cd35",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081371,
-            "locality_id":-1,
             "neighbourhood_id":85828225,
             "region_id":85688481,
             "venue_id":387777515
         }
     ],
     "wof:id":387777515,
-    "wof:lastmodified":1449058114,
+    "wof:lastmodified":1454360684,
     "wof:name":"J Leri Construction",
     "wof:parent_id":85828225,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.632603,40.747491,-79.632603,40.747491],
+  "bbox": [
+    -79.632603,
+    40.747491,
+    -79.632603,
+    40.747491
+],
   "geometry": {"coordinates":[-79.632603,40.747491],"type":"Point"}
 }

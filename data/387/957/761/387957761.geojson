@@ -2,13 +2,14 @@
   "id": 387957761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.580869,40.130923,-76.580869,40.130923",
     "geom:latitude":40.130923,
     "geom:longitude":-76.580869,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"240 Heisey Quarry Rd",
     "sg:city":"Elizabethtown",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85803077
+        85803077,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"ff274d98e5fedb0cdb4093f24581f325",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85803077,
             "region_id":85688481,
             "venue_id":387957761
         }
     ],
     "wof:id":387957761,
-    "wof:lastmodified":1449059359,
+    "wof:lastmodified":1454361055,
     "wof:name":"Shearer's Welding",
     "wof:parent_id":85803077,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "welder"
     ]
 },
-  "bbox": [-76.580869,40.130923,-76.580869,40.130923],
-  "geometry": {"coordinates":[-76.580869,40.130923],"type":"Point"}
+  "bbox": [
+    -76.580869,
+    40.130923,
+    -76.580869,
+    40.130923
+],
+  "geometry": {"coordinates":[-76.58086900000001,40.130923],"type":"Point"}
 }

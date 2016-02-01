@@ -2,13 +2,14 @@
   "id": 387630863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.6483,40.417805,-79.6483,40.417805",
     "geom:latitude":40.417805,
     "geom:longitude":-79.6483,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4 Triangle Ln",
     "sg:city":"Export",
     "sg:classifiers":[
@@ -35,10 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420540097,
+        102191575,
+        404487539,
         85633793,
         101717149,
-        102081383
+        102081383,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +52,20 @@
     "wof:geomhash":"5d347d612480e50cb34963f5d5f69d06",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081383,
+            "localadmin_id":404487539,
             "locality_id":101717149,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420540097,
             "region_id":85688481,
             "venue_id":387630863
         }
     ],
     "wof:id":387630863,
-    "wof:lastmodified":1449057458,
+    "wof:lastmodified":1454359141,
     "wof:name":"Civil & Environmental Consultants Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420540097,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -71,6 +76,11 @@
         "consultant"
     ]
 },
-  "bbox": [-79.6483,40.417805,-79.6483,40.417805],
-  "geometry": {"coordinates":[-79.6483,40.417805],"type":"Point"}
+  "bbox": [
+    -79.6483,
+    40.417805,
+    -79.6483,
+    40.417805
+],
+  "geometry": {"coordinates":[-79.64830000000001,40.417805],"type":"Point"}
 }

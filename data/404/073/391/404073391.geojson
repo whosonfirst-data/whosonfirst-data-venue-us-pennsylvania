@@ -2,13 +2,14 @@
   "id": 404073391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.197771,39.932682,-76.197771,39.932682",
     "geom:latitude":39.932682,
     "geom:longitude":-76.197771,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"900 Winter Hill Rd",
     "sg:city":"Strasburg",
     "sg:classifiers":[
@@ -37,8 +38,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85824293
+        85824293,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +49,15 @@
     "wof:geomhash":"62190ed97a0c03f9a09f9cee689b82f8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85824293,
             "region_id":85688481,
             "venue_id":404073391
         }
     ],
     "wof:id":404073391,
-    "wof:lastmodified":1449039175,
+    "wof:lastmodified":1454356499,
     "wof:name":"Zion United Church Of Christ Of New Providence",
     "wof:parent_id":85824293,
     "wof:placetype":"venue",
@@ -71,6 +70,11 @@
         "christ-new"
     ]
 },
-  "bbox": [-76.197771,39.932682,-76.197771,39.932682],
+  "bbox": [
+    -76.197771,
+    39.932682,
+    -76.197771,
+    39.932682
+],
   "geometry": {"coordinates":[-76.197771,39.932682],"type":"Point"}
 }

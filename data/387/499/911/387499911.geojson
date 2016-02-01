@@ -2,13 +2,14 @@
   "id": 387499911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.034592,40.544472,-80.034592,40.544472",
     "geom:latitude":40.544472,
     "geom:longitude":-80.034592,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"120 Three Degree Rd Ste E",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -32,8 +33,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85841395
+        85841395,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +44,15 @@
     "wof:geomhash":"20d09a9bb2c0acab2074eb80aa0f12b0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85841395,
             "region_id":85688481,
             "venue_id":387499911
         }
     ],
     "wof:id":387499911,
-    "wof:lastmodified":1449056827,
+    "wof:lastmodified":1454358634,
     "wof:name":"Bill & Walt's Hobby Shop North Hills Inc",
     "wof:parent_id":85841395,
     "wof:placetype":"venue",
@@ -66,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-80.034592,40.544472,-80.034592,40.544472],
+  "bbox": [
+    -80.034592,
+    40.544472,
+    -80.034592,
+    40.544472
+],
   "geometry": {"coordinates":[-80.034592,40.544472],"type":"Point"}
 }

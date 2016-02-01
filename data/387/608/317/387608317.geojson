@@ -2,13 +2,14 @@
   "id": 387608317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.503769,40.019001,-78.503769,40.019001",
     "geom:latitude":40.019001,
     "geom:longitude":-78.503769,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"100 E Pitt St Ste 209",
     "sg:city":"Bedford",
     "sg:classifiers":[
@@ -37,8 +38,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080939,
-        85810345
+        85810345,
+        102080939
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +49,15 @@
     "wof:geomhash":"5c289d06fa57f81faaff8a43eb76af6d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080939,
-            "locality_id":-1,
             "neighbourhood_id":85810345,
             "region_id":85688481,
             "venue_id":387608317
         }
     ],
     "wof:id":387608317,
-    "wof:lastmodified":1449057735,
+    "wof:lastmodified":1454360577,
     "wof:name":"South Central Blind Association",
     "wof:parent_id":85810345,
     "wof:placetype":"venue",
@@ -76,6 +75,11 @@
         "special"
     ]
 },
-  "bbox": [-78.503769,40.019001,-78.503769,40.019001],
-  "geometry": {"coordinates":[-78.503769,40.019001],"type":"Point"}
+  "bbox": [
+    -78.503769,
+    40.019001,
+    -78.503769,
+    40.019001
+],
+  "geometry": {"coordinates":[-78.50376900000001,40.019001],"type":"Point"}
 }

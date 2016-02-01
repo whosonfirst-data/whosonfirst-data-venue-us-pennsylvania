@@ -2,13 +2,14 @@
   "id": 387836877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.134613,42.081168,-80.134613,42.081168",
     "geom:latitude":42.081168,
     "geom:longitude":-80.134613,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3425 Priscilla Dr",
     "sg:city":"Erie",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080955,
-        85810495
+        85810495,
+        102080955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"8f5f60ec5d283dc2814b7f0a467b24e1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080955,
-            "locality_id":-1,
             "neighbourhood_id":85810495,
             "region_id":85688481,
             "venue_id":387836877
         }
     ],
     "wof:id":387836877,
-    "wof:lastmodified":1449058626,
+    "wof:lastmodified":1454360833,
     "wof:name":"Country Welcome",
     "wof:parent_id":85810495,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "supply"
     ]
 },
-  "bbox": [-80.134613,42.081168,-80.134613,42.081168],
+  "bbox": [
+    -80.134613,
+    42.081168,
+    -80.134613,
+    42.081168
+],
   "geometry": {"coordinates":[-80.134613,42.081168],"type":"Point"}
 }

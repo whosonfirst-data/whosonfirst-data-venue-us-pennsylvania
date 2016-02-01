@@ -2,13 +2,14 @@
   "id": 404073359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.166129,39.952826,-76.166129,39.952826",
     "geom:latitude":39.952826,
     "geom:longitude":-76.166129,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"826 May Post Office Rd",
     "sg:city":"Strasburg",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85824293
+        85824293,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"f41aac6a18c1ea35d62f3e4fb2a5fa0a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85824293,
             "region_id":85688481,
             "venue_id":404073359
         }
     ],
     "wof:id":404073359,
-    "wof:lastmodified":1449039171,
+    "wof:lastmodified":1454356495,
     "wof:name":"Jr's Fried Chicken",
     "wof:parent_id":85824293,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "chicken"
     ]
 },
-  "bbox": [-76.166129,39.952826,-76.166129,39.952826],
+  "bbox": [
+    -76.166129,
+    39.952826,
+    -76.166129,
+    39.952826
+],
   "geometry": {"coordinates":[-76.166129,39.952826],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404050813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.942606,40.023164,-75.942606,40.023164",
     "geom:latitude":40.023164,
     "geom:longitude":-75.942606,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1520 W Kings Hwy",
     "sg:city":"Gap",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081275,
-        85812019
+        85812019,
+        102081275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"2433027f1f257cafaed3bebad2dff853",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081275,
-            "locality_id":-1,
             "neighbourhood_id":85812019,
             "region_id":85688481,
             "venue_id":404050813
         }
     ],
     "wof:id":404050813,
-    "wof:lastmodified":1449039793,
+    "wof:lastmodified":1454356808,
     "wof:name":"St John's Episcopal Church",
     "wof:parent_id":85812019,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "churches-episcopal"
     ]
 },
-  "bbox": [-75.942606,40.023164,-75.942606,40.023164],
+  "bbox": [
+    -75.942606,
+    40.023164,
+    -75.942606,
+    40.023164
+],
   "geometry": {"coordinates":[-75.942606,40.023164],"type":"Point"}
 }

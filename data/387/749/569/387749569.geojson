@@ -2,13 +2,14 @@
   "id": 387749569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.479103,41.212109,-80.479103,41.212109",
     "geom:latitude":41.212109,
     "geom:longitude":-80.479103,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"701 Sharon New Castle Rd",
     "sg:city":"Farrell",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     "sg:website":"http://www.familydollar.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420539011,
+        102191575,
+        404487969,
         85633793,
         101718115,
-        102080965
+        102080965,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"db43e50020d9fd19e3b3fe5836ebda68",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080965,
+            "localadmin_id":404487969,
             "locality_id":101718115,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420539011,
             "region_id":85688481,
             "venue_id":387749569
         }
     ],
     "wof:id":387749569,
-    "wof:lastmodified":1449057181,
+    "wof:lastmodified":1454358910,
     "wof:name":"Family Dollar Stores",
-    "wof:parent_id":-1,
+    "wof:parent_id":420539011,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -61,6 +66,11 @@
         "variety"
     ]
 },
-  "bbox": [-80.479103,41.212109,-80.479103,41.212109],
-  "geometry": {"coordinates":[-80.479103,41.212109],"type":"Point"}
+  "bbox": [
+    -80.479103,
+    41.212109,
+    -80.479103,
+    41.212109
+],
+  "geometry": {"coordinates":[-80.47910299999999,41.212109],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387669587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.622314,41.334724,-78.622314,41.334724",
     "geom:latitude":41.334724,
     "geom:longitude":-78.622314,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"257 Coal Hollow Rd",
     "sg:city":"Kersey",
     "sg:classifiers":[
@@ -29,7 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420537853,
+        102191575,
+        404486717,
         85633793,
+        101716717,
+        102081265,
         85688481
     ],
     "wof:breaches":[],
@@ -40,18 +46,20 @@
     "wof:geomhash":"4e118dbf852510c2693fadad8980544a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081265,
+            "localadmin_id":404486717,
+            "locality_id":101716717,
+            "neighbourhood_id":420537853,
             "region_id":85688481,
             "venue_id":387669587
         }
     ],
     "wof:id":387669587,
-    "wof:lastmodified":1449056544,
+    "wof:lastmodified":1454358427,
     "wof:name":"Mega Design, Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420537853,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -61,6 +69,11 @@
         "producer"
     ]
 },
-  "bbox": [-78.622314,41.334724,-78.622314,41.334724],
+  "bbox": [
+    -78.622314,
+    41.334724,
+    -78.622314,
+    41.334724
+],
   "geometry": {"coordinates":[-78.622314,41.334724],"type":"Point"}
 }

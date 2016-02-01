@@ -2,13 +2,14 @@
   "id": 387619445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.519836,40.296169,-79.519836,40.296169",
     "geom:latitude":40.296169,
     "geom:longitude":-79.519836,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"401 Pellis Rd",
     "sg:city":"Greensburg",
     "sg:classifiers":[
@@ -38,8 +39,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081383,
-        85851151
+        85851151,
+        102081383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +50,15 @@
     "wof:geomhash":"e5ae76cbbafd3eb80452095ce1563701",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":-1,
             "neighbourhood_id":85851151,
             "region_id":85688481,
             "venue_id":387619445
         }
     ],
     "wof:id":387619445,
-    "wof:lastmodified":1449056783,
+    "wof:lastmodified":1454358606,
     "wof:name":"In Shape 4 Life",
     "wof:parent_id":85851151,
     "wof:placetype":"venue",
@@ -73,6 +72,11 @@
         "fitness"
     ]
 },
-  "bbox": [-79.519836,40.296169,-79.519836,40.296169],
+  "bbox": [
+    -79.519836,
+    40.296169,
+    -79.519836,
+    40.296169
+],
   "geometry": {"coordinates":[-79.519836,40.296169],"type":"Point"}
 }

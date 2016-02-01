@@ -2,13 +2,14 @@
   "id": 387255725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.840151,40.32722,-79.840151,40.32722",
     "geom:latitude":40.32722,
     "geom:longitude":-79.840151,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3711 Walnut St",
     "sg:city":"Mckeesport",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85845081,
+        102191575,
+        404484971,
         85633793,
         101718847,
         102080887,
-        85845081
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"7d036ad1863c7c14ca1d883be054c01c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484971,
             "locality_id":101718847,
             "neighbourhood_id":85845081,
             "region_id":85688481,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":387255725,
-    "wof:lastmodified":1449057831,
+    "wof:lastmodified":1454360608,
     "wof:name":"Diemert Insurance Inc- Nationwide Insurance",
     "wof:parent_id":85845081,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.840151,40.32722,-79.840151,40.32722],
-  "geometry": {"coordinates":[-79.840151,40.32722],"type":"Point"}
+  "bbox": [
+    -79.840151,
+    40.32722,
+    -79.840151,
+    40.32722
+],
+  "geometry": {"coordinates":[-79.84015100000001,40.32722],"type":"Point"}
 }

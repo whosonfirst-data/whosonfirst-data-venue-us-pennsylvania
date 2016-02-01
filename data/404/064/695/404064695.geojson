@@ -2,13 +2,14 @@
   "id": 404064695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.354172,40.139992,-76.354172,40.139992",
     "geom:latitude":40.139992,
     "geom:longitude":-76.354172,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"717A Fruitville Pike",
     "sg:city":"Manheim",
     "sg:classifiers":[
@@ -49,8 +50,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85853449
+        85853449,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,17 +61,15 @@
     "wof:geomhash":"b0cef4f53453a30147ab403e6c8f0d25",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85853449,
             "region_id":85688481,
             "venue_id":404064695
         }
     ],
     "wof:id":404064695,
-    "wof:lastmodified":1449039446,
+    "wof:lastmodified":1454356653,
     "wof:name":"Lehman & Son Auto Body",
     "wof:parent_id":85853449,
     "wof:placetype":"venue",
@@ -90,6 +89,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-76.354172,40.139992,-76.354172,40.139992],
-  "geometry": {"coordinates":[-76.354172,40.139992],"type":"Point"}
+  "bbox": [
+    -76.354172,
+    40.139992,
+    -76.354172,
+    40.139992
+],
+  "geometry": {"coordinates":[-76.35417200000001,40.139992],"type":"Point"}
 }

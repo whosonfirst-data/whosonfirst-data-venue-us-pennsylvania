@@ -2,13 +2,14 @@
   "id": 387454819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.034698,40.461399,-80.034698,40.461399",
     "geom:latitude":40.461399,
     "geom:longitude":-80.034698,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2295 Preble Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420558991,
+        102191575,
+        404482523,
         85633793,
         101718805,
-        102080887
+        102080887,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"5a0335804cd7f9a8fe2a17239f60a3c2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420558991,
             "region_id":85688481,
             "venue_id":387454819
         }
     ],
     "wof:id":387454819,
-    "wof:lastmodified":1449059555,
+    "wof:lastmodified":1454361115,
     "wof:name":"Cassady Pierce Co Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420558991,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-80.034698,40.461399,-80.034698,40.461399],
-  "geometry": {"coordinates":[-80.034698,40.461399],"type":"Point"}
+  "bbox": [
+    -80.034698,
+    40.461399,
+    -80.034698,
+    40.461399
+],
+  "geometry": {"coordinates":[-80.03469800000001,40.461399],"type":"Point"}
 }

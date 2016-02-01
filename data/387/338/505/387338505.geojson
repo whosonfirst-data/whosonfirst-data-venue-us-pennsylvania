@@ -2,13 +2,14 @@
   "id": 387338505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.922672,40.438091,-79.922672,40.438091",
     "geom:latitude":40.438091,
     "geom:longitude":-79.922672,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5808 Forbes Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85873579,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85873579
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"3fcf032a16eb4143210ad6a61e0e3b2d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85873579,
             "region_id":85688481,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":387338505,
-    "wof:lastmodified":1449057411,
+    "wof:lastmodified":1454359109,
     "wof:name":"Uncle Sam's Subs",
     "wof:parent_id":85873579,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "delicatessen"
     ]
 },
-  "bbox": [-79.922672,40.438091,-79.922672,40.438091],
-  "geometry": {"coordinates":[-79.922672,40.438091],"type":"Point"}
+  "bbox": [
+    -79.922672,
+    40.438091,
+    -79.922672,
+    40.438091
+],
+  "geometry": {"coordinates":[-79.92267200000001,40.438091],"type":"Point"}
 }

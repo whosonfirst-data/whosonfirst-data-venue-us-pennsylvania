@@ -2,13 +2,14 @@
   "id": 404164279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.392998,40.6082,-75.392998,40.6082",
     "geom:latitude":40.6082,
     "geom:longitude":-75.392998,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"801 Ostrum St",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85853139,
+        102191575,
+        404488067,
         85633793,
         101717913,
         102081327,
-        85853139
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"fa862bbdf0599d214652da52d3a07006",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081327,
+            "localadmin_id":404488067,
             "locality_id":101717913,
             "neighbourhood_id":85853139,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":404164279,
-    "wof:lastmodified":1449039162,
+    "wof:lastmodified":1454356485,
     "wof:name":"St Luke's Hospital Continence Management Center",
     "wof:parent_id":85853139,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.392998,40.6082,-75.392998,40.6082],
-  "geometry": {"coordinates":[-75.392998,40.6082],"type":"Point"}
+  "bbox": [
+    -75.392998,
+    40.6082,
+    -75.392998,
+    40.6082
+],
+  "geometry": {"coordinates":[-75.39299800000001,40.6082],"type":"Point"}
 }

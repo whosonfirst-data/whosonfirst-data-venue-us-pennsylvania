@@ -2,13 +2,14 @@
   "id": 387845067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.007851,42.14386,-80.007851,42.14386",
     "geom:latitude":42.14386,
     "geom:longitude":-80.007851,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4041 Buffalo Rd",
     "sg:city":"Erie",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85807963,
+        102191575,
+        404486683,
         85633793,
         101720203,
         102080955,
-        85807963
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"4891d31e3f54d49a41f7d5ff0f652ecd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080955,
+            "localadmin_id":404486683,
             "locality_id":101720203,
             "neighbourhood_id":85807963,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387845067,
-    "wof:lastmodified":1449056724,
+    "wof:lastmodified":1454358561,
     "wof:name":"Patricks Family Restaurant",
     "wof:parent_id":85807963,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "family"
     ]
 },
-  "bbox": [-80.007851,42.14386,-80.007851,42.14386],
+  "bbox": [
+    -80.007851,
+    42.14386,
+    -80.007851,
+    42.14386
+],
   "geometry": {"coordinates":[-80.007851,42.14386],"type":"Point"}
 }

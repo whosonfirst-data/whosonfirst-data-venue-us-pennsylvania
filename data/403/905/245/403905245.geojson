@@ -2,13 +2,14 @@
   "id": 403905245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.788338,40.322549,-76.788338,40.322549",
     "geom:latitude":40.322549,
     "geom:longitude":-76.788338,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6031 Allentown Blvd",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -38,10 +39,13 @@
     "sg:website":"http://www.soccersorner.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420537733,
+        102191575,
+        404486185,
         85633793,
-        101719819,
-        102081347
+        101719817,
+        102081347,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,19 +55,20 @@
     "wof:geomhash":"2467a6adb6588eedd9e8fa8903048958",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":101719819,
-            "neighbourhood_id":-1,
+            "localadmin_id":404486185,
+            "locality_id":101719817,
+            "neighbourhood_id":420537733,
             "region_id":85688481,
             "venue_id":403905245
         }
     ],
     "wof:id":403905245,
-    "wof:lastmodified":1449055166,
+    "wof:lastmodified":1454357507,
     "wof:name":"Angelo's Soccer Corner",
-    "wof:parent_id":-1,
+    "wof:parent_id":420537733,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -76,6 +81,11 @@
         "store"
     ]
 },
-  "bbox": [-76.788338,40.322549,-76.788338,40.322549],
+  "bbox": [
+    -76.788338,
+    40.322549,
+    -76.788338,
+    40.322549
+],
   "geometry": {"coordinates":[-76.788338,40.322549],"type":"Point"}
 }

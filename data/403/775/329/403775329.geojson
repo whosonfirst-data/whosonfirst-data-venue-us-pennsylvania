@@ -2,13 +2,14 @@
   "id": 403775329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.394669,40.578335,-77.394669,40.578335",
     "geom:latitude":40.578335,
     "geom:longitude":-77.394669,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1554 Butchershop Rd",
     "sg:city":"Mifflintown",
     "sg:classifiers":[
@@ -33,8 +34,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081367,
-        85835649
+        85835649,
+        102081367
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +45,15 @@
     "wof:geomhash":"d609160a7211b670aca3bc9ce854eda2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081367,
-            "locality_id":-1,
             "neighbourhood_id":85835649,
             "region_id":85688481,
             "venue_id":403775329
         }
     ],
     "wof:id":403775329,
-    "wof:lastmodified":1449055596,
+    "wof:lastmodified":1454357769,
     "wof:name":"High Tech Hobbies",
     "wof:parent_id":85835649,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-77.394669,40.578335,-77.394669,40.578335],
-  "geometry": {"coordinates":[-77.394669,40.578335],"type":"Point"}
+  "bbox": [
+    -77.394669,
+    40.578335,
+    -77.394669,
+    40.578335
+],
+  "geometry": {"coordinates":[-77.39466899999999,40.578335],"type":"Point"}
 }

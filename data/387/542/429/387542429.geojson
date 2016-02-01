@@ -2,13 +2,14 @@
   "id": 387542429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.233148,40.181588,-80.233148,40.181588",
     "geom:latitude":40.181588,
     "geom:longitude":-80.233148,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"190 Murtland Ave",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -40,11 +41,13 @@
     "sg:website":"http://budgettruck.com/IYP_tl",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85852963,
+        102191575,
+        404487917,
         85633793,
         101718569,
         102081343,
-        85852963
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,9 +57,10 @@
     "wof:geomhash":"d6fb102e627884153525b4119658f42c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081343,
+            "localadmin_id":404487917,
             "locality_id":101718569,
             "neighbourhood_id":85852963,
             "region_id":85688481,
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":387542429,
-    "wof:lastmodified":1449059058,
+    "wof:lastmodified":1454360972,
     "wof:name":"Clifton Management Group DBA/Budget Truck Rental",
     "wof:parent_id":85852963,
     "wof:placetype":"venue",
@@ -76,6 +80,11 @@
         "moving"
     ]
 },
-  "bbox": [-80.233148,40.181588,-80.233148,40.181588],
+  "bbox": [
+    -80.233148,
+    40.181588,
+    -80.233148,
+    40.181588
+],
   "geometry": {"coordinates":[-80.233148,40.181588],"type":"Point"}
 }

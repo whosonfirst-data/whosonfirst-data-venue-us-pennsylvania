@@ -2,13 +2,14 @@
   "id": 387557441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.157998,40.296485,-80.157998,40.296485",
     "geom:latitude":40.296485,
     "geom:longitude":-80.157998,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"673 Morganza Rd Ste 104",
     "sg:city":"Canonsburg",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     "sg:website":"www.mycosmeticsolutions.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420539915,
+        102191575,
+        404487735,
         85633793,
         101720271,
-        102081343
+        102081343,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,24 +47,30 @@
     "wof:geomhash":"2c044e1e427f9edde9fdd9a5af7f85aa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081343,
+            "localadmin_id":404487735,
             "locality_id":101720271,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420539915,
             "region_id":85688481,
             "venue_id":387557441
         }
     ],
     "wof:id":387557441,
-    "wof:lastmodified":1449058821,
+    "wof:lastmodified":1454360893,
     "wof:name":"Cosmetic Solutions",
-    "wof:parent_id":-1,
+    "wof:parent_id":420539915,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.157998,40.296485,-80.157998,40.296485],
-  "geometry": {"coordinates":[-80.157998,40.296485],"type":"Point"}
+  "bbox": [
+    -80.157998,
+    40.296485,
+    -80.157998,
+    40.296485
+],
+  "geometry": {"coordinates":[-80.15799800000001,40.296485],"type":"Point"}
 }

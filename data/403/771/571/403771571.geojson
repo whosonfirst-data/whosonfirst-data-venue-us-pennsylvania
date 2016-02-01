@@ -2,13 +2,14 @@
   "id": 403771571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.984888,40.194167,-76.984888,40.194167",
     "geom:latitude":40.194167,
     "geom:longitude":-76.984888,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"200 Cumberland Pkwy",
     "sg:city":"Mechanicsburg",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081359,
-        85825925
+        85825925,
+        102081359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"fa54edf80fe4fe07e55fd2051fbbbcca",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081359,
-            "locality_id":-1,
             "neighbourhood_id":85825925,
             "region_id":85688481,
             "venue_id":403771571
         }
     ],
     "wof:id":403771571,
-    "wof:lastmodified":1449055352,
+    "wof:lastmodified":1454357620,
     "wof:name":"Urology of Central Pennsylvania",
     "wof:parent_id":85825925,
     "wof:placetype":"venue",
@@ -61,6 +60,11 @@
         "dermatologist"
     ]
 },
-  "bbox": [-76.984888,40.194167,-76.984888,40.194167],
+  "bbox": [
+    -76.984888,
+    40.194167,
+    -76.984888,
+    40.194167
+],
   "geometry": {"coordinates":[-76.984888,40.194167],"type":"Point"}
 }

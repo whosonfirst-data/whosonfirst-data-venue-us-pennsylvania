@@ -2,13 +2,14 @@
   "id": 387611587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.369574,40.011938,-78.369574,40.011938",
     "geom:latitude":40.011938,
     "geom:longitude":-78.369574,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"221 E Main St",
     "sg:city":"Everett",
     "sg:classifiers":[
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85815813,
+        102191575,
+        404484499,
         85633793,
         101716769,
         102080939,
-        85815813
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"3b3ba9ff027f3d577432437cf891b167",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080939,
+            "localadmin_id":404484499,
             "locality_id":101716769,
             "neighbourhood_id":85815813,
             "region_id":85688481,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":387611587,
-    "wof:lastmodified":1449059108,
+    "wof:lastmodified":1454360984,
     "wof:name":"Everett United Methdist Church",
     "wof:parent_id":85815813,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "churches-methodist"
     ]
 },
-  "bbox": [-78.369574,40.011938,-78.369574,40.011938],
+  "bbox": [
+    -78.369574,
+    40.011938,
+    -78.369574,
+    40.011938
+],
   "geometry": {"coordinates":[-78.369574,40.011938],"type":"Point"}
 }

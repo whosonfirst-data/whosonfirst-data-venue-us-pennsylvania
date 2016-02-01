@@ -2,13 +2,14 @@
   "id": 387607985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.501512,40.015559,-78.501512,40.015559",
     "geom:latitude":40.015559,
     "geom:longitude":-78.501512,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"317 S Richard St",
     "sg:city":"Bedford",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080939,
-        85810345
+        85810345,
+        102080939
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"c9054ae8a0f354d689976137aa28f4d0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080939,
-            "locality_id":-1,
             "neighbourhood_id":85810345,
             "region_id":85688481,
             "venue_id":387607985
         }
     ],
     "wof:id":387607985,
-    "wof:lastmodified":1449056609,
+    "wof:lastmodified":1454358481,
     "wof:name":"AAA - Bedford",
     "wof:parent_id":85810345,
     "wof:placetype":"venue",
@@ -63,6 +62,11 @@
         "automobile"
     ]
 },
-  "bbox": [-78.501512,40.015559,-78.501512,40.015559],
-  "geometry": {"coordinates":[-78.501512,40.015559],"type":"Point"}
+  "bbox": [
+    -78.501512,
+    40.015559,
+    -78.501512,
+    40.015559
+],
+  "geometry": {"coordinates":[-78.50151200000001,40.015559],"type":"Point"}
 }

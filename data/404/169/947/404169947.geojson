@@ -2,13 +2,14 @@
   "id": 404169947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.378484,40.6098,-75.378484,40.6098",
     "geom:latitude":40.6098,
     "geom:longitude":-75.378484,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3 W Morton St",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     "sg:website":"www.daves-deli.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85897245,
+        102191575,
+        404485987,
         85633793,
         101717907,
         102081395,
-        85897245
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"25401fe0b5af32f71f06ba169a7ee92f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081395,
+            "localadmin_id":404485987,
             "locality_id":101717907,
             "neighbourhood_id":85897245,
             "region_id":85688481,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":404169947,
-    "wof:lastmodified":1449039849,
+    "wof:lastmodified":1454356839,
     "wof:name":"Dave's Deli",
     "wof:parent_id":85897245,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "sandwich"
     ]
 },
-  "bbox": [-75.378484,40.6098,-75.378484,40.6098],
+  "bbox": [
+    -75.378484,
+    40.6098,
+    -75.378484,
+    40.6098
+],
   "geometry": {"coordinates":[-75.378484,40.6098],"type":"Point"}
 }

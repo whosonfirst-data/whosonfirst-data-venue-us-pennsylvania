@@ -2,13 +2,14 @@
   "id": 387490893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.943624,40.324341,-79.943624,40.324341",
     "geom:latitude":40.324341,
     "geom:longitude":-79.943624,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"850 Clairton Blvd # 3300",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85834159,
+        102191575,
+        404484243,
         85633793,
         101718717,
         102080887,
-        85834159
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"e07aaf32a917220095623d2b800952d9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484243,
             "locality_id":101718717,
             "neighbourhood_id":85834159,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387490893,
-    "wof:lastmodified":1449059529,
+    "wof:lastmodified":1454361109,
     "wof:name":"Godinez, Lucas, Do - Pediatric Alliance",
     "wof:parent_id":85834159,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-79.943624,40.324341,-79.943624,40.324341],
+  "bbox": [
+    -79.943624,
+    40.324341,
+    -79.943624,
+    40.324341
+],
   "geometry": {"coordinates":[-79.943624,40.324341],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387099555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.230426,40.593043,-80.230426,40.593043",
     "geom:latitude":40.593043,
     "geom:longitude":-80.230426,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"311 11th St",
     "sg:city":"Ambridge",
     "sg:classifiers":[
@@ -43,10 +44,13 @@
     "sg:website":"http://www.tesm.edu",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85803005,
+        102191575,
+        404484359,
         85633793,
+        101718407,
         102081323,
-        85803005
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,17 +60,18 @@
     "wof:geomhash":"114666909dda511959a15cc6d178da67",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081323,
-            "locality_id":-1,
+            "localadmin_id":404484359,
+            "locality_id":101718407,
             "neighbourhood_id":85803005,
             "region_id":85688481,
             "venue_id":387099555
         }
     ],
     "wof:id":387099555,
-    "wof:lastmodified":1449058586,
+    "wof:lastmodified":1454360820,
     "wof:name":"Trinity Episcopal School For Ministry",
     "wof:parent_id":85803005,
     "wof:placetype":"venue",
@@ -81,6 +86,11 @@
         "religious"
     ]
 },
-  "bbox": [-80.230426,40.593043,-80.230426,40.593043],
-  "geometry": {"coordinates":[-80.230426,40.593043],"type":"Point"}
+  "bbox": [
+    -80.230426,
+    40.593043,
+    -80.230426,
+    40.593043
+],
+  "geometry": {"coordinates":[-80.23042599999999,40.593043],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387538829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.185773,40.223975,-80.185773,40.223975",
     "geom:latitude":40.223975,
     "geom:longitude":-80.185773,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1840 Washington Rd",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -46,8 +47,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081343,
-        85825315
+        85825315,
+        102081343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,17 +58,15 @@
     "wof:geomhash":"a7eaef503b3faa88b971f4d08e6a21d3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081343,
-            "locality_id":-1,
             "neighbourhood_id":85825315,
             "region_id":85688481,
             "venue_id":387538829
         }
     ],
     "wof:id":387538829,
-    "wof:lastmodified":1449056588,
+    "wof:lastmodified":1454358462,
     "wof:name":"A & S Landscaping",
     "wof:parent_id":85825315,
     "wof:placetype":"venue",
@@ -83,6 +82,11 @@
         "landscape"
     ]
 },
-  "bbox": [-80.185773,40.223975,-80.185773,40.223975],
+  "bbox": [
+    -80.185773,
+    40.223975,
+    -80.185773,
+    40.223975
+],
   "geometry": {"coordinates":[-80.185773,40.223975],"type":"Point"}
 }

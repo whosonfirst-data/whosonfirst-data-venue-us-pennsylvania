@@ -2,13 +2,14 @@
   "id": 387272699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.770271,40.437519,-79.770271,40.437519",
     "geom:latitude":40.437519,
     "geom:longitude":-79.770271,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2735 Stroschein Rd",
     "sg:city":"Monroeville",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85821019,
+        102191575,
+        404484135,
         85633793,
         101718841,
         102080887,
-        85821019
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"1ab8efb4bb2e60d43a7b0b22fd299f41",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484135,
             "locality_id":101718841,
             "neighbourhood_id":85821019,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387272699,
-    "wof:lastmodified":1449059655,
+    "wof:lastmodified":1454361147,
     "wof:name":"Monroeville Newsstand",
     "wof:parent_id":85821019,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "magazine"
     ]
 },
-  "bbox": [-79.770271,40.437519,-79.770271,40.437519],
-  "geometry": {"coordinates":[-79.770271,40.437519],"type":"Point"}
+  "bbox": [
+    -79.770271,
+    40.437519,
+    -79.770271,
+    40.437519
+],
+  "geometry": {"coordinates":[-79.77027099999999,40.437519],"type":"Point"}
 }

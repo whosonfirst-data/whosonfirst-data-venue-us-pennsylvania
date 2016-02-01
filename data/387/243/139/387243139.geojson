@@ -2,13 +2,14 @@
   "id": 387243139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.162879,40.510873,-80.162879,40.510873",
     "geom:latitude":40.510873,
     "geom:longitude":-80.162879,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1316 Park Dr",
     "sg:city":"Coraopolis",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85835035
+        85835035,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"a995e6445e5fd8d4546a8d94eaf860d5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85835035,
             "region_id":85688481,
             "venue_id":387243139
         }
     ],
     "wof:id":387243139,
-    "wof:lastmodified":1449057334,
+    "wof:lastmodified":1454359032,
     "wof:name":"Sepelak Testing Services",
     "wof:parent_id":85835035,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "laboratories-research"
     ]
 },
-  "bbox": [-80.162879,40.510873,-80.162879,40.510873],
+  "bbox": [
+    -80.162879,
+    40.510873,
+    -80.162879,
+    40.510873
+],
   "geometry": {"coordinates":[-80.162879,40.510873],"type":"Point"}
 }

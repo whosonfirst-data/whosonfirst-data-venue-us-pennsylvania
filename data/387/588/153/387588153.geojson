@@ -2,13 +2,14 @@
   "id": 387588153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.749457,39.913665,-79.749457,39.913665",
     "geom:latitude":39.913665,
     "geom:longitude":-79.749457,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"690 W Main St",
     "sg:city":"Uniontown",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     "sg:website":"http://www.unionstationclubhouse.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85850161,
+        102191575,
+        404487055,
         85633793,
+        101719799,
         102080959,
-        85850161
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +45,18 @@
     "wof:geomhash":"3ff036fc93425500b68124b5f75bfb28",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080959,
-            "locality_id":-1,
+            "localadmin_id":404487055,
+            "locality_id":101719799,
             "neighbourhood_id":85850161,
             "region_id":85688481,
             "venue_id":387588153
         }
     ],
     "wof:id":387588153,
-    "wof:lastmodified":1449059167,
+    "wof:lastmodified":1454361003,
     "wof:name":"Union Station Clubhouse",
     "wof:parent_id":85850161,
     "wof:placetype":"venue",
@@ -61,6 +66,11 @@
         "rehabilitation"
     ]
 },
-  "bbox": [-79.749457,39.913665,-79.749457,39.913665],
-  "geometry": {"coordinates":[-79.749457,39.913665],"type":"Point"}
+  "bbox": [
+    -79.749457,
+    39.913665,
+    -79.749457,
+    39.913665
+],
+  "geometry": {"coordinates":[-79.74945700000001,39.913665],"type":"Point"}
 }

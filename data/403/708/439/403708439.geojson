@@ -2,13 +2,14 @@
   "id": 403708439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.787691,40.207596,-76.787691,40.207596",
     "geom:latitude":40.207596,
     "geom:longitude":-76.787691,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"311 2nd St",
     "sg:city":"Highspire",
     "sg:classifiers":[
@@ -55,7 +56,6 @@
     "wof:geomhash":"b0564fae016030d2c2a780ac2608daae",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
             "locality_id":101717691,
@@ -65,7 +65,7 @@
         }
     ],
     "wof:id":403708439,
-    "wof:lastmodified":1449054840,
+    "wof:lastmodified":1454357316,
     "wof:name":"Subway",
     "wof:parent_id":85823171,
     "wof:placetype":"venue",
@@ -78,6 +78,11 @@
         "take"
     ]
 },
-  "bbox": [-76.787691,40.207596,-76.787691,40.207596],
+  "bbox": [
+    -76.787691,
+    40.207596,
+    -76.787691,
+    40.207596
+],
   "geometry": {"coordinates":[-76.787691,40.207596],"type":"Point"}
 }

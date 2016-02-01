@@ -2,13 +2,14 @@
   "id": 387888001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.939998,40.864985,-77.939998,40.864985",
     "geom:latitude":40.864985,
     "geom:longitude":-77.939998,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4801 S Eagle Valley Rd",
     "sg:city":"Julian",
     "sg:classifiers":[
@@ -33,8 +34,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081369,
-        85808397
+        85808397,
+        102081369
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +45,15 @@
     "wof:geomhash":"659db0b7e90da095b5fc88e3861996c8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081369,
-            "locality_id":-1,
             "neighbourhood_id":85808397,
             "region_id":85688481,
             "venue_id":387888001
         }
     ],
     "wof:id":387888001,
-    "wof:lastmodified":1449058475,
+    "wof:lastmodified":1454360794,
     "wof:name":"Century Distributing",
     "wof:parent_id":85808397,
     "wof:placetype":"venue",
@@ -68,6 +67,11 @@
         "supplies-wholesale"
     ]
 },
-  "bbox": [-77.939998,40.864985,-77.939998,40.864985],
+  "bbox": [
+    -77.939998,
+    40.864985,
+    -77.939998,
+    40.864985
+],
   "geometry": {"coordinates":[-77.939998,40.864985],"type":"Point"}
 }

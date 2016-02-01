@@ -2,13 +2,14 @@
   "id": 387288269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.107406,40.449542,-80.107406,40.449542",
     "geom:latitude":40.449542,
     "geom:longitude":-80.107406,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"105 Lorish Road",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85835117
+        85835117,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"ac7ec42937115c3f4f379cc0ab50da77",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85835117,
             "region_id":85688481,
             "venue_id":387288269
         }
     ],
     "wof:id":387288269,
-    "wof:lastmodified":1449056509,
+    "wof:lastmodified":1454358406,
     "wof:name":"John Lippello - Westpoint Mortgage",
     "wof:parent_id":85835117,
     "wof:placetype":"venue",
@@ -63,6 +62,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-80.107406,40.449542,-80.107406,40.449542],
+  "bbox": [
+    -80.107406,
+    40.449542,
+    -80.107406,
+    40.449542
+],
   "geometry": {"coordinates":[-80.107406,40.449542],"type":"Point"}
 }

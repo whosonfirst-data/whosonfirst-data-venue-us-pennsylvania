@@ -2,13 +2,14 @@
   "id": 387640691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.64565,40.362057,-79.64565,40.362057",
     "geom:latitude":40.362057,
     "geom:longitude":-79.64565,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1063 Harrison City Export Rd",
     "sg:city":"Jeannette",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081383,
-        85833221
+        85833221,
+        102081383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"e9c5d9a23ba790a8bfd5adbd30dc652c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":-1,
             "neighbourhood_id":85833221,
             "region_id":85688481,
             "venue_id":387640691
         }
     ],
     "wof:id":387640691,
-    "wof:lastmodified":1449057758,
+    "wof:lastmodified":1454360584,
     "wof:name":"John Adam Lisbon",
     "wof:parent_id":85833221,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "business"
     ]
 },
-  "bbox": [-79.64565,40.362057,-79.64565,40.362057],
+  "bbox": [
+    -79.64565,
+    40.362057,
+    -79.64565,
+    40.362057
+],
   "geometry": {"coordinates":[-79.64565,40.362057],"type":"Point"}
 }

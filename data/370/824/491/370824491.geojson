@@ -2,13 +2,14 @@
   "id": 370824491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.92622,39.713071,-75.92622,39.713071",
     "geom:latitude":39.713071,
     "geom:longitude":-75.92622,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"247 Blake Rd",
     "sg:city":"Elkton",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081275,
-        85810983
+        85810983,
+        102081275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"71d65b01a56de8fb8633a59b5065818a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081275,
-            "locality_id":-1,
             "neighbourhood_id":85810983,
             "region_id":85688481,
             "venue_id":370824491
         }
     ],
     "wof:id":370824491,
-    "wof:lastmodified":1449030293,
+    "wof:lastmodified":1454356390,
     "wof:name":"Anderson's Automotive Repair",
     "wof:parent_id":85810983,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "automobile"
     ]
 },
-  "bbox": [-75.92622,39.713071,-75.92622,39.713071],
+  "bbox": [
+    -75.92622,
+    39.713071,
+    -75.92622,
+    39.713071
+],
   "geometry": {"coordinates":[-75.92622,39.713071],"type":"Point"}
 }

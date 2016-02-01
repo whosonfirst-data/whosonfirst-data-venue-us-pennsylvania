@@ -2,13 +2,14 @@
   "id": 387283407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.977573,40.428597,-79.977573,40.428597",
     "geom:latitude":40.428597,
     "geom:longitude":-79.977573,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2004 E Carson St 2",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -47,11 +48,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85850327,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85850327
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,9 +64,10 @@
     "wof:geomhash":"5f515e00e5a031ac31fd17829ae43595",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85850327,
             "region_id":85688481,
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":387283407,
-    "wof:lastmodified":1449057225,
+    "wof:lastmodified":1454358941,
     "wof:name":"Bodnar Real Estate Services Inc",
     "wof:parent_id":85850327,
     "wof:placetype":"venue",
@@ -86,6 +90,11 @@
         "appraiser"
     ]
 },
-  "bbox": [-79.977573,40.428597,-79.977573,40.428597],
-  "geometry": {"coordinates":[-79.977573,40.428597],"type":"Point"}
+  "bbox": [
+    -79.977573,
+    40.428597,
+    -79.977573,
+    40.428597
+],
+  "geometry": {"coordinates":[-79.97757300000001,40.428597],"type":"Point"}
 }

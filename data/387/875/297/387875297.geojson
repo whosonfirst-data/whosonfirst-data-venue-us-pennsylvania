@@ -2,13 +2,14 @@
   "id": 387875297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.779706,40.911513,-77.779706,40.911513",
     "geom:latitude":40.911513,
     "geom:longitude":-77.779706,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"216 W High St",
     "sg:city":"Bellefonte",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85806075,
+        102191575,
+        404485871,
         85633793,
         101718145,
         102081369,
-        85806075
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"f4c37abb42fe2ef726f0f8a0dc64081c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081369,
+            "localadmin_id":404485871,
             "locality_id":101718145,
             "neighbourhood_id":85806075,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387875297,
-    "wof:lastmodified":1449058937,
+    "wof:lastmodified":1454360932,
     "wof:name":"Star Restaurant Management",
     "wof:parent_id":85806075,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "sandwich"
     ]
 },
-  "bbox": [-77.779706,40.911513,-77.779706,40.911513],
+  "bbox": [
+    -77.779706,
+    40.911513,
+    -77.779706,
+    40.911513
+],
   "geometry": {"coordinates":[-77.779706,40.911513],"type":"Point"}
 }

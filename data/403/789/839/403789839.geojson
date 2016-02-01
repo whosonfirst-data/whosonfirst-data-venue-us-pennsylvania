@@ -2,13 +2,14 @@
   "id": 403789839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.20325,40.459722,-77.20325,40.459722",
     "geom:latitude":40.459722,
     "geom:longitude":-77.20325,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4201 Middle Ridge Rd",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -33,8 +34,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080963,
-        85854111
+        85854111,
+        102080963
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +45,15 @@
     "wof:geomhash":"6b8d5af162ae36846ce3ba722ceb0cf8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080963,
-            "locality_id":-1,
             "neighbourhood_id":85854111,
             "region_id":85688481,
             "venue_id":403789839
         }
     ],
     "wof:id":403789839,
-    "wof:lastmodified":1449055235,
+    "wof:lastmodified":1454357553,
     "wof:name":"Middle Ridge Motors",
     "wof:parent_id":85854111,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "cars-wholesale"
     ]
 },
-  "bbox": [-77.20325,40.459722,-77.20325,40.459722],
+  "bbox": [
+    -77.20325,
+    40.459722,
+    -77.20325,
+    40.459722
+],
   "geometry": {"coordinates":[-77.20325,40.459722],"type":"Point"}
 }

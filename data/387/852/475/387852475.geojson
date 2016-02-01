@@ -2,13 +2,14 @@
   "id": 387852475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.41402,40.487242,-78.41402,40.487242",
     "geom:latitude":40.487242,
     "geom:longitude":-78.41402,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3935 Burgoon Rd",
     "sg:city":"Altoona",
     "sg:classifiers":[
@@ -31,11 +32,13 @@
     "sg:website":"http://www.centralpaattybjohnstone.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85849385,
+        102191575,
+        404484619,
         85633793,
         101716595,
         102081325,
-        85849385
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,9 +48,10 @@
     "wof:geomhash":"cae73958cb1f4f41cc21a40972119fb2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081325,
+            "localadmin_id":404484619,
             "locality_id":101716595,
             "neighbourhood_id":85849385,
             "region_id":85688481,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":387852475,
-    "wof:lastmodified":1449059275,
+    "wof:lastmodified":1454361030,
     "wof:name":"Bruce Johnstone",
     "wof:parent_id":85849385,
     "wof:placetype":"venue",
@@ -68,6 +72,11 @@
         "attorney"
     ]
 },
-  "bbox": [-78.41402,40.487242,-78.41402,40.487242],
-  "geometry": {"coordinates":[-78.41402,40.487242],"type":"Point"}
+  "bbox": [
+    -78.41402,
+    40.487242,
+    -78.41402,
+    40.487242
+],
+  "geometry": {"coordinates":[-78.41401999999999,40.487242],"type":"Point"}
 }

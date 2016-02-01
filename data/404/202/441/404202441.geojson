@@ -2,13 +2,14 @@
   "id": 404202441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.419116,40.625521,-75.419116,40.625521",
     "geom:latitude":40.625521,
     "geom:longitude":-75.419116,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2210 Eaton Ave",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -38,10 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420538729,
+        102191575,
+        404485987,
         85633793,
         101717907,
-        102081395
+        102081395,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,19 +55,20 @@
     "wof:geomhash":"955370b941b99ee96f7a096a79aeb943",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081395,
+            "localadmin_id":404485987,
             "locality_id":101717907,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420538729,
             "region_id":85688481,
             "venue_id":404202441
         }
     ],
     "wof:id":404202441,
-    "wof:lastmodified":1449040163,
+    "wof:lastmodified":1454357040,
     "wof:name":"My Little World",
-    "wof:parent_id":-1,
+    "wof:parent_id":420538729,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -72,6 +77,11 @@
         "day"
     ]
 },
-  "bbox": [-75.419116,40.625521,-75.419116,40.625521],
+  "bbox": [
+    -75.419116,
+    40.625521,
+    -75.419116,
+    40.625521
+],
   "geometry": {"coordinates":[-75.419116,40.625521],"type":"Point"}
 }

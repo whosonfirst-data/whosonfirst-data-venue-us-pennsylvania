@@ -2,13 +2,14 @@
   "id": 404050991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.985798,39.995937,-75.985798,39.995937",
     "geom:latitude":39.995937,
     "geom:longitude":-75.985798,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"731 Mount Vernon Rd",
     "sg:city":"Gap",
     "sg:classifiers":[
@@ -37,8 +38,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85830559
+        85830559,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +49,15 @@
     "wof:geomhash":"0313b9b0d5a6a29c8e52072718e3d86d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85830559,
             "region_id":85688481,
             "venue_id":404050991
         }
     ],
     "wof:id":404050991,
-    "wof:lastmodified":1449039794,
+    "wof:lastmodified":1454356808,
     "wof:name":"Federal Gun Shoppe",
     "wof:parent_id":85830559,
     "wof:placetype":"venue",
@@ -71,6 +70,11 @@
         "gunsmith"
     ]
 },
-  "bbox": [-75.985798,39.995937,-75.985798,39.995937],
+  "bbox": [
+    -75.985798,
+    39.995937,
+    -75.985798,
+    39.995937
+],
   "geometry": {"coordinates":[-75.985798,39.995937],"type":"Point"}
 }

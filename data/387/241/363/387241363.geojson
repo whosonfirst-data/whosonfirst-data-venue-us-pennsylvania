@@ -2,13 +2,14 @@
   "id": 387241363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.211647,40.49239,-80.211647,40.49239",
     "geom:latitude":40.49239,
     "geom:longitude":-80.211647,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2275 Defense Ave",
     "sg:city":"Coraopolis",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     "sg:website":"http://www.af.mil",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85809567,
+        102191575,
+        404484137,
         85633793,
         101720527,
         102080887,
-        85809567
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"48d3feddb3348191d1e8e5a3ebd19048",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484137,
             "locality_id":101720527,
             "neighbourhood_id":85809567,
             "region_id":85688481,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":387241363,
-    "wof:lastmodified":1449059822,
+    "wof:lastmodified":1454361201,
     "wof:name":"Pitaf Lodging",
     "wof:parent_id":85809567,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "recruiting"
     ]
 },
-  "bbox": [-80.211647,40.49239,-80.211647,40.49239],
+  "bbox": [
+    -80.211647,
+    40.49239,
+    -80.211647,
+    40.49239
+],
   "geometry": {"coordinates":[-80.211647,40.49239],"type":"Point"}
 }

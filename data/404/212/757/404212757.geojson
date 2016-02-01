@@ -2,13 +2,14 @@
   "id": 404212757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.479143,40.601449,-75.479143,40.601449",
     "geom:latitude":40.601449,
     "geom:longitude":-75.479143,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1016 Linden St",
     "sg:city":"Allentown",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85897229,
+        102191575,
+        404485941,
         85633793,
         101717925,
         102081327,
-        85897229
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"f5c9a9cb28ea4f3ee20afd726cb6695c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081327,
+            "localadmin_id":404485941,
             "locality_id":101717925,
             "neighbourhood_id":85897229,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":404212757,
-    "wof:lastmodified":1449039911,
+    "wof:lastmodified":1454356883,
     "wof:name":"Rent A Wreck",
     "wof:parent_id":85897229,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "car"
     ]
 },
-  "bbox": [-75.479143,40.601449,-75.479143,40.601449],
-  "geometry": {"coordinates":[-75.479143,40.601449],"type":"Point"}
+  "bbox": [
+    -75.479143,
+    40.601449,
+    -75.479143,
+    40.601449
+],
+  "geometry": {"coordinates":[-75.47914299999999,40.601449],"type":"Point"}
 }

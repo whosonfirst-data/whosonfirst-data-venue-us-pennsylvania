@@ -2,13 +2,14 @@
   "id": 404048307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.175005,40.176898,-76.175005,40.176898",
     "geom:latitude":40.176898,
     "geom:longitude":-76.175005,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"129 E Main St",
     "sg:city":"Ephrata",
     "sg:classifiers":[
@@ -48,7 +49,6 @@
     "wof:geomhash":"adfda0a5ec63c96372e00a0617f66691",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
             "locality_id":101718645,
@@ -58,7 +58,7 @@
         }
     ],
     "wof:id":404048307,
-    "wof:lastmodified":1449039433,
+    "wof:lastmodified":1454356646,
     "wof:name":"USPS - United States Post Office - Ephrata Main Office",
     "wof:parent_id":85830575,
     "wof:placetype":"venue",
@@ -69,6 +69,11 @@
         "shipping"
     ]
 },
-  "bbox": [-76.175005,40.176898,-76.175005,40.176898],
+  "bbox": [
+    -76.175005,
+    40.176898,
+    -76.175005,
+    40.176898
+],
   "geometry": {"coordinates":[-76.175005,40.176898],"type":"Point"}
 }

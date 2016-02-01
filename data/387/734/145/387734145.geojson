@@ -2,13 +2,14 @@
   "id": 387734145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.122868,40.697934,-80.122868,40.697934",
     "geom:latitude":40.697934,
     "geom:longitude":-80.122868,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2625 Rochester Rd",
     "sg:city":"Cranberry Township",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85819175,
+        102191575,
+        404485077,
         85633793,
         101720145,
         102083677,
-        85819175
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"219d39569ac457357a348725c773e232",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083677,
+            "localadmin_id":404485077,
             "locality_id":101720145,
             "neighbourhood_id":85819175,
             "region_id":85688481,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":387734145,
-    "wof:lastmodified":1449059437,
+    "wof:lastmodified":1454361080,
     "wof:name":"Brooks Jack C MD",
     "wof:parent_id":85819175,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.122868,40.697934,-80.122868,40.697934],
+  "bbox": [
+    -80.122868,
+    40.697934,
+    -80.122868,
+    40.697934
+],
   "geometry": {"coordinates":[-80.122868,40.697934],"type":"Point"}
 }

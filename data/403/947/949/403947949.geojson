@@ -2,13 +2,14 @@
   "id": 403947949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.183127,39.736103,-78.183127,39.736103",
     "geom:latitude":39.736103,
     "geom:longitude":-78.183127,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"14457 Buck Valley Rd",
     "sg:city":"Warfordsburg",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081273,
-        85814735
+        85814735,
+        102081273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"d6262221a70f83e850db49505bcdcf8b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081273,
-            "locality_id":-1,
             "neighbourhood_id":85814735,
             "region_id":85688481,
             "venue_id":403947949
         }
     ],
     "wof:id":403947949,
-    "wof:lastmodified":1449055573,
+    "wof:lastmodified":1454357755,
     "wof:name":"Chapel Of Praise",
     "wof:parent_id":85814735,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "denomination"
     ]
 },
-  "bbox": [-78.183127,39.736103,-78.183127,39.736103],
+  "bbox": [
+    -78.183127,
+    39.736103,
+    -78.183127,
+    39.736103
+],
   "geometry": {"coordinates":[-78.183127,39.736103],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404025331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.760962,40.010375,-76.760962,40.010375",
     "geom:latitude":40.010375,
     "geom:longitude":-76.760962,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2918 Halstead Lane",
     "sg:city":"York",
     "sg:classifiers":[
@@ -27,8 +28,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080953,
-        85820401
+        85820401,
+        102080953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +39,15 @@
     "wof:geomhash":"e63ea413e05142a0a1ba35dc8845408c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
             "neighbourhood_id":85820401,
             "region_id":85688481,
             "venue_id":404025331
         }
     ],
     "wof:id":404025331,
-    "wof:lastmodified":1449040118,
+    "wof:lastmodified":1454357018,
     "wof:name":"Rose Petal Resources",
     "wof:parent_id":85820401,
     "wof:placetype":"venue",
@@ -56,6 +55,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.760962,40.010375,-76.760962,40.010375],
-  "geometry": {"coordinates":[-76.760962,40.010375],"type":"Point"}
+  "bbox": [
+    -76.760962,
+    40.010375,
+    -76.760962,
+    40.010375
+],
+  "geometry": {"coordinates":[-76.76096200000001,40.010375],"type":"Point"}
 }

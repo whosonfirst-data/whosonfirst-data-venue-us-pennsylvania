@@ -2,13 +2,14 @@
   "id": 387882487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.679604,40.841099,-77.679604,40.841099",
     "geom:latitude":40.841099,
     "geom:longitude":-77.679604,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"251 S Pennsylvania Ave",
     "sg:city":"Centre Hall",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     "sg:website":"www.victorianlightingworks.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85839333,
+        102191575,
+        404483083,
         85633793,
         101718143,
         102081369,
-        85839333
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"f1710afc1244fa50a015ad50f5dff082",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081369,
+            "localadmin_id":404483083,
             "locality_id":101718143,
             "neighbourhood_id":85839333,
             "region_id":85688481,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":387882487,
-    "wof:lastmodified":1449056780,
+    "wof:lastmodified":1454358605,
     "wof:name":"Victorian Lighting Works Inc",
     "wof:parent_id":85839333,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "lighting"
     ]
 },
-  "bbox": [-77.679604,40.841099,-77.679604,40.841099],
+  "bbox": [
+    -77.679604,
+    40.841099,
+    -77.679604,
+    40.841099
+],
   "geometry": {"coordinates":[-77.679604,40.841099],"type":"Point"}
 }

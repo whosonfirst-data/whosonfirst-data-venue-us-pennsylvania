@@ -2,13 +2,14 @@
   "id": 387235077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.087444,40.406775,-80.087444,40.406775",
     "geom:latitude":40.406775,
     "geom:longitude":-80.087444,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"14 E Main St",
     "sg:city":"Carnegie",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85821875,
+        102191575,
+        404484865,
         85633793,
         101718775,
         102080887,
-        85821875
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"fab7bec81942bb01a7ad27deaef78058",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484865,
             "locality_id":101718775,
             "neighbourhood_id":85821875,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387235077,
-    "wof:lastmodified":1449056753,
+    "wof:lastmodified":1454358585,
     "wof:name":"Dellwood Devel and Reality Corp",
     "wof:parent_id":85821875,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-80.087444,40.406775,-80.087444,40.406775],
+  "bbox": [
+    -80.087444,
+    40.406775,
+    -80.087444,
+    40.406775
+],
   "geometry": {"coordinates":[-80.087444,40.406775],"type":"Point"}
 }

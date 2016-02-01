@@ -2,13 +2,14 @@
   "id": 387661485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.96206,40.954272,-78.96206,40.954272",
     "geom:latitude":40.954272,
     "geom:longitude":-78.96206,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"127 High St",
     "sg:city":"Punxsutawney",
     "sg:classifiers":[
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420538413,
+        102191575,
+        404483507,
         85633793,
         101717839,
-        102083883
+        102083883,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,20 @@
     "wof:geomhash":"e102c637f1720ad73b4c47c7c6103c8d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083883,
+            "localadmin_id":404483507,
             "locality_id":101717839,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420538413,
             "region_id":85688481,
             "venue_id":387661485
         }
     ],
     "wof:id":387661485,
-    "wof:lastmodified":1449059503,
+    "wof:lastmodified":1454361102,
     "wof:name":"Scott Wj Trucking",
-    "wof:parent_id":-1,
+    "wof:parent_id":420538413,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -69,6 +74,11 @@
         "trucking"
     ]
 },
-  "bbox": [-78.96206,40.954272,-78.96206,40.954272],
-  "geometry": {"coordinates":[-78.96206,40.954272],"type":"Point"}
+  "bbox": [
+    -78.96206,
+    40.954272,
+    -78.96206,
+    40.954272
+],
+  "geometry": {"coordinates":[-78.96205999999999,40.954272],"type":"Point"}
 }

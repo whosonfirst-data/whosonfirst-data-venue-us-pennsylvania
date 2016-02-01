@@ -2,13 +2,14 @@
   "id": 387610907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.255122,40.012972,-78.255122,40.012972",
     "geom:latitude":40.012972,
     "geom:longitude":-78.255122,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"608 E Graceville Rd",
     "sg:city":"Breezewood",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080939,
-        85822397
+        85822397,
+        102080939
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"0aa2127452ab0a7f0abb447d058fb96b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080939,
-            "locality_id":-1,
             "neighbourhood_id":85822397,
             "region_id":85688481,
             "venue_id":387610907
         }
     ],
     "wof:id":387610907,
-    "wof:lastmodified":1449059860,
+    "wof:lastmodified":1454361213,
     "wof:name":"Deremer Construction",
     "wof:parent_id":85822397,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-78.255122,40.012972,-78.255122,40.012972],
+  "bbox": [
+    -78.255122,
+    40.012972,
+    -78.255122,
+    40.012972
+],
   "geometry": {"coordinates":[-78.255122,40.012972],"type":"Point"}
 }

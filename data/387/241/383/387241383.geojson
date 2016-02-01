@@ -2,13 +2,14 @@
   "id": 387241383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.158105,40.517659,-80.158105,40.517659",
     "geom:latitude":40.517659,
     "geom:longitude":-80.158105,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1400 2nd Ave",
     "sg:city":"Coraopolis",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85835035
+        85835035,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"e95315bd732fda709a85c36f8071394a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85835035,
             "region_id":85688481,
             "venue_id":387241383
         }
     ],
     "wof:id":387241383,
-    "wof:lastmodified":1449059817,
+    "wof:lastmodified":1454361201,
     "wof:name":"A Stucki Company Division",
     "wof:parent_id":85835035,
     "wof:placetype":"venue",
@@ -68,6 +67,11 @@
         "warehouses-public-commercial"
     ]
 },
-  "bbox": [-80.158105,40.517659,-80.158105,40.517659],
-  "geometry": {"coordinates":[-80.158105,40.517659],"type":"Point"}
+  "bbox": [
+    -80.158105,
+    40.517659,
+    -80.158105,
+    40.517659
+],
+  "geometry": {"coordinates":[-80.15810500000001,40.517659],"type":"Point"}
 }

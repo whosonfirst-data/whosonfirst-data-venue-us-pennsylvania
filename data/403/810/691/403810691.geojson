@@ -2,13 +2,14 @@
   "id": 403810691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.831773,40.254177,-76.831773,40.254177",
     "geom:latitude":40.254177,
     "geom:longitude":-76.831773,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3350A Paxton St",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -27,8 +28,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85868485
+        85868485,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +39,15 @@
     "wof:geomhash":"3dca8f70ba85ee104ffa12d24252a9d8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85868485,
             "region_id":85688481,
             "venue_id":403810691
         }
     ],
     "wof:id":403810691,
-    "wof:lastmodified":1449055029,
+    "wof:lastmodified":1454357427,
     "wof:name":"Bus Stop",
     "wof:parent_id":85868485,
     "wof:placetype":"venue",
@@ -56,6 +55,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.831773,40.254177,-76.831773,40.254177],
+  "bbox": [
+    -76.831773,
+    40.254177,
+    -76.831773,
+    40.254177
+],
   "geometry": {"coordinates":[-76.831773,40.254177],"type":"Point"}
 }

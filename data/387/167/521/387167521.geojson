@@ -2,13 +2,14 @@
   "id": 387167521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.930397,40.205051,-79.930397,40.205051",
     "geom:latitude":40.205051,
     "geom:longitude":-79.930397,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"619 W Main St",
     "sg:city":"Monongahela",
     "sg:classifiers":[
@@ -47,10 +48,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420539901,
+        102191575,
+        404487805,
         85633793,
         101718465,
-        102081343
+        102081343,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,19 +64,20 @@
     "wof:geomhash":"83c9c3ba98e7eac03283fb1857ae3673",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081343,
+            "localadmin_id":404487805,
             "locality_id":101718465,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420539901,
             "region_id":85688481,
             "venue_id":387167521
         }
     ],
     "wof:id":387167521,
-    "wof:lastmodified":1449058086,
+    "wof:lastmodified":1454360677,
     "wof:name":"Allstate Insurance Company - Anthony Bottino",
-    "wof:parent_id":-1,
+    "wof:parent_id":420539901,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -85,6 +90,11 @@
         "renter"
     ]
 },
-  "bbox": [-79.930397,40.205051,-79.930397,40.205051],
+  "bbox": [
+    -79.930397,
+    40.205051,
+    -79.930397,
+    40.205051
+],
   "geometry": {"coordinates":[-79.930397,40.205051],"type":"Point"}
 }

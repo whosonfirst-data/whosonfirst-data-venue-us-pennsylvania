@@ -2,13 +2,14 @@
   "id": 404095009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.357928,40.047913,-76.357928,40.047913",
     "geom:latitude":40.047913,
     "geom:longitude":-76.357928,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2150 Noll Drive, Suite 100",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85810789
+        85810789,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"63a58794ae1306acf3077f5a58fee9a6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85810789,
             "region_id":85688481,
             "venue_id":404095009
         }
     ],
     "wof:id":404095009,
-    "wof:lastmodified":1449039700,
+    "wof:lastmodified":1454356765,
     "wof:name":"Vital-Becker Pediatric Associates Inc",
     "wof:parent_id":85810789,
     "wof:placetype":"venue",
@@ -71,6 +70,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-76.357928,40.047913,-76.357928,40.047913],
+  "bbox": [
+    -76.357928,
+    40.047913,
+    -76.357928,
+    40.047913
+],
   "geometry": {"coordinates":[-76.357928,40.047913],"type":"Point"}
 }

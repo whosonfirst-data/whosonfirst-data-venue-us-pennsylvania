@@ -2,13 +2,14 @@
   "id": 387733187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.11471,40.747583,-80.11471,40.747583",
     "geom:latitude":40.747583,
     "geom:longitude":-80.11471,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"22030 Perry Hwy",
     "sg:city":"Zelienople",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102083677,
-        85821679
+        85821679,
+        102083677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"cedce7ea0f704f37c3cfe6b2526af352",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102083677,
-            "locality_id":-1,
             "neighbourhood_id":85821679,
             "region_id":85688481,
             "venue_id":387733187
         }
     ],
     "wof:id":387733187,
-    "wof:lastmodified":1449056632,
+    "wof:lastmodified":1454358500,
     "wof:name":"Kenny Ross Nissan",
     "wof:parent_id":85821679,
     "wof:placetype":"venue",
@@ -61,6 +60,11 @@
         "car"
     ]
 },
-  "bbox": [-80.11471,40.747583,-80.11471,40.747583],
+  "bbox": [
+    -80.11471,
+    40.747583,
+    -80.11471,
+    40.747583
+],
   "geometry": {"coordinates":[-80.11471,40.747583],"type":"Point"}
 }

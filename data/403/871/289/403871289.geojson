@@ -2,13 +2,14 @@
   "id": 403871289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.815628,40.282725,-76.815628,40.282725",
     "geom:latitude":40.282725,
     "geom:longitude":-76.815628,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4310 Londonderry Rd # 101",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -32,8 +33,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85829485
+        85829485,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +44,15 @@
     "wof:geomhash":"c1113858785521e844b087d0ed6739c8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85829485,
             "region_id":85688481,
             "venue_id":403871289
         }
     ],
     "wof:id":403871289,
-    "wof:lastmodified":1449055061,
+    "wof:lastmodified":1454357449,
     "wof:name":"Frank C D'amico Md",
     "wof:parent_id":85829485,
     "wof:placetype":"venue",
@@ -66,6 +65,11 @@
         "surgeons"
     ]
 },
-  "bbox": [-76.815628,40.282725,-76.815628,40.282725],
+  "bbox": [
+    -76.815628,
+    40.282725,
+    -76.815628,
+    40.282725
+],
   "geometry": {"coordinates":[-76.815628,40.282725],"type":"Point"}
 }

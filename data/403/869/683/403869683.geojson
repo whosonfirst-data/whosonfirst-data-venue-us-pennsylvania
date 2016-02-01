@@ -2,13 +2,14 @@
   "id": 403869683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.822759,40.283091,-76.822759,40.283091",
     "geom:latitude":40.283091,
     "geom:longitude":-76.822759,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"830 Sir Thomas Ct Ste 150",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85843183,
+        102191575,
+        404486305,
         85633793,
         101719821,
         102081347,
-        85843183
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"08e44bd86f448713f0f700ec60786a63",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
+            "localadmin_id":404486305,
             "locality_id":101719821,
             "neighbourhood_id":85843183,
             "region_id":85688481,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":403869683,
-    "wof:lastmodified":1449055856,
+    "wof:lastmodified":1454357913,
     "wof:name":"Municipal Finance Partner",
     "wof:parent_id":85843183,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "planning"
     ]
 },
-  "bbox": [-76.822759,40.283091,-76.822759,40.283091],
+  "bbox": [
+    -76.822759,
+    40.283091,
+    -76.822759,
+    40.283091
+],
   "geometry": {"coordinates":[-76.822759,40.283091],"type":"Point"}
 }

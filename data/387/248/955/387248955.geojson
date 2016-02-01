@@ -2,13 +2,14 @@
   "id": 387248955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.919806,40.403671,-79.919806,40.403671",
     "geom:latitude":40.403671,
     "geom:longitude":-79.919806,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"501 Waterfront Dr W",
     "sg:city":"Homestead",
     "sg:classifiers":[
@@ -49,11 +50,13 @@
     "sg:website":"http://clickserve.dartsearch.net/link/click?lid=43000000308049899",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85821717,
+        102191575,
+        404482523,
         85633793,
         101718719,
         102080887,
-        85821717
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,9 +66,10 @@
     "wof:geomhash":"bf6b8f46d2dee168bbc5f388e396b7e9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718719,
             "neighbourhood_id":85821717,
             "region_id":85688481,
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":387248955,
-    "wof:lastmodified":1449058200,
+    "wof:lastmodified":1454360709,
     "wof:name":"T-Mobile",
     "wof:parent_id":85821717,
     "wof:placetype":"venue",
@@ -89,6 +93,11 @@
         "cellular"
     ]
 },
-  "bbox": [-79.919806,40.403671,-79.919806,40.403671],
-  "geometry": {"coordinates":[-79.919806,40.403671],"type":"Point"}
+  "bbox": [
+    -79.919806,
+    40.403671,
+    -79.919806,
+    40.403671
+],
+  "geometry": {"coordinates":[-79.91980599999999,40.403671],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404060403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.240755,40.151789,-76.240755,40.151789",
     "geom:latitude":40.151789,
     "geom:longitude":-76.240755,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2310 Rothsville Rd",
     "sg:city":"Lititz",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85834405
+        85834405,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"0c089b9d53fcf736ee372603f9d42307",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85834405,
             "region_id":85688481,
             "venue_id":404060403
         }
     ],
     "wof:id":404060403,
-    "wof:lastmodified":1449040226,
+    "wof:lastmodified":1454357074,
     "wof:name":"Bhb Rehab Services",
     "wof:parent_id":85834405,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "physical"
     ]
 },
-  "bbox": [-76.240755,40.151789,-76.240755,40.151789],
-  "geometry": {"coordinates":[-76.240755,40.151789],"type":"Point"}
+  "bbox": [
+    -76.240755,
+    40.151789,
+    -76.240755,
+    40.151789
+],
+  "geometry": {"coordinates":[-76.24075499999999,40.151789],"type":"Point"}
 }

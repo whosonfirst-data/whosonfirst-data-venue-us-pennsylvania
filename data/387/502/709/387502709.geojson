@@ -2,13 +2,14 @@
   "id": 387502709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.005501,40.525631,-80.005501,40.525631",
     "geom:latitude":40.525631,
     "geom:longitude":-80.005501,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4790 Mcknight Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85805835
+        85805835,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"8c569da991db24023cdc20e08494fdab",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85805835,
             "region_id":85688481,
             "venue_id":387502709
         }
     ],
     "wof:id":387502709,
-    "wof:lastmodified":1449057843,
+    "wof:lastmodified":1454360612,
     "wof:name":"Aaa Mid-Atlantic Travel Agency, Inc",
     "wof:parent_id":85805835,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "services-commercial"
     ]
 },
-  "bbox": [-80.005501,40.525631,-80.005501,40.525631],
+  "bbox": [
+    -80.005501,
+    40.525631,
+    -80.005501,
+    40.525631
+],
   "geometry": {"coordinates":[-80.005501,40.525631],"type":"Point"}
 }

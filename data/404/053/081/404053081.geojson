@@ -2,13 +2,14 @@
   "id": 404053081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.38987,40.084728,-76.38987,40.084728",
     "geom:latitude":40.084728,
     "geom:longitude":-76.38987,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3001 HARRISBURG PIKE",
     "sg:city":"LANDISVILLE",
     "sg:classifiers":[
@@ -41,8 +42,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85833625
+        85833625,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,17 +53,15 @@
     "wof:geomhash":"8f60bf306e5f0a8c6e24629acc0264a5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85833625,
             "region_id":85688481,
             "venue_id":404053081
         }
     ],
     "wof:id":404053081,
-    "wof:lastmodified":1449039268,
+    "wof:lastmodified":1454356546,
     "wof:name":"Hot Z Pizza",
     "wof:parent_id":85833625,
     "wof:placetype":"venue",
@@ -73,6 +72,11 @@
         "pizza"
     ]
 },
-  "bbox": [-76.38987,40.084728,-76.38987,40.084728],
+  "bbox": [
+    -76.38987,
+    40.084728,
+    -76.38987,
+    40.084728
+],
   "geometry": {"coordinates":[-76.38987,40.084728],"type":"Point"}
 }

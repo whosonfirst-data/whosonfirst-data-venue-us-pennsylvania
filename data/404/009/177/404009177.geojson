@@ -2,13 +2,14 @@
   "id": 404009177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.743565,39.957549,-76.743565,39.957549",
     "geom:latitude":39.957549,
     "geom:longitude":-76.743565,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"620 W Market St",
     "sg:city":"York",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85833149,
+        102191575,
+        404488029,
         85633793,
+        101717279,
         102080953,
-        85833149
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +47,18 @@
     "wof:geomhash":"5fb8c72a417c086dcc2140361baf9d81",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
+            "localadmin_id":404488029,
+            "locality_id":101717279,
             "neighbourhood_id":85833149,
             "region_id":85688481,
             "venue_id":404009177
         }
     ],
     "wof:id":404009177,
-    "wof:lastmodified":1449040311,
+    "wof:lastmodified":1454357129,
     "wof:name":"Bierenouns Photo & Video",
     "wof:parent_id":85833149,
     "wof:placetype":"venue",
@@ -66,6 +71,11 @@
         "dvds-rental"
     ]
 },
-  "bbox": [-76.743565,39.957549,-76.743565,39.957549],
+  "bbox": [
+    -76.743565,
+    39.957549,
+    -76.743565,
+    39.957549
+],
   "geometry": {"coordinates":[-76.743565,39.957549],"type":"Point"}
 }

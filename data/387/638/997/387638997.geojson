@@ -2,13 +2,14 @@
   "id": 387638997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.579536,40.312265,-79.579536,40.312265",
     "geom:latitude":40.312265,
     "geom:longitude":-79.579536,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2887 Radebaugh Rd",
     "sg:city":"Jeannette",
     "sg:classifiers":[
@@ -86,8 +87,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081383,
-        85843595
+        85843595,
+        102081383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -97,17 +98,15 @@
     "wof:geomhash":"92f8fc05e532289d2d7271db34c3af80",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":-1,
             "neighbourhood_id":85843595,
             "region_id":85688481,
             "venue_id":387638997
         }
     ],
     "wof:id":387638997,
-    "wof:lastmodified":1449056324,
+    "wof:lastmodified":1454358260,
     "wof:name":"ServiceMaster Clean",
     "wof:parent_id":85843595,
     "wof:placetype":"venue",
@@ -143,6 +142,11 @@
         "polishing"
     ]
 },
-  "bbox": [-79.579536,40.312265,-79.579536,40.312265],
+  "bbox": [
+    -79.579536,
+    40.312265,
+    -79.579536,
+    40.312265
+],
   "geometry": {"coordinates":[-79.579536,40.312265],"type":"Point"}
 }

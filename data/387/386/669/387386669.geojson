@@ -2,13 +2,14 @@
   "id": 387386669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.045898,40.418499,-80.045898,40.418499",
     "geom:latitude":40.418499,
     "geom:longitude":-80.045898,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"970 Greentree Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85804395,
+        102191575,
+        404482523,
         85633793,
+        101718805,
         102080887,
-        85804395
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +45,18 @@
     "wof:geomhash":"89a218a553ebdd4d16f22df4cbe97aac",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
+            "localadmin_id":404482523,
+            "locality_id":101718805,
             "neighbourhood_id":85804395,
             "region_id":85688481,
             "venue_id":387386669
         }
     ],
     "wof:id":387386669,
-    "wof:lastmodified":1449058104,
+    "wof:lastmodified":1454360681,
     "wof:name":"First Atlantic Financial Corp",
     "wof:parent_id":85804395,
     "wof:placetype":"venue",
@@ -62,6 +67,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-80.045898,40.418499,-80.045898,40.418499],
-  "geometry": {"coordinates":[-80.045898,40.418499],"type":"Point"}
+  "bbox": [
+    -80.045898,
+    40.418499,
+    -80.045898,
+    40.418499
+],
+  "geometry": {"coordinates":[-80.04589799999999,40.418499],"type":"Point"}
 }

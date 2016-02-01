@@ -2,13 +2,14 @@
   "id": 387696139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.902191,40.86422,-79.902191,40.86422",
     "geom:latitude":40.86422,
     "geom:longitude":-79.902191,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"400 State St",
     "sg:city":"Butler",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85824973,
+        102191575,
+        404485057,
         85633793,
-        101720149,
+        101718197,
         102083677,
-        85824973
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"a00816f41366e603bdf079c1e0f61898",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083677,
-            "locality_id":101720149,
+            "localadmin_id":404485057,
+            "locality_id":101718197,
             "neighbourhood_id":85824973,
             "region_id":85688481,
             "venue_id":387696139
         }
     ],
     "wof:id":387696139,
-    "wof:lastmodified":1449056392,
+    "wof:lastmodified":1454358308,
     "wof:name":"Mon-D-Aid & Cleanit Company",
     "wof:parent_id":85824973,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "restaurant"
     ]
 },
-  "bbox": [-79.902191,40.86422,-79.902191,40.86422],
+  "bbox": [
+    -79.902191,
+    40.86422,
+    -79.902191,
+    40.86422
+],
   "geometry": {"coordinates":[-79.902191,40.86422],"type":"Point"}
 }

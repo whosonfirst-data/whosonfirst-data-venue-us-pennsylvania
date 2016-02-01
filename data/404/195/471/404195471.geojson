@@ -2,13 +2,14 @@
   "id": 404195471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.416192,40.659062,-75.416192,40.659062",
     "geom:latitude":40.659062,
     "geom:longitude":-75.416192,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3445 High Point Blvd Ste 201",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081395,
-        85814279
+        85814279,
+        102081395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"ba0d948b6ec75b7ce429ed203f5c71da",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081395,
-            "locality_id":-1,
             "neighbourhood_id":85814279,
             "region_id":85688481,
             "venue_id":404195471
         }
     ],
     "wof:id":404195471,
-    "wof:lastmodified":1449039925,
+    "wof:lastmodified":1454356895,
     "wof:name":"Ifkovits John P DDS",
     "wof:parent_id":85814279,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "oral"
     ]
 },
-  "bbox": [-75.416192,40.659062,-75.416192,40.659062],
+  "bbox": [
+    -75.416192,
+    40.659062,
+    -75.416192,
+    40.659062
+],
   "geometry": {"coordinates":[-75.416192,40.659062],"type":"Point"}
 }

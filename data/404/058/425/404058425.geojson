@@ -2,13 +2,14 @@
   "id": 404058425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.291565,40.156544,-76.291565,40.156544",
     "geom:latitude":40.156544,
     "geom:longitude":-76.291565,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"73 N Oak St",
     "sg:city":"Lititz",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85834405
+        85834405,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"633a890830da1dae9ff74050ba4676ba",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85834405,
             "region_id":85688481,
             "venue_id":404058425
         }
     ],
     "wof:id":404058425,
-    "wof:lastmodified":1449039189,
+    "wof:lastmodified":1454356507,
     "wof:name":"Traceys Cleaning Service",
     "wof:parent_id":85834405,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "house"
     ]
 },
-  "bbox": [-76.291565,40.156544,-76.291565,40.156544],
-  "geometry": {"coordinates":[-76.291565,40.156544],"type":"Point"}
+  "bbox": [
+    -76.291565,
+    40.156544,
+    -76.291565,
+    40.156544
+],
+  "geometry": {"coordinates":[-76.29156500000001,40.156544],"type":"Point"}
 }

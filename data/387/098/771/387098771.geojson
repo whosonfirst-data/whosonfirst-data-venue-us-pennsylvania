@@ -2,13 +2,14 @@
   "id": 387098771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.227779,40.587134,-80.227779,40.587134",
     "geom:latitude":40.587134,
     "geom:longitude":-80.227779,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"643 Merchant St",
     "sg:city":"Ambridge",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85803005,
+        102191575,
+        404484359,
         85633793,
+        101718407,
         102081323,
-        85803005
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +45,18 @@
     "wof:geomhash":"3801dcd9b3878087d98f930fb7ee4bfc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081323,
-            "locality_id":-1,
+            "localadmin_id":404484359,
+            "locality_id":101718407,
             "neighbourhood_id":85803005,
             "region_id":85688481,
             "venue_id":387098771
         }
     ],
     "wof:id":387098771,
-    "wof:lastmodified":1449059511,
+    "wof:lastmodified":1454361104,
     "wof:name":"Popcorn-N-That",
     "wof:parent_id":85803005,
     "wof:placetype":"venue",
@@ -62,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-80.227779,40.587134,-80.227779,40.587134],
+  "bbox": [
+    -80.227779,
+    40.587134,
+    -80.227779,
+    40.587134
+],
   "geometry": {"coordinates":[-80.227779,40.587134],"type":"Point"}
 }

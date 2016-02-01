@@ -2,13 +2,14 @@
   "id": 387303073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.898935,40.455961,-79.898935,40.455961",
     "geom:latitude":40.455961,
     "geom:longitude":-79.898935,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"7114 Kelly St",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85873569,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85873569
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"52d8b8e117e5d0971fece7389f8920fa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85873569,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387303073,
-    "wof:lastmodified":1449056151,
+    "wof:lastmodified":1454358122,
     "wof:name":"Holy Rosary Catholic Church",
     "wof:parent_id":85873569,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "church"
     ]
 },
-  "bbox": [-79.898935,40.455961,-79.898935,40.455961],
-  "geometry": {"coordinates":[-79.898935,40.455961],"type":"Point"}
+  "bbox": [
+    -79.898935,
+    40.455961,
+    -79.898935,
+    40.455961
+],
+  "geometry": {"coordinates":[-79.89893499999999,40.455961],"type":"Point"}
 }

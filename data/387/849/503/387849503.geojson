@@ -2,13 +2,14 @@
   "id": 387849503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.41782,40.497681,-78.41782,40.497681",
     "geom:latitude":40.497681,
     "geom:longitude":-78.41782,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3103 W Chestnut Ave",
     "sg:city":"Altoona",
     "sg:classifiers":[
@@ -44,7 +45,6 @@
     "wof:geomhash":"72a470d699c8d762ab45df4755b99ddf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081325,
             "locality_id":101716595,
@@ -54,7 +54,7 @@
         }
     ],
     "wof:id":387849503,
-    "wof:lastmodified":1449056800,
+    "wof:lastmodified":1454358623,
     "wof:name":"Maverick Graphics",
     "wof:parent_id":85857011,
     "wof:placetype":"venue",
@@ -67,6 +67,11 @@
         "artist"
     ]
 },
-  "bbox": [-78.41782,40.497681,-78.41782,40.497681],
-  "geometry": {"coordinates":[-78.41782,40.497681],"type":"Point"}
+  "bbox": [
+    -78.41782,
+    40.497681,
+    -78.41782,
+    40.497681
+],
+  "geometry": {"coordinates":[-78.41782000000001,40.497681],"type":"Point"}
 }

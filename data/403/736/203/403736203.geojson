@@ -2,13 +2,14 @@
   "id": 403736203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.987752,40.268452,-76.987752,40.268452",
     "geom:latitude":40.268452,
     "geom:longitude":-76.987752,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1402 Eldindean Ter",
     "sg:city":"Mechanicsburg",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081359,
-        85822223
+        85822223,
+        102081359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"4f295286b6eac2f8b14a25b1fc9da98c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081359,
-            "locality_id":-1,
             "neighbourhood_id":85822223,
             "region_id":85688481,
             "venue_id":403736203
         }
     ],
     "wof:id":403736203,
-    "wof:lastmodified":1449055931,
+    "wof:lastmodified":1454357959,
     "wof:name":"Susan C Weaver",
     "wof:parent_id":85822223,
     "wof:placetype":"venue",
@@ -64,6 +63,11 @@
         "hearing"
     ]
 },
-  "bbox": [-76.987752,40.268452,-76.987752,40.268452],
+  "bbox": [
+    -76.987752,
+    40.268452,
+    -76.987752,
+    40.268452
+],
   "geometry": {"coordinates":[-76.987752,40.268452],"type":"Point"}
 }

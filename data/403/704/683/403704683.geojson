@@ -2,13 +2,14 @@
   "id": 403704683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.658637,40.240311,-76.658637,40.240311",
     "geom:latitude":40.240311,
     "geom:longitude":-76.658637,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"87 Hawthorne Dr",
     "sg:city":"Hershey",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85821955,
+        102191575,
+        404483303,
         85633793,
         101719813,
         102081347,
-        85821955
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"f25d21136a311448678d5ae44696ae86",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
+            "localadmin_id":404483303,
             "locality_id":101719813,
             "neighbourhood_id":85821955,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":403704683,
-    "wof:lastmodified":1449054993,
+    "wof:lastmodified":1454357403,
     "wof:name":"Shi, Yuguang",
     "wof:parent_id":85821955,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "employer"
     ]
 },
-  "bbox": [-76.658637,40.240311,-76.658637,40.240311],
+  "bbox": [
+    -76.658637,
+    40.240311,
+    -76.658637,
+    40.240311
+],
   "geometry": {"coordinates":[-76.658637,40.240311],"type":"Point"}
 }

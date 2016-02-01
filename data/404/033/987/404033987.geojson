@@ -2,13 +2,14 @@
   "id": 404033987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.786011,39.96471,-76.786011,39.96471",
     "geom:latitude":39.96471,
     "geom:longitude":-76.786011,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2444 Kotur Ave",
     "sg:city":"York",
     "sg:classifiers":[
@@ -41,10 +42,13 @@
     "sg:website":"http://www.richardjacksonspouting.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420540379,
+        102191575,
+        404487953,
         85633793,
         101719479,
-        102080953
+        102080953,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,19 +58,20 @@
     "wof:geomhash":"cd1c7c47c60457a5db65667f5a8512ad",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080953,
+            "localadmin_id":404487953,
             "locality_id":101719479,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420540379,
             "region_id":85688481,
             "venue_id":404033987
         }
     ],
     "wof:id":404033987,
-    "wof:lastmodified":1449039306,
+    "wof:lastmodified":1454356560,
     "wof:name":"Jackson Richard Spouting Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420540379,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -82,6 +87,11 @@
         "replacement"
     ]
 },
-  "bbox": [-76.786011,39.96471,-76.786011,39.96471],
+  "bbox": [
+    -76.786011,
+    39.96471,
+    -76.786011,
+    39.96471
+],
   "geometry": {"coordinates":[-76.786011,39.96471],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404072853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.256407,40.233921,-76.256407,40.233921",
     "geom:latitude":40.233921,
     "geom:longitude":-76.256407,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"525 Hopeland Rd",
     "sg:city":"Stevens",
     "sg:classifiers":[
@@ -44,8 +45,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85811603
+        85811603,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,17 +56,15 @@
     "wof:geomhash":"c832ed4d71ef63cc3c57cae44f4d3f48",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85811603,
             "region_id":85688481,
             "venue_id":404072853
         }
     ],
     "wof:id":404072853,
-    "wof:lastmodified":1449039768,
+    "wof:lastmodified":1454356784,
     "wof:name":"Womer John",
     "wof:parent_id":85811603,
     "wof:placetype":"venue",
@@ -80,6 +79,11 @@
         "bicycles-renting"
     ]
 },
-  "bbox": [-76.256407,40.233921,-76.256407,40.233921],
+  "bbox": [
+    -76.256407,
+    40.233921,
+    -76.256407,
+    40.233921
+],
   "geometry": {"coordinates":[-76.256407,40.233921],"type":"Point"}
 }

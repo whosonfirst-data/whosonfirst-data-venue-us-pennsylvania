@@ -2,13 +2,14 @@
   "id": 387702843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.872817,40.761441,-79.872817,40.761441",
     "geom:latitude":40.761441,
     "geom:longitude":-79.872817,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"124 Reay Ln",
     "sg:city":"Butler",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102083677,
-        85845445
+        85845445,
+        102083677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"ad9fe54ca4d69c1acfb51b30149a9d97",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102083677,
-            "locality_id":-1,
             "neighbourhood_id":85845445,
             "region_id":85688481,
             "venue_id":387702843
         }
     ],
     "wof:id":387702843,
-    "wof:lastmodified":1449058005,
+    "wof:lastmodified":1454360649,
     "wof:name":"Reay Trucking",
     "wof:parent_id":85845445,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "trucking"
     ]
 },
-  "bbox": [-79.872817,40.761441,-79.872817,40.761441],
+  "bbox": [
+    -79.872817,
+    40.761441,
+    -79.872817,
+    40.761441
+],
   "geometry": {"coordinates":[-79.872817,40.761441],"type":"Point"}
 }

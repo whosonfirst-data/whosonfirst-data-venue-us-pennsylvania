@@ -2,13 +2,14 @@
   "id": 404075491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.359531,40.054165,-76.359531,40.054165",
     "geom:latitude":40.054165,
     "geom:longitude":-76.359531,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"805 Rohrerstown Rd",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -63,8 +64,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85810787
+        85810787,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,17 +75,15 @@
     "wof:geomhash":"c075a49c78eb6175dc16cb4e89ac5492",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85810787,
             "region_id":85688481,
             "venue_id":404075491
         }
     ],
     "wof:id":404075491,
-    "wof:lastmodified":1449039788,
+    "wof:lastmodified":1454356801,
     "wof:name":"Minuteman Press",
     "wof:parent_id":85810787,
     "wof:placetype":"venue",
@@ -107,6 +106,11 @@
         "plotting"
     ]
 },
-  "bbox": [-76.359531,40.054165,-76.359531,40.054165],
+  "bbox": [
+    -76.359531,
+    40.054165,
+    -76.359531,
+    40.054165
+],
   "geometry": {"coordinates":[-76.359531,40.054165],"type":"Point"}
 }

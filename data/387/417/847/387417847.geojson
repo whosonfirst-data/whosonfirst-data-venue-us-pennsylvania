@@ -2,13 +2,14 @@
   "id": 387417847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.001297,40.438099,-80.001297,40.438099",
     "geom:latitude":40.438099,
     "geom:longitude":-80.001297,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"330 Blvd of the Allies",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -25,11 +26,13 @@
     "sg:website":"www.ymcaofpittsburgh.org/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85873585,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85873585
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +42,10 @@
     "wof:geomhash":"996a91a776ceeee4036d01dc26b3edfc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85873585,
             "region_id":85688481,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":387417847,
-    "wof:lastmodified":1449057661,
+    "wof:lastmodified":1454360549,
     "wof:name":"YMCA of Pittsburgh",
     "wof:parent_id":85873585,
     "wof:placetype":"venue",
@@ -57,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.001297,40.438099,-80.001297,40.438099],
-  "geometry": {"coordinates":[-80.001297,40.438099],"type":"Point"}
+  "bbox": [
+    -80.001297,
+    40.438099,
+    -80.001297,
+    40.438099
+],
+  "geometry": {"coordinates":[-80.00129699999999,40.438099],"type":"Point"}
 }

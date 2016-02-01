@@ -2,13 +2,14 @@
   "id": 403743961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.956001,40.276901,-76.956001,40.276901",
     "geom:latitude":40.276901,
     "geom:longitude":-76.956001,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3505 Sullivan St",
     "sg:city":"Mechanicsburg",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081359,
-        85822223
+        85822223,
+        102081359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"18b8d4abda86729cfd1af3096fe20eb2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081359,
-            "locality_id":-1,
             "neighbourhood_id":85822223,
             "region_id":85688481,
             "venue_id":403743961
         }
     ],
     "wof:id":403743961,
-    "wof:lastmodified":1449055952,
+    "wof:lastmodified":1454357974,
     "wof:name":"M L Acri Inc",
     "wof:parent_id":85822223,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "contractor"
     ]
 },
-  "bbox": [-76.956001,40.276901,-76.956001,40.276901],
+  "bbox": [
+    -76.956001,
+    40.276901,
+    -76.956001,
+    40.276901
+],
   "geometry": {"coordinates":[-76.956001,40.276901],"type":"Point"}
 }

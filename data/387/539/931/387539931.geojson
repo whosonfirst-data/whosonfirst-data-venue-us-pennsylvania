@@ -2,13 +2,14 @@
   "id": 387539931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.213239,40.190237,-80.213239,40.190237",
     "geom:latitude":40.190237,
     "geom:longitude":-80.213239,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"995 Manifold Rd",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -39,8 +40,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081343,
-        85832105
+        85832105,
+        102081343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,17 +51,15 @@
     "wof:geomhash":"5e45454b3810785d2b6d83d30a454c6e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081343,
-            "locality_id":-1,
             "neighbourhood_id":85832105,
             "region_id":85688481,
             "venue_id":387539931
         }
     ],
     "wof:id":387539931,
-    "wof:lastmodified":1449059997,
+    "wof:lastmodified":1454361256,
     "wof:name":"The Bartusiak Group",
     "wof:parent_id":85832105,
     "wof:placetype":"venue",
@@ -75,6 +74,11 @@
         "oral"
     ]
 },
-  "bbox": [-80.213239,40.190237,-80.213239,40.190237],
+  "bbox": [
+    -80.213239,
+    40.190237,
+    -80.213239,
+    40.190237
+],
   "geometry": {"coordinates":[-80.213239,40.190237],"type":"Point"}
 }

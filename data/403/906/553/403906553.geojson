@@ -2,13 +2,14 @@
   "id": 403906553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.774275,40.320507,-76.774275,40.320507",
     "geom:latitude":40.320507,
     "geom:longitude":-76.774275,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"108 Koch Ln",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420537733,
+        102191575,
+        404486185,
         85633793,
-        101719819,
-        102081347
+        101719817,
+        102081347,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"02f4586d34306e54f21f47e22318b83e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":101719819,
-            "neighbourhood_id":-1,
+            "localadmin_id":404486185,
+            "locality_id":101719817,
+            "neighbourhood_id":420537733,
             "region_id":85688481,
             "venue_id":403906553
         }
     ],
     "wof:id":403906553,
-    "wof:lastmodified":1449055126,
+    "wof:lastmodified":1454357485,
     "wof:name":"Rk Systems Inc.",
-    "wof:parent_id":-1,
+    "wof:parent_id":420537733,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "kitchen"
     ]
 },
-  "bbox": [-76.774275,40.320507,-76.774275,40.320507],
+  "bbox": [
+    -76.774275,
+    40.320507,
+    -76.774275,
+    40.320507
+],
   "geometry": {"coordinates":[-76.774275,40.320507],"type":"Point"}
 }

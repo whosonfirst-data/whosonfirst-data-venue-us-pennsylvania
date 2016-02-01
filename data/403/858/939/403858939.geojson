@@ -2,13 +2,14 @@
   "id": 403858939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.844232,40.278086,-76.844232,40.278086",
     "geom:latitude":40.278086,
     "geom:longitude":-76.844232,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2900 Canby St",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85850427,
+        102191575,
+        404486197,
         85633793,
-        101719811,
+        101717715,
         102081347,
-        85850427
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +41,18 @@
     "wof:geomhash":"b0fe564a892b576689d75190120acdaa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":101719811,
+            "localadmin_id":404486197,
+            "locality_id":101717715,
             "neighbourhood_id":85850427,
             "region_id":85688481,
             "venue_id":403858939
         }
     ],
     "wof:id":403858939,
-    "wof:lastmodified":1449054771,
+    "wof:lastmodified":1454357272,
     "wof:name":"Ace Sports Sales",
     "wof:parent_id":85850427,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.844232,40.278086,-76.844232,40.278086],
-  "geometry": {"coordinates":[-76.844232,40.278086],"type":"Point"}
+  "bbox": [
+    -76.844232,
+    40.278086,
+    -76.844232,
+    40.278086
+],
+  "geometry": {"coordinates":[-76.84423200000001,40.278086],"type":"Point"}
 }

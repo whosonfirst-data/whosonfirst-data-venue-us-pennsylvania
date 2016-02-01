@@ -2,13 +2,14 @@
   "id": 404154053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.159311,40.856344,-75.159311,40.856344",
     "geom:latitude":40.856344,
     "geom:longitude":-75.159311,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"88 Cedar Rd",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -39,8 +40,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081395,
-        85851101
+        85851101,
+        102081395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,17 +51,15 @@
     "wof:geomhash":"014ad8e01bfcac674ec29f12696590da",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081395,
-            "locality_id":-1,
             "neighbourhood_id":85851101,
             "region_id":85688481,
             "venue_id":404154053
         }
     ],
     "wof:id":404154053,
-    "wof:lastmodified":1449040339,
+    "wof:lastmodified":1454357143,
     "wof:name":"Friendly Tree Service",
     "wof:parent_id":85851101,
     "wof:placetype":"venue",
@@ -74,6 +73,11 @@
         "landscape"
     ]
 },
-  "bbox": [-75.159311,40.856344,-75.159311,40.856344],
+  "bbox": [
+    -75.159311,
+    40.856344,
+    -75.159311,
+    40.856344
+],
   "geometry": {"coordinates":[-75.159311,40.856344],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403869665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.823303,40.291302,-76.823303,40.291302",
     "geom:latitude":40.291302,
     "geom:longitude":-76.823303,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4129 Locust Ln",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85843183,
+        102191575,
+        404486305,
         85633793,
         101719821,
         102081347,
-        85843183
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"111847a729a90e562be0cccb8c31ab20",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
+            "localadmin_id":404486305,
             "locality_id":101719821,
             "neighbourhood_id":85843183,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":403869665,
-    "wof:lastmodified":1449055856,
+    "wof:lastmodified":1454357912,
     "wof:name":"Carver Ken DDS",
     "wof:parent_id":85843183,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "oral"
     ]
 },
-  "bbox": [-76.823303,40.291302,-76.823303,40.291302],
+  "bbox": [
+    -76.823303,
+    40.291302,
+    -76.823303,
+    40.291302
+],
   "geometry": {"coordinates":[-76.823303,40.291302],"type":"Point"}
 }

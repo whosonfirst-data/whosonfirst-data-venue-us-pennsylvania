@@ -2,13 +2,14 @@
   "id": 387446559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.050392,40.357509,-80.050392,40.357509",
     "geom:latitude":40.357509,
     "geom:longitude":-80.050392,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1500 Washington Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85821223
+        85821223,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"c9fcb7c9c3c92154c1b4c6ae82703f01",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85821223,
             "region_id":85688481,
             "venue_id":387446559
         }
     ],
     "wof:id":387446559,
-    "wof:lastmodified":1449059593,
+    "wof:lastmodified":1454361131,
     "wof:name":"Mitchell's Fish Market",
     "wof:parent_id":85821223,
     "wof:placetype":"venue",
@@ -61,6 +60,11 @@
         "seafood"
     ]
 },
-  "bbox": [-80.050392,40.357509,-80.050392,40.357509],
+  "bbox": [
+    -80.050392,
+    40.357509,
+    -80.050392,
+    40.357509
+],
   "geometry": {"coordinates":[-80.050392,40.357509],"type":"Point"}
 }

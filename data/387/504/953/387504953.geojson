@@ -2,13 +2,14 @@
   "id": 387504953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.015007,40.530979,-80.015007,40.530979",
     "geom:latitude":40.530979,
     "geom:longitude":-80.015007,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"340 Siebert Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85805835
+        85805835,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"b509749588a82effab9482674d670b0a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85805835,
             "region_id":85688481,
             "venue_id":387504953
         }
     ],
     "wof:id":387504953,
-    "wof:lastmodified":1449056770,
+    "wof:lastmodified":1454358594,
     "wof:name":"George A Reed Insurance",
     "wof:parent_id":85805835,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "business"
     ]
 },
-  "bbox": [-80.015007,40.530979,-80.015007,40.530979],
+  "bbox": [
+    -80.015007,
+    40.530979,
+    -80.015007,
+    40.530979
+],
   "geometry": {"coordinates":[-80.015007,40.530979],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387438589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.986499,40.377416,-79.986499,40.377416",
     "geom:latitude":40.377416,
     "geom:longitude":-79.986499,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2919 Saw Mill Run Blvd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"www.familyvideo.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85839961,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85839961
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"1c180a907b54deaadf97c022c3393eab",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85839961,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387438589,
-    "wof:lastmodified":1449057386,
+    "wof:lastmodified":1454359082,
     "wof:name":"Family Video",
     "wof:parent_id":85839961,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "video"
     ]
 },
-  "bbox": [-79.986499,40.377416,-79.986499,40.377416],
-  "geometry": {"coordinates":[-79.986499,40.377416],"type":"Point"}
+  "bbox": [
+    -79.986499,
+    40.377416,
+    -79.986499,
+    40.377416
+],
+  "geometry": {"coordinates":[-79.98649899999999,40.377416],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387619195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.516881,40.289538,-79.516881,40.289538",
     "geom:latitude":40.289538,
     "geom:longitude":-79.516881,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"122 Saint Ives Dr",
     "sg:city":"Greensburg",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081383,
-        85851151
+        85851151,
+        102081383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"f07ffa501bdd2f10a908d056059d7c1f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":-1,
             "neighbourhood_id":85851151,
             "region_id":85688481,
             "venue_id":387619195
         }
     ],
     "wof:id":387619195,
-    "wof:lastmodified":1449056786,
+    "wof:lastmodified":1454358607,
     "wof:name":"St Ives Assoc Inc",
     "wof:parent_id":85851151,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "consultant"
     ]
 },
-  "bbox": [-79.516881,40.289538,-79.516881,40.289538],
+  "bbox": [
+    -79.516881,
+    40.289538,
+    -79.516881,
+    40.289538
+],
   "geometry": {"coordinates":[-79.516881,40.289538],"type":"Point"}
 }

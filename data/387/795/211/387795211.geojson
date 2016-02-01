@@ -2,13 +2,14 @@
   "id": 387795211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.580738,41.586849,-79.580738,41.586849",
     "geom:latitude":41.586849,
     "geom:longitude":-79.580738,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"273 N Main St",
     "sg:city":"Pleasantville",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081279,
-        85842087
+        85842087,
+        102081279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"a70c948f8312f2be0d8d8fce272ec76d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081279,
-            "locality_id":-1,
             "neighbourhood_id":85842087,
             "region_id":85688481,
             "venue_id":387795211
         }
     ],
     "wof:id":387795211,
-    "wof:lastmodified":1449058358,
+    "wof:lastmodified":1454360757,
     "wof:name":"Independent Baptist Church",
     "wof:parent_id":85842087,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "churches-baptist"
     ]
 },
-  "bbox": [-79.580738,41.586849,-79.580738,41.586849],
+  "bbox": [
+    -79.580738,
+    41.586849,
+    -79.580738,
+    41.586849
+],
   "geometry": {"coordinates":[-79.580738,41.586849],"type":"Point"}
 }

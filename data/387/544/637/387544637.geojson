@@ -2,13 +2,14 @@
   "id": 387544637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.252494,40.16976,-80.252494,40.16976",
     "geom:latitude":40.16976,
     "geom:longitude":-80.252494,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"351 W Beau St Ste 300",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -37,11 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85852963,
+        102191575,
+        404487917,
         85633793,
         101718569,
         102081343,
-        85852963
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,9 +54,10 @@
     "wof:geomhash":"916d5a7a8ace759bbf6ab789b95404f1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081343,
+            "localadmin_id":404487917,
             "locality_id":101718569,
             "neighbourhood_id":85852963,
             "region_id":85688481,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":387544637,
-    "wof:lastmodified":1449059912,
+    "wof:lastmodified":1454361231,
     "wof:name":"Home Health Service of Washington Hospital",
     "wof:parent_id":85852963,
     "wof:placetype":"venue",
@@ -71,6 +75,11 @@
         "medical"
     ]
 },
-  "bbox": [-80.252494,40.16976,-80.252494,40.16976],
+  "bbox": [
+    -80.252494,
+    40.16976,
+    -80.252494,
+    40.16976
+],
   "geometry": {"coordinates":[-80.252494,40.16976],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404026709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.727292,39.979034,-76.727292,39.979034",
     "geom:latitude":39.979034,
     "geom:longitude":-76.727292,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"333 E 7th Ave Ste 1",
     "sg:city":"York",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85819331,
+        102191575,
+        404488029,
         85633793,
+        101717279,
         102080953,
-        85819331
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +47,18 @@
     "wof:geomhash":"6d4929a37f62737d070772d795c031df",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
+            "localadmin_id":404488029,
+            "locality_id":101717279,
             "neighbourhood_id":85819331,
             "region_id":85688481,
             "venue_id":404026709
         }
     ],
     "wof:id":404026709,
-    "wof:lastmodified":1449039824,
+    "wof:lastmodified":1454356825,
     "wof:name":"Perform Group",
     "wof:parent_id":85819331,
     "wof:placetype":"venue",
@@ -66,6 +71,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-76.727292,39.979034,-76.727292,39.979034],
-  "geometry": {"coordinates":[-76.727292,39.979034],"type":"Point"}
+  "bbox": [
+    -76.727292,
+    39.979034,
+    -76.727292,
+    39.979034
+],
+  "geometry": {"coordinates":[-76.72729200000001,39.979034],"type":"Point"}
 }

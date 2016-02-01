@@ -2,13 +2,14 @@
   "id": 404057867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.30414,40.156674,-76.30414,40.156674",
     "geom:latitude":40.156674,
     "geom:longitude":-76.30414,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"110 E Main St",
     "sg:city":"Lititz",
     "sg:classifiers":[
@@ -37,8 +38,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85834405
+        85834405,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +49,15 @@
     "wof:geomhash":"ab21caf4b7c2cc63412cfcd3be0a46db",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85834405,
             "region_id":85688481,
             "venue_id":404057867
         }
     ],
     "wof:id":404057867,
-    "wof:lastmodified":1449039632,
+    "wof:lastmodified":1454356744,
     "wof:name":"Seasons By Kathy",
     "wof:parent_id":85834405,
     "wof:placetype":"venue",
@@ -71,6 +70,11 @@
         "facility"
     ]
 },
-  "bbox": [-76.30414,40.156674,-76.30414,40.156674],
+  "bbox": [
+    -76.30414,
+    40.156674,
+    -76.30414,
+    40.156674
+],
   "geometry": {"coordinates":[-76.30414,40.156674],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387551911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.170097,40.280499,-80.170097,40.280499",
     "geom:latitude":40.280499,
     "geom:longitude":-80.170097,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"135 Technology Dr Ste 100",
     "sg:city":"Canonsburg",
     "sg:classifiers":[
@@ -27,7 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420539915,
+        102191575,
+        404487735,
         85633793,
+        101720271,
+        102081343,
         85688481
     ],
     "wof:breaches":[],
@@ -38,18 +44,20 @@
     "wof:geomhash":"1af6ad8ea842fb1cb6dd097b3b11a243",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081343,
+            "localadmin_id":404487735,
+            "locality_id":101720271,
+            "neighbourhood_id":420539915,
             "region_id":85688481,
             "venue_id":387551911
         }
     ],
     "wof:id":387551911,
-    "wof:lastmodified":1449056862,
+    "wof:lastmodified":1454358662,
     "wof:name":"Kidzville Learning & Child Care Center",
-    "wof:parent_id":-1,
+    "wof:parent_id":420539915,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +65,11 @@
         "day"
     ]
 },
-  "bbox": [-80.170097,40.280499,-80.170097,40.280499],
+  "bbox": [
+    -80.170097,
+    40.280499,
+    -80.170097,
+    40.280499
+],
   "geometry": {"coordinates":[-80.170097,40.280499],"type":"Point"}
 }

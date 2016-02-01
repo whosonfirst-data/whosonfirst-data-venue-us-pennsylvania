@@ -2,13 +2,14 @@
   "id": 387586797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.733257,39.89256,-79.733257,39.89256",
     "geom:latitude":39.89256,
     "geom:longitude":-79.733257,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"315 Morgantown St",
     "sg:city":"Uniontown",
     "sg:classifiers":[
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85850161,
+        102191575,
+        404487055,
         85633793,
+        101719799,
         102080959,
-        85850161
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +49,18 @@
     "wof:geomhash":"f85dd4be30f825a3ce49f54b38b8c928",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080959,
-            "locality_id":-1,
+            "localadmin_id":404487055,
+            "locality_id":101719799,
             "neighbourhood_id":85850161,
             "region_id":85688481,
             "venue_id":387586797
         }
     ],
     "wof:id":387586797,
-    "wof:lastmodified":1449059484,
+    "wof:lastmodified":1454361096,
     "wof:name":"Stokes Sharon C",
     "wof:parent_id":85850161,
     "wof:placetype":"venue",
@@ -70,6 +75,11 @@
         "dentists-implantology"
     ]
 },
-  "bbox": [-79.733257,39.89256,-79.733257,39.89256],
-  "geometry": {"coordinates":[-79.733257,39.89256],"type":"Point"}
+  "bbox": [
+    -79.733257,
+    39.89256,
+    -79.733257,
+    39.89256
+],
+  "geometry": {"coordinates":[-79.73325699999999,39.89256],"type":"Point"}
 }

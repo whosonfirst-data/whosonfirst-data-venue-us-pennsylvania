@@ -2,13 +2,14 @@
   "id": 387165891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.889211,40.159562,-79.889211,40.159562",
     "geom:latitude":40.159562,
     "geom:longitude":-79.889211,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"619 Reed Avenue",
     "sg:city":"Monessen",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"www.shortbreadcity.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85816095,
+        102191575,
+        404487505,
         85633793,
-        101718539,
-        102081343,
-        85816095
+        101717153,
+        102081383,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"506f54933227384b94f7c6a5488acf03",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081343,
-            "locality_id":101718539,
+            "county_id":102081383,
+            "localadmin_id":404487505,
+            "locality_id":101717153,
             "neighbourhood_id":85816095,
             "region_id":85688481,
             "venue_id":387165891
         }
     ],
     "wof:id":387165891,
-    "wof:lastmodified":1449059927,
+    "wof:lastmodified":1454361235,
     "wof:name":"Shortbread City",
     "wof:parent_id":85816095,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "dessert"
     ]
 },
-  "bbox": [-79.889211,40.159562,-79.889211,40.159562],
+  "bbox": [
+    -79.889211,
+    40.159562,
+    -79.889211,
+    40.159562
+],
   "geometry": {"coordinates":[-79.889211,40.159562],"type":"Point"}
 }

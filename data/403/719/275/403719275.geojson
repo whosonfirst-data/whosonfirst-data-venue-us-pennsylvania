@@ -2,13 +2,14 @@
   "id": 403719275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.43943,40.338249,-76.43943,40.338249",
     "geom:latitude":40.338249,
     "geom:longitude":-76.43943,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1598 Cumberland St",
     "sg:city":"Lebanon",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     "sg:website":"http://citi.bridgetrack.com/citifi/_redir.htm?BTData=302177C736961705A55424AB8BEBEABA298948493FBFBF6E9EAC5C2DECE67BE2&BT_TRF=10467&RedirectID=YLLWPGS_US_CTGRY_TRD_LNK_FNCL_SRVCS_CPC&creativeID=YP_Link",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85842249,
+        102191575,
+        404485699,
         85633793,
         101717093,
         102081341,
-        85842249
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"1a262fffd693324b1811c2cc452ef1a4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081341,
+            "localadmin_id":404485699,
             "locality_id":101717093,
             "neighbourhood_id":85842249,
             "region_id":85688481,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":403719275,
-    "wof:lastmodified":1449054794,
+    "wof:lastmodified":1454357285,
     "wof:name":"CitiFinancial",
     "wof:parent_id":85842249,
     "wof:placetype":"venue",
@@ -69,6 +73,11 @@
         "loan"
     ]
 },
-  "bbox": [-76.43943,40.338249,-76.43943,40.338249],
+  "bbox": [
+    -76.43943,
+    40.338249,
+    -76.43943,
+    40.338249
+],
   "geometry": {"coordinates":[-76.43943,40.338249],"type":"Point"}
 }

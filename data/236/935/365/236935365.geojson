@@ -2,13 +2,14 @@
   "id": 236935365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.542874,41.041361,-80.542874,41.041361",
     "geom:latitude":41.041361,
     "geom:longitude":-80.542874,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"369 W Wood St",
     "sg:city":"Lowellville",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080929,
-        85845265
+        85845265,
+        102080929
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"3c02212b91a86e22307570ba07f7a391",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080929,
-            "locality_id":-1,
             "neighbourhood_id":85845265,
             "region_id":85688481,
             "venue_id":236935365
         }
     ],
     "wof:id":236935365,
-    "wof:lastmodified":1449004539,
+    "wof:lastmodified":1454356362,
     "wof:name":"Aluminum Color Ind Inc",
     "wof:parent_id":85845265,
     "wof:placetype":"venue",
@@ -64,6 +63,11 @@
         "aluminum"
     ]
 },
-  "bbox": [-80.542874,41.041361,-80.542874,41.041361],
+  "bbox": [
+    -80.542874,
+    41.041361,
+    -80.542874,
+    41.041361
+],
   "geometry": {"coordinates":[-80.542874,41.041361],"type":"Point"}
 }

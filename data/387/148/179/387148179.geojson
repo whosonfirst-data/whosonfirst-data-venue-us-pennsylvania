@@ -2,13 +2,14 @@
   "id": 387148179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.976013,40.628077,-79.976013,40.628077",
     "geom:latitude":40.628077,
     "geom:longitude":-79.976013,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5426 Hardt Rd",
     "sg:city":"Gibsonia",
     "sg:classifiers":[
@@ -35,10 +36,13 @@
     "sg:website":"http://frequencyelectric.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536325,
+        102191575,
+        404484173,
         85633793,
         101720497,
-        102080887
+        102080887,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +52,20 @@
     "wof:geomhash":"d72b961279891f7607ff5f9f934d2575",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484173,
             "locality_id":101720497,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420536325,
             "region_id":85688481,
             "venue_id":387148179
         }
     ],
     "wof:id":387148179,
-    "wof:lastmodified":1449059333,
+    "wof:lastmodified":1454361044,
     "wof:name":"Frequency Electric, Inc.",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536325,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -70,6 +75,11 @@
         "electric"
     ]
 },
-  "bbox": [-79.976013,40.628077,-79.976013,40.628077],
-  "geometry": {"coordinates":[-79.976013,40.628077],"type":"Point"}
+  "bbox": [
+    -79.976013,
+    40.628077,
+    -79.976013,
+    40.628077
+],
+  "geometry": {"coordinates":[-79.97601299999999,40.628077],"type":"Point"}
 }

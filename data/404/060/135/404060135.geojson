@@ -2,13 +2,14 @@
   "id": 404060135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.307182,40.153198,-76.307182,40.153198",
     "geom:latitude":40.153198,
     "geom:longitude":-76.307182,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"201 S Broad St",
     "sg:city":"Lititz",
     "sg:classifiers":[
@@ -43,8 +44,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85834405
+        85834405,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,17 +55,15 @@
     "wof:geomhash":"8870977dc997c6606433c9dfdcd55ff7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85834405,
             "region_id":85688481,
             "venue_id":404060135
         }
     ],
     "wof:id":404060135,
-    "wof:lastmodified":1449040220,
+    "wof:lastmodified":1454357072,
     "wof:name":"The Upholstery & Interior Center",
     "wof:parent_id":85834405,
     "wof:placetype":"venue",
@@ -78,6 +77,11 @@
         "upholsterer"
     ]
 },
-  "bbox": [-76.307182,40.153198,-76.307182,40.153198],
+  "bbox": [
+    -76.307182,
+    40.153198,
+    -76.307182,
+    40.153198
+],
   "geometry": {"coordinates":[-76.307182,40.153198],"type":"Point"}
 }

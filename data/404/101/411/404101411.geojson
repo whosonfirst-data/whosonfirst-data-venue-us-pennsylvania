@@ -2,13 +2,14 @@
   "id": 404101411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.994568,41.233345,-76.994568,41.233345",
     "geom:latitude":41.233345,
     "geom:longitude":-76.994568,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"309 S Market St Frnt",
     "sg:city":"Williamsport",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     "sg:website":"http://www.moyerinsuranceagency.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85802799,
+        102191575,
+        404485355,
         85633793,
-        101716811,
+        101716809,
         102081317,
-        85802799
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +51,18 @@
     "wof:geomhash":"1c9c8c5494dcd8766faac1489d9a4e26",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081317,
-            "locality_id":101716811,
+            "localadmin_id":404485355,
+            "locality_id":101716809,
             "neighbourhood_id":85802799,
             "region_id":85688481,
             "venue_id":404101411
         }
     ],
     "wof:id":404101411,
-    "wof:lastmodified":1449039751,
+    "wof:lastmodified":1454356776,
     "wof:name":"Moyer Insurance Agency Inc",
     "wof:parent_id":85802799,
     "wof:placetype":"venue",
@@ -69,6 +73,11 @@
         "resume"
     ]
 },
-  "bbox": [-76.994568,41.233345,-76.994568,41.233345],
+  "bbox": [
+    -76.994568,
+    41.233345,
+    -76.994568,
+    41.233345
+],
   "geometry": {"coordinates":[-76.994568,41.233345],"type":"Point"}
 }

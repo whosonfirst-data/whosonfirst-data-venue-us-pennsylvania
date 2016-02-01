@@ -2,13 +2,14 @@
   "id": 403710845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.713089,40.264999,-76.713089,40.264999",
     "geom:latitude":40.264999,
     "geom:longitude":-76.713089,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"248 W Main St",
     "sg:city":"Hummelstown",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85842349,
+        102191575,
+        404486175,
         85633793,
+        101717689,
         102081347,
-        85842349
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +44,18 @@
     "wof:geomhash":"adeabf6b4bfc1b221acaddf210755344",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
+            "localadmin_id":404486175,
+            "locality_id":101717689,
             "neighbourhood_id":85842349,
             "region_id":85688481,
             "venue_id":403710845
         }
     ],
     "wof:id":403710845,
-    "wof:lastmodified":1449054707,
+    "wof:lastmodified":1454357232,
     "wof:name":"Robert Mark Smith",
     "wof:parent_id":85842349,
     "wof:placetype":"venue",
@@ -60,6 +65,11 @@
         "sculptor"
     ]
 },
-  "bbox": [-76.713089,40.264999,-76.713089,40.264999],
+  "bbox": [
+    -76.713089,
+    40.264999,
+    -76.713089,
+    40.264999
+],
   "geometry": {"coordinates":[-76.713089,40.264999],"type":"Point"}
 }

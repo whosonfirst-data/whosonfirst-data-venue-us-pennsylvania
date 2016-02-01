@@ -2,13 +2,14 @@
   "id": 404082991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.281899,40.089515,-76.281899,40.089515",
     "geom:latitude":40.089515,
     "geom:longitude":-76.281899,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2347 Oregon Pike Ste 103",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85829687
+        85829687,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"01503896d4ed0c6d00b8aaf165d00092",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85829687,
             "region_id":85688481,
             "venue_id":404082991
         }
     ],
     "wof:id":404082991,
-    "wof:lastmodified":1449039111,
+    "wof:lastmodified":1454356441,
     "wof:name":"Milan Hair & Spa",
     "wof:parent_id":85829687,
     "wof:placetype":"venue",
@@ -68,6 +67,11 @@
         "stylist"
     ]
 },
-  "bbox": [-76.281899,40.089515,-76.281899,40.089515],
+  "bbox": [
+    -76.281899,
+    40.089515,
+    -76.281899,
+    40.089515
+],
   "geometry": {"coordinates":[-76.281899,40.089515],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404084483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.212271,40.02628,-76.212271,40.02628",
     "geom:latitude":40.02628,
     "geom:longitude":-76.212271,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2300 Lincoln Hwy E",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -39,8 +40,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85823025
+        85823025,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,17 +51,15 @@
     "wof:geomhash":"7b18d11aab263bb3e22d743dff08b806",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85823025,
             "region_id":85688481,
             "venue_id":404084483
         }
     ],
     "wof:id":404084483,
-    "wof:lastmodified":1449039151,
+    "wof:lastmodified":1454356475,
     "wof:name":"Stitches Comedy Club",
     "wof:parent_id":85823025,
     "wof:placetype":"venue",
@@ -74,6 +73,11 @@
         "facility"
     ]
 },
-  "bbox": [-76.212271,40.02628,-76.212271,40.02628],
+  "bbox": [
+    -76.212271,
+    40.02628,
+    -76.212271,
+    40.02628
+],
   "geometry": {"coordinates":[-76.212271,40.02628],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387588495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.728729,39.903759,-79.728729,39.903759",
     "geom:latitude":39.903759,
     "geom:longitude":-79.728729,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"71 N Mount Vernon Ave",
     "sg:city":"Uniontown",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85850161,
+        102191575,
+        404487055,
         85633793,
+        101719799,
         102080959,
-        85850161
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +45,18 @@
     "wof:geomhash":"adb5da859840088409c781f485c1d833",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080959,
-            "locality_id":-1,
+            "localadmin_id":404487055,
+            "locality_id":101719799,
             "neighbourhood_id":85850161,
             "region_id":85688481,
             "venue_id":387588495
         }
     ],
     "wof:id":387588495,
-    "wof:lastmodified":1449059167,
+    "wof:lastmodified":1454361003,
     "wof:name":"Dannolfo Denise CPA",
     "wof:parent_id":85850161,
     "wof:placetype":"venue",
@@ -62,6 +67,11 @@
         "accountants-certified"
     ]
 },
-  "bbox": [-79.728729,39.903759,-79.728729,39.903759],
+  "bbox": [
+    -79.728729,
+    39.903759,
+    -79.728729,
+    39.903759
+],
   "geometry": {"coordinates":[-79.728729,39.903759],"type":"Point"}
 }

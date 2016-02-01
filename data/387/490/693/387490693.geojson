@@ -2,13 +2,14 @@
   "id": 387490693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.981796,40.3596,-79.981796,40.3596",
     "geom:latitude":40.3596,
     "geom:longitude":-79.981796,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4465 Clairton Blvd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"www.roomconcepts.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85839661,
+        102191575,
+        404484247,
         85633793,
         101718705,
         102080887,
-        85839661
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"321633f5fe38f7a788303a7164df1aca",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484247,
             "locality_id":101718705,
             "neighbourhood_id":85839661,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387490693,
-    "wof:lastmodified":1449059528,
+    "wof:lastmodified":1454361108,
     "wof:name":"Room Concepts",
     "wof:parent_id":85839661,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "store"
     ]
 },
-  "bbox": [-79.981796,40.3596,-79.981796,40.3596],
+  "bbox": [
+    -79.981796,
+    40.3596,
+    -79.981796,
+    40.3596
+],
   "geometry": {"coordinates":[-79.981796,40.3596],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404087379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.281548,39.996285,-76.281548,39.996285",
     "geom:latitude":39.996285,
     "geom:longitude":-76.281548,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"206 Willow Valley Sq",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -48,8 +49,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85868493
+        85868493,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,17 +60,15 @@
     "wof:geomhash":"3c96f4e73e2f4194f399392425e8cfc1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85868493,
             "region_id":85688481,
             "venue_id":404087379
         }
     ],
     "wof:id":404087379,
-    "wof:lastmodified":1449039568,
+    "wof:lastmodified":1454356718,
     "wof:name":"Susquehanna Coin Shoppe",
     "wof:parent_id":85868493,
     "wof:placetype":"venue",
@@ -88,6 +87,11 @@
         "card"
     ]
 },
-  "bbox": [-76.281548,39.996285,-76.281548,39.996285],
+  "bbox": [
+    -76.281548,
+    39.996285,
+    -76.281548,
+    39.996285
+],
   "geometry": {"coordinates":[-76.281548,39.996285],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403712387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.56321,40.479176,-76.56321,40.479176",
     "geom:latitude":40.479176,
     "geom:longitude":-76.56321,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"19 Ridge Rd",
     "sg:city":"Jonestown",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081341,
-        85826993
+        85826993,
+        102081341
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"0e87deeadad0d18450863832770ba229",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081341,
-            "locality_id":-1,
             "neighbourhood_id":85826993,
             "region_id":85688481,
             "venue_id":403712387
         }
     ],
     "wof:id":403712387,
-    "wof:lastmodified":1449055208,
+    "wof:lastmodified":1454357535,
     "wof:name":"Tobias Consulting",
     "wof:parent_id":85826993,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "coach"
     ]
 },
-  "bbox": [-76.56321,40.479176,-76.56321,40.479176],
+  "bbox": [
+    -76.56321,
+    40.479176,
+    -76.56321,
+    40.479176
+],
   "geometry": {"coordinates":[-76.56321,40.479176],"type":"Point"}
 }

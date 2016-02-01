@@ -2,13 +2,14 @@
   "id": 387245593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.855141,40.372898,-79.855141,40.372898",
     "geom:latitude":40.372898,
     "geom:longitude":-79.855141,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"110 Seward St",
     "sg:city":"Duquesne",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85842815,
+        102191575,
+        404484883,
         85633793,
         101718721,
         102080887,
-        85842815
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"de4d5355bbcbe508e181031da6ceba33",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484883,
             "locality_id":101718721,
             "neighbourhood_id":85842815,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387245593,
-    "wof:lastmodified":1449059795,
+    "wof:lastmodified":1454361197,
     "wof:name":"Custom Services",
     "wof:parent_id":85842815,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "bureau"
     ]
 },
-  "bbox": [-79.855141,40.372898,-79.855141,40.372898],
+  "bbox": [
+    -79.855141,
+    40.372898,
+    -79.855141,
+    40.372898
+],
   "geometry": {"coordinates":[-79.855141,40.372898],"type":"Point"}
 }

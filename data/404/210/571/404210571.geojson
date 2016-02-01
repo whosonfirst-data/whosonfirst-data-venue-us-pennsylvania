@@ -2,13 +2,14 @@
   "id": 404210571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.423613,40.640503,-75.423613,40.640503",
     "geom:latitude":40.640503,
     "geom:longitude":-75.423613,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2036 Cloverdale Rd",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081327,
-        85838547
+        85838547,
+        102081327
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"18443140bf0f7d2cdb60e0f0f52cc665",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081327,
-            "locality_id":-1,
             "neighbourhood_id":85838547,
             "region_id":85688481,
             "venue_id":404210571
         }
     ],
     "wof:id":404210571,
-    "wof:lastmodified":1449039421,
+    "wof:lastmodified":1454356638,
     "wof:name":"Poczak , William General Home Improvement",
     "wof:parent_id":85838547,
     "wof:placetype":"venue",
@@ -64,6 +63,11 @@
         "contractor"
     ]
 },
-  "bbox": [-75.423613,40.640503,-75.423613,40.640503],
+  "bbox": [
+    -75.423613,
+    40.640503,
+    -75.423613,
+    40.640503
+],
   "geometry": {"coordinates":[-75.423613,40.640503],"type":"Point"}
 }

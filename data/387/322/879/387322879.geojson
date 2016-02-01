@@ -2,13 +2,14 @@
   "id": 387322879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.001029,40.453304,-80.001029,40.453304",
     "geom:latitude":40.453304,
     "geom:longitude":-80.001029,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"425 E Ohio St",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85815883,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85815883
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"0214ffe5870c807265e3f24114791992",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85815883,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387322879,
-    "wof:lastmodified":1449056072,
+    "wof:lastmodified":1454358061,
     "wof:name":"Michelle's",
     "wof:parent_id":85815883,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "women's"
     ]
 },
-  "bbox": [-80.001029,40.453304,-80.001029,40.453304],
+  "bbox": [
+    -80.001029,
+    40.453304,
+    -80.001029,
+    40.453304
+],
   "geometry": {"coordinates":[-80.001029,40.453304],"type":"Point"}
 }

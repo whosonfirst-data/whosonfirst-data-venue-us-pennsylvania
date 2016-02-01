@@ -2,13 +2,14 @@
   "id": 387627467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.566887,40.582481,-79.566887,40.582481",
     "geom:latitude":40.582481,
     "geom:longitude":-79.566887,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"201 N Warren Ave Ste 247",
     "sg:city":"Apollo",
     "sg:classifiers":[
@@ -35,10 +36,13 @@
     "sg:website":"http://www.apollotrust.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536461,
+        102191575,
+        404484281,
         85633793,
-        101718529,
-        102081371
+        101720289,
+        102081371,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +52,20 @@
     "wof:geomhash":"d6cfc7bb03b12d14b75ba53c07bf8a6d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081371,
-            "locality_id":101718529,
-            "neighbourhood_id":-1,
+            "localadmin_id":404484281,
+            "locality_id":101720289,
+            "neighbourhood_id":420536461,
             "region_id":85688481,
             "venue_id":387627467
         }
     ],
     "wof:id":387627467,
-    "wof:lastmodified":1449060002,
+    "wof:lastmodified":1454361257,
     "wof:name":"Apollo Trust Company",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536461,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -70,6 +75,11 @@
         "saving"
     ]
 },
-  "bbox": [-79.566887,40.582481,-79.566887,40.582481],
-  "geometry": {"coordinates":[-79.566887,40.582481],"type":"Point"}
+  "bbox": [
+    -79.566887,
+    40.582481,
+    -79.566887,
+    40.582481
+],
+  "geometry": {"coordinates":[-79.56688699999999,40.582481],"type":"Point"}
 }

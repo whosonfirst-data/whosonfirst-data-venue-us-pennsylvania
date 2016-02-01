@@ -2,13 +2,14 @@
   "id": 387535649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.124542,40.429508,-80.124542,40.429508",
     "geom:latitude":40.429508,
     "geom:longitude":-80.124542,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2 Penn Ctr W Ste 120",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -33,8 +34,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85821263
+        85821263,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +45,15 @@
     "wof:geomhash":"2049c12ad8d1b16235c3369d661ec882",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85821263,
             "region_id":85688481,
             "venue_id":387535649
         }
     ],
     "wof:id":387535649,
-    "wof:lastmodified":1449056787,
+    "wof:lastmodified":1454358612,
     "wof:name":"Atea Wk Usa Inc",
     "wof:parent_id":85821263,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "air"
     ]
 },
-  "bbox": [-80.124542,40.429508,-80.124542,40.429508],
-  "geometry": {"coordinates":[-80.124542,40.429508],"type":"Point"}
+  "bbox": [
+    -80.124542,
+    40.429508,
+    -80.124542,
+    40.429508
+],
+  "geometry": {"coordinates":[-80.12454200000001,40.429508],"type":"Point"}
 }

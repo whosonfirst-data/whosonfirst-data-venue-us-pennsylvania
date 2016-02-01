@@ -2,13 +2,14 @@
   "id": 387864461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.571396,40.193066,-78.571396,40.193066",
     "geom:latitude":40.193066,
     "geom:longitude":-78.571396,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"7987 King Saint Clair Rd",
     "sg:city":"Osterburg",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080939,
-        85850607
+        85850607,
+        102080939
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"79b429568fce2ecbdf92c433dad77beb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080939,
-            "locality_id":-1,
             "neighbourhood_id":85850607,
             "region_id":85688481,
             "venue_id":387864461
         }
     ],
     "wof:id":387864461,
-    "wof:lastmodified":1449059966,
+    "wof:lastmodified":1454361246,
     "wof:name":"Eric Weaverling Md",
     "wof:parent_id":85850607,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-78.571396,40.193066,-78.571396,40.193066],
-  "geometry": {"coordinates":[-78.571396,40.193066],"type":"Point"}
+  "bbox": [
+    -78.571396,
+    40.193066,
+    -78.571396,
+    40.193066
+],
+  "geometry": {"coordinates":[-78.57139599999999,40.193066],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403727919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.892502,40.245201,-76.892502,40.245201",
     "geom:latitude":40.245201,
     "geom:longitude":-76.892502,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"101 S 3rd St",
     "sg:city":"Lemoyne",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85820057,
+        102191575,
+        404483155,
         85633793,
         101716771,
         102081359,
-        85820057
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"b221ef756dbc26c041579889b2eeec3f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081359,
+            "localadmin_id":404483155,
             "locality_id":101716771,
             "neighbourhood_id":85820057,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":403727919,
-    "wof:lastmodified":1449054829,
+    "wof:lastmodified":1454357308,
     "wof:name":"Eclipse",
     "wof:parent_id":85820057,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "hair"
     ]
 },
-  "bbox": [-76.892502,40.245201,-76.892502,40.245201],
-  "geometry": {"coordinates":[-76.892502,40.245201],"type":"Point"}
+  "bbox": [
+    -76.892502,
+    40.245201,
+    -76.892502,
+    40.245201
+],
+  "geometry": {"coordinates":[-76.89250199999999,40.245201],"type":"Point"}
 }

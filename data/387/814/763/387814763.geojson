@@ -2,13 +2,14 @@
   "id": 387814763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.270698,42.046865,-80.270698,42.046865",
     "geom:latitude":42.046865,
     "geom:longitude":-80.270698,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1500 Avonia Rd",
     "sg:city":"Fairview",
     "sg:classifiers":[
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420537901,
+        102191575,
+        404486675,
         85633793,
         101720199,
-        102080955
+        102080955,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,20 @@
     "wof:geomhash":"377320f5921a70bc053d3a47f93d14b3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080955,
+            "localadmin_id":404486675,
             "locality_id":101720199,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420537901,
             "region_id":85688481,
             "venue_id":387814763
         }
     ],
     "wof:id":387814763,
-    "wof:lastmodified":1449056798,
+    "wof:lastmodified":1454358618,
     "wof:name":"J L Silka Trucking",
-    "wof:parent_id":-1,
+    "wof:parent_id":420537901,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -69,6 +74,11 @@
         "trucking"
     ]
 },
-  "bbox": [-80.270698,42.046865,-80.270698,42.046865],
+  "bbox": [
+    -80.270698,
+    42.046865,
+    -80.270698,
+    42.046865
+],
   "geometry": {"coordinates":[-80.270698,42.046865],"type":"Point"}
 }

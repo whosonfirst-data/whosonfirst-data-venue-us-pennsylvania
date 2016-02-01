@@ -2,13 +2,14 @@
   "id": 387391777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.033652,40.445792,-80.033652,40.445792",
     "geom:latitude":40.445792,
     "geom:longitude":-80.033652,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"599 Fairview Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85817839,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85817839
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"ecbc43111547da4b0257f355da49b5bd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85817839,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387391777,
-    "wof:lastmodified":1449058542,
+    "wof:lastmodified":1454360809,
     "wof:name":"West End - Elliott Overlook",
     "wof:parent_id":85817839,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "local"
     ]
 },
-  "bbox": [-80.033652,40.445792,-80.033652,40.445792],
+  "bbox": [
+    -80.033652,
+    40.445792,
+    -80.033652,
+    40.445792
+],
   "geometry": {"coordinates":[-80.033652,40.445792],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387339701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.208899,39.947553,-75.208899,39.947553",
     "geom:latitude":39.947553,
     "geom:longitude":-75.208899,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1109 S Braddock Ave",
     "sg:city":"Regent Square",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"www.thegreenmango.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85850813,
+        102191575,
+        404483701,
         85633793,
         101718083,
         102081353,
-        85850813
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"dc6852cbe08a4fe57af848736c2add73",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081353,
+            "localadmin_id":404483701,
             "locality_id":101718083,
             "neighbourhood_id":85850813,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387339701,
-    "wof:lastmodified":1449057804,
+    "wof:lastmodified":1454360601,
     "wof:name":"The Green Mango",
     "wof:parent_id":85850813,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "thai"
     ]
 },
-  "bbox": [-75.208899,39.947553,-75.208899,39.947553],
+  "bbox": [
+    -75.208899,
+    39.947553,
+    -75.208899,
+    39.947553
+],
   "geometry": {"coordinates":[-75.208899,39.947553],"type":"Point"}
 }

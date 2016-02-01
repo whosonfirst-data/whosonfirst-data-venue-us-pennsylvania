@@ -2,13 +2,14 @@
   "id": 404064357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.39402,40.174191,-76.39402,40.174191",
     "geom:latitude":40.174191,
     "geom:longitude":-76.39402,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"355 Hamaker Rd",
     "sg:city":"Manheim",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85836395
+        85836395,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"54a65548c14097776e4e9de6cb094f8d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85836395,
             "region_id":85688481,
             "venue_id":404064357
         }
     ],
     "wof:id":404064357,
-    "wof:lastmodified":1449039449,
+    "wof:lastmodified":1454356656,
     "wof:name":"Circle Of Sound",
     "wof:parent_id":85836395,
     "wof:placetype":"venue",
@@ -64,6 +63,11 @@
         "system"
     ]
 },
-  "bbox": [-76.39402,40.174191,-76.39402,40.174191],
+  "bbox": [
+    -76.39402,
+    40.174191,
+    -76.39402,
+    40.174191
+],
   "geometry": {"coordinates":[-76.39402,40.174191],"type":"Point"}
 }

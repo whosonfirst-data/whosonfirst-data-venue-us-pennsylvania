@@ -2,13 +2,14 @@
   "id": 403719923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.3739,40.354065,-76.3739,40.354065",
     "geom:latitude":40.354065,
     "geom:longitude":-76.3739,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2205 E Cumberland St",
     "sg:city":"Lebanon",
     "sg:classifiers":[
@@ -38,11 +39,13 @@
     "sg:website":"http://ad.doubleclick.net/clk;222816988;46581822;v?http://www.hiexpress.com/redirect?path=hd&brandCode=ex&hotelCode=mdtlp&_PMID=99601036&cm_mmc=mdpr-_-yellowpages-_-ex-_-mdtlp",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85824511,
+        102191575,
+        404485817,
         85633793,
-        101719403,
+        101719375,
         102081341,
-        85824511
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,17 +55,18 @@
     "wof:geomhash":"28e3d5e9f0763bfddadd2733b0e66b36",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081341,
-            "locality_id":101719403,
+            "localadmin_id":404485817,
+            "locality_id":101719375,
             "neighbourhood_id":85824511,
             "region_id":85688481,
             "venue_id":403719923
         }
     ],
     "wof:id":403719923,
-    "wof:lastmodified":1449054799,
+    "wof:lastmodified":1454357289,
     "wof:name":"Holiday Inn Express Hotel & Suites Lebanon",
     "wof:parent_id":85824511,
     "wof:placetype":"venue",
@@ -77,6 +81,11 @@
         "hall"
     ]
 },
-  "bbox": [-76.3739,40.354065,-76.3739,40.354065],
-  "geometry": {"coordinates":[-76.3739,40.354065],"type":"Point"}
+  "bbox": [
+    -76.3739,
+    40.354065,
+    -76.3739,
+    40.354065
+],
+  "geometry": {"coordinates":[-76.37390000000001,40.354065],"type":"Point"}
 }

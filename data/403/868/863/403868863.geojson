@@ -2,13 +2,14 @@
   "id": 403868863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.83739,40.287588,-76.83739,40.287588",
     "geom:latitude":40.287588,
     "geom:longitude":-76.83739,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3535 Walnut St",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     "sg:website":"www.mitraniandcompany.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85843183,
+        102191575,
+        404486305,
         85633793,
         101719821,
         102081347,
-        85843183
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"c4c3fdc53d4bad73b140a86e8a1b85ac",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
+            "localadmin_id":404486305,
             "locality_id":101719821,
             "neighbourhood_id":85843183,
             "region_id":85688481,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":403868863,
-    "wof:lastmodified":1449054677,
+    "wof:lastmodified":1454357211,
     "wof:name":"Mitrani At Home",
     "wof:parent_id":85843183,
     "wof:placetype":"venue",
@@ -69,6 +73,11 @@
         "store"
     ]
 },
-  "bbox": [-76.83739,40.287588,-76.83739,40.287588],
+  "bbox": [
+    -76.83739,
+    40.287588,
+    -76.83739,
+    40.287588
+],
   "geometry": {"coordinates":[-76.83739,40.287588],"type":"Point"}
 }

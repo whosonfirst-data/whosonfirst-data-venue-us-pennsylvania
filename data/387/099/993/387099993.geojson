@@ -2,13 +2,14 @@
   "id": 387099993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.229315,40.58943,-80.229315,40.58943",
     "geom:latitude":40.58943,
     "geom:longitude":-80.229315,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"830 Merchant St",
     "sg:city":"Ambridge",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85803005,
+        102191575,
+        404484359,
         85633793,
+        101718407,
         102081323,
-        85803005
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,17 +41,18 @@
     "wof:geomhash":"ab03caea9cacf8b70dd2a1703a9708c0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081323,
-            "locality_id":-1,
+            "localadmin_id":404484359,
+            "locality_id":101718407,
             "neighbourhood_id":85803005,
             "region_id":85688481,
             "venue_id":387099993
         }
     ],
     "wof:id":387099993,
-    "wof:lastmodified":1449058587,
+    "wof:lastmodified":1454360820,
     "wof:name":"Frank Makozy Dds",
     "wof:parent_id":85803005,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.229315,40.58943,-80.229315,40.58943],
+  "bbox": [
+    -80.229315,
+    40.58943,
+    -80.229315,
+    40.58943
+],
   "geometry": {"coordinates":[-80.229315,40.58943],"type":"Point"}
 }

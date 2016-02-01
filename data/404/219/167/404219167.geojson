@@ -2,13 +2,14 @@
   "id": 404219167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.413384,40.640522,-75.413384,40.640522",
     "geom:latitude":40.640522,
     "geom:longitude":-75.413384,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1835 Catasauqua Rd",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85856947,
+        102191575,
+        404485987,
         85633793,
+        101717907,
         102081395,
-        85856947
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +46,18 @@
     "wof:geomhash":"42219995984511d6c6b6cf70eb9aba60",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081395,
-            "locality_id":-1,
+            "localadmin_id":404485987,
+            "locality_id":101717907,
             "neighbourhood_id":85856947,
             "region_id":85688481,
             "venue_id":404219167
         }
     ],
     "wof:id":404219167,
-    "wof:lastmodified":1449040276,
+    "wof:lastmodified":1454357106,
     "wof:name":"Colonial Northampton Intermediate Unit No 20",
     "wof:parent_id":85856947,
     "wof:placetype":"venue",
@@ -64,6 +69,11 @@
         "elementary"
     ]
 },
-  "bbox": [-75.413384,40.640522,-75.413384,40.640522],
-  "geometry": {"coordinates":[-75.413384,40.640522],"type":"Point"}
+  "bbox": [
+    -75.413384,
+    40.640522,
+    -75.413384,
+    40.640522
+],
+  "geometry": {"coordinates":[-75.41338399999999,40.640522],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387552067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.07668,40.275551,-80.07668,40.275551",
     "geom:latitude":40.275551,
     "geom:longitude":-80.07668,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"109 Alyson Dr",
     "sg:city":"Canonsburg",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081343,
-        85806851
+        85806851,
+        102081343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"f5d8745d7a92a95da59d608a1862726e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081343,
-            "locality_id":-1,
             "neighbourhood_id":85806851,
             "region_id":85688481,
             "venue_id":387552067
         }
     ],
     "wof:id":387552067,
-    "wof:lastmodified":1449057693,
+    "wof:lastmodified":1454360563,
     "wof:name":"Redpointe",
     "wof:parent_id":85806851,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "consultant"
     ]
 },
-  "bbox": [-80.07668,40.275551,-80.07668,40.275551],
+  "bbox": [
+    -80.07668,
+    40.275551,
+    -80.07668,
+    40.275551
+],
   "geometry": {"coordinates":[-80.07668,40.275551],"type":"Point"}
 }

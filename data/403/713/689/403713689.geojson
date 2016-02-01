@@ -2,13 +2,14 @@
   "id": 403713689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.416782,40.339884,-76.416782,40.339884",
     "geom:latitude":40.339884,
     "geom:longitude":-76.416782,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"336 Cumberland St Ste 1",
     "sg:city":"Lebanon",
     "sg:classifiers":[
@@ -41,11 +42,13 @@
     "sg:website":"http://www.trefsgar.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85842249,
+        102191575,
+        404485699,
         85633793,
         101717093,
         102081341,
-        85842249
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,9 +58,10 @@
     "wof:geomhash":"9f7ee50606ede746d4fc56e66b8b170f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081341,
+            "localadmin_id":404485699,
             "locality_id":101717093,
             "neighbourhood_id":85842249,
             "region_id":85688481,
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":403713689,
-    "wof:lastmodified":1449055844,
+    "wof:lastmodified":1454357904,
     "wof:name":"Benefitworks, Inc.",
     "wof:parent_id":85842249,
     "wof:placetype":"venue",
@@ -78,6 +82,11 @@
         "business"
     ]
 },
-  "bbox": [-76.416782,40.339884,-76.416782,40.339884],
+  "bbox": [
+    -76.416782,
+    40.339884,
+    -76.416782,
+    40.339884
+],
   "geometry": {"coordinates":[-76.416782,40.339884],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404004245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.585414,39.80175,-76.585414,39.80175",
     "geom:latitude":39.80175,
     "geom:longitude":-76.585414,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"14356 Curvin Dr",
     "sg:city":"Stewartstown",
     "sg:classifiers":[
@@ -32,8 +33,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080953,
-        85826693
+        85826693,
+        102080953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +44,15 @@
     "wof:geomhash":"c6ddab3bc11989c5278cf545fe3717da",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
             "neighbourhood_id":85826693,
             "region_id":85688481,
             "venue_id":404004245
         }
     ],
     "wof:id":404004245,
-    "wof:lastmodified":1449039467,
+    "wof:lastmodified":1454356663,
     "wof:name":"Dog Works",
     "wof:parent_id":85826693,
     "wof:placetype":"venue",
@@ -65,6 +64,11 @@
         "online"
     ]
 },
-  "bbox": [-76.585414,39.80175,-76.585414,39.80175],
+  "bbox": [
+    -76.585414,
+    39.80175,
+    -76.585414,
+    39.80175
+],
   "geometry": {"coordinates":[-76.585414,39.80175],"type":"Point"}
 }

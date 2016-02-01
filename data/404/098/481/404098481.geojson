@@ -2,13 +2,14 @@
   "id": 404098481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.959649,41.252156,-76.959649,41.252156",
     "geom:latitude":41.252156,
     "geom:longitude":-76.959649,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1035 Westminster Dr",
     "sg:city":"Williamsport",
     "sg:classifiers":[
@@ -34,8 +35,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081317,
-        85828027
+        85828027,
+        102081317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +46,15 @@
     "wof:geomhash":"ee50bcd402fbe58edde3e5b4c22f8405",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081317,
-            "locality_id":-1,
             "neighbourhood_id":85828027,
             "region_id":85688481,
             "venue_id":404098481
         }
     ],
     "wof:id":404098481,
-    "wof:lastmodified":1449040205,
+    "wof:lastmodified":1454357061,
     "wof:name":"Electron Devices",
     "wof:parent_id":85828027,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "equipment"
     ]
 },
-  "bbox": [-76.959649,41.252156,-76.959649,41.252156],
+  "bbox": [
+    -76.959649,
+    41.252156,
+    -76.959649,
+    41.252156
+],
   "geometry": {"coordinates":[-76.959649,41.252156],"type":"Point"}
 }

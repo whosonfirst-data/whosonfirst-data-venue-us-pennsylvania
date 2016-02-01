@@ -2,13 +2,14 @@
   "id": 387798065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.776628,41.541902,-79.776628,41.541902",
     "geom:latitude":41.541902,
     "geom:longitude":-79.776628,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"328 Deets School Rd",
     "sg:city":"Titusville",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081279,
-        85841467
+        85841467,
+        102081279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"25d017208a17ef8e80ab104cb3089046",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081279,
-            "locality_id":-1,
             "neighbourhood_id":85841467,
             "region_id":85688481,
             "venue_id":387798065
         }
     ],
     "wof:id":387798065,
-    "wof:lastmodified":1449056806,
+    "wof:lastmodified":1454358624,
     "wof:name":"Shaffer Contracting",
     "wof:parent_id":85841467,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.776628,41.541902,-79.776628,41.541902],
+  "bbox": [
+    -79.776628,
+    41.541902,
+    -79.776628,
+    41.541902
+],
   "geometry": {"coordinates":[-79.776628,41.541902],"type":"Point"}
 }

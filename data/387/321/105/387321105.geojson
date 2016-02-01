@@ -2,13 +2,14 @@
   "id": 387321105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.0131,40.450802,-80.0131,40.450802",
     "geom:latitude":40.450802,
     "geom:longitude":-80.0131,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"950 Ridge Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -25,11 +26,13 @@
     "sg:website":"www.subway.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85873573,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85873573
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +42,10 @@
     "wof:geomhash":"402226b19cde44ad4ea550a3e3b3d1ff",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85873573,
             "region_id":85688481,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":387321105,
-    "wof:lastmodified":1449056209,
+    "wof:lastmodified":1454358162,
     "wof:name":"Subway Sandwiches & Salads Restaurants",
     "wof:parent_id":85873573,
     "wof:placetype":"venue",
@@ -57,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.0131,40.450802,-80.0131,40.450802],
-  "geometry": {"coordinates":[-80.0131,40.450802],"type":"Point"}
+  "bbox": [
+    -80.0131,
+    40.450802,
+    -80.0131,
+    40.450802
+],
+  "geometry": {"coordinates":[-80.01309999999999,40.450802],"type":"Point"}
 }

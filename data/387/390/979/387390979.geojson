@@ -2,13 +2,14 @@
   "id": 387390979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.041549,40.425795,-80.041549,40.425795",
     "geom:latitude":40.425795,
     "geom:longitude":-80.041549,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4 Parkway Ctr W Ste 300",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"http://www.comcast.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85873597,
+        102191575,
+        404482523,
         85633793,
-        101718673,
+        101718805,
         102080887,
-        85873597
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"27c52b449df7988d53384fa63a4a0d99",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":101718673,
+            "localadmin_id":404482523,
+            "locality_id":101718805,
             "neighbourhood_id":85873597,
             "region_id":85688481,
             "venue_id":387390979
         }
     ],
     "wof:id":387390979,
-    "wof:lastmodified":1449059959,
+    "wof:lastmodified":1454361244,
     "wof:name":"Comcast",
     "wof:parent_id":85873597,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "specialty"
     ]
 },
-  "bbox": [-80.041549,40.425795,-80.041549,40.425795],
+  "bbox": [
+    -80.041549,
+    40.425795,
+    -80.041549,
+    40.425795
+],
   "geometry": {"coordinates":[-80.041549,40.425795],"type":"Point"}
 }

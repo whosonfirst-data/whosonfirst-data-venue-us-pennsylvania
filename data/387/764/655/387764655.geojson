@@ -2,13 +2,14 @@
   "id": 387764655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.447607,41.233434,-80.447607,41.233434",
     "geom:latitude":41.233434,
     "geom:longitude":-80.447607,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3380 E State St",
     "sg:city":"Hermitage",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85824773,
+        102191575,
+        404487983,
         85633793,
         101718107,
         102080965,
-        85824773
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"c598b01f2755caf91d9fd8a0ebd72ab8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080965,
+            "localadmin_id":404487983,
             "locality_id":101718107,
             "neighbourhood_id":85824773,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387764655,
-    "wof:lastmodified":1449059740,
+    "wof:lastmodified":1454361177,
     "wof:name":"Pat Catans",
     "wof:parent_id":85824773,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "supply"
     ]
 },
-  "bbox": [-80.447607,41.233434,-80.447607,41.233434],
+  "bbox": [
+    -80.447607,
+    41.233434,
+    -80.447607,
+    41.233434
+],
   "geometry": {"coordinates":[-80.447607,41.233434],"type":"Point"}
 }

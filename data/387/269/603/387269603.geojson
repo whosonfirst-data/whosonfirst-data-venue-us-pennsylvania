@@ -2,13 +2,14 @@
   "id": 387269603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.206346,40.57792,-80.206346,40.57792",
     "geom:latitude":40.57792,
     "geom:longitude":-80.206346,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"33 Watson St",
     "sg:city":"Sewickley",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85848361,
+        102191575,
+        404484893,
         85633793,
-        101718661,
+        101718695,
         102080887,
-        85848361
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +41,18 @@
     "wof:geomhash":"8c8f6a989645217d2980f6a7cd5c6ac9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":101718661,
+            "localadmin_id":404484893,
+            "locality_id":101718695,
             "neighbourhood_id":85848361,
             "region_id":85688481,
             "venue_id":387269603
         }
     ],
     "wof:id":387269603,
-    "wof:lastmodified":1449058498,
+    "wof:lastmodified":1454360799,
     "wof:name":"Allegheny Country Club",
     "wof:parent_id":85848361,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.206346,40.57792,-80.206346,40.57792],
+  "bbox": [
+    -80.206346,
+    40.57792,
+    -80.206346,
+    40.57792
+],
   "geometry": {"coordinates":[-80.206346,40.57792],"type":"Point"}
 }

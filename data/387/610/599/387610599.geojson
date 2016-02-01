@@ -2,13 +2,14 @@
   "id": 387610599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.247339,39.999238,-78.247339,39.999238",
     "geom:latitude":39.999238,
     "geom:longitude":-78.247339,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"109 E Graceville Rd",
     "sg:city":"Breezewood",
     "sg:classifiers":[
@@ -40,8 +41,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080939,
-        85822397
+        85822397,
+        102080939
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,17 +52,15 @@
     "wof:geomhash":"1ee271e26c4b63d305e72b0d8dc959ed",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080939,
-            "locality_id":-1,
             "neighbourhood_id":85822397,
             "region_id":85688481,
             "venue_id":387610599
         }
     ],
     "wof:id":387610599,
-    "wof:lastmodified":1449059859,
+    "wof:lastmodified":1454361212,
     "wof:name":"Breezewood United Methodist Church",
     "wof:parent_id":85822397,
     "wof:placetype":"venue",
@@ -72,6 +71,11 @@
         "clergy"
     ]
 },
-  "bbox": [-78.247339,39.999238,-78.247339,39.999238],
+  "bbox": [
+    -78.247339,
+    39.999238,
+    -78.247339,
+    39.999238
+],
   "geometry": {"coordinates":[-78.247339,39.999238],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404022471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.699997,39.969229,-76.699997,39.969229",
     "geom:latitude":39.969229,
     "geom:longitude":-76.699997,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1409 1st Ave",
     "sg:city":"York",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080953,
-        85817923
+        85817923,
+        102080953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"e11ab384eded4aa754c7fd5a85ba7b99",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
             "neighbourhood_id":85817923,
             "region_id":85688481,
             "venue_id":404022471
         }
     ],
     "wof:id":404022471,
-    "wof:lastmodified":1449039415,
+    "wof:lastmodified":1454356634,
     "wof:name":"Arbonne International",
     "wof:parent_id":85817923,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "perfume"
     ]
 },
-  "bbox": [-76.699997,39.969229,-76.699997,39.969229],
+  "bbox": [
+    -76.699997,
+    39.969229,
+    -76.699997,
+    39.969229
+],
   "geometry": {"coordinates":[-76.699997,39.969229],"type":"Point"}
 }

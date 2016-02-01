@@ -2,13 +2,14 @@
   "id": 387481489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.017601,40.365398,-80.017601,40.365398",
     "geom:latitude":40.365398,
     "geom:longitude":-80.017601,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3610 Library Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85830717,
+        102191575,
+        404484869,
         85633793,
         101718761,
         102080887,
-        85830717
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"a623b9bf3ab36e7197c906216fc102b9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484869,
             "locality_id":101718761,
             "neighbourhood_id":85830717,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387481489,
-    "wof:lastmodified":1449059434,
+    "wof:lastmodified":1454361079,
     "wof:name":"Animal Emergency Service",
     "wof:parent_id":85830717,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "hospital"
     ]
 },
-  "bbox": [-80.017601,40.365398,-80.017601,40.365398],
+  "bbox": [
+    -80.017601,
+    40.365398,
+    -80.017601,
+    40.365398
+],
   "geometry": {"coordinates":[-80.017601,40.365398],"type":"Point"}
 }

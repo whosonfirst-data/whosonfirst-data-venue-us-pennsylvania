@@ -2,13 +2,14 @@
   "id": 387297871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.063962,40.414217,-80.063962,40.414217",
     "geom:latitude":40.414217,
     "geom:longitude":-80.063962,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"710 Trumbull Dr",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     "sg:website":"www.campbowwow.com/pittsburgh",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85816087,
+        102191575,
+        404484941,
         85633793,
         101718673,
         102080887,
-        85816087
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"8d95e0a1f8d075c30e9e413e26a0697f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484941,
             "locality_id":101718673,
             "neighbourhood_id":85816087,
             "region_id":85688481,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":387297871,
-    "wof:lastmodified":1449058528,
+    "wof:lastmodified":1454360805,
     "wof:name":"Camp Bow Wow",
     "wof:parent_id":85816087,
     "wof:placetype":"venue",
@@ -71,6 +75,11 @@
         "sitting"
     ]
 },
-  "bbox": [-80.063962,40.414217,-80.063962,40.414217],
+  "bbox": [
+    -80.063962,
+    40.414217,
+    -80.063962,
+    40.414217
+],
   "geometry": {"coordinates":[-80.063962,40.414217],"type":"Point"}
 }

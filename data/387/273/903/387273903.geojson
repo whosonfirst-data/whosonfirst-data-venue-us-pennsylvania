@@ -2,13 +2,14 @@
   "id": 387273903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.768872,40.443784,-79.768872,40.443784",
     "geom:latitude":40.443784,
     "geom:longitude":-79.768872,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4372 Old William Penn Hwy",
     "sg:city":"Monroeville",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85821019,
+        102191575,
+        404484135,
         85633793,
         101718841,
         102080887,
-        85821019
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"00ed3ec98546f5b7d7cc2a2ef0d2f2d7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484135,
             "locality_id":101718841,
             "neighbourhood_id":85821019,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387273903,
-    "wof:lastmodified":1449058079,
+    "wof:lastmodified":1454360675,
     "wof:name":"Jeffrey D Goldman Attorne",
     "wof:parent_id":85821019,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "plan"
     ]
 },
-  "bbox": [-79.768872,40.443784,-79.768872,40.443784],
+  "bbox": [
+    -79.768872,
+    40.443784,
+    -79.768872,
+    40.443784
+],
   "geometry": {"coordinates":[-79.768872,40.443784],"type":"Point"}
 }

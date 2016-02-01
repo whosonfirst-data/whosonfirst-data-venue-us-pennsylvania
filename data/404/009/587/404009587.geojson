@@ -2,13 +2,14 @@
   "id": 404009587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.722572,39.956779,-76.722572,39.956779",
     "geom:latitude":39.956779,
     "geom:longitude":-76.722572,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"452 S Duke St Ste 1",
     "sg:city":"York",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85850705,
+        102191575,
+        404488029,
         85633793,
+        101717279,
         102080953,
-        85850705
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,17 +41,18 @@
     "wof:geomhash":"bcf8e495b86b50b424f197adf7ef0b16",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
+            "localadmin_id":404488029,
+            "locality_id":101717279,
             "neighbourhood_id":85850705,
             "region_id":85688481,
             "venue_id":404009587
         }
     ],
     "wof:id":404009587,
-    "wof:lastmodified":1449040309,
+    "wof:lastmodified":1454357126,
     "wof:name":"Miguel San Grocery And Deli",
     "wof:parent_id":85850705,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.722572,39.956779,-76.722572,39.956779],
+  "bbox": [
+    -76.722572,
+    39.956779,
+    -76.722572,
+    39.956779
+],
   "geometry": {"coordinates":[-76.722572,39.956779],"type":"Point"}
 }

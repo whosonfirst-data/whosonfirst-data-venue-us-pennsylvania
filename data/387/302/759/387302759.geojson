@@ -2,13 +2,14 @@
   "id": 387302759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.938488,40.376692,-79.938488,40.376692",
     "geom:latitude":40.376692,
     "geom:longitude":-79.938488,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"945 Baldwin Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -31,11 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85824379,
+        102191575,
+        404484861,
         85633793,
         101718815,
         102080887,
-        85824379
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,9 +48,10 @@
     "wof:geomhash":"dcfd42d863905f8e6a68c462a426daa3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484861,
             "locality_id":101718815,
             "neighbourhood_id":85824379,
             "region_id":85688481,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":387302759,
-    "wof:lastmodified":1449057385,
+    "wof:lastmodified":1454359078,
     "wof:name":"Babcock Auto Sales Inc",
     "wof:parent_id":85824379,
     "wof:placetype":"venue",
@@ -69,6 +73,11 @@
         "new"
     ]
 },
-  "bbox": [-79.938488,40.376692,-79.938488,40.376692],
-  "geometry": {"coordinates":[-79.938488,40.376692],"type":"Point"}
+  "bbox": [
+    -79.938488,
+    40.376692,
+    -79.938488,
+    40.376692
+],
+  "geometry": {"coordinates":[-79.93848800000001,40.376692],"type":"Point"}
 }

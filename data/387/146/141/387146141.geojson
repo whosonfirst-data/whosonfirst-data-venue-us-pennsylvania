@@ -2,13 +2,14 @@
   "id": 387146141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.206265,40.716872,-80.206265,40.716872",
     "geom:latitude":40.716872,
     "geom:longitude":-80.206265,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"14 Blackswoods Rd",
     "sg:city":"Freedom",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081323,
-        85828661
+        85828661,
+        102081323
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"33d41c3339b898cc53f68849fe679df3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081323,
-            "locality_id":-1,
             "neighbourhood_id":85828661,
             "region_id":85688481,
             "venue_id":387146141
         }
     ],
     "wof:id":387146141,
-    "wof:lastmodified":1449057680,
+    "wof:lastmodified":1454360558,
     "wof:name":"Bama Designs",
     "wof:parent_id":85828661,
     "wof:placetype":"venue",
@@ -64,6 +63,11 @@
         "producer"
     ]
 },
-  "bbox": [-80.206265,40.716872,-80.206265,40.716872],
+  "bbox": [
+    -80.206265,
+    40.716872,
+    -80.206265,
+    40.716872
+],
   "geometry": {"coordinates":[-80.206265,40.716872],"type":"Point"}
 }

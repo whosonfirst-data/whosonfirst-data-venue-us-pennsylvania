@@ -2,13 +2,14 @@
   "id": 387520963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.095001,40.3564,-80.095001,40.3564",
     "geom:latitude":40.3564,
     "geom:longitude":-80.095001,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1345 McLaughlin Run Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85805039
+        85805039,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"0d3a309e3e05037fa7a66ecbb9aaff4c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85805039,
             "region_id":85688481,
             "venue_id":387520963
         }
     ],
     "wof:id":387520963,
-    "wof:lastmodified":1449057354,
+    "wof:lastmodified":1454359051,
     "wof:name":"Kirsopp Body Shop",
     "wof:parent_id":85805039,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "shop"
     ]
 },
-  "bbox": [-80.095001,40.3564,-80.095001,40.3564],
+  "bbox": [
+    -80.095001,
+    40.3564,
+    -80.095001,
+    40.3564
+],
   "geometry": {"coordinates":[-80.095001,40.3564],"type":"Point"}
 }

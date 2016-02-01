@@ -2,13 +2,14 @@
   "id": 387413943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.99979,40.442455,-79.99979,40.442455",
     "geom:latitude":40.442455,
     "geom:longitude":-79.99979,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"717 Liberty Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -48,11 +49,13 @@
     "sg:website":"http://ad.doubleclick.net/clk;229355757;53350000;a",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85873585,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85873585
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,9 +65,10 @@
     "wof:geomhash":"bf1ededfbb1c96b49d2054be5b971713",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85873585,
             "region_id":85688481,
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":387413943,
-    "wof:lastmodified":1449056704,
+    "wof:lastmodified":1454358552,
     "wof:name":"Le Cordon Blue Institute of Culinary Arts in Pittsburgh",
     "wof:parent_id":85873585,
     "wof:placetype":"venue",
@@ -87,6 +91,11 @@
         "adult"
     ]
 },
-  "bbox": [-79.99979,40.442455,-79.99979,40.442455],
+  "bbox": [
+    -79.99979,
+    40.442455,
+    -79.99979,
+    40.442455
+],
   "geometry": {"coordinates":[-79.99979,40.442455],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403774867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.737181,40.23007,-76.737181,40.23007",
     "geom:latitude":40.23007,
     "geom:longitude":-76.737181,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"170 Fulling Mill Rd",
     "sg:city":"Middletown",
     "sg:classifiers":[
@@ -40,10 +41,13 @@
     "sg:website":"http://www.woolfsteel.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85842349,
+        102191575,
+        404486175,
         85633793,
+        101717689,
         102081347,
-        85842349
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,17 +57,18 @@
     "wof:geomhash":"94c0d28fca172099b5591f4a7f3e95d2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
+            "localadmin_id":404486175,
+            "locality_id":101717689,
             "neighbourhood_id":85842349,
             "region_id":85688481,
             "venue_id":403774867
         }
     ],
     "wof:id":403774867,
-    "wof:lastmodified":1449055152,
+    "wof:lastmodified":1454357500,
     "wof:name":"Woolf Steel, Inc.",
     "wof:parent_id":85842349,
     "wof:placetype":"venue",
@@ -80,6 +85,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-76.737181,40.23007,-76.737181,40.23007],
-  "geometry": {"coordinates":[-76.737181,40.23007],"type":"Point"}
+  "bbox": [
+    -76.737181,
+    40.23007,
+    -76.737181,
+    40.23007
+],
+  "geometry": {"coordinates":[-76.73718100000001,40.23007],"type":"Point"}
 }

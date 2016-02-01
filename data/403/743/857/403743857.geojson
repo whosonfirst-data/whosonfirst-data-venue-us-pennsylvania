@@ -2,13 +2,14 @@
   "id": 403743857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.975098,40.237499,-76.975098,40.237499",
     "geom:latitude":40.237499,
     "geom:longitude":-76.975098,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5103 Carlisle Pike",
     "sg:city":"Mechanicsburg",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081359,
-        85850501
+        85850501,
+        102081359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"669bece38148d3fe1334a2fe7971dd7f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081359,
-            "locality_id":-1,
             "neighbourhood_id":85850501,
             "region_id":85688481,
             "venue_id":403743857
         }
     ],
     "wof:id":403743857,
-    "wof:lastmodified":1449055953,
+    "wof:lastmodified":1454357973,
     "wof:name":"My Gym",
     "wof:parent_id":85850501,
     "wof:placetype":"venue",
@@ -68,6 +67,11 @@
         "fitness"
     ]
 },
-  "bbox": [-76.975098,40.237499,-76.975098,40.237499],
+  "bbox": [
+    -76.975098,
+    40.237499,
+    -76.975098,
+    40.237499
+],
   "geometry": {"coordinates":[-76.975098,40.237499],"type":"Point"}
 }

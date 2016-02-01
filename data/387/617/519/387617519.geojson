@@ -2,13 +2,14 @@
   "id": 387617519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.541124,40.284741,-79.541124,40.284741",
     "geom:latitude":40.284741,
     "geom:longitude":-79.541124,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"585 Rugh St Ste 204",
     "sg:city":"Greensburg",
     "sg:classifiers":[
@@ -40,11 +41,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85809439,
+        102191575,
+        404487487,
         85633793,
-        101717119,
+        101717177,
         102081383,
-        85809439
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,17 +57,18 @@
     "wof:geomhash":"ac5396d02c508ddad75842f5751b752d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":101717119,
+            "localadmin_id":404487487,
+            "locality_id":101717177,
             "neighbourhood_id":85809439,
             "region_id":85688481,
             "venue_id":387617519
         }
     ],
     "wof:id":387617519,
-    "wof:lastmodified":1449056248,
+    "wof:lastmodified":1454358196,
     "wof:name":"Summit Financial Consulting",
     "wof:parent_id":85809439,
     "wof:placetype":"venue",
@@ -77,6 +81,11 @@
         "coach"
     ]
 },
-  "bbox": [-79.541124,40.284741,-79.541124,40.284741],
+  "bbox": [
+    -79.541124,
+    40.284741,
+    -79.541124,
+    40.284741
+],
   "geometry": {"coordinates":[-79.541124,40.284741],"type":"Point"}
 }

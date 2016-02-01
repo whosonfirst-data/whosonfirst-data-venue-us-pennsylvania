@@ -2,13 +2,14 @@
   "id": 387437083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.018501,40.405998,-80.018501,40.405998",
     "geom:latitude":40.405998,
     "geom:longitude":-80.018501,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1829 W Liberty Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536319,
+        102191575,
+        404482523,
         85633793,
         101718805,
-        102080887
+        102080887,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"7feb8a39eca1a13d70b31338bc3e55c0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420536319,
             "region_id":85688481,
             "venue_id":387437083
         }
     ],
     "wof:id":387437083,
-    "wof:lastmodified":1449058860,
+    "wof:lastmodified":1454360906,
     "wof:name":"Bp Oil Company",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536319,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.018501,40.405998,-80.018501,40.405998],
+  "bbox": [
+    -80.018501,
+    40.405998,
+    -80.018501,
+    40.405998
+],
   "geometry": {"coordinates":[-80.018501,40.405998],"type":"Point"}
 }

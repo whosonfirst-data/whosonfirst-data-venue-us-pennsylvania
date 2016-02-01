@@ -2,13 +2,14 @@
   "id": 387284405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.988682,40.429946,-79.988682,40.429946",
     "geom:latitude":40.429946,
     "geom:longitude":-79.988682,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"20 South Tenth St.",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     "sg:website":"www.holidayinnexpress.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85802827,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85802827
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"78398ca04f8fddcd9fd31715efbf660e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85802827,
             "region_id":85688481,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":387284405,
-    "wof:lastmodified":1449058470,
+    "wof:lastmodified":1454360792,
     "wof:name":"Holiday Inn Express Hotel & Suites Pittsburgh-South Side",
     "wof:parent_id":85802827,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "venue"
     ]
 },
-  "bbox": [-79.988682,40.429946,-79.988682,40.429946],
+  "bbox": [
+    -79.988682,
+    40.429946,
+    -79.988682,
+    40.429946
+],
   "geometry": {"coordinates":[-79.988682,40.429946],"type":"Point"}
 }

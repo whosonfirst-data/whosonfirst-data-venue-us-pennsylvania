@@ -2,13 +2,14 @@
   "id": 387628211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.568537,40.582601,-79.568537,40.582601",
     "geom:latitude":40.582601,
     "geom:longitude":-79.568537,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"204 Clifford Ave 206",
     "sg:city":"Apollo",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536461,
+        102191575,
+        404484281,
         85633793,
-        101718529,
-        102081371
+        101720289,
+        102081371,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"d29996d085fe848b5a5da938fc668496",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081371,
-            "locality_id":101718529,
-            "neighbourhood_id":-1,
+            "localadmin_id":404484281,
+            "locality_id":101720289,
+            "neighbourhood_id":420536461,
             "region_id":85688481,
             "venue_id":387628211
         }
     ],
     "wof:id":387628211,
-    "wof:lastmodified":1449059196,
+    "wof:lastmodified":1454361009,
     "wof:name":"Richard L Mc Dowell",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536461,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.568537,40.582601,-79.568537,40.582601],
-  "geometry": {"coordinates":[-79.568537,40.582601],"type":"Point"}
+  "bbox": [
+    -79.568537,
+    40.582601,
+    -79.568537,
+    40.582601
+],
+  "geometry": {"coordinates":[-79.56853700000001,40.582601],"type":"Point"}
 }

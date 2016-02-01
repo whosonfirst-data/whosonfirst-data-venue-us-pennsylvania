@@ -2,13 +2,14 @@
   "id": 387391127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.065857,40.392536,-80.065857,40.392536",
     "geom:latitude":40.392536,
     "geom:longitude":-80.065857,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1717 Cochran Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -27,8 +28,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85859075
+        85859075,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +39,15 @@
     "wof:geomhash":"ef96a37cb8a9da82f1d6ccb1974e1820",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85859075,
             "region_id":85688481,
             "venue_id":387391127
         }
     ],
     "wof:id":387391127,
-    "wof:lastmodified":1449058544,
+    "wof:lastmodified":1454360810,
     "wof:name":"Supercuts",
     "wof:parent_id":85859075,
     "wof:placetype":"venue",
@@ -56,6 +55,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.065857,40.392536,-80.065857,40.392536],
-  "geometry": {"coordinates":[-80.065857,40.392536],"type":"Point"}
+  "bbox": [
+    -80.065857,
+    40.392536,
+    -80.065857,
+    40.392536
+],
+  "geometry": {"coordinates":[-80.06585699999999,40.392536],"type":"Point"}
 }

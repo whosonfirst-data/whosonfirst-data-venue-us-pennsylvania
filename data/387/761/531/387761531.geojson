@@ -2,13 +2,14 @@
   "id": 387761531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.493369,41.224291,-80.493369,41.224291",
     "geom:latitude":41.224291,
     "geom:longitude":-80.493369,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"628 Stambaugh Ave",
     "sg:city":"Sharon",
     "sg:classifiers":[],
@@ -18,10 +19,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420539011,
+        102191575,
+        404487969,
         85633793,
-        101718093,
-        102080965
+        101718115,
+        102080965,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -31,24 +35,30 @@
     "wof:geomhash":"8558bc49ed5b957bc51a44fa9d26444f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080965,
-            "locality_id":101718093,
-            "neighbourhood_id":-1,
+            "localadmin_id":404487969,
+            "locality_id":101718115,
+            "neighbourhood_id":420539011,
             "region_id":85688481,
             "venue_id":387761531
         }
     ],
     "wof:id":387761531,
-    "wof:lastmodified":1449059005,
+    "wof:lastmodified":1454360955,
     "wof:name":"Tony's Pizza Kitchen",
-    "wof:parent_id":-1,
+    "wof:parent_id":420539011,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.493369,41.224291,-80.493369,41.224291],
+  "bbox": [
+    -80.493369,
+    41.224291,
+    -80.493369,
+    41.224291
+],
   "geometry": {"coordinates":[-80.493369,41.224291],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404193757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.371851,40.644586,-75.371851,40.644586",
     "geom:latitude":40.644586,
     "geom:longitude":-75.371851,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1214 Kirkland Village Cir",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85897241,
+        102191575,
+        404485987,
         85633793,
         101717907,
         102081395,
-        85897241
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"1beb245b5ac7b441d956e9c1ec8c29d6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081395,
+            "localadmin_id":404485987,
             "locality_id":101717907,
             "neighbourhood_id":85897241,
             "region_id":85688481,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":404193757,
-    "wof:lastmodified":1449039211,
+    "wof:lastmodified":1454356526,
     "wof:name":"Werley Charles W MD",
     "wof:parent_id":85897241,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.371851,40.644586,-75.371851,40.644586],
-  "geometry": {"coordinates":[-75.371851,40.644586],"type":"Point"}
+  "bbox": [
+    -75.371851,
+    40.644586,
+    -75.371851,
+    40.644586
+],
+  "geometry": {"coordinates":[-75.37185100000001,40.644586],"type":"Point"}
 }

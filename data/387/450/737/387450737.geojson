@@ -2,13 +2,14 @@
   "id": 387450737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.038438,40.516201,-80.038438,40.516201",
     "geom:latitude":40.516201,
     "geom:longitude":-80.038438,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1010 W View Park Dr",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -42,8 +43,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85824969
+        85824969,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,17 +54,15 @@
     "wof:geomhash":"0c855aae893e8d8b23c0d1aabf276f33",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85824969,
             "region_id":85688481,
             "venue_id":387450737
         }
     ],
     "wof:id":387450737,
-    "wof:lastmodified":1449059340,
+    "wof:lastmodified":1454361045,
     "wof:name":"H&R Block",
     "wof:parent_id":85824969,
     "wof:placetype":"venue",
@@ -80,6 +79,11 @@
         "bookkeeping"
     ]
 },
-  "bbox": [-80.038438,40.516201,-80.038438,40.516201],
+  "bbox": [
+    -80.038438,
+    40.516201,
+    -80.038438,
+    40.516201
+],
   "geometry": {"coordinates":[-80.038438,40.516201],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404102567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.318741,41.18395,-77.318741,41.18395",
     "geom:latitude":41.18395,
     "geom:longitude":-77.318741,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"400 Fox St",
     "sg:city":"Avis",
     "sg:classifiers":[
@@ -49,10 +50,13 @@
     "sg:website":"http://www.smilingsammys.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420537547,
+        102191575,
+        404487139,
         85633793,
         101717741,
-        102080917
+        102080917,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,19 +66,20 @@
     "wof:geomhash":"a3ecf3d8e8658ebcf3b7d01f7c5ab443",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080917,
+            "localadmin_id":404487139,
             "locality_id":101717741,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420537547,
             "region_id":85688481,
             "venue_id":404102567
         }
     ],
     "wof:id":404102567,
-    "wof:lastmodified":1449040254,
+    "wof:lastmodified":1454357091,
     "wof:name":"Cindy's Smiling Sammy Grooming & Boarding",
-    "wof:parent_id":-1,
+    "wof:parent_id":420537547,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -88,6 +93,11 @@
         "kennel"
     ]
 },
-  "bbox": [-77.318741,41.18395,-77.318741,41.18395],
+  "bbox": [
+    -77.318741,
+    41.18395,
+    -77.318741,
+    41.18395
+],
   "geometry": {"coordinates":[-77.318741,41.18395],"type":"Point"}
 }

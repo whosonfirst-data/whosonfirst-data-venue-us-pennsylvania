@@ -2,13 +2,14 @@
   "id": 219334967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.521956,41.024114,-80.521956,41.024114",
     "geom:latitude":41.024114,
     "geom:longitude":-80.521956,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6868 Center Rd",
     "sg:city":"Lowellville",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080929,
-        85845265
+        85845265,
+        102080929
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"2d290872621213034a641c5805b0da12",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080929,
-            "locality_id":-1,
             "neighbourhood_id":85845265,
             "region_id":85688481,
             "venue_id":219334967
         }
     ],
     "wof:id":219334967,
-    "wof:lastmodified":1449071436,
+    "wof:lastmodified":1454361272,
     "wof:name":"U-Haul Co",
     "wof:parent_id":85845265,
     "wof:placetype":"venue",
@@ -64,6 +63,11 @@
         "leasing"
     ]
 },
-  "bbox": [-80.521956,41.024114,-80.521956,41.024114],
+  "bbox": [
+    -80.521956,
+    41.024114,
+    -80.521956,
+    41.024114
+],
   "geometry": {"coordinates":[-80.521956,41.024114],"type":"Point"}
 }

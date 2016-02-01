@@ -2,13 +2,14 @@
   "id": 387500575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.025787,40.576408,-80.025787,40.576408",
     "geom:latitude":40.576408,
     "geom:longitude":-80.025787,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"9400 Mcknight Rd Ste 105",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85820441
+        85820441,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"d215647e4f6b9a41b7fb46e6e05f68bc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85820441,
             "region_id":85688481,
             "venue_id":387500575
         }
     ],
     "wof:id":387500575,
-    "wof:lastmodified":1449057052,
+    "wof:lastmodified":1454358802,
     "wof:name":"Senate, Pennsylvania",
     "wof:parent_id":85820441,
     "wof:placetype":"venue",
@@ -61,6 +60,11 @@
         "legislator"
     ]
 },
-  "bbox": [-80.025787,40.576408,-80.025787,40.576408],
-  "geometry": {"coordinates":[-80.025787,40.576408],"type":"Point"}
+  "bbox": [
+    -80.025787,
+    40.576408,
+    -80.025787,
+    40.576408
+],
+  "geometry": {"coordinates":[-80.02578699999999,40.576408],"type":"Point"}
 }

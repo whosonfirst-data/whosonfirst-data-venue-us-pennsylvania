@@ -2,13 +2,14 @@
   "id": 387241995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.21428,40.498383,-80.21428,40.498383",
     "geom:latitude":40.498383,
     "geom:longitude":-80.21428,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"540 Lindbergh Dr",
     "sg:city":"Coraopolis",
     "sg:classifiers":[
@@ -40,11 +41,13 @@
     "sg:website":"http://www.nationalrehab.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85809567,
+        102191575,
+        404484137,
         85633793,
         101720527,
         102080887,
-        85809567
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,9 +57,10 @@
     "wof:geomhash":"21c554d157cfdf4a8cce08f025ccbb12",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484137,
             "locality_id":101720527,
             "neighbourhood_id":85809567,
             "region_id":85688481,
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":387241995,
-    "wof:lastmodified":1449059820,
+    "wof:lastmodified":1454361201,
     "wof:name":"National Rehab",
     "wof:parent_id":85809567,
     "wof:placetype":"venue",
@@ -76,6 +80,11 @@
         "physical"
     ]
 },
-  "bbox": [-80.21428,40.498383,-80.21428,40.498383],
+  "bbox": [
+    -80.21428,
+    40.498383,
+    -80.21428,
+    40.498383
+],
   "geometry": {"coordinates":[-80.21428,40.498383],"type":"Point"}
 }

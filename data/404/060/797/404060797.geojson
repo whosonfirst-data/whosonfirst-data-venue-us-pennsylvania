@@ -2,13 +2,14 @@
   "id": 404060797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.302429,40.226101,-76.302429,40.226101",
     "geom:latitude":40.226101,
     "geom:longitude":-76.302429,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2 E 28th Division Hwy",
     "sg:city":"Lititz",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85834405
+        85834405,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"1d15237ac75166fe660202988a994aea",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85834405,
             "region_id":85688481,
             "venue_id":404060797
         }
     ],
     "wof:id":404060797,
-    "wof:lastmodified":1449040227,
+    "wof:lastmodified":1454357074,
     "wof:name":"Vintage Jewelry Design",
     "wof:parent_id":85834405,
     "wof:placetype":"venue",
@@ -64,6 +63,11 @@
         "stone"
     ]
 },
-  "bbox": [-76.302429,40.226101,-76.302429,40.226101],
+  "bbox": [
+    -76.302429,
+    40.226101,
+    -76.302429,
+    40.226101
+],
   "geometry": {"coordinates":[-76.302429,40.226101],"type":"Point"}
 }

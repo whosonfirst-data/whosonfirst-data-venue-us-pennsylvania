@@ -2,13 +2,14 @@
   "id": 387144943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.828907,40.278145,-79.828907,40.278145",
     "geom:latitude":40.278145,
     "geom:longitude":-79.828907,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"305 Lincoln Hall Rd",
     "sg:city":"Elizabeth",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85810241
+        85810241,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"2db2fe5ec2474edff667a2f0e232c264",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85810241,
             "region_id":85688481,
             "venue_id":387144943
         }
     ],
     "wof:id":387144943,
-    "wof:lastmodified":1449058892,
+    "wof:lastmodified":1454360917,
     "wof:name":"First Commonwealth Home Mortgage",
     "wof:parent_id":85810241,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-79.828907,40.278145,-79.828907,40.278145],
+  "bbox": [
+    -79.828907,
+    40.278145,
+    -79.828907,
+    40.278145
+],
   "geometry": {"coordinates":[-79.828907,40.278145],"type":"Point"}
 }

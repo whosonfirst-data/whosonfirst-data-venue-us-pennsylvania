@@ -2,13 +2,14 @@
   "id": 387631817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.584067,40.463822,-79.584067,40.463822",
     "geom:latitude":40.463822,
     "geom:longitude":-79.584067,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"162 Turack Rd",
     "sg:city":"Export",
     "sg:classifiers":[
@@ -37,8 +38,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081383,
-        85852577
+        85852577,
+        102081383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +49,15 @@
     "wof:geomhash":"edbd6366d7570a7866867b874a728eaa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":-1,
             "neighbourhood_id":85852577,
             "region_id":85688481,
             "venue_id":387631817
         }
     ],
     "wof:id":387631817,
-    "wof:lastmodified":1449057276,
+    "wof:lastmodified":1454358988,
     "wof:name":"Turack Repair & Towing",
     "wof:parent_id":85852577,
     "wof:placetype":"venue",
@@ -71,6 +70,11 @@
         "supplies-used"
     ]
 },
-  "bbox": [-79.584067,40.463822,-79.584067,40.463822],
+  "bbox": [
+    -79.584067,
+    40.463822,
+    -79.584067,
+    40.463822
+],
   "geometry": {"coordinates":[-79.584067,40.463822],"type":"Point"}
 }

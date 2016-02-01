@@ -2,13 +2,14 @@
   "id": 387824055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.048309,42.016516,-80.048309,42.016516",
     "geom:latitude":42.016516,
     "geom:longitude":-80.048309,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"9408 Peach St",
     "sg:city":"Waterford",
     "sg:classifiers":[
@@ -54,8 +55,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080955,
-        85819503
+        85819503,
+        102080955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,17 +66,15 @@
     "wof:geomhash":"a97ea34cbd4cadad7a7d5891e6a29dfd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080955,
-            "locality_id":-1,
             "neighbourhood_id":85819503,
             "region_id":85688481,
             "venue_id":387824055
         }
     ],
     "wof:id":387824055,
-    "wof:lastmodified":1449057453,
+    "wof:lastmodified":1454359138,
     "wof:name":"Stanley Steemer Carpet Cleaner",
     "wof:parent_id":85819503,
     "wof:placetype":"venue",
@@ -99,6 +98,11 @@
         "tile-cleaning"
     ]
 },
-  "bbox": [-80.048309,42.016516,-80.048309,42.016516],
+  "bbox": [
+    -80.048309,
+    42.016516,
+    -80.048309,
+    42.016516
+],
   "geometry": {"coordinates":[-80.048309,42.016516],"type":"Point"}
 }

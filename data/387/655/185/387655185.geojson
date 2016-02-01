@@ -2,13 +2,14 @@
   "id": 387655185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.16951,40.6213,-79.16951,40.6213",
     "geom:latitude":40.6213,
     "geom:longitude":-79.16951,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1450 Klondyke Ave",
     "sg:city":"Indiana",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081387,
-        85821437
+        85821437,
+        102081387
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"424aa4badd521df8e09a6b812e476b28",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081387,
-            "locality_id":-1,
             "neighbourhood_id":85821437,
             "region_id":85688481,
             "venue_id":387655185
         }
     ],
     "wof:id":387655185,
-    "wof:lastmodified":1449058294,
+    "wof:lastmodified":1454360736,
     "wof:name":"Gillenwater Design Construct",
     "wof:parent_id":85821437,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.16951,40.6213,-79.16951,40.6213],
+  "bbox": [
+    -79.16951,
+    40.6213,
+    -79.16951,
+    40.6213
+],
   "geometry": {"coordinates":[-79.16951,40.6213],"type":"Point"}
 }

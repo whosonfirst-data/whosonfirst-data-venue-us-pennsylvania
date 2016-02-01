@@ -2,13 +2,14 @@
   "id": 387499169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.01226,40.540518,-80.01226,40.540518",
     "geom:latitude":40.540518,
     "geom:longitude":-80.01226,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"7402 Mcknight Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -38,8 +39,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85805835
+        85805835,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +50,15 @@
     "wof:geomhash":"c26f73c92fa1b635b9461fe817fc3589",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85805835,
             "region_id":85688481,
             "venue_id":387499169
         }
     ],
     "wof:id":387499169,
-    "wof:lastmodified":1449056825,
+    "wof:lastmodified":1454358633,
     "wof:name":"Rockler Woodworking Hardw",
     "wof:parent_id":85805835,
     "wof:placetype":"venue",
@@ -72,6 +71,11 @@
         "supply"
     ]
 },
-  "bbox": [-80.01226,40.540518,-80.01226,40.540518],
+  "bbox": [
+    -80.01226,
+    40.540518,
+    -80.01226,
+    40.540518
+],
   "geometry": {"coordinates":[-80.01226,40.540518],"type":"Point"}
 }

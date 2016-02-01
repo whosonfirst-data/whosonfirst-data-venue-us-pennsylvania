@@ -2,13 +2,14 @@
   "id": 403872661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.822712,40.278518,-76.822712,40.278518",
     "geom:latitude":40.278518,
     "geom:longitude":-76.822712,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3890 Union Deposit",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85829485
+        85829485,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"d63413fe6f669ee74971f48ee7f2a35e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85829485,
             "region_id":85688481,
             "venue_id":403872661
         }
     ],
     "wof:id":403872661,
-    "wof:lastmodified":1449054757,
+    "wof:lastmodified":1454357262,
     "wof:name":"Waffle House",
     "wof:parent_id":85829485,
     "wof:placetype":"venue",
@@ -63,6 +62,11 @@
         "brunch"
     ]
 },
-  "bbox": [-76.822712,40.278518,-76.822712,40.278518],
+  "bbox": [
+    -76.822712,
+    40.278518,
+    -76.822712,
+    40.278518
+],
   "geometry": {"coordinates":[-76.822712,40.278518],"type":"Point"}
 }

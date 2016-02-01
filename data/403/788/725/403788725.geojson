@@ -2,13 +2,14 @@
   "id": 403788725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.297626,40.29836,-76.297626,40.29836",
     "geom:latitude":40.29836,
     "geom:longitude":-76.297626,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"407 W Main St",
     "sg:city":"Newmanstown",
     "sg:classifiers":[
@@ -35,10 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420538693,
+        102191575,
+        404485693,
         85633793,
         101719399,
-        102081341
+        102081341,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +52,20 @@
     "wof:geomhash":"a4d446d247fb228229f1dbacdaa8692b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081341,
+            "localadmin_id":404485693,
             "locality_id":101719399,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420538693,
             "region_id":85688481,
             "venue_id":403788725
         }
     ],
     "wof:id":403788725,
-    "wof:lastmodified":1449055329,
+    "wof:lastmodified":1454357608,
     "wof:name":"Tweed Weasel Primitives",
-    "wof:parent_id":-1,
+    "wof:parent_id":420538693,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -71,6 +76,11 @@
         "supply"
     ]
 },
-  "bbox": [-76.297626,40.29836,-76.297626,40.29836],
-  "geometry": {"coordinates":[-76.297626,40.29836],"type":"Point"}
+  "bbox": [
+    -76.297626,
+    40.29836,
+    -76.297626,
+    40.29836
+],
+  "geometry": {"coordinates":[-76.29762599999999,40.29836],"type":"Point"}
 }

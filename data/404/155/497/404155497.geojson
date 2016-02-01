@@ -2,13 +2,14 @@
   "id": 404155497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.417297,40.699402,-75.417297,40.699402",
     "geom:latitude":40.699402,
     "geom:longitude":-75.417297,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"7250 Airport Rd",
     "sg:city":"Bath",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081395,
-        85830333
+        85830333,
+        102081395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"72879e77e9e4c78bae9c017b8c3a20f9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081395,
-            "locality_id":-1,
             "neighbourhood_id":85830333,
             "region_id":85688481,
             "venue_id":404155497
         }
     ],
     "wof:id":404155497,
-    "wof:lastmodified":1449040091,
+    "wof:lastmodified":1454356999,
     "wof:name":"Airport Auto Sales Inc",
     "wof:parent_id":85830333,
     "wof:placetype":"venue",
@@ -61,6 +60,11 @@
         "car"
     ]
 },
-  "bbox": [-75.417297,40.699402,-75.417297,40.699402],
+  "bbox": [
+    -75.417297,
+    40.699402,
+    -75.417297,
+    40.699402
+],
   "geometry": {"coordinates":[-75.417297,40.699402],"type":"Point"}
 }

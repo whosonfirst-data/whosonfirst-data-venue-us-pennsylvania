@@ -2,13 +2,14 @@
   "id": 403892947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.822632,40.25351,-76.822632,40.25351",
     "geom:latitude":40.25351,
     "geom:longitude":-76.822632,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3809 Paxton St Ste 3",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85839023
+        85839023,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"f045d3e953ade734b359115ad476608c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85839023,
             "region_id":85688481,
             "venue_id":403892947
         }
     ],
     "wof:id":403892947,
-    "wof:lastmodified":1449054824,
+    "wof:lastmodified":1454357303,
     "wof:name":"American General Finance Corporation",
     "wof:parent_id":85839023,
     "wof:placetype":"venue",
@@ -63,6 +62,11 @@
         "financing"
     ]
 },
-  "bbox": [-76.822632,40.25351,-76.822632,40.25351],
+  "bbox": [
+    -76.822632,
+    40.25351,
+    -76.822632,
+    40.25351
+],
   "geometry": {"coordinates":[-76.822632,40.25351],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387763143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.487907,41.216702,-80.487907,41.216702",
     "geom:latitude":41.216702,
     "geom:longitude":-80.487907,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1160 Division St",
     "sg:city":"Sharon",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420539011,
+        102191575,
+        404487969,
         85633793,
-        101718093,
-        102080965
+        101718115,
+        102080965,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,20 @@
     "wof:geomhash":"71909d2e562d4b29508e760a228dfdf7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080965,
-            "locality_id":101718093,
-            "neighbourhood_id":-1,
+            "localadmin_id":404487969,
+            "locality_id":101718115,
+            "neighbourhood_id":420539011,
             "region_id":85688481,
             "venue_id":387763143
         }
     ],
     "wof:id":387763143,
-    "wof:lastmodified":1449059907,
+    "wof:lastmodified":1454361229,
     "wof:name":"Rita Rogers Tax Service",
-    "wof:parent_id":-1,
+    "wof:parent_id":420539011,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -66,6 +71,11 @@
         "public"
     ]
 },
-  "bbox": [-80.487907,41.216702,-80.487907,41.216702],
-  "geometry": {"coordinates":[-80.487907,41.216702],"type":"Point"}
+  "bbox": [
+    -80.487907,
+    41.216702,
+    -80.487907,
+    41.216702
+],
+  "geometry": {"coordinates":[-80.48790700000001,41.216702],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404172253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.379668,40.610889,-75.379668,40.610889",
     "geom:latitude":40.610889,
     "geom:longitude":-75.379668,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"337 Vine St",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"www.underwiredvintage.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85897245,
+        102191575,
+        404485987,
         85633793,
         101717907,
         102081395,
-        85897245
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"2b09a082b211c118981aa60829478c04",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081395,
+            "localadmin_id":404485987,
             "locality_id":101717907,
             "neighbourhood_id":85897245,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":404172253,
-    "wof:lastmodified":1449039522,
+    "wof:lastmodified":1454356695,
     "wof:name":"UnderWired",
     "wof:parent_id":85897245,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "consignment"
     ]
 },
-  "bbox": [-75.379668,40.610889,-75.379668,40.610889],
+  "bbox": [
+    -75.379668,
+    40.610889,
+    -75.379668,
+    40.610889
+],
   "geometry": {"coordinates":[-75.379668,40.610889],"type":"Point"}
 }

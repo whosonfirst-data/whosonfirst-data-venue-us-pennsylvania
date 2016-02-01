@@ -2,13 +2,14 @@
   "id": 387265147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.841456,40.512171,-79.841456,40.512171",
     "geom:latitude":40.512171,
     "geom:longitude":-79.841456,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"423 Plum St Ste 8",
     "sg:city":"Oakmont",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85818743
+        85818743,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"5d573e77d2c83477ea2188674bc9afe0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85818743,
             "region_id":85688481,
             "venue_id":387265147
         }
     ],
     "wof:id":387265147,
-    "wof:lastmodified":1449057396,
+    "wof:lastmodified":1454359091,
     "wof:name":"Metric Stainless And Standard",
     "wof:parent_id":85818743,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "fasteners-industrial"
     ]
 },
-  "bbox": [-79.841456,40.512171,-79.841456,40.512171],
-  "geometry": {"coordinates":[-79.841456,40.512171],"type":"Point"}
+  "bbox": [
+    -79.841456,
+    40.512171,
+    -79.841456,
+    40.512171
+],
+  "geometry": {"coordinates":[-79.84145599999999,40.512171],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403707543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.671609,40.268594,-76.671609,40.268594",
     "geom:latitude":40.268594,
     "geom:longitude":-76.671609,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"8 Briarcrest Sq",
     "sg:city":"Hershey",
     "sg:classifiers":[
@@ -47,11 +48,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85821955,
+        102191575,
+        404483303,
         85633793,
         101719813,
         102081347,
-        85821955
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,9 +64,10 @@
     "wof:geomhash":"8a8acb95363f0646db1768c80356b438",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
+            "localadmin_id":404483303,
             "locality_id":101719813,
             "neighbourhood_id":85821955,
             "region_id":85688481,
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":403707543,
-    "wof:lastmodified":1449055768,
+    "wof:lastmodified":1454357867,
     "wof:name":"Allstate Insurance Company - Alan Mcculley",
     "wof:parent_id":85821955,
     "wof:placetype":"venue",
@@ -86,6 +90,11 @@
         "renter"
     ]
 },
-  "bbox": [-76.671609,40.268594,-76.671609,40.268594],
+  "bbox": [
+    -76.671609,
+    40.268594,
+    -76.671609,
+    40.268594
+],
   "geometry": {"coordinates":[-76.671609,40.268594],"type":"Point"}
 }

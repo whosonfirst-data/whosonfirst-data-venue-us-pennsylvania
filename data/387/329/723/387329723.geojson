@@ -2,13 +2,14 @@
   "id": 387329723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.031502,40.385101,-80.031502,40.385101",
     "geom:latitude":40.385101,
     "geom:longitude":-80.031502,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"875 Bridgewater Dr",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     "sg:website":"www.shaklee.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85807877,
+        102191575,
+        404482523,
         85633793,
+        101718805,
         102080887,
-        85807877
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +45,18 @@
     "wof:geomhash":"3922cf87144090feff0a09e3ae062bfb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
+            "localadmin_id":404482523,
+            "locality_id":101718805,
             "neighbourhood_id":85807877,
             "region_id":85688481,
             "venue_id":387329723
         }
     ],
     "wof:id":387329723,
-    "wof:lastmodified":1449057156,
+    "wof:lastmodified":1454358890,
     "wof:name":"Shaklee Products Distributor",
     "wof:parent_id":85807877,
     "wof:placetype":"venue",
@@ -61,6 +66,11 @@
         "market"
     ]
 },
-  "bbox": [-80.031502,40.385101,-80.031502,40.385101],
+  "bbox": [
+    -80.031502,
+    40.385101,
+    -80.031502,
+    40.385101
+],
   "geometry": {"coordinates":[-80.031502,40.385101],"type":"Point"}
 }

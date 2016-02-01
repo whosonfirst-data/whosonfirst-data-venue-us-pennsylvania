@@ -2,13 +2,14 @@
   "id": 387422315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.003877,40.442252,-80.003877,40.442252",
     "geom:latitude":40.442252,
     "geom:longitude":-80.003877,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"603 Stanwix St Ste 1399",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -25,11 +26,13 @@
     "sg:website":"www.legalmgmt.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85815129,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85815129
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +42,10 @@
     "wof:geomhash":"f1965b6976f2be57733f30061548d737",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85815129,
             "region_id":85688481,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":387422315,
-    "wof:lastmodified":1449056379,
+    "wof:lastmodified":1454358295,
     "wof:name":"Legal Management Services Inc",
     "wof:parent_id":85815129,
     "wof:placetype":"venue",
@@ -57,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.003877,40.442252,-80.003877,40.442252],
+  "bbox": [
+    -80.003877,
+    40.442252,
+    -80.003877,
+    40.442252
+],
   "geometry": {"coordinates":[-80.003877,40.442252],"type":"Point"}
 }

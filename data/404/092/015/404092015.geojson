@@ -2,13 +2,14 @@
   "id": 404092015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.309009,40.044912,-76.309009,40.044912",
     "geom:latitude":40.044912,
     "geom:longitude":-76.309009,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"450 N Prince St",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85846173,
+        102191575,
+        404487183,
         85633793,
         101718643,
         102081377,
-        85846173
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"cddbea84d22c2de9090ba98f4e7f8a86",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081377,
+            "localadmin_id":404487183,
             "locality_id":101718643,
             "neighbourhood_id":85846173,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":404092015,
-    "wof:lastmodified":1449040070,
+    "wof:lastmodified":1454356990,
     "wof:name":"Garden Spot Leasing Corp",
     "wof:parent_id":85846173,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "store"
     ]
 },
-  "bbox": [-76.309009,40.044912,-76.309009,40.044912],
+  "bbox": [
+    -76.309009,
+    40.044912,
+    -76.309009,
+    40.044912
+],
   "geometry": {"coordinates":[-76.309009,40.044912],"type":"Point"}
 }

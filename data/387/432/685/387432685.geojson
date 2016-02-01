@@ -2,13 +2,14 @@
   "id": 387432685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.95804,40.512414,-79.95804,40.512414",
     "geom:latitude":40.512414,
     "geom:longitude":-79.95804,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"611 Mount Royal Blvd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -28,7 +29,12 @@
     "sg:website":"http://www.casperagency.com?utm_source=yp&utm_medium=cpc&utm_campaign=ck_yp",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420536361,
+        102191575,
+        404484307,
         85633793,
+        101720515,
+        102080887,
         85688481
     ],
     "wof:breaches":[],
@@ -39,18 +45,20 @@
     "wof:geomhash":"80770f25b8c7f1ce96d66627c3d07cd5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102080887,
+            "localadmin_id":404484307,
+            "locality_id":101720515,
+            "neighbourhood_id":420536361,
             "region_id":85688481,
             "venue_id":387432685
         }
     ],
     "wof:id":387432685,
-    "wof:lastmodified":1449056049,
+    "wof:lastmodified":1454358041,
     "wof:name":"CASPER INSURANCE AGENCY INC",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536361,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -58,6 +66,11 @@
         "auto"
     ]
 },
-  "bbox": [-79.95804,40.512414,-79.95804,40.512414],
+  "bbox": [
+    -79.95804,
+    40.512414,
+    -79.95804,
+    40.512414
+],
   "geometry": {"coordinates":[-79.95804,40.512414],"type":"Point"}
 }

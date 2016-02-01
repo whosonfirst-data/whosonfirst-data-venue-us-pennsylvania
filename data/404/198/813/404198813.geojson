@@ -2,13 +2,14 @@
   "id": 404198813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.395302,40.6334,-75.395302,40.6334",
     "geom:latitude":40.6334,
     "geom:longitude":-75.395302,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1170 8th Ave",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85802779,
+        102191575,
+        404485987,
         85633793,
         101717907,
         102081395,
-        85802779
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"4c0ea307d72c5588280234da6dd9a21e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081395,
+            "localadmin_id":404485987,
             "locality_id":101717907,
             "neighbourhood_id":85802779,
             "region_id":85688481,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":404198813,
-    "wof:lastmodified":1449039457,
+    "wof:lastmodified":1454356659,
     "wof:name":"Bethlehem Steel Corp",
     "wof:parent_id":85802779,
     "wof:placetype":"venue",
@@ -72,6 +76,11 @@
         "historical"
     ]
 },
-  "bbox": [-75.395302,40.6334,-75.395302,40.6334],
+  "bbox": [
+    -75.395302,
+    40.6334,
+    -75.395302,
+    40.6334
+],
   "geometry": {"coordinates":[-75.395302,40.6334],"type":"Point"}
 }

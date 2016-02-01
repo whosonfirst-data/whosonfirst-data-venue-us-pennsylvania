@@ -2,13 +2,14 @@
   "id": 387951997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.980638,40.38752,-76.980638,40.38752",
     "geom:latitude":40.38752,
     "geom:longitude":-76.980638,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1013 Mountain Rd",
     "sg:city":"Dauphin",
     "sg:classifiers":[
@@ -34,8 +35,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85850447
+        85850447,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +46,15 @@
     "wof:geomhash":"03773e62d82befc1ecc08dbd16055fd2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85850447,
             "region_id":85688481,
             "venue_id":387951997
         }
     ],
     "wof:id":387951997,
-    "wof:lastmodified":1449056288,
+    "wof:lastmodified":1454358225,
     "wof:name":"Tender Loving Care Kennel",
     "wof:parent_id":85850447,
     "wof:placetype":"venue",
@@ -65,6 +64,11 @@
         "kennel"
     ]
 },
-  "bbox": [-76.980638,40.38752,-76.980638,40.38752],
+  "bbox": [
+    -76.980638,
+    40.38752,
+    -76.980638,
+    40.38752
+],
   "geometry": {"coordinates":[-76.980638,40.38752],"type":"Point"}
 }

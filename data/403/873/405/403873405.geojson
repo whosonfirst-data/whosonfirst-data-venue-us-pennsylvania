@@ -2,13 +2,14 @@
   "id": 403873405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.838799,40.2869,-76.838799,40.2869",
     "geom:latitude":40.2869,
     "geom:longitude":-76.838799,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3502 Walnut St",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85843183,
+        102191575,
+        404486305,
         85633793,
         101719821,
         102081347,
-        85843183
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"b94fea9f614e181ed0b4b24ced472551",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
+            "localadmin_id":404486305,
             "locality_id":101719821,
             "neighbourhood_id":85843183,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":403873405,
-    "wof:lastmodified":1449054916,
+    "wof:lastmodified":1454357362,
     "wof:name":"Broadway Cafe",
     "wof:parent_id":85843183,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "nightlife"
     ]
 },
-  "bbox": [-76.838799,40.2869,-76.838799,40.2869],
-  "geometry": {"coordinates":[-76.838799,40.2869],"type":"Point"}
+  "bbox": [
+    -76.838799,
+    40.2869,
+    -76.838799,
+    40.2869
+],
+  "geometry": {"coordinates":[-76.83879899999999,40.2869],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403983763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.244915,39.834689,-77.244915,39.834689",
     "geom:latitude":39.834689,
     "geom:longitude":-77.244915,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"410 Buford Ave",
     "sg:city":"Gettysburg",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080899,
-        85804527
+        85804527,
+        102080899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"513f704f4db236d55302fd99c1598016",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080899,
-            "locality_id":-1,
             "neighbourhood_id":85804527,
             "region_id":85688481,
             "venue_id":403983763
         }
     ],
     "wof:id":403983763,
-    "wof:lastmodified":1449055853,
+    "wof:lastmodified":1454357911,
     "wof:name":"Appalachian Brewing Company",
     "wof:parent_id":85804527,
     "wof:placetype":"venue",
@@ -68,6 +67,11 @@
         "grill"
     ]
 },
-  "bbox": [-77.244915,39.834689,-77.244915,39.834689],
-  "geometry": {"coordinates":[-77.244915,39.834689],"type":"Point"}
+  "bbox": [
+    -77.244915,
+    39.834689,
+    -77.244915,
+    39.834689
+],
+  "geometry": {"coordinates":[-77.24491500000001,39.834689],"type":"Point"}
 }

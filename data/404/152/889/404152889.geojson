@@ -2,13 +2,14 @@
   "id": 404152889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.169059,40.850453,-75.169059,40.850453",
     "geom:latitude":40.850453,
     "geom:longitude":-75.169059,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"17 Rainbow Dr",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081395,
-        85851101
+        85851101,
+        102081395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"ae3ff7956f9b643bb26b1c010417d6b7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081395,
-            "locality_id":-1,
             "neighbourhood_id":85851101,
             "region_id":85688481,
             "venue_id":404152889
         }
     ],
     "wof:id":404152889,
-    "wof:lastmodified":1449040012,
+    "wof:lastmodified":1454356955,
     "wof:name":"Minervini Electric Inc",
     "wof:parent_id":85851101,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "electrician"
     ]
 },
-  "bbox": [-75.169059,40.850453,-75.169059,40.850453],
+  "bbox": [
+    -75.169059,
+    40.850453,
+    -75.169059,
+    40.850453
+],
   "geometry": {"coordinates":[-75.169059,40.850453],"type":"Point"}
 }

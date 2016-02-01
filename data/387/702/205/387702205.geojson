@@ -2,13 +2,14 @@
   "id": 387702205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.91332,40.902339,-79.91332,40.902339",
     "geom:latitude":40.902339,
     "geom:longitude":-79.91332,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1623 N Main Street Ext",
     "sg:city":"Butler",
     "sg:classifiers":[
@@ -52,10 +53,13 @@
     "sg:website":"http://www.salvationarmyusa.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536957,
+        102191575,
+        404485061,
         85633793,
         101720155,
-        102083677
+        102083677,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,19 +69,20 @@
     "wof:geomhash":"6111b01cdf81002d068f7b4a14431030",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083677,
+            "localadmin_id":404485061,
             "locality_id":101720155,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420536957,
             "region_id":85688481,
             "venue_id":387702205
         }
     ],
     "wof:id":387702205,
-    "wof:lastmodified":1449058007,
+    "wof:lastmodified":1454360650,
     "wof:name":"Salvation Army",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536957,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -89,6 +94,11 @@
         "church"
     ]
 },
-  "bbox": [-79.91332,40.902339,-79.91332,40.902339],
+  "bbox": [
+    -79.91332,
+    40.902339,
+    -79.91332,
+    40.902339
+],
   "geometry": {"coordinates":[-79.91332,40.902339],"type":"Point"}
 }

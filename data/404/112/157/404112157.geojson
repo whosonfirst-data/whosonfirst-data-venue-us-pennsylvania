@@ -2,13 +2,14 @@
   "id": 404112157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.84097,41.123245,-76.84097,41.123245",
     "geom:latitude":41.123245,
     "geom:longitude":-76.84097,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3 Dove Dr",
     "sg:city":"Watsontown",
     "sg:classifiers":[
@@ -37,8 +38,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081349,
-        85837713
+        85837713,
+        102081349
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +49,15 @@
     "wof:geomhash":"660c696e9bcaacac9e01a644621530d0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081349,
-            "locality_id":-1,
             "neighbourhood_id":85837713,
             "region_id":85688481,
             "venue_id":404112157
         }
     ],
     "wof:id":404112157,
-    "wof:lastmodified":1449039561,
+    "wof:lastmodified":1454356715,
     "wof:name":"Grace Construction",
     "wof:parent_id":85837713,
     "wof:placetype":"venue",
@@ -70,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-76.84097,41.123245,-76.84097,41.123245],
+  "bbox": [
+    -76.84097,
+    41.123245,
+    -76.84097,
+    41.123245
+],
   "geometry": {"coordinates":[-76.84097,41.123245],"type":"Point"}
 }

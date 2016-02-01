@@ -2,13 +2,14 @@
   "id": 387301553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.91394,40.45023,-79.91394,40.45023",
     "geom:latitude":40.45023,
     "geom:longitude":-79.91394,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"401 Hastings St",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[],
@@ -19,11 +20,13 @@
     "sg:website":"http://www.pointbrugge.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85842519,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85842519
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -33,9 +36,10 @@
     "wof:geomhash":"a66a3907b7bd1739c8775f4024b4e400",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85842519,
             "region_id":85688481,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":387301553,
-    "wof:lastmodified":1449057072,
+    "wof:lastmodified":1454358816,
     "wof:name":"Point Brugge Cafe",
     "wof:parent_id":85842519,
     "wof:placetype":"venue",
@@ -51,6 +55,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.91394,40.45023,-79.91394,40.45023],
+  "bbox": [
+    -79.91394,
+    40.45023,
+    -79.91394,
+    40.45023
+],
   "geometry": {"coordinates":[-79.91394,40.45023],"type":"Point"}
 }

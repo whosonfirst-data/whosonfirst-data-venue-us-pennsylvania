@@ -2,13 +2,14 @@
   "id": 404009081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.727353,39.964216,-76.727353,39.964216",
     "geom:latitude":39.964216,
     "geom:longitude":-76.727353,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"35 E Philadelphia St",
     "sg:city":"York",
     "sg:classifiers":[
@@ -33,10 +34,13 @@
     "sg:website":"http://www.lsmlawfirm.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85850705,
+        102191575,
+        404488029,
         85633793,
+        101717279,
         102080953,
-        85850705
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +50,18 @@
     "wof:geomhash":"c1d20fc18f4294e39df86422ab430e7a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
+            "localadmin_id":404488029,
+            "locality_id":101717279,
             "neighbourhood_id":85850705,
             "region_id":85688481,
             "venue_id":404009081
         }
     ],
     "wof:id":404009081,
-    "wof:lastmodified":1449040309,
+    "wof:lastmodified":1454357126,
     "wof:name":"Lineberry Semke & Mc Pate LLC",
     "wof:parent_id":85850705,
     "wof:placetype":"venue",
@@ -71,6 +76,11 @@
         "custody"
     ]
 },
-  "bbox": [-76.727353,39.964216,-76.727353,39.964216],
-  "geometry": {"coordinates":[-76.727353,39.964216],"type":"Point"}
+  "bbox": [
+    -76.727353,
+    39.964216,
+    -76.727353,
+    39.964216
+],
+  "geometry": {"coordinates":[-76.72735299999999,39.964216],"type":"Point"}
 }

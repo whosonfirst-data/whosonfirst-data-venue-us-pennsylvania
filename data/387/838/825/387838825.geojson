@@ -2,13 +2,14 @@
   "id": 387838825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.070748,42.107577,-80.070748,42.107577",
     "geom:latitude":42.107577,
     "geom:longitude":-80.070748,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3122 State St",
     "sg:city":"Erie",
     "sg:classifiers":[
@@ -47,11 +48,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85822031,
+        102191575,
+        404486673,
         85633793,
         101718253,
         102080955,
-        85822031
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,9 +64,10 @@
     "wof:geomhash":"5faa19058787f4c4ce7d49a63f6142bd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080955,
+            "localadmin_id":404486673,
             "locality_id":101718253,
             "neighbourhood_id":85822031,
             "region_id":85688481,
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":387838825,
-    "wof:lastmodified":1449056569,
+    "wof:lastmodified":1454358441,
     "wof:name":"Allstate Insurance Company - Mary Carlotti",
     "wof:parent_id":85822031,
     "wof:placetype":"venue",
@@ -86,6 +90,11 @@
         "renter"
     ]
 },
-  "bbox": [-80.070748,42.107577,-80.070748,42.107577],
-  "geometry": {"coordinates":[-80.070748,42.107577],"type":"Point"}
+  "bbox": [
+    -80.070748,
+    42.107577,
+    -80.070748,
+    42.107577
+],
+  "geometry": {"coordinates":[-80.07074799999999,42.107577],"type":"Point"}
 }

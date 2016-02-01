@@ -2,13 +2,14 @@
   "id": 387650361,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.577928,40.109304,-79.577928,40.109304",
     "geom:latitude":40.109304,
     "geom:longitude":-79.577928,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"407 Porter Ave",
     "sg:city":"Scottdale",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85828483,
+        102191575,
+        404484117,
         85633793,
         101717129,
         102081383,
-        85828483
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"f389f77c82db36ced464f995a127eee1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081383,
+            "localadmin_id":404484117,
             "locality_id":101717129,
             "neighbourhood_id":85828483,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387650361,
-    "wof:lastmodified":1449058425,
+    "wof:lastmodified":1454360779,
     "wof:name":"Schwan's Home Service, Inc.",
     "wof:parent_id":85828483,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "foods-wholesale"
     ]
 },
-  "bbox": [-79.577928,40.109304,-79.577928,40.109304],
+  "bbox": [
+    -79.577928,
+    40.109304,
+    -79.577928,
+    40.109304
+],
   "geometry": {"coordinates":[-79.577928,40.109304],"type":"Point"}
 }

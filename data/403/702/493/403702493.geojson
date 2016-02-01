@@ -2,13 +2,14 @@
   "id": 403702493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.624643,40.295128,-76.624643,40.295128",
     "geom:latitude":40.295128,
     "geom:longitude":-76.624643,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1108 E Chocolate Ave Ste 2",
     "sg:city":"Hershey",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85850549,
+        102191575,
+        404483303,
         85633793,
         101719813,
         102081347,
-        85850549
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"4f42982f9aae7a42e1ece382cc052f02",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
+            "localadmin_id":404483303,
             "locality_id":101719813,
             "neighbourhood_id":85850549,
             "region_id":85688481,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":403702493,
-    "wof:lastmodified":1449055300,
+    "wof:lastmodified":1454357591,
     "wof:name":"Endodontics Assocs",
     "wof:parent_id":85850549,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.624643,40.295128,-76.624643,40.295128],
-  "geometry": {"coordinates":[-76.624643,40.295128],"type":"Point"}
+  "bbox": [
+    -76.624643,
+    40.295128,
+    -76.624643,
+    40.295128
+],
+  "geometry": {"coordinates":[-76.62464300000001,40.295128],"type":"Point"}
 }

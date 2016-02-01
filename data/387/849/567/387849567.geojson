@@ -2,13 +2,14 @@
   "id": 387849567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.397106,40.53851,-78.397106,40.53851",
     "geom:latitude":40.53851,
     "geom:longitude":-78.397106,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"126 N 16th Ave",
     "sg:city":"Altoona",
     "sg:classifiers":[
@@ -44,8 +45,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081325,
-        85854977
+        85854977,
+        102081325
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,17 +56,15 @@
     "wof:geomhash":"24dd70dd7dbbf464875691d7a4590c69",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081325,
-            "locality_id":-1,
             "neighbourhood_id":85854977,
             "region_id":85688481,
             "venue_id":387849567
         }
     ],
     "wof:id":387849567,
-    "wof:lastmodified":1449056801,
+    "wof:lastmodified":1454358623,
     "wof:name":"Veterans Of Foreign Wars Of The United States",
     "wof:parent_id":85854977,
     "wof:placetype":"venue",
@@ -79,6 +78,11 @@
         "volunteer"
     ]
 },
-  "bbox": [-78.397106,40.53851,-78.397106,40.53851],
-  "geometry": {"coordinates":[-78.397106,40.53851],"type":"Point"}
+  "bbox": [
+    -78.397106,
+    40.53851,
+    -78.397106,
+    40.53851
+],
+  "geometry": {"coordinates":[-78.39710599999999,40.53851],"type":"Point"}
 }

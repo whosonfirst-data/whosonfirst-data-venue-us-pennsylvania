@@ -2,13 +2,14 @@
   "id": 387308463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.994904,40.386299,-79.994904,40.386299",
     "geom:latitude":40.386299,
     "geom:longitude":-79.994904,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2237 Saw Mill Run Blvd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85839961,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85839961
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"a521c283a5f1a990f6ecbb484b4f56a4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85839961,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387308463,
-    "wof:lastmodified":1449060017,
+    "wof:lastmodified":1454361262,
     "wof:name":"Gillece Collision Inc",
     "wof:parent_id":85839961,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "shop"
     ]
 },
-  "bbox": [-79.994904,40.386299,-79.994904,40.386299],
-  "geometry": {"coordinates":[-79.994904,40.386299],"type":"Point"}
+  "bbox": [
+    -79.994904,
+    40.386299,
+    -79.994904,
+    40.386299
+],
+  "geometry": {"coordinates":[-79.99490400000001,40.386299],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387704545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.903394,40.749736,-79.903394,40.749736",
     "geom:latitude":40.749736,
     "geom:longitude":-79.903394,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"230 Anderson Rd",
     "sg:city":"Butler",
     "sg:classifiers":[
@@ -26,8 +27,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102083677,
-        85845445
+        85845445,
+        102083677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,17 +38,15 @@
     "wof:geomhash":"10bfb5da96b8b8a8aaa464395d4ed4b2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102083677,
-            "locality_id":-1,
             "neighbourhood_id":85845445,
             "region_id":85688481,
             "venue_id":387704545
         }
     ],
     "wof:id":387704545,
-    "wof:lastmodified":1449057094,
+    "wof:lastmodified":1454358832,
     "wof:name":"Ohara Woods Club",
     "wof:parent_id":85845445,
     "wof:placetype":"venue",
@@ -55,6 +54,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.903394,40.749736,-79.903394,40.749736],
-  "geometry": {"coordinates":[-79.903394,40.749736],"type":"Point"}
+  "bbox": [
+    -79.903394,
+    40.749736,
+    -79.903394,
+    40.749736
+],
+  "geometry": {"coordinates":[-79.90339400000001,40.749736],"type":"Point"}
 }

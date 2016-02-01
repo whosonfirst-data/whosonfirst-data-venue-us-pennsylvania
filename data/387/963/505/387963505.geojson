@@ -2,13 +2,14 @@
   "id": 387963505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.916044,40.273871,-76.916044,40.273871",
     "geom:latitude":40.273871,
     "geom:longitude":-76.916044,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"104 Market St",
     "sg:city":"Enola",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85827253,
+        102191575,
+        404486399,
         85633793,
-        101717693,
-        102081347,
-        85827253
+        101719099,
+        102081359,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"9d441da94469d78411ab1451ccbe0d7b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081347,
-            "locality_id":101717693,
+            "county_id":102081359,
+            "localadmin_id":404486399,
+            "locality_id":101719099,
             "neighbourhood_id":85827253,
             "region_id":85688481,
             "venue_id":387963505
         }
     ],
     "wof:id":387963505,
-    "wof:lastmodified":1449056473,
+    "wof:lastmodified":1454358380,
     "wof:name":"Grotto Pub",
     "wof:parent_id":85827253,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "american"
     ]
 },
-  "bbox": [-76.916044,40.273871,-76.916044,40.273871],
+  "bbox": [
+    -76.916044,
+    40.273871,
+    -76.916044,
+    40.273871
+],
   "geometry": {"coordinates":[-76.916044,40.273871],"type":"Point"}
 }

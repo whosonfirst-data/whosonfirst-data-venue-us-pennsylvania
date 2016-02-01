@@ -2,13 +2,14 @@
   "id": 387485223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.828575,40.464582,-79.828575,40.464582",
     "geom:latitude":40.464582,
     "geom:longitude":-79.828575,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"10 Duff Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -49,8 +50,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85845623
+        85845623,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,17 +61,15 @@
     "wof:geomhash":"1e8feaa9cf25dab989e9d2e3d9900b26",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85845623,
             "region_id":85688481,
             "venue_id":387485223
         }
     ],
     "wof:id":387485223,
-    "wof:lastmodified":1449058421,
+    "wof:lastmodified":1454360777,
     "wof:name":"Allstate Insurance Company - Timothy Dalton",
     "wof:parent_id":85845623,
     "wof:placetype":"venue",
@@ -85,6 +84,11 @@
         "renter"
     ]
 },
-  "bbox": [-79.828575,40.464582,-79.828575,40.464582],
+  "bbox": [
+    -79.828575,
+    40.464582,
+    -79.828575,
+    40.464582
+],
   "geometry": {"coordinates":[-79.828575,40.464582],"type":"Point"}
 }

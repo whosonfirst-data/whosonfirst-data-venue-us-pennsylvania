@@ -2,13 +2,14 @@
   "id": 404073037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.191799,39.986049,-76.191799,39.986049",
     "geom:latitude":39.986049,
     "geom:longitude":-76.191799,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"13 David Bair Cir",
     "sg:city":"Strasburg",
     "sg:classifiers":[
@@ -38,8 +39,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85868585
+        85868585,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +50,15 @@
     "wof:geomhash":"f219fb36f4f5980404beabe02aca0263",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85868585,
             "region_id":85688481,
             "venue_id":404073037
         }
     ],
     "wof:id":404073037,
-    "wof:lastmodified":1449039176,
+    "wof:lastmodified":1454356500,
     "wof:name":"Joe Underwood Septic",
     "wof:parent_id":85868585,
     "wof:placetype":"venue",
@@ -73,6 +72,11 @@
         "supply"
     ]
 },
-  "bbox": [-76.191799,39.986049,-76.191799,39.986049],
+  "bbox": [
+    -76.191799,
+    39.986049,
+    -76.191799,
+    39.986049
+],
   "geometry": {"coordinates":[-76.191799,39.986049],"type":"Point"}
 }

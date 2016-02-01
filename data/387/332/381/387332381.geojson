@@ -2,13 +2,14 @@
   "id": 387332381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.035627,40.394076,-80.035627,40.394076",
     "geom:latitude":40.394076,
     "geom:longitude":-80.035627,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2961 W Liberty Ave Ste 217",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -25,10 +26,13 @@
     "sg:website":"www.pittsburghbartendingschool.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536353,
+        102191575,
+        404484881,
         85633793,
         101718733,
-        102080887
+        102080887,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,24 +42,30 @@
     "wof:geomhash":"442bf8b6a116ac5b0ecd2d3228bd4509",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484881,
             "locality_id":101718733,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420536353,
             "region_id":85688481,
             "venue_id":387332381
         }
     ],
     "wof:id":387332381,
-    "wof:lastmodified":1449058226,
+    "wof:lastmodified":1454360714,
     "wof:name":"Pittsburgh Bartending School",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536353,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.035627,40.394076,-80.035627,40.394076],
-  "geometry": {"coordinates":[-80.035627,40.394076],"type":"Point"}
+  "bbox": [
+    -80.035627,
+    40.394076,
+    -80.035627,
+    40.394076
+],
+  "geometry": {"coordinates":[-80.03562700000001,40.394076],"type":"Point"}
 }

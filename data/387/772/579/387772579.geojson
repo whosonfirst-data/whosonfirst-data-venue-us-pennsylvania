@@ -2,13 +2,14 @@
   "id": 387772579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.548603,40.812099,-79.548603,40.812099",
     "geom:latitude":40.812099,
     "geom:longitude":-79.548603,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"8 Franklin Village Mall",
     "sg:city":"Kittanning",
     "sg:classifiers":[
@@ -49,10 +50,13 @@
     "sg:website":"http://clickserve.dartsearch.net/link/click?lid=43000000308049899",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536487,
+        102191575,
+        404484271,
         85633793,
         101720291,
-        102081371
+        102081371,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,19 +66,20 @@
     "wof:geomhash":"31b5fcfc4783b9cfe604bbf451fecec4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081371,
+            "localadmin_id":404484271,
             "locality_id":101720291,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420536487,
             "region_id":85688481,
             "venue_id":387772579
         }
     ],
     "wof:id":387772579,
-    "wof:lastmodified":1449057811,
+    "wof:lastmodified":1454360603,
     "wof:name":"T-Mobile",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536487,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -88,6 +93,11 @@
         "cellular"
     ]
 },
-  "bbox": [-79.548603,40.812099,-79.548603,40.812099],
+  "bbox": [
+    -79.548603,
+    40.812099,
+    -79.548603,
+    40.812099
+],
   "geometry": {"coordinates":[-79.548603,40.812099],"type":"Point"}
 }

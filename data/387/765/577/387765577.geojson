@@ -2,13 +2,14 @@
   "id": 387765577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.466476,41.233379,-80.466476,41.233379",
     "geom:latitude":41.233379,
     "geom:longitude":-80.466476,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2385 E State St",
     "sg:city":"Hermitage",
     "sg:classifiers":[
@@ -63,11 +64,13 @@
     "sg:website":"http://www.gianteagle.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85824773,
+        102191575,
+        404487983,
         85633793,
         101718107,
         102080965,
-        85824773
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,9 +80,10 @@
     "wof:geomhash":"2a3feb0ab7b0abe7558bc1f2ca8d63b0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080965,
+            "localadmin_id":404487983,
             "locality_id":101718107,
             "neighbourhood_id":85824773,
             "region_id":85688481,
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":387765577,
-    "wof:lastmodified":1449058307,
+    "wof:lastmodified":1454360740,
     "wof:name":"Giant Eagle",
     "wof:parent_id":85824773,
     "wof:placetype":"venue",
@@ -102,6 +106,11 @@
         "super"
     ]
 },
-  "bbox": [-80.466476,41.233379,-80.466476,41.233379],
+  "bbox": [
+    -80.466476,
+    41.233379,
+    -80.466476,
+    41.233379
+],
   "geometry": {"coordinates":[-80.466476,41.233379],"type":"Point"}
 }

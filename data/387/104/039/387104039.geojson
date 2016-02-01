@@ -2,13 +2,14 @@
   "id": 387104039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.743497,40.606015,-79.743497,40.606015",
     "geom:latitude":40.606015,
     "geom:longitude":-79.743497,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"837 6th Ave",
     "sg:city":"Brackenridge",
     "sg:classifiers":[
@@ -45,8 +46,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85842391
+        85842391,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,17 +57,15 @@
     "wof:geomhash":"0d196b285c5f4a374a1df37d2ed5ad80",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85842391,
             "region_id":85688481,
             "venue_id":387104039
         }
     ],
     "wof:id":387104039,
-    "wof:lastmodified":1449057672,
+    "wof:lastmodified":1454360556,
     "wof:name":"Pandalai Coatings Company Inc",
     "wof:parent_id":85842391,
     "wof:placetype":"venue",
@@ -81,6 +80,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-79.743497,40.606015,-79.743497,40.606015],
+  "bbox": [
+    -79.743497,
+    40.606015,
+    -79.743497,
+    40.606015
+],
   "geometry": {"coordinates":[-79.743497,40.606015],"type":"Point"}
 }

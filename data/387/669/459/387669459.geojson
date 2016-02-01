@@ -2,13 +2,14 @@
   "id": 387669459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.558426,41.375173,-78.558426,41.375173",
     "geom:latitude":41.375173,
     "geom:longitude":-78.558426,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1213 Million Dollar Hwy",
     "sg:city":"Kersey",
     "sg:classifiers":[
@@ -31,7 +32,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420537853,
+        102191575,
+        404486717,
         85633793,
+        101716717,
+        102081265,
         85688481
     ],
     "wof:breaches":[],
@@ -42,18 +48,20 @@
     "wof:geomhash":"5ec7dc5e86757ea763f6e3df08acc56c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081265,
+            "localadmin_id":404486717,
+            "locality_id":101716717,
+            "neighbourhood_id":420537853,
             "region_id":85688481,
             "venue_id":387669459
         }
     ],
     "wof:id":387669459,
-    "wof:lastmodified":1449056545,
+    "wof:lastmodified":1454358427,
     "wof:name":"John Brendels Auto Sales",
-    "wof:parent_id":-1,
+    "wof:parent_id":420537853,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -65,6 +73,11 @@
         "new"
     ]
 },
-  "bbox": [-78.558426,41.375173,-78.558426,41.375173],
+  "bbox": [
+    -78.558426,
+    41.375173,
+    -78.558426,
+    41.375173
+],
   "geometry": {"coordinates":[-78.558426,41.375173],"type":"Point"}
 }

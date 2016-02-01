@@ -2,13 +2,14 @@
   "id": 387328497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.886009,40.497682,-79.886009,40.497682",
     "geom:latitude":40.497682,
     "geom:longitude":-79.886009,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"112 Woodshire Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85830655,
+        102191575,
+        404484931,
         85633793,
+        101718683,
         102080887,
-        85830655
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +45,18 @@
     "wof:geomhash":"9bbd0344f04c34f01cf7a8aa6c124b6d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
+            "localadmin_id":404484931,
+            "locality_id":101718683,
             "neighbourhood_id":85830655,
             "region_id":85688481,
             "venue_id":387328497
         }
     ],
     "wof:id":387328497,
-    "wof:lastmodified":1449058348,
+    "wof:lastmodified":1454360752,
     "wof:name":"Nu-Tech Resources",
     "wof:parent_id":85830655,
     "wof:placetype":"venue",
@@ -62,6 +67,11 @@
         "wire"
     ]
 },
-  "bbox": [-79.886009,40.497682,-79.886009,40.497682],
+  "bbox": [
+    -79.886009,
+    40.497682,
+    -79.886009,
+    40.497682
+],
   "geometry": {"coordinates":[-79.886009,40.497682],"type":"Point"}
 }

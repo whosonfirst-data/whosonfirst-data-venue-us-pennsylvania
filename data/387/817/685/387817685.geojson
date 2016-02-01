@@ -2,13 +2,14 @@
   "id": 387817685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.299828,42.006088,-80.299828,42.006088",
     "geom:latitude":42.006088,
     "geom:longitude":-80.299828,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"125 Carrousel Ct",
     "sg:city":"Girard",
     "sg:classifiers":[
@@ -27,7 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420537927,
+        102191575,
+        404486677,
         85633793,
+        101718251,
+        102080955,
         85688481
     ],
     "wof:breaches":[],
@@ -38,18 +44,20 @@
     "wof:geomhash":"7ce5eeada2974382ba6da0b069462775",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102080955,
+            "localadmin_id":404486677,
+            "locality_id":101718251,
+            "neighbourhood_id":420537927,
             "region_id":85688481,
             "venue_id":387817685
         }
     ],
     "wof:id":387817685,
-    "wof:lastmodified":1449059173,
+    "wof:lastmodified":1454361004,
     "wof:name":"Shelby G Fowler Rev",
-    "wof:parent_id":-1,
+    "wof:parent_id":420537927,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +65,11 @@
         "clergy"
     ]
 },
-  "bbox": [-80.299828,42.006088,-80.299828,42.006088],
-  "geometry": {"coordinates":[-80.299828,42.006088],"type":"Point"}
+  "bbox": [
+    -80.299828,
+    42.006088,
+    -80.299828,
+    42.006088
+],
+  "geometry": {"coordinates":[-80.29982800000001,42.006088],"type":"Point"}
 }

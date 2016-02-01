@@ -2,13 +2,14 @@
   "id": 387402403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.995987,40.444272,-79.995987,40.444272",
     "geom:latitude":40.444272,
     "geom:longitude":-79.995987,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"960 Penn Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -68,11 +69,13 @@
     "sg:website":"www.fedex.com/us/office/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85873585,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85873585
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -82,9 +85,10 @@
     "wof:geomhash":"65b3ac270520e51570ee041d85e2c8c8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85873585,
             "region_id":85688481,
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":387402403,
-    "wof:lastmodified":1449057319,
+    "wof:lastmodified":1454359017,
     "wof:name":"FedEx Office Print & Ship Center",
     "wof:parent_id":85873585,
     "wof:placetype":"venue",
@@ -112,6 +116,11 @@
         "copy"
     ]
 },
-  "bbox": [-79.995987,40.444272,-79.995987,40.444272],
+  "bbox": [
+    -79.995987,
+    40.444272,
+    -79.995987,
+    40.444272
+],
   "geometry": {"coordinates":[-79.995987,40.444272],"type":"Point"}
 }

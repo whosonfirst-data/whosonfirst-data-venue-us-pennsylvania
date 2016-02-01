@@ -2,13 +2,14 @@
   "id": 404086727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.209867,40.04414,-76.209867,40.04414",
     "geom:latitude":40.04414,
     "geom:longitude":-76.209867,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"360 Mount Sidney Rd",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -33,8 +34,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85823025
+        85823025,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +45,15 @@
     "wof:geomhash":"1a92d55b4953cff714e11ff9989313ac",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85823025,
             "region_id":85688481,
             "venue_id":404086727
         }
     ],
     "wof:id":404086727,
-    "wof:lastmodified":1449039934,
+    "wof:lastmodified":1454356900,
     "wof:name":"Millcreek Fence",
     "wof:parent_id":85823025,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "deck"
     ]
 },
-  "bbox": [-76.209867,40.04414,-76.209867,40.04414],
+  "bbox": [
+    -76.209867,
+    40.04414,
+    -76.209867,
+    40.04414
+],
   "geometry": {"coordinates":[-76.209867,40.04414],"type":"Point"}
 }

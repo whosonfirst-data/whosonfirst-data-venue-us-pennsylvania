@@ -2,13 +2,14 @@
   "id": 387284267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.971153,40.428219,-79.971153,40.428219",
     "geom:latitude":40.428219,
     "geom:longitude":-79.971153,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2400 E Carson St",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"http://www.goodwillpitt.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85873595,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85873595
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"477762ac5a1190a2a3dcee55bd8e27ae",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85873595,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387284267,
-    "wof:lastmodified":1449058472,
+    "wof:lastmodified":1454360792,
     "wof:name":"Goodwill Mail Service",
     "wof:parent_id":85873595,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "shipping"
     ]
 },
-  "bbox": [-79.971153,40.428219,-79.971153,40.428219],
+  "bbox": [
+    -79.971153,
+    40.428219,
+    -79.971153,
+    40.428219
+],
   "geometry": {"coordinates":[-79.971153,40.428219],"type":"Point"}
 }

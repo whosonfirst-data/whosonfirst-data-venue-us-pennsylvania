@@ -2,13 +2,14 @@
   "id": 387697655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.884989,40.846244,-79.884989,40.846244",
     "geom:latitude":40.846244,
     "geom:longitude":-79.884989,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"122 Mccune Dr",
     "sg:city":"Butler",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85865387,
+        102191575,
+        404485059,
         85633793,
         101720139,
         102083677,
-        85865387
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"69a35e577306f7ef96b28780a3220659",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083677,
+            "localadmin_id":404485059,
             "locality_id":101720139,
             "neighbourhood_id":85865387,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387697655,
-    "wof:lastmodified":1449058508,
+    "wof:lastmodified":1454360801,
     "wof:name":"County Of Butler",
     "wof:parent_id":85865387,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "government-county"
     ]
 },
-  "bbox": [-79.884989,40.846244,-79.884989,40.846244],
+  "bbox": [
+    -79.884989,
+    40.846244,
+    -79.884989,
+    40.846244
+],
   "geometry": {"coordinates":[-79.884989,40.846244],"type":"Point"}
 }

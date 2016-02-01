@@ -2,13 +2,14 @@
   "id": 404075255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.311592,40.100948,-76.311592,40.100948",
     "geom:latitude":40.100948,
     "geom:longitude":-76.311592,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2791 Pebblebrook Dr",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85806481
+        85806481,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"e4e4630059e1b9c3670102eb1092cb2d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85806481,
             "region_id":85688481,
             "venue_id":404075255
         }
     ],
     "wof:id":404075255,
-    "wof:lastmodified":1449039790,
+    "wof:lastmodified":1454356804,
     "wof:name":"Rich Taraborelli Plumbing",
     "wof:parent_id":85806481,
     "wof:placetype":"venue",
@@ -64,6 +63,11 @@
         "contractors-commercial"
     ]
 },
-  "bbox": [-76.311592,40.100948,-76.311592,40.100948],
+  "bbox": [
+    -76.311592,
+    40.100948,
+    -76.311592,
+    40.100948
+],
   "geometry": {"coordinates":[-76.311592,40.100948],"type":"Point"}
 }

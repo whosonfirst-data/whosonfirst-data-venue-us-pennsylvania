@@ -2,13 +2,14 @@
   "id": 403871521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.823097,40.282299,-76.823097,40.282299",
     "geom:latitude":40.282299,
     "geom:longitude":-76.823097,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"805 SIR Thomas Ct",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85843183,
+        102191575,
+        404486305,
         85633793,
         101719821,
         102081347,
-        85843183
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"6e5f0ef0205efadec2ed61477320ec33",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
+            "localadmin_id":404486305,
             "locality_id":101719821,
             "neighbourhood_id":85843183,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":403871521,
-    "wof:lastmodified":1449055061,
+    "wof:lastmodified":1454357449,
     "wof:name":"Peppelman Walter C Jr DO",
     "wof:parent_id":85843183,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "orthopedist"
     ]
 },
-  "bbox": [-76.823097,40.282299,-76.823097,40.282299],
+  "bbox": [
+    -76.823097,
+    40.282299,
+    -76.823097,
+    40.282299
+],
   "geometry": {"coordinates":[-76.823097,40.282299],"type":"Point"}
 }

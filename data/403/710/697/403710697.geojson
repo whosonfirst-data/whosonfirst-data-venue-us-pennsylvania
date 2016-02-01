@@ -2,13 +2,14 @@
   "id": 403710697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.731572,40.26369,-76.731572,40.26369",
     "geom:latitude":40.26369,
     "geom:longitude":-76.731572,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"228 Pleasantview Rd",
     "sg:city":"Hummelstown",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85842349,
+        102191575,
+        404486175,
         85633793,
+        101717689,
         102081347,
-        85842349
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,17 +41,18 @@
     "wof:geomhash":"d21a8970d9fdd53a17477c19249eef40",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
+            "localadmin_id":404486175,
+            "locality_id":101717689,
             "neighbourhood_id":85842349,
             "region_id":85688481,
             "venue_id":403710697
         }
     ],
     "wof:id":403710697,
-    "wof:lastmodified":1449054710,
+    "wof:lastmodified":1454357235,
     "wof:name":"Laura Paul Hd Spa",
     "wof:parent_id":85842349,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.731572,40.26369,-76.731572,40.26369],
+  "bbox": [
+    -76.731572,
+    40.26369,
+    -76.731572,
+    40.26369
+],
   "geometry": {"coordinates":[-76.731572,40.26369],"type":"Point"}
 }

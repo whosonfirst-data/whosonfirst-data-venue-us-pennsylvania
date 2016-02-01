@@ -2,13 +2,14 @@
   "id": 387285647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.985703,40.425439,-79.985703,40.425439",
     "geom:latitude":40.425439,
     "geom:longitude":-79.985703,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"47 Welsh Way",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"www.cvs.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85850327,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85850327
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"8b0f3d1e30940f3bceb8bf2d79ef17d1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85850327,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387285647,
-    "wof:lastmodified":1449056230,
+    "wof:lastmodified":1454358179,
     "wof:name":"Cvs Pharmacy",
     "wof:parent_id":85850327,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "drugstore"
     ]
 },
-  "bbox": [-79.985703,40.425439,-79.985703,40.425439],
+  "bbox": [
+    -79.985703,
+    40.425439,
+    -79.985703,
+    40.425439
+],
   "geometry": {"coordinates":[-79.985703,40.425439],"type":"Point"}
 }

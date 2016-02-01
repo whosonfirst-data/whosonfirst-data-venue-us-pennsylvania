@@ -2,13 +2,14 @@
   "id": 387282407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.981784,40.428953,-79.981784,40.428953",
     "geom:latitude":40.428953,
     "geom:longitude":-79.981784,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1703 E Carson St Ste 2A",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"www.jenruiz.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85850327,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85850327
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"931f54b65116cb4046b6293ec7ccbd45",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85850327,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387282407,
-    "wof:lastmodified":1449058488,
+    "wof:lastmodified":1454360797,
     "wof:name":"Jen Ruiz Hair Designs",
     "wof:parent_id":85850327,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "hair"
     ]
 },
-  "bbox": [-79.981784,40.428953,-79.981784,40.428953],
+  "bbox": [
+    -79.981784,
+    40.428953,
+    -79.981784,
+    40.428953
+],
   "geometry": {"coordinates":[-79.981784,40.428953],"type":"Point"}
 }

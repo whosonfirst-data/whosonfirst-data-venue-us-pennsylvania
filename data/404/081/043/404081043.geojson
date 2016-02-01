@@ -2,13 +2,14 @@
   "id": 404081043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.341438,40.064294,-76.341438,40.064294",
     "geom:latitude":40.064294,
     "geom:longitude":-76.341438,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1480 Harrisburg Pike",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85848619
+        85848619,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"8394a3db98968f2550a2362cedc5a717",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85848619,
             "region_id":85688481,
             "venue_id":404081043
         }
     ],
     "wof:id":404081043,
-    "wof:lastmodified":1449039393,
+    "wof:lastmodified":1454356618,
     "wof:name":"Alaine V Grbach PC",
     "wof:parent_id":85848619,
     "wof:placetype":"venue",
@@ -72,6 +71,11 @@
         "bankruptcy"
     ]
 },
-  "bbox": [-76.341438,40.064294,-76.341438,40.064294],
+  "bbox": [
+    -76.341438,
+    40.064294,
+    -76.341438,
+    40.064294
+],
   "geometry": {"coordinates":[-76.341438,40.064294],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387697287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.922165,40.917762,-79.922165,40.917762",
     "geom:latitude":40.917762,
     "geom:longitude":-79.922165,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"212 Seminole Trl",
     "sg:city":"Butler",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536957,
+        102191575,
+        404485061,
         85633793,
         101720155,
-        102083677
+        102083677,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"288442d15f2b8226a059240d708f6aba",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083677,
+            "localadmin_id":404485061,
             "locality_id":101720155,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420536957,
             "region_id":85688481,
             "venue_id":387697287
         }
     ],
     "wof:id":387697287,
-    "wof:lastmodified":1449058507,
+    "wof:lastmodified":1454360800,
     "wof:name":"A Security Lmnts Of Wstrn Pa",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536957,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "system"
     ]
 },
-  "bbox": [-79.922165,40.917762,-79.922165,40.917762],
-  "geometry": {"coordinates":[-79.922165,40.917762],"type":"Point"}
+  "bbox": [
+    -79.922165,
+    40.917762,
+    -79.922165,
+    40.917762
+],
+  "geometry": {"coordinates":[-79.92216500000001,40.917762],"type":"Point"}
 }

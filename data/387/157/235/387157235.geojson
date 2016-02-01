@@ -2,13 +2,14 @@
   "id": 387157235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.486569,40.667032,-80.486569,40.667032",
     "geom:latitude":40.667032,
     "geom:longitude":-80.486569,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"122 Hummel Dr",
     "sg:city":"Industry",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536545,
+        102191575,
+        404484383,
         85633793,
         101718353,
-        102081323
+        102081323,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"91ee3bb34f9a6a6319cf971e81d3f06d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081323,
+            "localadmin_id":404484383,
             "locality_id":101718353,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420536545,
             "region_id":85688481,
             "venue_id":387157235
         }
     ],
     "wof:id":387157235,
-    "wof:lastmodified":1449059385,
+    "wof:lastmodified":1454361064,
     "wof:name":"Thompsons Rcycled Woden Pallet",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536545,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "skid"
     ]
 },
-  "bbox": [-80.486569,40.667032,-80.486569,40.667032],
+  "bbox": [
+    -80.486569,
+    40.667032,
+    -80.486569,
+    40.667032
+],
   "geometry": {"coordinates":[-80.486569,40.667032],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387488431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.002741,40.351483,-80.002741,40.351483",
     "geom:latitude":40.351483,
     "geom:longitude":-80.002741,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"129 Windvale Dr",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85857905,
+        102191575,
+        404484247,
         85633793,
         101718705,
         102080887,
-        85857905
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"b60a40311b63922d22297201b614ddc4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484247,
             "locality_id":101718705,
             "neighbourhood_id":85857905,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387488431,
-    "wof:lastmodified":1449059822,
+    "wof:lastmodified":1454361202,
     "wof:name":"Baldwin-Whitehall School District",
     "wof:parent_id":85857905,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "elementary"
     ]
 },
-  "bbox": [-80.002741,40.351483,-80.002741,40.351483],
+  "bbox": [
+    -80.002741,
+    40.351483,
+    -80.002741,
+    40.351483
+],
   "geometry": {"coordinates":[-80.002741,40.351483],"type":"Point"}
 }

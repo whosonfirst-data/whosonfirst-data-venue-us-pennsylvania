@@ -2,13 +2,14 @@
   "id": 387898213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.318613,41.524716,-77.318613,41.524716",
     "geom:latitude":41.524716,
     "geom:longitude":-77.318613,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1898 Oregon Hill Rd",
     "sg:city":"Morris",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081317,
-        85810013
+        85810013,
+        102081317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"8667d38ca2aaa34fd99bbaa3bfee78ae",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081317,
-            "locality_id":-1,
             "neighbourhood_id":85810013,
             "region_id":85688481,
             "venue_id":387898213
         }
     ],
     "wof:id":387898213,
-    "wof:lastmodified":1449056034,
+    "wof:lastmodified":1454358026,
     "wof:name":"John Johnston Trucking",
     "wof:parent_id":85810013,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "trucking"
     ]
 },
-  "bbox": [-77.318613,41.524716,-77.318613,41.524716],
+  "bbox": [
+    -77.318613,
+    41.524716,
+    -77.318613,
+    41.524716
+],
   "geometry": {"coordinates":[-77.318613,41.524716],"type":"Point"}
 }

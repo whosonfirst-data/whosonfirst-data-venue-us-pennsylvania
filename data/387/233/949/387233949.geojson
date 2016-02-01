@@ -2,13 +2,14 @@
   "id": 387233949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.082008,40.41045,-80.082008,40.41045",
     "geom:latitude":40.41045,
     "geom:longitude":-80.082008,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"413 E Main St",
     "sg:city":"Carnegie",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85816087,
+        102191575,
+        404484941,
         85633793,
         101718673,
         102080887,
-        85816087
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"7a0333e8a36b814b11c98d628c044298",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484941,
             "locality_id":101718673,
             "neighbourhood_id":85816087,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387233949,
-    "wof:lastmodified":1449059984,
+    "wof:lastmodified":1454361253,
     "wof:name":"Bevs Studio Hair",
     "wof:parent_id":85816087,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "stylist"
     ]
 },
-  "bbox": [-80.082008,40.41045,-80.082008,40.41045],
+  "bbox": [
+    -80.082008,
+    40.41045,
+    -80.082008,
+    40.41045
+],
   "geometry": {"coordinates":[-80.082008,40.41045],"type":"Point"}
 }

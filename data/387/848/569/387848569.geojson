@@ -2,13 +2,14 @@
   "id": 387848569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.408122,40.52924,-78.408122,40.52924",
     "geom:latitude":40.52924,
     "geom:longitude":-78.408122,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"405 26th Ave",
     "sg:city":"Altoona",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85818685,
+        102191575,
+        404484619,
         85633793,
         101716595,
         102081325,
-        85818685
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"23e938be98d57c82922508d94c2bac6f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081325,
+            "localadmin_id":404484619,
             "locality_id":101716595,
             "neighbourhood_id":85818685,
             "region_id":85688481,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":387848569,
-    "wof:lastmodified":1449056640,
+    "wof:lastmodified":1454358507,
     "wof:name":"S Herbs Cookie",
     "wof:parent_id":85818685,
     "wof:placetype":"venue",
@@ -72,6 +76,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-78.408122,40.52924,-78.408122,40.52924],
-  "geometry": {"coordinates":[-78.408122,40.52924],"type":"Point"}
+  "bbox": [
+    -78.408122,
+    40.52924,
+    -78.408122,
+    40.52924
+],
+  "geometry": {"coordinates":[-78.40812200000001,40.52924],"type":"Point"}
 }

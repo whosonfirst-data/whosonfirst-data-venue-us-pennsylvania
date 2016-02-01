@@ -2,13 +2,14 @@
   "id": 404089369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.335693,40.037395,-76.335693,40.037395",
     "geom:latitude":40.037395,
     "geom:longitude":-76.335693,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"100 Abbeyville Rd",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -55,8 +56,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85858805
+        85858805,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,17 +67,15 @@
     "wof:geomhash":"c7de7afb8b86817bd32fe165a38d7779",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85858805,
             "region_id":85688481,
             "venue_id":404089369
         }
     ],
     "wof:id":404089369,
-    "wof:lastmodified":1449039302,
+    "wof:lastmodified":1454356557,
     "wof:name":"ManorCare Health Services - Lancaster",
     "wof:parent_id":85858805,
     "wof:placetype":"venue",
@@ -91,6 +90,11 @@
         "physical"
     ]
 },
-  "bbox": [-76.335693,40.037395,-76.335693,40.037395],
-  "geometry": {"coordinates":[-76.335693,40.037395],"type":"Point"}
+  "bbox": [
+    -76.335693,
+    40.037395,
+    -76.335693,
+    40.037395
+],
+  "geometry": {"coordinates":[-76.33569300000001,40.037395],"type":"Point"}
 }

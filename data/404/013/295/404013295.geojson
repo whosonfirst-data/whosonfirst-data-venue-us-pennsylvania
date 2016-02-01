@@ -2,13 +2,14 @@
   "id": 404013295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.686012,39.926491,-76.686012,39.926491",
     "geom:latitude":39.926491,
     "geom:longitude":-76.686012,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"76 Acco Dr",
     "sg:city":"York",
     "sg:classifiers":[
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420540339,
+        102191575,
+        404488031,
         85633793,
-        101719481,
-        102080953
+        101719457,
+        102080953,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,20 @@
     "wof:geomhash":"83b0b2e3a6c9a75912f3556c6fb919b9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":101719481,
-            "neighbourhood_id":-1,
+            "localadmin_id":404488031,
+            "locality_id":101719457,
+            "neighbourhood_id":420540339,
             "region_id":85688481,
             "venue_id":404013295
         }
     ],
     "wof:id":404013295,
-    "wof:lastmodified":1449039938,
+    "wof:lastmodified":1454356906,
     "wof:name":"Acco Material Handling Solutions",
-    "wof:parent_id":-1,
+    "wof:parent_id":420540339,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -67,6 +72,11 @@
         "hoist"
     ]
 },
-  "bbox": [-76.686012,39.926491,-76.686012,39.926491],
-  "geometry": {"coordinates":[-76.686012,39.926491],"type":"Point"}
+  "bbox": [
+    -76.686012,
+    39.926491,
+    -76.686012,
+    39.926491
+],
+  "geometry": {"coordinates":[-76.68601200000001,39.926491],"type":"Point"}
 }

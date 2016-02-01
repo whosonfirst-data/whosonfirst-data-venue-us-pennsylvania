@@ -2,13 +2,14 @@
   "id": 404093485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.326957,40.027348,-76.326957,40.027348",
     "geom:latitude":40.027348,
     "geom:longitude":-76.326957,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1240 Millersville Pike",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85843407
+        85843407,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"9e5ae94c974042b230b009c90e2322dd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85843407,
             "region_id":85688481,
             "venue_id":404093485
         }
     ],
     "wof:id":404093485,
-    "wof:lastmodified":1449039084,
+    "wof:lastmodified":1454356412,
     "wof:name":"Brewers Outlet",
     "wof:parent_id":85843407,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "cigar"
     ]
 },
-  "bbox": [-76.326957,40.027348,-76.326957,40.027348],
-  "geometry": {"coordinates":[-76.326957,40.027348],"type":"Point"}
+  "bbox": [
+    -76.326957,
+    40.027348,
+    -76.326957,
+    40.027348
+],
+  "geometry": {"coordinates":[-76.32695699999999,40.027348],"type":"Point"}
 }

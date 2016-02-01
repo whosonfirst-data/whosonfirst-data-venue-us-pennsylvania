@@ -2,13 +2,14 @@
   "id": 387438901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.981901,40.366147,-79.981901,40.366147",
     "geom:latitude":40.366147,
     "geom:longitude":-79.981901,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4120 Brownsville Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -49,11 +50,13 @@
     "sg:website":"www.t-mobile.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85839661,
+        102191575,
+        404484247,
         85633793,
         101718705,
         102080887,
-        85839661
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,9 +66,10 @@
     "wof:geomhash":"39586014d11dab8b523371ed3b32d1ab",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484247,
             "locality_id":101718705,
             "neighbourhood_id":85839661,
             "region_id":85688481,
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":387438901,
-    "wof:lastmodified":1449057386,
+    "wof:lastmodified":1454359081,
     "wof:name":"T-Mobile",
     "wof:parent_id":85839661,
     "wof:placetype":"venue",
@@ -89,6 +93,11 @@
         "cellular"
     ]
 },
-  "bbox": [-79.981901,40.366147,-79.981901,40.366147],
-  "geometry": {"coordinates":[-79.981901,40.366147],"type":"Point"}
+  "bbox": [
+    -79.981901,
+    40.366147,
+    -79.981901,
+    40.366147
+],
+  "geometry": {"coordinates":[-79.98190099999999,40.366147],"type":"Point"}
 }

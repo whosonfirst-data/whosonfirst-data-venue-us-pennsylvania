@@ -2,13 +2,14 @@
   "id": 404112725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.86029,41.090932,-76.86029,41.090932",
     "geom:latitude":41.090932,
     "geom:longitude":-76.86029,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"300 E 8th St",
     "sg:city":"Watsontown",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081349,
-        85837713
+        85837713,
+        102081349
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"1feddfea26d8f12191380f8cdef37a3d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081349,
-            "locality_id":-1,
             "neighbourhood_id":85837713,
             "region_id":85688481,
             "venue_id":404112725
         }
     ],
     "wof:id":404112725,
-    "wof:lastmodified":1449039559,
+    "wof:lastmodified":1454356714,
     "wof:name":"Dr David Reiner",
     "wof:parent_id":85837713,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-76.86029,41.090932,-76.86029,41.090932],
-  "geometry": {"coordinates":[-76.86029,41.090932],"type":"Point"}
+  "bbox": [
+    -76.86029,
+    41.090932,
+    -76.86029,
+    41.090932
+],
+  "geometry": {"coordinates":[-76.86029000000001,41.090932],"type":"Point"}
 }

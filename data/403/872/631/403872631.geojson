@@ -2,13 +2,14 @@
   "id": 403872631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.834817,40.289616,-76.834817,40.289616",
     "geom:latitude":40.289616,
     "geom:longitude":-76.834817,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3725 Walnut St",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85843183,
+        102191575,
+        404486305,
         85633793,
         101719821,
         102081347,
-        85843183
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"946ca8ebe46d3b14697c8aa31f45686d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
+            "localadmin_id":404486305,
             "locality_id":101719821,
             "neighbourhood_id":85843183,
             "region_id":85688481,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":403872631,
-    "wof:lastmodified":1449054752,
+    "wof:lastmodified":1454357260,
     "wof:name":"Nextel",
     "wof:parent_id":85843183,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.834817,40.289616,-76.834817,40.289616],
+  "bbox": [
+    -76.834817,
+    40.289616,
+    -76.834817,
+    40.289616
+],
   "geometry": {"coordinates":[-76.834817,40.289616],"type":"Point"}
 }

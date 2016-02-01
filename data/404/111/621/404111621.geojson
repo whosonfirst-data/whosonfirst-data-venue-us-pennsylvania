@@ -2,13 +2,14 @@
   "id": 404111621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.749901,41.326698,-77.749901,41.326698",
     "geom:latitude":41.326698,
     "geom:longitude":-77.749901,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"900 Huron Ave",
     "sg:city":"Renovo",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080917,
-        85826685
+        85826685,
+        102080917
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"93139d8ae1d3032faa93e994fd81e715",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080917,
-            "locality_id":-1,
             "neighbourhood_id":85826685,
             "region_id":85688481,
             "venue_id":404111621
         }
     ],
     "wof:id":404111621,
-    "wof:lastmodified":1449040354,
+    "wof:lastmodified":1454357157,
     "wof:name":"Pringle's Batteries & Service",
     "wof:parent_id":85826685,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "part"
     ]
 },
-  "bbox": [-77.749901,41.326698,-77.749901,41.326698],
-  "geometry": {"coordinates":[-77.749901,41.326698],"type":"Point"}
+  "bbox": [
+    -77.749901,
+    41.326698,
+    -77.749901,
+    41.326698
+],
+  "geometry": {"coordinates":[-77.74990099999999,41.326698],"type":"Point"}
 }

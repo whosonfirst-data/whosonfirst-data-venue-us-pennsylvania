@@ -2,13 +2,14 @@
   "id": 387496171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.996233,40.505691,-79.996233,40.505691",
     "geom:latitude":40.505691,
     "geom:longitude":-79.996233,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4641 Peoples Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -38,8 +39,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85851357
+        85851357,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +50,15 @@
     "wof:geomhash":"5a784fbdcf37520aedc4e898708c97d7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85851357,
             "region_id":85688481,
             "venue_id":387496171
         }
     ],
     "wof:id":387496171,
-    "wof:lastmodified":1449059353,
+    "wof:lastmodified":1454361049,
     "wof:name":"A B C Fire Extinguisher Company",
     "wof:parent_id":85851357,
     "wof:placetype":"venue",
@@ -72,6 +71,11 @@
         "system"
     ]
 },
-  "bbox": [-79.996233,40.505691,-79.996233,40.505691],
+  "bbox": [
+    -79.996233,
+    40.505691,
+    -79.996233,
+    40.505691
+],
   "geometry": {"coordinates":[-79.996233,40.505691],"type":"Point"}
 }

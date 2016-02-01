@@ -2,13 +2,14 @@
   "id": 387230561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.080093,40.41193,-80.080093,40.41193",
     "geom:latitude":40.41193,
     "geom:longitude":-80.080093,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"541 E Main St",
     "sg:city":"Carnegie",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85816087,
+        102191575,
+        404484941,
         85633793,
         101718673,
         102080887,
-        85816087
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"d9abb7c2d2f319592f62e61e5ee5f763",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484941,
             "locality_id":101718673,
             "neighbourhood_id":85816087,
             "region_id":85688481,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":387230561,
-    "wof:lastmodified":1449058931,
+    "wof:lastmodified":1454360930,
     "wof:name":"Enspec Envmtl Sfety Cnsltantin",
     "wof:parent_id":85816087,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "first"
     ]
 },
-  "bbox": [-80.080093,40.41193,-80.080093,40.41193],
-  "geometry": {"coordinates":[-80.080093,40.41193],"type":"Point"}
+  "bbox": [
+    -80.080093,
+    40.41193,
+    -80.080093,
+    40.41193
+],
+  "geometry": {"coordinates":[-80.08009300000001,40.41193],"type":"Point"}
 }

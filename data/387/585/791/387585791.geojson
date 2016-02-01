@@ -2,13 +2,14 @@
   "id": 387585791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.728213,39.901004,-79.728213,39.901004",
     "geom:latitude":39.901004,
     "geom:longitude":-79.728213,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"65 W Main St Ste 103",
     "sg:city":"Uniontown",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     "sg:website":"http://www.nationalroadpa.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85850161,
+        102191575,
+        404487055,
         85633793,
+        101719799,
         102080959,
-        85850161
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +45,18 @@
     "wof:geomhash":"ca90d628155633ad0a44304c8f38e8d2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080959,
-            "locality_id":-1,
+            "localadmin_id":404487055,
+            "locality_id":101719799,
             "neighbourhood_id":85850161,
             "region_id":85688481,
             "venue_id":387585791
         }
     ],
     "wof:id":387585791,
-    "wof:lastmodified":1449058642,
+    "wof:lastmodified":1454360838,
     "wof:name":"National Road Heritage Corridor",
     "wof:parent_id":85850161,
     "wof:placetype":"venue",
@@ -61,6 +66,11 @@
         "historical"
     ]
 },
-  "bbox": [-79.728213,39.901004,-79.728213,39.901004],
+  "bbox": [
+    -79.728213,
+    39.901004,
+    -79.728213,
+    39.901004
+],
   "geometry": {"coordinates":[-79.728213,39.901004],"type":"Point"}
 }

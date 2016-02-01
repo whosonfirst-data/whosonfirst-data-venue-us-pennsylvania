@@ -2,13 +2,14 @@
   "id": 404170129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.389994,40.606707,-75.389994,40.606707",
     "geom:latitude":40.606707,
     "geom:longitude":-75.389994,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"605 Fiot St",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"www.thevineyardrestaurant.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85897253,
+        102191575,
+        404488067,
         85633793,
         101717913,
         102081327,
-        85897253
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"25ea4c2c1f06d31808a5a392e760dabc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081327,
+            "localadmin_id":404488067,
             "locality_id":101717913,
             "neighbourhood_id":85897253,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":404170129,
-    "wof:lastmodified":1449039131,
+    "wof:lastmodified":1454356459,
     "wof:name":"Vineyard Restaurant",
     "wof:parent_id":85897253,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "italian"
     ]
 },
-  "bbox": [-75.389994,40.606707,-75.389994,40.606707],
+  "bbox": [
+    -75.389994,
+    40.606707,
+    -75.389994,
+    40.606707
+],
   "geometry": {"coordinates":[-75.389994,40.606707],"type":"Point"}
 }

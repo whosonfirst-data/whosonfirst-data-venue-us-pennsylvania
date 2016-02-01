@@ -2,13 +2,14 @@
   "id": 387371833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.988899,40.438599,-79.988899,40.438599",
     "geom:latitude":40.438599,
     "geom:longitude":-79.988899,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1206 5th Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85873593,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85873593
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"193e5d1fbe76a1d407004bf998d0ebc7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85873593,
             "region_id":85688481,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":387371833,
-    "wof:lastmodified":1449059060,
+    "wof:lastmodified":1454360972,
     "wof:name":"Adam Robert Designer",
     "wof:parent_id":85873593,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "design"
     ]
 },
-  "bbox": [-79.988899,40.438599,-79.988899,40.438599],
+  "bbox": [
+    -79.988899,
+    40.438599,
+    -79.988899,
+    40.438599
+],
   "geometry": {"coordinates":[-79.988899,40.438599],"type":"Point"}
 }

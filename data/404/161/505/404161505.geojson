@@ -2,13 +2,14 @@
   "id": 404161505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.411922,40.596041,-75.411922,40.596041",
     "geom:latitude":40.596041,
     "geom:longitude":-75.411922,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1762 Acker Ave",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -47,8 +48,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081327,
-        85821253
+        85821253,
+        102081327
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,17 +59,15 @@
     "wof:geomhash":"2c605eac1bf949921446eee0fd835ba4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081327,
-            "locality_id":-1,
             "neighbourhood_id":85821253,
             "region_id":85688481,
             "venue_id":404161505
         }
     ],
     "wof:id":404161505,
-    "wof:lastmodified":1449039510,
+    "wof:lastmodified":1454356690,
     "wof:name":"Facchiano Iron Works Inc",
     "wof:parent_id":85821253,
     "wof:placetype":"venue",
@@ -86,6 +85,11 @@
         "welder"
     ]
 },
-  "bbox": [-75.411922,40.596041,-75.411922,40.596041],
+  "bbox": [
+    -75.411922,
+    40.596041,
+    -75.411922,
+    40.596041
+],
   "geometry": {"coordinates":[-75.411922,40.596041],"type":"Point"}
 }

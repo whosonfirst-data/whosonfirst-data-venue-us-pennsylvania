@@ -2,13 +2,14 @@
   "id": 387896147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.665359,41.64621,-77.665359,41.64621",
     "geom:latitude":41.64621,
     "geom:longitude":-77.665359,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1431 Germania Rd",
     "sg:city":"Galeton",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081299,
-        85821383
+        85821383,
+        102081299
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"2135eec2588e9135366fecd5f6f8f33c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081299,
-            "locality_id":-1,
             "neighbourhood_id":85821383,
             "region_id":85688481,
             "venue_id":387896147
         }
     ],
     "wof:id":387896147,
-    "wof:lastmodified":1449057486,
+    "wof:lastmodified":1454359295,
     "wof:name":"Abbott Township Road District",
     "wof:parent_id":85821383,
     "wof:placetype":"venue",
@@ -64,6 +63,11 @@
         "village"
     ]
 },
-  "bbox": [-77.665359,41.64621,-77.665359,41.64621],
+  "bbox": [
+    -77.665359,
+    41.64621,
+    -77.665359,
+    41.64621
+],
   "geometry": {"coordinates":[-77.665359,41.64621],"type":"Point"}
 }

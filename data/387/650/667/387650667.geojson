@@ -2,13 +2,14 @@
   "id": 387650667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.58867,40.10153,-79.58867,40.10153",
     "geom:latitude":40.10153,
     "geom:longitude":-79.58867,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"237 Pittsburgh St",
     "sg:city":"Scottdale",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85828483,
+        102191575,
+        404484117,
         85633793,
         101717129,
         102081383,
-        85828483
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"51c52f5b81adf4303169c9218defa883",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081383,
+            "localadmin_id":404484117,
             "locality_id":101717129,
             "neighbourhood_id":85828483,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387650667,
-    "wof:lastmodified":1449058425,
+    "wof:lastmodified":1454360779,
     "wof:name":"Westmore Insurance Service",
     "wof:parent_id":85828483,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "business"
     ]
 },
-  "bbox": [-79.58867,40.10153,-79.58867,40.10153],
-  "geometry": {"coordinates":[-79.58867,40.10153],"type":"Point"}
+  "bbox": [
+    -79.58867,
+    40.10153,
+    -79.58867,
+    40.10153
+],
+  "geometry": {"coordinates":[-79.58866999999999,40.10153],"type":"Point"}
 }

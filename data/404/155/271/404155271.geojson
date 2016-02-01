@@ -2,13 +2,14 @@
   "id": 404155271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.422433,40.703407,-75.422433,40.703407",
     "geom:latitude":40.703407,
     "geom:longitude":-75.422433,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5751 Nor Bath Blvd",
     "sg:city":"Bath",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081395,
-        85830333
+        85830333,
+        102081395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"d16b3727cf6767aad4df97b6759d3c6c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081395,
-            "locality_id":-1,
             "neighbourhood_id":85830333,
             "region_id":85688481,
             "venue_id":404155271
         }
     ],
     "wof:id":404155271,
-    "wof:lastmodified":1449040084,
+    "wof:lastmodified":1454356998,
     "wof:name":"Drc Technologies",
     "wof:parent_id":85830333,
     "wof:placetype":"venue",
@@ -61,6 +60,11 @@
         "repair"
     ]
 },
-  "bbox": [-75.422433,40.703407,-75.422433,40.703407],
+  "bbox": [
+    -75.422433,
+    40.703407,
+    -75.422433,
+    40.703407
+],
   "geometry": {"coordinates":[-75.422433,40.703407],"type":"Point"}
 }

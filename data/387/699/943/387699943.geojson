@@ -2,13 +2,14 @@
   "id": 387699943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.914143,40.902845,-79.914143,40.902845",
     "geom:latitude":40.902845,
     "geom:longitude":-79.914143,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1635 N Main Street Ext",
     "sg:city":"Butler",
     "sg:classifiers":[],
@@ -19,10 +20,13 @@
     "sg:website":"http://www.martinsalesandservice.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536957,
+        102191575,
+        404485061,
         85633793,
         101720155,
-        102083677
+        102083677,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -32,24 +36,30 @@
     "wof:geomhash":"220ed95a6d8f9daf27824448bdbcee52",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083677,
+            "localadmin_id":404485061,
             "locality_id":101720155,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420536957,
             "region_id":85688481,
             "venue_id":387699943
         }
     ],
     "wof:id":387699943,
-    "wof:lastmodified":1449056626,
+    "wof:lastmodified":1454358496,
     "wof:name":"B F Martin Sales & Service",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536957,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.914143,40.902845,-79.914143,40.902845],
+  "bbox": [
+    -79.914143,
+    40.902845,
+    -79.914143,
+    40.902845
+],
   "geometry": {"coordinates":[-79.914143,40.902845],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404192695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.357712,40.628658,-75.357712,40.628658",
     "geom:latitude":40.628658,
     "geom:longitude":-75.357712,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"950 Pembroke Rd",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85897241,
+        102191575,
+        404485987,
         85633793,
         101717907,
         102081395,
-        85897241
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"1536d4adf84a7e23ca68ad6c4ea5c12c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081395,
+            "localadmin_id":404485987,
             "locality_id":101717907,
             "neighbourhood_id":85897241,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":404192695,
-    "wof:lastmodified":1449039977,
+    "wof:lastmodified":1454356927,
     "wof:name":"Ani-Motion, Inc.",
     "wof:parent_id":85897241,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "clothing"
     ]
 },
-  "bbox": [-75.357712,40.628658,-75.357712,40.628658],
-  "geometry": {"coordinates":[-75.357712,40.628658],"type":"Point"}
+  "bbox": [
+    -75.357712,
+    40.628658,
+    -75.357712,
+    40.628658
+],
+  "geometry": {"coordinates":[-75.35771200000001,40.628658],"type":"Point"}
 }

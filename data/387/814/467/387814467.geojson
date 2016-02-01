@@ -2,13 +2,14 @@
   "id": 387814467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.236705,42.073092,-80.236705,42.073092",
     "geom:latitude":42.073092,
     "geom:longitude":-80.236705,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"245 Gateway Dr",
     "sg:city":"Fairview",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080955,
-        85832053
+        85832053,
+        102080955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"44ce7461f56aee02b5d8b66484920007",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080955,
-            "locality_id":-1,
             "neighbourhood_id":85832053,
             "region_id":85688481,
             "venue_id":387814467
         }
     ],
     "wof:id":387814467,
-    "wof:lastmodified":1449056797,
+    "wof:lastmodified":1454358618,
     "wof:name":"Kenneth J Handman",
     "wof:parent_id":85832053,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "handyman"
     ]
 },
-  "bbox": [-80.236705,42.073092,-80.236705,42.073092],
+  "bbox": [
+    -80.236705,
+    42.073092,
+    -80.236705,
+    42.073092
+],
   "geometry": {"coordinates":[-80.236705,42.073092],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403895019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.829952,40.254489,-76.829952,40.254489",
     "geom:latitude":40.254489,
     "geom:longitude":-76.829952,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3460 Paxton St.",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -26,8 +27,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85868485
+        85868485,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,17 +38,15 @@
     "wof:geomhash":"361e2d5b335dcc02a6eb121903832391",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85868485,
             "region_id":85688481,
             "venue_id":403895019
         }
     ],
     "wof:id":403895019,
-    "wof:lastmodified":1449055196,
+    "wof:lastmodified":1454357528,
     "wof:name":"Planet Fitness",
     "wof:parent_id":85868485,
     "wof:placetype":"venue",
@@ -55,6 +54,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.829952,40.254489,-76.829952,40.254489],
-  "geometry": {"coordinates":[-76.829952,40.254489],"type":"Point"}
+  "bbox": [
+    -76.829952,
+    40.254489,
+    -76.829952,
+    40.254489
+],
+  "geometry": {"coordinates":[-76.82995200000001,40.254489],"type":"Point"}
 }

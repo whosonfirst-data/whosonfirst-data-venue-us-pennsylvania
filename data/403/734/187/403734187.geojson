@@ -2,13 +2,14 @@
   "id": 403734187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.340381,40.36443,-77.340381,40.36443",
     "geom:latitude":40.36443,
     "geom:longitude":-77.340381,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1102 Montour Rd",
     "sg:city":"Loysville",
     "sg:classifiers":[
@@ -44,8 +45,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080963,
-        85854111
+        85854111,
+        102080963
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,17 +56,15 @@
     "wof:geomhash":"605ca86dfc1a8e044692759ce9ad8d00",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080963,
-            "locality_id":-1,
             "neighbourhood_id":85854111,
             "region_id":85688481,
             "venue_id":403734187
         }
     ],
     "wof:id":403734187,
-    "wof:lastmodified":1449055802,
+    "wof:lastmodified":1454357884,
     "wof:name":"West Perry Pharmacy",
     "wof:parent_id":85854111,
     "wof:placetype":"venue",
@@ -80,6 +79,11 @@
         "card"
     ]
 },
-  "bbox": [-77.340381,40.36443,-77.340381,40.36443],
-  "geometry": {"coordinates":[-77.340381,40.36443],"type":"Point"}
+  "bbox": [
+    -77.340381,
+    40.36443,
+    -77.340381,
+    40.36443
+],
+  "geometry": {"coordinates":[-77.34038099999999,40.36443],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404082271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.306328,40.070371,-76.306328,40.070371",
     "geom:latitude":40.070371,
     "geom:longitude":-76.306328,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1733 Santa Barbara Dr",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85811259
+        85811259,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"e8e6aa63a0b0b0f7a15251f91e789d9a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85811259,
             "region_id":85688481,
             "venue_id":404082271
         }
     ],
     "wof:id":404082271,
-    "wof:lastmodified":1449039111,
+    "wof:lastmodified":1454356441,
     "wof:name":"John T Meeder",
     "wof:parent_id":85811259,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "broker"
     ]
 },
-  "bbox": [-76.306328,40.070371,-76.306328,40.070371],
-  "geometry": {"coordinates":[-76.306328,40.070371],"type":"Point"}
+  "bbox": [
+    -76.306328,
+    40.070371,
+    -76.306328,
+    40.070371
+],
+  "geometry": {"coordinates":[-76.30632799999999,40.070371],"type":"Point"}
 }

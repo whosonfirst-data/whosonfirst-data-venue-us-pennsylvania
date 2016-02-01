@@ -2,13 +2,14 @@
   "id": 387247287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.962471,40.538448,-79.962471,40.538448",
     "geom:latitude":40.538448,
     "geom:longitude":-79.962471,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1701 William Flynn Hwy",
     "sg:city":"Glenshaw",
     "sg:classifiers":[
@@ -89,11 +90,13 @@
     "sg:website":"http://www.walgreens.com/default.jsp?ec=iyp_yellowpages_trademark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85817749,
+        102191575,
+        404484943,
         85633793,
         101720509,
         102080887,
-        85817749
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -103,9 +106,10 @@
     "wof:geomhash":"1d6cf41933f60d1e2d99a1ec4829be23",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484943,
             "locality_id":101720509,
             "neighbourhood_id":85817749,
             "region_id":85688481,
@@ -113,7 +117,7 @@
         }
     ],
     "wof:id":387247287,
-    "wof:lastmodified":1449058329,
+    "wof:lastmodified":1454360747,
     "wof:name":"Walgreens Pharmacies",
     "wof:parent_id":85817749,
     "wof:placetype":"venue",
@@ -134,6 +138,11 @@
         "consumer"
     ]
 },
-  "bbox": [-79.962471,40.538448,-79.962471,40.538448],
-  "geometry": {"coordinates":[-79.962471,40.538448],"type":"Point"}
+  "bbox": [
+    -79.962471,
+    40.538448,
+    -79.962471,
+    40.538448
+],
+  "geometry": {"coordinates":[-79.96247099999999,40.538448],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387144211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.83544,40.280572,-79.83544,40.280572",
     "geom:latitude":40.280572,
     "geom:longitude":-79.83544,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"300 Swiss Way",
     "sg:city":"Elizabeth",
     "sg:classifiers":[
@@ -49,8 +50,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85810241
+        85810241,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,17 +61,15 @@
     "wof:geomhash":"9fe2686bc9f2b4cc71372898b8624fb2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85810241,
             "region_id":85688481,
             "venue_id":387144211
         }
     ],
     "wof:id":387144211,
-    "wof:lastmodified":1449058893,
+    "wof:lastmodified":1454360917,
     "wof:name":"Allstate Insurance Company - James Quinn",
     "wof:parent_id":85810241,
     "wof:placetype":"venue",
@@ -85,6 +84,11 @@
         "renter"
     ]
 },
-  "bbox": [-79.83544,40.280572,-79.83544,40.280572],
-  "geometry": {"coordinates":[-79.83544,40.280572],"type":"Point"}
+  "bbox": [
+    -79.83544,
+    40.280572,
+    -79.83544,
+    40.280572
+],
+  "geometry": {"coordinates":[-79.83544000000001,40.280572],"type":"Point"}
 }

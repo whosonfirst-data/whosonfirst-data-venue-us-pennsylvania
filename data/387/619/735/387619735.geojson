@@ -2,13 +2,14 @@
   "id": 387619735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.536702,40.297482,-79.536702,40.297482",
     "geom:latitude":40.297482,
     "geom:longitude":-79.536702,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"513 Perry Ave",
     "sg:city":"Greensburg",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85809439,
+        102191575,
+        404487487,
         85633793,
-        101717119,
+        101717177,
         102081383,
-        85809439
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"94c5a447b978b919f6d621d7d2b156f3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":101717119,
+            "localadmin_id":404487487,
+            "locality_id":101717177,
             "neighbourhood_id":85809439,
             "region_id":85688481,
             "venue_id":387619735
         }
     ],
     "wof:id":387619735,
-    "wof:lastmodified":1449056787,
+    "wof:lastmodified":1454358610,
     "wof:name":"Robert A Bisginani Cpa",
     "wof:parent_id":85809439,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "accountants-certified"
     ]
 },
-  "bbox": [-79.536702,40.297482,-79.536702,40.297482],
-  "geometry": {"coordinates":[-79.536702,40.297482],"type":"Point"}
+  "bbox": [
+    -79.536702,
+    40.297482,
+    -79.536702,
+    40.297482
+],
+  "geometry": {"coordinates":[-79.53670200000001,40.297482],"type":"Point"}
 }

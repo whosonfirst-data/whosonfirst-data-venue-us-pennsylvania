@@ -2,13 +2,14 @@
   "id": 387635293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.665615,40.284182,-79.665615,40.284182",
     "geom:latitude":40.284182,
     "geom:longitude":-79.665615,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"15756 Arona Rd",
     "sg:city":"Irwin",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081383,
-        85824667
+        85824667,
+        102081383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"315d70d22bbd4cf48c982ca99551142d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":-1,
             "neighbourhood_id":85824667,
             "region_id":85688481,
             "venue_id":387635293
         }
     ],
     "wof:id":387635293,
-    "wof:lastmodified":1449057754,
+    "wof:lastmodified":1454360583,
     "wof:name":"Carbidie Corporation",
     "wof:parent_id":85824667,
     "wof:placetype":"venue",
@@ -63,6 +62,11 @@
         "forming"
     ]
 },
-  "bbox": [-79.665615,40.284182,-79.665615,40.284182],
+  "bbox": [
+    -79.665615,
+    40.284182,
+    -79.665615,
+    40.284182
+],
   "geometry": {"coordinates":[-79.665615,40.284182],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403902539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.792265,40.333187,-76.792265,40.333187",
     "geom:latitude":40.333187,
     "geom:longitude":-76.792265,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5915 Fox St",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -33,10 +34,13 @@
     "sg:website":"http://www.sundayschoolhelp.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420537733,
+        102191575,
+        404486185,
         85633793,
         101719817,
-        102081347
+        102081347,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,20 @@
     "wof:geomhash":"eb05a34c08f13f414cef2597b95e2197",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
+            "localadmin_id":404486185,
             "locality_id":101719817,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420537733,
             "region_id":85688481,
             "venue_id":403902539
         }
     ],
     "wof:id":403902539,
-    "wof:lastmodified":1449055603,
+    "wof:lastmodified":1454357775,
     "wof:name":"Pennsylvania State Sunday Schl",
-    "wof:parent_id":-1,
+    "wof:parent_id":420537733,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -66,6 +71,11 @@
         "church"
     ]
 },
-  "bbox": [-76.792265,40.333187,-76.792265,40.333187],
+  "bbox": [
+    -76.792265,
+    40.333187,
+    -76.792265,
+    40.333187
+],
   "geometry": {"coordinates":[-76.792265,40.333187],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387616709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.543156,40.299223,-79.543156,40.299223",
     "geom:latitude":40.299223,
     "geom:longitude":-79.543156,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"416 S Main St",
     "sg:city":"Greensburg",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85809439,
+        102191575,
+        404487487,
         85633793,
-        101717119,
+        101717177,
         102081383,
-        85809439
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"d6ec1efc523bb95052d7805e61e42506",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":101717119,
+            "localadmin_id":404487487,
+            "locality_id":101717177,
             "neighbourhood_id":85809439,
             "region_id":85688481,
             "venue_id":387616709
         }
     ],
     "wof:id":387616709,
-    "wof:lastmodified":1449058901,
+    "wof:lastmodified":1454360923,
     "wof:name":"City Mechanic Garage",
     "wof:parent_id":85809439,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "mechanical"
     ]
 },
-  "bbox": [-79.543156,40.299223,-79.543156,40.299223],
+  "bbox": [
+    -79.543156,
+    40.299223,
+    -79.543156,
+    40.299223
+],
   "geometry": {"coordinates":[-79.543156,40.299223],"type":"Point"}
 }

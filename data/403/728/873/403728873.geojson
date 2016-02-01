@@ -2,13 +2,14 @@
   "id": 403728873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.623441,40.574708,-77.623441,40.574708",
     "geom:latitude":40.574708,
     "geom:longitude":-77.623441,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2035 Middle Rd",
     "sg:city":"Lewistown",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081333,
-        85835679
+        85835679,
+        102081333
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"0d6aa610f16b935b3c43bb585ddd2252",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081333,
-            "locality_id":-1,
             "neighbourhood_id":85835679,
             "region_id":85688481,
             "venue_id":403728873
         }
     ],
     "wof:id":403728873,
-    "wof:lastmodified":1449054952,
+    "wof:lastmodified":1454357379,
     "wof:name":"Raymond Witmer",
     "wof:parent_id":85835679,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "product"
     ]
 },
-  "bbox": [-77.623441,40.574708,-77.623441,40.574708],
+  "bbox": [
+    -77.623441,
+    40.574708,
+    -77.623441,
+    40.574708
+],
   "geometry": {"coordinates":[-77.623441,40.574708],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404196187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.347106,40.643978,-75.347106,40.643978",
     "geom:latitude":40.643978,
     "geom:longitude":-75.347106,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2560 Easton Ave",
     "sg:city":"Bethlehem",
     "sg:classifiers":[],
@@ -19,11 +20,13 @@
     "sg:website":"http://fromhairtoeternity.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85834019,
+        102191575,
+        404485987,
         85633793,
-        101719937,
+        101717907,
         102081395,
-        85834019
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -33,17 +36,18 @@
     "wof:geomhash":"b4e1a039c8b44535dfc27e5ef8b8eb0d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081395,
-            "locality_id":101719937,
+            "localadmin_id":404485987,
+            "locality_id":101717907,
             "neighbourhood_id":85834019,
             "region_id":85688481,
             "venue_id":404196187
         }
     ],
     "wof:id":404196187,
-    "wof:lastmodified":1449039320,
+    "wof:lastmodified":1454356568,
     "wof:name":"From Hair to Eternity",
     "wof:parent_id":85834019,
     "wof:placetype":"venue",
@@ -51,6 +55,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.347106,40.643978,-75.347106,40.643978],
+  "bbox": [
+    -75.347106,
+    40.643978,
+    -75.347106,
+    40.643978
+],
   "geometry": {"coordinates":[-75.347106,40.643978],"type":"Point"}
 }

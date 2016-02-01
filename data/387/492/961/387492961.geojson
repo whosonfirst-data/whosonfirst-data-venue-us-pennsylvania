@@ -2,13 +2,14 @@
   "id": 387492961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.074484,40.522885,-80.074484,40.522885",
     "geom:latitude":40.522885,
     "geom:longitude":-80.074484,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"811 Camp Horne Rd Ste 330",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -39,8 +40,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85824969
+        85824969,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,17 +51,15 @@
     "wof:geomhash":"dd86bb5f8ef43c325c191ffb410b8030",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85824969,
             "region_id":85688481,
             "venue_id":387492961
         }
     ],
     "wof:id":387492961,
-    "wof:lastmodified":1449056110,
+    "wof:lastmodified":1454358091,
     "wof:name":"A Pc Solutions",
     "wof:parent_id":85824969,
     "wof:placetype":"venue",
@@ -74,6 +73,11 @@
         "equipment"
     ]
 },
-  "bbox": [-80.074484,40.522885,-80.074484,40.522885],
+  "bbox": [
+    -80.074484,
+    40.522885,
+    -80.074484,
+    40.522885
+],
   "geometry": {"coordinates":[-80.074484,40.522885],"type":"Point"}
 }

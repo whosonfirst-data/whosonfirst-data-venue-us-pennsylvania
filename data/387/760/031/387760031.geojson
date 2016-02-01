@@ -2,13 +2,14 @@
   "id": 387760031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.49254,41.23304,-80.49254,41.23304",
     "geom:latitude":41.23304,
     "geom:longitude":-80.49254,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"900 E State St",
     "sg:city":"Sharon",
     "sg:classifiers":[
@@ -89,10 +90,13 @@
     "sg:website":"http://www.walgreens.com/default.jsp?ec=iyp_yellowpages_trademark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420539011,
+        102191575,
+        404487969,
         85633793,
-        101718093,
-        102080965
+        101718115,
+        102080965,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -102,19 +106,20 @@
     "wof:geomhash":"e12aef6f49456cb20d545cd19ea8cacb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080965,
-            "locality_id":101718093,
-            "neighbourhood_id":-1,
+            "localadmin_id":404487969,
+            "locality_id":101718115,
+            "neighbourhood_id":420539011,
             "region_id":85688481,
             "venue_id":387760031
         }
     ],
     "wof:id":387760031,
-    "wof:lastmodified":1449059775,
+    "wof:lastmodified":1454361191,
     "wof:name":"Walgreens Pharmacies",
-    "wof:parent_id":-1,
+    "wof:parent_id":420539011,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -133,6 +138,11 @@
         "consumer"
     ]
 },
-  "bbox": [-80.49254,41.23304,-80.49254,41.23304],
-  "geometry": {"coordinates":[-80.49254,41.23304],"type":"Point"}
+  "bbox": [
+    -80.49254,
+    41.23304,
+    -80.49254,
+    41.23304
+],
+  "geometry": {"coordinates":[-80.49254000000001,41.23304],"type":"Point"}
 }

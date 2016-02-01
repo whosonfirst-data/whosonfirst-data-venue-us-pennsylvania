@@ -2,13 +2,14 @@
   "id": 387235795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.090183,40.387872,-80.090183,40.387872",
     "geom:latitude":40.387872,
     "geom:longitude":-80.090183,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2055 Washington Pike",
     "sg:city":"Carnegie",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     "sg:website":"www.walgreens.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85821875,
+        102191575,
+        404484865,
         85633793,
         101718775,
         102080887,
-        85821875
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"400dd2539fbdb521be9a981c0c629670",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484865,
             "locality_id":101718775,
             "neighbourhood_id":85821875,
             "region_id":85688481,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":387235795,
-    "wof:lastmodified":1449056755,
+    "wof:lastmodified":1454358588,
     "wof:name":"Walgreen Drug Stores",
     "wof:parent_id":85821875,
     "wof:placetype":"venue",
@@ -71,6 +75,11 @@
         "store"
     ]
 },
-  "bbox": [-80.090183,40.387872,-80.090183,40.387872],
+  "bbox": [
+    -80.090183,
+    40.387872,
+    -80.090183,
+    40.387872
+],
   "geometry": {"coordinates":[-80.090183,40.387872],"type":"Point"}
 }

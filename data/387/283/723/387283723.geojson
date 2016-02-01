@@ -2,13 +2,14 @@
   "id": 387283723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.067974,40.443335,-80.067974,40.443335",
     "geom:latitude":40.443335,
     "geom:longitude":-80.067974,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"30 Chartiers St",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85858189,
+        102191575,
+        404482523,
         85633793,
+        101718805,
         102080887,
-        85858189
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +44,18 @@
     "wof:geomhash":"a9026282adb09810c9b8cf6d8c393083",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
+            "localadmin_id":404482523,
+            "locality_id":101718805,
             "neighbourhood_id":85858189,
             "region_id":85688481,
             "venue_id":387283723
         }
     ],
     "wof:id":387283723,
-    "wof:lastmodified":1449057227,
+    "wof:lastmodified":1454358941,
     "wof:name":"Molyneaux Electric",
     "wof:parent_id":85858189,
     "wof:placetype":"venue",
@@ -60,6 +65,11 @@
         "electrician"
     ]
 },
-  "bbox": [-80.067974,40.443335,-80.067974,40.443335],
-  "geometry": {"coordinates":[-80.067974,40.443335],"type":"Point"}
+  "bbox": [
+    -80.067974,
+    40.443335,
+    -80.067974,
+    40.443335
+],
+  "geometry": {"coordinates":[-80.06797400000001,40.443335],"type":"Point"}
 }

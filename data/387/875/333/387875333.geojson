@@ -2,13 +2,14 @@
   "id": 387875333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.90355,40.848381,-77.90355,40.848381",
     "geom:latitude":40.848381,
     "geom:longitude":-77.90355,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3341 Buffalo Run Rd",
     "sg:city":"Bellefonte",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081369,
-        85868477
+        85868477,
+        102081369
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"2869e583e65069d62cc99703d812a3f0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081369,
-            "locality_id":-1,
             "neighbourhood_id":85868477,
             "region_id":85688481,
             "venue_id":387875333
         }
     ],
     "wof:id":387875333,
-    "wof:lastmodified":1449058938,
+    "wof:lastmodified":1454360932,
     "wof:name":"Circle Z Enterprises",
     "wof:parent_id":85868477,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-77.90355,40.848381,-77.90355,40.848381],
+  "bbox": [
+    -77.90355,
+    40.848381,
+    -77.90355,
+    40.848381
+],
   "geometry": {"coordinates":[-77.90355,40.848381],"type":"Point"}
 }

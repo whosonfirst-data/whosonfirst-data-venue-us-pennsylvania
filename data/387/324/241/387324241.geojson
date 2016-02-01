@@ -2,13 +2,14 @@
   "id": 387324241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.951439,40.448311,-79.951439,40.448311",
     "geom:latitude":40.448311,
     "geom:longitude":-79.951439,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"161 N Dithridge St",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85873565,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85873565
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"d4ce25af678f03d94ec638ca8bb41e40",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85873565,
             "region_id":85688481,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":387324241,
-    "wof:lastmodified":1449058325,
+    "wof:lastmodified":1454360746,
     "wof:name":"Aronson, Morton L Md Ofc",
     "wof:parent_id":85873565,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "surgeons"
     ]
 },
-  "bbox": [-79.951439,40.448311,-79.951439,40.448311],
-  "geometry": {"coordinates":[-79.951439,40.448311],"type":"Point"}
+  "bbox": [
+    -79.951439,
+    40.448311,
+    -79.951439,
+    40.448311
+],
+  "geometry": {"coordinates":[-79.95143899999999,40.448311],"type":"Point"}
 }

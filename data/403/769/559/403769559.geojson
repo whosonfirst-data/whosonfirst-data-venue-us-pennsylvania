@@ -2,13 +2,14 @@
   "id": 403769559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.000702,40.215199,-77.000702,40.215199",
     "geom:latitude":40.215199,
     "geom:longitude":-77.000702,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"410 E Main St",
     "sg:city":"Mechanicsburg",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420537701,
+        102191575,
+        404486411,
         85633793,
         101716789,
-        102081359
+        102081359,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"b81bd320a646cb53802ec806c18b0f4d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081359,
+            "localadmin_id":404486411,
             "locality_id":101716789,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420537701,
             "region_id":85688481,
             "venue_id":403769559
         }
     ],
     "wof:id":403769559,
-    "wof:lastmodified":1449055073,
+    "wof:lastmodified":1454357453,
     "wof:name":"Small K G PHD & Associates",
-    "wof:parent_id":-1,
+    "wof:parent_id":420537701,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "mental"
     ]
 },
-  "bbox": [-77.000702,40.215199,-77.000702,40.215199],
+  "bbox": [
+    -77.000702,
+    40.215199,
+    -77.000702,
+    40.215199
+],
   "geometry": {"coordinates":[-77.000702,40.215199],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387868515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.605557,41.892435,-78.605557,41.892435",
     "geom:latitude":41.892435,
     "geom:longitude":-78.605557,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"660 Minard Run Rd",
     "sg:city":"Bradford",
     "sg:classifiers":[
@@ -27,7 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420539005,
+        102191575,
+        404487895,
         85633793,
+        101717309,
+        102080951,
         85688481
     ],
     "wof:breaches":[],
@@ -38,18 +44,20 @@
     "wof:geomhash":"530b3c46ac54527d2878c2f42a697f78",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102080951,
+            "localadmin_id":404487895,
+            "locality_id":101717309,
+            "neighbourhood_id":420539005,
             "region_id":85688481,
             "venue_id":387868515
         }
     ],
     "wof:id":387868515,
-    "wof:lastmodified":1449056290,
+    "wof:lastmodified":1454358226,
     "wof:name":"Nwpa Harvesting, Inc.",
-    "wof:parent_id":-1,
+    "wof:parent_id":420539005,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +65,11 @@
         "harvesting-contract"
     ]
 },
-  "bbox": [-78.605557,41.892435,-78.605557,41.892435],
+  "bbox": [
+    -78.605557,
+    41.892435,
+    -78.605557,
+    41.892435
+],
   "geometry": {"coordinates":[-78.605557,41.892435],"type":"Point"}
 }

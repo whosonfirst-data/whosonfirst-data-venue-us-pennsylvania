@@ -2,13 +2,14 @@
   "id": 404164003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.386497,40.588402,-75.386497,40.588402",
     "geom:latitude":40.588402,
     "geom:longitude":-75.386497,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3731 Route 378",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -26,8 +27,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081395,
-        85859207
+        85859207,
+        102081395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,17 +38,15 @@
     "wof:geomhash":"edce413c03c4b69c5e234d4bcfcfca0b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081395,
-            "locality_id":-1,
             "neighbourhood_id":85859207,
             "region_id":85688481,
             "venue_id":404164003
         }
     ],
     "wof:id":404164003,
-    "wof:lastmodified":1449039161,
+    "wof:lastmodified":1454356487,
     "wof:name":"Starters Pub Corp",
     "wof:parent_id":85859207,
     "wof:placetype":"venue",
@@ -55,6 +54,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.386497,40.588402,-75.386497,40.588402],
-  "geometry": {"coordinates":[-75.386497,40.588402],"type":"Point"}
+  "bbox": [
+    -75.386497,
+    40.588402,
+    -75.386497,
+    40.588402
+],
+  "geometry": {"coordinates":[-75.38649700000001,40.588402],"type":"Point"}
 }

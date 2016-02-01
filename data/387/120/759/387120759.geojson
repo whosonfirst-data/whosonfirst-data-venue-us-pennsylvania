@@ -2,13 +2,14 @@
   "id": 387120759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.324791,40.376369,-80.324791,40.376369",
     "geom:latitude":40.376369,
     "geom:longitude":-80.324791,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"967 Grant St 488",
     "sg:city":"Bulger",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85809239,
+        102191575,
+        404487849,
         85633793,
+        101720325,
         102081343,
-        85809239
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +44,18 @@
     "wof:geomhash":"e80a42feadae76ddef097d6391832fe2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081343,
-            "locality_id":-1,
+            "localadmin_id":404487849,
+            "locality_id":101720325,
             "neighbourhood_id":85809239,
             "region_id":85688481,
             "venue_id":387120759
         }
     ],
     "wof:id":387120759,
-    "wof:lastmodified":1449059380,
+    "wof:lastmodified":1454361062,
     "wof:name":"St Ann Church",
     "wof:parent_id":85809239,
     "wof:placetype":"venue",
@@ -60,6 +65,11 @@
         "church"
     ]
 },
-  "bbox": [-80.324791,40.376369,-80.324791,40.376369],
+  "bbox": [
+    -80.324791,
+    40.376369,
+    -80.324791,
+    40.376369
+],
   "geometry": {"coordinates":[-80.324791,40.376369],"type":"Point"}
 }

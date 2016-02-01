@@ -2,13 +2,14 @@
   "id": 387282895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.985042,40.428966,-79.985042,40.428966",
     "geom:latitude":40.428966,
     "geom:longitude":-79.985042,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1305 E Carson St",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     "sg:website":"www.pittsburghguitars.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85850327,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85850327
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"05eca388f28431607e2d5867553acf30",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85850327,
             "region_id":85688481,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":387282895,
-    "wof:lastmodified":1449058488,
+    "wof:lastmodified":1454360797,
     "wof:name":"Pittsburgh Guitars",
     "wof:parent_id":85850327,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "musical"
     ]
 },
-  "bbox": [-79.985042,40.428966,-79.985042,40.428966],
-  "geometry": {"coordinates":[-79.985042,40.428966],"type":"Point"}
+  "bbox": [
+    -79.985042,
+    40.428966,
+    -79.985042,
+    40.428966
+],
+  "geometry": {"coordinates":[-79.98504200000001,40.428966],"type":"Point"}
 }

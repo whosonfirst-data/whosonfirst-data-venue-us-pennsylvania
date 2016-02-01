@@ -2,13 +2,14 @@
   "id": 387794519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.16767,41.622443,-80.16767,41.622443",
     "geom:latitude":41.622443,
     "geom:longitude":-80.16767,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"11341 Mercer Pike",
     "sg:city":"Meadville",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080911,
-        85820599
+        85820599,
+        102080911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"146920e7653b1688a4c5daa2f088d52e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080911,
-            "locality_id":-1,
             "neighbourhood_id":85820599,
             "region_id":85688481,
             "venue_id":387794519
         }
     ],
     "wof:id":387794519,
-    "wof:lastmodified":1449057932,
+    "wof:lastmodified":1454360636,
     "wof:name":"Suburban Propane",
     "wof:parent_id":85820599,
     "wof:placetype":"venue",
@@ -61,6 +60,11 @@
         "propane"
     ]
 },
-  "bbox": [-80.16767,41.622443,-80.16767,41.622443],
+  "bbox": [
+    -80.16767,
+    41.622443,
+    -80.16767,
+    41.622443
+],
   "geometry": {"coordinates":[-80.16767,41.622443],"type":"Point"}
 }

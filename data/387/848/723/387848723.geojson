@@ -2,13 +2,14 @@
   "id": 387848723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.399427,40.51806,-78.399427,40.51806",
     "geom:latitude":40.51806,
     "geom:longitude":-78.399427,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1008 Chestnut Ave",
     "sg:city":"Altoona",
     "sg:classifiers":[
@@ -51,11 +52,13 @@
     "sg:website":"http://www.mcaleersplumbing.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85818685,
+        102191575,
+        404484619,
         85633793,
         101716595,
         102081325,
-        85818685
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,9 +68,10 @@
     "wof:geomhash":"89615494a6c1b91c627be1609484e785",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081325,
+            "localadmin_id":404484619,
             "locality_id":101716595,
             "neighbourhood_id":85818685,
             "region_id":85688481,
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":387848723,
-    "wof:lastmodified":1449056639,
+    "wof:lastmodified":1454358506,
     "wof:name":"McAleer's Plumbing, Heating, Air Conditioning Inc.",
     "wof:parent_id":85818685,
     "wof:placetype":"venue",
@@ -93,6 +97,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-78.399427,40.51806,-78.399427,40.51806],
+  "bbox": [
+    -78.399427,
+    40.51806,
+    -78.399427,
+    40.51806
+],
   "geometry": {"coordinates":[-78.399427,40.51806],"type":"Point"}
 }

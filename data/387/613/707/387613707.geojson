@@ -2,13 +2,14 @@
   "id": 387613707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.914383,39.784012,-78.914383,39.784012",
     "geom:latitude":39.784012,
     "geom:longitude":-78.914383,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"209 Oak Post Rd",
     "sg:city":"Meyersdale",
     "sg:classifiers":[
@@ -38,8 +39,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081361,
-        85868497
+        85868497,
+        102081361
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +50,15 @@
     "wof:geomhash":"005483ad26273785d751283615836620",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081361,
-            "locality_id":-1,
             "neighbourhood_id":85868497,
             "region_id":85688481,
             "venue_id":387613707
         }
     ],
     "wof:id":387613707,
-    "wof:lastmodified":1449057878,
+    "wof:lastmodified":1454360620,
     "wof:name":"Borough Of Callimont",
     "wof:parent_id":85868497,
     "wof:placetype":"venue",
@@ -73,6 +72,11 @@
         "village"
     ]
 },
-  "bbox": [-78.914383,39.784012,-78.914383,39.784012],
+  "bbox": [
+    -78.914383,
+    39.784012,
+    -78.914383,
+    39.784012
+],
   "geometry": {"coordinates":[-78.914383,39.784012],"type":"Point"}
 }

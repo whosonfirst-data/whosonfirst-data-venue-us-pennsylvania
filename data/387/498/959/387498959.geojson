@@ -2,13 +2,14 @@
   "id": 387498959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.001221,40.515228,-80.001221,40.515228",
     "geom:latitude":40.515228,
     "geom:longitude":-80.001221,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"101 Harbeth Dr",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85818343
+        85818343,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"eb7bf85881272ab979536fe12d91cc4a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85818343,
             "region_id":85688481,
             "venue_id":387498959
         }
     ],
     "wof:id":387498959,
-    "wof:lastmodified":1449058990,
+    "wof:lastmodified":1454360950,
     "wof:name":"Models By The Bauer",
     "wof:parent_id":85818343,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "decorative"
     ]
 },
-  "bbox": [-80.001221,40.515228,-80.001221,40.515228],
+  "bbox": [
+    -80.001221,
+    40.515228,
+    -80.001221,
+    40.515228
+],
   "geometry": {"coordinates":[-80.001221,40.515228],"type":"Point"}
 }

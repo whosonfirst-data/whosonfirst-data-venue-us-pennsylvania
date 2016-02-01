@@ -2,13 +2,14 @@
   "id": 387616523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.545853,40.30217,-79.545853,40.30217",
     "geom:latitude":40.30217,
     "geom:longitude":-79.545853,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"100 W Pittsburgh St",
     "sg:city":"Greensburg",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85809439,
+        102191575,
+        404487487,
         85633793,
-        101717119,
+        101717177,
         102081383,
-        85809439
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"5795c7dfe2d8a02c64cc09d6bf3f8fa0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":101717119,
+            "localadmin_id":404487487,
+            "locality_id":101717177,
             "neighbourhood_id":85809439,
             "region_id":85688481,
             "venue_id":387616523
         }
     ],
     "wof:id":387616523,
-    "wof:lastmodified":1449058901,
+    "wof:lastmodified":1454360924,
     "wof:name":"Gino Peluso",
     "wof:parent_id":85809439,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "plan"
     ]
 },
-  "bbox": [-79.545853,40.30217,-79.545853,40.30217],
-  "geometry": {"coordinates":[-79.545853,40.30217],"type":"Point"}
+  "bbox": [
+    -79.545853,
+    40.30217,
+    -79.545853,
+    40.30217
+],
+  "geometry": {"coordinates":[-79.54585299999999,40.30217],"type":"Point"}
 }

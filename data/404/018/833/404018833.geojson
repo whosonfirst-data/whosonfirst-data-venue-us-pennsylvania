@@ -2,13 +2,14 @@
   "id": 404018833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.705241,39.960627,-76.705241,39.960627",
     "geom:latitude":39.960627,
     "geom:longitude":-76.705241,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1015 Mount Rose Ave",
     "sg:city":"York",
     "sg:classifiers":[
@@ -39,8 +40,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080953,
-        85853795
+        85853795,
+        102080953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,17 +51,15 @@
     "wof:geomhash":"209a4ba3c348c060a3ea819d72e7c012",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
             "neighbourhood_id":85853795,
             "region_id":85688481,
             "venue_id":404018833
         }
     ],
     "wof:id":404018833,
-    "wof:lastmodified":1449039693,
+    "wof:lastmodified":1454356758,
     "wof:name":"Hardee's",
     "wof:parent_id":85853795,
     "wof:placetype":"venue",
@@ -74,6 +73,11 @@
         "take"
     ]
 },
-  "bbox": [-76.705241,39.960627,-76.705241,39.960627],
+  "bbox": [
+    -76.705241,
+    39.960627,
+    -76.705241,
+    39.960627
+],
   "geometry": {"coordinates":[-76.705241,39.960627],"type":"Point"}
 }

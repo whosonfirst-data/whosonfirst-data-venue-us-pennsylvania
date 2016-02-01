@@ -2,13 +2,14 @@
   "id": 404176399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.362565,40.64534,-75.362565,40.64534",
     "geom:latitude":40.64534,
     "geom:longitude":-75.362565,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2349 Linden St",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -48,11 +49,13 @@
     "sg:website":"http://www.mooseandbugflorist.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85897241,
+        102191575,
+        404485987,
         85633793,
         101717907,
         102081395,
-        85897241
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,9 +65,10 @@
     "wof:geomhash":"4bf57f5083be232e00664cadf5bac840",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081395,
+            "localadmin_id":404485987,
             "locality_id":101717907,
             "neighbourhood_id":85897241,
             "region_id":85688481,
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":404176399,
-    "wof:lastmodified":1449039922,
+    "wof:lastmodified":1454356891,
     "wof:name":"Moose & Bug Florist",
     "wof:parent_id":85897241,
     "wof:placetype":"venue",
@@ -87,6 +91,11 @@
         "flowers"
     ]
 },
-  "bbox": [-75.362565,40.64534,-75.362565,40.64534],
+  "bbox": [
+    -75.362565,
+    40.64534,
+    -75.362565,
+    40.64534
+],
   "geometry": {"coordinates":[-75.362565,40.64534],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387178133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.215111,40.725801,-80.215111,40.725801",
     "geom:latitude":40.725801,
     "geom:longitude":-80.215111,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"397 Big Knob Rd",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -47,8 +48,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081323,
-        85828661
+        85828661,
+        102081323
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,17 +59,15 @@
     "wof:geomhash":"00eb15586783a9758906b80c4be6d8d4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081323,
-            "locality_id":-1,
             "neighbourhood_id":85828661,
             "region_id":85688481,
             "venue_id":387178133
         }
     ],
     "wof:id":387178133,
-    "wof:lastmodified":1449058841,
+    "wof:lastmodified":1454360901,
     "wof:name":"Town-County Lawn and Garden",
     "wof:parent_id":85828661,
     "wof:placetype":"venue",
@@ -85,6 +84,11 @@
         "saw"
     ]
 },
-  "bbox": [-80.215111,40.725801,-80.215111,40.725801],
-  "geometry": {"coordinates":[-80.215111,40.725801],"type":"Point"}
+  "bbox": [
+    -80.215111,
+    40.725801,
+    -80.215111,
+    40.725801
+],
+  "geometry": {"coordinates":[-80.21511099999999,40.725801],"type":"Point"}
 }

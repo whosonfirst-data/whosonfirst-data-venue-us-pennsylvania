@@ -2,13 +2,14 @@
   "id": 404017817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.676688,39.973042,-76.676688,39.973042",
     "geom:latitude":39.973042,
     "geom:longitude":-76.676688,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2536 Eastern Blvd",
     "sg:city":"York",
     "sg:classifiers":[
@@ -52,10 +53,13 @@
     "sg:website":"http://LegendsCatering.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420540439,
+        102191575,
+        404487939,
         85633793,
         101719469,
-        102080953
+        102080953,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,19 +69,20 @@
     "wof:geomhash":"ae471986fb1856d81a4e3c2a3160b94b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080953,
+            "localadmin_id":404487939,
             "locality_id":101719469,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420540439,
             "region_id":85688481,
             "venue_id":404017817
         }
     ],
     "wof:id":404017817,
-    "wof:lastmodified":1449039772,
+    "wof:lastmodified":1454356789,
     "wof:name":"Legends Catering",
-    "wof:parent_id":-1,
+    "wof:parent_id":420540439,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -89,6 +94,11 @@
         "restaurant"
     ]
 },
-  "bbox": [-76.676688,39.973042,-76.676688,39.973042],
+  "bbox": [
+    -76.676688,
+    39.973042,
+    -76.676688,
+    39.973042
+],
   "geometry": {"coordinates":[-76.676688,39.973042],"type":"Point"}
 }

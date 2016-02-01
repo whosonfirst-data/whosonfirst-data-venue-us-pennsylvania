@@ -2,13 +2,14 @@
   "id": 387142577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.8703,40.306099,-79.8703,40.306099",
     "geom:latitude":40.306099,
     "geom:longitude":-79.8703,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2221 Lincoln Blvd",
     "sg:city":"Elizabeth",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536399,
+        102191575,
+        404484873,
         85633793,
-        101718655,
-        102080887
+        101718753,
+        102080887,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"33b0d5134f848ffc784a5f1309c90597",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":101718655,
-            "neighbourhood_id":-1,
+            "localadmin_id":404484873,
+            "locality_id":101718753,
+            "neighbourhood_id":420536399,
             "region_id":85688481,
             "venue_id":387142577
         }
     ],
     "wof:id":387142577,
-    "wof:lastmodified":1449059158,
+    "wof:lastmodified":1454361000,
     "wof:name":"Claar Phil Auto Body",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536399,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "shop"
     ]
 },
-  "bbox": [-79.8703,40.306099,-79.8703,40.306099],
+  "bbox": [
+    -79.8703,
+    40.306099,
+    -79.8703,
+    40.306099
+],
   "geometry": {"coordinates":[-79.8703,40.306099],"type":"Point"}
 }

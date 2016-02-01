@@ -2,13 +2,14 @@
   "id": 404068201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.339311,39.864028,-76.339311,39.864028",
     "geom:latitude":39.864028,
     "geom:longitude":-76.339311,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"753 River Rd",
     "sg:city":"Pequea",
     "sg:classifiers":[
@@ -48,8 +49,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85818203
+        85818203,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,17 +60,15 @@
     "wof:geomhash":"19dae84eee41b94d2eb3749c3f703813",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85818203,
             "region_id":85688481,
             "venue_id":404068201
         }
     ],
     "wof:id":404068201,
-    "wof:lastmodified":1449039723,
+    "wof:lastmodified":1454356768,
     "wof:name":"Tucquan Woodworks",
     "wof:parent_id":85818203,
     "wof:placetype":"venue",
@@ -83,6 +82,11 @@
         "supply"
     ]
 },
-  "bbox": [-76.339311,39.864028,-76.339311,39.864028],
+  "bbox": [
+    -76.339311,
+    39.864028,
+    -76.339311,
+    39.864028
+],
   "geometry": {"coordinates":[-76.339311,39.864028],"type":"Point"}
 }

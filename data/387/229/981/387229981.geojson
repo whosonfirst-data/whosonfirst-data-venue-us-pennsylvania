@@ -2,13 +2,14 @@
   "id": 387229981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.862152,40.40453,-79.862152,40.40453",
     "geom:latitude":40.40453,
     "geom:longitude":-79.862152,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"712 Baldridge Ave",
     "sg:city":"Braddock",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536333,
+        102191575,
+        404484859,
         85633793,
-        101718833,
-        102080887
+        101718785,
+        102080887,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"93ac26994d6948570bc562d0e09394d3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":101718833,
-            "neighbourhood_id":-1,
+            "localadmin_id":404484859,
+            "locality_id":101718785,
+            "neighbourhood_id":420536333,
             "region_id":85688481,
             "venue_id":387229981
         }
     ],
     "wof:id":387229981,
-    "wof:lastmodified":1449059148,
+    "wof:lastmodified":1454360997,
     "wof:name":"Jesus Is The Way Church Of God In Christ",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536333,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "church"
     ]
 },
-  "bbox": [-79.862152,40.40453,-79.862152,40.40453],
-  "geometry": {"coordinates":[-79.862152,40.40453],"type":"Point"}
+  "bbox": [
+    -79.862152,
+    40.40453,
+    -79.862152,
+    40.40453
+],
+  "geometry": {"coordinates":[-79.86215199999999,40.40453],"type":"Point"}
 }

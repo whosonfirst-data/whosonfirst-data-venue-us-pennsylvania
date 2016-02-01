@@ -2,13 +2,14 @@
   "id": 404051615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.30331,39.874782,-76.30331,39.874782",
     "geom:latitude":39.874782,
     "geom:longitude":-76.30331,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"254 Tucquan Glen Rd",
     "sg:city":"Holtwood",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85815303
+        85815303,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"f4b235f1b983a713b3ac234a07e14e34",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85815303,
             "region_id":85688481,
             "venue_id":404051615
         }
     ],
     "wof:id":404051615,
-    "wof:lastmodified":1449039851,
+    "wof:lastmodified":1454356841,
     "wof:name":"William S Royer",
     "wof:parent_id":85815303,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-76.30331,39.874782,-76.30331,39.874782],
+  "bbox": [
+    -76.30331,
+    39.874782,
+    -76.30331,
+    39.874782
+],
   "geometry": {"coordinates":[-76.30331,39.874782],"type":"Point"}
 }

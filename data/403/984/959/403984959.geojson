@@ -2,13 +2,14 @@
   "id": 403984959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.231862,39.829712,-77.231862,39.829712",
     "geom:latitude":39.829712,
     "geom:longitude":-77.231862,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"34 W Middle St",
     "sg:city":"Gettysburg",
     "sg:classifiers":[
@@ -33,8 +34,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080899,
-        85804527
+        85804527,
+        102080899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +45,15 @@
     "wof:geomhash":"fbb1b4976d745d12c18b3007a2a3a04a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080899,
-            "locality_id":-1,
             "neighbourhood_id":85804527,
             "region_id":85688481,
             "venue_id":403984959
         }
     ],
     "wof:id":403984959,
-    "wof:lastmodified":1449055391,
+    "wof:lastmodified":1454357645,
     "wof:name":"Raffensperger Charles H CPA",
     "wof:parent_id":85804527,
     "wof:placetype":"venue",
@@ -68,6 +67,11 @@
         "taxes-consultants"
     ]
 },
-  "bbox": [-77.231862,39.829712,-77.231862,39.829712],
-  "geometry": {"coordinates":[-77.231862,39.829712],"type":"Point"}
+  "bbox": [
+    -77.231862,
+    39.829712,
+    -77.231862,
+    39.829712
+],
+  "geometry": {"coordinates":[-77.23186200000001,39.829712],"type":"Point"}
 }

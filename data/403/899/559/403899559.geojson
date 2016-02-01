@@ -2,13 +2,14 @@
   "id": 403899559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.695348,40.352637,-76.695348,40.352637",
     "geom:latitude":40.352637,
     "geom:longitude":-76.695348,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"316 N Mill Rd",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -32,8 +33,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85832031
+        85832031,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +44,15 @@
     "wof:geomhash":"91ab20fb8008a3406f18c8fe17d3edf2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85832031,
             "region_id":85688481,
             "venue_id":403899559
         }
     ],
     "wof:id":403899559,
-    "wof:lastmodified":1449055880,
+    "wof:lastmodified":1454357927,
     "wof:name":"Anthony S Small Engine Repair",
     "wof:parent_id":85832031,
     "wof:placetype":"venue",
@@ -66,6 +65,11 @@
         "rebuilding"
     ]
 },
-  "bbox": [-76.695348,40.352637,-76.695348,40.352637],
+  "bbox": [
+    -76.695348,
+    40.352637,
+    -76.695348,
+    40.352637
+],
   "geometry": {"coordinates":[-76.695348,40.352637],"type":"Point"}
 }

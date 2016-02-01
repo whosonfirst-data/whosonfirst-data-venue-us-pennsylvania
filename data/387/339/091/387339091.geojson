@@ -2,13 +2,14 @@
   "id": 387339091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.938049,40.439726,-79.938049,40.439726",
     "geom:latitude":40.439726,
     "geom:longitude":-79.938049,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6301 Northumberland St",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -36,11 +37,13 @@
     "sg:website":"http://www.unionoandp.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85873579,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85873579
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,9 +53,10 @@
     "wof:geomhash":"a5a262619eb40902fe7081c387ccc30f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85873579,
             "region_id":85688481,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":387339091,
-    "wof:lastmodified":1449057801,
+    "wof:lastmodified":1454360600,
     "wof:name":"Union Orthotics & Prosthetics Co",
     "wof:parent_id":85873579,
     "wof:placetype":"venue",
@@ -73,6 +77,11 @@
         "prosthetic"
     ]
 },
-  "bbox": [-79.938049,40.439726,-79.938049,40.439726],
-  "geometry": {"coordinates":[-79.938049,40.439726],"type":"Point"}
+  "bbox": [
+    -79.938049,
+    40.439726,
+    -79.938049,
+    40.439726
+],
+  "geometry": {"coordinates":[-79.93804900000001,40.439726],"type":"Point"}
 }

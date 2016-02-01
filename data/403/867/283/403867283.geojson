@@ -2,13 +2,14 @@
   "id": 403867283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.825028,40.272642,-76.825028,40.272642",
     "geom:latitude":40.272642,
     "geom:longitude":-76.825028,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"801 Katie Ct",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -52,8 +53,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85840955
+        85840955,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,17 +64,15 @@
     "wof:geomhash":"25635d06e787c38f9c2f257b828fb968",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85840955,
             "region_id":85688481,
             "venue_id":403867283
         }
     ],
     "wof:id":403867283,
-    "wof:lastmodified":1449055212,
+    "wof:lastmodified":1454357540,
     "wof:name":"Penske Truck Rental",
     "wof:parent_id":85840955,
     "wof:placetype":"venue",
@@ -90,6 +89,11 @@
         "trailer"
     ]
 },
-  "bbox": [-76.825028,40.272642,-76.825028,40.272642],
+  "bbox": [
+    -76.825028,
+    40.272642,
+    -76.825028,
+    40.272642
+],
   "geometry": {"coordinates":[-76.825028,40.272642],"type":"Point"}
 }

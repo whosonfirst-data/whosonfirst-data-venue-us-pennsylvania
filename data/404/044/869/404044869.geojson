@@ -2,13 +2,14 @@
   "id": 404044869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.194441,40.275185,-76.194441,40.275185",
     "geom:latitude":40.275185,
     "geom:longitude":-76.194441,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"600 S Cocalico Rd",
     "sg:city":"Denver",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85811603
+        85811603,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"020cffed4c32233b300d53513c232f8e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85811603,
             "region_id":85688481,
             "venue_id":404044869
         }
     ],
     "wof:id":404044869,
-    "wof:lastmodified":1449039746,
+    "wof:lastmodified":1454356774,
     "wof:name":"Schannauer Properties",
     "wof:parent_id":85811603,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "park"
     ]
 },
-  "bbox": [-76.194441,40.275185,-76.194441,40.275185],
+  "bbox": [
+    -76.194441,
+    40.275185,
+    -76.194441,
+    40.275185
+],
   "geometry": {"coordinates":[-76.194441,40.275185],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403772559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.989098,40.180199,-76.989098,40.180199",
     "geom:latitude":40.180199,
     "geom:longitude":-76.989098,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"147 Gettysburg Pike",
     "sg:city":"Mechanicsburg",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081359,
-        85825925
+        85825925,
+        102081359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"7b693bcd091cf85eb26ffd290267f3b4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081359,
-            "locality_id":-1,
             "neighbourhood_id":85825925,
             "region_id":85688481,
             "venue_id":403772559
         }
     ],
     "wof:id":403772559,
-    "wof:lastmodified":1449055231,
+    "wof:lastmodified":1454357548,
     "wof:name":"Maggie's Italian Ice & Frozen Custard",
     "wof:parent_id":85825925,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "yogurt"
     ]
 },
-  "bbox": [-76.989098,40.180199,-76.989098,40.180199],
+  "bbox": [
+    -76.989098,
+    40.180199,
+    -76.989098,
+    40.180199
+],
   "geometry": {"coordinates":[-76.989098,40.180199],"type":"Point"}
 }

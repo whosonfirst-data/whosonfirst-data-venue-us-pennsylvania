@@ -2,13 +2,14 @@
   "id": 387447369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.0504,40.353901,-80.0504,40.353901",
     "geom:latitude":40.353901,
     "geom:longitude":-80.0504,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1590 Washington Rd",
     "sg:city":"Mount Lebanon",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85805039
+        85805039,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"7ed820a2769c639dd73fd82651e2ddbb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85805039,
             "region_id":85688481,
             "venue_id":387447369
         }
     ],
     "wof:id":387447369,
-    "wof:lastmodified":1449058791,
+    "wof:lastmodified":1454360882,
     "wof:name":"Mattress Discounters",
     "wof:parent_id":85805039,
     "wof:placetype":"venue",
@@ -61,6 +60,11 @@
         "mattress"
     ]
 },
-  "bbox": [-80.0504,40.353901,-80.0504,40.353901],
+  "bbox": [
+    -80.0504,
+    40.353901,
+    -80.0504,
+    40.353901
+],
   "geometry": {"coordinates":[-80.0504,40.353901],"type":"Point"}
 }

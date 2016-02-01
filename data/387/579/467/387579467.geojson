@@ -2,13 +2,14 @@
   "id": 387579467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.012877,40.037438,-80.012877,40.037438",
     "geom:latitude":40.037438,
     "geom:longitude":-80.012877,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"484 Ridgewood Dr",
     "sg:city":"Fredericktown",
     "sg:classifiers":[
@@ -35,10 +36,13 @@
     "sg:website":"http://www.comcast.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420540013,
+        102191575,
+        404483953,
         85633793,
-        101718527,
-        102081343
+        101718553,
+        102081343,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +52,20 @@
     "wof:geomhash":"e28821a0c113c1f77253a4fff1fda8ef",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081343,
-            "locality_id":101718527,
-            "neighbourhood_id":-1,
+            "localadmin_id":404483953,
+            "locality_id":101718553,
+            "neighbourhood_id":420540013,
             "region_id":85688481,
             "venue_id":387579467
         }
     ],
     "wof:id":387579467,
-    "wof:lastmodified":1449057310,
+    "wof:lastmodified":1454359007,
     "wof:name":"Comcast",
-    "wof:parent_id":-1,
+    "wof:parent_id":420540013,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -70,6 +75,11 @@
         "film"
     ]
 },
-  "bbox": [-80.012877,40.037438,-80.012877,40.037438],
+  "bbox": [
+    -80.012877,
+    40.037438,
+    -80.012877,
+    40.037438
+],
   "geometry": {"coordinates":[-80.012877,40.037438],"type":"Point"}
 }

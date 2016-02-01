@@ -2,13 +2,14 @@
   "id": 387854083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.405705,40.47374,-78.405705,40.47374",
     "geom:latitude":40.47374,
     "geom:longitude":-78.405705,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"508 E Plank Rd",
     "sg:city":"Altoona",
     "sg:classifiers":[
@@ -89,10 +90,13 @@
     "sg:website":"http://www.walgreens.com/default.jsp?ec=iyp_yellowpages_trademark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85829293,
+        102191575,
+        404484717,
         85633793,
+        101718879,
         102081325,
-        85829293
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -102,17 +106,18 @@
     "wof:geomhash":"6cdf351986bda21a3d95f13d6e053205",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081325,
-            "locality_id":-1,
+            "localadmin_id":404484717,
+            "locality_id":101718879,
             "neighbourhood_id":85829293,
             "region_id":85688481,
             "venue_id":387854083
         }
     ],
     "wof:id":387854083,
-    "wof:lastmodified":1449059778,
+    "wof:lastmodified":1454361193,
     "wof:name":"Walgreens Pharmacies",
     "wof:parent_id":85829293,
     "wof:placetype":"venue",
@@ -133,6 +138,11 @@
         "consumer"
     ]
 },
-  "bbox": [-78.405705,40.47374,-78.405705,40.47374],
+  "bbox": [
+    -78.405705,
+    40.47374,
+    -78.405705,
+    40.47374
+],
   "geometry": {"coordinates":[-78.405705,40.47374],"type":"Point"}
 }

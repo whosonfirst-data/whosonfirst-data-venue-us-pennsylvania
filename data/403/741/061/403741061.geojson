@@ -2,13 +2,14 @@
   "id": 403741061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.975965,40.237548,-76.975965,40.237548",
     "geom:latitude":40.237548,
     "geom:longitude":-76.975965,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5250 Carlisle Pike",
     "sg:city":"Mechanicsburg",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081359,
-        85850501
+        85850501,
+        102081359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"f2b6d8c70dc017810a76e6568205de3b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081359,
-            "locality_id":-1,
             "neighbourhood_id":85850501,
             "region_id":85688481,
             "venue_id":403741061
         }
     ],
     "wof:id":403741061,
-    "wof:lastmodified":1449054698,
+    "wof:lastmodified":1454357224,
     "wof:name":"Carrabba's",
     "wof:parent_id":85850501,
     "wof:placetype":"venue",
@@ -61,6 +60,11 @@
         "italian"
     ]
 },
-  "bbox": [-76.975965,40.237548,-76.975965,40.237548],
+  "bbox": [
+    -76.975965,
+    40.237548,
+    -76.975965,
+    40.237548
+],
   "geometry": {"coordinates":[-76.975965,40.237548],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387562363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.154772,40.280289,-80.154772,40.280289",
     "geom:latitude":40.280289,
     "geom:longitude":-80.154772,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"414 Morganza Rd",
     "sg:city":"Canonsburg",
     "sg:classifiers":[
@@ -36,7 +37,12 @@
     "sg:website":"www.grecos-bellasera.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420539915,
+        102191575,
+        404487735,
         85633793,
+        101720271,
+        102081343,
         85688481
     ],
     "wof:breaches":[],
@@ -47,18 +53,20 @@
     "wof:geomhash":"a7afd75c1959347160f35490cdbb124b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081343,
+            "localadmin_id":404487735,
+            "locality_id":101720271,
+            "neighbourhood_id":420539915,
             "region_id":85688481,
             "venue_id":387562363
         }
     ],
     "wof:id":387562363,
-    "wof:lastmodified":1449058126,
+    "wof:lastmodified":1454360687,
     "wof:name":"Greco's Gourmet Catering",
-    "wof:parent_id":-1,
+    "wof:parent_id":420539915,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -69,6 +77,11 @@
         "caterer"
     ]
 },
-  "bbox": [-80.154772,40.280289,-80.154772,40.280289],
-  "geometry": {"coordinates":[-80.154772,40.280289],"type":"Point"}
+  "bbox": [
+    -80.154772,
+    40.280289,
+    -80.154772,
+    40.280289
+],
+  "geometry": {"coordinates":[-80.15477199999999,40.280289],"type":"Point"}
 }

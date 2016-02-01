@@ -2,13 +2,14 @@
   "id": 404139431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.556554,40.788908,-76.556554,40.788908",
     "geom:latitude":40.788908,
     "geom:longitude":-76.556554,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"25 W Arch St",
     "sg:city":"Shamokin",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85817501,
+        102191575,
+        404486113,
         85633793,
-        101719367,
+        101719303,
         102081349,
-        85817501
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"7c3566d3a2556ca593381572d12f2706",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081349,
-            "locality_id":101719367,
+            "localadmin_id":404486113,
+            "locality_id":101719303,
             "neighbourhood_id":85817501,
             "region_id":85688481,
             "venue_id":404139431
         }
     ],
     "wof:id":404139431,
-    "wof:lastmodified":1449039131,
+    "wof:lastmodified":1454356460,
     "wof:name":"Jec Consulting",
     "wof:parent_id":85817501,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "coach"
     ]
 },
-  "bbox": [-76.556554,40.788908,-76.556554,40.788908],
-  "geometry": {"coordinates":[-76.556554,40.788908],"type":"Point"}
+  "bbox": [
+    -76.556554,
+    40.788908,
+    -76.556554,
+    40.788908
+],
+  "geometry": {"coordinates":[-76.55655400000001,40.788908],"type":"Point"}
 }

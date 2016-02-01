@@ -2,13 +2,14 @@
   "id": 387851307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.407465,40.470538,-78.407465,40.470538",
     "geom:latitude":40.470538,
     "geom:longitude":-78.407465,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"922 Logan Valley Mall",
     "sg:city":"Altoona",
     "sg:classifiers":[
@@ -64,7 +65,6 @@
     "wof:geomhash":"0a3e9e0597f6dd9e8d149a029b52d344",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081325,
             "locality_id":101716595,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":387851307,
-    "wof:lastmodified":1449058617,
+    "wof:lastmodified":1454360829,
     "wof:name":"AT&T",
     "wof:parent_id":85817743,
     "wof:placetype":"venue",
@@ -91,6 +91,11 @@
         "provider"
     ]
 },
-  "bbox": [-78.407465,40.470538,-78.407465,40.470538],
+  "bbox": [
+    -78.407465,
+    40.470538,
+    -78.407465,
+    40.470538
+],
   "geometry": {"coordinates":[-78.407465,40.470538],"type":"Point"}
 }

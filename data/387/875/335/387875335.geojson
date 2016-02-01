@@ -2,13 +2,14 @@
   "id": 387875335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.786849,40.895301,-77.786849,40.895301",
     "geom:latitude":40.895301,
     "geom:longitude":-77.786849,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3482 Benner Pike",
     "sg:city":"Bellefonte",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"http://www.econolodge.com/hotel-bellefonte-pennsylvania-PA601",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85806075,
+        102191575,
+        404485871,
         85633793,
         101718145,
         102081369,
-        85806075
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"8f14999d1cc85d0efb5a8cb3a1b8f73c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081369,
+            "localadmin_id":404485871,
             "locality_id":101718145,
             "neighbourhood_id":85806075,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387875335,
-    "wof:lastmodified":1449058938,
+    "wof:lastmodified":1454360932,
     "wof:name":"Econo Lodge Bellefonte",
     "wof:parent_id":85806075,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "lodging"
     ]
 },
-  "bbox": [-77.786849,40.895301,-77.786849,40.895301],
+  "bbox": [
+    -77.786849,
+    40.895301,
+    -77.786849,
+    40.895301
+],
   "geometry": {"coordinates":[-77.786849,40.895301],"type":"Point"}
 }

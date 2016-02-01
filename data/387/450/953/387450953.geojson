@@ -2,13 +2,14 @@
   "id": 387450953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.037643,40.516251,-80.037643,40.516251",
     "geom:latitude":40.516251,
     "geom:longitude":-80.037643,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"999 W View Park Dr",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -37,8 +38,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85824969
+        85824969,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +49,15 @@
     "wof:geomhash":"e231bb1939cb82728b1635c6a076b6d5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85824969,
             "region_id":85688481,
             "venue_id":387450953
         }
     ],
     "wof:id":387450953,
-    "wof:lastmodified":1449059344,
+    "wof:lastmodified":1454361046,
     "wof:name":"Daniel & Kasbee",
     "wof:parent_id":85824969,
     "wof:placetype":"venue",
@@ -75,6 +74,11 @@
         "bankruptcy"
     ]
 },
-  "bbox": [-80.037643,40.516251,-80.037643,40.516251],
+  "bbox": [
+    -80.037643,
+    40.516251,
+    -80.037643,
+    40.516251
+],
   "geometry": {"coordinates":[-80.037643,40.516251],"type":"Point"}
 }

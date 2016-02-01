@@ -2,13 +2,14 @@
   "id": 404180611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.355618,40.640289,-75.355618,40.640289",
     "geom:latitude":40.640289,
     "geom:longitude":-75.355618,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"142 Easton Ave",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85805935,
+        102191575,
+        404485987,
         85633793,
         101717907,
         102081395,
-        85805935
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"2eb9dc37e13b0437d778e30f56033853",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081395,
+            "localadmin_id":404485987,
             "locality_id":101717907,
             "neighbourhood_id":85805935,
             "region_id":85688481,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":404180611,
-    "wof:lastmodified":1449039116,
+    "wof:lastmodified":1454356446,
     "wof:name":"Cassidon Realty Corp",
     "wof:parent_id":85805935,
     "wof:placetype":"venue",
@@ -68,6 +72,11 @@
         "broker"
     ]
 },
-  "bbox": [-75.355618,40.640289,-75.355618,40.640289],
-  "geometry": {"coordinates":[-75.355618,40.640289],"type":"Point"}
+  "bbox": [
+    -75.355618,
+    40.640289,
+    -75.355618,
+    40.640289
+],
+  "geometry": {"coordinates":[-75.35561800000001,40.640289],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387611605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.323114,40.018424,-78.323114,40.018424",
     "geom:latitude":40.018424,
     "geom:longitude":-78.323114,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2574 W Graceville Rd",
     "sg:city":"Everett",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85815813,
+        102191575,
+        404484499,
         85633793,
         101716769,
         102080939,
-        85815813
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"60b4a8794115e3f41eb6d34f103def17",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080939,
+            "localadmin_id":404484499,
             "locality_id":101716769,
             "neighbourhood_id":85815813,
             "region_id":85688481,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":387611605,
-    "wof:lastmodified":1449059106,
+    "wof:lastmodified":1454360984,
     "wof:name":"Reyan's Bike Fix",
     "wof:parent_id":85815813,
     "wof:placetype":"venue",
@@ -72,6 +76,11 @@
         "rack"
     ]
 },
-  "bbox": [-78.323114,40.018424,-78.323114,40.018424],
+  "bbox": [
+    -78.323114,
+    40.018424,
+    -78.323114,
+    40.018424
+],
   "geometry": {"coordinates":[-78.323114,40.018424],"type":"Point"}
 }

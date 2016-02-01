@@ -2,13 +2,14 @@
   "id": 403713091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.523063,40.395518,-76.523063,40.395518",
     "geom:latitude":40.395518,
     "geom:longitude":-76.523063,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"16 Orchard Dr",
     "sg:city":"Jonestown",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85826915,
+        102191575,
+        404485823,
         85633793,
         101719381,
         102081341,
-        85826915
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"480c1b0a60f16181c14b15a47e47a971",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081341,
+            "localadmin_id":404485823,
             "locality_id":101719381,
             "neighbourhood_id":85826915,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":403713091,
-    "wof:lastmodified":1449055842,
+    "wof:lastmodified":1454357902,
     "wof:name":"Lentha L Zinsky",
     "wof:parent_id":85826915,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "educational"
     ]
 },
-  "bbox": [-76.523063,40.395518,-76.523063,40.395518],
-  "geometry": {"coordinates":[-76.523063,40.395518],"type":"Point"}
+  "bbox": [
+    -76.523063,
+    40.395518,
+    -76.523063,
+    40.395518
+],
+  "geometry": {"coordinates":[-76.52306299999999,40.395518],"type":"Point"}
 }

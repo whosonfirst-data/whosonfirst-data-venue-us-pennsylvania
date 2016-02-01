@@ -2,13 +2,14 @@
   "id": 387165565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.891938,40.162284,-79.891938,40.162284",
     "geom:latitude":40.162284,
     "geom:longitude":-79.891938,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"925 Donner Ave",
     "sg:city":"Monessen",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85817735,
+        102191575,
+        404487505,
         85633793,
         101717153,
         102081383,
-        85817735
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"f9966a770cec2b02f89d27e71af0c865",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081383,
+            "localadmin_id":404487505,
             "locality_id":101717153,
             "neighbourhood_id":85817735,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387165565,
-    "wof:lastmodified":1449059929,
+    "wof:lastmodified":1454361235,
     "wof:name":"Wine & Spirits Stores",
     "wof:parent_id":85817735,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "wine"
     ]
 },
-  "bbox": [-79.891938,40.162284,-79.891938,40.162284],
+  "bbox": [
+    -79.891938,
+    40.162284,
+    -79.891938,
+    40.162284
+],
   "geometry": {"coordinates":[-79.891938,40.162284],"type":"Point"}
 }

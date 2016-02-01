@@ -2,13 +2,14 @@
   "id": 354395447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.968266,39.675145,-75.968266,39.675145",
     "geom:latitude":39.675145,
     "geom:longitude":-75.968266,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"80 Zion Acres Rd",
     "sg:city":"North East",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081275,
-        85810983
+        85810983,
+        102081275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"5f9e3ba192f23671910d598b9d6e9bbd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081275,
-            "locality_id":-1,
             "neighbourhood_id":85810983,
             "region_id":85688481,
             "venue_id":354395447
         }
     ],
     "wof:id":354395447,
-    "wof:lastmodified":1449067405,
+    "wof:lastmodified":1454361271,
     "wof:name":"S&A Const",
     "wof:parent_id":85810983,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "house"
     ]
 },
-  "bbox": [-75.968266,39.675145,-75.968266,39.675145],
+  "bbox": [
+    -75.968266,
+    39.675145,
+    -75.968266,
+    39.675145
+],
   "geometry": {"coordinates":[-75.968266,39.675145],"type":"Point"}
 }

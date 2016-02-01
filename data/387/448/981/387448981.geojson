@@ -2,13 +2,14 @@
   "id": 387448981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.039398,40.369499,-80.039398,40.369499",
     "geom:latitude":40.369499,
     "geom:longitude":-80.039398,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"375 Parkway Dr",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -27,7 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420536387,
+        102191575,
+        404484869,
         85633793,
+        101718761,
+        102080887,
         85688481
     ],
     "wof:breaches":[],
@@ -38,18 +44,20 @@
     "wof:geomhash":"d031c39cbc684a200b5085ca31086f24",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102080887,
+            "localadmin_id":404484869,
+            "locality_id":101718761,
+            "neighbourhood_id":420536387,
             "region_id":85688481,
             "venue_id":387448981
         }
     ],
     "wof:id":387448981,
-    "wof:lastmodified":1449059739,
+    "wof:lastmodified":1454361176,
     "wof:name":"Conway D CPA",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536387,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +65,11 @@
         "accountant"
     ]
 },
-  "bbox": [-80.039398,40.369499,-80.039398,40.369499],
-  "geometry": {"coordinates":[-80.039398,40.369499],"type":"Point"}
+  "bbox": [
+    -80.039398,
+    40.369499,
+    -80.039398,
+    40.369499
+],
+  "geometry": {"coordinates":[-80.03939800000001,40.369499],"type":"Point"}
 }

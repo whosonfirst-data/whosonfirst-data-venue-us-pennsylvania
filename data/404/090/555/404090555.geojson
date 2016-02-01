@@ -2,13 +2,14 @@
   "id": 404090555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.363646,40.042778,-76.363646,40.042778",
     "geom:latitude":40.042778,
     "geom:longitude":-76.363646,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"161 Rohrerstown Rd",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -33,8 +34,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85810789
+        85810789,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +45,15 @@
     "wof:geomhash":"8797f9c33877b26be04b79a0be08f779",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85810789,
             "region_id":85688481,
             "venue_id":404090555
         }
     ],
     "wof:id":404090555,
-    "wof:lastmodified":1449040043,
+    "wof:lastmodified":1454356975,
     "wof:name":"Wildnernest, The",
     "wof:parent_id":85810789,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-76.363646,40.042778,-76.363646,40.042778],
+  "bbox": [
+    -76.363646,
+    40.042778,
+    -76.363646,
+    40.042778
+],
   "geometry": {"coordinates":[-76.363646,40.042778],"type":"Point"}
 }

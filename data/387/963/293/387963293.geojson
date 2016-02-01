@@ -2,13 +2,14 @@
   "id": 387963293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.986504,40.287998,-76.986504,40.287998",
     "geom:latitude":40.287998,
     "geom:longitude":-76.986504,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4955 Woodland Dr",
     "sg:city":"Enola",
     "sg:classifiers":[
@@ -41,8 +42,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081359,
-        85822223
+        85822223,
+        102081359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,17 +53,15 @@
     "wof:geomhash":"28d703013d96b26c5036142263192c1f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081359,
-            "locality_id":-1,
             "neighbourhood_id":85822223,
             "region_id":85688481,
             "venue_id":387963293
         }
     ],
     "wof:id":387963293,
-    "wof:lastmodified":1449056470,
+    "wof:lastmodified":1454358378,
     "wof:name":"Goddard School the",
     "wof:parent_id":85822223,
     "wof:placetype":"venue",
@@ -73,6 +72,11 @@
         "day"
     ]
 },
-  "bbox": [-76.986504,40.287998,-76.986504,40.287998],
+  "bbox": [
+    -76.986504,
+    40.287998,
+    -76.986504,
+    40.287998
+],
   "geometry": {"coordinates":[-76.986504,40.287998],"type":"Point"}
 }

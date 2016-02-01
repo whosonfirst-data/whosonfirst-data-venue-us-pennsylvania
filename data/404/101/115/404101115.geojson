@@ -2,13 +2,14 @@
   "id": 404101115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.00963,41.225163,-77.00963,41.225163",
     "geom:latitude":41.225163,
     "geom:longitude":-77.00963,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"463 Charlotte Ave",
     "sg:city":"Williamsport",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85802799,
+        102191575,
+        404485355,
         85633793,
-        101716811,
+        101716809,
         102081317,
-        85802799
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"bde741e0cb092ac0c646145e4b0b3046",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081317,
-            "locality_id":101716811,
+            "localadmin_id":404485355,
+            "locality_id":101716809,
             "neighbourhood_id":85802799,
             "region_id":85688481,
             "venue_id":404101115
         }
     ],
     "wof:id":404101115,
-    "wof:lastmodified":1449039750,
+    "wof:lastmodified":1454356776,
     "wof:name":"Smn Trading Company",
     "wof:parent_id":85802799,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "merchandise-wholesale"
     ]
 },
-  "bbox": [-77.00963,41.225163,-77.00963,41.225163],
+  "bbox": [
+    -77.00963,
+    41.225163,
+    -77.00963,
+    41.225163
+],
   "geometry": {"coordinates":[-77.00963,41.225163],"type":"Point"}
 }

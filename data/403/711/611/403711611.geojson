@@ -2,13 +2,14 @@
   "id": 403711611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.703902,40.265551,-76.703902,40.265551",
     "geom:latitude":40.265551,
     "geom:longitude":-76.703902,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"205 E Main St",
     "sg:city":"Hummelstown",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85842349,
+        102191575,
+        404486175,
         85633793,
+        101717689,
         102081347,
-        85842349
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,17 +41,18 @@
     "wof:geomhash":"ca31db844ad3ab288a6b5bb06fe97d13",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
+            "localadmin_id":404486175,
+            "locality_id":101717689,
             "neighbourhood_id":85842349,
             "region_id":85688481,
             "venue_id":403711611
         }
     ],
     "wof:id":403711611,
-    "wof:lastmodified":1449055725,
+    "wof:lastmodified":1454357843,
     "wof:name":"Metamorphosis Hair Salon",
     "wof:parent_id":85842349,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.703902,40.265551,-76.703902,40.265551],
+  "bbox": [
+    -76.703902,
+    40.265551,
+    -76.703902,
+    40.265551
+],
   "geometry": {"coordinates":[-76.703902,40.265551],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387609375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.456495,40.06821,-78.456495,40.06821",
     "geom:latitude":40.06821,
     "geom:longitude":-78.456495,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1856 Imlertown Rd",
     "sg:city":"Bedford",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080939,
-        85824143
+        85824143,
+        102080939
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"46a9c19121a03f3c02aaf7f629de5bf1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080939,
-            "locality_id":-1,
             "neighbourhood_id":85824143,
             "region_id":85688481,
             "venue_id":387609375
         }
     ],
     "wof:id":387609375,
-    "wof:lastmodified":1449057522,
+    "wof:lastmodified":1454360185,
     "wof:name":"Henry Express",
     "wof:parent_id":85824143,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "truck"
     ]
 },
-  "bbox": [-78.456495,40.06821,-78.456495,40.06821],
+  "bbox": [
+    -78.456495,
+    40.06821,
+    -78.456495,
+    40.06821
+],
   "geometry": {"coordinates":[-78.456495,40.06821],"type":"Point"}
 }

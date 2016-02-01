@@ -2,13 +2,14 @@
   "id": 404098601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.003677,41.239851,-77.003677,41.239851",
     "geom:latitude":41.239851,
     "geom:longitude":-77.003677,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"161 W 3rd St",
     "sg:city":"Williamsport",
     "sg:classifiers":[
@@ -36,11 +37,13 @@
     "sg:website":"http://www.riederstravis.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85802799,
+        102191575,
+        404485355,
         85633793,
-        101716811,
+        101716809,
         102081317,
-        85802799
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,17 +53,18 @@
     "wof:geomhash":"c1a91c4238a2b609331f6b9b26bfca22",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081317,
-            "locality_id":101716811,
+            "localadmin_id":404485355,
+            "locality_id":101716809,
             "neighbourhood_id":85802799,
             "region_id":85688481,
             "venue_id":404098601
         }
     ],
     "wof:id":404098601,
-    "wof:lastmodified":1449040203,
+    "wof:lastmodified":1454357060,
     "wof:name":"Rieders Travis Humphrey Harris Waters & Waffenschmidt",
     "wof:parent_id":85802799,
     "wof:placetype":"venue",
@@ -78,6 +82,11 @@
         "law"
     ]
 },
-  "bbox": [-77.003677,41.239851,-77.003677,41.239851],
+  "bbox": [
+    -77.003677,
+    41.239851,
+    -77.003677,
+    41.239851
+],
   "geometry": {"coordinates":[-77.003677,41.239851],"type":"Point"}
 }

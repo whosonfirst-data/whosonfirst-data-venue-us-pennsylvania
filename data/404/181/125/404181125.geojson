@@ -2,13 +2,14 @@
   "id": 404181125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.408859,40.642447,-75.408859,40.642447",
     "geom:latitude":40.642447,
     "geom:longitude":-75.408859,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1770 Bathgate Rd",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85856947,
+        102191575,
+        404485987,
         85633793,
+        101717907,
         102081395,
-        85856947
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +45,18 @@
     "wof:geomhash":"76444ec877cc4251fc50ff8043d03b3e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081395,
-            "locality_id":-1,
+            "localadmin_id":404485987,
+            "locality_id":101717907,
             "neighbourhood_id":85856947,
             "region_id":85688481,
             "venue_id":404181125
         }
     ],
     "wof:id":404181125,
-    "wof:lastmodified":1449039844,
+    "wof:lastmodified":1454356837,
     "wof:name":"Spikol Lorraine J MD",
     "wof:parent_id":85856947,
     "wof:placetype":"venue",
@@ -62,6 +67,11 @@
         "family"
     ]
 },
-  "bbox": [-75.408859,40.642447,-75.408859,40.642447],
-  "geometry": {"coordinates":[-75.408859,40.642447],"type":"Point"}
+  "bbox": [
+    -75.408859,
+    40.642447,
+    -75.408859,
+    40.642447
+],
+  "geometry": {"coordinates":[-75.40885900000001,40.642447],"type":"Point"}
 }

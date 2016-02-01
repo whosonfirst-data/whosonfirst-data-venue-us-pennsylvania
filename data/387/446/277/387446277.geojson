@@ -2,13 +2,14 @@
   "id": 387446277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.043853,40.379979,-80.043853,40.379979",
     "geom:latitude":40.379979,
     "geom:longitude":-80.043853,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"123 Central Sq",
     "sg:city":"Mount Lebanon",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85804395,
+        102191575,
+        404482523,
         85633793,
+        101718805,
         102080887,
-        85804395
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,17 +41,18 @@
     "wof:geomhash":"4a348faf26f5080d90d7e58c6801d063",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
+            "localadmin_id":404482523,
+            "locality_id":101718805,
             "neighbourhood_id":85804395,
             "region_id":85688481,
             "venue_id":387446277
         }
     ],
     "wof:id":387446277,
-    "wof:lastmodified":1449059590,
+    "wof:lastmodified":1454361130,
     "wof:name":"Entenmann George C Atty",
     "wof:parent_id":85804395,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.043853,40.379979,-80.043853,40.379979],
+  "bbox": [
+    -80.043853,
+    40.379979,
+    -80.043853,
+    40.379979
+],
   "geometry": {"coordinates":[-80.043853,40.379979],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403874201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.812141,40.305949,-76.812141,40.305949",
     "geom:latitude":40.305949,
     "geom:longitude":-76.812141,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"439 N Houcks Rd Apt 1",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85844549,
+        102191575,
+        404486185,
         85633793,
-        101719819,
+        101719811,
         102081347,
-        85844549
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"aa48f472ebd68d1e95b9b21011ae0797",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":101719819,
+            "localadmin_id":404486185,
+            "locality_id":101719811,
             "neighbourhood_id":85844549,
             "region_id":85688481,
             "venue_id":403874201
         }
     ],
     "wof:id":403874201,
-    "wof:lastmodified":1449055877,
+    "wof:lastmodified":1454357925,
     "wof:name":"S Carpenter Rentals",
     "wof:parent_id":85844549,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "store"
     ]
 },
-  "bbox": [-76.812141,40.305949,-76.812141,40.305949],
+  "bbox": [
+    -76.812141,
+    40.305949,
+    -76.812141,
+    40.305949
+],
   "geometry": {"coordinates":[-76.812141,40.305949],"type":"Point"}
 }

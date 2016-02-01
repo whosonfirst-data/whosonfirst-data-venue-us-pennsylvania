@@ -2,13 +2,14 @@
   "id": 387484221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.01367,40.367559,-80.01367,40.367559",
     "geom:latitude":40.367559,
     "geom:longitude":-80.01367,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3360 Library Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85830717,
+        102191575,
+        404484869,
         85633793,
         101718761,
         102080887,
-        85830717
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"9a0105163606bf7b73419821cb9371cf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484869,
             "locality_id":101718761,
             "neighbourhood_id":85830717,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387484221,
-    "wof:lastmodified":1449059699,
+    "wof:lastmodified":1454361163,
     "wof:name":"Pittsburgh Pizza Guyz",
     "wof:parent_id":85830717,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "pizza"
     ]
 },
-  "bbox": [-80.01367,40.367559,-80.01367,40.367559],
+  "bbox": [
+    -80.01367,
+    40.367559,
+    -80.01367,
+    40.367559
+],
   "geometry": {"coordinates":[-80.01367,40.367559],"type":"Point"}
 }

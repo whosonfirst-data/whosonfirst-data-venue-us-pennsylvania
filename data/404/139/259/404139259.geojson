@@ -2,13 +2,14 @@
   "id": 404139259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.558341,40.782425,-76.558341,40.782425",
     "geom:latitude":40.782425,
     "geom:longitude":-76.558341,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"519 S Market St",
     "sg:city":"Shamokin",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85817501,
+        102191575,
+        404486113,
         85633793,
-        101719367,
+        101719303,
         102081349,
-        85817501
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +51,18 @@
     "wof:geomhash":"dba36ae38d2ce8ab3d5312fdb55c705a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081349,
-            "locality_id":101719367,
+            "localadmin_id":404486113,
+            "locality_id":101719303,
             "neighbourhood_id":85817501,
             "region_id":85688481,
             "venue_id":404139259
         }
     ],
     "wof:id":404139259,
-    "wof:lastmodified":1449039132,
+    "wof:lastmodified":1454356461,
     "wof:name":"J & J Const.",
     "wof:parent_id":85817501,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "contractor"
     ]
 },
-  "bbox": [-76.558341,40.782425,-76.558341,40.782425],
+  "bbox": [
+    -76.558341,
+    40.782425,
+    -76.558341,
+    40.782425
+],
   "geometry": {"coordinates":[-76.558341,40.782425],"type":"Point"}
 }

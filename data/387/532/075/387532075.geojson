@@ -2,13 +2,14 @@
   "id": 387532075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.070026,40.36958,-80.070026,40.36958",
     "geom:latitude":40.36958,
     "geom:longitude":-80.070026,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1187 Driftwood Dr",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -39,8 +40,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85805039
+        85805039,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,17 +51,15 @@
     "wof:geomhash":"333c2692f03f18dc81e9d90a5078ad53",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85805039,
             "region_id":85688481,
             "venue_id":387532075
         }
     ],
     "wof:id":387532075,
-    "wof:lastmodified":1449057377,
+    "wof:lastmodified":1454359071,
     "wof:name":"Indoff, Incorporated",
     "wof:parent_id":85805039,
     "wof:placetype":"venue",
@@ -74,6 +73,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-80.070026,40.36958,-80.070026,40.36958],
+  "bbox": [
+    -80.070026,
+    40.36958,
+    -80.070026,
+    40.36958
+],
   "geometry": {"coordinates":[-80.070026,40.36958],"type":"Point"}
 }

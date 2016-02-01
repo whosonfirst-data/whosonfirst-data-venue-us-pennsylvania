@@ -2,13 +2,14 @@
   "id": 387847425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.418929,40.518435,-78.418929,40.518435",
     "geom:latitude":40.518435,
     "geom:longitude":-78.418929,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2612 18th St",
     "sg:city":"Altoona",
     "sg:classifiers":[
@@ -75,7 +76,6 @@
     "wof:geomhash":"a977e9df7bdb63176dcf2db416a53834",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081325,
             "locality_id":101716595,
@@ -85,7 +85,7 @@
         }
     ],
     "wof:id":387847425,
-    "wof:lastmodified":1449057482,
+    "wof:lastmodified":1454359155,
     "wof:name":"ServiceMaster Clean",
     "wof:parent_id":85857011,
     "wof:placetype":"venue",
@@ -113,6 +113,11 @@
         "carpet"
     ]
 },
-  "bbox": [-78.418929,40.518435,-78.418929,40.518435],
-  "geometry": {"coordinates":[-78.418929,40.518435],"type":"Point"}
+  "bbox": [
+    -78.418929,
+    40.518435,
+    -78.418929,
+    40.518435
+],
+  "geometry": {"coordinates":[-78.41892900000001,40.518435],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387880073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.785797,40.918098,-77.785797,40.918098",
     "geom:latitude":40.918098,
     "geom:longitude":-77.785797,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"649 Pleasantview Blvd",
     "sg:city":"Bellefonte",
     "sg:classifiers":[
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85806075,
+        102191575,
+        404485871,
         85633793,
         101718145,
         102081369,
-        85806075
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"417ec82d025aabb6add1d99d66b5c83f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081369,
+            "localadmin_id":404485871,
             "locality_id":101718145,
             "neighbourhood_id":85806075,
             "region_id":85688481,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":387880073,
-    "wof:lastmodified":1449059953,
+    "wof:lastmodified":1454361242,
     "wof:name":"Fisher's Auto Center",
     "wof:parent_id":85806075,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "notary"
     ]
 },
-  "bbox": [-77.785797,40.918098,-77.785797,40.918098],
+  "bbox": [
+    -77.785797,
+    40.918098,
+    -77.785797,
+    40.918098
+],
   "geometry": {"coordinates":[-77.785797,40.918098],"type":"Point"}
 }

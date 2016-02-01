@@ -2,13 +2,14 @@
   "id": 387280715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.074682,40.503551,-80.074682,40.503551",
     "geom:latitude":40.503551,
     "geom:longitude":-80.074682,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"10 California Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -38,8 +39,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85842091
+        85842091,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +50,15 @@
     "wof:geomhash":"9d629631dd23c5eaa0f1c968d4da89bd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85842091,
             "region_id":85688481,
             "venue_id":387280715
         }
     ],
     "wof:id":387280715,
-    "wof:lastmodified":1449057977,
+    "wof:lastmodified":1454360644,
     "wof:name":"The Doorway Inc",
     "wof:parent_id":85842091,
     "wof:placetype":"venue",
@@ -72,6 +71,11 @@
         "surgeons"
     ]
 },
-  "bbox": [-80.074682,40.503551,-80.074682,40.503551],
+  "bbox": [
+    -80.074682,
+    40.503551,
+    -80.074682,
+    40.503551
+],
   "geometry": {"coordinates":[-80.074682,40.503551],"type":"Point"}
 }

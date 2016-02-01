@@ -2,13 +2,14 @@
   "id": 387294933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.069988,40.441853,-80.069988,40.441853",
     "geom:latitude":40.441853,
     "geom:longitude":-80.069988,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"234 Crafton Ingram Shp Ctr",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85826735,
+        102191575,
+        404484879,
         85633793,
-        101718743,
+        101718739,
         102080887,
-        85826735
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"bd4e408ae1c36a8ea638518924044804",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":101718743,
+            "localadmin_id":404484879,
+            "locality_id":101718739,
             "neighbourhood_id":85826735,
             "region_id":85688481,
             "venue_id":387294933
         }
     ],
     "wof:id":387294933,
-    "wof:lastmodified":1449058818,
+    "wof:lastmodified":1454360892,
     "wof:name":"Eastern Buffet",
     "wof:parent_id":85826735,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "buffet"
     ]
 },
-  "bbox": [-80.069988,40.441853,-80.069988,40.441853],
+  "bbox": [
+    -80.069988,
+    40.441853,
+    -80.069988,
+    40.441853
+],
   "geometry": {"coordinates":[-80.069988,40.441853],"type":"Point"}
 }

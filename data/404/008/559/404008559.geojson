@@ -2,13 +2,14 @@
   "id": 404008559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.729469,39.957088,-76.729469,39.957088",
     "geom:latitude":39.957088,
     "geom:longitude":-76.729469,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"300 S Pershing Ave",
     "sg:city":"York",
     "sg:classifiers":[
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85833149,
+        102191575,
+        404488029,
         85633793,
+        101717279,
         102080953,
-        85833149
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +51,18 @@
     "wof:geomhash":"3eed5d1ad3286b3e84db2733f0ca0935",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
+            "localadmin_id":404488029,
+            "locality_id":101717279,
             "neighbourhood_id":85833149,
             "region_id":85688481,
             "venue_id":404008559
         }
     ],
     "wof:id":404008559,
-    "wof:lastmodified":1449039396,
+    "wof:lastmodified":1454356623,
     "wof:name":"Studio Gallery 234",
     "wof:parent_id":85833149,
     "wof:placetype":"venue",
@@ -69,6 +74,11 @@
         "instruction"
     ]
 },
-  "bbox": [-76.729469,39.957088,-76.729469,39.957088],
-  "geometry": {"coordinates":[-76.729469,39.957088],"type":"Point"}
+  "bbox": [
+    -76.729469,
+    39.957088,
+    -76.729469,
+    39.957088
+],
+  "geometry": {"coordinates":[-76.72946899999999,39.957088],"type":"Point"}
 }

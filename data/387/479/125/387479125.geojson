@@ -2,13 +2,14 @@
   "id": 387479125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.028719,40.357456,-80.028719,40.357456",
     "geom:latitude":40.357456,
     "geom:longitude":-80.028719,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4136 Library Rd Ste 10A",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536387,
+        102191575,
+        404484869,
         85633793,
         101718761,
-        102080887
+        102080887,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"cd15f1d7ed389e0cca6910285f5ab764",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484869,
             "locality_id":101718761,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420536387,
             "region_id":85688481,
             "venue_id":387479125
         }
     ],
     "wof:id":387479125,
-    "wof:lastmodified":1449058713,
+    "wof:lastmodified":1454360860,
     "wof:name":"Premier Hockey Supply",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536387,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.028719,40.357456,-80.028719,40.357456],
+  "bbox": [
+    -80.028719,
+    40.357456,
+    -80.028719,
+    40.357456
+],
   "geometry": {"coordinates":[-80.028719,40.357456],"type":"Point"}
 }

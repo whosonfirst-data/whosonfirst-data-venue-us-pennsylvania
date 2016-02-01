@@ -2,13 +2,14 @@
   "id": 404077175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.353198,40.066961,-76.353198,40.066961",
     "geom:latitude":40.066961,
     "geom:longitude":-76.353198,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2108 Harrisburg Pike # 308",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -38,8 +39,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85848619
+        85848619,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +50,15 @@
     "wof:geomhash":"5da0cbdd978c64cd4bbb5c207ee67362",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85848619,
             "region_id":85688481,
             "venue_id":404077175
         }
     ],
     "wof:id":404077175,
-    "wof:lastmodified":1449039200,
+    "wof:lastmodified":1454356519,
     "wof:name":"Zielke Orthotics & Prosthetics",
     "wof:parent_id":85848619,
     "wof:placetype":"venue",
@@ -73,6 +72,11 @@
         "prosthetic"
     ]
 },
-  "bbox": [-76.353198,40.066961,-76.353198,40.066961],
-  "geometry": {"coordinates":[-76.353198,40.066961],"type":"Point"}
+  "bbox": [
+    -76.353198,
+    40.066961,
+    -76.353198,
+    40.066961
+],
+  "geometry": {"coordinates":[-76.35319800000001,40.066961],"type":"Point"}
 }

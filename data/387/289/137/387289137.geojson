@@ -2,13 +2,14 @@
   "id": 387289137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.154203,40.447584,-80.154203,40.447584",
     "geom:latitude":40.447584,
     "geom:longitude":-80.154203,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6298 Steubenville Pike",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -26,8 +27,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85821263
+        85821263,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,17 +38,15 @@
     "wof:geomhash":"82b34f3f7eb677fd8c71662f7246dfec",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85821263,
             "region_id":85688481,
             "venue_id":387289137
         }
     ],
     "wof:id":387289137,
-    "wof:lastmodified":1449059293,
+    "wof:lastmodified":1454361034,
     "wof:name":"Parkvale Bank",
     "wof:parent_id":85821263,
     "wof:placetype":"venue",
@@ -55,6 +54,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.154203,40.447584,-80.154203,40.447584],
+  "bbox": [
+    -80.154203,
+    40.447584,
+    -80.154203,
+    40.447584
+],
   "geometry": {"coordinates":[-80.154203,40.447584],"type":"Point"}
 }

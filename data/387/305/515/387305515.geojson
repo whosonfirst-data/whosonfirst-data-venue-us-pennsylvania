@@ -2,13 +2,14 @@
   "id": 387305515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.991229,40.411446,-79.991229,40.411446",
     "geom:latitude":40.411446,
     "geom:longitude":-79.991229,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"223 Moore Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85828757,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85828757
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"7a338247c2f35dfbc2d9c4042c96c034",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85828757,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387305515,
-    "wof:lastmodified":1449056681,
+    "wof:lastmodified":1454358534,
     "wof:name":"Steel Valley Tire",
     "wof:parent_id":85828757,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "tire"
     ]
 },
-  "bbox": [-79.991229,40.411446,-79.991229,40.411446],
+  "bbox": [
+    -79.991229,
+    40.411446,
+    -79.991229,
+    40.411446
+],
   "geometry": {"coordinates":[-79.991229,40.411446],"type":"Point"}
 }

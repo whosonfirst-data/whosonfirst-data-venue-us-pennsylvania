@@ -2,13 +2,14 @@
   "id": 387890251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.250624,40.982379,-78.250624,40.982379",
     "geom:latitude":40.982379,
     "geom:longitude":-78.250624,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"191 Snuffy Ln",
     "sg:city":"Morrisdale",
     "sg:classifiers":[
@@ -34,7 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420537515,
+        102191575,
+        404487035,
         85633793,
+        101719609,
+        102080967,
         85688481
     ],
     "wof:breaches":[],
@@ -45,18 +51,20 @@
     "wof:geomhash":"8b1c7ba8561c0a354d61649908897639",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102080967,
+            "localadmin_id":404487035,
+            "locality_id":101719609,
+            "neighbourhood_id":420537515,
             "region_id":85688481,
             "venue_id":387890251
         }
     ],
     "wof:id":387890251,
-    "wof:lastmodified":1449056932,
+    "wof:lastmodified":1454358717,
     "wof:name":"L L Witherow Trucking",
-    "wof:parent_id":-1,
+    "wof:parent_id":420537515,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -66,6 +74,11 @@
         "trucking"
     ]
 },
-  "bbox": [-78.250624,40.982379,-78.250624,40.982379],
+  "bbox": [
+    -78.250624,
+    40.982379,
+    -78.250624,
+    40.982379
+],
   "geometry": {"coordinates":[-78.250624,40.982379],"type":"Point"}
 }

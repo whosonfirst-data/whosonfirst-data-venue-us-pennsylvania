@@ -2,13 +2,14 @@
   "id": 403716077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.422513,40.339428,-76.422513,40.339428",
     "geom:latitude":40.339428,
     "geom:longitude":-76.422513,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"702 Cumberland St",
     "sg:city":"Lebanon",
     "sg:classifiers":[
@@ -53,11 +54,13 @@
     "sg:website":"http://www.gingrichins.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85842249,
+        102191575,
+        404485699,
         85633793,
         101717093,
         102081341,
-        85842249
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,9 +70,10 @@
     "wof:geomhash":"942a55e410b43b0f5318be55f96ae360",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081341,
+            "localadmin_id":404485699,
             "locality_id":101717093,
             "neighbourhood_id":85842249,
             "region_id":85688481,
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":403716077,
-    "wof:lastmodified":1449054814,
+    "wof:lastmodified":1454357298,
     "wof:name":"Gingrich Insurance Agency",
     "wof:parent_id":85842249,
     "wof:placetype":"venue",
@@ -92,6 +96,11 @@
         "renter"
     ]
 },
-  "bbox": [-76.422513,40.339428,-76.422513,40.339428],
+  "bbox": [
+    -76.422513,
+    40.339428,
+    -76.422513,
+    40.339428
+],
   "geometry": {"coordinates":[-76.422513,40.339428],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387573695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.353705,40.139169,-80.353705,40.139169",
     "geom:latitude":40.139169,
     "geom:longitude":-80.353705,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"101 Spur Rd",
     "sg:city":"Claysville",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081343,
-        85868835
+        85868835,
+        102081343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"9ec0c72dacccad9bc51604226209bba2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081343,
-            "locality_id":-1,
             "neighbourhood_id":85868835,
             "region_id":85688481,
             "venue_id":387573695
         }
     ],
     "wof:id":387573695,
-    "wof:lastmodified":1449058914,
+    "wof:lastmodified":1454360926,
     "wof:name":"Raymond Crawford",
     "wof:parent_id":85868835,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.353705,40.139169,-80.353705,40.139169],
-  "geometry": {"coordinates":[-80.353705,40.139169],"type":"Point"}
+  "bbox": [
+    -80.353705,
+    40.139169,
+    -80.353705,
+    40.139169
+],
+  "geometry": {"coordinates":[-80.35370500000001,40.139169],"type":"Point"}
 }

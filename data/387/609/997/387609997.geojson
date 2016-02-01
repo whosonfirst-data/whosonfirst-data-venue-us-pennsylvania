@@ -2,13 +2,14 @@
   "id": 387609997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.884091,39.952377,-78.884091,39.952377",
     "geom:latitude":39.952377,
     "geom:longitude":-78.884091,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"419 Shipley Town Rd",
     "sg:city":"Berlin",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081361,
-        85815095
+        85815095,
+        102081361
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"eb754236194102eca471b0fc5d55a720",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081361,
-            "locality_id":-1,
             "neighbourhood_id":85815095,
             "region_id":85688481,
             "venue_id":387609997
         }
     ],
     "wof:id":387609997,
-    "wof:lastmodified":1449057523,
+    "wof:lastmodified":1454360206,
     "wof:name":"J W S Enterprises",
     "wof:parent_id":85815095,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "sandblasting"
     ]
 },
-  "bbox": [-78.884091,39.952377,-78.884091,39.952377],
+  "bbox": [
+    -78.884091,
+    39.952377,
+    -78.884091,
+    39.952377
+],
   "geometry": {"coordinates":[-78.884091,39.952377],"type":"Point"}
 }

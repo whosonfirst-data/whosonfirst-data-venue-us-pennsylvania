@@ -2,13 +2,14 @@
   "id": 387385259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.068497,40.391899,-80.068497,40.391899",
     "geom:latitude":40.391899,
     "geom:longitude":-80.068497,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2025 Greentree Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -26,8 +27,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85859075
+        85859075,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,17 +38,15 @@
     "wof:geomhash":"e175dbc9181c8a2dd4629e1f98a9c21c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85859075,
             "region_id":85688481,
             "venue_id":387385259
         }
     ],
     "wof:id":387385259,
-    "wof:lastmodified":1449058366,
+    "wof:lastmodified":1454360760,
     "wof:name":"Reilly Thos E PC",
     "wof:parent_id":85859075,
     "wof:placetype":"venue",
@@ -55,6 +54,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.068497,40.391899,-80.068497,40.391899],
-  "geometry": {"coordinates":[-80.068497,40.391899],"type":"Point"}
+  "bbox": [
+    -80.068497,
+    40.391899,
+    -80.068497,
+    40.391899
+],
+  "geometry": {"coordinates":[-80.06849699999999,40.391899],"type":"Point"}
 }

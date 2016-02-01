@@ -2,13 +2,14 @@
   "id": 387441247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.044601,40.381599,-80.044601,40.381599",
     "geom:latitude":40.381599,
     "geom:longitude":-80.044601,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"20 Cedar Blvd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85804395,
+        102191575,
+        404482523,
         85633793,
+        101718805,
         102080887,
-        85804395
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +44,18 @@
     "wof:geomhash":"6c7c1049ac7c60bb94543607177f5b81",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
+            "localadmin_id":404482523,
+            "locality_id":101718805,
             "neighbourhood_id":85804395,
             "region_id":85688481,
             "venue_id":387441247
         }
     ],
     "wof:id":387441247,
-    "wof:lastmodified":1449056402,
+    "wof:lastmodified":1454358318,
     "wof:name":"Chinese Acupuncture & Herbs Center Llc",
     "wof:parent_id":85804395,
     "wof:placetype":"venue",
@@ -60,6 +65,11 @@
         "acupuncture"
     ]
 },
-  "bbox": [-80.044601,40.381599,-80.044601,40.381599],
+  "bbox": [
+    -80.044601,
+    40.381599,
+    -80.044601,
+    40.381599
+],
   "geometry": {"coordinates":[-80.044601,40.381599],"type":"Point"}
 }

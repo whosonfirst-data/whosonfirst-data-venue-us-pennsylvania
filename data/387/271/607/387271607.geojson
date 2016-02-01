@@ -2,13 +2,14 @@
   "id": 387271607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.777763,40.541451,-79.777763,40.541451",
     "geom:latitude":40.541451,
     "geom:longitude":-79.777763,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"900 Pittsburgh St",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -48,11 +49,13 @@
     "sg:website":"http://www.uprightsprinkler.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85839857,
+        102191575,
+        404484317,
         85633793,
         101718751,
         102080887,
-        85839857
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,9 +65,10 @@
     "wof:geomhash":"9259367306da616c4c00a60b7ea1de43",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484317,
             "locality_id":101718751,
             "neighbourhood_id":85839857,
             "region_id":85688481,
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":387271607,
-    "wof:lastmodified":1449058099,
+    "wof:lastmodified":1454360680,
     "wof:name":"Upright Sprinkler Design Company",
     "wof:parent_id":85839857,
     "wof:placetype":"venue",
@@ -92,6 +96,11 @@
         "automatic"
     ]
 },
-  "bbox": [-79.777763,40.541451,-79.777763,40.541451],
-  "geometry": {"coordinates":[-79.777763,40.541451],"type":"Point"}
+  "bbox": [
+    -79.777763,
+    40.541451,
+    -79.777763,
+    40.541451
+],
+  "geometry": {"coordinates":[-79.77776299999999,40.541451],"type":"Point"}
 }

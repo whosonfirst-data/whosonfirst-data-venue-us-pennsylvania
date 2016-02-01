@@ -2,13 +2,14 @@
   "id": 387274587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.773639,40.433114,-79.773639,40.433114",
     "geom:latitude":40.433114,
     "geom:longitude":-79.773639,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"250 Cedar Ridge Dr #112",
     "sg:city":"Monroeville",
     "sg:classifiers":[
@@ -36,11 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85821019,
+        102191575,
+        404484135,
         85633793,
         101718841,
         102080887,
-        85821019
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,9 +53,10 @@
     "wof:geomhash":"a5bddecf5299ed3c824ec7668fc072f9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484135,
             "locality_id":101718841,
             "neighbourhood_id":85821019,
             "region_id":85688481,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":387274587,
-    "wof:lastmodified":1449056573,
+    "wof:lastmodified":1454358447,
     "wof:name":"Apartments of Cedar Ridge",
     "wof:parent_id":85821019,
     "wof:placetype":"venue",
@@ -74,6 +78,11 @@
         "listing"
     ]
 },
-  "bbox": [-79.773639,40.433114,-79.773639,40.433114],
+  "bbox": [
+    -79.773639,
+    40.433114,
+    -79.773639,
+    40.433114
+],
   "geometry": {"coordinates":[-79.773639,40.433114],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387181509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.774789,40.614364,-79.774789,40.614364",
     "geom:latitude":40.614364,
     "geom:longitude":-79.774789,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1672 Bakerstown Rd",
     "sg:city":"Tarentum",
     "sg:classifiers":[
@@ -38,8 +39,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85807717
+        85807717,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +50,15 @@
     "wof:geomhash":"86da8c3ef82f88250db434891a1e3798",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85807717,
             "region_id":85688481,
             "venue_id":387181509
         }
     ],
     "wof:id":387181509,
-    "wof:lastmodified":1449058433,
+    "wof:lastmodified":1454360781,
     "wof:name":"Naviglia Auto Sales & Service",
     "wof:parent_id":85807717,
     "wof:placetype":"venue",
@@ -73,6 +72,11 @@
         "car"
     ]
 },
-  "bbox": [-79.774789,40.614364,-79.774789,40.614364],
+  "bbox": [
+    -79.774789,
+    40.614364,
+    -79.774789,
+    40.614364
+],
   "geometry": {"coordinates":[-79.774789,40.614364],"type":"Point"}
 }

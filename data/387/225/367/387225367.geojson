@@ -2,13 +2,14 @@
   "id": 387225367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.048897,40.349098,-80.048897,40.349098",
     "geom:latitude":40.349098,
     "geom:longitude":-80.048897,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2404 Oxford Dr",
     "sg:city":"Bethel Park",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85805921,
+        102191575,
+        404484853,
         85633793,
         101718799,
         102080887,
-        85805921
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"b09e6b64341a5ee881541c4b8f0194e8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484853,
             "locality_id":101718799,
             "neighbourhood_id":85805921,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387225367,
-    "wof:lastmodified":1449057284,
+    "wof:lastmodified":1454358990,
     "wof:name":"Emmert Dental Assocs",
     "wof:parent_id":85805921,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "orthodontist"
     ]
 },
-  "bbox": [-80.048897,40.349098,-80.048897,40.349098],
+  "bbox": [
+    -80.048897,
+    40.349098,
+    -80.048897,
+    40.349098
+],
   "geometry": {"coordinates":[-80.048897,40.349098],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387450241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.052115,40.52443,-80.052115,40.52443",
     "geom:latitude":40.52443,
     "geom:longitude":-80.052115,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"156 Peony Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85824969
+        85824969,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"73b3561bcf5bf915efd595dcef0a39f5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85824969,
             "region_id":85688481,
             "venue_id":387450241
         }
     ],
     "wof:id":387450241,
-    "wof:lastmodified":1449059344,
+    "wof:lastmodified":1454361046,
     "wof:name":"Highcliff Elementary School",
     "wof:parent_id":85824969,
     "wof:placetype":"venue",
@@ -63,6 +62,11 @@
         "high"
     ]
 },
-  "bbox": [-80.052115,40.52443,-80.052115,40.52443],
+  "bbox": [
+    -80.052115,
+    40.52443,
+    -80.052115,
+    40.52443
+],
   "geometry": {"coordinates":[-80.052115,40.52443],"type":"Point"}
 }

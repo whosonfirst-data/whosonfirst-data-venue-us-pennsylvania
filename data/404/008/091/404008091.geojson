@@ -2,13 +2,14 @@
   "id": 404008091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.50282,39.970965,-76.50282,39.970965",
     "geom:latitude":39.970965,
     "geom:longitude":-76.50282,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"111 Mellinger Rd",
     "sg:city":"Wrightsville",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080953,
-        85832427
+        85832427,
+        102080953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"c9b6e3b48ac200271825be20be9dc0a4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
             "neighbourhood_id":85832427,
             "region_id":85688481,
             "venue_id":404008091
         }
     ],
     "wof:id":404008091,
-    "wof:lastmodified":1449039394,
+    "wof:lastmodified":1454356620,
     "wof:name":"East Prospect Lions Club",
     "wof:parent_id":85832427,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "volunteer"
     ]
 },
-  "bbox": [-76.50282,39.970965,-76.50282,39.970965],
+  "bbox": [
+    -76.50282,
+    39.970965,
+    -76.50282,
+    39.970965
+],
   "geometry": {"coordinates":[-76.50282,39.970965],"type":"Point"}
 }

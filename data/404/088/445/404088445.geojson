@@ -2,13 +2,14 @@
   "id": 404088445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.325294,40.04121,-76.325294,40.04121",
     "geom:latitude":40.04121,
     "geom:longitude":-76.325294,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2025 Race Ave",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -49,8 +50,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85858805
+        85858805,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,17 +61,15 @@
     "wof:geomhash":"715668687d7925b8b758651c849a8ad6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85858805,
             "region_id":85688481,
             "venue_id":404088445
         }
     ],
     "wof:id":404088445,
-    "wof:lastmodified":1449040017,
+    "wof:lastmodified":1454356960,
     "wof:name":"Splash Inc",
     "wof:parent_id":85858805,
     "wof:placetype":"venue",
@@ -85,6 +84,11 @@
         "spa"
     ]
 },
-  "bbox": [-76.325294,40.04121,-76.325294,40.04121],
+  "bbox": [
+    -76.325294,
+    40.04121,
+    -76.325294,
+    40.04121
+],
   "geometry": {"coordinates":[-76.325294,40.04121],"type":"Point"}
 }

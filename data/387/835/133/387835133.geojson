@@ -2,13 +2,14 @@
   "id": 387835133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.137378,42.091517,-80.137378,42.091517",
     "geom:latitude":42.091517,
     "geom:longitude":-80.137378,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2820 W 23rd St",
     "sg:city":"Erie",
     "sg:classifiers":[
@@ -52,8 +53,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080955,
-        85810495
+        85810495,
+        102080955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,17 +64,15 @@
     "wof:geomhash":"8c8490bda0658b81813684c5e47e4465",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080955,
-            "locality_id":-1,
             "neighbourhood_id":85810495,
             "region_id":85688481,
             "venue_id":387835133
         }
     ],
     "wof:id":387835133,
-    "wof:lastmodified":1449056649,
+    "wof:lastmodified":1454358514,
     "wof:name":"Relationships For Life",
     "wof:parent_id":85810495,
     "wof:placetype":"venue",
@@ -91,6 +90,11 @@
         "counselor"
     ]
 },
-  "bbox": [-80.137378,42.091517,-80.137378,42.091517],
+  "bbox": [
+    -80.137378,
+    42.091517,
+    -80.137378,
+    42.091517
+],
   "geometry": {"coordinates":[-80.137378,42.091517],"type":"Point"}
 }

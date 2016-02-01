@@ -2,13 +2,14 @@
   "id": 403716377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.461744,40.340031,-76.461744,40.340031",
     "geom:latitude":40.340031,
     "geom:longitude":-76.461744,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"30 Lilac Aly",
     "sg:city":"Cleona",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     "sg:website":"http://www.hersheystoilets.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420538697,
+        102191575,
+        404483423,
         85633793,
-        101717099,
-        102081341
+        101719373,
+        102081341,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"069bc820eef1c0b215ab342fd3b6ee1a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081341,
-            "locality_id":101717099,
-            "neighbourhood_id":-1,
+            "localadmin_id":404483423,
+            "locality_id":101719373,
+            "neighbourhood_id":420538697,
             "region_id":85688481,
             "venue_id":403716377
         }
     ],
     "wof:id":403716377,
-    "wof:lastmodified":1449054814,
+    "wof:lastmodified":1454357299,
     "wof:name":"Hershey's Portable Toilets",
-    "wof:parent_id":-1,
+    "wof:parent_id":420538697,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -61,6 +66,11 @@
         "toilets-portable"
     ]
 },
-  "bbox": [-76.461744,40.340031,-76.461744,40.340031],
+  "bbox": [
+    -76.461744,
+    40.340031,
+    -76.461744,
+    40.340031
+],
   "geometry": {"coordinates":[-76.461744,40.340031],"type":"Point"}
 }

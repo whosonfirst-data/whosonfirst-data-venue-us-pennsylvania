@@ -2,13 +2,14 @@
   "id": 403871789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.803961,40.289323,-76.803961,40.289323",
     "geom:latitude":40.289323,
     "geom:longitude":-76.803961,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"406 Radcliffe Dr",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85844549,
+        102191575,
+        404486185,
         85633793,
-        101719819,
+        101719811,
         102081347,
-        85844549
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +47,18 @@
     "wof:geomhash":"f0f0b68c8529cd2ab8e494e886cfde97",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":101719819,
+            "localadmin_id":404486185,
+            "locality_id":101719811,
             "neighbourhood_id":85844549,
             "region_id":85688481,
             "venue_id":403871789
         }
     ],
     "wof:id":403871789,
-    "wof:lastmodified":1449055059,
+    "wof:lastmodified":1454357447,
     "wof:name":"Handyman Services",
     "wof:parent_id":85844549,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "home"
     ]
 },
-  "bbox": [-76.803961,40.289323,-76.803961,40.289323],
+  "bbox": [
+    -76.803961,
+    40.289323,
+    -76.803961,
+    40.289323
+],
   "geometry": {"coordinates":[-76.803961,40.289323],"type":"Point"}
 }

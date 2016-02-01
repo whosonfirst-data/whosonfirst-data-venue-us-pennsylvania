@@ -2,13 +2,14 @@
   "id": 387968433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.851194,40.49331,-76.851194,40.49331",
     "geom:latitude":40.49331,
     "geom:longitude":-76.851194,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"881 Enders Rd",
     "sg:city":"Halifax",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85853731
+        85853731,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"73f38941e7aa49a1a9af2ce5b867e8a4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85853731,
             "region_id":85688481,
             "venue_id":387968433
         }
     ],
     "wof:id":387968433,
-    "wof:lastmodified":1449056351,
+    "wof:lastmodified":1454358278,
     "wof:name":"Bob Straw's Sharp All",
     "wof:parent_id":85853731,
     "wof:placetype":"venue",
@@ -64,6 +63,11 @@
         "lawn"
     ]
 },
-  "bbox": [-76.851194,40.49331,-76.851194,40.49331],
-  "geometry": {"coordinates":[-76.851194,40.49331],"type":"Point"}
+  "bbox": [
+    -76.851194,
+    40.49331,
+    -76.851194,
+    40.49331
+],
+  "geometry": {"coordinates":[-76.85119400000001,40.49331],"type":"Point"}
 }

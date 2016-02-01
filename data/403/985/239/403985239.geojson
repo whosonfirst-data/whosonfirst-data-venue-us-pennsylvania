@@ -2,13 +2,14 @@
   "id": 403985239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.231148,39.833021,-77.231148,39.833021",
     "geom:latitude":39.833021,
     "geom:longitude":-77.231148,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"147 Carlisle St",
     "sg:city":"Gettysburg",
     "sg:classifiers":[
@@ -46,8 +47,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080899,
-        85804527
+        85804527,
+        102080899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,17 +58,15 @@
     "wof:geomhash":"ae7d3d33f9613b4aa4bbe8d4e90b4b22",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080899,
-            "locality_id":-1,
             "neighbourhood_id":85804527,
             "region_id":85688481,
             "venue_id":403985239
         }
     ],
     "wof:id":403985239,
-    "wof:lastmodified":1449055295,
+    "wof:lastmodified":1454357586,
     "wof:name":"Willis H Musselman - Nationwide Insurance",
     "wof:parent_id":85804527,
     "wof:placetype":"venue",
@@ -78,6 +77,11 @@
         "homeowner"
     ]
 },
-  "bbox": [-77.231148,39.833021,-77.231148,39.833021],
+  "bbox": [
+    -77.231148,
+    39.833021,
+    -77.231148,
+    39.833021
+],
   "geometry": {"coordinates":[-77.231148,39.833021],"type":"Point"}
 }

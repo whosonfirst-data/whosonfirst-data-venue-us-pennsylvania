@@ -2,13 +2,14 @@
   "id": 387824623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.023625,42.024097,-80.023625,42.024097",
     "geom:latitude":42.024097,
     "geom:longitude":-80.023625,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"740 Lee Rd",
     "sg:city":"Waterford",
     "sg:classifiers":[
@@ -33,8 +34,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080955,
-        85829739
+        85829739,
+        102080955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +45,15 @@
     "wof:geomhash":"335edc3752f74e7d60d39b0a698fc0d3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080955,
-            "locality_id":-1,
             "neighbourhood_id":85829739,
             "region_id":85688481,
             "venue_id":387824623
         }
     ],
     "wof:id":387824623,
-    "wof:lastmodified":1449057456,
+    "wof:lastmodified":1454359138,
     "wof:name":"Star Tree Service",
     "wof:parent_id":85829739,
     "wof:placetype":"venue",
@@ -68,6 +67,11 @@
         "removal"
     ]
 },
-  "bbox": [-80.023625,42.024097,-80.023625,42.024097],
+  "bbox": [
+    -80.023625,
+    42.024097,
+    -80.023625,
+    42.024097
+],
   "geometry": {"coordinates":[-80.023625,42.024097],"type":"Point"}
 }

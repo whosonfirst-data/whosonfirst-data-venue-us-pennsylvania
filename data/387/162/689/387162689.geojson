@@ -2,13 +2,14 @@
   "id": 387162689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.312288,40.650709,-80.312288,40.650709",
     "geom:latitude":40.650709,
     "geom:longitude":-80.312288,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3468 Brodhead Rd Suite 5",
     "sg:city":"Monaca",
     "sg:classifiers":[
@@ -38,8 +39,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081323,
-        85827637
+        85827637,
+        102081323
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +50,15 @@
     "wof:geomhash":"641709dac1c29f959967f3bd25223b33",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081323,
-            "locality_id":-1,
             "neighbourhood_id":85827637,
             "region_id":85688481,
             "venue_id":387162689
         }
     ],
     "wof:id":387162689,
-    "wof:lastmodified":1449059372,
+    "wof:lastmodified":1454361060,
     "wof:name":"Metro Grill Inc.",
     "wof:parent_id":85827637,
     "wof:placetype":"venue",
@@ -72,6 +71,11 @@
         "caterer"
     ]
 },
-  "bbox": [-80.312288,40.650709,-80.312288,40.650709],
+  "bbox": [
+    -80.312288,
+    40.650709,
+    -80.312288,
+    40.650709
+],
   "geometry": {"coordinates":[-80.312288,40.650709],"type":"Point"}
 }

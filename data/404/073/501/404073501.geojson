@@ -2,13 +2,14 @@
   "id": 404073501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.199203,39.979721,-76.199203,39.979721",
     "geom:latitude":39.979721,
     "geom:longitude":-76.199203,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"332 Miller St",
     "sg:city":"Strasburg",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85868585
+        85868585,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"dec48253a8b9f6bf15927fba61b005c7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85868585,
             "region_id":85688481,
             "venue_id":404073501
         }
     ],
     "wof:id":404073501,
-    "wof:lastmodified":1449039175,
+    "wof:lastmodified":1454356500,
     "wof:name":"Advance Small Bus Solutions",
     "wof:parent_id":85868585,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "bookkeeping"
     ]
 },
-  "bbox": [-76.199203,39.979721,-76.199203,39.979721],
+  "bbox": [
+    -76.199203,
+    39.979721,
+    -76.199203,
+    39.979721
+],
   "geometry": {"coordinates":[-76.199203,39.979721],"type":"Point"}
 }

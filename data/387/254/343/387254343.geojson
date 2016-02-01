@@ -2,13 +2,14 @@
   "id": 387254343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.867821,40.348598,-79.867821,40.348598",
     "geom:latitude":40.348598,
     "geom:longitude":-79.867821,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"115 7th St",
     "sg:city":"Mckeesport",
     "sg:classifiers":[
@@ -25,11 +26,13 @@
     "sg:website":"http://www.intersection.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85845081,
+        102191575,
+        404484971,
         85633793,
         101718847,
         102080887,
-        85845081
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +42,10 @@
     "wof:geomhash":"8560ef90edae7738f2fd301220497556",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484971,
             "locality_id":101718847,
             "neighbourhood_id":85845081,
             "region_id":85688481,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":387254343,
-    "wof:lastmodified":1449058725,
+    "wof:lastmodified":1454360864,
     "wof:name":"Intersection Inc",
     "wof:parent_id":85845081,
     "wof:placetype":"venue",
@@ -57,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.867821,40.348598,-79.867821,40.348598],
-  "geometry": {"coordinates":[-79.867821,40.348598],"type":"Point"}
+  "bbox": [
+    -79.867821,
+    40.348598,
+    -79.867821,
+    40.348598
+],
+  "geometry": {"coordinates":[-79.86782100000001,40.348598],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404210579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.419466,40.626518,-75.419466,40.626518",
     "geom:latitude":40.626518,
     "geom:longitude":-75.419466,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2156 W Union Blvd",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420538729,
+        102191575,
+        404485987,
         85633793,
         101717907,
-        102081395
+        102081395,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"a75e216cf3cf7a04577ad65788afa2c9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081395,
+            "localadmin_id":404485987,
             "locality_id":101717907,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420538729,
             "region_id":85688481,
             "venue_id":404210579
         }
     ],
     "wof:id":404210579,
-    "wof:lastmodified":1449039418,
+    "wof:lastmodified":1454356636,
     "wof:name":"Holiday Hair",
-    "wof:parent_id":-1,
+    "wof:parent_id":420538729,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.419466,40.626518,-75.419466,40.626518],
+  "bbox": [
+    -75.419466,
+    40.626518,
+    -75.419466,
+    40.626518
+],
   "geometry": {"coordinates":[-75.419466,40.626518],"type":"Point"}
 }

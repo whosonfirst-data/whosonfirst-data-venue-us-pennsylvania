@@ -2,13 +2,14 @@
   "id": 404010817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.637021,39.96631,-76.637021,39.96631",
     "geom:latitude":39.96631,
     "geom:longitude":-76.637021,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3920 Farm Dr",
     "sg:city":"York",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080953,
-        85852249
+        85852249,
+        102080953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"8255c0575113b9fb793793c08c59c638",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
             "neighbourhood_id":85852249,
             "region_id":85688481,
             "venue_id":404010817
         }
     ],
     "wof:id":404010817,
-    "wof:lastmodified":1449039861,
+    "wof:lastmodified":1454356848,
     "wof:name":"Community Praise Center",
     "wof:parent_id":85852249,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "denomination"
     ]
 },
-  "bbox": [-76.637021,39.96631,-76.637021,39.96631],
+  "bbox": [
+    -76.637021,
+    39.96631,
+    -76.637021,
+    39.96631
+],
   "geometry": {"coordinates":[-76.637021,39.96631],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387867395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.636341,41.960682,-78.636341,41.960682",
     "geom:latitude":41.960682,
     "geom:longitude":-78.636341,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"38 York St",
     "sg:city":"Bradford",
     "sg:classifiers":[
@@ -34,8 +35,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080951,
-        85824425
+        85824425,
+        102080951
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +46,15 @@
     "wof:geomhash":"46aa6dd14d88f5dcae320b969dee6b51",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080951,
-            "locality_id":-1,
             "neighbourhood_id":85824425,
             "region_id":85688481,
             "venue_id":387867395
         }
     ],
     "wof:id":387867395,
-    "wof:lastmodified":1449057754,
+    "wof:lastmodified":1454360582,
     "wof:name":"Hope Cafe",
     "wof:parent_id":85824425,
     "wof:placetype":"venue",
@@ -65,6 +64,11 @@
         "espresso"
     ]
 },
-  "bbox": [-78.636341,41.960682,-78.636341,41.960682],
+  "bbox": [
+    -78.636341,
+    41.960682,
+    -78.636341,
+    41.960682
+],
   "geometry": {"coordinates":[-78.636341,41.960682],"type":"Point"}
 }

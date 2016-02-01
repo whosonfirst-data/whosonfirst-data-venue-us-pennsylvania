@@ -2,13 +2,14 @@
   "id": 404019073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.700399,39.859415,-76.700399,39.859415",
     "geom:latitude":39.859415,
     "geom:longitude":-76.700399,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"22 Logan Heights Rd",
     "sg:city":"York",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080953,
-        85844343
+        85844343,
+        102080953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"02798616b0d50d4c7e358eec2abbb203",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
             "neighbourhood_id":85844343,
             "region_id":85688481,
             "venue_id":404019073
         }
     ],
     "wof:id":404019073,
-    "wof:lastmodified":1449039818,
+    "wof:lastmodified":1454356821,
     "wof:name":"Shearer Industrial Supply",
     "wof:parent_id":85844343,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "goods-wholesale"
     ]
 },
-  "bbox": [-76.700399,39.859415,-76.700399,39.859415],
+  "bbox": [
+    -76.700399,
+    39.859415,
+    -76.700399,
+    39.859415
+],
   "geometry": {"coordinates":[-76.700399,39.859415],"type":"Point"}
 }

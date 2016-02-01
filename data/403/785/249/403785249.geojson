@@ -2,13 +2,14 @@
   "id": 403785249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.869102,40.229401,-76.869102,40.229401",
     "geom:latitude":40.229401,
     "geom:longitude":-76.869102,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"549 Bridge St Apt 2",
     "sg:city":"New Cumberland",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85802785,
+        102191575,
+        404486419,
         85633793,
-        101719079,
+        101716757,
         102081359,
-        85802785
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +41,18 @@
     "wof:geomhash":"0d3c2799543d3dd15d46b7ff839c55bd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081359,
-            "locality_id":101719079,
+            "localadmin_id":404486419,
+            "locality_id":101716757,
             "neighbourhood_id":85802785,
             "region_id":85688481,
             "venue_id":403785249
         }
     ],
     "wof:id":403785249,
-    "wof:lastmodified":1449055745,
+    "wof:lastmodified":1454357852,
     "wof:name":"Sumple-Sullivan Barbara Attorney",
     "wof:parent_id":85802785,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.869102,40.229401,-76.869102,40.229401],
+  "bbox": [
+    -76.869102,
+    40.229401,
+    -76.869102,
+    40.229401
+],
   "geometry": {"coordinates":[-76.869102,40.229401],"type":"Point"}
 }

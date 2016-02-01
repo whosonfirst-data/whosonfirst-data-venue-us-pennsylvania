@@ -2,13 +2,14 @@
   "id": 404089111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.306654,40.043126,-76.306654,40.043126",
     "geom:latitude":40.043126,
     "geom:longitude":-76.306654,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"324 N Queen St",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85846173,
+        102191575,
+        404487183,
         85633793,
         101718643,
         102081377,
-        85846173
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"3ad4c72c87f292d259ddea720ad08344",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081377,
+            "localadmin_id":404487183,
             "locality_id":101718643,
             "neighbourhood_id":85846173,
             "region_id":85688481,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":404089111,
-    "wof:lastmodified":1449039305,
+    "wof:lastmodified":1454356558,
     "wof:name":"Rev Chi's Antiques",
     "wof:parent_id":85846173,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.306654,40.043126,-76.306654,40.043126],
-  "geometry": {"coordinates":[-76.306654,40.043126],"type":"Point"}
+  "bbox": [
+    -76.306654,
+    40.043126,
+    -76.306654,
+    40.043126
+],
+  "geometry": {"coordinates":[-76.30665399999999,40.043126],"type":"Point"}
 }

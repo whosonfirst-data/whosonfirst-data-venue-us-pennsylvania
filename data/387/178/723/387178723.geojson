@@ -2,13 +2,14 @@
   "id": 387178723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.284088,40.69986,-80.284088,40.69986",
     "geom:latitude":40.69986,
     "geom:longitude":-80.284088,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"100 Rhode Island Ave",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -103,7 +104,6 @@
     "wof:geomhash":"5526748f901f4b424efad198ba690699",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081323,
             "locality_id":101718347,
@@ -113,7 +113,7 @@
         }
     ],
     "wof:id":387178723,
-    "wof:lastmodified":1449058839,
+    "wof:lastmodified":1454360900,
     "wof:name":"Walgreens Pharmacies",
     "wof:parent_id":85837981,
     "wof:placetype":"venue",
@@ -134,6 +134,11 @@
         "consumer"
     ]
 },
-  "bbox": [-80.284088,40.69986,-80.284088,40.69986],
+  "bbox": [
+    -80.284088,
+    40.69986,
+    -80.284088,
+    40.69986
+],
   "geometry": {"coordinates":[-80.284088,40.69986],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387298005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.163242,40.44992,-80.163242,40.44992",
     "geom:latitude":40.44992,
     "geom:longitude":-80.163242,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"100 Robinson Center Dr",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -27,8 +28,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85821263
+        85821263,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +39,15 @@
     "wof:geomhash":"d640d8f2153aff657e8848e2a0f4b4df",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85821263,
             "region_id":85688481,
             "venue_id":387298005
         }
     ],
     "wof:id":387298005,
-    "wof:lastmodified":1449057133,
+    "wof:lastmodified":1454358864,
     "wof:name":"Cache",
     "wof:parent_id":85821263,
     "wof:placetype":"venue",
@@ -56,6 +55,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.163242,40.44992,-80.163242,40.44992],
+  "bbox": [
+    -80.163242,
+    40.44992,
+    -80.163242,
+    40.44992
+],
   "geometry": {"coordinates":[-80.163242,40.44992],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387511773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.766919,40.468526,-79.766919,40.468526",
     "geom:latitude":40.468526,
     "geom:longitude":-79.766919,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"453 Davidson Rd Ste R7",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85812851
+        85812851,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"6f10a9efe5f4cd3b4e073a7a6696d5de",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85812851,
             "region_id":85688481,
             "venue_id":387511773
         }
     ],
     "wof:id":387511773,
-    "wof:lastmodified":1449057856,
+    "wof:lastmodified":1454360616,
     "wof:name":"J & R Vinyl Co",
     "wof:parent_id":85812851,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "vinyl"
     ]
 },
-  "bbox": [-79.766919,40.468526,-79.766919,40.468526],
+  "bbox": [
+    -79.766919,
+    40.468526,
+    -79.766919,
+    40.468526
+],
   "geometry": {"coordinates":[-79.766919,40.468526],"type":"Point"}
 }

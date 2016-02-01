@@ -2,13 +2,14 @@
   "id": 404074253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.326001,40.068403,-76.326001,40.068403",
     "geom:latitude":40.068403,
     "geom:longitude":-76.326001,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1383 Arcadia Rd",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85821747,
+        102191575,
+        404487183,
         85633793,
+        101718643,
         102081377,
-        85821747
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,17 +41,18 @@
     "wof:geomhash":"7a217e3737b35fa7bc3ac2c30521c3fd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
+            "localadmin_id":404487183,
+            "locality_id":101718643,
             "neighbourhood_id":85821747,
             "region_id":85688481,
             "venue_id":404074253
         }
     ],
     "wof:id":404074253,
-    "wof:lastmodified":1449039784,
+    "wof:lastmodified":1454356796,
     "wof:name":"Us Agricultural Dept",
     "wof:parent_id":85821747,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.326001,40.068403,-76.326001,40.068403],
-  "geometry": {"coordinates":[-76.326001,40.068403],"type":"Point"}
+  "bbox": [
+    -76.326001,
+    40.068403,
+    -76.326001,
+    40.068403
+],
+  "geometry": {"coordinates":[-76.32600100000001,40.068403],"type":"Point"}
 }

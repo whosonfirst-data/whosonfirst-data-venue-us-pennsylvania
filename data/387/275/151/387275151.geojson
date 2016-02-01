@@ -2,13 +2,14 @@
   "id": 387275151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.754377,40.425546,-79.754377,40.425546",
     "geom:latitude":40.425546,
     "geom:longitude":-79.754377,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2520 Mosside Blvd",
     "sg:city":"Monroeville",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     "sg:website":"http://www.marks-law.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85834841,
+        102191575,
+        404484135,
         85633793,
         101718841,
         102080887,
-        85834841
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"5c3d503a9e78fd75ec5a8d86fb515332",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484135,
             "locality_id":101718841,
             "neighbourhood_id":85834841,
             "region_id":85688481,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":387275151,
-    "wof:lastmodified":1449057321,
+    "wof:lastmodified":1454359019,
     "wof:name":"Marks, Michael H Atty",
     "wof:parent_id":85834841,
     "wof:placetype":"venue",
@@ -76,6 +80,11 @@
         "law"
     ]
 },
-  "bbox": [-79.754377,40.425546,-79.754377,40.425546],
-  "geometry": {"coordinates":[-79.754377,40.425546],"type":"Point"}
+  "bbox": [
+    -79.754377,
+    40.425546,
+    -79.754377,
+    40.425546
+],
+  "geometry": {"coordinates":[-79.75437700000001,40.425546],"type":"Point"}
 }

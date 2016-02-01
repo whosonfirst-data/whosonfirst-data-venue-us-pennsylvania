@@ -2,13 +2,14 @@
   "id": 387851007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.394494,40.469341,-78.394494,40.469341",
     "geom:latitude":40.469341,
     "geom:longitude":-78.394494,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"400 Lakemont Park Blvd",
     "sg:city":"Altoona",
     "sg:classifiers":[
@@ -34,10 +35,13 @@
     "sg:website":"http://www.deltahealthtech.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85829293,
+        102191575,
+        404484717,
         85633793,
+        101718879,
         102081325,
-        85829293
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +51,18 @@
     "wof:geomhash":"daa4aa47c980195b24b13f44a7d5e545",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081325,
-            "locality_id":-1,
+            "localadmin_id":404484717,
+            "locality_id":101718879,
             "neighbourhood_id":85829293,
             "region_id":85688481,
             "venue_id":387851007
         }
     ],
     "wof:id":387851007,
-    "wof:lastmodified":1449058618,
+    "wof:lastmodified":1454360829,
     "wof:name":"Delta Health Technologies",
     "wof:parent_id":85829293,
     "wof:placetype":"venue",
@@ -68,6 +73,11 @@
         "eldercare-home"
     ]
 },
-  "bbox": [-78.394494,40.469341,-78.394494,40.469341],
-  "geometry": {"coordinates":[-78.394494,40.469341],"type":"Point"}
+  "bbox": [
+    -78.394494,
+    40.469341,
+    -78.394494,
+    40.469341
+],
+  "geometry": {"coordinates":[-78.39449399999999,40.469341],"type":"Point"}
 }

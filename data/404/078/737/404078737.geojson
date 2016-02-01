@@ -2,13 +2,14 @@
   "id": 404078737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.308401,40.066901,-76.308401,40.066901",
     "geom:latitude":40.066901,
     "geom:longitude":-76.308401,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1573 Crescent Ave",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -37,8 +38,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85811259
+        85811259,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +49,15 @@
     "wof:geomhash":"7e12ee8400462a97bd978aaea8f11ee0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85811259,
             "region_id":85688481,
             "venue_id":404078737
         }
     ],
     "wof:id":404078737,
-    "wof:lastmodified":1449040131,
+    "wof:lastmodified":1454357024,
     "wof:name":"Jim Yescallis",
     "wof:parent_id":85811259,
     "wof:placetype":"venue",
@@ -71,6 +70,11 @@
         "photography"
     ]
 },
-  "bbox": [-76.308401,40.066901,-76.308401,40.066901],
+  "bbox": [
+    -76.308401,
+    40.066901,
+    -76.308401,
+    40.066901
+],
   "geometry": {"coordinates":[-76.308401,40.066901],"type":"Point"}
 }

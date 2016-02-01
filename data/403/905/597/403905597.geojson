@@ -2,13 +2,14 @@
   "id": 403905597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.799779,40.312971,-76.799779,40.312971",
     "geom:latitude":40.312971,
     "geom:longitude":-76.799779,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5125 Jonestown Rd Ste 160",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85844549,
+        102191575,
+        404486185,
         85633793,
-        101719819,
+        101719811,
         102081347,
-        85844549
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,18 @@
     "wof:geomhash":"624d4ffe7d0f407712aa45f3dec22e01",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":101719819,
+            "localadmin_id":404486185,
+            "locality_id":101719811,
             "neighbourhood_id":85844549,
             "region_id":85688481,
             "venue_id":403905597
         }
     ],
     "wof:id":403905597,
-    "wof:lastmodified":1449055165,
+    "wof:lastmodified":1454357507,
     "wof:name":"Grand Bufett",
     "wof:parent_id":85844549,
     "wof:placetype":"venue",
@@ -68,6 +72,11 @@
         "caterer"
     ]
 },
-  "bbox": [-76.799779,40.312971,-76.799779,40.312971],
+  "bbox": [
+    -76.799779,
+    40.312971,
+    -76.799779,
+    40.312971
+],
   "geometry": {"coordinates":[-76.799779,40.312971],"type":"Point"}
 }

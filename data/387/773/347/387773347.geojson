@@ -2,13 +2,14 @@
   "id": 387773347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.524179,40.82052,-79.524179,40.82052",
     "geom:latitude":40.82052,
     "geom:longitude":-79.524179,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"611 N Mckean St",
     "sg:city":"Kittanning",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536417,
+        102191575,
+        404484341,
         85633793,
         101718499,
-        102081371
+        102081371,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"7f2c2b180699ecc13263027060b470af",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081371,
+            "localadmin_id":404484341,
             "locality_id":101718499,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420536417,
             "region_id":85688481,
             "venue_id":387773347
         }
     ],
     "wof:id":387773347,
-    "wof:lastmodified":1449056589,
+    "wof:lastmodified":1454358464,
     "wof:name":"Jsm Consulting, Inc.",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536417,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "coach"
     ]
 },
-  "bbox": [-79.524179,40.82052,-79.524179,40.82052],
+  "bbox": [
+    -79.524179,
+    40.82052,
+    -79.524179,
+    40.82052
+],
   "geometry": {"coordinates":[-79.524179,40.82052],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387339745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.883311,40.418499,-79.883311,40.418499",
     "geom:latitude":40.418499,
     "geom:longitude":-79.883311,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2305 Woodstock Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85844235,
+        102191575,
+        404484253,
         85633793,
         101718701,
         102080887,
-        85844235
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"c41c9d1c27c0cd6e09fd857d9721767f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484253,
             "locality_id":101718701,
             "neighbourhood_id":85844235,
             "region_id":85688481,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":387339745,
-    "wof:lastmodified":1449057804,
+    "wof:lastmodified":1454360601,
     "wof:name":"111 Audio Video",
     "wof:parent_id":85844235,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.883311,40.418499,-79.883311,40.418499],
-  "geometry": {"coordinates":[-79.883311,40.418499],"type":"Point"}
+  "bbox": [
+    -79.883311,
+    40.418499,
+    -79.883311,
+    40.418499
+],
+  "geometry": {"coordinates":[-79.88331100000001,40.418499],"type":"Point"}
 }

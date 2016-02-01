@@ -2,13 +2,14 @@
   "id": 403763957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.977203,40.186901,-76.977203,40.186901",
     "geom:latitude":40.186901,
     "geom:longitude":-76.977203,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"100 Mount Allen Dr",
     "sg:city":"Mechanicsburg",
     "sg:classifiers":[
@@ -34,8 +35,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081359,
-        85825925
+        85825925,
+        102081359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +46,15 @@
     "wof:geomhash":"d760350694309634117ccbaa192eec1f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081359,
-            "locality_id":-1,
             "neighbourhood_id":85825925,
             "region_id":85688481,
             "venue_id":403763957
         }
     ],
     "wof:id":403763957,
-    "wof:lastmodified":1449055958,
+    "wof:lastmodified":1454357977,
     "wof:name":"Children's Family Center",
     "wof:parent_id":85825925,
     "wof:placetype":"venue",
@@ -65,6 +64,11 @@
         "day"
     ]
 },
-  "bbox": [-76.977203,40.186901,-76.977203,40.186901],
+  "bbox": [
+    -76.977203,
+    40.186901,
+    -76.977203,
+    40.186901
+],
   "geometry": {"coordinates":[-76.977203,40.186901],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387179697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.792931,40.626339,-79.792931,40.626339",
     "geom:latitude":40.626339,
     "geom:longitude":-79.792931,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1925 Bakerstown Rd",
     "sg:city":"Tarentum",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85807717
+        85807717,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"954e680e1694f6aeb68cdf92f3f77c8c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85807717,
             "region_id":85688481,
             "venue_id":387179697
         }
     ],
     "wof:id":387179697,
-    "wof:lastmodified":1449059526,
+    "wof:lastmodified":1454361108,
     "wof:name":"Parks Electric",
     "wof:parent_id":85807717,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "electrician"
     ]
 },
-  "bbox": [-79.792931,40.626339,-79.792931,40.626339],
+  "bbox": [
+    -79.792931,
+    40.626339,
+    -79.792931,
+    40.626339
+],
   "geometry": {"coordinates":[-79.792931,40.626339],"type":"Point"}
 }

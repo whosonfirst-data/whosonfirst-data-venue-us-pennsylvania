@@ -2,13 +2,14 @@
   "id": 403898687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.778257,40.281052,-76.778257,40.281052",
     "geom:latitude":40.281052,
     "geom:longitude":-76.778257,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"891 Sunny Hill Ln",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85846483,
+        102191575,
+        404486309,
         85633793,
         101719823,
         102081347,
-        85846483
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"0b5b5dfca645ee325ee8ff57614c4464",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
+            "localadmin_id":404486309,
             "locality_id":101719823,
             "neighbourhood_id":85846483,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":403898687,
-    "wof:lastmodified":1449054602,
+    "wof:lastmodified":1454357163,
     "wof:name":"John L Golesh",
     "wof:parent_id":85846483,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "accessory"
     ]
 },
-  "bbox": [-76.778257,40.281052,-76.778257,40.281052],
+  "bbox": [
+    -76.778257,
+    40.281052,
+    -76.778257,
+    40.281052
+],
   "geometry": {"coordinates":[-76.778257,40.281052],"type":"Point"}
 }

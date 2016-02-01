@@ -2,13 +2,14 @@
   "id": 404205883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.38848,40.622318,-75.38848,40.622318",
     "geom:latitude":40.622318,
     "geom:longitude":-75.38848,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"425 W Broad St",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85897247,
+        102191575,
+        404485987,
         85633793,
         101717907,
-        102081327,
-        85897247
+        102081395,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"a19a824cf22b7d73b59418729900f938",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081327,
+            "county_id":102081395,
+            "localadmin_id":404485987,
             "locality_id":101717907,
             "neighbourhood_id":85897247,
             "region_id":85688481,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":404205883,
-    "wof:lastmodified":1449039833,
+    "wof:lastmodified":1454356831,
     "wof:name":"Scott V Bartkus ESQ",
     "wof:parent_id":85897247,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.38848,40.622318,-75.38848,40.622318],
+  "bbox": [
+    -75.38848,
+    40.622318,
+    -75.38848,
+    40.622318
+],
   "geometry": {"coordinates":[-75.38848,40.622318],"type":"Point"}
 }

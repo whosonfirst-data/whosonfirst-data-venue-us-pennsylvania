@@ -2,13 +2,14 @@
   "id": 387840875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.114676,42.02386,-80.114676,42.02386",
     "geom:latitude":42.02386,
     "geom:longitude":-80.114676,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3441 Reichert Rd",
     "sg:city":"Erie",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080955,
-        85819503
+        85819503,
+        102080955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"a3412b1f01dcea4712791baedcfae57e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080955,
-            "locality_id":-1,
             "neighbourhood_id":85819503,
             "region_id":85688481,
             "venue_id":387840875
         }
     ],
     "wof:id":387840875,
-    "wof:lastmodified":1449059051,
+    "wof:lastmodified":1454360969,
     "wof:name":"Schafs Landscaping",
     "wof:parent_id":85819503,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "lawn"
     ]
 },
-  "bbox": [-80.114676,42.02386,-80.114676,42.02386],
+  "bbox": [
+    -80.114676,
+    42.02386,
+    -80.114676,
+    42.02386
+],
   "geometry": {"coordinates":[-80.114676,42.02386],"type":"Point"}
 }

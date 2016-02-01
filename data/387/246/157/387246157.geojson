@@ -2,13 +2,14 @@
   "id": 387246157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.86688,40.382839,-79.86688,40.382839",
     "geom:latitude":40.382839,
     "geom:longitude":-79.86688,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"351 Hoffman Blvd",
     "sg:city":"Duquesne",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     "sg:website":"http://www.tacobell.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85826107,
+        102191575,
+        404484243,
         85633793,
         101718717,
         102080887,
-        85826107
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"4327a28ce14a9edd6e0f25c9c19730cd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484243,
             "locality_id":101718717,
             "neighbourhood_id":85826107,
             "region_id":85688481,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":387246157,
-    "wof:lastmodified":1449056371,
+    "wof:lastmodified":1454358288,
     "wof:name":"Taco Bell",
     "wof:parent_id":85826107,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "mexican"
     ]
 },
-  "bbox": [-79.86688,40.382839,-79.86688,40.382839],
-  "geometry": {"coordinates":[-79.86688,40.382839],"type":"Point"}
+  "bbox": [
+    -79.86688,
+    40.382839,
+    -79.86688,
+    40.382839
+],
+  "geometry": {"coordinates":[-79.86687999999999,40.382839],"type":"Point"}
 }

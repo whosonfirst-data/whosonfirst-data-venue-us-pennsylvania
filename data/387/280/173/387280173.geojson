@@ -2,13 +2,14 @@
   "id": 387280173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.963268,40.467159,-79.963268,40.467159",
     "geom:latitude":40.467159,
     "geom:longitude":-79.963268,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"215 39th St",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85873555,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85873555
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"cf14775be9dcf36add1337e479a0aa68",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85873555,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387280173,
-    "wof:lastmodified":1449057975,
+    "wof:lastmodified":1454360642,
     "wof:name":"Arsenal Elementary School",
     "wof:parent_id":85873555,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "elementary"
     ]
 },
-  "bbox": [-79.963268,40.467159,-79.963268,40.467159],
+  "bbox": [
+    -79.963268,
+    40.467159,
+    -79.963268,
+    40.467159
+],
   "geometry": {"coordinates":[-79.963268,40.467159],"type":"Point"}
 }

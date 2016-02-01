@@ -2,13 +2,14 @@
   "id": 387495373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.024467,40.55106,-80.024467,40.55106",
     "geom:latitude":40.55106,
     "geom:longitude":-80.024467,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6000 Babcock Blvd Suite 1004",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -44,8 +45,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85828195
+        85828195,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,17 +56,15 @@
     "wof:geomhash":"1134d16a4ae057b939270aefb4128240",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85828195,
             "region_id":85688481,
             "venue_id":387495373
         }
     ],
     "wof:id":387495373,
-    "wof:lastmodified":1449057786,
+    "wof:lastmodified":1454360595,
     "wof:name":"Body By Design",
     "wof:parent_id":85828195,
     "wof:placetype":"venue",
@@ -79,6 +78,11 @@
         "alternative"
     ]
 },
-  "bbox": [-80.024467,40.55106,-80.024467,40.55106],
+  "bbox": [
+    -80.024467,
+    40.55106,
+    -80.024467,
+    40.55106
+],
   "geometry": {"coordinates":[-80.024467,40.55106],"type":"Point"}
 }

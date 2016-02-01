@@ -2,13 +2,14 @@
   "id": 387285965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.986783,40.45035,-79.986783,40.45035",
     "geom:latitude":40.45035,
     "geom:longitude":-79.986783,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"17 Smallman Sts",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85851271,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85851271
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"bf611fb5d171bd5aadc1a594e44938af",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85851271,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387285965,
-    "wof:lastmodified":1449056230,
+    "wof:lastmodified":1454358180,
     "wof:name":"Coosemans Pittsburgh",
     "wof:parent_id":85851271,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "veggie"
     ]
 },
-  "bbox": [-79.986783,40.45035,-79.986783,40.45035],
+  "bbox": [
+    -79.986783,
+    40.45035,
+    -79.986783,
+    40.45035
+],
   "geometry": {"coordinates":[-79.986783,40.45035],"type":"Point"}
 }

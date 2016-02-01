@@ -2,13 +2,14 @@
   "id": 403986155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.220747,39.846979,-77.220747,39.846979",
     "geom:latitude":39.846979,
     "geom:longitude":-77.220747,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"940 Old Harrisburg Rd",
     "sg:city":"Gettysburg",
     "sg:classifiers":[
@@ -44,8 +45,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080899,
-        85804527
+        85804527,
+        102080899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,17 +56,15 @@
     "wof:geomhash":"8f7c6be64fbb10108354f4aa444665df",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080899,
-            "locality_id":-1,
             "neighbourhood_id":85804527,
             "region_id":85688481,
             "venue_id":403986155
         }
     ],
     "wof:id":403986155,
-    "wof:lastmodified":1449055704,
+    "wof:lastmodified":1454357830,
     "wof:name":"Mike's Kars, Inc.",
     "wof:parent_id":85804527,
     "wof:placetype":"venue",
@@ -79,6 +78,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-77.220747,39.846979,-77.220747,39.846979],
+  "bbox": [
+    -77.220747,
+    39.846979,
+    -77.220747,
+    39.846979
+],
   "geometry": {"coordinates":[-77.220747,39.846979],"type":"Point"}
 }

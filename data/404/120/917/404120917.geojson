@@ -2,13 +2,14 @@
   "id": 404120917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.359619,41.031509,-76.359619,41.031509",
     "geom:latitude":41.031509,
     "geom:longitude":-76.359619,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6860 Keefers Ln",
     "sg:city":"Bloomsburg",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080973,
-        85857999
+        85857999,
+        102080973
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"0ef09a9255af20b03f10860bd94152ca",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080973,
-            "locality_id":-1,
             "neighbourhood_id":85857999,
             "region_id":85688481,
             "venue_id":404120917
         }
     ],
     "wof:id":404120917,
-    "wof:lastmodified":1449040148,
+    "wof:lastmodified":1454357034,
     "wof:name":"Frank C Baker",
     "wof:parent_id":85857999,
     "wof:placetype":"venue",
@@ -63,6 +62,11 @@
         "practice"
     ]
 },
-  "bbox": [-76.359619,41.031509,-76.359619,41.031509],
+  "bbox": [
+    -76.359619,
+    41.031509,
+    -76.359619,
+    41.031509
+],
   "geometry": {"coordinates":[-76.359619,41.031509],"type":"Point"}
 }

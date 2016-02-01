@@ -2,13 +2,14 @@
   "id": 404057705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.314023,40.152112,-76.314023,40.152112",
     "geom:latitude":40.152112,
     "geom:longitude":-76.314023,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"521 W 2nd Ave Apt 2011",
     "sg:city":"Lititz",
     "sg:classifiers":[
@@ -26,8 +27,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85806481
+        85806481,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,17 +38,15 @@
     "wof:geomhash":"d2c671a529b5fbf27c560d2c174620c1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85806481,
             "region_id":85688481,
             "venue_id":404057705
         }
     ],
     "wof:id":404057705,
-    "wof:lastmodified":1449039659,
+    "wof:lastmodified":1454356748,
     "wof:name":"Homer E Martin",
     "wof:parent_id":85806481,
     "wof:placetype":"venue",
@@ -55,6 +54,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.314023,40.152112,-76.314023,40.152112],
-  "geometry": {"coordinates":[-76.314023,40.152112],"type":"Point"}
+  "bbox": [
+    -76.314023,
+    40.152112,
+    -76.314023,
+    40.152112
+],
+  "geometry": {"coordinates":[-76.31402300000001,40.152112],"type":"Point"}
 }

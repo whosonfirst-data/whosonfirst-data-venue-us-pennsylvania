@@ -2,13 +2,14 @@
   "id": 387275543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.774799,40.442454,-79.774799,40.442454",
     "geom:latitude":40.442454,
     "geom:longitude":-79.774799,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4332 Old William Penn Hwy",
     "sg:city":"Monroeville",
     "sg:classifiers":[
@@ -40,11 +41,13 @@
     "sg:website":"http://statefarm.mqgroup.com/url.asp?usr=383907",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85821019,
+        102191575,
+        404484135,
         85633793,
         101718841,
         102080887,
-        85821019
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,9 +57,10 @@
     "wof:geomhash":"d60e5377d59cdba21510d05cfc5aa32f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484135,
             "locality_id":101718841,
             "neighbourhood_id":85821019,
             "region_id":85688481,
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":387275543,
-    "wof:lastmodified":1449057323,
+    "wof:lastmodified":1454359022,
     "wof:name":"Restori, Kris - State Farm Insurance Agent",
     "wof:parent_id":85821019,
     "wof:placetype":"venue",
@@ -76,6 +80,11 @@
         "casualty"
     ]
 },
-  "bbox": [-79.774799,40.442454,-79.774799,40.442454],
+  "bbox": [
+    -79.774799,
+    40.442454,
+    -79.774799,
+    40.442454
+],
   "geometry": {"coordinates":[-79.774799,40.442454],"type":"Point"}
 }

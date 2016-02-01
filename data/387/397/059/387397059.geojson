@@ -2,13 +2,14 @@
   "id": 387397059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.890036,40.44453,-79.890036,40.44453",
     "geom:latitude":40.44453,
     "geom:longitude":-79.890036,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"905 West St # 4",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -61,11 +62,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85873569,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85873569
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -75,9 +78,10 @@
     "wof:geomhash":"f7681dd353539f61ed48cc77606ea471",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85873569,
             "region_id":85688481,
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":387397059,
-    "wof:lastmodified":1449057624,
+    "wof:lastmodified":1454360534,
     "wof:name":"Addison Behavioral Care Inc",
     "wof:parent_id":85873569,
     "wof:placetype":"venue",
@@ -109,6 +113,11 @@
         "intervention"
     ]
 },
-  "bbox": [-79.890036,40.44453,-79.890036,40.44453],
-  "geometry": {"coordinates":[-79.890036,40.44453],"type":"Point"}
+  "bbox": [
+    -79.890036,
+    40.44453,
+    -79.890036,
+    40.44453
+],
+  "geometry": {"coordinates":[-79.89003599999999,40.44453],"type":"Point"}
 }

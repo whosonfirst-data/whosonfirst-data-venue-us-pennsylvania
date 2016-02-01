@@ -2,13 +2,14 @@
   "id": 387548655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.110497,40.255699,-80.110497,40.255699",
     "geom:latitude":40.255699,
     "geom:longitude":-80.110497,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"156 N Spring Valley Rd",
     "sg:city":"Canonsburg",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081343,
-        85814861
+        85814861,
+        102081343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"edc4a0224271fc90b56c0be3126660e9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081343,
-            "locality_id":-1,
             "neighbourhood_id":85814861,
             "region_id":85688481,
             "venue_id":387548655
         }
     ],
     "wof:id":387548655,
-    "wof:lastmodified":1449058743,
+    "wof:lastmodified":1454360868,
     "wof:name":"Rivendell Kennel",
     "wof:parent_id":85814861,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "sitting"
     ]
 },
-  "bbox": [-80.110497,40.255699,-80.110497,40.255699],
+  "bbox": [
+    -80.110497,
+    40.255699,
+    -80.110497,
+    40.255699
+],
   "geometry": {"coordinates":[-80.110497,40.255699],"type":"Point"}
 }

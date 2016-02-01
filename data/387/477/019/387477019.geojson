@@ -2,13 +2,14 @@
   "id": 387477019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.031303,40.455601,-80.031303,40.455601",
     "geom:latitude":40.455601,
     "geom:longitude":-80.031303,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1650 Metropolitan St",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85873557,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85873557
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"7f45dcc75b92633d4acaa76a6748511b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85873557,
             "region_id":85688481,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":387477019,
-    "wof:lastmodified":1449056753,
+    "wof:lastmodified":1454358583,
     "wof:name":"Citizens Bank",
     "wof:parent_id":85873557,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "saving"
     ]
 },
-  "bbox": [-80.031303,40.455601,-80.031303,40.455601],
-  "geometry": {"coordinates":[-80.031303,40.455601],"type":"Point"}
+  "bbox": [
+    -80.031303,
+    40.455601,
+    -80.031303,
+    40.455601
+],
+  "geometry": {"coordinates":[-80.03130299999999,40.455601],"type":"Point"}
 }

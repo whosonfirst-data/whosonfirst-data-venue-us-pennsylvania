@@ -2,13 +2,14 @@
   "id": 387765253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.442104,41.236765,-80.442104,41.236765",
     "geom:latitude":41.236765,
     "geom:longitude":-80.442104,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3710 David Dr",
     "sg:city":"Hermitage",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85824773,
+        102191575,
+        404487983,
         85633793,
         101718107,
         102080965,
-        85824773
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"661f83f9ce6276c98c20b02d04c7c525",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080965,
+            "localadmin_id":404487983,
             "locality_id":101718107,
             "neighbourhood_id":85824773,
             "region_id":85688481,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":387765253,
-    "wof:lastmodified":1449058303,
+    "wof:lastmodified":1454360739,
     "wof:name":"Flickinger, Chuck",
     "wof:parent_id":85824773,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "automobile"
     ]
 },
-  "bbox": [-80.442104,41.236765,-80.442104,41.236765],
+  "bbox": [
+    -80.442104,
+    41.236765,
+    -80.442104,
+    41.236765
+],
   "geometry": {"coordinates":[-80.442104,41.236765],"type":"Point"}
 }

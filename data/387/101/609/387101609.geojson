@@ -2,13 +2,14 @@
   "id": 387101609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.318831,40.694761,-80.318831,40.694761",
     "geom:latitude":40.694761,
     "geom:longitude":-80.318831,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"78 Tuscarawas Rd",
     "sg:city":"Beaver",
     "sg:classifiers":[
@@ -46,8 +47,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081323,
-        85827637
+        85827637,
+        102081323
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,17 +58,15 @@
     "wof:geomhash":"d58e2a778d3e5672c7c406deb451cf71",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081323,
-            "locality_id":-1,
             "neighbourhood_id":85827637,
             "region_id":85688481,
             "venue_id":387101609
         }
     ],
     "wof:id":387101609,
-    "wof:lastmodified":1449058106,
+    "wof:lastmodified":1454360683,
     "wof:name":"Peterson, D.A. Audiology Associates",
     "wof:parent_id":85827637,
     "wof:placetype":"venue",
@@ -83,6 +82,11 @@
         "audiologists"
     ]
 },
-  "bbox": [-80.318831,40.694761,-80.318831,40.694761],
+  "bbox": [
+    -80.318831,
+    40.694761,
+    -80.318831,
+    40.694761
+],
   "geometry": {"coordinates":[-80.318831,40.694761],"type":"Point"}
 }

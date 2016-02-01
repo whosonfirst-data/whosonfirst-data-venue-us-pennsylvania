@@ -2,13 +2,14 @@
   "id": 404216875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.386236,40.616831,-75.386236,40.616831",
     "geom:latitude":40.616831,
     "geom:longitude":-75.386236,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"340 West Lehigh Street",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"www.solomonorg.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85897247,
+        102191575,
+        404485987,
         85633793,
         101717907,
-        102081327,
-        85897247
+        102081395,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"8fd9c3c80c50635f5efda265d3823dfb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081327,
+            "county_id":102081395,
+            "localadmin_id":404485987,
             "locality_id":101717907,
             "neighbourhood_id":85897247,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":404216875,
-    "wof:lastmodified":1449040185,
+    "wof:lastmodified":1454357053,
     "wof:name":"Waters Edge",
     "wof:parent_id":85897247,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "apartment"
     ]
 },
-  "bbox": [-75.386236,40.616831,-75.386236,40.616831],
+  "bbox": [
+    -75.386236,
+    40.616831,
+    -75.386236,
+    40.616831
+],
   "geometry": {"coordinates":[-75.386236,40.616831],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387381777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.995221,40.441532,-79.995221,40.441532",
     "geom:latitude":40.441532,
     "geom:longitude":-79.995221,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"600 Grant St",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -25,11 +26,13 @@
     "sg:website":"www.edgarsnyder.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85873585,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85873585
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +42,10 @@
     "wof:geomhash":"7e27295348329946590af87de8520862",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85873585,
             "region_id":85688481,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":387381777,
-    "wof:lastmodified":1449056421,
+    "wof:lastmodified":1454358334,
     "wof:name":"Liotta Dennis A Atty",
     "wof:parent_id":85873585,
     "wof:placetype":"venue",
@@ -57,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.995221,40.441532,-79.995221,40.441532],
+  "bbox": [
+    -79.995221,
+    40.441532,
+    -79.995221,
+    40.441532
+],
   "geometry": {"coordinates":[-79.995221,40.441532],"type":"Point"}
 }

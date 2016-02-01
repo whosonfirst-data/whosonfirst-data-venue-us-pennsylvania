@@ -2,13 +2,14 @@
   "id": 387619207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.488801,40.29909,-79.488801,40.29909",
     "geom:latitude":40.29909,
     "geom:longitude":-79.488801,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"303 Old Route 30",
     "sg:city":"Greensburg",
     "sg:classifiers":[
@@ -40,8 +41,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081383,
-        85814893
+        85814893,
+        102081383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,17 +52,15 @@
     "wof:geomhash":"b6e2eadfeb7188bcb432e61d02dffc3d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":-1,
             "neighbourhood_id":85814893,
             "region_id":85688481,
             "venue_id":387619207
         }
     ],
     "wof:id":387619207,
-    "wof:lastmodified":1449056786,
+    "wof:lastmodified":1454358609,
     "wof:name":"Grajcar Blissman & Co",
     "wof:parent_id":85814893,
     "wof:placetype":"venue",
@@ -77,6 +76,11 @@
         "public"
     ]
 },
-  "bbox": [-79.488801,40.29909,-79.488801,40.29909],
+  "bbox": [
+    -79.488801,
+    40.29909,
+    -79.488801,
+    40.29909
+],
   "geometry": {"coordinates":[-79.488801,40.29909],"type":"Point"}
 }

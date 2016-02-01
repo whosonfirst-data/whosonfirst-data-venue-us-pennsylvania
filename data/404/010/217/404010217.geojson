@@ -2,13 +2,14 @@
   "id": 404010217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.670578,39.990719,-76.670578,39.990719",
     "geom:latitude":39.990719,
     "geom:longitude":-76.670578,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1 York Galleria",
     "sg:city":"York",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080953,
-        85817923
+        85817923,
+        102080953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"5a6a78df6c4e32578cfe0ade161ab11b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
             "neighbourhood_id":85817923,
             "region_id":85688481,
             "venue_id":404010217
         }
     ],
     "wof:id":404010217,
-    "wof:lastmodified":1449039861,
+    "wof:lastmodified":1454356849,
     "wof:name":"Game Stop",
     "wof:parent_id":85817923,
     "wof:placetype":"venue",
@@ -63,6 +62,11 @@
         "supply"
     ]
 },
-  "bbox": [-76.670578,39.990719,-76.670578,39.990719],
-  "geometry": {"coordinates":[-76.670578,39.990719],"type":"Point"}
+  "bbox": [
+    -76.670578,
+    39.990719,
+    -76.670578,
+    39.990719
+],
+  "geometry": {"coordinates":[-76.67057800000001,39.990719],"type":"Point"}
 }

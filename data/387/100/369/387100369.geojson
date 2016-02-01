@@ -2,13 +2,14 @@
   "id": 387100369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.79361,39.714514,-75.79361,39.714514",
     "geom:latitude":39.714514,
     "geom:longitude":-75.79361,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"9 Hillwood Rd",
     "sg:city":"Elkton",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081275,
-        85851265
+        85851265,
+        102081275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"de0524c7048ce9047850e2502bec0e24",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081275,
-            "locality_id":-1,
             "neighbourhood_id":85851265,
             "region_id":85688481,
             "venue_id":387100369
         }
     ],
     "wof:id":387100369,
-    "wof:lastmodified":1449058929,
+    "wof:lastmodified":1454360929,
     "wof:name":"Francis J Asti Farm",
     "wof:parent_id":85851265,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-75.79361,39.714514,-75.79361,39.714514],
+  "bbox": [
+    -75.79361,
+    39.714514,
+    -75.79361,
+    39.714514
+],
   "geometry": {"coordinates":[-75.79361,39.714514],"type":"Point"}
 }

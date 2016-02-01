@@ -2,13 +2,14 @@
   "id": 404081027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.296547,40.07616,-76.296547,40.07616",
     "geom:latitude":40.07616,
     "geom:longitude":-76.296547,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1821 Oregon Pike",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85811259
+        85811259,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"413b295ac6417cbb3242974d9a38e47c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85811259,
             "region_id":85688481,
             "venue_id":404081027
         }
     ],
     "wof:id":404081027,
-    "wof:lastmodified":1449039391,
+    "wof:lastmodified":1454356616,
     "wof:name":"Byler Management Co",
     "wof:parent_id":85811259,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "management"
     ]
 },
-  "bbox": [-76.296547,40.07616,-76.296547,40.07616],
+  "bbox": [
+    -76.296547,
+    40.07616,
+    -76.296547,
+    40.07616
+],
   "geometry": {"coordinates":[-76.296547,40.07616],"type":"Point"}
 }

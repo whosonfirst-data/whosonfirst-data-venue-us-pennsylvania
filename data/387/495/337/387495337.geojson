@@ -2,13 +2,14 @@
   "id": 387495337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.036677,40.575802,-80.036677,40.575802",
     "geom:latitude":40.575802,
     "geom:longitude":-80.036677,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"106 Arcadia Ct",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -40,8 +41,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85820441
+        85820441,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,17 +52,15 @@
     "wof:geomhash":"c7900c8b633a320ba2774a4dfe0ef0e8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85820441,
             "region_id":85688481,
             "venue_id":387495337
         }
     ],
     "wof:id":387495337,
-    "wof:lastmodified":1449057786,
+    "wof:lastmodified":1454360595,
     "wof:name":"John R Cook, Esq.",
     "wof:parent_id":85820441,
     "wof:placetype":"venue",
@@ -81,6 +80,11 @@
         "bankruptcy"
     ]
 },
-  "bbox": [-80.036677,40.575802,-80.036677,40.575802],
+  "bbox": [
+    -80.036677,
+    40.575802,
+    -80.036677,
+    40.575802
+],
   "geometry": {"coordinates":[-80.036677,40.575802],"type":"Point"}
 }

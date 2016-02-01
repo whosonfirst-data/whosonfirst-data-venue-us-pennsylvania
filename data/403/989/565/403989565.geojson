@@ -2,13 +2,14 @@
   "id": 403989565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.960374,39.764384,-76.960374,39.764384",
     "geom:latitude":39.764384,
     "geom:longitude":-76.960374,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1772 Baltimore Pike",
     "sg:city":"Hanover",
     "sg:classifiers":[
@@ -37,8 +38,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080953,
-        85806445
+        85806445,
+        102080953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +49,15 @@
     "wof:geomhash":"3acbd14dce47deb95349cc0f5b710f8d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
             "neighbourhood_id":85806445,
             "region_id":85688481,
             "venue_id":403989565
         }
     ],
     "wof:id":403989565,
-    "wof:lastmodified":1449055590,
+    "wof:lastmodified":1454357764,
     "wof:name":"Reichart William W Inc",
     "wof:parent_id":85806445,
     "wof:placetype":"venue",
@@ -70,6 +69,11 @@
         "contractors-commercial"
     ]
 },
-  "bbox": [-76.960374,39.764384,-76.960374,39.764384],
+  "bbox": [
+    -76.960374,
+    39.764384,
+    -76.960374,
+    39.764384
+],
   "geometry": {"coordinates":[-76.960374,39.764384],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403797067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.659979,40.654067,-77.659979,40.654067",
     "geom:latitude":40.654067,
     "geom:longitude":-77.659979,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"775 Green Ln",
     "sg:city":"Reedsville",
     "sg:classifiers":[
@@ -27,7 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420539079,
+        102191575,
+        404488183,
         85633793,
+        101719087,
+        102081333,
         85688481
     ],
     "wof:breaches":[],
@@ -38,18 +44,20 @@
     "wof:geomhash":"4a064aae741811d0b8ff2423b6e6f7dd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081333,
+            "localadmin_id":404488183,
+            "locality_id":101719087,
+            "neighbourhood_id":420539079,
             "region_id":85688481,
             "venue_id":403797067
         }
     ],
     "wof:id":403797067,
-    "wof:lastmodified":1449055836,
+    "wof:lastmodified":1454357899,
     "wof:name":"Brian L Wert",
-    "wof:parent_id":-1,
+    "wof:parent_id":420539079,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +65,11 @@
         "assistant"
     ]
 },
-  "bbox": [-77.659979,40.654067,-77.659979,40.654067],
-  "geometry": {"coordinates":[-77.659979,40.654067],"type":"Point"}
+  "bbox": [
+    -77.659979,
+    40.654067,
+    -77.659979,
+    40.654067
+],
+  "geometry": {"coordinates":[-77.65997900000001,40.654067],"type":"Point"}
 }

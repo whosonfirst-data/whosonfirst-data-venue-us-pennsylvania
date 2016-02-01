@@ -2,13 +2,14 @@
   "id": 387564227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.095703,40.305401,-80.095703,40.305401",
     "geom:latitude":40.305401,
     "geom:longitude":-80.095703,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2840 Washington Rd",
     "sg:city":"Canonsburg",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081343,
-        85852193
+        85852193,
+        102081343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"0b3f773f147fcf24cd8c981826a20093",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081343,
-            "locality_id":-1,
             "neighbourhood_id":85852193,
             "region_id":85688481,
             "venue_id":387564227
         }
     ],
     "wof:id":387564227,
-    "wof:lastmodified":1449059692,
+    "wof:lastmodified":1454361161,
     "wof:name":"Charapp",
     "wof:parent_id":85852193,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "car"
     ]
 },
-  "bbox": [-80.095703,40.305401,-80.095703,40.305401],
+  "bbox": [
+    -80.095703,
+    40.305401,
+    -80.095703,
+    40.305401
+],
   "geometry": {"coordinates":[-80.095703,40.305401],"type":"Point"}
 }

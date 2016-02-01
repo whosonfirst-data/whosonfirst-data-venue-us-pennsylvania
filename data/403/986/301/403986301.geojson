@@ -2,13 +2,14 @@
   "id": 403986301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.232437,39.830897,-77.232437,39.830897",
     "geom:latitude":39.830897,
     "geom:longitude":-77.232437,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"7 Chambersburg St",
     "sg:city":"Gettysburg",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080899,
-        85804527
+        85804527,
+        102080899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"52ad1087b032d6fae47cf1c4b6b9728e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080899,
-            "locality_id":-1,
             "neighbourhood_id":85804527,
             "region_id":85688481,
             "venue_id":403986301
         }
     ],
     "wof:id":403986301,
-    "wof:lastmodified":1449055701,
+    "wof:lastmodified":1454357829,
     "wof:name":"Pennsylvania Dental",
     "wof:parent_id":85804527,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "clinic"
     ]
 },
-  "bbox": [-77.232437,39.830897,-77.232437,39.830897],
+  "bbox": [
+    -77.232437,
+    39.830897,
+    -77.232437,
+    39.830897
+],
   "geometry": {"coordinates":[-77.232437,39.830897],"type":"Point"}
 }

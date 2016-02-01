@@ -2,13 +2,14 @@
   "id": 404064179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.394386,40.16309,-76.394386,40.16309",
     "geom:latitude":40.16309,
     "geom:longitude":-76.394386,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"18 S Main St",
     "sg:city":"Manheim",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85836395
+        85836395,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"47986e194d67de3e35d14e31076eb933",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85836395,
             "region_id":85688481,
             "venue_id":404064179
         }
     ],
     "wof:id":404064179,
-    "wof:lastmodified":1449039447,
+    "wof:lastmodified":1454356656,
     "wof:name":"David Peiffer Law Office",
     "wof:parent_id":85836395,
     "wof:placetype":"venue",
@@ -72,6 +71,11 @@
         "administrative"
     ]
 },
-  "bbox": [-76.394386,40.16309,-76.394386,40.16309],
+  "bbox": [
+    -76.394386,
+    40.16309,
+    -76.394386,
+    40.16309
+],
   "geometry": {"coordinates":[-76.394386,40.16309],"type":"Point"}
 }

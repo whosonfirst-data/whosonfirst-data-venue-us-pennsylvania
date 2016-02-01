@@ -2,13 +2,14 @@
   "id": 404013061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.682101,39.93585,-76.682101,39.93585",
     "geom:latitude":39.93585,
     "geom:longitude":-76.682101,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"275 Pauline Dr",
     "sg:city":"York",
     "sg:classifiers":[
@@ -25,7 +26,12 @@
     "sg:website":"http://www.giantfood.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420540339,
+        102191575,
+        404488031,
         85633793,
+        101719457,
+        102080953,
         85688481
     ],
     "wof:breaches":[],
@@ -36,23 +42,30 @@
     "wof:geomhash":"bf01bb9768a4cd93e89f57ff53ff738b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102080953,
+            "localadmin_id":404488031,
+            "locality_id":101719457,
+            "neighbourhood_id":420540339,
             "region_id":85688481,
             "venue_id":404013061
         }
     ],
     "wof:id":404013061,
-    "wof:lastmodified":1449039943,
+    "wof:lastmodified":1454356907,
     "wof:name":"Giant Food Stores",
-    "wof:parent_id":-1,
+    "wof:parent_id":420540339,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.682101,39.93585,-76.682101,39.93585],
+  "bbox": [
+    -76.682101,
+    39.93585,
+    -76.682101,
+    39.93585
+],
   "geometry": {"coordinates":[-76.682101,39.93585],"type":"Point"}
 }

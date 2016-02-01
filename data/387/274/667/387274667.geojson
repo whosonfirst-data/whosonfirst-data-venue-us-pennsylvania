@@ -2,13 +2,14 @@
   "id": 387274667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.795466,40.432676,-79.795466,40.432676",
     "geom:latitude":40.432676,
     "geom:longitude":-79.795466,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"125 Monroeville Mall",
     "sg:city":"Monroeville",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85838743,
+        102191575,
+        404484135,
         85633793,
         101718841,
         102080887,
-        85838743
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"e53806b09ef9752b85f17b64f0338b4a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484135,
             "locality_id":101718841,
             "neighbourhood_id":85838743,
             "region_id":85688481,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":387274667,
-    "wof:lastmodified":1449056574,
+    "wof:lastmodified":1454358449,
     "wof:name":"Men's Wearhouse",
     "wof:parent_id":85838743,
     "wof:placetype":"venue",
@@ -73,6 +77,11 @@
         "formal"
     ]
 },
-  "bbox": [-79.795466,40.432676,-79.795466,40.432676],
+  "bbox": [
+    -79.795466,
+    40.432676,
+    -79.795466,
+    40.432676
+],
   "geometry": {"coordinates":[-79.795466,40.432676],"type":"Point"}
 }

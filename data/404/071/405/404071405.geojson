@@ -2,13 +2,14 @@
   "id": 404071405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.157221,40.032227,-76.157221,40.032227",
     "geom:latitude":40.032227,
     "geom:longitude":-76.157221,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"33 S Weavertown Rd",
     "sg:city":"Ronks",
     "sg:classifiers":[
@@ -41,8 +42,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85854909
+        85854909,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,17 +53,15 @@
     "wof:geomhash":"d5afe338104b91096db718828a8b4c7f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85854909,
             "region_id":85688481,
             "venue_id":404071405
         }
     ],
     "wof:id":404071405,
-    "wof:lastmodified":1449039876,
+    "wof:lastmodified":1454356859,
     "wof:name":"Amish Tastes",
     "wof:parent_id":85854909,
     "wof:placetype":"venue",
@@ -73,6 +72,11 @@
         "pie"
     ]
 },
-  "bbox": [-76.157221,40.032227,-76.157221,40.032227],
-  "geometry": {"coordinates":[-76.157221,40.032227],"type":"Point"}
+  "bbox": [
+    -76.157221,
+    40.032227,
+    -76.157221,
+    40.032227
+],
+  "geometry": {"coordinates":[-76.15722100000001,40.032227],"type":"Point"}
 }

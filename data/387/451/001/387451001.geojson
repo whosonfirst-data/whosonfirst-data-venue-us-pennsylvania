@@ -2,13 +2,14 @@
   "id": 387451001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.926354,40.45096,-79.926354,40.45096",
     "geom:latitude":40.45096,
     "geom:longitude":-79.926354,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5826 5th Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -36,11 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85847925,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85847925
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,9 +53,10 @@
     "wof:geomhash":"269a7df4ce4edb1d663713b77980af19",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85847925,
             "region_id":85688481,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":387451001,
-    "wof:lastmodified":1449057768,
+    "wof:lastmodified":1454360587,
     "wof:name":"Pelletrea Apartments",
     "wof:parent_id":85847925,
     "wof:placetype":"venue",
@@ -74,6 +78,11 @@
         "listing"
     ]
 },
-  "bbox": [-79.926354,40.45096,-79.926354,40.45096],
+  "bbox": [
+    -79.926354,
+    40.45096,
+    -79.926354,
+    40.45096
+],
   "geometry": {"coordinates":[-79.926354,40.45096],"type":"Point"}
 }

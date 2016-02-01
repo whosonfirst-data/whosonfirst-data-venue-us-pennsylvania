@@ -2,13 +2,14 @@
   "id": 404146961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.233551,40.784359,-76.233551,40.784359",
     "geom:latitude":40.784359,
     "geom:longitude":-76.233551,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1 N Nice St",
     "sg:city":"Frackville",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85820509,
+        102191575,
+        404483819,
         85633793,
         101717629,
         102081271,
-        85820509
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"066e122e2db39ee57b62d87002d74dcb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081271,
+            "localadmin_id":404483819,
             "locality_id":101717629,
             "neighbourhood_id":85820509,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":404146961,
-    "wof:lastmodified":1449039534,
+    "wof:lastmodified":1454356703,
     "wof:name":"Kathleen Rickard Dpm",
     "wof:parent_id":85820509,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "surgeons"
     ]
 },
-  "bbox": [-76.233551,40.784359,-76.233551,40.784359],
-  "geometry": {"coordinates":[-76.233551,40.784359],"type":"Point"}
+  "bbox": [
+    -76.233551,
+    40.784359,
+    -76.233551,
+    40.784359
+],
+  "geometry": {"coordinates":[-76.23355100000001,40.784359],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403855205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.84471,40.280606,-76.84471,40.280606",
     "geom:latitude":40.280606,
     "geom:longitude":-76.84471,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"125 S 30th St",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85850427,
+        102191575,
+        404486197,
         85633793,
-        101719811,
+        101717715,
         102081347,
-        85850427
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +51,18 @@
     "wof:geomhash":"16cfb7163d76b20354292670a5f67c1c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":101719811,
+            "localadmin_id":404486197,
+            "locality_id":101717715,
             "neighbourhood_id":85850427,
             "region_id":85688481,
             "venue_id":403855205
         }
     ],
     "wof:id":403855205,
-    "wof:lastmodified":1449055594,
+    "wof:lastmodified":1454357768,
     "wof:name":"Christmas Decor",
     "wof:parent_id":85850427,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "contractor"
     ]
 },
-  "bbox": [-76.84471,40.280606,-76.84471,40.280606],
-  "geometry": {"coordinates":[-76.84471,40.280606],"type":"Point"}
+  "bbox": [
+    -76.84471,
+    40.280606,
+    -76.84471,
+    40.280606
+],
+  "geometry": {"coordinates":[-76.84471000000001,40.280606],"type":"Point"}
 }

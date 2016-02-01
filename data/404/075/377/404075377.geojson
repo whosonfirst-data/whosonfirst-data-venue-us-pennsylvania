@@ -2,13 +2,14 @@
   "id": 404075377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.340173,40.066036,-76.340173,40.066036",
     "geom:latitude":40.066036,
     "geom:longitude":-76.340173,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"800 Park City Ctr",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -26,8 +27,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85848619
+        85848619,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,17 +38,15 @@
     "wof:geomhash":"c6c05b50576c66c029ffaecf0f4dc35c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85848619,
             "region_id":85688481,
             "venue_id":404075377
         }
     ],
     "wof:id":404075377,
-    "wof:lastmodified":1449039790,
+    "wof:lastmodified":1454356803,
     "wof:name":"Boscov's Department Store",
     "wof:parent_id":85848619,
     "wof:placetype":"venue",
@@ -55,6 +54,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.340173,40.066036,-76.340173,40.066036],
-  "geometry": {"coordinates":[-76.340173,40.066036],"type":"Point"}
+  "bbox": [
+    -76.340173,
+    40.066036,
+    -76.340173,
+    40.066036
+],
+  "geometry": {"coordinates":[-76.34017299999999,40.066036],"type":"Point"}
 }

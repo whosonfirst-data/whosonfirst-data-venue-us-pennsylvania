@@ -2,13 +2,14 @@
   "id": 387595811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.665749,39.816639,-79.665749,39.816639",
     "geom:latitude":39.816639,
     "geom:longitude":-79.665749,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"458 Shepherd Rd",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080959,
-        85827687
+        85827687,
+        102080959
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"051c7a093768f81b035c63662dd212f7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080959,
-            "locality_id":-1,
             "neighbourhood_id":85827687,
             "region_id":85688481,
             "venue_id":387595811
         }
     ],
     "wof:id":387595811,
-    "wof:lastmodified":1449059549,
+    "wof:lastmodified":1454361112,
     "wof:name":"Verndell Properties",
     "wof:parent_id":85827687,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "park"
     ]
 },
-  "bbox": [-79.665749,39.816639,-79.665749,39.816639],
-  "geometry": {"coordinates":[-79.665749,39.816639],"type":"Point"}
+  "bbox": [
+    -79.665749,
+    39.816639,
+    -79.665749,
+    39.816639
+],
+  "geometry": {"coordinates":[-79.66574900000001,39.816639],"type":"Point"}
 }

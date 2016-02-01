@@ -2,13 +2,14 @@
   "id": 403982867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.285278,39.805295,-77.285278,39.805295",
     "geom:latitude":39.805295,
     "geom:longitude":-77.285278,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"500 Plank Rd",
     "sg:city":"Gettysburg",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080899,
-        85806271
+        85806271,
+        102080899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"c5bd0c8f495eee64c5e6978fd69fbb0c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080899,
-            "locality_id":-1,
             "neighbourhood_id":85806271,
             "region_id":85688481,
             "venue_id":403982867
         }
     ],
     "wof:id":403982867,
-    "wof:lastmodified":1449054862,
+    "wof:lastmodified":1454357330,
     "wof:name":"Boritt Inc",
     "wof:parent_id":85806271,
     "wof:placetype":"venue",
@@ -63,6 +62,11 @@
         "bureau"
     ]
 },
-  "bbox": [-77.285278,39.805295,-77.285278,39.805295],
-  "geometry": {"coordinates":[-77.285278,39.805295],"type":"Point"}
+  "bbox": [
+    -77.285278,
+    39.805295,
+    -77.285278,
+    39.805295
+],
+  "geometry": {"coordinates":[-77.28527800000001,39.805295],"type":"Point"}
 }

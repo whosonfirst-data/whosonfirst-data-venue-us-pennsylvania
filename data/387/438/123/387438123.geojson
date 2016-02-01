@@ -2,13 +2,14 @@
   "id": 387438123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.981956,40.365722,-79.981956,40.365722",
     "geom:latitude":40.365722,
     "geom:longitude":-79.981956,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4141 Brownsville Rd Ste 6",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85857905,
+        102191575,
+        404484247,
         85633793,
         101718705,
         102080887,
-        85857905
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"e7405c0132c9423cd0641102eb6280f7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484247,
             "locality_id":101718705,
             "neighbourhood_id":85857905,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387438123,
-    "wof:lastmodified":1449057385,
+    "wof:lastmodified":1454359080,
     "wof:name":"Compass Mortgage",
     "wof:parent_id":85857905,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-79.981956,40.365722,-79.981956,40.365722],
+  "bbox": [
+    -79.981956,
+    40.365722,
+    -79.981956,
+    40.365722
+],
   "geometry": {"coordinates":[-79.981956,40.365722],"type":"Point"}
 }

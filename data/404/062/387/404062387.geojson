@@ -2,13 +2,14 @@
   "id": 404062387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.436359,40.240533,-76.436359,40.240533",
     "geom:latitude":40.240533,
     "geom:longitude":-76.436359,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"105 Geiby Dr",
     "sg:city":"Manheim",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85865399,
+        102191575,
+        404483435,
         85633793,
         101719401,
         102081341,
-        85865399
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"860127d376a93a2c97e429ed776cc15c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081341,
+            "localadmin_id":404483435,
             "locality_id":101719401,
             "neighbourhood_id":85865399,
             "region_id":85688481,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":404062387,
-    "wof:lastmodified":1449040261,
+    "wof:lastmodified":1454357095,
     "wof:name":"Hilltop General Truck Service",
     "wof:parent_id":85865399,
     "wof:placetype":"venue",
@@ -72,6 +76,11 @@
         "accessory"
     ]
 },
-  "bbox": [-76.436359,40.240533,-76.436359,40.240533],
+  "bbox": [
+    -76.436359,
+    40.240533,
+    -76.436359,
+    40.240533
+],
   "geometry": {"coordinates":[-76.436359,40.240533],"type":"Point"}
 }

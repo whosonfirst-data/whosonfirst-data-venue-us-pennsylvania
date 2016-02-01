@@ -2,13 +2,14 @@
   "id": 404022835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.690312,39.938131,-76.690312,39.938131",
     "geom:latitude":39.938131,
     "geom:longitude":-76.690312,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2081 Springwood Rd Ste 14",
     "sg:city":"York",
     "sg:classifiers":[
@@ -37,10 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420540339,
+        102191575,
+        404488031,
         85633793,
-        101719459,
-        102080953
+        101719457,
+        102080953,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,19 +54,20 @@
     "wof:geomhash":"9167d1c6924ce0291a3a4ac4b9097439",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":101719459,
-            "neighbourhood_id":-1,
+            "localadmin_id":404488031,
+            "locality_id":101719457,
+            "neighbourhood_id":420540339,
             "region_id":85688481,
             "venue_id":404022835
         }
     ],
     "wof:id":404022835,
-    "wof:lastmodified":1449039411,
+    "wof:lastmodified":1454356633,
     "wof:name":"Festive Board",
-    "wof:parent_id":-1,
+    "wof:parent_id":420540339,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -70,6 +75,11 @@
         "delicatessen"
     ]
 },
-  "bbox": [-76.690312,39.938131,-76.690312,39.938131],
-  "geometry": {"coordinates":[-76.690312,39.938131],"type":"Point"}
+  "bbox": [
+    -76.690312,
+    39.938131,
+    -76.690312,
+    39.938131
+],
+  "geometry": {"coordinates":[-76.69031200000001,39.938131],"type":"Point"}
 }

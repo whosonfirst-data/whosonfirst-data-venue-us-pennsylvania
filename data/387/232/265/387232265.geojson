@@ -2,13 +2,14 @@
   "id": 387232265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.084468,40.396968,-80.084468,40.396968",
     "geom:latitude":40.396968,
     "geom:longitude":-80.084468,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1069 Washington Ave",
     "sg:city":"Carnegie",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"www.tomatoespizzeria.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85821875,
+        102191575,
+        404484865,
         85633793,
         101718775,
         102080887,
-        85821875
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"00eaf4f4ca258bb2aac707fcaed6fb2c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484865,
             "locality_id":101718775,
             "neighbourhood_id":85821875,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387232265,
-    "wof:lastmodified":1449057328,
+    "wof:lastmodified":1454359027,
     "wof:name":"Tomatoes",
     "wof:parent_id":85821875,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "pizza"
     ]
 },
-  "bbox": [-80.084468,40.396968,-80.084468,40.396968],
+  "bbox": [
+    -80.084468,
+    40.396968,
+    -80.084468,
+    40.396968
+],
   "geometry": {"coordinates":[-80.084468,40.396968],"type":"Point"}
 }

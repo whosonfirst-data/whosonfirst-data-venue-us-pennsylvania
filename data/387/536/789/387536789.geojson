@@ -2,13 +2,14 @@
   "id": 387536789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.195572,40.177872,-80.195572,40.177872",
     "geom:latitude":40.177872,
     "geom:longitude":-80.195572,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"330 Quarry Rd",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -37,8 +38,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081343,
-        85832105
+        85832105,
+        102081343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +49,15 @@
     "wof:geomhash":"0533c001fade4fa0dede4024993962cf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081343,
-            "locality_id":-1,
             "neighbourhood_id":85832105,
             "region_id":85688481,
             "venue_id":387536789
         }
     ],
     "wof:id":387536789,
-    "wof:lastmodified":1449058376,
+    "wof:lastmodified":1454360763,
     "wof:name":"Green Valley Packing",
     "wof:parent_id":85832105,
     "wof:placetype":"venue",
@@ -71,6 +70,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-80.195572,40.177872,-80.195572,40.177872],
+  "bbox": [
+    -80.195572,
+    40.177872,
+    -80.195572,
+    40.177872
+],
   "geometry": {"coordinates":[-80.195572,40.177872],"type":"Point"}
 }

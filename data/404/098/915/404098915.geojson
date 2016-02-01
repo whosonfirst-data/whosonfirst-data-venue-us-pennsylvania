@@ -2,13 +2,14 @@
   "id": 404098915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.003,41.241814,-77.003,41.241814",
     "geom:latitude":41.241814,
     "geom:longitude":-77.003,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"41 W 4th St",
     "sg:city":"Williamsport",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"http://www.martinoins.com?utm_source=yp&utm_medium=cpc&utm_campaign=ck_yp",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85802799,
+        102191575,
+        404485355,
         85633793,
-        101716811,
+        101716809,
         102081317,
-        85802799
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"ca7107e19dc85611922e9b9e68a0ab93",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081317,
-            "locality_id":101716811,
+            "localadmin_id":404485355,
+            "locality_id":101716809,
             "neighbourhood_id":85802799,
             "region_id":85688481,
             "venue_id":404098915
         }
     ],
     "wof:id":404098915,
-    "wof:lastmodified":1449040206,
+    "wof:lastmodified":1454357062,
     "wof:name":"MARTINO INSURANCE, INC.",
     "wof:parent_id":85802799,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "auto"
     ]
 },
-  "bbox": [-77.003,41.241814,-77.003,41.241814],
+  "bbox": [
+    -77.003,
+    41.241814,
+    -77.003,
+    41.241814
+],
   "geometry": {"coordinates":[-77.003,41.241814],"type":"Point"}
 }

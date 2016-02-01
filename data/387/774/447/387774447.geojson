@@ -2,13 +2,14 @@
   "id": 387774447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.392276,41.194902,-79.392276,41.194902",
     "geom:latitude":41.194902,
     "geom:longitude":-79.392276,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"22677 Route 68",
     "sg:city":"Clarion",
     "sg:classifiers":[
@@ -44,8 +45,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081389,
-        85857843
+        85857843,
+        102081389
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,17 +56,15 @@
     "wof:geomhash":"dc7a3459fda2d3f3f1cc052154b7f78a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081389,
-            "locality_id":-1,
             "neighbourhood_id":85857843,
             "region_id":85688481,
             "venue_id":387774447
         }
     ],
     "wof:id":387774447,
-    "wof:lastmodified":1449057584,
+    "wof:lastmodified":1454360522,
     "wof:name":"Peebles Stores Exclusive Offer",
     "wof:parent_id":85857843,
     "wof:placetype":"venue",
@@ -80,6 +79,11 @@
         "sportswear"
     ]
 },
-  "bbox": [-79.392276,41.194902,-79.392276,41.194902],
+  "bbox": [
+    -79.392276,
+    41.194902,
+    -79.392276,
+    41.194902
+],
   "geometry": {"coordinates":[-79.392276,41.194902],"type":"Point"}
 }

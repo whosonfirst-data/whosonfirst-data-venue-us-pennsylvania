@@ -2,13 +2,14 @@
   "id": 403899807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.824065,40.309151,-76.824065,40.309151",
     "geom:latitude":40.309151,
     "geom:longitude":-76.824065,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"708 Colonial Rd",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85824251,
+        102191575,
+        404486185,
         85633793,
+        101719811,
         102081347,
-        85824251
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,17 +41,18 @@
     "wof:geomhash":"5dd6681e7999c1d7678708d682c2301d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
+            "localadmin_id":404486185,
+            "locality_id":101719811,
             "neighbourhood_id":85824251,
             "region_id":85688481,
             "venue_id":403899807
         }
     ],
     "wof:id":403899807,
-    "wof:lastmodified":1449055880,
+    "wof:lastmodified":1454357925,
     "wof:name":"B Q Nails",
     "wof:parent_id":85824251,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.824065,40.309151,-76.824065,40.309151],
+  "bbox": [
+    -76.824065,
+    40.309151,
+    -76.824065,
+    40.309151
+],
   "geometry": {"coordinates":[-76.824065,40.309151],"type":"Point"}
 }

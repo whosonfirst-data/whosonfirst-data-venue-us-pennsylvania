@@ -2,13 +2,14 @@
   "id": 387489121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.964431,40.388096,-79.964431,40.388096",
     "geom:latitude":40.388096,
     "geom:longitude":-79.964431,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"930 Glass Run Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -64,11 +65,13 @@
     "sg:website":"http://www.yext.com/p/superpages/south-hills-electric-heating-and-cooling-llc-pittsburgh-pennsylvania.html",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85824379,
+        102191575,
+        404484861,
         85633793,
         101718815,
         102080887,
-        85824379
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,9 +81,10 @@
     "wof:geomhash":"042236db90b846ade92ddbfb2af8aa3f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484861,
             "locality_id":101718815,
             "neighbourhood_id":85824379,
             "region_id":85688481,
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":387489121,
-    "wof:lastmodified":1449058191,
+    "wof:lastmodified":1454360706,
     "wof:name":"South Hills Electric Heating Cooling",
     "wof:parent_id":85824379,
     "wof:placetype":"venue",
@@ -114,6 +118,11 @@
         "boilers-repair"
     ]
 },
-  "bbox": [-79.964431,40.388096,-79.964431,40.388096],
+  "bbox": [
+    -79.964431,
+    40.388096,
+    -79.964431,
+    40.388096
+],
   "geometry": {"coordinates":[-79.964431,40.388096],"type":"Point"}
 }

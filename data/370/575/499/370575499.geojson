@@ -2,13 +2,14 @@
   "id": 370575499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.895002,39.698439,-75.895002,39.698439",
     "geom:latitude":39.698439,
     "geom:longitude":-75.895002,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3700 Telegraph Rd",
     "sg:city":"Elkton",
     "sg:classifiers":[
@@ -27,8 +28,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081275,
-        85810983
+        85810983,
+        102081275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +39,15 @@
     "wof:geomhash":"06761498affe3d1822b5c84c81fcc8e5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081275,
-            "locality_id":-1,
             "neighbourhood_id":85810983,
             "region_id":85688481,
             "venue_id":370575499
         }
     ],
     "wof:id":370575499,
-    "wof:lastmodified":1449030086,
+    "wof:lastmodified":1454356390,
     "wof:name":"Wesley's Restaurant",
     "wof:parent_id":85810983,
     "wof:placetype":"venue",
@@ -56,6 +55,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.895002,39.698439,-75.895002,39.698439],
-  "geometry": {"coordinates":[-75.895002,39.698439],"type":"Point"}
+  "bbox": [
+    -75.895002,
+    39.698439,
+    -75.895002,
+    39.698439
+],
+  "geometry": {"coordinates":[-75.89500200000001,39.698439],"type":"Point"}
 }

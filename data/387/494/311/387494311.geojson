@@ -2,13 +2,14 @@
   "id": 387494311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.016197,40.571201,-80.016197,40.571201",
     "geom:latitude":40.571201,
     "geom:longitude":-80.016197,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"9102 Babcock Blvd Ste 106",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85820441
+        85820441,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"adb0440c84444506fa0e2074cb985410",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85820441,
             "region_id":85688481,
             "venue_id":387494311
         }
     ],
     "wof:id":387494311,
-    "wof:lastmodified":1449059495,
+    "wof:lastmodified":1454361099,
     "wof:name":"Orie Judith E Cardiologist",
     "wof:parent_id":85820441,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "cardiologist"
     ]
 },
-  "bbox": [-80.016197,40.571201,-80.016197,40.571201],
-  "geometry": {"coordinates":[-80.016197,40.571201],"type":"Point"}
+  "bbox": [
+    -80.016197,
+    40.571201,
+    -80.016197,
+    40.571201
+],
+  "geometry": {"coordinates":[-80.01619700000001,40.571201],"type":"Point"}
 }

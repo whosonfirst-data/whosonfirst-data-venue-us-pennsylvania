@@ -2,13 +2,14 @@
   "id": 404004215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.597447,39.800291,-76.597447,39.800291",
     "geom:latitude":39.800291,
     "geom:longitude":-76.597447,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"15180 Barrens Rd N",
     "sg:city":"Stewartstown",
     "sg:classifiers":[
@@ -37,8 +38,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080953,
-        85826693
+        85826693,
+        102080953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +49,15 @@
     "wof:geomhash":"ed79e63438a3dae52b3adc1b3faeb1d6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
             "neighbourhood_id":85826693,
             "region_id":85688481,
             "venue_id":404004215
         }
     ],
     "wof:id":404004215,
-    "wof:lastmodified":1449039466,
+    "wof:lastmodified":1454356662,
     "wof:name":"Endurance Auto",
     "wof:parent_id":85826693,
     "wof:placetype":"venue",
@@ -70,6 +69,11 @@
         "truck"
     ]
 },
-  "bbox": [-76.597447,39.800291,-76.597447,39.800291],
+  "bbox": [
+    -76.597447,
+    39.800291,
+    -76.597447,
+    39.800291
+],
   "geometry": {"coordinates":[-76.597447,39.800291],"type":"Point"}
 }

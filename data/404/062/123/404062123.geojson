@@ -2,13 +2,14 @@
   "id": 404062123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.420465,40.202352,-76.420465,40.202352",
     "geom:latitude":40.202352,
     "geom:longitude":-76.420465,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1616 Lebanon Rd",
     "sg:city":"Manheim",
     "sg:classifiers":[
@@ -33,8 +34,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85836395
+        85836395,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +45,15 @@
     "wof:geomhash":"21acd015bd5522cc3df0c8a44ab8bee3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85836395,
             "region_id":85688481,
             "venue_id":404062123
         }
     ],
     "wof:id":404062123,
-    "wof:lastmodified":1449040254,
+    "wof:lastmodified":1454357092,
     "wof:name":"Black Springs Masonry",
     "wof:parent_id":85836395,
     "wof:placetype":"venue",
@@ -68,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-76.420465,40.202352,-76.420465,40.202352],
-  "geometry": {"coordinates":[-76.420465,40.202352],"type":"Point"}
+  "bbox": [
+    -76.420465,
+    40.202352,
+    -76.420465,
+    40.202352
+],
+  "geometry": {"coordinates":[-76.42046499999999,40.202352],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387912911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.891107,40.229464,-76.891107,40.229464",
     "geom:latitude":40.229464,
     "geom:longitude":-76.891107,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1500 Cedar Cliff Dr",
     "sg:city":"Camp Hill",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"www.gulfoil.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85802785,
+        102191575,
+        404486419,
         85633793,
-        101719079,
+        101716757,
         102081359,
-        85802785
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"40923424398391410348662976c2e745",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081359,
-            "locality_id":101719079,
+            "localadmin_id":404486419,
+            "locality_id":101716757,
             "neighbourhood_id":85802785,
             "region_id":85688481,
             "venue_id":387912911
         }
     ],
     "wof:id":387912911,
-    "wof:lastmodified":1449057984,
+    "wof:lastmodified":1454360646,
     "wof:name":"Gulf Gas",
     "wof:parent_id":85802785,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.891107,40.229464,-76.891107,40.229464],
-  "geometry": {"coordinates":[-76.891107,40.229464],"type":"Point"}
+  "bbox": [
+    -76.891107,
+    40.229464,
+    -76.891107,
+    40.229464
+],
+  "geometry": {"coordinates":[-76.89110700000001,40.229464],"type":"Point"}
 }

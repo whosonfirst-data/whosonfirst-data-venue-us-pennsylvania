@@ -2,13 +2,14 @@
   "id": 387236035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.087421,40.40984,-80.087421,40.40984",
     "geom:latitude":40.40984,
     "geom:longitude":-80.087421,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"102 Broadway St",
     "sg:city":"Carnegie",
     "sg:classifiers":[
@@ -38,11 +39,13 @@
     "sg:website":"www.ppcp.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85816087,
+        102191575,
+        404484941,
         85633793,
         101718673,
         102080887,
-        85816087
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,9 +55,10 @@
     "wof:geomhash":"157e99fff0dee7a590cfa1fc529da2af",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484941,
             "locality_id":101718673,
             "neighbourhood_id":85816087,
             "region_id":85688481,
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":387236035,
-    "wof:lastmodified":1449056515,
+    "wof:lastmodified":1454358411,
     "wof:name":"Preferred Primary Care Physicians Inc",
     "wof:parent_id":85816087,
     "wof:placetype":"venue",
@@ -77,6 +81,11 @@
         "physical"
     ]
 },
-  "bbox": [-80.087421,40.40984,-80.087421,40.40984],
-  "geometry": {"coordinates":[-80.087421,40.40984],"type":"Point"}
+  "bbox": [
+    -80.087421,
+    40.40984,
+    -80.087421,
+    40.40984
+],
+  "geometry": {"coordinates":[-80.08742100000001,40.40984],"type":"Point"}
 }

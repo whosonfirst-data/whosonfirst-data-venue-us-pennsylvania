@@ -2,13 +2,14 @@
   "id": 403868743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.842625,40.287521,-76.842625,40.287521",
     "geom:latitude":40.287521,
     "geom:longitude":-76.842625,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"79 N Progress Ave",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85843183,
+        102191575,
+        404486305,
         85633793,
         101719821,
         102081347,
-        85843183
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"6229822e97c92fff939c324bdd81e94f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
+            "localadmin_id":404486305,
             "locality_id":101719821,
             "neighbourhood_id":85843183,
             "region_id":85688481,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":403868743,
-    "wof:lastmodified":1449054678,
+    "wof:lastmodified":1454357214,
     "wof:name":"A C I Market",
     "wof:parent_id":85843183,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.842625,40.287521,-76.842625,40.287521],
+  "bbox": [
+    -76.842625,
+    40.287521,
+    -76.842625,
+    40.287521
+],
   "geometry": {"coordinates":[-76.842625,40.287521],"type":"Point"}
 }

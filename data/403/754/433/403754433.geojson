@@ -2,13 +2,14 @@
   "id": 403754433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.979889,40.17543,-76.979889,40.17543",
     "geom:latitude":40.17543,
     "geom:longitude":-76.979889,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"11 Pine Tree Dr",
     "sg:city":"Mechanicsburg",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081359,
-        85836281
+        85836281,
+        102081359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"ea51d09af313594a2a10fb9972805f2a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081359,
-            "locality_id":-1,
             "neighbourhood_id":85836281,
             "region_id":85688481,
             "venue_id":403754433
         }
     ],
     "wof:id":403754433,
-    "wof:lastmodified":1449055486,
+    "wof:lastmodified":1454357695,
     "wof:name":"David Lungari",
     "wof:parent_id":85836281,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "clergy"
     ]
 },
-  "bbox": [-76.979889,40.17543,-76.979889,40.17543],
+  "bbox": [
+    -76.979889,
+    40.17543,
+    -76.979889,
+    40.17543
+],
   "geometry": {"coordinates":[-76.979889,40.17543],"type":"Point"}
 }

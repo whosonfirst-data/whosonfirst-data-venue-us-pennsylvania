@@ -2,13 +2,14 @@
   "id": 387191697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.052985,40.608495,-80.052985,40.608495",
     "geom:latitude":40.608495,
     "geom:longitude":-80.052985,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"10475 Perry Hwy Ste 120",
     "sg:city":"Wexford",
     "sg:classifiers":[
@@ -34,8 +35,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85828191
+        85828191,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +46,15 @@
     "wof:geomhash":"40654df738d4fa9b989d3703433aa1fa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85828191,
             "region_id":85688481,
             "venue_id":387191697
         }
     ],
     "wof:id":387191697,
-    "wof:lastmodified":1449058411,
+    "wof:lastmodified":1454360773,
     "wof:name":"Beard Miller Co Llp",
     "wof:parent_id":85828191,
     "wof:placetype":"venue",
@@ -65,6 +64,11 @@
         "accountant"
     ]
 },
-  "bbox": [-80.052985,40.608495,-80.052985,40.608495],
-  "geometry": {"coordinates":[-80.052985,40.608495],"type":"Point"}
+  "bbox": [
+    -80.052985,
+    40.608495,
+    -80.052985,
+    40.608495
+],
+  "geometry": {"coordinates":[-80.05298500000001,40.608495],"type":"Point"}
 }

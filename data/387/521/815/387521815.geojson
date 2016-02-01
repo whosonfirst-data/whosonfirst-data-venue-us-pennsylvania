@@ -2,13 +2,14 @@
   "id": 387521815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.054184,40.346118,-80.054184,40.346118",
     "geom:latitude":40.346118,
     "geom:longitude":-80.054184,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"180 Fort Couch Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -25,11 +26,13 @@
     "sg:website":"pittsburghissmiling.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85805921,
+        102191575,
+        404484853,
         85633793,
         101718799,
         102080887,
-        85805921
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +42,10 @@
     "wof:geomhash":"c9d71f73db1fe69f35f1b744a181c0ce",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484853,
             "locality_id":101718799,
             "neighbourhood_id":85805921,
             "region_id":85688481,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":387521815,
-    "wof:lastmodified":1449059732,
+    "wof:lastmodified":1454361174,
     "wof:name":"Advanced Dental Solutions of Pittsburgh",
     "wof:parent_id":85805921,
     "wof:placetype":"venue",
@@ -57,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.054184,40.346118,-80.054184,40.346118],
-  "geometry": {"coordinates":[-80.054184,40.346118],"type":"Point"}
+  "bbox": [
+    -80.054184,
+    40.346118,
+    -80.054184,
+    40.346118
+],
+  "geometry": {"coordinates":[-80.05418400000001,40.346118],"type":"Point"}
 }

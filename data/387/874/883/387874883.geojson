@@ -2,13 +2,14 @@
   "id": 387874883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.750004,40.914528,-77.750004,40.914528",
     "geom:latitude":40.914528,
     "geom:longitude":-77.750004,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"205 Park Pl Ste 6",
     "sg:city":"Bellefonte",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85840619,
+        102191575,
+        404485871,
         85633793,
         101718145,
         102081369,
-        85840619
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"71aa3c9ea4af03caacf1c4325c63ab17",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081369,
+            "localadmin_id":404485871,
             "locality_id":101718145,
             "neighbourhood_id":85840619,
             "region_id":85688481,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":387874883,
-    "wof:lastmodified":1449059676,
+    "wof:lastmodified":1454361156,
     "wof:name":"Kish Bank",
     "wof:parent_id":85840619,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.750004,40.914528,-77.750004,40.914528],
+  "bbox": [
+    -77.750004,
+    40.914528,
+    -77.750004,
+    40.914528
+],
   "geometry": {"coordinates":[-77.750004,40.914528],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353608307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.949731,39.686131,-75.949731,39.686131",
     "geom:latitude":39.686131,
     "geom:longitude":-75.949731,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"541 Old Elm Rd",
     "sg:city":"North East",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081275,
-        85810983
+        85810983,
+        102081275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"7548b8a94f3828bb544d127ddf7e52a6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081275,
-            "locality_id":-1,
             "neighbourhood_id":85810983,
             "region_id":85688481,
             "venue_id":353608307
         }
     ],
     "wof:id":353608307,
-    "wof:lastmodified":1449019341,
+    "wof:lastmodified":1454356382,
     "wof:name":"Carl Stafford",
     "wof:parent_id":85810983,
     "wof:placetype":"venue",
@@ -64,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-75.949731,39.686131,-75.949731,39.686131],
+  "bbox": [
+    -75.949731,
+    39.686131,
+    -75.949731,
+    39.686131
+],
   "geometry": {"coordinates":[-75.949731,39.686131],"type":"Point"}
 }

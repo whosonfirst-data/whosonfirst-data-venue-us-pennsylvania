@@ -2,13 +2,14 @@
   "id": 387150861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.947533,40.613144,-79.947533,40.613144",
     "geom:latitude":40.613144,
     "geom:longitude":-79.947533,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5130 William Flynn Hwy",
     "sg:city":"Gibsonia",
     "sg:classifiers":[
@@ -29,7 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420536325,
+        102191575,
+        404484173,
         85633793,
+        101720497,
+        102080887,
         85688481
     ],
     "wof:breaches":[],
@@ -40,18 +46,20 @@
     "wof:geomhash":"cb9b7f71c65cb75698feb68d5e29d8f1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102080887,
+            "localadmin_id":404484173,
+            "locality_id":101720497,
+            "neighbourhood_id":420536325,
             "region_id":85688481,
             "venue_id":387150861
         }
     ],
     "wof:id":387150861,
-    "wof:lastmodified":1449056169,
+    "wof:lastmodified":1454358132,
     "wof:name":"Empire Gourmet Chinese Restaurant",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536325,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -61,6 +69,11 @@
         "pan"
     ]
 },
-  "bbox": [-79.947533,40.613144,-79.947533,40.613144],
-  "geometry": {"coordinates":[-79.947533,40.613144],"type":"Point"}
+  "bbox": [
+    -79.947533,
+    40.613144,
+    -79.947533,
+    40.613144
+],
+  "geometry": {"coordinates":[-79.94753300000001,40.613144],"type":"Point"}
 }

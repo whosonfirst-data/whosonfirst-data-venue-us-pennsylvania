@@ -2,13 +2,14 @@
   "id": 387253591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.833974,40.33884,-79.833974,40.33884",
     "geom:latitude":40.33884,
     "geom:longitude":-79.833974,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2123 Allison St",
     "sg:city":"Mckeesport",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85845081,
+        102191575,
+        404484971,
         85633793,
         101718847,
         102080887,
-        85845081
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"762ee097cd345dd32e44a758793eb889",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484971,
             "locality_id":101718847,
             "neighbourhood_id":85845081,
             "region_id":85688481,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":387253591,
-    "wof:lastmodified":1449059449,
+    "wof:lastmodified":1454361083,
     "wof:name":"Gary's Cleaning Service",
     "wof:parent_id":85845081,
     "wof:placetype":"venue",
@@ -68,6 +72,11 @@
         "house"
     ]
 },
-  "bbox": [-79.833974,40.33884,-79.833974,40.33884],
+  "bbox": [
+    -79.833974,
+    40.33884,
+    -79.833974,
+    40.33884
+],
   "geometry": {"coordinates":[-79.833974,40.33884],"type":"Point"}
 }

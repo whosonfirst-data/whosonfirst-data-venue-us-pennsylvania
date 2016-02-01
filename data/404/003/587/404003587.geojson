@@ -2,13 +2,14 @@
   "id": 404003587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.592066,39.75372,-76.592066,39.75372",
     "geom:latitude":39.75372,
     "geom:longitude":-76.592066,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5 W Pennsylvania Ave",
     "sg:city":"Stewartstown",
     "sg:classifiers":[
@@ -34,10 +35,13 @@
     "sg:website":"http://www.oipizza.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85859471,
+        102191575,
+        404487947,
         85633793,
+        101717211,
         102080953,
-        85859471
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +51,18 @@
     "wof:geomhash":"e99dd8a5b2e89807a1e44a94a9fcad29",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
+            "localadmin_id":404487947,
+            "locality_id":101717211,
             "neighbourhood_id":85859471,
             "region_id":85688481,
             "venue_id":404003587
         }
     ],
     "wof:id":404003587,
-    "wof:lastmodified":1449040241,
+    "wof:lastmodified":1454357083,
     "wof:name":"Original Italian Pizza",
     "wof:parent_id":85859471,
     "wof:placetype":"venue",
@@ -68,6 +73,11 @@
         "pizza"
     ]
 },
-  "bbox": [-76.592066,39.75372,-76.592066,39.75372],
+  "bbox": [
+    -76.592066,
+    39.75372,
+    -76.592066,
+    39.75372
+],
   "geometry": {"coordinates":[-76.592066,39.75372],"type":"Point"}
 }

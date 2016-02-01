@@ -2,13 +2,14 @@
   "id": 387621845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.505158,40.276145,-79.505158,40.276145",
     "geom:latitude":40.276145,
     "geom:longitude":-79.505158,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"503 New Haven Dr",
     "sg:city":"Greensburg",
     "sg:classifiers":[
@@ -26,8 +27,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081383,
-        85851151
+        85851151,
+        102081383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,17 +38,15 @@
     "wof:geomhash":"a998748b4d0a94436ba299df743b1f06",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":-1,
             "neighbourhood_id":85851151,
             "region_id":85688481,
             "venue_id":387621845
         }
     ],
     "wof:id":387621845,
-    "wof:lastmodified":1449059464,
+    "wof:lastmodified":1454361091,
     "wof:name":"Willis Enterprises",
     "wof:parent_id":85851151,
     "wof:placetype":"venue",
@@ -55,6 +54,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.505158,40.276145,-79.505158,40.276145],
-  "geometry": {"coordinates":[-79.505158,40.276145],"type":"Point"}
+  "bbox": [
+    -79.505158,
+    40.276145,
+    -79.505158,
+    40.276145
+],
+  "geometry": {"coordinates":[-79.50515799999999,40.276145],"type":"Point"}
 }

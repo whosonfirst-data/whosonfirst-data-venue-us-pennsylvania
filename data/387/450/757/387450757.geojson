@@ -2,13 +2,14 @@
   "id": 387450757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.032113,40.533493,-80.032113,40.533493",
     "geom:latitude":40.533493,
     "geom:longitude":-80.032113,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"106 Provan Pl",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85841395
+        85841395,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"8ed289b134af97c730d75dd58ee07fbc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85841395,
             "region_id":85688481,
             "venue_id":387450757
         }
     ],
     "wof:id":387450757,
-    "wof:lastmodified":1449059344,
+    "wof:lastmodified":1454361045,
     "wof:name":"D J L Inc",
     "wof:parent_id":85841395,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.032113,40.533493,-80.032113,40.533493],
+  "bbox": [
+    -80.032113,
+    40.533493,
+    -80.032113,
+    40.533493
+],
   "geometry": {"coordinates":[-80.032113,40.533493],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387892009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.594597,40.851501,-77.594597,40.851501",
     "geom:latitude":40.851501,
     "geom:longitude":-77.594597,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3635 Penns Valley Rd",
     "sg:city":"Spring Mills",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081369,
-        85818947
+        85818947,
+        102081369
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"e6cfdec25c5524732ad5f10afd7bfcfd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081369,
-            "locality_id":-1,
             "neighbourhood_id":85818947,
             "region_id":85688481,
             "venue_id":387892009
         }
     ],
     "wof:id":387892009,
-    "wof:lastmodified":1449056667,
+    "wof:lastmodified":1454358525,
     "wof:name":"Jersey Shore State Bank",
     "wof:parent_id":85818947,
     "wof:placetype":"venue",
@@ -68,6 +67,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-77.594597,40.851501,-77.594597,40.851501],
-  "geometry": {"coordinates":[-77.594597,40.851501],"type":"Point"}
+  "bbox": [
+    -77.594597,
+    40.851501,
+    -77.594597,
+    40.851501
+],
+  "geometry": {"coordinates":[-77.59459699999999,40.851501],"type":"Point"}
 }

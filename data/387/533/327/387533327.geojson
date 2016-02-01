@@ -2,13 +2,14 @@
   "id": 387533327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.201045,40.454041,-80.201045,40.454041",
     "geom:latitude":40.454041,
     "geom:longitude":-80.201045,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"112 Technology Dr",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -43,8 +44,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85805237
+        85805237,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,17 +55,15 @@
     "wof:geomhash":"75f1a92e18ac990a2a55752659598f02",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85805237,
             "region_id":85688481,
             "venue_id":387533327
         }
     ],
     "wof:id":387533327,
-    "wof:lastmodified":1449056067,
+    "wof:lastmodified":1454358057,
     "wof:name":"Engineered Systems & Solutions",
     "wof:parent_id":85805237,
     "wof:placetype":"venue",
@@ -78,6 +77,11 @@
         "environmental"
     ]
 },
-  "bbox": [-80.201045,40.454041,-80.201045,40.454041],
-  "geometry": {"coordinates":[-80.201045,40.454041],"type":"Point"}
+  "bbox": [
+    -80.201045,
+    40.454041,
+    -80.201045,
+    40.454041
+],
+  "geometry": {"coordinates":[-80.20104499999999,40.454041],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387308305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.998775,40.396457,-79.998775,40.396457",
     "geom:latitude":40.396457,
     "geom:longitude":-79.998775,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1640 Saw Mill Run Blvd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85807877,
+        102191575,
+        404482523,
         85633793,
+        101718805,
         102080887,
-        85807877
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +46,18 @@
     "wof:geomhash":"bd194fe3ba0bd1ac9ae19748bc462889",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
+            "localadmin_id":404482523,
+            "locality_id":101718805,
             "neighbourhood_id":85807877,
             "region_id":85688481,
             "venue_id":387308305
         }
     ],
     "wof:id":387308305,
-    "wof:lastmodified":1449060016,
+    "wof:lastmodified":1454361262,
     "wof:name":"Sunoco",
     "wof:parent_id":85807877,
     "wof:placetype":"venue",
@@ -60,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.998775,40.396457,-79.998775,40.396457],
-  "geometry": {"coordinates":[-79.998775,40.396457],"type":"Point"}
+  "bbox": [
+    -79.998775,
+    40.396457,
+    -79.998775,
+    40.396457
+],
+  "geometry": {"coordinates":[-79.99877499999999,40.396457],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404078353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.41116,40.051304,-76.41116,40.051304",
     "geom:latitude":40.051304,
     "geom:longitude":-76.41116,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3190 Cottonwood Court",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -38,8 +39,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85814875
+        85814875,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +50,15 @@
     "wof:geomhash":"edf5baa3dfab7e1efc39ecda2d33c20c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85814875,
             "region_id":85688481,
             "venue_id":404078353
         }
     ],
     "wof:id":404078353,
-    "wof:lastmodified":1449040131,
+    "wof:lastmodified":1454357025,
     "wof:name":"Wordwise Marketing",
     "wof:parent_id":85814875,
     "wof:placetype":"venue",
@@ -72,6 +71,11 @@
         "internet"
     ]
 },
-  "bbox": [-76.41116,40.051304,-76.41116,40.051304],
+  "bbox": [
+    -76.41116,
+    40.051304,
+    -76.41116,
+    40.051304
+],
   "geometry": {"coordinates":[-76.41116,40.051304],"type":"Point"}
 }

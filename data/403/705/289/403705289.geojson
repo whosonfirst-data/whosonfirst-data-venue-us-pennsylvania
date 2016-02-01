@@ -2,13 +2,14 @@
   "id": 403705289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.67408,40.268261,-76.67408,40.268261",
     "geom:latitude":40.268261,
     "geom:longitude":-76.67408,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"500 University Dr",
     "sg:city":"Hershey",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85821955,
+        102191575,
+        404483303,
         85633793,
         101719813,
         102081347,
-        85821955
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"196cebe0caad5502a140be628b7a9525",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
+            "localadmin_id":404483303,
             "locality_id":101719813,
             "neighbourhood_id":85821955,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":403705289,
-    "wof:lastmodified":1449055972,
+    "wof:lastmodified":1454357987,
     "wof:name":"Henry Wagner Jr",
     "wof:parent_id":85821955,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "employer"
     ]
 },
-  "bbox": [-76.67408,40.268261,-76.67408,40.268261],
+  "bbox": [
+    -76.67408,
+    40.268261,
+    -76.67408,
+    40.268261
+],
   "geometry": {"coordinates":[-76.67408,40.268261],"type":"Point"}
 }

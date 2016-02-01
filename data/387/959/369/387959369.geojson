@@ -2,13 +2,14 @@
   "id": 387959369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.666374,40.141441,-76.666374,40.141441",
     "geom:latitude":40.141441,
     "geom:longitude":-76.666374,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2398 Turnpike Rd",
     "sg:city":"Elizabethtown",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85836929
+        85836929,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"20dcafa7eb942aa8ad2efb939e7c699d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85836929,
             "region_id":85688481,
             "venue_id":387959369
         }
     ],
     "wof:id":387959369,
-    "wof:lastmodified":1449059538,
+    "wof:lastmodified":1454361111,
     "wof:name":"Good Brothers Builders",
     "wof:parent_id":85836929,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-76.666374,40.141441,-76.666374,40.141441],
+  "bbox": [
+    -76.666374,
+    40.141441,
+    -76.666374,
+    40.141441
+],
   "geometry": {"coordinates":[-76.666374,40.141441],"type":"Point"}
 }

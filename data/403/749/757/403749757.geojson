@@ -2,13 +2,14 @@
   "id": 403749757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.96904,40.246021,-76.96904,40.246021",
     "geom:latitude":40.246021,
     "geom:longitude":-76.96904,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"408 Pawnee Dr",
     "sg:city":"Mechanicsburg",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081359,
-        85850501
+        85850501,
+        102081359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"34b8eff4e354b056324a945336a71160",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081359,
-            "locality_id":-1,
             "neighbourhood_id":85850501,
             "region_id":85688481,
             "venue_id":403749757
         }
     ],
     "wof:id":403749757,
-    "wof:lastmodified":1449055024,
+    "wof:lastmodified":1454357422,
     "wof:name":"Seeley Office Solutions Inc.",
     "wof:parent_id":85850501,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-76.96904,40.246021,-76.96904,40.246021],
-  "geometry": {"coordinates":[-76.96904,40.246021],"type":"Point"}
+  "bbox": [
+    -76.96904,
+    40.246021,
+    -76.96904,
+    40.246021
+],
+  "geometry": {"coordinates":[-76.96904000000001,40.246021],"type":"Point"}
 }

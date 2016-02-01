@@ -2,13 +2,14 @@
   "id": 404016215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.672417,39.973309,-76.672417,39.973309",
     "geom:latitude":39.973309,
     "geom:longitude":-76.672417,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2701 Eastern Blvd",
     "sg:city":"York",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     "sg:website":"http://www.peoples.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420540439,
+        102191575,
+        404487939,
         85633793,
         101719469,
-        102080953
+        102080953,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"aea1fa61557c064a55939407f81adfb6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080953,
+            "localadmin_id":404487939,
             "locality_id":101719469,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420540439,
             "region_id":85688481,
             "venue_id":404016215
         }
     ],
     "wof:id":404016215,
-    "wof:lastmodified":1449039260,
+    "wof:lastmodified":1454356539,
     "wof:name":"Peoples Bank",
-    "wof:parent_id":-1,
+    "wof:parent_id":420540439,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -63,6 +68,11 @@
         "commercial"
     ]
 },
-  "bbox": [-76.672417,39.973309,-76.672417,39.973309],
+  "bbox": [
+    -76.672417,
+    39.973309,
+    -76.672417,
+    39.973309
+],
   "geometry": {"coordinates":[-76.672417,39.973309],"type":"Point"}
 }

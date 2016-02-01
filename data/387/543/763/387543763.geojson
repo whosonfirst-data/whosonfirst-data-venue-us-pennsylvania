@@ -2,13 +2,14 @@
   "id": 387543763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.248215,40.172065,-80.248215,40.172065",
     "geom:latitude":40.172065,
     "geom:longitude":-80.248215,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"90 W Chestnut St Ste 410",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85852963,
+        102191575,
+        404487917,
         85633793,
         101718569,
         102081343,
-        85852963
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"a281489816dac4b3ecdad840f72a1041",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081343,
+            "localadmin_id":404487917,
             "locality_id":101718569,
             "neighbourhood_id":85852963,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387543763,
-    "wof:lastmodified":1449056844,
+    "wof:lastmodified":1454358649,
     "wof:name":"David Seaman Md",
     "wof:parent_id":85852963,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-80.248215,40.172065,-80.248215,40.172065],
+  "bbox": [
+    -80.248215,
+    40.172065,
+    -80.248215,
+    40.172065
+],
   "geometry": {"coordinates":[-80.248215,40.172065],"type":"Point"}
 }

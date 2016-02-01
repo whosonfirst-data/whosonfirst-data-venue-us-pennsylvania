@@ -2,13 +2,14 @@
   "id": 404053505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.42655,40.104327,-76.42655,40.104327",
     "geom:latitude":40.104327,
     "geom:longitude":-76.42655,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"38 Holland St",
     "sg:city":"Landisville",
     "sg:classifiers":[
@@ -39,8 +40,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85833625
+        85833625,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,17 +51,15 @@
     "wof:geomhash":"7e6e3572430ab7df7fa9ba85102bbb0b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85833625,
             "region_id":85688481,
             "venue_id":404053505
         }
     ],
     "wof:id":404053505,
-    "wof:lastmodified":1449039282,
+    "wof:lastmodified":1454356547,
     "wof:name":"God Missionary Church",
     "wof:parent_id":85833625,
     "wof:placetype":"venue",
@@ -70,6 +69,11 @@
         "churches-non-denominational"
     ]
 },
-  "bbox": [-76.42655,40.104327,-76.42655,40.104327],
-  "geometry": {"coordinates":[-76.42655,40.104327],"type":"Point"}
+  "bbox": [
+    -76.42655,
+    40.104327,
+    -76.42655,
+    40.104327
+],
+  "geometry": {"coordinates":[-76.42655000000001,40.104327],"type":"Point"}
 }

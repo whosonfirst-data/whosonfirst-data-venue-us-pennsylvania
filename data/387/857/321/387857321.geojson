@@ -2,13 +2,14 @@
   "id": 387857321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.429649,40.426502,-78.429649,40.426502",
     "geom:latitude":40.426502,
     "geom:longitude":-78.429649,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"844 5th Ave",
     "sg:city":"Duncansville",
     "sg:classifiers":[
@@ -38,8 +39,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081325,
-        85820087
+        85820087,
+        102081325
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +50,15 @@
     "wof:geomhash":"af7c8bfbf7ecd8ff36457ccb283d75be",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081325,
-            "locality_id":-1,
             "neighbourhood_id":85820087,
             "region_id":85688481,
             "venue_id":387857321
         }
     ],
     "wof:id":387857321,
-    "wof:lastmodified":1449058578,
+    "wof:lastmodified":1454360816,
     "wof:name":"Sunbrook Manor Apts",
     "wof:parent_id":85820087,
     "wof:placetype":"venue",
@@ -73,6 +72,11 @@
         "finder"
     ]
 },
-  "bbox": [-78.429649,40.426502,-78.429649,40.426502],
+  "bbox": [
+    -78.429649,
+    40.426502,
+    -78.429649,
+    40.426502
+],
   "geometry": {"coordinates":[-78.429649,40.426502],"type":"Point"}
 }

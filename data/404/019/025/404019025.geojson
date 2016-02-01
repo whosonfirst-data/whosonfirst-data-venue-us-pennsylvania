@@ -2,13 +2,14 @@
   "id": 404019025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.705841,39.95887,-76.705841,39.95887",
     "geom:latitude":39.95887,
     "geom:longitude":-76.705841,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1000 E Boundary Ave",
     "sg:city":"York",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080953,
-        85853795
+        85853795,
+        102080953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"11c99195c644a5bd6b063c1ba5c79225",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
             "neighbourhood_id":85853795,
             "region_id":85688481,
             "venue_id":404019025
         }
     ],
     "wof:id":404019025,
-    "wof:lastmodified":1449039821,
+    "wof:lastmodified":1454356823,
     "wof:name":"Triangle Printing Company Incorporated",
     "wof:parent_id":85853795,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "lithographer"
     ]
 },
-  "bbox": [-76.705841,39.95887,-76.705841,39.95887],
-  "geometry": {"coordinates":[-76.705841,39.95887],"type":"Point"}
+  "bbox": [
+    -76.705841,
+    39.95887,
+    -76.705841,
+    39.95887
+],
+  "geometry": {"coordinates":[-76.70584100000001,39.95887],"type":"Point"}
 }

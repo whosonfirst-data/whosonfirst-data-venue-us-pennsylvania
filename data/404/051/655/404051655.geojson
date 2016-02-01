@@ -2,13 +2,14 @@
   "id": 404051655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.271348,39.879506,-76.271348,39.879506",
     "geom:latitude":39.879506,
     "geom:longitude":-76.271348,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"55 Drytown Rd",
     "sg:city":"Holtwood",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85815303
+        85815303,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"1b4162a7853d7b8191b8b65bba011049",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85815303,
             "region_id":85688481,
             "venue_id":404051655
         }
     ],
     "wof:id":404051655,
-    "wof:lastmodified":1449039853,
+    "wof:lastmodified":1454356842,
     "wof:name":"USPS - United States Post Office - Holtwood Main Office",
     "wof:parent_id":85815303,
     "wof:placetype":"venue",
@@ -68,6 +67,11 @@
         "shipping"
     ]
 },
-  "bbox": [-76.271348,39.879506,-76.271348,39.879506],
+  "bbox": [
+    -76.271348,
+    39.879506,
+    -76.271348,
+    39.879506
+],
   "geometry": {"coordinates":[-76.271348,39.879506],"type":"Point"}
 }

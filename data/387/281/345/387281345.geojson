@@ -2,13 +2,14 @@
   "id": 387281345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.070902,40.502483,-80.070902,40.502483",
     "geom:latitude":40.502483,
     "geom:longitude":-80.070902,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"546 California Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -32,8 +33,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85842091
+        85842091,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +44,15 @@
     "wof:geomhash":"3b64a6e85ead383062f0a4fc66fee129",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85842091,
             "region_id":85688481,
             "venue_id":387281345
         }
     ],
     "wof:id":387281345,
-    "wof:lastmodified":1449059348,
+    "wof:lastmodified":1454361048,
     "wof:name":"Shreve & Pail Attorneys At Law",
     "wof:parent_id":85842091,
     "wof:placetype":"venue",
@@ -66,6 +65,11 @@
         "bankruptcy"
     ]
 },
-  "bbox": [-80.070902,40.502483,-80.070902,40.502483],
+  "bbox": [
+    -80.070902,
+    40.502483,
+    -80.070902,
+    40.502483
+],
   "geometry": {"coordinates":[-80.070902,40.502483],"type":"Point"}
 }

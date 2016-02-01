@@ -2,13 +2,14 @@
   "id": 403980117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.3629,39.750088,-77.3629,39.750088",
     "geom:latitude":39.750088,
     "geom:longitude":-77.3629,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"26 Freedom Trl",
     "sg:city":"Fairfield",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85827223,
+        102191575,
+        404484791,
         85633793,
         101718869,
         102080899,
-        85827223
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"e194d4d653a78854eba5a8bd3ec585b7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080899,
+            "localadmin_id":404484791,
             "locality_id":101718869,
             "neighbourhood_id":85827223,
             "region_id":85688481,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":403980117,
-    "wof:lastmodified":1449054727,
+    "wof:lastmodified":1454357244,
     "wof:name":"Eck's Handyman Services",
     "wof:parent_id":85827223,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "home"
     ]
 },
-  "bbox": [-77.3629,39.750088,-77.3629,39.750088],
+  "bbox": [
+    -77.3629,
+    39.750088,
+    -77.3629,
+    39.750088
+],
   "geometry": {"coordinates":[-77.3629,39.750088],"type":"Point"}
 }

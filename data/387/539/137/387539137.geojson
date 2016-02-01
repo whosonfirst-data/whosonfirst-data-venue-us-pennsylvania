@@ -2,13 +2,14 @@
   "id": 387539137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.233752,40.175275,-80.233752,40.175275",
     "geom:latitude":40.175275,
     "geom:longitude":-80.233752,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"56 Mckennan Ave",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85852963,
+        102191575,
+        404487917,
         85633793,
         101718569,
         102081343,
-        85852963
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"1632c1eb861fa82ca09bf5f89bfacb83",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081343,
+            "localadmin_id":404487917,
             "locality_id":101718569,
             "neighbourhood_id":85852963,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387539137,
-    "wof:lastmodified":1449059998,
+    "wof:lastmodified":1454361256,
     "wof:name":"The Gardener English",
     "wof:parent_id":85852963,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.233752,40.175275,-80.233752,40.175275],
+  "bbox": [
+    -80.233752,
+    40.175275,
+    -80.233752,
+    40.175275
+],
   "geometry": {"coordinates":[-80.233752,40.175275],"type":"Point"}
 }

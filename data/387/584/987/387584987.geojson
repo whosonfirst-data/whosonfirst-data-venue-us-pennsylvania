@@ -2,13 +2,14 @@
   "id": 387584987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.222334,39.963962,-80.222334,39.963962",
     "geom:latitude":39.963962,
     "geom:longitude":-80.222334,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"195 Breakneck Rd Lot 1",
     "sg:city":"Waynesburg",
     "sg:classifiers":[
@@ -45,8 +46,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080975,
-        85846369
+        85846369,
+        102080975
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,17 +57,15 @@
     "wof:geomhash":"541b6ca09e7e32cf36d0bcbda515044e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080975,
-            "locality_id":-1,
             "neighbourhood_id":85846369,
             "region_id":85688481,
             "venue_id":387584987
         }
     ],
     "wof:id":387584987,
-    "wof:lastmodified":1449056525,
+    "wof:lastmodified":1454358416,
     "wof:name":"Neff Custom Wood Products",
     "wof:parent_id":85846369,
     "wof:placetype":"venue",
@@ -82,6 +81,11 @@
         "kitchen"
     ]
 },
-  "bbox": [-80.222334,39.963962,-80.222334,39.963962],
+  "bbox": [
+    -80.222334,
+    39.963962,
+    -80.222334,
+    39.963962
+],
   "geometry": {"coordinates":[-80.222334,39.963962],"type":"Point"}
 }

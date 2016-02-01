@@ -2,13 +2,14 @@
   "id": 403972217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.640563,39.903535,-76.640563,39.903535",
     "geom:latitude":39.903535,
     "geom:longitude":-76.640563,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"45 Susan Dr",
     "sg:city":"Dallastown",
     "sg:classifiers":[
@@ -47,8 +48,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080953,
-        85868591
+        85868591,
+        102080953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,17 +59,15 @@
     "wof:geomhash":"ff709388413b23c67d9a707cb947989d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
             "neighbourhood_id":85868591,
             "region_id":85688481,
             "venue_id":403972217
         }
     ],
     "wof:id":403972217,
-    "wof:lastmodified":1449055312,
+    "wof:lastmodified":1454357599,
     "wof:name":"Pop- A- Lock",
     "wof:parent_id":85868591,
     "wof:placetype":"venue",
@@ -85,6 +84,11 @@
         "vault"
     ]
 },
-  "bbox": [-76.640563,39.903535,-76.640563,39.903535],
+  "bbox": [
+    -76.640563,
+    39.903535,
+    -76.640563,
+    39.903535
+],
   "geometry": {"coordinates":[-76.640563,39.903535],"type":"Point"}
 }

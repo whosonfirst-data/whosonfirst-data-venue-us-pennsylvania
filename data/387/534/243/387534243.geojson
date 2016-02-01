@@ -2,13 +2,14 @@
   "id": 387534243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.179731,40.447487,-80.179731,40.447487",
     "geom:latitude":40.447487,
     "geom:longitude":-80.179731,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"216 Summit Park Dr",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85805237
+        85805237,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"c88e1f0cee5d0e019fcf0431c2a4a0ee",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85805237,
             "region_id":85688481,
             "venue_id":387534243
         }
     ],
     "wof:id":387534243,
-    "wof:lastmodified":1449057090,
+    "wof:lastmodified":1454358827,
     "wof:name":"Eb Games",
     "wof:parent_id":85805237,
     "wof:placetype":"venue",
@@ -63,6 +62,11 @@
         "hobby"
     ]
 },
-  "bbox": [-80.179731,40.447487,-80.179731,40.447487],
+  "bbox": [
+    -80.179731,
+    40.447487,
+    -80.179731,
+    40.447487
+],
   "geometry": {"coordinates":[-80.179731,40.447487],"type":"Point"}
 }

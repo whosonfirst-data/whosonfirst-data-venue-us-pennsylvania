@@ -2,13 +2,14 @@
   "id": 404084837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.30326,40.048383,-76.30326,40.048383",
     "geom:latitude":40.048383,
     "geom:longitude":-76.30326,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"616 N Lime St",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -25,11 +26,13 @@
     "sg:website":"http://www.visagevisage.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85846173,
+        102191575,
+        404487183,
         85633793,
         101718643,
         102081377,
-        85846173
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +42,10 @@
     "wof:geomhash":"24f02355ab37149314fc623d1a37a31d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081377,
+            "localadmin_id":404487183,
             "locality_id":101718643,
             "neighbourhood_id":85846173,
             "region_id":85688481,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":404084837,
-    "wof:lastmodified":1449039144,
+    "wof:lastmodified":1454356473,
     "wof:name":"Visage A Visage",
     "wof:parent_id":85846173,
     "wof:placetype":"venue",
@@ -57,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.30326,40.048383,-76.30326,40.048383],
-  "geometry": {"coordinates":[-76.30326,40.048383],"type":"Point"}
+  "bbox": [
+    -76.30326,
+    40.048383,
+    -76.30326,
+    40.048383
+],
+  "geometry": {"coordinates":[-76.30325999999999,40.048383],"type":"Point"}
 }

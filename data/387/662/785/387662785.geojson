@@ -2,13 +2,14 @@
   "id": 387662785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.283906,40.657715,-79.283906,40.657715",
     "geom:latitude":40.657715,
     "geom:longitude":-79.283906,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"475 Creek Rd",
     "sg:city":"Shelocta",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081387,
-        85821437
+        85821437,
+        102081387
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"358c18a466da96b0c0564cb79abdb067",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081387,
-            "locality_id":-1,
             "neighbourhood_id":85821437,
             "region_id":85688481,
             "venue_id":387662785
         }
     ],
     "wof:id":387662785,
-    "wof:lastmodified":1449058677,
+    "wof:lastmodified":1454360849,
     "wof:name":"Animal House",
     "wof:parent_id":85821437,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "kennel"
     ]
 },
-  "bbox": [-79.283906,40.657715,-79.283906,40.657715],
+  "bbox": [
+    -79.283906,
+    40.657715,
+    -79.283906,
+    40.657715
+],
   "geometry": {"coordinates":[-79.283906,40.657715],"type":"Point"}
 }

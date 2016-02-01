@@ -2,13 +2,14 @@
   "id": 387628231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.567715,40.582866,-79.567715,40.582866",
     "geom:latitude":40.582866,
     "geom:longitude":-79.567715,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"123A North Plz",
     "sg:city":"Apollo",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     "sg:website":"http://www.libertytax.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536461,
+        102191575,
+        404484281,
         85633793,
-        101718529,
-        102081371
+        101720289,
+        102081371,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"e1875f7cacdacb1b392198da1298b999",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081371,
-            "locality_id":101718529,
-            "neighbourhood_id":-1,
+            "localadmin_id":404484281,
+            "locality_id":101720289,
+            "neighbourhood_id":420536461,
             "region_id":85688481,
             "venue_id":387628231
         }
     ],
     "wof:id":387628231,
-    "wof:lastmodified":1449059199,
+    "wof:lastmodified":1454361009,
     "wof:name":"Liberty Tax Service",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536461,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -63,6 +68,11 @@
         "preparation-business"
     ]
 },
-  "bbox": [-79.567715,40.582866,-79.567715,40.582866],
-  "geometry": {"coordinates":[-79.567715,40.582866],"type":"Point"}
+  "bbox": [
+    -79.567715,
+    40.582866,
+    -79.567715,
+    40.582866
+],
+  "geometry": {"coordinates":[-79.56771500000001,40.582866],"type":"Point"}
 }

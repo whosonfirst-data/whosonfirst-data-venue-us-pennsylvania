@@ -2,13 +2,14 @@
   "id": 403863369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.853805,40.260953,-76.853805,40.260953",
     "geom:latitude":40.260953,
     "geom:longitude":-76.853805,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2040 Derry St",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85840955
+        85840955,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"638e2d252ad8766254d1354ab4108813",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85840955,
             "region_id":85688481,
             "venue_id":403863369
         }
     ],
     "wof:id":403863369,
-    "wof:lastmodified":1449055530,
+    "wof:lastmodified":1454357728,
     "wof:name":"Nee Dance Company the",
     "wof:parent_id":85840955,
     "wof:placetype":"venue",
@@ -61,6 +60,11 @@
         "performing"
     ]
 },
-  "bbox": [-76.853805,40.260953,-76.853805,40.260953],
-  "geometry": {"coordinates":[-76.853805,40.260953],"type":"Point"}
+  "bbox": [
+    -76.853805,
+    40.260953,
+    -76.853805,
+    40.260953
+],
+  "geometry": {"coordinates":[-76.85380499999999,40.260953],"type":"Point"}
 }

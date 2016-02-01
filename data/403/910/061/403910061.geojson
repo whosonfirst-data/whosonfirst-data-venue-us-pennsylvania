@@ -2,13 +2,14 @@
   "id": 403910061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.840373,40.234853,-76.840373,40.234853",
     "geom:latitude":40.234853,
     "geom:longitude":-76.840373,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"21 North Front Street",
     "sg:city":"Steelton",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85868485
+        85868485,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"9324423e7e3ab820050973f2c5c6bad0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85868485,
             "region_id":85688481,
             "venue_id":403910061
         }
     ],
     "wof:id":403910061,
-    "wof:lastmodified":1449055179,
+    "wof:lastmodified":1454357517,
     "wof:name":"El Sabor Latino Restaurant",
     "wof:parent_id":85868485,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "latin"
     ]
 },
-  "bbox": [-76.840373,40.234853,-76.840373,40.234853],
+  "bbox": [
+    -76.840373,
+    40.234853,
+    -76.840373,
+    40.234853
+],
   "geometry": {"coordinates":[-76.840373,40.234853],"type":"Point"}
 }

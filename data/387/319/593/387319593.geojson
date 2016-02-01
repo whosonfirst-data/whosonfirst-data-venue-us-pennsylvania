@@ -2,13 +2,14 @@
   "id": 387319593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.010788,40.455318,-80.010788,40.455318",
     "geom:latitude":40.455318,
     "geom:longitude":-80.010788,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1200 Palo Alto St",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85873561,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85873561
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"4000679928aa0e3512f6c9a12b2b3f9c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85873561,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387319593,
-    "wof:lastmodified":1449057657,
+    "wof:lastmodified":1454360548,
     "wof:name":"Sensus Metering",
     "wof:parent_id":85873561,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "meter"
     ]
 },
-  "bbox": [-80.010788,40.455318,-80.010788,40.455318],
-  "geometry": {"coordinates":[-80.010788,40.455318],"type":"Point"}
+  "bbox": [
+    -80.010788,
+    40.455318,
+    -80.010788,
+    40.455318
+],
+  "geometry": {"coordinates":[-80.01078800000001,40.455318],"type":"Point"}
 }

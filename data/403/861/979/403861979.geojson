@@ -2,13 +2,14 @@
   "id": 403861979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.840698,40.265099,-76.840698,40.265099",
     "geom:latitude":40.265099,
     "geom:longitude":-76.840698,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"501 S 29th St",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85868485
+        85868485,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"aee39ca96da9c3346e7680b54187b999",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85868485,
             "region_id":85688481,
             "venue_id":403861979
         }
     ],
     "wof:id":403861979,
-    "wof:lastmodified":1449055949,
+    "wof:lastmodified":1454357970,
     "wof:name":"Domino's Pizza",
     "wof:parent_id":85868485,
     "wof:placetype":"venue",
@@ -61,6 +60,11 @@
         "pizza"
     ]
 },
-  "bbox": [-76.840698,40.265099,-76.840698,40.265099],
+  "bbox": [
+    -76.840698,
+    40.265099,
+    -76.840698,
+    40.265099
+],
   "geometry": {"coordinates":[-76.840698,40.265099],"type":"Point"}
 }

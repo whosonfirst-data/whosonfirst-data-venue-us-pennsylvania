@@ -2,13 +2,14 @@
   "id": 403760595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.978798,40.2122,-76.978798,40.2122",
     "geom:latitude":40.2122,
     "geom:longitude":-76.978798,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5349 Oxford Dr",
     "sg:city":"Mechanicsburg",
     "sg:classifiers":[
@@ -28,7 +29,12 @@
     "sg:website":"www.morgan-properties.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420537701,
+        102191575,
+        404486411,
         85633793,
+        101716789,
+        102081359,
         85688481
     ],
     "wof:breaches":[],
@@ -39,18 +45,20 @@
     "wof:geomhash":"20ca13e8ae596fa62f8b30275efdf36b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081359,
+            "localadmin_id":404486411,
+            "locality_id":101716789,
+            "neighbourhood_id":420537701,
             "region_id":85688481,
             "venue_id":403760595
         }
     ],
     "wof:id":403760595,
-    "wof:lastmodified":1449055896,
+    "wof:lastmodified":1454357938,
     "wof:name":"Oxford Manor Apartments",
-    "wof:parent_id":-1,
+    "wof:parent_id":420537701,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -58,6 +66,11 @@
         "apartment"
     ]
 },
-  "bbox": [-76.978798,40.2122,-76.978798,40.2122],
+  "bbox": [
+    -76.978798,
+    40.2122,
+    -76.978798,
+    40.2122
+],
   "geometry": {"coordinates":[-76.978798,40.2122],"type":"Point"}
 }

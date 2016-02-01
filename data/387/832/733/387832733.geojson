@@ -2,13 +2,14 @@
   "id": 387832733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.139381,42.102081,-80.139381,42.102081",
     "geom:latitude":42.102081,
     "geom:longitude":-80.139381,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2630 W 12th St",
     "sg:city":"Erie",
     "sg:classifiers":[
@@ -50,8 +51,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080955,
-        85810495
+        85810495,
+        102080955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,17 +62,15 @@
     "wof:geomhash":"9b039ffebc55edecea2724b2beef8341",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080955,
-            "locality_id":-1,
             "neighbourhood_id":85810495,
             "region_id":85688481,
             "venue_id":387832733
         }
     ],
     "wof:id":387832733,
-    "wof:lastmodified":1449056131,
+    "wof:lastmodified":1454358106,
     "wof:name":"Robertson's Distributors",
     "wof:parent_id":85810495,
     "wof:placetype":"venue",
@@ -86,6 +85,11 @@
         "kitchen"
     ]
 },
-  "bbox": [-80.139381,42.102081,-80.139381,42.102081],
+  "bbox": [
+    -80.139381,
+    42.102081,
+    -80.139381,
+    42.102081
+],
   "geometry": {"coordinates":[-80.139381,42.102081],"type":"Point"}
 }

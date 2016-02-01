@@ -2,13 +2,14 @@
   "id": 387833147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.157538,42.102154,-80.157538,42.102154",
     "geom:latitude":42.102154,
     "geom:longitude":-80.157538,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"620 Oregon Ave",
     "sg:city":"Erie",
     "sg:classifiers":[
@@ -33,8 +34,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080955,
-        85815773
+        85815773,
+        102080955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +45,15 @@
     "wof:geomhash":"a043cf4bce872bddbbeacc750d73bf3a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080955,
-            "locality_id":-1,
             "neighbourhood_id":85815773,
             "region_id":85688481,
             "venue_id":387833147
         }
     ],
     "wof:id":387833147,
-    "wof:lastmodified":1449056597,
+    "wof:lastmodified":1454358469,
     "wof:name":"Sechez Paving",
     "wof:parent_id":85815773,
     "wof:placetype":"venue",
@@ -68,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.157538,42.102154,-80.157538,42.102154],
+  "bbox": [
+    -80.157538,
+    42.102154,
+    -80.157538,
+    42.102154
+],
   "geometry": {"coordinates":[-80.157538,42.102154],"type":"Point"}
 }

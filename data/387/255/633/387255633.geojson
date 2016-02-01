@@ -2,13 +2,14 @@
   "id": 387255633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.824514,40.332348,-79.824514,40.332348",
     "geom:latitude":40.332348,
     "geom:longitude":-79.824514,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"204 Marshall Dr",
     "sg:city":"Mckeesport",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85845081,
+        102191575,
+        404484971,
         85633793,
         101718847,
         102080887,
-        85845081
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"d32949081ceb468f7aa02e48518eba31",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484971,
             "locality_id":101718847,
             "neighbourhood_id":85845081,
             "region_id":85688481,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":387255633,
-    "wof:lastmodified":1449057834,
+    "wof:lastmodified":1454360609,
     "wof:name":"Blanche And Dewayne Wivagg Charitable Foundat, Th",
     "wof:parent_id":85845081,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "research"
     ]
 },
-  "bbox": [-79.824514,40.332348,-79.824514,40.332348],
-  "geometry": {"coordinates":[-79.824514,40.332348],"type":"Point"}
+  "bbox": [
+    -79.824514,
+    40.332348,
+    -79.824514,
+    40.332348
+],
+  "geometry": {"coordinates":[-79.82451399999999,40.332348],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387148621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.974535,40.602286,-79.974535,40.602286",
     "geom:latitude":40.602286,
     "geom:longitude":-79.974535,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2369 Willow Run Ct",
     "sg:city":"Gibsonia",
     "sg:classifiers":[
@@ -28,7 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420536325,
+        102191575,
+        404484173,
         85633793,
+        101720497,
+        102080887,
         85688481
     ],
     "wof:breaches":[],
@@ -39,18 +45,20 @@
     "wof:geomhash":"4e3caa0abd0341b9a8a3ba935815a74f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102080887,
+            "localadmin_id":404484173,
+            "locality_id":101720497,
+            "neighbourhood_id":420536325,
             "region_id":85688481,
             "venue_id":387148621
         }
     ],
     "wof:id":387148621,
-    "wof:lastmodified":1449059333,
+    "wof:lastmodified":1454361043,
     "wof:name":"Dr David Klein",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536325,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -59,6 +67,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-79.974535,40.602286,-79.974535,40.602286],
+  "bbox": [
+    -79.974535,
+    40.602286,
+    -79.974535,
+    40.602286
+],
   "geometry": {"coordinates":[-79.974535,40.602286],"type":"Point"}
 }

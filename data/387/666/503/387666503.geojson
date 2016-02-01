@@ -2,13 +2,14 @@
   "id": 387666503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.237003,41.511572,-78.237003,41.511572",
     "geom:latitude":41.511572,
     "geom:longitude":-78.237003,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"24 E 4th St Ste 102",
     "sg:city":"Emporium",
     "sg:classifiers":[
@@ -54,7 +55,6 @@
     "wof:geomhash":"352be37e7340239e8c5e6a8561f35861",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081363,
             "locality_id":101718559,
@@ -64,7 +64,7 @@
         }
     ],
     "wof:id":387666503,
-    "wof:lastmodified":1449057494,
+    "wof:lastmodified":1454359511,
     "wof:name":"H&R Block",
     "wof:parent_id":85868871,
     "wof:placetype":"venue",
@@ -81,6 +81,11 @@
         "bookkeeping"
     ]
 },
-  "bbox": [-78.237003,41.511572,-78.237003,41.511572],
+  "bbox": [
+    -78.237003,
+    41.511572,
+    -78.237003,
+    41.511572
+],
   "geometry": {"coordinates":[-78.237003,41.511572],"type":"Point"}
 }

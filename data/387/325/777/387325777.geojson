@@ -2,13 +2,14 @@
   "id": 387325777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.956239,40.456952,-79.956239,40.456952",
     "geom:latitude":40.456952,
     "geom:longitude":-79.956239,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"586 Blessing St",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85873567,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85873567
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"a93ec3947a25c93bd4928d3d3f527e86",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85873567,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387325777,
-    "wof:lastmodified":1449057601,
+    "wof:lastmodified":1454360526,
     "wof:name":"Windfall Foodscom",
     "wof:parent_id":85873567,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "towing"
     ]
 },
-  "bbox": [-79.956239,40.456952,-79.956239,40.456952],
+  "bbox": [
+    -79.956239,
+    40.456952,
+    -79.956239,
+    40.456952
+],
   "geometry": {"coordinates":[-79.956239,40.456952],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403968099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.976078,39.888842,-76.976078,39.888842",
     "geom:latitude":39.888842,
     "geom:longitude":-76.976078,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"7685 Lincoln Hwy",
     "sg:city":"Abbottstown",
     "sg:classifiers":[
@@ -54,7 +55,6 @@
     "wof:geomhash":"77abe6037f7f3218984cd91f855560a4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080953,
             "locality_id":101717245,
@@ -64,7 +64,7 @@
         }
     ],
     "wof:id":403968099,
-    "wof:lastmodified":1449054718,
+    "wof:lastmodified":1454357237,
     "wof:name":"Sun Auto Sales",
     "wof:parent_id":85834123,
     "wof:placetype":"venue",
@@ -82,6 +82,11 @@
         "cars-wholesale"
     ]
 },
-  "bbox": [-76.976078,39.888842,-76.976078,39.888842],
+  "bbox": [
+    -76.976078,
+    39.888842,
+    -76.976078,
+    39.888842
+],
   "geometry": {"coordinates":[-76.976078,39.888842],"type":"Point"}
 }

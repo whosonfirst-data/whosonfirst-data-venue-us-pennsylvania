@@ -2,13 +2,14 @@
   "id": 404092937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.308374,40.041215,-76.308374,40.041215",
     "geom:latitude":40.041215,
     "geom:longitude":-76.308374,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"221 N Prince St",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -45,8 +46,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85858805
+        85858805,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,17 +57,15 @@
     "wof:geomhash":"6a287b1751d467ad584f4c16cd634a29",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85858805,
             "region_id":85688481,
             "venue_id":404092937
         }
     ],
     "wof:id":404092937,
-    "wof:lastmodified":1449040070,
+    "wof:lastmodified":1454356990,
     "wof:name":"Empire Rentals",
     "wof:parent_id":85858805,
     "wof:placetype":"venue",
@@ -82,6 +81,11 @@
         "lease"
     ]
 },
-  "bbox": [-76.308374,40.041215,-76.308374,40.041215],
+  "bbox": [
+    -76.308374,
+    40.041215,
+    -76.308374,
+    40.041215
+],
   "geometry": {"coordinates":[-76.308374,40.041215],"type":"Point"}
 }

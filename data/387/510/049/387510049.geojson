@@ -2,13 +2,14 @@
   "id": 387510049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.884156,40.487356,-79.884156,40.487356",
     "geom:latitude":40.487356,
     "geom:longitude":-79.884156,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1050 Freeport Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -34,10 +35,13 @@
     "sg:website":"http://www.MrTire.com/yp",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85830655,
+        102191575,
+        404484931,
         85633793,
+        101718683,
         102080887,
-        85830655
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +51,18 @@
     "wof:geomhash":"98aa70e48dfc2ee4d2909ed5a7e78a3f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
+            "localadmin_id":404484931,
+            "locality_id":101718683,
             "neighbourhood_id":85830655,
             "region_id":85688481,
             "venue_id":387510049
         }
     ],
     "wof:id":387510049,
-    "wof:lastmodified":1449058393,
+    "wof:lastmodified":1454360769,
     "wof:name":"Mr. Tire Auto Service Centers",
     "wof:parent_id":85830655,
     "wof:placetype":"venue",
@@ -68,6 +73,11 @@
         "tire"
     ]
 },
-  "bbox": [-79.884156,40.487356,-79.884156,40.487356],
+  "bbox": [
+    -79.884156,
+    40.487356,
+    -79.884156,
+    40.487356
+],
   "geometry": {"coordinates":[-79.884156,40.487356],"type":"Point"}
 }

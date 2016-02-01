@@ -2,13 +2,14 @@
   "id": 387390415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.04656,40.42017,-80.04656,40.42017",
     "geom:latitude":40.42017,
     "geom:longitude":-80.04656,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"954 Greentree Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -74,10 +75,13 @@
     "sg:website":"www.kinkos.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85804395,
+        102191575,
+        404482523,
         85633793,
+        101718805,
         102080887,
-        85804395
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -87,17 +91,18 @@
     "wof:geomhash":"e1990fbd99c337de3e589854e1cff591",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
+            "localadmin_id":404482523,
+            "locality_id":101718805,
             "neighbourhood_id":85804395,
             "region_id":85688481,
             "venue_id":387390415
         }
     ],
     "wof:id":387390415,
-    "wof:lastmodified":1449059960,
+    "wof:lastmodified":1454361244,
     "wof:name":"Fedex Office Print & Ship Center",
     "wof:parent_id":85804395,
     "wof:placetype":"venue",
@@ -118,6 +123,11 @@
         "copy"
     ]
 },
-  "bbox": [-80.04656,40.42017,-80.04656,40.42017],
+  "bbox": [
+    -80.04656,
+    40.42017,
+    -80.04656,
+    40.42017
+],
   "geometry": {"coordinates":[-80.04656,40.42017],"type":"Point"}
 }

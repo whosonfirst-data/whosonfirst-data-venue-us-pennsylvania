@@ -2,13 +2,14 @@
   "id": 404033813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.78447,39.952606,-76.78447,39.952606",
     "geom:latitude":39.952606,
     "geom:longitude":-76.78447,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"380 E Berlin Rd",
     "sg:city":"York",
     "sg:classifiers":[
@@ -27,7 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420540379,
+        102191575,
+        404487953,
         85633793,
+        101719479,
+        102080953,
         85688481
     ],
     "wof:breaches":[],
@@ -38,18 +44,20 @@
     "wof:geomhash":"8ef12ed56ec9083342ab23f09ba1e140",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102080953,
+            "localadmin_id":404487953,
+            "locality_id":101719479,
+            "neighbourhood_id":420540379,
             "region_id":85688481,
             "venue_id":404033813
         }
     ],
     "wof:id":404033813,
-    "wof:lastmodified":1449039304,
+    "wof:lastmodified":1454356558,
     "wof:name":"West Manchester Twp Fire & Emergency Services",
-    "wof:parent_id":-1,
+    "wof:parent_id":420540379,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +65,11 @@
         "department"
     ]
 },
-  "bbox": [-76.78447,39.952606,-76.78447,39.952606],
+  "bbox": [
+    -76.78447,
+    39.952606,
+    -76.78447,
+    39.952606
+],
   "geometry": {"coordinates":[-76.78447,39.952606],"type":"Point"}
 }

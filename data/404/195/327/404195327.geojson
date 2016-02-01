@@ -2,13 +2,14 @@
   "id": 404195327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.349069,40.656276,-75.349069,40.656276",
     "geom:latitude":40.656276,
     "geom:longitude":-75.349069,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3005 East Blvd",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     "sg:website":"http://allstarautoglasspa.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85834019,
+        102191575,
+        404485987,
         85633793,
-        101719937,
+        101717907,
         102081395,
-        85834019
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +47,18 @@
     "wof:geomhash":"ac8a62dada087af38b60d1fa9f379564",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081395,
-            "locality_id":101719937,
+            "localadmin_id":404485987,
+            "locality_id":101717907,
             "neighbourhood_id":85834019,
             "region_id":85688481,
             "venue_id":404195327
         }
     ],
     "wof:id":404195327,
-    "wof:lastmodified":1449039923,
+    "wof:lastmodified":1454356894,
     "wof:name":"All Star Auto Glass",
     "wof:parent_id":85834019,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "glass-auto"
     ]
 },
-  "bbox": [-75.349069,40.656276,-75.349069,40.656276],
+  "bbox": [
+    -75.349069,
+    40.656276,
+    -75.349069,
+    40.656276
+],
   "geometry": {"coordinates":[-75.349069,40.656276],"type":"Point"}
 }

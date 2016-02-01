@@ -2,13 +2,14 @@
   "id": 387551803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.132119,40.263281,-80.132119,40.263281",
     "geom:latitude":40.263281,
     "geom:longitude":-80.132119,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4225 Washington Rd",
     "sg:city":"Canonsburg",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081343,
-        85814861
+        85814861,
+        102081343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"bfff6cf64ad9023015fb709367f73f3d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081343,
-            "locality_id":-1,
             "neighbourhood_id":85814861,
             "region_id":85688481,
             "venue_id":387551803
         }
     ],
     "wof:id":387551803,
-    "wof:lastmodified":1449056864,
+    "wof:lastmodified":1454358663,
     "wof:name":"Dance by Cami",
     "wof:parent_id":85814861,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "performing"
     ]
 },
-  "bbox": [-80.132119,40.263281,-80.132119,40.263281],
+  "bbox": [
+    -80.132119,
+    40.263281,
+    -80.132119,
+    40.263281
+],
   "geometry": {"coordinates":[-80.132119,40.263281],"type":"Point"}
 }

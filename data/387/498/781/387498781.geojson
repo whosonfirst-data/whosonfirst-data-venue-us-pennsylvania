@@ -2,13 +2,14 @@
   "id": 387498781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.004758,40.540767,-80.004758,40.540767",
     "geom:latitude":40.540767,
     "geom:longitude":-80.004758,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"544 Woodland Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85805835
+        85805835,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"73627cb68e1f4e3cb3c1d98050f69680",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85805835,
             "region_id":85688481,
             "venue_id":387498781
         }
     ],
     "wof:id":387498781,
-    "wof:lastmodified":1449058988,
+    "wof:lastmodified":1454360949,
     "wof:name":"Notary Dame Signing Services L",
     "wof:parent_id":85805835,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "signs-maintenance"
     ]
 },
-  "bbox": [-80.004758,40.540767,-80.004758,40.540767],
+  "bbox": [
+    -80.004758,
+    40.540767,
+    -80.004758,
+    40.540767
+],
   "geometry": {"coordinates":[-80.004758,40.540767],"type":"Point"}
 }

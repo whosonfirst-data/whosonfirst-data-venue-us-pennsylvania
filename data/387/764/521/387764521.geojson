@@ -2,13 +2,14 @@
   "id": 387764521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.449318,41.230068,-80.449318,41.230068",
     "geom:latitude":41.230068,
     "geom:longitude":-80.449318,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3300 Shenango Valley Fwy",
     "sg:city":"Hermitage",
     "sg:classifiers":[
@@ -43,11 +44,13 @@
     "sg:website":"http://www.walmart.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85824773,
+        102191575,
+        404487983,
         85633793,
         101718107,
         102080965,
-        85824773
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,9 +60,10 @@
     "wof:geomhash":"426b0a5e4b4c1a2c08184d9e52aa4b30",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080965,
+            "localadmin_id":404487983,
             "locality_id":101718107,
             "neighbourhood_id":85824773,
             "region_id":85688481,
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":387764521,
-    "wof:lastmodified":1449059740,
+    "wof:lastmodified":1454361177,
     "wof:name":"Wal-Mart Discount Cities",
     "wof:parent_id":85824773,
     "wof:placetype":"venue",
@@ -77,6 +81,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-80.449318,41.230068,-80.449318,41.230068],
-  "geometry": {"coordinates":[-80.449318,41.230068],"type":"Point"}
+  "bbox": [
+    -80.449318,
+    41.230068,
+    -80.449318,
+    41.230068
+],
+  "geometry": {"coordinates":[-80.44931800000001,41.230068],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387137341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.368701,40.54304,-80.368701,40.54304",
     "geom:latitude":40.54304,
     "geom:longitude":-80.368701,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"120 Colonial Dr",
     "sg:city":"Clinton",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85836049
+        85836049,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"7d3d83b47c477f2fe72ac3934e55f0a9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85836049,
             "region_id":85688481,
             "venue_id":387137341
         }
     ],
     "wof:id":387137341,
-    "wof:lastmodified":1449059401,
+    "wof:lastmodified":1454361070,
     "wof:name":"Buds Maintenance Of The Pa",
     "wof:parent_id":85836049,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "cleaners-interior"
     ]
 },
-  "bbox": [-80.368701,40.54304,-80.368701,40.54304],
+  "bbox": [
+    -80.368701,
+    40.54304,
+    -80.368701,
+    40.54304
+],
   "geometry": {"coordinates":[-80.368701,40.54304],"type":"Point"}
 }

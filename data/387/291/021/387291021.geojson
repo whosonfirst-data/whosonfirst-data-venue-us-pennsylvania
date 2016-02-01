@@ -2,13 +2,14 @@
   "id": 387291021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.065804,40.4333,-80.065804,40.4333",
     "geom:latitude":40.4333,
     "geom:longitude":-80.065804,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"101 Bradford Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536243,
+        102191575,
+        404482523,
         85633793,
-        101718739,
-        102080887
+        101718805,
+        102080887,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"515c61801cd9c0622ac14968102270a8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":101718739,
-            "neighbourhood_id":-1,
+            "localadmin_id":404482523,
+            "locality_id":101718805,
+            "neighbourhood_id":420536243,
             "region_id":85688481,
             "venue_id":387291021
         }
     ],
     "wof:id":387291021,
-    "wof:lastmodified":1449057273,
+    "wof:lastmodified":1454358981,
     "wof:name":"Rackley Eric DMD",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536243,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.065804,40.4333,-80.065804,40.4333],
+  "bbox": [
+    -80.065804,
+    40.4333,
+    -80.065804,
+    40.4333
+],
   "geometry": {"coordinates":[-80.065804,40.4333],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403908185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.840107,40.23905,-76.840107,40.23905",
     "geom:latitude":40.23905,
     "geom:longitude":-76.840107,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"186 N Harrisburg St",
     "sg:city":"Oberlin",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85868485
+        85868485,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"89487a9700289b3b85cbba0fefde3e84",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85868485,
             "region_id":85688481,
             "venue_id":403908185
         }
     ],
     "wof:id":403908185,
-    "wof:lastmodified":1449055392,
+    "wof:lastmodified":1454357646,
     "wof:name":"Derr S Express Cleaning",
     "wof:parent_id":85868485,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "house"
     ]
 },
-  "bbox": [-76.840107,40.23905,-76.840107,40.23905],
+  "bbox": [
+    -76.840107,
+    40.23905,
+    -76.840107,
+    40.23905
+],
   "geometry": {"coordinates":[-76.840107,40.23905],"type":"Point"}
 }

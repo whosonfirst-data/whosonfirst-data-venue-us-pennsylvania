@@ -2,13 +2,14 @@
   "id": 387828245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.078845,42.115098,-80.078845,42.115098",
     "geom:latitude":42.115098,
     "geom:longitude":-80.078845,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"148 W 21st St",
     "sg:city":"Erie",
     "sg:classifiers":[
@@ -25,11 +26,13 @@
     "sg:website":"http://www.iu5.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85822031,
+        102191575,
+        404486673,
         85633793,
         101718253,
         102080955,
-        85822031
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +42,10 @@
     "wof:geomhash":"ec17d9d6fa9bd874ab020e554ba8ca37",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080955,
+            "localadmin_id":404486673,
             "locality_id":101718253,
             "neighbourhood_id":85822031,
             "region_id":85688481,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":387828245,
-    "wof:lastmodified":1449058038,
+    "wof:lastmodified":1454360664,
     "wof:name":"School District Of The City Of Erie (Inc)",
     "wof:parent_id":85822031,
     "wof:placetype":"venue",
@@ -57,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.078845,42.115098,-80.078845,42.115098],
+  "bbox": [
+    -80.078845,
+    42.115098,
+    -80.078845,
+    42.115098
+],
   "geometry": {"coordinates":[-80.078845,42.115098],"type":"Point"}
 }

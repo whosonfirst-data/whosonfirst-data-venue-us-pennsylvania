@@ -2,13 +2,14 @@
   "id": 387773675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.548383,40.825793,-79.548383,40.825793",
     "geom:latitude":40.825793,
     "geom:longitude":-79.548383,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"165 Butler Rd",
     "sg:city":"Kittanning",
     "sg:classifiers":[
@@ -70,7 +71,12 @@
     "sg:website":"http://www.riteaid.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420536487,
+        102191575,
+        404484271,
         85633793,
+        101720291,
+        102081371,
         85688481
     ],
     "wof:breaches":[],
@@ -81,18 +87,20 @@
     "wof:geomhash":"9145b4f4346b7b316cc9af4089633301",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081371,
+            "localadmin_id":404484271,
+            "locality_id":101720291,
+            "neighbourhood_id":420536487,
             "region_id":85688481,
             "venue_id":387773675
         }
     ],
     "wof:id":387773675,
-    "wof:lastmodified":1449056590,
+    "wof:lastmodified":1454358464,
     "wof:name":"Rite Aid",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536487,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -112,6 +120,11 @@
         "first"
     ]
 },
-  "bbox": [-79.548383,40.825793,-79.548383,40.825793],
+  "bbox": [
+    -79.548383,
+    40.825793,
+    -79.548383,
+    40.825793
+],
   "geometry": {"coordinates":[-79.548383,40.825793],"type":"Point"}
 }

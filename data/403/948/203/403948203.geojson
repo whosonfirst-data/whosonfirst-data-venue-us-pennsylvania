@@ -2,13 +2,14 @@
   "id": 403948203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.17956,39.75011,-78.17956,39.75011",
     "geom:latitude":39.75011,
     "geom:longitude":-78.17956,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"283 Pigeon Cove Rd",
     "sg:city":"Warfordsburg",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081273,
-        85814735
+        85814735,
+        102081273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"c20a3b7ada8fa0805e45c1468f7bdd03",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081273,
-            "locality_id":-1,
             "neighbourhood_id":85814735,
             "region_id":85688481,
             "venue_id":403948203
         }
     ],
     "wof:id":403948203,
-    "wof:lastmodified":1449055684,
+    "wof:lastmodified":1454357818,
     "wof:name":"Township Of Bethel",
     "wof:parent_id":85814735,
     "wof:placetype":"venue",
@@ -64,6 +63,11 @@
         "village"
     ]
 },
-  "bbox": [-78.17956,39.75011,-78.17956,39.75011],
+  "bbox": [
+    -78.17956,
+    39.75011,
+    -78.17956,
+    39.75011
+],
   "geometry": {"coordinates":[-78.17956,39.75011],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387715859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.055099,40.688999,-80.055099,40.688999",
     "geom:latitude":40.688999,
     "geom:longitude":-80.055099,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"101 Highpointe Blvd",
     "sg:city":"Seven Fields",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102083677,
-        85852141
+        85852141,
+        102083677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"8420268f17c4afb424214786bf0ca91d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102083677,
-            "locality_id":-1,
             "neighbourhood_id":85852141,
             "region_id":85688481,
             "venue_id":387715859
         }
     ],
     "wof:id":387715859,
-    "wof:lastmodified":1449059150,
+    "wof:lastmodified":1454360998,
     "wof:name":"Charleroi Federal Savings Bank",
     "wof:parent_id":85852141,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-80.055099,40.688999,-80.055099,40.688999],
+  "bbox": [
+    -80.055099,
+    40.688999,
+    -80.055099,
+    40.688999
+],
   "geometry": {"coordinates":[-80.055099,40.688999],"type":"Point"}
 }

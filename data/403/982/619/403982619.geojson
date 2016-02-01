@@ -2,13 +2,14 @@
   "id": 403982619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.242305,39.881657,-77.242305,39.881657",
     "geom:latitude":39.881657,
     "geom:longitude":-77.242305,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"30 White Oak Trl",
     "sg:city":"Gettysburg",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080899,
-        85822177
+        85822177,
+        102080899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"c3c5e12b80872e9dcc85ac10a6f0a7cb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080899,
-            "locality_id":-1,
             "neighbourhood_id":85822177,
             "region_id":85688481,
             "venue_id":403982619
         }
     ],
     "wof:id":403982619,
-    "wof:lastmodified":1449054858,
+    "wof:lastmodified":1454357329,
     "wof:name":"Joseph C Jones Dr",
     "wof:parent_id":85822177,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-77.242305,39.881657,-77.242305,39.881657],
+  "bbox": [
+    -77.242305,
+    39.881657,
+    -77.242305,
+    39.881657
+],
   "geometry": {"coordinates":[-77.242305,39.881657],"type":"Point"}
 }

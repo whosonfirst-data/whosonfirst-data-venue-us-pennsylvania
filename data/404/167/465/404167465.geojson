@@ -2,13 +2,14 @@
   "id": 404167465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.391296,40.608299,-75.391296,40.608299",
     "geom:latitude":40.608299,
     "geom:longitude":-75.391296,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"735 Delaware Ave",
     "sg:city":"Fountain Hill",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85897253,
+        102191575,
+        404488067,
         85633793,
         101717913,
         102081327,
-        85897253
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"95df7c231a60fda6c4b80be82306a100",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081327,
+            "localadmin_id":404488067,
             "locality_id":101717913,
             "neighbourhood_id":85897253,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":404167465,
-    "wof:lastmodified":1449039726,
+    "wof:lastmodified":1454356770,
     "wof:name":"Haytmanek Craig T MD",
     "wof:parent_id":85897253,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "nose"
     ]
 },
-  "bbox": [-75.391296,40.608299,-75.391296,40.608299],
+  "bbox": [
+    -75.391296,
+    40.608299,
+    -75.391296,
+    40.608299
+],
   "geometry": {"coordinates":[-75.391296,40.608299],"type":"Point"}
 }

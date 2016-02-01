@@ -2,13 +2,14 @@
   "id": 387338141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.921528,40.438088,-79.921528,40.438088",
     "geom:latitude":40.438088,
     "geom:longitude":-79.921528,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5840 Forbes Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     "sg:website":"http://www.coffeetree.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85873579,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85873579
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"0e10ca1d02e57d073869f2d9661e38dc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85873579,
             "region_id":85688481,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":387338141,
-    "wof:lastmodified":1449057409,
+    "wof:lastmodified":1454359108,
     "wof:name":"Coffee Tree Roasters",
     "wof:parent_id":85873579,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "restaurant"
     ]
 },
-  "bbox": [-79.921528,40.438088,-79.921528,40.438088],
+  "bbox": [
+    -79.921528,
+    40.438088,
+    -79.921528,
+    40.438088
+],
   "geometry": {"coordinates":[-79.921528,40.438088],"type":"Point"}
 }

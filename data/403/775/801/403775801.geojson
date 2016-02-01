@@ -2,13 +2,14 @@
   "id": 403775801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.39709,40.571394,-77.39709,40.571394",
     "geom:latitude":40.571394,
     "geom:longitude":-77.39709,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"102 N Main St",
     "sg:city":"Mifflintown",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081367,
-        85835649
+        85835649,
+        102081367
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"0d82c97d3279170eee4c839bd568aee1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081367,
-            "locality_id":-1,
             "neighbourhood_id":85835649,
             "region_id":85688481,
             "venue_id":403775801
         }
     ],
     "wof:id":403775801,
-    "wof:lastmodified":1449055598,
+    "wof:lastmodified":1454357771,
     "wof:name":"Harlings Hoagie Shop",
     "wof:parent_id":85835649,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "sandwich"
     ]
 },
-  "bbox": [-77.39709,40.571394,-77.39709,40.571394],
-  "geometry": {"coordinates":[-77.39709,40.571394],"type":"Point"}
+  "bbox": [
+    -77.39709,
+    40.571394,
+    -77.39709,
+    40.571394
+],
+  "geometry": {"coordinates":[-77.39709000000001,40.571394],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404018255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.658389,39.959527,-76.658389,39.959527",
     "geom:latitude":39.959527,
     "geom:longitude":-76.658389,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2925 E Prospect Rd",
     "sg:city":"York",
     "sg:classifiers":[
@@ -43,8 +44,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080953,
-        85852249
+        85852249,
+        102080953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,17 +55,15 @@
     "wof:geomhash":"0400feea53a68241fa2a2d301751dc85",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
             "neighbourhood_id":85852249,
             "region_id":85688481,
             "venue_id":404018255
         }
     ],
     "wof:id":404018255,
-    "wof:lastmodified":1449039691,
+    "wof:lastmodified":1454356759,
     "wof:name":"Flower World",
     "wof:parent_id":85852249,
     "wof:placetype":"venue",
@@ -77,6 +76,11 @@
         "wedding"
     ]
 },
-  "bbox": [-76.658389,39.959527,-76.658389,39.959527],
+  "bbox": [
+    -76.658389,
+    39.959527,
+    -76.658389,
+    39.959527
+],
   "geometry": {"coordinates":[-76.658389,39.959527],"type":"Point"}
 }

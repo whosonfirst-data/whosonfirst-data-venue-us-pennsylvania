@@ -2,13 +2,14 @@
   "id": 387849911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.40271,40.476814,-78.40271,40.476814",
     "geom:latitude":40.476814,
     "geom:longitude":-78.40271,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"801 Logan Blvd",
     "sg:city":"Altoona",
     "sg:classifiers":[
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85831085,
+        102191575,
+        404484717,
         85633793,
+        101718879,
         102081325,
-        85831085
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +51,18 @@
     "wof:geomhash":"ec42b14e730f47050be95a3553d815f5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081325,
-            "locality_id":-1,
+            "localadmin_id":404484717,
+            "locality_id":101718879,
             "neighbourhood_id":85831085,
             "region_id":85688481,
             "venue_id":387849911
         }
     ],
     "wof:id":387849911,
-    "wof:lastmodified":1449056800,
+    "wof:lastmodified":1454358622,
     "wof:name":"Cambria Medical Supply",
     "wof:parent_id":85831085,
     "wof:placetype":"venue",
@@ -69,6 +74,11 @@
         "care"
     ]
 },
-  "bbox": [-78.40271,40.476814,-78.40271,40.476814],
+  "bbox": [
+    -78.40271,
+    40.476814,
+    -78.40271,
+    40.476814
+],
   "geometry": {"coordinates":[-78.40271,40.476814],"type":"Point"}
 }

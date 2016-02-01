@@ -2,13 +2,14 @@
   "id": 387391645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.04301,40.424314,-80.04301,40.424314",
     "geom:latitude":40.424314,
     "geom:longitude":-80.04301,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"875 Greentree Rd Ste 1",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -38,11 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85873597,
+        102191575,
+        404482523,
         85633793,
-        101718673,
+        101718805,
         102080887,
-        85873597
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,17 +55,18 @@
     "wof:geomhash":"61d7f157f17b6507cdc378c26b473251",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":101718673,
+            "localadmin_id":404482523,
+            "locality_id":101718805,
             "neighbourhood_id":85873597,
             "region_id":85688481,
             "venue_id":387391645
         }
     ],
     "wof:id":387391645,
-    "wof:lastmodified":1449058543,
+    "wof:lastmodified":1454360808,
     "wof:name":"Crafton Children's Corner Greentree",
     "wof:parent_id":85873597,
     "wof:placetype":"venue",
@@ -73,6 +77,11 @@
         "day"
     ]
 },
-  "bbox": [-80.04301,40.424314,-80.04301,40.424314],
+  "bbox": [
+    -80.04301,
+    40.424314,
+    -80.04301,
+    40.424314
+],
   "geometry": {"coordinates":[-80.04301,40.424314],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387231603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.086786,40.407388,-80.086786,40.407388",
     "geom:latitude":40.407388,
     "geom:longitude":-80.086786,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"38 E Main St",
     "sg:city":"Carnegie",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85821875,
+        102191575,
+        404484865,
         85633793,
         101718775,
         102080887,
-        85821875
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"ef37e881058690f66d69bdc06c7cb722",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484865,
             "locality_id":101718775,
             "neighbourhood_id":85821875,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387231603,
-    "wof:lastmodified":1449058054,
+    "wof:lastmodified":1454360670,
     "wof:name":"Bandana's Pizza & Sandwich Co",
     "wof:parent_id":85821875,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "pizza"
     ]
 },
-  "bbox": [-80.086786,40.407388,-80.086786,40.407388],
+  "bbox": [
+    -80.086786,
+    40.407388,
+    -80.086786,
+    40.407388
+],
   "geometry": {"coordinates":[-80.086786,40.407388],"type":"Point"}
 }

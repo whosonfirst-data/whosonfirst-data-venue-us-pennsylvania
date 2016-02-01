@@ -2,13 +2,14 @@
   "id": 404111435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.747467,41.327141,-77.747467,41.327141",
     "geom:latitude":41.327141,
     "geom:longitude":-77.747467,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1100 Huron Ave",
     "sg:city":"Renovo",
     "sg:classifiers":[
@@ -37,8 +38,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080917,
-        85826685
+        85826685,
+        102080917
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +49,15 @@
     "wof:geomhash":"70d2b3328e4e3064070293d4c2e9780b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080917,
-            "locality_id":-1,
             "neighbourhood_id":85826685,
             "region_id":85688481,
             "venue_id":404111435
         }
     ],
     "wof:id":404111435,
-    "wof:lastmodified":1449040353,
+    "wof:lastmodified":1454357157,
     "wof:name":"Zion's Evangelical Lutheran Church",
     "wof:parent_id":85826685,
     "wof:placetype":"venue",
@@ -71,6 +70,11 @@
         "churches-lutheran-evangelical"
     ]
 },
-  "bbox": [-77.747467,41.327141,-77.747467,41.327141],
+  "bbox": [
+    -77.747467,
+    41.327141,
+    -77.747467,
+    41.327141
+],
   "geometry": {"coordinates":[-77.747467,41.327141],"type":"Point"}
 }

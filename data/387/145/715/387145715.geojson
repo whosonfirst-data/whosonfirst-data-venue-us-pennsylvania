@@ -2,13 +2,14 @@
   "id": 387145715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.174611,40.674955,-80.174611,40.674955",
     "geom:latitude":40.674955,
     "geom:longitude":-80.174611,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1060 Freedom Crider Rd",
     "sg:city":"Freedom",
     "sg:classifiers":[
@@ -42,8 +43,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081323,
-        85831529
+        85831529,
+        102081323
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,17 +54,15 @@
     "wof:geomhash":"25dab212ec965140e30efa196b0fd8d9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081323,
-            "locality_id":-1,
             "neighbourhood_id":85831529,
             "region_id":85688481,
             "venue_id":387145715
         }
     ],
     "wof:id":387145715,
-    "wof:lastmodified":1449057261,
+    "wof:lastmodified":1454358972,
     "wof:name":"Steel City Marine Transport, Inc",
     "wof:parent_id":85831529,
     "wof:placetype":"venue",
@@ -76,6 +75,11 @@
         "trucking"
     ]
 },
-  "bbox": [-80.174611,40.674955,-80.174611,40.674955],
+  "bbox": [
+    -80.174611,
+    40.674955,
+    -80.174611,
+    40.674955
+],
   "geometry": {"coordinates":[-80.174611,40.674955],"type":"Point"}
 }

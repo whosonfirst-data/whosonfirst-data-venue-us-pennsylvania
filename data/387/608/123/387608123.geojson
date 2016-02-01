@@ -2,13 +2,14 @@
   "id": 387608123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.503306,39.951341,-78.503306,39.951341",
     "geom:latitude":39.951341,
     "geom:longitude":-78.503306,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"223 Egolf Rd",
     "sg:city":"Bedford",
     "sg:classifiers":[
@@ -32,8 +33,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080939,
-        85805211
+        85805211,
+        102080939
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +44,15 @@
     "wof:geomhash":"0a0462065fa702104c2ad1b4e6ecd7d4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080939,
-            "locality_id":-1,
             "neighbourhood_id":85805211,
             "region_id":85688481,
             "venue_id":387608123
         }
     ],
     "wof:id":387608123,
-    "wof:lastmodified":1449057735,
+    "wof:lastmodified":1454360576,
     "wof:name":"Friends Cove Garage & Body Shop",
     "wof:parent_id":85805211,
     "wof:placetype":"venue",
@@ -66,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-78.503306,39.951341,-78.503306,39.951341],
-  "geometry": {"coordinates":[-78.503306,39.951341],"type":"Point"}
+  "bbox": [
+    -78.503306,
+    39.951341,
+    -78.503306,
+    39.951341
+],
+  "geometry": {"coordinates":[-78.50330599999999,39.951341],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387171325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.927461,40.203714,-79.927461,40.203714",
     "geom:latitude":40.203714,
     "geom:longitude":-79.927461,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"446 W Main St",
     "sg:city":"Monongahela",
     "sg:classifiers":[
@@ -64,10 +65,13 @@
     "sg:website":"http://www.riteaid.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420539901,
+        102191575,
+        404487805,
         85633793,
         101718465,
-        102081343
+        102081343,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,19 +81,20 @@
     "wof:geomhash":"8ded3349b551a77c69852cc214a00542",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081343,
+            "localadmin_id":404487805,
             "locality_id":101718465,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420539901,
             "region_id":85688481,
             "venue_id":387171325
         }
     ],
     "wof:id":387171325,
-    "wof:lastmodified":1449059934,
+    "wof:lastmodified":1454361237,
     "wof:name":"Rite Aid",
-    "wof:parent_id":-1,
+    "wof:parent_id":420539901,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -108,6 +113,11 @@
         "greeting"
     ]
 },
-  "bbox": [-79.927461,40.203714,-79.927461,40.203714],
-  "geometry": {"coordinates":[-79.927461,40.203714],"type":"Point"}
+  "bbox": [
+    -79.927461,
+    40.203714,
+    -79.927461,
+    40.203714
+],
+  "geometry": {"coordinates":[-79.92746099999999,40.203714],"type":"Point"}
 }

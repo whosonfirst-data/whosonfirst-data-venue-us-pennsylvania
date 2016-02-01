@@ -2,13 +2,14 @@
   "id": 387697601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.92382,40.907261,-79.92382,40.907261",
     "geom:latitude":40.907261,
     "geom:longitude":-79.92382,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1734 N Main Street Ext",
     "sg:city":"Butler",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536957,
+        102191575,
+        404485061,
         85633793,
         101720155,
-        102083677
+        102083677,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"96934e8c6cc496e8dcabc72e675e0f88",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083677,
+            "localadmin_id":404485061,
             "locality_id":101720155,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420536957,
             "region_id":85688481,
             "venue_id":387697601
         }
     ],
     "wof:id":387697601,
-    "wof:lastmodified":1449058508,
+    "wof:lastmodified":1454360801,
     "wof:name":"Opie's Pizza",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536957,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "pizza"
     ]
 },
-  "bbox": [-79.92382,40.907261,-79.92382,40.907261],
-  "geometry": {"coordinates":[-79.92382,40.907261],"type":"Point"}
+  "bbox": [
+    -79.92382,
+    40.907261,
+    -79.92382,
+    40.907261
+],
+  "geometry": {"coordinates":[-79.92382000000001,40.907261],"type":"Point"}
 }

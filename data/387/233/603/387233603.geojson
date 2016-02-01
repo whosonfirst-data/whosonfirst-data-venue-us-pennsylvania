@@ -2,13 +2,14 @@
   "id": 387233603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.082492,40.410166,-80.082492,40.410166",
     "geom:latitude":40.410166,
     "geom:longitude":-80.082492,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"401 E Main St",
     "sg:city":"Carnegie",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85816087,
+        102191575,
+        404484941,
         85633793,
         101718673,
         102080887,
-        85816087
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"da599a53b248ff9998ea37e0babe4a1e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484941,
             "locality_id":101718673,
             "neighbourhood_id":85816087,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387233603,
-    "wof:lastmodified":1449059986,
+    "wof:lastmodified":1454361254,
     "wof:name":"Raya's Pizzeria",
     "wof:parent_id":85816087,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "italian"
     ]
 },
-  "bbox": [-80.082492,40.410166,-80.082492,40.410166],
+  "bbox": [
+    -80.082492,
+    40.410166,
+    -80.082492,
+    40.410166
+],
   "geometry": {"coordinates":[-80.082492,40.410166],"type":"Point"}
 }

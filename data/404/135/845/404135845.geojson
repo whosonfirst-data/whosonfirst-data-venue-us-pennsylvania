@@ -2,13 +2,14 @@
   "id": 404135845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.775452,41.027821,-76.775452,41.027821",
     "geom:latitude":41.027821,
     "geom:longitude":-76.775452,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4590 Broadway Rd",
     "sg:city":"Milton",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081349,
-        85837713
+        85837713,
+        102081349
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"417060acc772433f9e3e3a16f59c22b2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081349,
-            "locality_id":-1,
             "neighbourhood_id":85837713,
             "region_id":85688481,
             "venue_id":404135845
         }
     ],
     "wof:id":404135845,
-    "wof:lastmodified":1449039491,
+    "wof:lastmodified":1454356678,
     "wof:name":"H B Fleming Inc",
     "wof:parent_id":85837713,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "truck"
     ]
 },
-  "bbox": [-76.775452,41.027821,-76.775452,41.027821],
+  "bbox": [
+    -76.775452,
+    41.027821,
+    -76.775452,
+    41.027821
+],
   "geometry": {"coordinates":[-76.775452,41.027821],"type":"Point"}
 }

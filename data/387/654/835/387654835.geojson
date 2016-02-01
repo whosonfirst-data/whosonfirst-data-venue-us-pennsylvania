@@ -2,13 +2,14 @@
   "id": 387654835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.168257,40.622324,-79.168257,40.622324",
     "geom:latitude":40.622324,
     "geom:longitude":-79.168257,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"55 S 14th St",
     "sg:city":"Indiana",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081387,
-        85821437
+        85821437,
+        102081387
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"fa4c14e7ba57c68127c586acde2c6c71",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081387,
-            "locality_id":-1,
             "neighbourhood_id":85821437,
             "region_id":85688481,
             "venue_id":387654835
         }
     ],
     "wof:id":387654835,
-    "wof:lastmodified":1449057373,
+    "wof:lastmodified":1454359064,
     "wof:name":"Tel A Story",
     "wof:parent_id":85821437,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "religious"
     ]
 },
-  "bbox": [-79.168257,40.622324,-79.168257,40.622324],
+  "bbox": [
+    -79.168257,
+    40.622324,
+    -79.168257,
+    40.622324
+],
   "geometry": {"coordinates":[-79.168257,40.622324],"type":"Point"}
 }

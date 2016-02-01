@@ -2,13 +2,14 @@
   "id": 387339843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.893917,40.432671,-79.893917,40.432671",
     "geom:latitude":40.432671,
     "geom:longitude":-79.893917,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1119 S Braddock Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85844235,
+        102191575,
+        404484253,
         85633793,
         101718701,
         102080887,
-        85844235
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"a23dbc2ac1cd3d156d40ca67e7b93262",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484253,
             "locality_id":101718701,
             "neighbourhood_id":85844235,
             "region_id":85688481,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":387339843,
-    "wof:lastmodified":1449057803,
+    "wof:lastmodified":1454360600,
     "wof:name":"Hepatica",
     "wof:parent_id":85844235,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "shop"
     ]
 },
-  "bbox": [-79.893917,40.432671,-79.893917,40.432671],
+  "bbox": [
+    -79.893917,
+    40.432671,
+    -79.893917,
+    40.432671
+],
   "geometry": {"coordinates":[-79.893917,40.432671],"type":"Point"}
 }

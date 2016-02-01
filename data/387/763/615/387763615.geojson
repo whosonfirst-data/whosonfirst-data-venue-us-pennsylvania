@@ -2,13 +2,14 @@
   "id": 387763615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.447955,41.233429,-80.447955,41.233429",
     "geom:latitude":41.233429,
     "geom:longitude":-80.447955,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3357 E State St",
     "sg:city":"Hermitage",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     "sg:website":"http://www.mastercuts.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85824773,
+        102191575,
+        404487983,
         85633793,
         101718107,
         102080965,
-        85824773
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"c326c8e7680bed59316141cfbad2f02f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080965,
+            "localadmin_id":404487983,
             "locality_id":101718107,
             "neighbourhood_id":85824773,
             "region_id":85688481,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":387763615,
-    "wof:lastmodified":1449059905,
+    "wof:lastmodified":1454361229,
     "wof:name":"MasterCuts",
     "wof:parent_id":85824773,
     "wof:placetype":"venue",
@@ -69,6 +73,11 @@
         "stylist"
     ]
 },
-  "bbox": [-80.447955,41.233429,-80.447955,41.233429],
-  "geometry": {"coordinates":[-80.447955,41.233429],"type":"Point"}
+  "bbox": [
+    -80.447955,
+    41.233429,
+    -80.447955,
+    41.233429
+],
+  "geometry": {"coordinates":[-80.44795499999999,41.233429],"type":"Point"}
 }

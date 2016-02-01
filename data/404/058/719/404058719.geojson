@@ -2,13 +2,14 @@
   "id": 404058719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.293158,40.140421,-76.293158,40.140421",
     "geom:latitude":40.140421,
     "geom:longitude":-76.293158,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"57D Pennwick Drive",
     "sg:city":"Lititz",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85834405
+        85834405,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"4da824c1a88d1167ac54f4602e038f93",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85834405,
             "region_id":85688481,
             "venue_id":404058719
         }
     ],
     "wof:id":404058719,
-    "wof:lastmodified":1449039188,
+    "wof:lastmodified":1454356506,
     "wof:name":"BC Kleen",
     "wof:parent_id":85834405,
     "wof:placetype":"venue",
@@ -61,6 +60,11 @@
         "house"
     ]
 },
-  "bbox": [-76.293158,40.140421,-76.293158,40.140421],
-  "geometry": {"coordinates":[-76.293158,40.140421],"type":"Point"}
+  "bbox": [
+    -76.293158,
+    40.140421,
+    -76.293158,
+    40.140421
+],
+  "geometry": {"coordinates":[-76.29315800000001,40.140421],"type":"Point"}
 }

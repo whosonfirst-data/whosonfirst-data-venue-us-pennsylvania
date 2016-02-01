@@ -2,13 +2,14 @@
   "id": 387243123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.206457,40.497313,-80.206457,40.497313",
     "geom:latitude":40.497313,
     "geom:longitude":-80.206457,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"450 Cherrington Pkwy",
     "sg:city":"Coraopolis",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     "sg:website":"http://www.marriott.com/courtyard/travel.mi",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85809567,
+        102191575,
+        404484137,
         85633793,
         101720527,
         102080887,
-        85809567
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"c470066b260369240992932d362ab032",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484137,
             "locality_id":101720527,
             "neighbourhood_id":85809567,
             "region_id":85688481,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":387243123,
-    "wof:lastmodified":1449057333,
+    "wof:lastmodified":1454359033,
     "wof:name":"Courtyard by Marriott Pittsburgh Airport",
     "wof:parent_id":85809567,
     "wof:placetype":"venue",
@@ -69,6 +73,11 @@
         "agency"
     ]
 },
-  "bbox": [-80.206457,40.497313,-80.206457,40.497313],
+  "bbox": [
+    -80.206457,
+    40.497313,
+    -80.206457,
+    40.497313
+],
   "geometry": {"coordinates":[-80.206457,40.497313],"type":"Point"}
 }

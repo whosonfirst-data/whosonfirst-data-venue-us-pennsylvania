@@ -2,13 +2,14 @@
   "id": 404083541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.304458,40.038093,-76.304458,40.038093",
     "geom:latitude":40.038093,
     "geom:longitude":-76.304458,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"36 E King St",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     "sg:website":"http://www.law-for-you.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85818111,
+        102191575,
+        404487183,
         85633793,
         101718643,
         102081377,
-        85818111
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"627a5f8200b039590f5a8e1f67d19852",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081377,
+            "localadmin_id":404487183,
             "locality_id":101718643,
             "neighbourhood_id":85818111,
             "region_id":85688481,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":404083541,
-    "wof:lastmodified":1449039580,
+    "wof:lastmodified":1454356724,
     "wof:name":"Kenneth G Reidenbach Law OFCS",
     "wof:parent_id":85818111,
     "wof:placetype":"venue",
@@ -76,6 +80,11 @@
         "law"
     ]
 },
-  "bbox": [-76.304458,40.038093,-76.304458,40.038093],
+  "bbox": [
+    -76.304458,
+    40.038093,
+    -76.304458,
+    40.038093
+],
   "geometry": {"coordinates":[-76.304458,40.038093],"type":"Point"}
 }

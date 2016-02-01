@@ -2,13 +2,14 @@
   "id": 387161861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.313771,40.656856,-80.313771,40.656856",
     "geom:latitude":40.656856,
     "geom:longitude":-80.313771,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"111 Church Dr",
     "sg:city":"Monaca",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081323,
-        85827637
+        85827637,
+        102081323
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"67be112e35aaf8ee1108dcd0a89d46af",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081323,
-            "locality_id":-1,
             "neighbourhood_id":85827637,
             "region_id":85688481,
             "venue_id":387161861
         }
     ],
     "wof:id":387161861,
-    "wof:lastmodified":1449057616,
+    "wof:lastmodified":1454360531,
     "wof:name":"Designing Edge Builders Inc",
     "wof:parent_id":85827637,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.313771,40.656856,-80.313771,40.656856],
+  "bbox": [
+    -80.313771,
+    40.656856,
+    -80.313771,
+    40.656856
+],
   "geometry": {"coordinates":[-80.313771,40.656856],"type":"Point"}
 }

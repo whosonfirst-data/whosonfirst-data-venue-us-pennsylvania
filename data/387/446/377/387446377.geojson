@@ -2,13 +2,14 @@
   "id": 387446377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.045409,40.379144,-80.045409,40.379144",
     "geom:latitude":40.379144,
     "geom:longitude":-80.045409,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"740 Washington Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -43,8 +44,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85805039
+        85805039,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,17 +55,15 @@
     "wof:geomhash":"e5a144ccb7703a25fa38d1c92238a22e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85805039,
             "region_id":85688481,
             "venue_id":387446377
         }
     ],
     "wof:id":387446377,
-    "wof:lastmodified":1449059591,
+    "wof:lastmodified":1454361130,
     "wof:name":"Associates Bill Few",
     "wof:parent_id":85805039,
     "wof:placetype":"venue",
@@ -78,6 +77,11 @@
         "bookkeeping"
     ]
 },
-  "bbox": [-80.045409,40.379144,-80.045409,40.379144],
-  "geometry": {"coordinates":[-80.045409,40.379144],"type":"Point"}
+  "bbox": [
+    -80.045409,
+    40.379144,
+    -80.045409,
+    40.379144
+],
+  "geometry": {"coordinates":[-80.04540900000001,40.379144],"type":"Point"}
 }

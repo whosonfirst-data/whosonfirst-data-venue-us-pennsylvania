@@ -2,13 +2,14 @@
   "id": 404079533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.30247,40.071918,-76.30247,40.071918",
     "geom:latitude":40.071918,
     "geom:longitude":-76.30247,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"160 N Pointe Blvd Ste 200",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85811259
+        85811259,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"9ae60440f4b7d3528530388965c40144",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85811259,
             "region_id":85688481,
             "venue_id":404079533
         }
     ],
     "wof:id":404079533,
-    "wof:lastmodified":1449040109,
+    "wof:lastmodified":1454357010,
     "wof:name":"Sageworth",
     "wof:parent_id":85811259,
     "wof:placetype":"venue",
@@ -66,6 +65,11 @@
         "trust"
     ]
 },
-  "bbox": [-76.30247,40.071918,-76.30247,40.071918],
+  "bbox": [
+    -76.30247,
+    40.071918,
+    -76.30247,
+    40.071918
+],
   "geometry": {"coordinates":[-76.30247,40.071918],"type":"Point"}
 }

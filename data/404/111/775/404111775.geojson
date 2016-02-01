@@ -2,13 +2,14 @@
   "id": 404111775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.75759,41.325803,-77.75759,41.325803",
     "geom:latitude":41.325803,
     "geom:longitude":-77.75759,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"137 3rd St",
     "sg:city":"Renovo",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080917,
-        85826685
+        85826685,
+        102080917
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"bed3682bb957abb2bea41b5f86420340",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080917,
-            "locality_id":-1,
             "neighbourhood_id":85826685,
             "region_id":85688481,
             "venue_id":404111775
         }
     ],
     "wof:id":404111775,
-    "wof:lastmodified":1449040352,
+    "wof:lastmodified":1454357155,
     "wof:name":"Trinity Episcopal Church",
     "wof:parent_id":85826685,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "churches-episcopal"
     ]
 },
-  "bbox": [-77.75759,41.325803,-77.75759,41.325803],
-  "geometry": {"coordinates":[-77.75759,41.325803],"type":"Point"}
+  "bbox": [
+    -77.75759,
+    41.325803,
+    -77.75759,
+    41.325803
+],
+  "geometry": {"coordinates":[-77.75758999999999,41.325803],"type":"Point"}
 }

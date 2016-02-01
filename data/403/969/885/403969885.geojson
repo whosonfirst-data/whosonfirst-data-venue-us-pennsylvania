@@ -2,13 +2,14 @@
   "id": 403969885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.280361,40.010223,-77.280361,40.010223",
     "geom:latitude":40.010223,
     "geom:longitude":-77.280361,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1490 Coon Rd",
     "sg:city":"Aspers",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080899,
-        85807419
+        85807419,
+        102080899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"bcb834a623d5e7462d6cbce64d3207b9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080899,
-            "locality_id":-1,
             "neighbourhood_id":85807419,
             "region_id":85688481,
             "venue_id":403969885
         }
     ],
     "wof:id":403969885,
-    "wof:lastmodified":1449054964,
+    "wof:lastmodified":1454357389,
     "wof:name":"Neil Starner",
     "wof:parent_id":85807419,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "nursery-wholesale"
     ]
 },
-  "bbox": [-77.280361,40.010223,-77.280361,40.010223],
+  "bbox": [
+    -77.280361,
+    40.010223,
+    -77.280361,
+    40.010223
+],
   "geometry": {"coordinates":[-77.280361,40.010223],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403854663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.8592,40.273701,-76.8592,40.273701",
     "geom:latitude":40.273701,
     "geom:longitude":-76.8592,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2120 Walnut St",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85817391
+        85817391,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"803e6d1439449e9d1ed505374b3e4075",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85817391,
             "region_id":85688481,
             "venue_id":403854663
         }
     ],
     "wof:id":403854663,
-    "wof:lastmodified":1449055899,
+    "wof:lastmodified":1454357940,
     "wof:name":"Snell Edward D",
     "wof:parent_id":85817391,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "sitting"
     ]
 },
-  "bbox": [-76.8592,40.273701,-76.8592,40.273701],
+  "bbox": [
+    -76.8592,
+    40.273701,
+    -76.8592,
+    40.273701
+],
   "geometry": {"coordinates":[-76.8592,40.273701],"type":"Point"}
 }

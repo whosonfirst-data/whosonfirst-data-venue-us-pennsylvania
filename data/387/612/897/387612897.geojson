@@ -2,13 +2,14 @@
   "id": 387612897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.914582,40.007884,-78.914582,40.007884",
     "geom:latitude":40.007884,
     "geom:longitude":-78.914582,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"350 Brotherton Rd",
     "sg:city":"Friedens",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081361,
-        85829623
+        85829623,
+        102081361
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"0d0ad70d8142b8485addfefbcaea1859",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081361,
-            "locality_id":-1,
             "neighbourhood_id":85829623,
             "region_id":85688481,
             "venue_id":387612897
         }
     ],
     "wof:id":387612897,
-    "wof:lastmodified":1449057792,
+    "wof:lastmodified":1454360597,
     "wof:name":"Behon Services",
     "wof:parent_id":85829623,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "bureau"
     ]
 },
-  "bbox": [-78.914582,40.007884,-78.914582,40.007884],
+  "bbox": [
+    -78.914582,
+    40.007884,
+    -78.914582,
+    40.007884
+],
   "geometry": {"coordinates":[-78.914582,40.007884],"type":"Point"}
 }

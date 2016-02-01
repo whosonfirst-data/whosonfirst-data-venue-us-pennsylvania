@@ -2,13 +2,14 @@
   "id": 387937855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.130203,40.196701,-77.130203,40.196701",
     "geom:latitude":40.196701,
     "geom:longitude":-77.130203,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1456 Trindle Rd",
     "sg:city":"Carlisle",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"www.tangers-appliance.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85868581,
+        102191575,
+        404486545,
         85633793,
         101719075,
         102081359,
-        85868581
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"341a76e7bc6b6621873401d3c241e05f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081359,
+            "localadmin_id":404486545,
             "locality_id":101719075,
             "neighbourhood_id":85868581,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387937855,
-    "wof:lastmodified":1449056822,
+    "wof:lastmodified":1454358631,
     "wof:name":"Tanger's Appliances",
     "wof:parent_id":85868581,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "repair"
     ]
 },
-  "bbox": [-77.130203,40.196701,-77.130203,40.196701],
-  "geometry": {"coordinates":[-77.130203,40.196701],"type":"Point"}
+  "bbox": [
+    -77.130203,
+    40.196701,
+    -77.130203,
+    40.196701
+],
+  "geometry": {"coordinates":[-77.13020299999999,40.196701],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404056891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.310113,40.121982,-76.310113,40.121982",
     "geom:latitude":40.121982,
     "geom:longitude":-76.310113,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"212 Bucky Dr",
     "sg:city":"Lititz",
     "sg:classifiers":[
@@ -45,8 +46,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85806481
+        85806481,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,17 +57,15 @@
     "wof:geomhash":"8ab968f02825d32bdecdf44029ea66e9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85806481,
             "region_id":85688481,
             "venue_id":404056891
         }
     ],
     "wof:id":404056891,
-    "wof:lastmodified":1449039356,
+    "wof:lastmodified":1454356592,
     "wof:name":"Haller Enterprises, Inc.",
     "wof:parent_id":85806481,
     "wof:placetype":"venue",
@@ -81,6 +80,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-76.310113,40.121982,-76.310113,40.121982],
+  "bbox": [
+    -76.310113,
+    40.121982,
+    -76.310113,
+    40.121982
+],
   "geometry": {"coordinates":[-76.310113,40.121982],"type":"Point"}
 }

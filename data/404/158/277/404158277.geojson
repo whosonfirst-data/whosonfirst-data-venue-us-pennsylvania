@@ -2,13 +2,14 @@
   "id": 404158277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.418747,40.734291,-75.418747,40.734291",
     "geom:latitude":40.734291,
     "geom:longitude":-75.418747,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5883 W Main Blvd",
     "sg:city":"Bath",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081395,
-        85830333
+        85830333,
+        102081395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"7301cc8e23ca48d2d63411bf5b1a613e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081395,
-            "locality_id":-1,
             "neighbourhood_id":85830333,
             "region_id":85688481,
             "venue_id":404158277
         }
     ],
     "wof:id":404158277,
-    "wof:lastmodified":1449039928,
+    "wof:lastmodified":1454356898,
     "wof:name":"Richard P Eberts",
     "wof:parent_id":85830333,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-75.418747,40.734291,-75.418747,40.734291],
+  "bbox": [
+    -75.418747,
+    40.734291,
+    -75.418747,
+    40.734291
+],
   "geometry": {"coordinates":[-75.418747,40.734291],"type":"Point"}
 }

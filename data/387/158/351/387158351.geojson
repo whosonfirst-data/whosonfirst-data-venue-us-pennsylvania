@@ -2,13 +2,14 @@
   "id": 387158351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.208034,40.565685,-80.208034,40.565685",
     "geom:latitude":40.565685,
     "geom:longitude":-80.208034,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"403 Beaver St",
     "sg:city":"Leetsdale",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85848361,
+        102191575,
+        404484893,
         85633793,
-        101718661,
+        101718695,
         102080887,
-        85848361
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"b91b4aa44946d6ed126702274b790ef7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":101718661,
+            "localadmin_id":404484893,
+            "locality_id":101718695,
             "neighbourhood_id":85848361,
             "region_id":85688481,
             "venue_id":387158351
         }
     ],
     "wof:id":387158351,
-    "wof:lastmodified":1449058646,
+    "wof:lastmodified":1454360840,
     "wof:name":"Brendan's Mover's",
     "wof:parent_id":85848361,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "unloading"
     ]
 },
-  "bbox": [-80.208034,40.565685,-80.208034,40.565685],
+  "bbox": [
+    -80.208034,
+    40.565685,
+    -80.208034,
+    40.565685
+],
   "geometry": {"coordinates":[-80.208034,40.565685],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387642881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.381813,40.31421,-79.381813,40.31421",
     "geom:latitude":40.31421,
     "geom:longitude":-79.381813,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1308 Ligonier St",
     "sg:city":"Latrobe",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     "sg:website":"http://www.mahady.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85831075,
+        102191575,
+        404487493,
         85633793,
         101717167,
         102081383,
-        85831075
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"a9a0ed04d3a4faa044d9439edb79588e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081383,
+            "localadmin_id":404487493,
             "locality_id":101717167,
             "neighbourhood_id":85831075,
             "region_id":85688481,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":387642881,
-    "wof:lastmodified":1449056336,
+    "wof:lastmodified":1454358267,
     "wof:name":"Pennwest Abstracts Inc",
     "wof:parent_id":85831075,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-79.381813,40.31421,-79.381813,40.31421],
-  "geometry": {"coordinates":[-79.381813,40.31421],"type":"Point"}
+  "bbox": [
+    -79.381813,
+    40.31421,
+    -79.381813,
+    40.31421
+],
+  "geometry": {"coordinates":[-79.38181299999999,40.31421],"type":"Point"}
 }

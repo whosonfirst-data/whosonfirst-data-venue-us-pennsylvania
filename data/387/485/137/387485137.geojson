@@ -2,13 +2,14 @@
   "id": 387485137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.826569,40.464064,-79.826569,40.464064",
     "geom:latitude":40.464064,
     "geom:longitude":-79.826569,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"12 Federal Dr",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -40,8 +41,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85845623
+        85845623,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,17 +52,15 @@
     "wof:geomhash":"7926d09a87597f916cb4c55e4c8e06ec",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85845623,
             "region_id":85688481,
             "venue_id":387485137
         }
     ],
     "wof:id":387485137,
-    "wof:lastmodified":1449058422,
+    "wof:lastmodified":1454360778,
     "wof:name":"Dollar Tree",
     "wof:parent_id":85845623,
     "wof:placetype":"venue",
@@ -71,6 +70,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-79.826569,40.464064,-79.826569,40.464064],
-  "geometry": {"coordinates":[-79.826569,40.464064],"type":"Point"}
+  "bbox": [
+    -79.826569,
+    40.464064,
+    -79.826569,
+    40.464064
+],
+  "geometry": {"coordinates":[-79.82656900000001,40.464064],"type":"Point"}
 }

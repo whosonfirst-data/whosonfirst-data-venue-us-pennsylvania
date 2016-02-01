@@ -2,13 +2,14 @@
   "id": 404082835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.330776,40.069171,-76.330776,40.069171",
     "geom:latitude":40.069171,
     "geom:longitude":-76.330776,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1373 Manheim Pike # 4825",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85848619
+        85848619,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"8558f1ca24972e475a130775c49aa641",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85848619,
             "region_id":85688481,
             "venue_id":404082835
         }
     ],
     "wof:id":404082835,
-    "wof:lastmodified":1449039112,
+    "wof:lastmodified":1454356439,
     "wof:name":"Autohaus Lancaster Inc",
     "wof:parent_id":85848619,
     "wof:placetype":"venue",
@@ -63,6 +62,11 @@
         "tune"
     ]
 },
-  "bbox": [-76.330776,40.069171,-76.330776,40.069171],
+  "bbox": [
+    -76.330776,
+    40.069171,
+    -76.330776,
+    40.069171
+],
   "geometry": {"coordinates":[-76.330776,40.069171],"type":"Point"}
 }

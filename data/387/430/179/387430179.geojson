@@ -2,13 +2,14 @@
   "id": 387430179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.001297,40.439362,-80.001297,40.439362",
     "geom:latitude":40.439362,
     "geom:longitude":-80.001297,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"401 Wood St",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85873585,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85873585
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"a979b420de7139bd098c624f63ae8f90",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85873585,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387430179,
-    "wof:lastmodified":1449058534,
+    "wof:lastmodified":1454360807,
     "wof:name":"Henry Debra L Law Offices",
     "wof:parent_id":85873585,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "practice"
     ]
 },
-  "bbox": [-80.001297,40.439362,-80.001297,40.439362],
-  "geometry": {"coordinates":[-80.001297,40.439362],"type":"Point"}
+  "bbox": [
+    -80.001297,
+    40.439362,
+    -80.001297,
+    40.439362
+],
+  "geometry": {"coordinates":[-80.00129699999999,40.439362],"type":"Point"}
 }

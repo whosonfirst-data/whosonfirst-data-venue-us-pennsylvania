@@ -2,13 +2,14 @@
   "id": 404127429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.617011,40.963068,-76.617011,40.963068",
     "geom:latitude":40.963068,
     "geom:longitude":-76.617011,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"298 Mill St",
     "sg:city":"Danville",
     "sg:classifiers":[
@@ -44,8 +45,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080931,
-        85833629
+        85833629,
+        102080931
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,17 +56,15 @@
     "wof:geomhash":"3f93040f0b1f909196949cac7e26425f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080931,
-            "locality_id":-1,
             "neighbourhood_id":85833629,
             "region_id":85688481,
             "venue_id":404127429
         }
     ],
     "wof:id":404127429,
-    "wof:lastmodified":1449040233,
+    "wof:lastmodified":1454357080,
     "wof:name":"Deihl's Tire And Auto",
     "wof:parent_id":85833629,
     "wof:placetype":"venue",
@@ -79,6 +78,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-76.617011,40.963068,-76.617011,40.963068],
-  "geometry": {"coordinates":[-76.617011,40.963068],"type":"Point"}
+  "bbox": [
+    -76.617011,
+    40.963068,
+    -76.617011,
+    40.963068
+],
+  "geometry": {"coordinates":[-76.61701100000001,40.963068],"type":"Point"}
 }

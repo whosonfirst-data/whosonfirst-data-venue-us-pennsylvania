@@ -2,13 +2,14 @@
   "id": 387537797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.167297,40.146591,-80.167297,40.146591",
     "geom:latitude":40.146591,
     "geom:longitude":-80.167297,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"100 Meyers Rd",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -24,7 +25,12 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420539941,
+        102191575,
+        404487851,
         85633793,
+        101720329,
+        102081343,
         85688481
     ],
     "wof:breaches":[],
@@ -35,23 +41,30 @@
     "wof:geomhash":"1d038ad9cddb23acdbbd240acb8df726",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081343,
+            "localadmin_id":404487851,
+            "locality_id":101720329,
+            "neighbourhood_id":420539941,
             "region_id":85688481,
             "venue_id":387537797
         }
     ],
     "wof:id":387537797,
-    "wof:lastmodified":1449057039,
+    "wof:lastmodified":1454358792,
     "wof:name":"Abby Abbondanza",
-    "wof:parent_id":-1,
+    "wof:parent_id":420539941,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.167297,40.146591,-80.167297,40.146591],
+  "bbox": [
+    -80.167297,
+    40.146591,
+    -80.167297,
+    40.146591
+],
   "geometry": {"coordinates":[-80.167297,40.146591],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387764939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.449725,41.235892,-80.449725,41.235892",
     "geom:latitude":41.235892,
     "geom:longitude":-80.449725,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"240 N Hermitage Rd",
     "sg:city":"Hermitage",
     "sg:classifiers":[
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85824773,
+        102191575,
+        404487983,
         85633793,
         101718107,
         102080965,
-        85824773
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"55bd2929fef48cd8f50436ebe58e07b9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080965,
+            "localadmin_id":404487983,
             "locality_id":101718107,
             "neighbourhood_id":85824773,
             "region_id":85688481,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":387764939,
-    "wof:lastmodified":1449059738,
+    "wof:lastmodified":1454361176,
     "wof:name":"Hickory United Methodist Church",
     "wof:parent_id":85824773,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "churches-methodist"
     ]
 },
-  "bbox": [-80.449725,41.235892,-80.449725,41.235892],
+  "bbox": [
+    -80.449725,
+    41.235892,
+    -80.449725,
+    41.235892
+],
   "geometry": {"coordinates":[-80.449725,41.235892],"type":"Point"}
 }

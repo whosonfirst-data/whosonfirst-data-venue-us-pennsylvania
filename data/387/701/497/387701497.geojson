@@ -2,13 +2,14 @@
   "id": 387701497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.923294,40.907031,-79.923294,40.907031",
     "geom:latitude":40.907031,
     "geom:longitude":-79.923294,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1723 N Main Street Ext",
     "sg:city":"Butler",
     "sg:classifiers":[
@@ -63,10 +64,13 @@
     "sg:website":"http://www.erieinsurance.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536957,
+        102191575,
+        404485061,
         85633793,
         101720155,
-        102083677
+        102083677,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,19 +80,20 @@
     "wof:geomhash":"af5e4b895693112e2d94b990bf9f76a6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083677,
+            "localadmin_id":404485061,
             "locality_id":101720155,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420536957,
             "region_id":85688481,
             "venue_id":387701497
         }
     ],
     "wof:id":387701497,
-    "wof:lastmodified":1449059117,
+    "wof:lastmodified":1454360990,
     "wof:name":"Aadvantage Insurance Services Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536957,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -111,6 +116,11 @@
         "boat"
     ]
 },
-  "bbox": [-79.923294,40.907031,-79.923294,40.907031],
+  "bbox": [
+    -79.923294,
+    40.907031,
+    -79.923294,
+    40.907031
+],
   "geometry": {"coordinates":[-79.923294,40.907031],"type":"Point"}
 }

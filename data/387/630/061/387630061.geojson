@@ -2,13 +2,14 @@
   "id": 387630061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.588307,40.401275,-79.588307,40.401275",
     "geom:latitude":40.401275,
     "geom:longitude":-79.588307,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"430 Route 22",
     "sg:city":"Delmont",
     "sg:classifiers":[
@@ -43,10 +44,13 @@
     "sg:website":"http://www.dollargeneral.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420540199,
+        102191575,
+        404487539,
         85633793,
         101717149,
-        102081383
+        102081383,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,19 +60,20 @@
     "wof:geomhash":"f5cf08c92ef0aff2c17f987fa25db4fe",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081383,
+            "localadmin_id":404487539,
             "locality_id":101717149,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420540199,
             "region_id":85688481,
             "venue_id":387630061
         }
     ],
     "wof:id":387630061,
-    "wof:lastmodified":1449057458,
+    "wof:lastmodified":1454359141,
     "wof:name":"Dollar General",
-    "wof:parent_id":-1,
+    "wof:parent_id":420540199,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -76,6 +81,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-79.588307,40.401275,-79.588307,40.401275],
+  "bbox": [
+    -79.588307,
+    40.401275,
+    -79.588307,
+    40.401275
+],
   "geometry": {"coordinates":[-79.588307,40.401275],"type":"Point"}
 }

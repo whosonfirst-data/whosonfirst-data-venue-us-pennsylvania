@@ -2,13 +2,14 @@
   "id": 387163411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.885833,40.161928,-79.885833,40.161928",
     "geom:latitude":40.161928,
     "geom:longitude":-79.885833,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"505 Donner Ave",
     "sg:city":"Monessen",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"www.anykindawear.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85817735,
+        102191575,
+        404487505,
         85633793,
         101717153,
         102081383,
-        85817735
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"caea172d8882f8f2b9c9e9d14f336045",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081383,
+            "localadmin_id":404487505,
             "locality_id":101717153,
             "neighbourhood_id":85817735,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387163411,
-    "wof:lastmodified":1449059834,
+    "wof:lastmodified":1454361206,
     "wof:name":"Any Kind A Wear",
     "wof:parent_id":85817735,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "alteration"
     ]
 },
-  "bbox": [-79.885833,40.161928,-79.885833,40.161928],
-  "geometry": {"coordinates":[-79.885833,40.161928],"type":"Point"}
+  "bbox": [
+    -79.885833,
+    40.161928,
+    -79.885833,
+    40.161928
+],
+  "geometry": {"coordinates":[-79.88583300000001,40.161928],"type":"Point"}
 }

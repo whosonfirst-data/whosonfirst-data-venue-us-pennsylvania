@@ -2,13 +2,14 @@
   "id": 387394111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.045759,40.418601,-80.045759,40.418601",
     "geom:latitude":40.418601,
     "geom:longitude":-80.045759,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"969 Greentree Rd Ste 3",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85804395,
+        102191575,
+        404482523,
         85633793,
+        101718805,
         102080887,
-        85804395
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +44,18 @@
     "wof:geomhash":"521acb42e1b179a71ae59eee04e6d0d9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
+            "localadmin_id":404482523,
+            "locality_id":101718805,
             "neighbourhood_id":85804395,
             "region_id":85688481,
             "venue_id":387394111
         }
     ],
     "wof:id":387394111,
-    "wof:lastmodified":1449056838,
+    "wof:lastmodified":1454358643,
     "wof:name":"Walgreens Specialty Care Ctrs",
     "wof:parent_id":85804395,
     "wof:placetype":"venue",
@@ -60,6 +65,11 @@
         "outpatient"
     ]
 },
-  "bbox": [-80.045759,40.418601,-80.045759,40.418601],
+  "bbox": [
+    -80.045759,
+    40.418601,
+    -80.045759,
+    40.418601
+],
   "geometry": {"coordinates":[-80.045759,40.418601],"type":"Point"}
 }

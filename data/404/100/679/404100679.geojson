@@ -2,13 +2,14 @@
   "id": 404100679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.997231,41.248699,-76.997231,41.248699",
     "geom:latitude":41.248699,
     "geom:longitude":-76.997231,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"350 Hughes St",
     "sg:city":"Williamsport",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85802799,
+        102191575,
+        404485355,
         85633793,
-        101716811,
+        101716809,
         102081317,
-        85802799
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"a0247dfa5dfef81f52b5fb687158ad19",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081317,
-            "locality_id":101716811,
+            "localadmin_id":404485355,
+            "locality_id":101716809,
             "neighbourhood_id":85802799,
             "region_id":85688481,
             "venue_id":404100679
         }
     ],
     "wof:id":404100679,
-    "wof:lastmodified":1449040003,
+    "wof:lastmodified":1454356945,
     "wof:name":"Benjie's",
     "wof:parent_id":85802799,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "american"
     ]
 },
-  "bbox": [-76.997231,41.248699,-76.997231,41.248699],
+  "bbox": [
+    -76.997231,
+    41.248699,
+    -76.997231,
+    41.248699
+],
   "geometry": {"coordinates":[-76.997231,41.248699],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387618267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.562408,40.316471,-79.562408,40.316471",
     "geom:latitude":40.316471,
     "geom:longitude":-79.562408,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"443 Mt Thor Rd",
     "sg:city":"Greensburg",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85809439,
+        102191575,
+        404487487,
         85633793,
-        101717119,
+        101717177,
         102081383,
-        85809439
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"c8a629585f9ad0c77a6be122aa0c9ed1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":101717119,
+            "localadmin_id":404487487,
+            "locality_id":101717177,
             "neighbourhood_id":85809439,
             "region_id":85688481,
             "venue_id":387618267
         }
     ],
     "wof:id":387618267,
-    "wof:lastmodified":1449058476,
+    "wof:lastmodified":1454360793,
     "wof:name":"Seton Center Inc",
     "wof:parent_id":85809439,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "day"
     ]
 },
-  "bbox": [-79.562408,40.316471,-79.562408,40.316471],
+  "bbox": [
+    -79.562408,
+    40.316471,
+    -79.562408,
+    40.316471
+],
   "geometry": {"coordinates":[-79.562408,40.316471],"type":"Point"}
 }

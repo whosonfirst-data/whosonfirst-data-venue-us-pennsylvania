@@ -2,13 +2,14 @@
   "id": 387913255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.959293,40.228825,-76.959293,40.228825",
     "geom:latitude":40.228825,
     "geom:longitude":-76.959293,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"431 Railroad Ave. Suite A",
     "sg:city":"Camp Hill",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081359,
-        85850501
+        85850501,
+        102081359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"7522b1f94d4e3f5cf4681ca7ddd04f79",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081359,
-            "locality_id":-1,
             "neighbourhood_id":85850501,
             "region_id":85688481,
             "venue_id":387913255
         }
     ],
     "wof:id":387913255,
-    "wof:lastmodified":1449057576,
+    "wof:lastmodified":1454360519,
     "wof:name":"AP Wagner Appliance parts",
     "wof:parent_id":85850501,
     "wof:placetype":"venue",
@@ -61,6 +60,11 @@
         "home"
     ]
 },
-  "bbox": [-76.959293,40.228825,-76.959293,40.228825],
+  "bbox": [
+    -76.959293,
+    40.228825,
+    -76.959293,
+    40.228825
+],
   "geometry": {"coordinates":[-76.959293,40.228825],"type":"Point"}
 }

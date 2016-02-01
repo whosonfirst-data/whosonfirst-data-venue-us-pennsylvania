@@ -2,13 +2,14 @@
   "id": 387434471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.007797,40.3811,-80.007797,40.3811",
     "geom:latitude":40.3811,
     "geom:longitude":-80.007797,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"97 McNeilly Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85839961,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85839961
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"5e202f9fc4c56706f4c83f8699e0fe71",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85839961,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387434471,
-    "wof:lastmodified":1449056925,
+    "wof:lastmodified":1454358710,
     "wof:name":"Toole Auto Body",
     "wof:parent_id":85839961,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "shop"
     ]
 },
-  "bbox": [-80.007797,40.3811,-80.007797,40.3811],
+  "bbox": [
+    -80.007797,
+    40.3811,
+    -80.007797,
+    40.3811
+],
   "geometry": {"coordinates":[-80.007797,40.3811],"type":"Point"}
 }

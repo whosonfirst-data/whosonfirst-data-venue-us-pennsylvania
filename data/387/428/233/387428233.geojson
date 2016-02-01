@@ -2,13 +2,14 @@
   "id": 387428233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.977263,40.456977,-79.977263,40.456977",
     "geom:latitude":40.456977,
     "geom:longitude":-79.977263,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2740 Smallman St Ste 202",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"http://www.btccpa.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85851271,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85851271
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"3e3c7ddd51a3ec8f7530274a7e800e55",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85851271,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387428233,
-    "wof:lastmodified":1449059664,
+    "wof:lastmodified":1454361149,
     "wof:name":"Bielau, Tienery Coon & Co Pc",
     "wof:parent_id":85851271,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "accountants-certified"
     ]
 },
-  "bbox": [-79.977263,40.456977,-79.977263,40.456977],
-  "geometry": {"coordinates":[-79.977263,40.456977],"type":"Point"}
+  "bbox": [
+    -79.977263,
+    40.456977,
+    -79.977263,
+    40.456977
+],
+  "geometry": {"coordinates":[-79.97726299999999,40.456977],"type":"Point"}
 }

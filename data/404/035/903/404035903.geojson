@@ -2,13 +2,14 @@
   "id": 404035903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.781889,39.966579,-76.781889,39.966579",
     "geom:latitude":39.966579,
     "geom:longitude":-76.781889,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2285 Brougher Ln",
     "sg:city":"York",
     "sg:classifiers":[
@@ -31,7 +32,12 @@
     "sg:website":"http://www.aeystercpa.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420540379,
+        102191575,
+        404487953,
         85633793,
+        101719479,
+        102080953,
         85688481
     ],
     "wof:breaches":[],
@@ -42,18 +48,20 @@
     "wof:geomhash":"6477eb0a7538931b721e6ec1a0863367",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102080953,
+            "localadmin_id":404487953,
+            "locality_id":101719479,
+            "neighbourhood_id":420540379,
             "region_id":85688481,
             "venue_id":404035903
         }
     ],
     "wof:id":404035903,
-    "wof:lastmodified":1449040057,
+    "wof:lastmodified":1454356984,
     "wof:name":"Angela L Eyster, CPA",
-    "wof:parent_id":-1,
+    "wof:parent_id":420540379,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +72,11 @@
         "accountants-certified"
     ]
 },
-  "bbox": [-76.781889,39.966579,-76.781889,39.966579],
-  "geometry": {"coordinates":[-76.781889,39.966579],"type":"Point"}
+  "bbox": [
+    -76.781889,
+    39.966579,
+    -76.781889,
+    39.966579
+],
+  "geometry": {"coordinates":[-76.78188900000001,39.966579],"type":"Point"}
 }

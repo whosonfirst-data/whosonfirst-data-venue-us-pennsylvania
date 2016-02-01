@@ -2,13 +2,14 @@
   "id": 403719377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.453376,40.339374,-76.453376,40.339374",
     "geom:latitude":40.339374,
     "geom:longitude":-76.453376,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2201 Lebanon Valley Mall",
     "sg:city":"Lebanon",
     "sg:classifiers":[],
@@ -19,10 +20,13 @@
     "sg:website":"http://www.boscov.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420538675,
+        102191575,
+        404485807,
         85633793,
         101719391,
-        102081341
+        102081341,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -32,24 +36,30 @@
     "wof:geomhash":"d79d005bf183208641e4eaea9b490587",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081341,
+            "localadmin_id":404485807,
             "locality_id":101719391,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420538675,
             "region_id":85688481,
             "venue_id":403719377
         }
     ],
     "wof:id":403719377,
-    "wof:lastmodified":1449054795,
+    "wof:lastmodified":1454357286,
     "wof:name":"Boscov's",
-    "wof:parent_id":-1,
+    "wof:parent_id":420538675,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.453376,40.339374,-76.453376,40.339374],
-  "geometry": {"coordinates":[-76.453376,40.339374],"type":"Point"}
+  "bbox": [
+    -76.453376,
+    40.339374,
+    -76.453376,
+    40.339374
+],
+  "geometry": {"coordinates":[-76.45337600000001,40.339374],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403719709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.441988,40.33827,-76.441988,40.33827",
     "geom:latitude":40.33827,
     "geom:longitude":-76.441988,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1700 Cumberland St",
     "sg:city":"Lebanon",
     "sg:classifiers":[
@@ -41,10 +42,13 @@
     "sg:website":"http://www.monro.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420538675,
+        102191575,
+        404485807,
         85633793,
         101719391,
-        102081341
+        102081341,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,19 +58,20 @@
     "wof:geomhash":"76ec6732ef6b79d836b64681b714969f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081341,
+            "localadmin_id":404485807,
             "locality_id":101719391,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420538675,
             "region_id":85688481,
             "venue_id":403719709
         }
     ],
     "wof:id":403719709,
-    "wof:lastmodified":1449054794,
+    "wof:lastmodified":1454357285,
     "wof:name":"Monro Muffler Brake & Service",
-    "wof:parent_id":-1,
+    "wof:parent_id":420538675,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -82,6 +87,11 @@
         "muffler"
     ]
 },
-  "bbox": [-76.441988,40.33827,-76.441988,40.33827],
-  "geometry": {"coordinates":[-76.441988,40.33827],"type":"Point"}
+  "bbox": [
+    -76.441988,
+    40.33827,
+    -76.441988,
+    40.33827
+],
+  "geometry": {"coordinates":[-76.44198799999999,40.33827],"type":"Point"}
 }

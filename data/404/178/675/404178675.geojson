@@ -2,13 +2,14 @@
   "id": 404178675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.357681,40.63207,-75.357681,40.63207",
     "geom:latitude":40.63207,
     "geom:longitude":-75.357681,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"839 Radclyffe St",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85897241,
+        102191575,
+        404485987,
         85633793,
         101717907,
         102081395,
-        85897241
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"80d2af76bd0fb3acfb9cb04d983e202d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081395,
+            "localadmin_id":404485987,
             "locality_id":101717907,
             "neighbourhood_id":85897241,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":404178675,
-    "wof:lastmodified":1449039988,
+    "wof:lastmodified":1454356933,
     "wof:name":"Shemp's Computer Repair & Upgr",
     "wof:parent_id":85897241,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "handyman"
     ]
 },
-  "bbox": [-75.357681,40.63207,-75.357681,40.63207],
+  "bbox": [
+    -75.357681,
+    40.63207,
+    -75.357681,
+    40.63207
+],
   "geometry": {"coordinates":[-75.357681,40.63207],"type":"Point"}
 }

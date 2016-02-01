@@ -2,13 +2,14 @@
   "id": 403715615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.42363,40.315979,-76.42363,40.315979",
     "geom:latitude":40.315979,
     "geom:longitude":-76.42363,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1501 Quentin Rd",
     "sg:city":"Lebanon",
     "sg:classifiers":[
@@ -47,8 +48,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081341,
-        85868587
+        85868587,
+        102081341
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,17 +59,15 @@
     "wof:geomhash":"a084a6a710eb24cd16a3df08bdf1c7bf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081341,
-            "locality_id":-1,
             "neighbourhood_id":85868587,
             "region_id":85688481,
             "venue_id":403715615
         }
     ],
     "wof:id":403715615,
-    "wof:lastmodified":1449055690,
+    "wof:lastmodified":1454357822,
     "wof:name":"Pennsylvania Turf Equipment",
     "wof:parent_id":85868587,
     "wof:placetype":"venue",
@@ -85,6 +84,11 @@
         "saw"
     ]
 },
-  "bbox": [-76.42363,40.315979,-76.42363,40.315979],
+  "bbox": [
+    -76.42363,
+    40.315979,
+    -76.42363,
+    40.315979
+],
   "geometry": {"coordinates":[-76.42363,40.315979],"type":"Point"}
 }

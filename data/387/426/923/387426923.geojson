@@ -2,13 +2,14 @@
   "id": 387426923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.001701,40.4403,-80.001701,40.4403",
     "geom:latitude":40.4403,
     "geom:longitude":-80.001701,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"228 Forbes Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85873585,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85873585
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"3ee4b671f55888b48d8c4889ee0e7f91",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85873585,
             "region_id":85688481,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":387426923,
-    "wof:lastmodified":1449056912,
+    "wof:lastmodified":1454358703,
     "wof:name":"The Exchange",
     "wof:parent_id":85873585,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "dvd's"
     ]
 },
-  "bbox": [-80.001701,40.4403,-80.001701,40.4403],
+  "bbox": [
+    -80.001701,
+    40.4403,
+    -80.001701,
+    40.4403
+],
   "geometry": {"coordinates":[-80.001701,40.4403],"type":"Point"}
 }

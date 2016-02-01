@@ -2,13 +2,14 @@
   "id": 387835451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.144859,42.071678,-80.144859,42.071678",
     "geom:latitude":42.071678,
     "geom:longitude":-80.144859,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4000 Sterrettania Rd",
     "sg:city":"Erie",
     "sg:classifiers":[
@@ -33,8 +34,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080955,
-        85810495
+        85810495,
+        102080955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +45,15 @@
     "wof:geomhash":"71403003593467e964f15584c949effa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080955,
-            "locality_id":-1,
             "neighbourhood_id":85810495,
             "region_id":85688481,
             "venue_id":387835451
         }
     ],
     "wof:id":387835451,
-    "wof:lastmodified":1449056644,
+    "wof:lastmodified":1454358513,
     "wof:name":"Westlake Family Practice",
     "wof:parent_id":85810495,
     "wof:placetype":"venue",
@@ -68,6 +67,11 @@
         "medicine"
     ]
 },
-  "bbox": [-80.144859,42.071678,-80.144859,42.071678],
+  "bbox": [
+    -80.144859,
+    42.071678,
+    -80.144859,
+    42.071678
+],
   "geometry": {"coordinates":[-80.144859,42.071678],"type":"Point"}
 }

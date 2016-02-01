@@ -2,13 +2,14 @@
   "id": 387850657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.392477,40.519457,-78.392477,40.519457",
     "geom:latitude":40.519457,
     "geom:longitude":-78.392477,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"505 8th Ave",
     "sg:city":"Altoona",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85818685,
+        102191575,
+        404484619,
         85633793,
         101716595,
         102081325,
-        85818685
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"826676b1935715fb62d45f8e0b3cb281",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081325,
+            "localadmin_id":404484619,
             "locality_id":101716595,
             "neighbourhood_id":85818685,
             "region_id":85688481,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":387850657,
-    "wof:lastmodified":1449058305,
+    "wof:lastmodified":1454360740,
     "wof:name":"Genesis Equipment Sales",
     "wof:parent_id":85818685,
     "wof:placetype":"venue",
@@ -72,6 +76,11 @@
         "supply"
     ]
 },
-  "bbox": [-78.392477,40.519457,-78.392477,40.519457],
+  "bbox": [
+    -78.392477,
+    40.519457,
+    -78.392477,
+    40.519457
+],
   "geometry": {"coordinates":[-78.392477,40.519457],"type":"Point"}
 }

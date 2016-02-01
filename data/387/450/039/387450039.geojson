@@ -2,13 +2,14 @@
   "id": 387450039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.022596,40.515663,-80.022596,40.515663",
     "geom:latitude":40.515663,
     "geom:longitude":-80.022596,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"332 Center Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85827181
+        85827181,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"43cb4a9105c9e8c8b2234477b5e1c94f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85827181,
             "region_id":85688481,
             "venue_id":387450039
         }
     ],
     "wof:id":387450039,
-    "wof:lastmodified":1449059344,
+    "wof:lastmodified":1454361046,
     "wof:name":"Center Avenue Slice",
     "wof:parent_id":85827181,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "pizza"
     ]
 },
-  "bbox": [-80.022596,40.515663,-80.022596,40.515663],
-  "geometry": {"coordinates":[-80.022596,40.515663],"type":"Point"}
+  "bbox": [
+    -80.022596,
+    40.515663,
+    -80.022596,
+    40.515663
+],
+  "geometry": {"coordinates":[-80.02259599999999,40.515663],"type":"Point"}
 }

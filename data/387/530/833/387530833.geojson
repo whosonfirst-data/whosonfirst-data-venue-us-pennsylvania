@@ -2,13 +2,14 @@
   "id": 387530833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.06987,40.374836,-80.06987,40.374836",
     "geom:latitude":40.374836,
     "geom:longitude":-80.06987,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1145 Bower Hill Rd Ste 203",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85805039
+        85805039,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"0e87c9c38740821fe61823a09ade0c17",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85805039,
             "region_id":85688481,
             "venue_id":387530833
         }
     ],
     "wof:id":387530833,
-    "wof:lastmodified":1449058135,
+    "wof:lastmodified":1454360691,
     "wof:name":"Hand Center of Pittsburgh",
     "wof:parent_id":85805039,
     "wof:placetype":"venue",
@@ -68,6 +67,11 @@
         "physical"
     ]
 },
-  "bbox": [-80.06987,40.374836,-80.06987,40.374836],
-  "geometry": {"coordinates":[-80.06987,40.374836],"type":"Point"}
+  "bbox": [
+    -80.06987,
+    40.374836,
+    -80.06987,
+    40.374836
+],
+  "geometry": {"coordinates":[-80.06986999999999,40.374836],"type":"Point"}
 }

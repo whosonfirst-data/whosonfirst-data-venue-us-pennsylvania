@@ -2,13 +2,14 @@
   "id": 387098833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.191672,40.620633,-80.191672,40.620633",
     "geom:latitude":40.620633,
     "geom:longitude":-80.191672,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2459 Herr Ln",
     "sg:city":"Ambridge",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85841931,
+        102191575,
+        404484437,
         85633793,
-        101718813,
-        102080887,
-        85841931
+        101718383,
+        102081323,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"cbfc2859a516d6377fe13be6e15a75e9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102080887,
-            "locality_id":101718813,
+            "county_id":102081323,
+            "localadmin_id":404484437,
+            "locality_id":101718383,
             "neighbourhood_id":85841931,
             "region_id":85688481,
             "venue_id":387098833
         }
     ],
     "wof:id":387098833,
-    "wof:lastmodified":1449059512,
+    "wof:lastmodified":1454361103,
     "wof:name":"Hribar Mike",
     "wof:parent_id":85841931,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "landscape"
     ]
 },
-  "bbox": [-80.191672,40.620633,-80.191672,40.620633],
+  "bbox": [
+    -80.191672,
+    40.620633,
+    -80.191672,
+    40.620633
+],
   "geometry": {"coordinates":[-80.191672,40.620633],"type":"Point"}
 }

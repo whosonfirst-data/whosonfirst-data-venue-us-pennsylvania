@@ -2,13 +2,14 @@
   "id": 387327913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.90023,40.488602,-79.90023,40.488602",
     "geom:latitude":40.488602,
     "geom:longitude":-79.90023,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"101 Emerson Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85830655,
+        102191575,
+        404484931,
         85633793,
+        101718683,
         102080887,
-        85830655
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +46,18 @@
     "wof:geomhash":"afb2c566d5cd8462343338113905381c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
+            "localadmin_id":404484931,
+            "locality_id":101718683,
             "neighbourhood_id":85830655,
             "region_id":85688481,
             "venue_id":387327913
         }
     ],
     "wof:id":387327913,
-    "wof:lastmodified":1449056397,
+    "wof:lastmodified":1454358313,
     "wof:name":"S Sage",
     "wof:parent_id":85830655,
     "wof:placetype":"venue",
@@ -64,6 +69,11 @@
         "disorders-information"
     ]
 },
-  "bbox": [-79.90023,40.488602,-79.90023,40.488602],
-  "geometry": {"coordinates":[-79.90023,40.488602],"type":"Point"}
+  "bbox": [
+    -79.90023,
+    40.488602,
+    -79.90023,
+    40.488602
+],
+  "geometry": {"coordinates":[-79.90022999999999,40.488602],"type":"Point"}
 }

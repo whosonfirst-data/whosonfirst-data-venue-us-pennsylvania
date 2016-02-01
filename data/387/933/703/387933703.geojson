@@ -2,13 +2,14 @@
   "id": 387933703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.179261,40.242565,-77.179261,40.242565",
     "geom:latitude":40.242565,
     "geom:longitude":-77.179261,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1 Cranes Gap Rd",
     "sg:city":"Carlisle",
     "sg:classifiers":[
@@ -25,11 +26,13 @@
     "sg:website":"www.turkeyhillstores.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85865395,
+        102191575,
+        404486423,
         85633793,
         101719085,
         102081359,
-        85865395
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +42,10 @@
     "wof:geomhash":"ba69a388baef8fff646ea3096750a695",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081359,
+            "localadmin_id":404486423,
             "locality_id":101719085,
             "neighbourhood_id":85865395,
             "region_id":85688481,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":387933703,
-    "wof:lastmodified":1449056882,
+    "wof:lastmodified":1454358673,
     "wof:name":"Turkey Hill Minit Market",
     "wof:parent_id":85865395,
     "wof:placetype":"venue",
@@ -57,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.179261,40.242565,-77.179261,40.242565],
+  "bbox": [
+    -77.179261,
+    40.242565,
+    -77.179261,
+    40.242565
+],
   "geometry": {"coordinates":[-77.179261,40.242565],"type":"Point"}
 }

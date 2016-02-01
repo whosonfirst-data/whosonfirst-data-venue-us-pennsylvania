@@ -2,13 +2,14 @@
   "id": 404065843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.34838,40.012044,-76.34838,40.012044",
     "geom:latitude":40.012044,
     "geom:longitude":-76.34838,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"71 Wabank Rd",
     "sg:city":"Millersville",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85854053
+        85854053,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"1894991c522ba9df1bad41c0ed739bc8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85854053,
             "region_id":85688481,
             "venue_id":404065843
         }
     ],
     "wof:id":404065843,
-    "wof:lastmodified":1449040318,
+    "wof:lastmodified":1454357131,
     "wof:name":"East Adventure Sport Tour",
     "wof:parent_id":85854053,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "tours-operators"
     ]
 },
-  "bbox": [-76.34838,40.012044,-76.34838,40.012044],
-  "geometry": {"coordinates":[-76.34838,40.012044],"type":"Point"}
+  "bbox": [
+    -76.34838,
+    40.012044,
+    -76.34838,
+    40.012044
+],
+  "geometry": {"coordinates":[-76.34838000000001,40.012044],"type":"Point"}
 }

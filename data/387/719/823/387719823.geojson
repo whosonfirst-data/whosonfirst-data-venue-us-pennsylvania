@@ -2,13 +2,14 @@
   "id": 387719823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.12978,40.922118,-80.12978,40.922118",
     "geom:latitude":40.922118,
     "geom:longitude":-80.12978,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"230 E Portersville Rd",
     "sg:city":"Portersville",
     "sg:classifiers":[
@@ -37,8 +38,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102083677,
-        85836433
+        85836433,
+        102083677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +49,15 @@
     "wof:geomhash":"08c015dfcb64efbb832b9077ee43051c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102083677,
-            "locality_id":-1,
             "neighbourhood_id":85836433,
             "region_id":85688481,
             "venue_id":387719823
         }
     ],
     "wof:id":387719823,
-    "wof:lastmodified":1449056599,
+    "wof:lastmodified":1454358472,
     "wof:name":"Anderson Health Emporium Llc",
     "wof:parent_id":85836433,
     "wof:placetype":"venue",
@@ -70,6 +69,11 @@
         "diet"
     ]
 },
-  "bbox": [-80.12978,40.922118,-80.12978,40.922118],
+  "bbox": [
+    -80.12978,
+    40.922118,
+    -80.12978,
+    40.922118
+],
   "geometry": {"coordinates":[-80.12978,40.922118],"type":"Point"}
 }

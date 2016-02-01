@@ -2,13 +2,14 @@
   "id": 403896119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.801568,40.258715,-76.801568,40.258715",
     "geom:latitude":40.258715,
     "geom:longitude":-76.801568,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4915 Derry St",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85829991,
+        102191575,
+        404486309,
         85633793,
         101719815,
         102081347,
-        85829991
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"43d9b204a7cbb0d45a9b60d527aa2e90",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
+            "localadmin_id":404486309,
             "locality_id":101719815,
             "neighbourhood_id":85829991,
             "region_id":85688481,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":403896119,
-    "wof:lastmodified":1449055119,
+    "wof:lastmodified":1454357482,
     "wof:name":"Search Is Over",
     "wof:parent_id":85829991,
     "wof:placetype":"venue",
@@ -68,6 +72,11 @@
         "dating"
     ]
 },
-  "bbox": [-76.801568,40.258715,-76.801568,40.258715],
+  "bbox": [
+    -76.801568,
+    40.258715,
+    -76.801568,
+    40.258715
+],
   "geometry": {"coordinates":[-76.801568,40.258715],"type":"Point"}
 }

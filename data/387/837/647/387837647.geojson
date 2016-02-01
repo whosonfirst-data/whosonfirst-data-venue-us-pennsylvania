@@ -2,13 +2,14 @@
   "id": 387837647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.138194,42.093687,-80.138194,42.093687",
     "geom:latitude":42.093687,
     "geom:longitude":-80.138194,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2022 Filmore Ave Ste 1",
     "sg:city":"Erie",
     "sg:classifiers":[
@@ -43,8 +44,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080955,
-        85810495
+        85810495,
+        102080955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,17 +55,15 @@
     "wof:geomhash":"dfa5de1b643418ee61a5b225356204de",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080955,
-            "locality_id":-1,
             "neighbourhood_id":85810495,
             "region_id":85688481,
             "venue_id":387837647
         }
     ],
     "wof:id":387837647,
-    "wof:lastmodified":1449056695,
+    "wof:lastmodified":1454358546,
     "wof:name":"Casco U S A",
     "wof:parent_id":85810495,
     "wof:placetype":"venue",
@@ -77,6 +76,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-80.138194,42.093687,-80.138194,42.093687],
+  "bbox": [
+    -80.138194,
+    42.093687,
+    -80.138194,
+    42.093687
+],
   "geometry": {"coordinates":[-80.138194,42.093687],"type":"Point"}
 }

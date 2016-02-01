@@ -2,13 +2,14 @@
   "id": 404075311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.421539,40.053829,-76.421539,40.053829",
     "geom:latitude":40.053829,
     "geom:longitude":-76.421539,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3350 Horizon Dr",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85824591
+        85824591,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"a407a2b34bf5061be10f9e8d6686b5e4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85824591,
             "region_id":85688481,
             "venue_id":404075311
         }
     ],
     "wof:id":404075311,
-    "wof:lastmodified":1449039789,
+    "wof:lastmodified":1454356803,
     "wof:name":"Lowman Appraisals Inc",
     "wof:parent_id":85824591,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "appraiser"
     ]
 },
-  "bbox": [-76.421539,40.053829,-76.421539,40.053829],
+  "bbox": [
+    -76.421539,
+    40.053829,
+    -76.421539,
+    40.053829
+],
   "geometry": {"coordinates":[-76.421539,40.053829],"type":"Point"}
 }

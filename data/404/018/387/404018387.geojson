@@ -2,13 +2,14 @@
   "id": 404018387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.672108,39.987881,-76.672108,39.987881",
     "geom:latitude":39.987881,
     "geom:longitude":-76.672108,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2951 Whiteford Rd",
     "sg:city":"York",
     "sg:classifiers":[
@@ -47,7 +48,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420540439,
+        102191575,
+        404487939,
         85633793,
+        101719469,
+        102080953,
         85688481
     ],
     "wof:breaches":[],
@@ -58,18 +64,20 @@
     "wof:geomhash":"9362de793ed07b64184468d4c4f71d9b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102080953,
+            "localadmin_id":404487939,
+            "locality_id":101719469,
+            "neighbourhood_id":420540439,
             "region_id":85688481,
             "venue_id":404018387
         }
     ],
     "wof:id":404018387,
-    "wof:lastmodified":1449039695,
+    "wof:lastmodified":1454356760,
     "wof:name":"Allstate Insurance Company - Michael Garofalo",
-    "wof:parent_id":-1,
+    "wof:parent_id":420540439,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -82,6 +90,11 @@
         "renter"
     ]
 },
-  "bbox": [-76.672108,39.987881,-76.672108,39.987881],
-  "geometry": {"coordinates":[-76.672108,39.987881],"type":"Point"}
+  "bbox": [
+    -76.672108,
+    39.987881,
+    -76.672108,
+    39.987881
+],
+  "geometry": {"coordinates":[-76.67210799999999,39.987881],"type":"Point"}
 }

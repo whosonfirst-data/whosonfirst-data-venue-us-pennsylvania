@@ -2,13 +2,14 @@
   "id": 387743239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.081623,40.684837,-80.081623,40.684837",
     "geom:latitude":40.684837,
     "geom:longitude":-80.081623,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1694 Rte 228",
     "sg:city":"Cranberry Twp",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     "sg:website":"www.dibellas.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85824601,
+        102191575,
+        404485077,
         85633793,
         101720147,
         102083677,
-        85824601
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"09d97be8c73c757a44c78888a9c50657",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083677,
+            "localadmin_id":404485077,
             "locality_id":101720147,
             "neighbourhood_id":85824601,
             "region_id":85688481,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":387743239,
-    "wof:lastmodified":1449059897,
+    "wof:lastmodified":1454361225,
     "wof:name":"Dibella's Old Fashioned Submarines",
     "wof:parent_id":85824601,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "sandwich"
     ]
 },
-  "bbox": [-80.081623,40.684837,-80.081623,40.684837],
-  "geometry": {"coordinates":[-80.081623,40.684837],"type":"Point"}
+  "bbox": [
+    -80.081623,
+    40.684837,
+    -80.081623,
+    40.684837
+],
+  "geometry": {"coordinates":[-80.08162299999999,40.684837],"type":"Point"}
 }

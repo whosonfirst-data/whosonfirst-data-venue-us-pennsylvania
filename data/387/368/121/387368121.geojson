@@ -2,13 +2,14 @@
   "id": 387368121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.974337,40.435799,-79.974337,40.435799",
     "geom:latitude":40.435799,
     "geom:longitude":-79.974337,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2340 2nd Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85849261,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85849261
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"69d9c48986d9aab02bf3d9f8182d0ee9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85849261,
             "region_id":85688481,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":387368121,
-    "wof:lastmodified":1449056980,
+    "wof:lastmodified":1454358745,
     "wof:name":"Lindy Paving, Inc.",
     "wof:parent_id":85849261,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "sealcoating"
     ]
 },
-  "bbox": [-79.974337,40.435799,-79.974337,40.435799],
-  "geometry": {"coordinates":[-79.974337,40.435799],"type":"Point"}
+  "bbox": [
+    -79.974337,
+    40.435799,
+    -79.974337,
+    40.435799
+],
+  "geometry": {"coordinates":[-79.97433700000001,40.435799],"type":"Point"}
 }

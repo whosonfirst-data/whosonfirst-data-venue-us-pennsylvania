@@ -2,13 +2,14 @@
   "id": 387325733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.95578,40.442439,-79.95578,40.442439",
     "geom:latitude":40.442439,
     "geom:longitude":-79.95578,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3945 Forbes Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -63,11 +64,13 @@
     "sg:website":"http://www.upsstore.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85838975,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85838975
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,9 +80,10 @@
     "wof:geomhash":"abe970d30a36552fe4519081c8809501",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85838975,
             "region_id":85688481,
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":387325733,
-    "wof:lastmodified":1449057599,
+    "wof:lastmodified":1454360526,
     "wof:name":"The UPS Store",
     "wof:parent_id":85838975,
     "wof:placetype":"venue",
@@ -112,6 +116,11 @@
         "photographic"
     ]
 },
-  "bbox": [-79.95578,40.442439,-79.95578,40.442439],
+  "bbox": [
+    -79.95578,
+    40.442439,
+    -79.95578,
+    40.442439
+],
   "geometry": {"coordinates":[-79.95578,40.442439],"type":"Point"}
 }

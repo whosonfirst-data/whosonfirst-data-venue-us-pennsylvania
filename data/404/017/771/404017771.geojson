@@ -2,13 +2,14 @@
   "id": 404017771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.676109,39.97118,-76.676109,39.97118",
     "geom:latitude":39.97118,
     "geom:longitude":-76.676109,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2500 Kingston Rd",
     "sg:city":"York",
     "sg:classifiers":[
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420540439,
+        102191575,
+        404487939,
         85633793,
         101719469,
-        102080953
+        102080953,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +49,20 @@
     "wof:geomhash":"252e6aa6117c676723b64dcd13305441",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080953,
+            "localadmin_id":404487939,
             "locality_id":101719469,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420540439,
             "region_id":85688481,
             "venue_id":404017771
         }
     ],
     "wof:id":404017771,
-    "wof:lastmodified":1449039772,
+    "wof:lastmodified":1454356788,
     "wof:name":"Cauchon Appraisals",
-    "wof:parent_id":-1,
+    "wof:parent_id":420540439,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -65,6 +70,11 @@
         "appraiser"
     ]
 },
-  "bbox": [-76.676109,39.97118,-76.676109,39.97118],
+  "bbox": [
+    -76.676109,
+    39.97118,
+    -76.676109,
+    39.97118
+],
   "geometry": {"coordinates":[-76.676109,39.97118],"type":"Point"}
 }

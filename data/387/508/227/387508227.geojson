@@ -2,13 +2,14 @@
   "id": 387508227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.88765,40.486839,-79.88765,40.486839",
     "geom:latitude":40.486839,
     "geom:longitude":-79.88765,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"948 Freeport Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     "sg:website":"http://www.kingsjewelry.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85830655,
+        102191575,
+        404484931,
         85633793,
+        101718683,
         102080887,
-        85830655
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +47,18 @@
     "wof:geomhash":"d7246efcb0347f0256bf261e1876e91c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
+            "localadmin_id":404484931,
+            "locality_id":101718683,
             "neighbourhood_id":85830655,
             "region_id":85688481,
             "venue_id":387508227
         }
     ],
     "wof:id":387508227,
-    "wof:lastmodified":1449058242,
+    "wof:lastmodified":1454360718,
     "wof:name":"King's Jewelry",
     "wof:parent_id":85830655,
     "wof:placetype":"venue",
@@ -65,6 +70,11 @@
         "stone"
     ]
 },
-  "bbox": [-79.88765,40.486839,-79.88765,40.486839],
-  "geometry": {"coordinates":[-79.88765,40.486839],"type":"Point"}
+  "bbox": [
+    -79.88765,
+    40.486839,
+    -79.88765,
+    40.486839
+],
+  "geometry": {"coordinates":[-79.88764999999999,40.486839],"type":"Point"}
 }

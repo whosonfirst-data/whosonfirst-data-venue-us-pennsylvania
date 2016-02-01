@@ -2,13 +2,14 @@
   "id": 387303645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.970978,40.478729,-79.970978,40.478729",
     "geom:latitude":40.478729,
     "geom:longitude":-79.970978,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"111 Sheridan St",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -38,11 +39,13 @@
     "sg:website":"http://www.rfpdoctors.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85873555,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85873555
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,9 +55,10 @@
     "wof:geomhash":"0bc55e8b7142df321418588143d46cca",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85873555,
             "region_id":85688481,
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":387303645,
-    "wof:lastmodified":1449056150,
+    "wof:lastmodified":1454358122,
     "wof:name":"Bakkila, Henry A, Md - Renaissance Family Practice",
     "wof:parent_id":85873555,
     "wof:placetype":"venue",
@@ -77,6 +81,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-79.970978,40.478729,-79.970978,40.478729],
+  "bbox": [
+    -79.970978,
+    40.478729,
+    -79.970978,
+    40.478729
+],
   "geometry": {"coordinates":[-79.970978,40.478729],"type":"Point"}
 }

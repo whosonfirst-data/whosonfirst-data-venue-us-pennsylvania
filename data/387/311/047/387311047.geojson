@@ -2,13 +2,14 @@
   "id": 387311047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.004112,40.43018,-80.004112,40.43018",
     "geom:latitude":40.43018,
     "geom:longitude":-80.004112,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"84 E Sycamore St",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"http://www.hicwilco.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85835785,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85835785
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"9f7054ad2edfc7b938087eeedfafca81",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85835785,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387311047,
-    "wof:lastmodified":1449056997,
+    "wof:lastmodified":1454358756,
     "wof:name":"Hickman, Williams & Company",
     "wof:parent_id":85835785,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "specially"
     ]
 },
-  "bbox": [-80.004112,40.43018,-80.004112,40.43018],
-  "geometry": {"coordinates":[-80.004112,40.43018],"type":"Point"}
+  "bbox": [
+    -80.004112,
+    40.43018,
+    -80.004112,
+    40.43018
+],
+  "geometry": {"coordinates":[-80.00411200000001,40.43018],"type":"Point"}
 }

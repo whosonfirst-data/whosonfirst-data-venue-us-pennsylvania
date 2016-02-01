@@ -2,13 +2,14 @@
   "id": 387161999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.290775,40.674328,-80.290775,40.674328",
     "geom:latitude":40.674328,
     "geom:longitude":-80.290775,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1280 Chapel Rd",
     "sg:city":"Monaca",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85814681,
+        102191575,
+        404484467,
         85633793,
         101718359,
         102081323,
-        85814681
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"605cd147eecd0237824c18c37f279645",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081323,
+            "localadmin_id":404484467,
             "locality_id":101718359,
             "neighbourhood_id":85814681,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387161999,
-    "wof:lastmodified":1449057615,
+    "wof:lastmodified":1454360531,
     "wof:name":"Dgn Customs",
     "wof:parent_id":85814681,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "tune"
     ]
 },
-  "bbox": [-80.290775,40.674328,-80.290775,40.674328],
+  "bbox": [
+    -80.290775,
+    40.674328,
+    -80.290775,
+    40.674328
+],
   "geometry": {"coordinates":[-80.290775,40.674328],"type":"Point"}
 }

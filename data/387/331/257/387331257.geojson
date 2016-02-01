@@ -2,13 +2,14 @@
   "id": 387331257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.048498,40.393816,-80.048498,40.393816",
     "geom:latitude":40.393816,
     "geom:longitude":-80.048498,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"215 Morrison Dr",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85804395,
+        102191575,
+        404482523,
         85633793,
+        101718805,
         102080887,
-        85804395
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,17 +41,18 @@
     "wof:geomhash":"9e40ff965895f34feef2ae6eec19d60a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
+            "localadmin_id":404482523,
+            "locality_id":101718805,
             "neighbourhood_id":85804395,
             "region_id":85688481,
             "venue_id":387331257
         }
     ],
     "wof:id":387331257,
-    "wof:lastmodified":1449058417,
+    "wof:lastmodified":1454360775,
     "wof:name":"Stang William L",
     "wof:parent_id":85804395,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.048498,40.393816,-80.048498,40.393816],
+  "bbox": [
+    -80.048498,
+    40.393816,
+    -80.048498,
+    40.393816
+],
   "geometry": {"coordinates":[-80.048498,40.393816],"type":"Point"}
 }

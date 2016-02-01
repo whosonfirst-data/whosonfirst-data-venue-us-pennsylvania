@@ -2,13 +2,14 @@
   "id": 387579513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.912651,39.798939,-79.912651,39.798939",
     "geom:latitude":39.798939,
     "geom:longitude":-79.912651,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"306 Stoney Hill Rd",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -46,7 +47,6 @@
     "wof:geomhash":"5e1f57379761e40affe07080df9b8670",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080975,
             "locality_id":101717731,
@@ -56,7 +56,7 @@
         }
     ],
     "wof:id":387579513,
-    "wof:lastmodified":1449057309,
+    "wof:lastmodified":1454359007,
     "wof:name":"Grocery Bag",
     "wof:parent_id":85821639,
     "wof:placetype":"venue",
@@ -66,6 +66,11 @@
         "grocers-specialty"
     ]
 },
-  "bbox": [-79.912651,39.798939,-79.912651,39.798939],
+  "bbox": [
+    -79.912651,
+    39.798939,
+    -79.912651,
+    39.798939
+],
   "geometry": {"coordinates":[-79.912651,39.798939],"type":"Point"}
 }

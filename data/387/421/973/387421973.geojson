@@ -2,13 +2,14 @@
   "id": 387421973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.984001,40.452202,-79.984001,40.452202",
     "geom:latitude":40.452202,
     "geom:longitude":-79.984001,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"56 21st St",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85851271,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85851271
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"75dd30423b67c837cad462b71deeac14",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85851271,
             "region_id":85688481,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":387421973,
-    "wof:lastmodified":1449058524,
+    "wof:lastmodified":1454360803,
     "wof:name":"Twiced Loved Antiques",
     "wof:parent_id":85851271,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.984001,40.452202,-79.984001,40.452202],
-  "geometry": {"coordinates":[-79.984001,40.452202],"type":"Point"}
+  "bbox": [
+    -79.984001,
+    40.452202,
+    -79.984001,
+    40.452202
+],
+  "geometry": {"coordinates":[-79.98400100000001,40.452202],"type":"Point"}
 }

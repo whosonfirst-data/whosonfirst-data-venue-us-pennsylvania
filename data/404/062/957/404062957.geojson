@@ -2,13 +2,14 @@
   "id": 404062957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.365754,40.202114,-76.365754,40.202114",
     "geom:latitude":40.202114,
     "geom:longitude":-76.365754,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1735 Keith Ln",
     "sg:city":"Manheim",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85836395
+        85836395,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"c2205cdaed815c0705002eb42fceb15c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85836395,
             "region_id":85688481,
             "venue_id":404062957
         }
     ],
     "wof:id":404062957,
-    "wof:lastmodified":1449040261,
+    "wof:lastmodified":1454357095,
     "wof:name":"Personal Mortgage Services Inc",
     "wof:parent_id":85836395,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-76.365754,40.202114,-76.365754,40.202114],
+  "bbox": [
+    -76.365754,
+    40.202114,
+    -76.365754,
+    40.202114
+],
   "geometry": {"coordinates":[-76.365754,40.202114],"type":"Point"}
 }

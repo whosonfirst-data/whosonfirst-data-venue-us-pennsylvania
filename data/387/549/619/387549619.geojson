@@ -2,13 +2,14 @@
   "id": 387549619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.206853,40.295303,-80.206853,40.295303",
     "geom:latitude":40.295303,
     "geom:longitude":-80.206853,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1012 Fieldstone Dr",
     "sg:city":"Canonsburg",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081343,
-        85853571
+        85853571,
+        102081343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"d4e903f380d98b590bdaed150d972a7e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081343,
-            "locality_id":-1,
             "neighbourhood_id":85853571,
             "region_id":85688481,
             "venue_id":387549619
         }
     ],
     "wof:id":387549619,
-    "wof:lastmodified":1449057143,
+    "wof:lastmodified":1454358875,
     "wof:name":"Ryan Homes",
     "wof:parent_id":85853571,
     "wof:placetype":"venue",
@@ -61,6 +60,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.206853,40.295303,-80.206853,40.295303],
+  "bbox": [
+    -80.206853,
+    40.295303,
+    -80.206853,
+    40.295303
+],
   "geometry": {"coordinates":[-80.206853,40.295303],"type":"Point"}
 }

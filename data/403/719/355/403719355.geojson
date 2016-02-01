@@ -2,13 +2,14 @@
   "id": 403719355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.428802,40.332448,-76.428802,40.332448",
     "geom:latitude":40.332448,
     "geom:longitude":-76.428802,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1118 Victor St",
     "sg:city":"Lebanon",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85842249,
+        102191575,
+        404485699,
         85633793,
         101717093,
         102081341,
-        85842249
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"842273e581c1889d36a24c157e86e807",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081341,
+            "localadmin_id":404485699,
             "locality_id":101717093,
             "neighbourhood_id":85842249,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":403719355,
-    "wof:lastmodified":1449054794,
+    "wof:lastmodified":1454357285,
     "wof:name":"Project Welcome Home",
     "wof:parent_id":85842249,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "bureau"
     ]
 },
-  "bbox": [-76.428802,40.332448,-76.428802,40.332448],
+  "bbox": [
+    -76.428802,
+    40.332448,
+    -76.428802,
+    40.332448
+],
   "geometry": {"coordinates":[-76.428802,40.332448],"type":"Point"}
 }

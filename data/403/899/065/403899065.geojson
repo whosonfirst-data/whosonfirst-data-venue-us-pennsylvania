@@ -2,13 +2,14 @@
   "id": 403899065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.830245,40.25386,-76.830245,40.25386",
     "geom:latitude":40.25386,
     "geom:longitude":-76.830245,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3501 Paxton Street",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85868485
+        85868485,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"6ba44bc8696fd5cc00e936cd1be31960",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85868485,
             "region_id":85688481,
             "venue_id":403899065
         }
     ],
     "wof:id":403899065,
-    "wof:lastmodified":1449055883,
+    "wof:lastmodified":1454357928,
     "wof:name":"Bass Pro Shops",
     "wof:parent_id":85868485,
     "wof:placetype":"venue",
@@ -63,6 +62,11 @@
         "gear"
     ]
 },
-  "bbox": [-76.830245,40.25386,-76.830245,40.25386],
-  "geometry": {"coordinates":[-76.830245,40.25386],"type":"Point"}
+  "bbox": [
+    -76.830245,
+    40.25386,
+    -76.830245,
+    40.25386
+],
+  "geometry": {"coordinates":[-76.83024500000001,40.25386],"type":"Point"}
 }

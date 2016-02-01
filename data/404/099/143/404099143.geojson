@@ -2,13 +2,14 @@
   "id": 404099143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.992204,41.255249,-76.992204,41.255249",
     "geom:latitude":41.255249,
     "geom:longitude":-76.992204,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"621 Woodland Ave",
     "sg:city":"Williamsport",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081317,
-        85828027
+        85828027,
+        102081317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"17c07125fb7a161c88351c5851c18eb1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081317,
-            "locality_id":-1,
             "neighbourhood_id":85828027,
             "region_id":85688481,
             "venue_id":404099143
         }
     ],
     "wof:id":404099143,
-    "wof:lastmodified":1449039915,
+    "wof:lastmodified":1454356889,
     "wof:name":"B K Disposal And Service",
     "wof:parent_id":85828027,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "bureau"
     ]
 },
-  "bbox": [-76.992204,41.255249,-76.992204,41.255249],
+  "bbox": [
+    -76.992204,
+    41.255249,
+    -76.992204,
+    41.255249
+],
   "geometry": {"coordinates":[-76.992204,41.255249],"type":"Point"}
 }

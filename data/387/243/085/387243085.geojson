@@ -2,13 +2,14 @@
   "id": 387243085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.147723,40.505796,-80.147723,40.505796",
     "geom:latitude":40.505796,
     "geom:longitude":-80.147723,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"615 Cornell St",
     "sg:city":"Coraopolis",
     "sg:classifiers":[
@@ -40,8 +41,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85835035
+        85835035,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,17 +52,15 @@
     "wof:geomhash":"2f7a46fd25fb7cefcad7281205b658e0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85835035,
             "region_id":85688481,
             "venue_id":387243085
         }
     ],
     "wof:id":387243085,
-    "wof:lastmodified":1449057333,
+    "wof:lastmodified":1454359032,
     "wof:name":"Hillview Home",
     "wof:parent_id":85835035,
     "wof:placetype":"venue",
@@ -76,6 +75,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-80.147723,40.505796,-80.147723,40.505796],
+  "bbox": [
+    -80.147723,
+    40.505796,
+    -80.147723,
+    40.505796
+],
   "geometry": {"coordinates":[-80.147723,40.505796],"type":"Point"}
 }

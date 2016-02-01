@@ -2,13 +2,14 @@
   "id": 387500721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.025556,40.574509,-80.025556,40.574509",
     "geom:latitude":40.574509,
     "geom:longitude":-80.025556,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"9365 McKnight Rd Ste 200",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85820441
+        85820441,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"e17a388c78dc7537fd4646fa735eac35",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85820441,
             "region_id":85688481,
             "venue_id":387500721
         }
     ],
     "wof:id":387500721,
-    "wof:lastmodified":1449057055,
+    "wof:lastmodified":1454358804,
     "wof:name":"White Michael J MD",
     "wof:parent_id":85820441,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "cosmetic"
     ]
 },
-  "bbox": [-80.025556,40.574509,-80.025556,40.574509],
-  "geometry": {"coordinates":[-80.025556,40.574509],"type":"Point"}
+  "bbox": [
+    -80.025556,
+    40.574509,
+    -80.025556,
+    40.574509
+],
+  "geometry": {"coordinates":[-80.02555599999999,40.574509],"type":"Point"}
 }

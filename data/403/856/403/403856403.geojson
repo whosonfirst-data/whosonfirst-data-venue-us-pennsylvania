@@ -2,13 +2,14 @@
   "id": 403856403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.851289,40.277301,-76.851289,40.277301",
     "geom:latitude":40.277301,
     "geom:longitude":-76.851289,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2459 Walnut St",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -34,8 +35,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85840955
+        85840955,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +46,15 @@
     "wof:geomhash":"e74388c1267f4de38d808c7f295af9be",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85840955,
             "region_id":85688481,
             "venue_id":403856403
         }
     ],
     "wof:id":403856403,
-    "wof:lastmodified":1449055019,
+    "wof:lastmodified":1454357421,
     "wof:name":"Covenant Counseling Services, Inc.",
     "wof:parent_id":85840955,
     "wof:placetype":"venue",
@@ -65,6 +64,11 @@
         "counseling"
     ]
 },
-  "bbox": [-76.851289,40.277301,-76.851289,40.277301],
-  "geometry": {"coordinates":[-76.851289,40.277301],"type":"Point"}
+  "bbox": [
+    -76.851289,
+    40.277301,
+    -76.851289,
+    40.277301
+],
+  "geometry": {"coordinates":[-76.85128899999999,40.277301],"type":"Point"}
 }

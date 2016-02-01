@@ -2,13 +2,14 @@
   "id": 403883789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.838944,40.262934,-76.838944,40.262934",
     "geom:latitude":40.262934,
     "geom:longitude":-76.838944,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3003 North Duke Street Suite 201",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85868485
+        85868485,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"b2ed6d23e25b54daac1249c4350470a3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85868485,
             "region_id":85688481,
             "venue_id":403883789
         }
     ],
     "wof:id":403883789,
-    "wof:lastmodified":1449055650,
+    "wof:lastmodified":1454357798,
     "wof:name":"Quandel Group Inc",
     "wof:parent_id":85868485,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "management"
     ]
 },
-  "bbox": [-76.838944,40.262934,-76.838944,40.262934],
+  "bbox": [
+    -76.838944,
+    40.262934,
+    -76.838944,
+    40.262934
+],
   "geometry": {"coordinates":[-76.838944,40.262934],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387307095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.986397,40.4175,-79.986397,40.4175",
     "geom:latitude":40.4175,
     "geom:longitude":-79.986397,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"101 Brownsville Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536321,
+        102191575,
+        404482523,
         85633793,
-        101718839,
-        102080887
+        101718805,
+        102080887,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"6a91239c82673e45e0eef192da624da1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":101718839,
-            "neighbourhood_id":-1,
+            "localadmin_id":404482523,
+            "locality_id":101718805,
+            "neighbourhood_id":420536321,
             "region_id":85688481,
             "venue_id":387307095
         }
     ],
     "wof:id":387307095,
-    "wof:lastmodified":1449057086,
+    "wof:lastmodified":1454358824,
     "wof:name":"Promistar Bank",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536321,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.986397,40.4175,-79.986397,40.4175],
+  "bbox": [
+    -79.986397,
+    40.4175,
+    -79.986397,
+    40.4175
+],
   "geometry": {"coordinates":[-79.986397,40.4175],"type":"Point"}
 }

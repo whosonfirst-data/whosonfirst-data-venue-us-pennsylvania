@@ -2,13 +2,14 @@
   "id": 387851729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.398705,40.488455,-78.398705,40.488455",
     "geom:latitude":40.488455,
     "geom:longitude":-78.398705,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2907 Pleasant Valley Blvd # 9",
     "sg:city":"Altoona",
     "sg:classifiers":[
@@ -24,7 +25,12 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420536715,
+        102191575,
+        404484619,
         85633793,
+        101716595,
+        102081325,
         85688481
     ],
     "wof:breaches":[],
@@ -35,23 +41,30 @@
     "wof:geomhash":"920c919ace2c4ff4fde31a10e85a8652",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081325,
+            "localadmin_id":404484619,
+            "locality_id":101716595,
+            "neighbourhood_id":420536715,
             "region_id":85688481,
             "venue_id":387851729
         }
     ],
     "wof:id":387851729,
-    "wof:lastmodified":1449058616,
+    "wof:lastmodified":1454360829,
     "wof:name":"Altoona Va Hospital Federal Credit Union",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536715,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.398705,40.488455,-78.398705,40.488455],
-  "geometry": {"coordinates":[-78.398705,40.488455],"type":"Point"}
+  "bbox": [
+    -78.398705,
+    40.488455,
+    -78.398705,
+    40.488455
+],
+  "geometry": {"coordinates":[-78.39870500000001,40.488455],"type":"Point"}
 }

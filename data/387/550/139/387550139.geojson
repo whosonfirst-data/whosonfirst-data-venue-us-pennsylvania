@@ -2,13 +2,14 @@
   "id": 387550139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.133013,40.262762,-80.133013,40.262762",
     "geom:latitude":40.262762,
     "geom:longitude":-80.133013,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4185 Washington Rd",
     "sg:city":"Canonsburg",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081343,
-        85814861
+        85814861,
+        102081343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"d10c0f307a9e85045ebb1a9ab7436dc8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081343,
-            "locality_id":-1,
             "neighbourhood_id":85814861,
             "region_id":85688481,
             "venue_id":387550139
         }
     ],
     "wof:id":387550139,
-    "wof:lastmodified":1449058168,
+    "wof:lastmodified":1454360700,
     "wof:name":"Rite Aid Pharmacies",
     "wof:parent_id":85814861,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "drugstore"
     ]
 },
-  "bbox": [-80.133013,40.262762,-80.133013,40.262762],
-  "geometry": {"coordinates":[-80.133013,40.262762],"type":"Point"}
+  "bbox": [
+    -80.133013,
+    40.262762,
+    -80.133013,
+    40.262762
+],
+  "geometry": {"coordinates":[-80.13301300000001,40.262762],"type":"Point"}
 }

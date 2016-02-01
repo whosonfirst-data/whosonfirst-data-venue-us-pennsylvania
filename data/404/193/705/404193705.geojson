@@ -2,13 +2,14 @@
   "id": 404193705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.423594,40.662548,-75.423594,40.662548",
     "geom:latitude":40.662548,
     "geom:longitude":-75.423594,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2240 Schoenersville Rd",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -91,8 +92,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081395,
-        85814279
+        85814279,
+        102081395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -102,17 +103,15 @@
     "wof:geomhash":"ad14e1e10ae3c0a147066bb353c4baa2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081395,
-            "locality_id":-1,
             "neighbourhood_id":85814279,
             "region_id":85688481,
             "venue_id":404193705
         }
     ],
     "wof:id":404193705,
-    "wof:lastmodified":1449039211,
+    "wof:lastmodified":1454356528,
     "wof:name":"Walgreens Pharmacies",
     "wof:parent_id":85814279,
     "wof:placetype":"venue",
@@ -133,6 +132,11 @@
         "consumer"
     ]
 },
-  "bbox": [-75.423594,40.662548,-75.423594,40.662548],
-  "geometry": {"coordinates":[-75.423594,40.662548],"type":"Point"}
+  "bbox": [
+    -75.423594,
+    40.662548,
+    -75.423594,
+    40.662548
+],
+  "geometry": {"coordinates":[-75.42359399999999,40.662548],"type":"Point"}
 }

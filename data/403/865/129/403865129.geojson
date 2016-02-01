@@ -2,13 +2,14 @@
   "id": 403865129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.860579,40.264209,-76.860579,40.264209",
     "geom:latitude":40.264209,
     "geom:longitude":-76.860579,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1824 Holly St",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -32,8 +33,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85817391
+        85817391,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +44,15 @@
     "wof:geomhash":"feba72748b91a30119291ada6c7085ea",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85817391,
             "region_id":85688481,
             "venue_id":403865129
         }
     ],
     "wof:id":403865129,
-    "wof:lastmodified":1449055635,
+    "wof:lastmodified":1454357792,
     "wof:name":"Web Solution Group",
     "wof:parent_id":85817391,
     "wof:placetype":"venue",
@@ -65,6 +64,11 @@
         "software"
     ]
 },
-  "bbox": [-76.860579,40.264209,-76.860579,40.264209],
+  "bbox": [
+    -76.860579,
+    40.264209,
+    -76.860579,
+    40.264209
+],
   "geometry": {"coordinates":[-76.860579,40.264209],"type":"Point"}
 }

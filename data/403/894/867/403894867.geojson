@@ -2,13 +2,14 @@
   "id": 403894867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.842667,40.259319,-76.842667,40.259319",
     "geom:latitude":40.259319,
     "geom:longitude":-76.842667,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"803 S 26th St",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -41,8 +42,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85868485
+        85868485,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,17 +53,15 @@
     "wof:geomhash":"5572ced078e28985157872632af3d0f7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85868485,
             "region_id":85688481,
             "venue_id":403894867
         }
     ],
     "wof:id":403894867,
-    "wof:lastmodified":1449055169,
+    "wof:lastmodified":1454357510,
     "wof:name":"Thermotech Inc",
     "wof:parent_id":85868485,
     "wof:placetype":"venue",
@@ -78,6 +77,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-76.842667,40.259319,-76.842667,40.259319],
-  "geometry": {"coordinates":[-76.842667,40.259319],"type":"Point"}
+  "bbox": [
+    -76.842667,
+    40.259319,
+    -76.842667,
+    40.259319
+],
+  "geometry": {"coordinates":[-76.84266700000001,40.259319],"type":"Point"}
 }

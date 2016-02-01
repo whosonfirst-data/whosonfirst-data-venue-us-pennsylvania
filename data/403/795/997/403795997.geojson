@@ -2,13 +2,14 @@
   "id": 403795997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.603659,40.270459,-76.603659,40.270459",
     "geom:latitude":40.270459,
     "geom:longitude":-76.603659,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"965 Eby Rd",
     "sg:city":"Palmyra",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"http://www.grsproperties.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85825831,
+        102191575,
+        404483303,
         85633793,
         101719813,
         102081347,
-        85825831
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"a2d5b6110f7657116054901d90d68ec5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
+            "localadmin_id":404483303,
             "locality_id":101719813,
             "neighbourhood_id":85825831,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":403795997,
-    "wof:lastmodified":1449055436,
+    "wof:lastmodified":1454357672,
     "wof:name":"Grs Properties",
     "wof:parent_id":85825831,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "park"
     ]
 },
-  "bbox": [-76.603659,40.270459,-76.603659,40.270459],
-  "geometry": {"coordinates":[-76.603659,40.270459],"type":"Point"}
+  "bbox": [
+    -76.603659,
+    40.270459,
+    -76.603659,
+    40.270459
+],
+  "geometry": {"coordinates":[-76.60365899999999,40.270459],"type":"Point"}
 }

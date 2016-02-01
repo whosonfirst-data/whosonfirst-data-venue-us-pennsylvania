@@ -2,13 +2,14 @@
   "id": 403893869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.839544,40.255763,-76.839544,40.255763",
     "geom:latitude":40.255763,
     "geom:longitude":-76.839544,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2885 Paxton St",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -27,8 +28,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85868485
+        85868485,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +39,15 @@
     "wof:geomhash":"31f0716815afda1972145207847c7452",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85868485,
             "region_id":85688481,
             "venue_id":403893869
         }
     ],
     "wof:id":403893869,
-    "wof:lastmodified":1449055715,
+    "wof:lastmodified":1454357838,
     "wof:name":"Turkey Hill Market",
     "wof:parent_id":85868485,
     "wof:placetype":"venue",
@@ -56,6 +55,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.839544,40.255763,-76.839544,40.255763],
+  "bbox": [
+    -76.839544,
+    40.255763,
+    -76.839544,
+    40.255763
+],
   "geometry": {"coordinates":[-76.839544,40.255763],"type":"Point"}
 }

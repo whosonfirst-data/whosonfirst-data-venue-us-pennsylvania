@@ -2,13 +2,14 @@
   "id": 387744313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.111546,40.693167,-80.111546,40.693167",
     "geom:latitude":40.693167,
     "geom:longitude":-80.111546,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1500 Thomson Park Dr",
     "sg:city":"Cranberry Township",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102083677,
-        85812951
+        85812951,
+        102083677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"c70e7d115f15f2acda6818846c933214",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102083677,
-            "locality_id":-1,
             "neighbourhood_id":85812951,
             "region_id":85688481,
             "venue_id":387744313
         }
     ],
     "wof:id":387744313,
-    "wof:lastmodified":1449057468,
+    "wof:lastmodified":1454359148,
     "wof:name":"Fedex World Service Center",
     "wof:parent_id":85812951,
     "wof:placetype":"venue",
@@ -61,6 +60,11 @@
         "notary"
     ]
 },
-  "bbox": [-80.111546,40.693167,-80.111546,40.693167],
+  "bbox": [
+    -80.111546,
+    40.693167,
+    -80.111546,
+    40.693167
+],
   "geometry": {"coordinates":[-80.111546,40.693167],"type":"Point"}
 }

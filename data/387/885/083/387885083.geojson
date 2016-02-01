@@ -2,13 +2,14 @@
   "id": 387885083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.414234,41.022182,-78.414234,41.022182",
     "geom:latitude":41.022182,
     "geom:longitude":-78.414234,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1800 Daisy Street Ext Ste 100",
     "sg:city":"Clearfield",
     "sg:classifiers":[
@@ -44,8 +45,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080967,
-        85830317
+        85830317,
+        102080967
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,17 +56,15 @@
     "wof:geomhash":"e7e357d5965096006a47e9a2c846e69b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080967,
-            "locality_id":-1,
             "neighbourhood_id":85830317,
             "region_id":85688481,
             "venue_id":387885083
         }
     ],
     "wof:id":387885083,
-    "wof:lastmodified":1449058130,
+    "wof:lastmodified":1454360688,
     "wof:name":"Peebles Stores Exclusive Offer",
     "wof:parent_id":85830317,
     "wof:placetype":"venue",
@@ -80,6 +79,11 @@
         "sportswear"
     ]
 },
-  "bbox": [-78.414234,41.022182,-78.414234,41.022182],
-  "geometry": {"coordinates":[-78.414234,41.022182],"type":"Point"}
+  "bbox": [
+    -78.414234,
+    41.022182,
+    -78.414234,
+    41.022182
+],
+  "geometry": {"coordinates":[-78.41423399999999,41.022182],"type":"Point"}
 }

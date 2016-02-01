@@ -2,13 +2,14 @@
   "id": 387266259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.777116,40.415029,-79.777116,40.415029",
     "geom:latitude":40.415029,
     "geom:longitude":-79.777116,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1330 Wall Ave",
     "sg:city":"Pitcairn",
     "sg:classifiers":[
@@ -93,11 +94,13 @@
     "sg:website":"https://smclean.custhelp.com/cgi-bin/smclean.cfg/php/enduser/doc_serve.php?2=BSYellowPages09",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85834841,
+        102191575,
+        404484135,
         85633793,
         101718841,
         102080887,
-        85834841
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -107,9 +110,10 @@
     "wof:geomhash":"009c9d000f05a6d455f2d05a7115a0f2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484135,
             "locality_id":101718841,
             "neighbourhood_id":85834841,
             "region_id":85688481,
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":387266259,
-    "wof:lastmodified":1449056235,
+    "wof:lastmodified":1454358186,
     "wof:name":"ServiceMaster Clean",
     "wof:parent_id":85834841,
     "wof:placetype":"venue",
@@ -157,6 +161,11 @@
         "polishing"
     ]
 },
-  "bbox": [-79.777116,40.415029,-79.777116,40.415029],
-  "geometry": {"coordinates":[-79.777116,40.415029],"type":"Point"}
+  "bbox": [
+    -79.777116,
+    40.415029,
+    -79.777116,
+    40.415029
+],
+  "geometry": {"coordinates":[-79.77711600000001,40.415029],"type":"Point"}
 }

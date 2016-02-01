@@ -2,13 +2,14 @@
   "id": 387306001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.992905,40.42196,-79.992905,40.42196",
     "geom:latitude":40.42196,
     "geom:longitude":-79.992905,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"821 E Warrington Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85802827,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85802827
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"70933ddb3be30e0b88e7d4715569a7c5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85802827,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387306001,
-    "wof:lastmodified":1449059742,
+    "wof:lastmodified":1454361178,
     "wof:name":"Paisano's",
     "wof:parent_id":85802827,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "pizza"
     ]
 },
-  "bbox": [-79.992905,40.42196,-79.992905,40.42196],
-  "geometry": {"coordinates":[-79.992905,40.42196],"type":"Point"}
+  "bbox": [
+    -79.992905,
+    40.42196,
+    -79.992905,
+    40.42196
+],
+  "geometry": {"coordinates":[-79.99290499999999,40.42196],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403895775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.756031,40.314575,-76.756031,40.314575",
     "geom:latitude":40.314575,
     "geom:longitude":-76.756031,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6916 Devonshire Heights Rd",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85848911,
+        102191575,
+        404486315,
         85633793,
         101719829,
         102081347,
-        85848911
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"7038698be7bcd4b184b965e58cbb051a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
+            "localadmin_id":404486315,
             "locality_id":101719829,
             "neighbourhood_id":85848911,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":403895775,
-    "wof:lastmodified":1449055199,
+    "wof:lastmodified":1454357529,
     "wof:name":"Impact Products & Services",
     "wof:parent_id":85848911,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "engraving"
     ]
 },
-  "bbox": [-76.756031,40.314575,-76.756031,40.314575],
-  "geometry": {"coordinates":[-76.756031,40.314575],"type":"Point"}
+  "bbox": [
+    -76.756031,
+    40.314575,
+    -76.756031,
+    40.314575
+],
+  "geometry": {"coordinates":[-76.75603099999999,40.314575],"type":"Point"}
 }

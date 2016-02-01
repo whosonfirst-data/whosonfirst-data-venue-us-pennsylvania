@@ -2,13 +2,14 @@
   "id": 387771119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.51954,40.816454,-79.51954,40.816454",
     "geom:latitude":40.816454,
     "geom:longitude":-79.51954,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"334 Arch St",
     "sg:city":"Kittanning",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081371,
-        85816487
+        85816487,
+        102081371
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"127a0de97dce23d68a87aab99eb8bc65",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081371,
-            "locality_id":-1,
             "neighbourhood_id":85816487,
             "region_id":85688481,
             "venue_id":387771119
         }
     ],
     "wof:id":387771119,
-    "wof:lastmodified":1449058179,
+    "wof:lastmodified":1454360702,
     "wof:name":"First Baptist Church",
     "wof:parent_id":85816487,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "churches-baptist"
     ]
 },
-  "bbox": [-79.51954,40.816454,-79.51954,40.816454],
-  "geometry": {"coordinates":[-79.51954,40.816454],"type":"Point"}
+  "bbox": [
+    -79.51954,
+    40.816454,
+    -79.51954,
+    40.816454
+],
+  "geometry": {"coordinates":[-79.51954000000001,40.816454],"type":"Point"}
 }

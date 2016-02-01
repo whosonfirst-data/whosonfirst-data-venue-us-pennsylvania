@@ -2,13 +2,14 @@
   "id": 387504463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.037003,40.54863,-80.037003,40.54863",
     "geom:latitude":40.54863,
     "geom:longitude":-80.037003,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1137 Perry Hwy",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85841395
+        85841395,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"6d2a7a64490d31f632584615a10cee4f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85841395,
             "region_id":85688481,
             "venue_id":387504463
         }
     ],
     "wof:id":387504463,
-    "wof:lastmodified":1449056770,
+    "wof:lastmodified":1454358595,
     "wof:name":"Heyl Florist",
     "wof:parent_id":85841395,
     "wof:placetype":"venue",
@@ -68,6 +67,11 @@
         "nurseries-plants"
     ]
 },
-  "bbox": [-80.037003,40.54863,-80.037003,40.54863],
+  "bbox": [
+    -80.037003,
+    40.54863,
+    -80.037003,
+    40.54863
+],
   "geometry": {"coordinates":[-80.037003,40.54863],"type":"Point"}
 }

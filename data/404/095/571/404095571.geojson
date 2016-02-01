@@ -2,13 +2,14 @@
   "id": 404095571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.314163,40.045198,-76.314163,40.045198",
     "geom:latitude":40.045198,
     "geom:longitude":-76.314163,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"407 W James St",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85858805
+        85858805,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"3ae68f5cbe649e8d109aaab43e52699b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85858805,
             "region_id":85688481,
             "venue_id":404095571
         }
     ],
     "wof:id":404095571,
-    "wof:lastmodified":1449039699,
+    "wof:lastmodified":1454356763,
     "wof:name":"Ballew Consulting Group",
     "wof:parent_id":85858805,
     "wof:placetype":"venue",
@@ -64,6 +63,11 @@
         "academic"
     ]
 },
-  "bbox": [-76.314163,40.045198,-76.314163,40.045198],
-  "geometry": {"coordinates":[-76.314163,40.045198],"type":"Point"}
+  "bbox": [
+    -76.314163,
+    40.045198,
+    -76.314163,
+    40.045198
+],
+  "geometry": {"coordinates":[-76.31416299999999,40.045198],"type":"Point"}
 }

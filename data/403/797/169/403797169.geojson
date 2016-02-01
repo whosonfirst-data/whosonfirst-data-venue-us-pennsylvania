@@ -2,13 +2,14 @@
   "id": 403797169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.253129,40.45401,-76.253129,40.45401",
     "geom:latitude":40.45401,
     "geom:longitude":-76.253129,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"14 Cherry Hill Rd",
     "sg:city":"Richland",
     "sg:classifiers":[
@@ -34,8 +35,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080991,
-        85846219
+        85846219,
+        102080991
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +46,15 @@
     "wof:geomhash":"61ec4c6d9ca1c009076b631f4ece6140",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080991,
-            "locality_id":-1,
             "neighbourhood_id":85846219,
             "region_id":85688481,
             "venue_id":403797169
         }
     ],
     "wof:id":403797169,
-    "wof:lastmodified":1449055838,
+    "wof:lastmodified":1454357902,
     "wof:name":"Leon Sadler",
     "wof:parent_id":85846219,
     "wof:placetype":"venue",
@@ -65,6 +64,11 @@
         "hay"
     ]
 },
-  "bbox": [-76.253129,40.45401,-76.253129,40.45401],
+  "bbox": [
+    -76.253129,
+    40.45401,
+    -76.253129,
+    40.45401
+],
   "geometry": {"coordinates":[-76.253129,40.45401],"type":"Point"}
 }

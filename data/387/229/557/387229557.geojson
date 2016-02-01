@@ -2,13 +2,14 @@
   "id": 387229557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.875282,40.408531,-79.875282,40.408531",
     "geom:latitude":40.408531,
     "geom:longitude":-79.875282,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"20 Holland Ave",
     "sg:city":"Braddock",
     "sg:classifiers":[
@@ -40,11 +41,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85851951,
+        102191575,
+        404482541,
         85633793,
         101718713,
         102080887,
-        85851951
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,9 +57,10 @@
     "wof:geomhash":"26330f0f45f06da3a9f796c045a5423d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482541,
             "locality_id":101718713,
             "neighbourhood_id":85851951,
             "region_id":85688481,
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":387229557,
-    "wof:lastmodified":1449059148,
+    "wof:lastmodified":1454360997,
     "wof:name":"Debra House",
     "wof:parent_id":85851951,
     "wof:placetype":"venue",
@@ -77,6 +81,11 @@
         "homes-institutional"
     ]
 },
-  "bbox": [-79.875282,40.408531,-79.875282,40.408531],
+  "bbox": [
+    -79.875282,
+    40.408531,
+    -79.875282,
+    40.408531
+],
   "geometry": {"coordinates":[-79.875282,40.408531],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387968689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.663002,40.279099,-76.663002,40.279099",
     "geom:latitude":40.279099,
     "geom:longitude":-76.663002,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"312 Mill St",
     "sg:city":"Hershey",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     "sg:website":"www.shakeyssportsbar.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85850549,
+        102191575,
+        404483303,
         85633793,
         101719813,
         102081347,
-        85850549
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"5909293d1bd917ee74eb5eda61dc14e0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
+            "localadmin_id":404483303,
             "locality_id":101719813,
             "neighbourhood_id":85850549,
             "region_id":85688481,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":387968689,
-    "wof:lastmodified":1449056355,
+    "wof:lastmodified":1454358280,
     "wof:name":"Shakey's",
     "wof:parent_id":85850549,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "pizza"
     ]
 },
-  "bbox": [-76.663002,40.279099,-76.663002,40.279099],
-  "geometry": {"coordinates":[-76.663002,40.279099],"type":"Point"}
+  "bbox": [
+    -76.663002,
+    40.279099,
+    -76.663002,
+    40.279099
+],
+  "geometry": {"coordinates":[-76.66300200000001,40.279099],"type":"Point"}
 }

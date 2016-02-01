@@ -2,13 +2,14 @@
   "id": 403956579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.63126,39.759158,-77.63126,39.759158",
     "geom:latitude":39.759158,
     "geom:longitude":-77.63126,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"12664 Polktown Rd",
     "sg:city":"Waynesboro",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081365,
-        85858277
+        85858277,
+        102081365
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"768fe1d781beb2b32b20f5c54a15a6f9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081365,
-            "locality_id":-1,
             "neighbourhood_id":85858277,
             "region_id":85688481,
             "venue_id":403956579
         }
     ],
     "wof:id":403956579,
-    "wof:lastmodified":1449054856,
+    "wof:lastmodified":1454357326,
     "wof:name":"Tom's Turtles",
     "wof:parent_id":85858277,
     "wof:placetype":"venue",
@@ -64,6 +63,11 @@
         "producer"
     ]
 },
-  "bbox": [-77.63126,39.759158,-77.63126,39.759158],
+  "bbox": [
+    -77.63126,
+    39.759158,
+    -77.63126,
+    39.759158
+],
   "geometry": {"coordinates":[-77.63126,39.759158],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404015075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.673233,39.975262,-76.673233,39.975262",
     "geom:latitude":39.975262,
     "geom:longitude":-76.673233,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2801 E Market St Bldg B",
     "sg:city":"York",
     "sg:classifiers":[
@@ -82,10 +83,13 @@
     "sg:website":"http://clickserve.dartsearch.net/link/click?lid=43000000308049899",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420540439,
+        102191575,
+        404487939,
         85633793,
         101719469,
-        102080953
+        102080953,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,19 +99,20 @@
     "wof:geomhash":"b63e035665e07617bd4c7d17ee3ff9dd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080953,
+            "localadmin_id":404487939,
             "locality_id":101719469,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420540439,
             "region_id":85688481,
             "venue_id":404015075
         }
     ],
     "wof:id":404015075,
-    "wof:lastmodified":1449039331,
+    "wof:lastmodified":1454356574,
     "wof:name":"T-Mobile",
-    "wof:parent_id":-1,
+    "wof:parent_id":420540439,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -124,6 +129,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-76.673233,39.975262,-76.673233,39.975262],
+  "bbox": [
+    -76.673233,
+    39.975262,
+    -76.673233,
+    39.975262
+],
   "geometry": {"coordinates":[-76.673233,39.975262],"type":"Point"}
 }

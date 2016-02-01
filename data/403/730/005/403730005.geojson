@@ -2,13 +2,14 @@
   "id": 403730005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.576151,40.596873,-77.576151,40.596873",
     "geom:latitude":40.596873,
     "geom:longitude":-77.576151,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"20 N Wayne St",
     "sg:city":"Lewistown",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081333,
-        85835679
+        85835679,
+        102081333
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"ce2f7df509696d6f0a17890c98d6b5e3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081333,
-            "locality_id":-1,
             "neighbourhood_id":85835679,
             "region_id":85688481,
             "venue_id":403730005
         }
     ],
     "wof:id":403730005,
-    "wof:lastmodified":1449055767,
+    "wof:lastmodified":1454357865,
     "wof:name":"Mifflin County Offices",
     "wof:parent_id":85835679,
     "wof:placetype":"venue",
@@ -61,6 +60,11 @@
         "justice"
     ]
 },
-  "bbox": [-77.576151,40.596873,-77.576151,40.596873],
+  "bbox": [
+    -77.576151,
+    40.596873,
+    -77.576151,
+    40.596873
+],
   "geometry": {"coordinates":[-77.576151,40.596873],"type":"Point"}
 }

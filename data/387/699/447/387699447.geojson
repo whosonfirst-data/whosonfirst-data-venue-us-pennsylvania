@@ -2,13 +2,14 @@
   "id": 387699447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.887693,40.843097,-79.887693,40.843097",
     "geom:latitude":40.843097,
     "geom:longitude":-79.887693,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"112 Hillvue Dr",
     "sg:city":"Butler",
     "sg:classifiers":[
@@ -45,11 +46,13 @@
     "sg:website":"http://www.irenestacy.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85865387,
+        102191575,
+        404485059,
         85633793,
         101720139,
         102083677,
-        85865387
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,9 +62,10 @@
     "wof:geomhash":"bc3481e148380fe5f706a7fbc5e43df5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083677,
+            "localadmin_id":404485059,
             "locality_id":101720139,
             "neighbourhood_id":85865387,
             "region_id":85688481,
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":387699447,
-    "wof:lastmodified":1449056626,
+    "wof:lastmodified":1454358497,
     "wof:name":"Stacy, Irene Community Mental Health Center",
     "wof:parent_id":85865387,
     "wof:placetype":"venue",
@@ -86,6 +90,11 @@
         "addiction"
     ]
 },
-  "bbox": [-79.887693,40.843097,-79.887693,40.843097],
+  "bbox": [
+    -79.887693,
+    40.843097,
+    -79.887693,
+    40.843097
+],
   "geometry": {"coordinates":[-79.887693,40.843097],"type":"Point"}
 }

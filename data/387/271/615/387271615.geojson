@@ -2,13 +2,14 @@
   "id": 387271615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.776939,40.541603,-79.776939,40.541603",
     "geom:latitude":40.541603,
     "geom:longitude":-79.776939,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"924 Pittsburgh St",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     "sg:website":"http://www.yext.com/p/superpages/overly-s-electrical-svc-springdale-pennsylvania.html",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85839857,
+        102191575,
+        404484317,
         85633793,
         101718751,
         102080887,
-        85839857
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"9bc830ceda78be1de47acbff7d1714cb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484317,
             "locality_id":101718751,
             "neighbourhood_id":85839857,
             "region_id":85688481,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":387271615,
-    "wof:lastmodified":1449058099,
+    "wof:lastmodified":1454360680,
     "wof:name":"Overly's Electrical Svc",
     "wof:parent_id":85839857,
     "wof:placetype":"venue",
@@ -71,6 +75,11 @@
         "systems-maintenance"
     ]
 },
-  "bbox": [-79.776939,40.541603,-79.776939,40.541603],
+  "bbox": [
+    -79.776939,
+    40.541603,
+    -79.776939,
+    40.541603
+],
   "geometry": {"coordinates":[-79.776939,40.541603],"type":"Point"}
 }

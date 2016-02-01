@@ -2,13 +2,14 @@
   "id": 404162431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.347835,40.591004,-75.347835,40.591004",
     "geom:latitude":40.591004,
     "geom:longitude":-75.347835,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1740 Seidersville Rd",
     "sg:city":"Bethlehem",
     "sg:classifiers":[],
@@ -19,11 +20,13 @@
     "sg:website":"http://www.boleterestaurant.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85850149,
+        102191575,
+        404485987,
         85633793,
         101717907,
         102081395,
-        85850149
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -33,9 +36,10 @@
     "wof:geomhash":"63376fc898d9ee3208588c06b982ce20",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081395,
+            "localadmin_id":404485987,
             "locality_id":101717907,
             "neighbourhood_id":85850149,
             "region_id":85688481,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":404162431,
-    "wof:lastmodified":1449040137,
+    "wof:lastmodified":1454357027,
     "wof:name":"Bolete",
     "wof:parent_id":85850149,
     "wof:placetype":"venue",
@@ -51,6 +55,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.347835,40.591004,-75.347835,40.591004],
+  "bbox": [
+    -75.347835,
+    40.591004,
+    -75.347835,
+    40.591004
+],
   "geometry": {"coordinates":[-75.347835,40.591004],"type":"Point"}
 }

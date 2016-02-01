@@ -2,13 +2,14 @@
   "id": 387586255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.753642,39.899794,-79.753642,39.899794",
     "geom:latitude":39.899794,
     "geom:longitude":-79.753642,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"675A Cherry Tree Ln",
     "sg:city":"Uniontown",
     "sg:classifiers":[
@@ -35,10 +36,13 @@
     "sg:website":"http://pittsburgh.citysearch.com/profile/external/603806082/uniontown_pa/std_test_express_uniontown.html?publisher=yellowpages&reference_id=1&placement=ypwebsitemip",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85850161,
+        102191575,
+        404487055,
         85633793,
+        101719799,
         102080959,
-        85850161
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +52,18 @@
     "wof:geomhash":"cb99f7da5feadd9fc346ec6f95adae1f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080959,
-            "locality_id":-1,
+            "localadmin_id":404487055,
+            "locality_id":101719799,
             "neighbourhood_id":85850161,
             "region_id":85688481,
             "venue_id":387586255
         }
     ],
     "wof:id":387586255,
-    "wof:lastmodified":1449059481,
+    "wof:lastmodified":1454361095,
     "wof:name":"STD Test Express Uniontown",
     "wof:parent_id":85850161,
     "wof:placetype":"venue",
@@ -70,6 +75,11 @@
         "welfare"
     ]
 },
-  "bbox": [-79.753642,39.899794,-79.753642,39.899794],
+  "bbox": [
+    -79.753642,
+    39.899794,
+    -79.753642,
+    39.899794
+],
   "geometry": {"coordinates":[-79.753642,39.899794],"type":"Point"}
 }

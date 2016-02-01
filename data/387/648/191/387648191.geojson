@@ -2,13 +2,14 @@
   "id": 387648191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.689101,40.427539,-79.689101,40.427539",
     "geom:latitude":40.427539,
     "geom:longitude":-79.689101,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4115 William Penn Hwy # 302",
     "sg:city":"Murrysville",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85836835,
+        102191575,
+        404487539,
         85633793,
         101717149,
         102081383,
-        85836835
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"92ed98945d8939343a4ff7ccd60806b4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081383,
+            "localadmin_id":404487539,
             "locality_id":101717149,
             "neighbourhood_id":85836835,
             "region_id":85688481,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":387648191,
-    "wof:lastmodified":1449057138,
+    "wof:lastmodified":1454358872,
     "wof:name":"Joseph D Pasquino",
     "wof:parent_id":85836835,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "surgeons"
     ]
 },
-  "bbox": [-79.689101,40.427539,-79.689101,40.427539],
-  "geometry": {"coordinates":[-79.689101,40.427539],"type":"Point"}
+  "bbox": [
+    -79.689101,
+    40.427539,
+    -79.689101,
+    40.427539
+],
+  "geometry": {"coordinates":[-79.68910099999999,40.427539],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387450421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.0377,40.516247,-80.0377,40.516247",
     "geom:latitude":40.516247,
     "geom:longitude":-80.0377,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1007 W View Park Dr",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85824969
+        85824969,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"18d5ed0e48c574113aa8e0fc23901578",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85824969,
             "region_id":85688481,
             "venue_id":387450421
         }
     ],
     "wof:id":387450421,
-    "wof:lastmodified":1449059344,
+    "wof:lastmodified":1454361046,
     "wof:name":"USPS - United States Post Office - West View Station",
     "wof:parent_id":85824969,
     "wof:placetype":"venue",
@@ -68,6 +67,11 @@
         "shipping"
     ]
 },
-  "bbox": [-80.0377,40.516247,-80.0377,40.516247],
+  "bbox": [
+    -80.0377,
+    40.516247,
+    -80.0377,
+    40.516247
+],
   "geometry": {"coordinates":[-80.0377,40.516247],"type":"Point"}
 }

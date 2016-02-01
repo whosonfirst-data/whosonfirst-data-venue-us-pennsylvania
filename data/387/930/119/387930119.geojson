@@ -2,13 +2,14 @@
   "id": 387930119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.186302,40.221401,-77.186302,40.221401",
     "geom:latitude":40.221401,
     "geom:longitude":-77.186302,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1548 Spring Rd",
     "sg:city":"Carlisle",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85865395,
+        102191575,
+        404486423,
         85633793,
         101719085,
         102081359,
-        85865395
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"011f001c9476817e3762ce70971ba083",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081359,
+            "localadmin_id":404486423,
             "locality_id":101719085,
             "neighbourhood_id":85865395,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387930119,
-    "wof:lastmodified":1449057314,
+    "wof:lastmodified":1454359012,
     "wof:name":"Ashley's Pizza",
     "wof:parent_id":85865395,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "pizza"
     ]
 },
-  "bbox": [-77.186302,40.221401,-77.186302,40.221401],
+  "bbox": [
+    -77.186302,
+    40.221401,
+    -77.186302,
+    40.221401
+],
   "geometry": {"coordinates":[-77.186302,40.221401],"type":"Point"}
 }

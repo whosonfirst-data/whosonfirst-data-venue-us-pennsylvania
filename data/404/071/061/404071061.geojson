@@ -2,13 +2,14 @@
   "id": 404071061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.071506,40.298212,-76.071506,40.298212",
     "geom:latitude":40.298212,
     "geom:longitude":-76.071506,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"23 Preston Rd",
     "sg:city":"Reinholds",
     "sg:classifiers":[
@@ -34,8 +35,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080991,
-        85825009
+        85825009,
+        102080991
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +46,15 @@
     "wof:geomhash":"5c3aa4b3b62e4539788e819d568e5b20",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080991,
-            "locality_id":-1,
             "neighbourhood_id":85825009,
             "region_id":85688481,
             "venue_id":404071061
         }
     ],
     "wof:id":404071061,
-    "wof:lastmodified":1449039875,
+    "wof:lastmodified":1454356858,
     "wof:name":"Kane",
     "wof:parent_id":85825009,
     "wof:placetype":"venue",
@@ -65,6 +64,11 @@
         "management"
     ]
 },
-  "bbox": [-76.071506,40.298212,-76.071506,40.298212],
+  "bbox": [
+    -76.071506,
+    40.298212,
+    -76.071506,
+    40.298212
+],
   "geometry": {"coordinates":[-76.071506,40.298212],"type":"Point"}
 }

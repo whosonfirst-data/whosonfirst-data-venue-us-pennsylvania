@@ -2,13 +2,14 @@
   "id": 403908919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.800818,40.21372,-76.800818,40.21372",
     "geom:latitude":40.21372,
     "geom:longitude":-76.800818,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2715 S Front St Ste A",
     "sg:city":"Steelton",
     "sg:classifiers":[
@@ -37,8 +38,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85851671
+        85851671,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +49,15 @@
     "wof:geomhash":"6da8d937c814897534884aed2ec2cc40",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85851671,
             "region_id":85688481,
             "venue_id":403908919
         }
     ],
     "wof:id":403908919,
-    "wof:lastmodified":1449055394,
+    "wof:lastmodified":1454357648,
     "wof:name":"Archetype Frameless Glass Co.",
     "wof:parent_id":85851671,
     "wof:placetype":"venue",
@@ -70,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-76.800818,40.21372,-76.800818,40.21372],
-  "geometry": {"coordinates":[-76.800818,40.21372],"type":"Point"}
+  "bbox": [
+    -76.800818,
+    40.21372,
+    -76.800818,
+    40.21372
+],
+  "geometry": {"coordinates":[-76.80081800000001,40.21372],"type":"Point"}
 }

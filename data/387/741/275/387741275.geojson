@@ -2,13 +2,14 @@
   "id": 387741275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.111298,40.7384,-80.111298,40.7384",
     "geom:latitude":40.7384,
     "geom:longitude":-80.111298,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"21145 Route 19",
     "sg:city":"Cranberry Twp",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102083677,
-        85821679
+        85821679,
+        102083677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"d84ee06d3f5d13b5632fbe6c2b729d5a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102083677,
-            "locality_id":-1,
             "neighbourhood_id":85821679,
             "region_id":85688481,
             "venue_id":387741275
         }
     ],
     "wof:id":387741275,
-    "wof:lastmodified":1449056320,
+    "wof:lastmodified":1454358255,
     "wof:name":"Cranberry Chrysler Plymouth Jeep",
     "wof:parent_id":85821679,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "car"
     ]
 },
-  "bbox": [-80.111298,40.7384,-80.111298,40.7384],
-  "geometry": {"coordinates":[-80.111298,40.7384],"type":"Point"}
+  "bbox": [
+    -80.111298,
+    40.7384,
+    -80.111298,
+    40.7384
+],
+  "geometry": {"coordinates":[-80.11129800000001,40.7384],"type":"Point"}
 }

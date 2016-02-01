@@ -2,13 +2,14 @@
   "id": 387506175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.064824,40.535201,-80.064824,40.535201",
     "geom:latitude":40.535201,
     "geom:longitude":-80.064824,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"241 Mount Nebo Pointe Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -47,8 +48,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85824969
+        85824969,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,17 +59,15 @@
     "wof:geomhash":"26370d1b9df1017439a6168904b82004",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85824969,
             "region_id":85688481,
             "venue_id":387506175
         }
     ],
     "wof:id":387506175,
-    "wof:lastmodified":1449056204,
+    "wof:lastmodified":1454358160,
     "wof:name":"Liberty Mutual Insurance Company",
     "wof:parent_id":85824969,
     "wof:placetype":"venue",
@@ -80,6 +79,11 @@
         "homeowner"
     ]
 },
-  "bbox": [-80.064824,40.535201,-80.064824,40.535201],
+  "bbox": [
+    -80.064824,
+    40.535201,
+    -80.064824,
+    40.535201
+],
   "geometry": {"coordinates":[-80.064824,40.535201],"type":"Point"}
 }

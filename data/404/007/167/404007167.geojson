@@ -2,13 +2,14 @@
   "id": 404007167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.591673,39.907996,-76.591673,39.907996",
     "geom:latitude":39.907996,
     "geom:longitude":-76.591673,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"835 Thomas Armor Dr",
     "sg:city":"Windsor",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080953,
-        85816963
+        85816963,
+        102080953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"e624f37782968ea3811e5064881e7afe",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
             "neighbourhood_id":85816963,
             "region_id":85688481,
             "venue_id":404007167
         }
     ],
     "wof:id":404007167,
-    "wof:lastmodified":1449040101,
+    "wof:lastmodified":1454357007,
     "wof:name":"Home Dimensions Inc",
     "wof:parent_id":85816963,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-76.591673,39.907996,-76.591673,39.907996],
+  "bbox": [
+    -76.591673,
+    39.907996,
+    -76.591673,
+    39.907996
+],
   "geometry": {"coordinates":[-76.591673,39.907996],"type":"Point"}
 }

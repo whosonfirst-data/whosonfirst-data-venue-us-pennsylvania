@@ -2,13 +2,14 @@
   "id": 404092037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.387837,40.041351,-76.387837,40.041351",
     "geom:latitude":40.041351,
     "geom:longitude":-76.387837,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3011 Columbia Ave",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85810789
+        85810789,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"bde8b5f6eb00b4d3b3b54f11dbf25c88",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85810789,
             "region_id":85688481,
             "venue_id":404092037
         }
     ],
     "wof:id":404092037,
-    "wof:lastmodified":1449040074,
+    "wof:lastmodified":1454356992,
     "wof:name":"Zip's Dry Cleaners",
     "wof:parent_id":85810789,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "commercial"
     ]
 },
-  "bbox": [-76.387837,40.041351,-76.387837,40.041351],
+  "bbox": [
+    -76.387837,
+    40.041351,
+    -76.387837,
+    40.041351
+],
   "geometry": {"coordinates":[-76.387837,40.041351],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404179687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.41148,40.653176,-75.41148,40.653176",
     "geom:latitude":40.653176,
     "geom:longitude":-75.41148,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1560 Valley Center Pkwy # 200",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -40,8 +41,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081395,
-        85814279
+        85814279,
+        102081395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,17 +52,15 @@
     "wof:geomhash":"3743d22e8532fecddbdefb42e4979cb7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081395,
-            "locality_id":-1,
             "neighbourhood_id":85814279,
             "region_id":85688481,
             "venue_id":404179687
         }
     ],
     "wof:id":404179687,
-    "wof:lastmodified":1449040206,
+    "wof:lastmodified":1454357062,
     "wof:name":"Lehigh Valley Academy Regional Charter School",
     "wof:parent_id":85814279,
     "wof:placetype":"venue",
@@ -76,6 +75,11 @@
         "private"
     ]
 },
-  "bbox": [-75.41148,40.653176,-75.41148,40.653176],
+  "bbox": [
+    -75.41148,
+    40.653176,
+    -75.41148,
+    40.653176
+],
   "geometry": {"coordinates":[-75.41148,40.653176],"type":"Point"}
 }

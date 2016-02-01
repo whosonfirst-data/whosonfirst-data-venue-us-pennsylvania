@@ -2,13 +2,14 @@
   "id": 404075099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.223852,40.051109,-76.223852,40.051109",
     "geom:latitude":40.051109,
     "geom:longitude":-76.223852,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2110 Horseshoe Rd",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85823025
+        85823025,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"5ea70989233b276426e0ec1469b52742",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85823025,
             "region_id":85688481,
             "venue_id":404075099
         }
     ],
     "wof:id":404075099,
-    "wof:lastmodified":1449039792,
+    "wof:lastmodified":1454356804,
     "wof:name":"Worth & Company, Inc",
     "wof:parent_id":85823025,
     "wof:placetype":"venue",
@@ -63,6 +62,11 @@
         "mechanical"
     ]
 },
-  "bbox": [-76.223852,40.051109,-76.223852,40.051109],
-  "geometry": {"coordinates":[-76.223852,40.051109],"type":"Point"}
+  "bbox": [
+    -76.223852,
+    40.051109,
+    -76.223852,
+    40.051109
+],
+  "geometry": {"coordinates":[-76.22385199999999,40.051109],"type":"Point"}
 }

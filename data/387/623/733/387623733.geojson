@@ -2,13 +2,14 @@
   "id": 387623733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.57092,40.288724,-79.57092,40.288724",
     "geom:latitude":40.288724,
     "geom:longitude":-79.57092,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1117 Woodward Dr",
     "sg:city":"Greensburg",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081383,
-        85843595
+        85843595,
+        102081383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"c2d2bd74b68b6e984c84ac5d398aaa55",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":-1,
             "neighbourhood_id":85843595,
             "region_id":85688481,
             "venue_id":387623733
         }
     ],
     "wof:id":387623733,
-    "wof:lastmodified":1449058780,
+    "wof:lastmodified":1454360878,
     "wof:name":"Adecco Staffing",
     "wof:parent_id":85843595,
     "wof:placetype":"venue",
@@ -61,6 +60,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.57092,40.288724,-79.57092,40.288724],
+  "bbox": [
+    -79.57092,
+    40.288724,
+    -79.57092,
+    40.288724
+],
   "geometry": {"coordinates":[-79.57092,40.288724],"type":"Point"}
 }

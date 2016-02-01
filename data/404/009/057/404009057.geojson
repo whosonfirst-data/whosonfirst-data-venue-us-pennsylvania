@@ -2,13 +2,14 @@
   "id": 404009057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.723508,39.954436,-76.723508,39.954436",
     "geom:latitude":39.954436,
     "geom:longitude":-76.723508,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"613 S George St",
     "sg:city":"York",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85850705,
+        102191575,
+        404488029,
         85633793,
+        101717279,
         102080953,
-        85850705
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,17 +41,18 @@
     "wof:geomhash":"27d7c03acb0e311897e5c240e3952ba1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
+            "localadmin_id":404488029,
+            "locality_id":101717279,
             "neighbourhood_id":85850705,
             "region_id":85688481,
             "venue_id":404009057
         }
     ],
     "wof:id":404009057,
-    "wof:lastmodified":1449040310,
+    "wof:lastmodified":1454357127,
     "wof:name":"Crispus Attucks Association",
     "wof:parent_id":85850705,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.723508,39.954436,-76.723508,39.954436],
+  "bbox": [
+    -76.723508,
+    39.954436,
+    -76.723508,
+    39.954436
+],
   "geometry": {"coordinates":[-76.723508,39.954436],"type":"Point"}
 }

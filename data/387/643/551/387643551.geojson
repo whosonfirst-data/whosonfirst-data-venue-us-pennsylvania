@@ -2,13 +2,14 @@
   "id": 387643551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.384541,40.316337,-79.384541,40.316337",
     "geom:latitude":40.316337,
     "geom:longitude":-79.384541,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"911 Ligonier St",
     "sg:city":"Latrobe",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85831075,
+        102191575,
+        404487493,
         85633793,
         101717167,
         102081383,
-        85831075
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"fa794b879d8f27f7dd45ffda40e3c89e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081383,
+            "localadmin_id":404487493,
             "locality_id":101717167,
             "neighbourhood_id":85831075,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387643551,
-    "wof:lastmodified":1449059415,
+    "wof:lastmodified":1454361073,
     "wof:name":"James R Richards Dc",
     "wof:parent_id":85831075,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "chiropractic"
     ]
 },
-  "bbox": [-79.384541,40.316337,-79.384541,40.316337],
+  "bbox": [
+    -79.384541,
+    40.316337,
+    -79.384541,
+    40.316337
+],
   "geometry": {"coordinates":[-79.384541,40.316337],"type":"Point"}
 }

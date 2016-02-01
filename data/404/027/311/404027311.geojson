@@ -2,13 +2,14 @@
   "id": 404027311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.748415,39.972488,-76.748415,39.972488",
     "geom:latitude":39.972488,
     "geom:longitude":-76.748415,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"825 Chanceford Ave",
     "sg:city":"York",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85819331,
+        102191575,
+        404488029,
         85633793,
+        101717279,
         102080953,
-        85819331
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,17 +41,18 @@
     "wof:geomhash":"e74b9303acd3aeda578e8837344c9973",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
+            "localadmin_id":404488029,
+            "locality_id":101717279,
             "neighbourhood_id":85819331,
             "region_id":85688481,
             "venue_id":404027311
         }
     ],
     "wof:id":404027311,
-    "wof:lastmodified":1449039263,
+    "wof:lastmodified":1454356541,
     "wof:name":"Antonietta Smith Beauty Salon",
     "wof:parent_id":85819331,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.748415,39.972488,-76.748415,39.972488],
-  "geometry": {"coordinates":[-76.748415,39.972488],"type":"Point"}
+  "bbox": [
+    -76.748415,
+    39.972488,
+    -76.748415,
+    39.972488
+],
+  "geometry": {"coordinates":[-76.74841499999999,39.972488],"type":"Point"}
 }

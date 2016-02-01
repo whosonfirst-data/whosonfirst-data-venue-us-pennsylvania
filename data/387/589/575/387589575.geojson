@@ -2,13 +2,14 @@
   "id": 387589575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.97871,40.045493,-79.97871,40.045493",
     "geom:latitude":40.045493,
     "geom:longitude":-79.97871,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"410 Market St",
     "sg:city":"Brownsville",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420540017,
+        102191575,
+        404487737,
         85633793,
         101718541,
-        102081343
+        102081343,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"7cd682463c921a3dbae84137de022ebc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081343,
+            "localadmin_id":404487737,
             "locality_id":101718541,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420540017,
             "region_id":85688481,
             "venue_id":387589575
         }
     ],
     "wof:id":387589575,
-    "wof:lastmodified":1449058140,
+    "wof:lastmodified":1454360693,
     "wof:name":"Bellans Beauty",
-    "wof:parent_id":-1,
+    "wof:parent_id":420540017,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.97871,40.045493,-79.97871,40.045493],
-  "geometry": {"coordinates":[-79.97871,40.045493],"type":"Point"}
+  "bbox": [
+    -79.97871,
+    40.045493,
+    -79.97871,
+    40.045493
+],
+  "geometry": {"coordinates":[-79.97871000000001,40.045493],"type":"Point"}
 }

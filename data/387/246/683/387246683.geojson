@@ -2,13 +2,14 @@
   "id": 387246683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.916199,40.552921,-79.916199,40.552921",
     "geom:latitude":40.552921,
     "geom:longitude":-79.916199,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3419 Harts Run Rd Ste 2",
     "sg:city":"Glenshaw",
     "sg:classifiers":[
@@ -36,11 +37,13 @@
     "sg:website":"http://www.tcapittsburgh.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85808227,
+        102191575,
+        404484943,
         85633793,
         101720509,
         102080887,
-        85808227
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,9 +53,10 @@
     "wof:geomhash":"81ee005b4bcaea8e1f8b699110e545e1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484943,
             "locality_id":101720509,
             "neighbourhood_id":85808227,
             "region_id":85688481,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":387246683,
-    "wof:lastmodified":1449056367,
+    "wof:lastmodified":1454358286,
     "wof:name":"Cleaning Authority",
     "wof:parent_id":85808227,
     "wof:placetype":"venue",
@@ -73,6 +77,11 @@
         "janitorial"
     ]
 },
-  "bbox": [-79.916199,40.552921,-79.916199,40.552921],
-  "geometry": {"coordinates":[-79.916199,40.552921],"type":"Point"}
+  "bbox": [
+    -79.916199,
+    40.552921,
+    -79.916199,
+    40.552921
+],
+  "geometry": {"coordinates":[-79.91619900000001,40.552921],"type":"Point"}
 }

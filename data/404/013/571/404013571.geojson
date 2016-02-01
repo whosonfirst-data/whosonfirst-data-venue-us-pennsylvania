@@ -2,13 +2,14 @@
   "id": 404013571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.680107,39.974251,-76.680107,39.974251",
     "geom:latitude":39.974251,
     "geom:longitude":-76.680107,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2400 E Market St",
     "sg:city":"York",
     "sg:classifiers":[
@@ -45,8 +46,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080953,
-        85817923
+        85817923,
+        102080953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,17 +57,15 @@
     "wof:geomhash":"760e45fc49826dc39c5015a1a12810d9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
             "neighbourhood_id":85817923,
             "region_id":85688481,
             "venue_id":404013571
         }
     ],
     "wof:id":404013571,
-    "wof:lastmodified":1449039942,
+    "wof:lastmodified":1454356906,
     "wof:name":"Weis Markets",
     "wof:parent_id":85817923,
     "wof:placetype":"venue",
@@ -76,6 +75,11 @@
         "super"
     ]
 },
-  "bbox": [-76.680107,39.974251,-76.680107,39.974251],
-  "geometry": {"coordinates":[-76.680107,39.974251],"type":"Point"}
+  "bbox": [
+    -76.680107,
+    39.974251,
+    -76.680107,
+    39.974251
+],
+  "geometry": {"coordinates":[-76.68010700000001,39.974251],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387276675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.756278,40.435696,-79.756278,40.435696",
     "geom:latitude":40.435696,
     "geom:longitude":-79.756278,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2735 Mosside Blvd Ste 301",
     "sg:city":"Monroeville",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85834841,
+        102191575,
+        404484135,
         85633793,
         101718841,
         102080887,
-        85834841
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"c3d428b5576bccb9bddecccc419d5738",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484135,
             "locality_id":101718841,
             "neighbourhood_id":85834841,
             "region_id":85688481,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":387276675,
-    "wof:lastmodified":1449056257,
+    "wof:lastmodified":1454358203,
     "wof:name":"Guardian Mortgage Inc",
     "wof:parent_id":85834841,
     "wof:placetype":"venue",
@@ -68,6 +72,11 @@
         "processing"
     ]
 },
-  "bbox": [-79.756278,40.435696,-79.756278,40.435696],
-  "geometry": {"coordinates":[-79.756278,40.435696],"type":"Point"}
+  "bbox": [
+    -79.756278,
+    40.435696,
+    -79.756278,
+    40.435696
+],
+  "geometry": {"coordinates":[-79.75627799999999,40.435696],"type":"Point"}
 }

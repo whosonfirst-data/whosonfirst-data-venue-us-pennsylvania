@@ -2,13 +2,14 @@
   "id": 404151783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.601582,40.510034,-75.601582,40.510034",
     "geom:latitude":40.510034,
     "geom:longitude":-75.601582,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"260 Franklin St",
     "sg:city":"Alburtis",
     "sg:classifiers":[
@@ -38,8 +39,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081327,
-        85824625
+        85824625,
+        102081327
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +50,15 @@
     "wof:geomhash":"aa22e52c04713dafe95829e838863da1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081327,
-            "locality_id":-1,
             "neighbourhood_id":85824625,
             "region_id":85688481,
             "venue_id":404151783
         }
     ],
     "wof:id":404151783,
-    "wof:lastmodified":1449039094,
+    "wof:lastmodified":1454356422,
     "wof:name":"Borough Of Alburtis",
     "wof:parent_id":85824625,
     "wof:placetype":"venue",
@@ -73,6 +72,11 @@
         "village"
     ]
 },
-  "bbox": [-75.601582,40.510034,-75.601582,40.510034],
-  "geometry": {"coordinates":[-75.601582,40.510034],"type":"Point"}
+  "bbox": [
+    -75.601582,
+    40.510034,
+    -75.601582,
+    40.510034
+],
+  "geometry": {"coordinates":[-75.60158199999999,40.510034],"type":"Point"}
 }

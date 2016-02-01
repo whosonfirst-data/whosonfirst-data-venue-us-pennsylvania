@@ -2,13 +2,14 @@
   "id": 403884623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.856003,40.316101,-76.856003,40.316101",
     "geom:latitude":40.316101,
     "geom:longitude":-76.856003,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3544 N Progress Ave Ste 107",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85824251,
+        102191575,
+        404486185,
         85633793,
+        101719811,
         102081347,
-        85824251
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +45,18 @@
     "wof:geomhash":"7cc68003157bf7e501021cf806ad144b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
+            "localadmin_id":404486185,
+            "locality_id":101719811,
             "neighbourhood_id":85824251,
             "region_id":85688481,
             "venue_id":403884623
         }
     ],
     "wof:id":403884623,
-    "wof:lastmodified":1449055706,
+    "wof:lastmodified":1454357832,
     "wof:name":"Sams Michael L DO",
     "wof:parent_id":85824251,
     "wof:placetype":"venue",
@@ -62,6 +67,11 @@
         "internal"
     ]
 },
-  "bbox": [-76.856003,40.316101,-76.856003,40.316101],
+  "bbox": [
+    -76.856003,
+    40.316101,
+    -76.856003,
+    40.316101
+],
   "geometry": {"coordinates":[-76.856003,40.316101],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404139593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.563164,40.787768,-76.563164,40.787768",
     "geom:latitude":40.787768,
     "geom:longitude":-76.563164,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"20 N 3rd St",
     "sg:city":"Shamokin",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     "sg:website":"http://clickserve.dartsearch.net/link/click?lid=43000000313870778&ds_s_kwgid=58000000006820725&ds_e_matchtype={MatchType}&ds_e_kwdid={OrderItemId}&ds_e_adid={AdId}&ds_url_v=2",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85817501,
+        102191575,
+        404486113,
         85633793,
-        101719367,
+        101719303,
         102081349,
-        85817501
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +52,18 @@
     "wof:geomhash":"07502e0526c3637ba8d0d4d1fe1bb0e0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081349,
-            "locality_id":101719367,
+            "localadmin_id":404486113,
+            "locality_id":101719303,
             "neighbourhood_id":85817501,
             "region_id":85688481,
             "venue_id":404139593
         }
     ],
     "wof:id":404139593,
-    "wof:lastmodified":1449039132,
+    "wof:lastmodified":1454356463,
     "wof:name":"Heitzman's Radiator & Glass Works",
     "wof:parent_id":85817501,
     "wof:placetype":"venue",
@@ -71,6 +75,11 @@
         "truck"
     ]
 },
-  "bbox": [-76.563164,40.787768,-76.563164,40.787768],
+  "bbox": [
+    -76.563164,
+    40.787768,
+    -76.563164,
+    40.787768
+],
   "geometry": {"coordinates":[-76.563164,40.787768],"type":"Point"}
 }

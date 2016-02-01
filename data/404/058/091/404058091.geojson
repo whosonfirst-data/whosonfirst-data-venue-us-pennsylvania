@@ -2,13 +2,14 @@
   "id": 404058091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.292906,40.188051,-76.292906,40.188051",
     "geom:latitude":40.188051,
     "geom:longitude":-76.292906,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"313A E Lexington Rd",
     "sg:city":"Lititz",
     "sg:classifiers":[
@@ -34,8 +35,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85834405
+        85834405,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +46,15 @@
     "wof:geomhash":"5c8811ee92cbf756338a3c1980ab44bc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85834405,
             "region_id":85688481,
             "venue_id":404058091
         }
     ],
     "wof:id":404058091,
-    "wof:lastmodified":1449039189,
+    "wof:lastmodified":1454356506,
     "wof:name":"Vinyl Creations",
     "wof:parent_id":85834405,
     "wof:placetype":"venue",
@@ -65,6 +64,11 @@
         "specialty"
     ]
 },
-  "bbox": [-76.292906,40.188051,-76.292906,40.188051],
+  "bbox": [
+    -76.292906,
+    40.188051,
+    -76.292906,
+    40.188051
+],
   "geometry": {"coordinates":[-76.292906,40.188051],"type":"Point"}
 }

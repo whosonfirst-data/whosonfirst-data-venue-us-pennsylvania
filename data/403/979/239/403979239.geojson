@@ -2,13 +2,14 @@
   "id": 403979239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.294647,39.732009,-77.294647,39.732009",
     "geom:latitude":39.732009,
     "geom:longitude":-77.294647,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4000 Emmitsburg Rd",
     "sg:city":"Fairfield",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080899,
-        85823057
+        85823057,
+        102080899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"1becb045e09137b0be45cbad1a132e5a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080899,
-            "locality_id":-1,
             "neighbourhood_id":85823057,
             "region_id":85688481,
             "venue_id":403979239
         }
     ],
     "wof:id":403979239,
-    "wof:lastmodified":1449055546,
+    "wof:lastmodified":1454357740,
     "wof:name":"William Mellors",
     "wof:parent_id":85823057,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "employment"
     ]
 },
-  "bbox": [-77.294647,39.732009,-77.294647,39.732009],
+  "bbox": [
+    -77.294647,
+    39.732009,
+    -77.294647,
+    39.732009
+],
   "geometry": {"coordinates":[-77.294647,39.732009],"type":"Point"}
 }

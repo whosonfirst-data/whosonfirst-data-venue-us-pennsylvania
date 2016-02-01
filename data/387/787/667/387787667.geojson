@@ -2,13 +2,14 @@
   "id": 387787667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.879607,41.380851,-79.879607,41.380851",
     "geom:latitude":41.380851,
     "geom:longitude":-79.879607,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"970 Mercer Rd",
     "sg:city":"Franklin",
     "sg:classifiers":[
@@ -28,7 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420539847,
+        102191575,
+        404487609,
         85633793,
+        101717321,
+        102081279,
         85688481
     ],
     "wof:breaches":[],
@@ -39,18 +45,20 @@
     "wof:geomhash":"145b37f3803b3dc5b0845b0b6066af08",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081279,
+            "localadmin_id":404487609,
+            "locality_id":101717321,
+            "neighbourhood_id":420539847,
             "region_id":85688481,
             "venue_id":387787667
         }
     ],
     "wof:id":387787667,
-    "wof:lastmodified":1449057820,
+    "wof:lastmodified":1454360606,
     "wof:name":"Schiffer Excavating Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420539847,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -59,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.879607,41.380851,-79.879607,41.380851],
-  "geometry": {"coordinates":[-79.879607,41.380851],"type":"Point"}
+  "bbox": [
+    -79.879607,
+    41.380851,
+    -79.879607,
+    41.380851
+],
+  "geometry": {"coordinates":[-79.87960699999999,41.380851],"type":"Point"}
 }

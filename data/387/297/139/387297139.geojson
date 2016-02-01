@@ -2,13 +2,14 @@
   "id": 387297139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.136204,40.432036,-80.136204,40.432036",
     "geom:latitude":40.432036,
     "geom:longitude":-80.136204,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"370 Vista Park Dr",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -37,8 +38,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85821263
+        85821263,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +49,15 @@
     "wof:geomhash":"85b8324712dfd582af80da2280bf5249",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85821263,
             "region_id":85688481,
             "venue_id":387297139
         }
     ],
     "wof:id":387297139,
-    "wof:lastmodified":1449058525,
+    "wof:lastmodified":1454360805,
     "wof:name":"Caff Company",
     "wof:parent_id":85821263,
     "wof:placetype":"venue",
@@ -71,6 +70,11 @@
         "accessory"
     ]
 },
-  "bbox": [-80.136204,40.432036,-80.136204,40.432036],
-  "geometry": {"coordinates":[-80.136204,40.432036],"type":"Point"}
+  "bbox": [
+    -80.136204,
+    40.432036,
+    -80.136204,
+    40.432036
+],
+  "geometry": {"coordinates":[-80.13620400000001,40.432036],"type":"Point"}
 }

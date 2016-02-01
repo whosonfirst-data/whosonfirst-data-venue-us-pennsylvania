@@ -2,13 +2,14 @@
   "id": 387655585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.177935,40.60112,-79.177935,40.60112",
     "geom:latitude":40.60112,
     "geom:longitude":-79.177935,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1155 Indian Springs Rd",
     "sg:city":"Indiana",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081387,
-        85821437
+        85821437,
+        102081387
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"202a809ffa9c700aef9ab2250b33e02a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081387,
-            "locality_id":-1,
             "neighbourhood_id":85821437,
             "region_id":85688481,
             "venue_id":387655585
         }
     ],
     "wof:id":387655585,
-    "wof:lastmodified":1449058297,
+    "wof:lastmodified":1454360737,
     "wof:name":"William P Hirsch Dr",
     "wof:parent_id":85821437,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-79.177935,40.60112,-79.177935,40.60112],
-  "geometry": {"coordinates":[-79.177935,40.60112],"type":"Point"}
+  "bbox": [
+    -79.177935,
+    40.60112,
+    -79.177935,
+    40.60112
+],
+  "geometry": {"coordinates":[-79.17793500000001,40.60112],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404008907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.727259,39.964243,-76.727259,39.964243",
     "geom:latitude":39.964243,
     "geom:longitude":-76.727259,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"44 E Philadelphia St",
     "sg:city":"York",
     "sg:classifiers":[
@@ -34,10 +35,13 @@
     "sg:website":"http://www.yourbankruptcylaw.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85850705,
+        102191575,
+        404488029,
         85633793,
+        101717279,
         102080953,
-        85850705
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +51,18 @@
     "wof:geomhash":"fd2861e35206d5ff93ec761d32e316ad",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
+            "localadmin_id":404488029,
+            "locality_id":101717279,
             "neighbourhood_id":85850705,
             "region_id":85688481,
             "venue_id":404008907
         }
     ],
     "wof:id":404008907,
-    "wof:lastmodified":1449039398,
+    "wof:lastmodified":1454356624,
     "wof:name":"Cutaia Law LLC",
     "wof:parent_id":85850705,
     "wof:placetype":"venue",
@@ -73,6 +78,11 @@
         "bankruptcy"
     ]
 },
-  "bbox": [-76.727259,39.964243,-76.727259,39.964243],
+  "bbox": [
+    -76.727259,
+    39.964243,
+    -76.727259,
+    39.964243
+],
   "geometry": {"coordinates":[-76.727259,39.964243],"type":"Point"}
 }

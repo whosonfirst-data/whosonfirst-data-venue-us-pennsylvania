@@ -2,13 +2,14 @@
   "id": 387561265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.13265,40.26307,-80.13265,40.26307",
     "geom:latitude":40.26307,
     "geom:longitude":-80.13265,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4175 Washington Road",
     "sg:city":"Canonsburg",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081343,
-        85814861
+        85814861,
+        102081343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"1267a762ee4edb31b893a86c6c2d1588",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081343,
-            "locality_id":-1,
             "neighbourhood_id":85814861,
             "region_id":85688481,
             "venue_id":387561265
         }
     ],
     "wof:id":387561265,
-    "wof:lastmodified":1449058805,
+    "wof:lastmodified":1454360884,
     "wof:name":"El Campesino",
     "wof:parent_id":85814861,
     "wof:placetype":"venue",
@@ -61,6 +60,11 @@
         "mexican"
     ]
 },
-  "bbox": [-80.13265,40.26307,-80.13265,40.26307],
+  "bbox": [
+    -80.13265,
+    40.26307,
+    -80.13265,
+    40.26307
+],
   "geometry": {"coordinates":[-80.13265,40.26307],"type":"Point"}
 }

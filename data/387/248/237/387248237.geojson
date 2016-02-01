@@ -2,13 +2,14 @@
   "id": 387248237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.891279,40.396325,-79.891279,40.396325",
     "geom:latitude":40.396325,
     "geom:longitude":-79.891279,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"278 Mifflin St",
     "sg:city":"Homestead",
     "sg:classifiers":[
@@ -37,11 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85851951,
+        102191575,
+        404482541,
         85633793,
         101718713,
         102080887,
-        85851951
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,9 +54,10 @@
     "wof:geomhash":"23d7ac8f7283bbf695347c37cd7cbc4b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482541,
             "locality_id":101718713,
             "neighbourhood_id":85851951,
             "region_id":85688481,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":387248237,
-    "wof:lastmodified":1449058198,
+    "wof:lastmodified":1454360708,
     "wof:name":"Industrial Control Concepts Incorporated",
     "wof:parent_id":85851951,
     "wof:placetype":"venue",
@@ -76,6 +80,11 @@
         "panel"
     ]
 },
-  "bbox": [-79.891279,40.396325,-79.891279,40.396325],
+  "bbox": [
+    -79.891279,
+    40.396325,
+    -79.891279,
+    40.396325
+],
   "geometry": {"coordinates":[-79.891279,40.396325],"type":"Point"}
 }

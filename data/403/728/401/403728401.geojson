@@ -2,13 +2,14 @@
   "id": 403728401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.568708,40.615252,-77.568708,40.615252",
     "geom:latitude":40.615252,
     "geom:longitude":-77.568708,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"112 Electric Ave",
     "sg:city":"Lewistown",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081333,
-        85835679
+        85835679,
+        102081333
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"b00c2a114bd6bdfc0f088ced88e3a873",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081333,
-            "locality_id":-1,
             "neighbourhood_id":85835679,
             "region_id":85688481,
             "venue_id":403728401
         }
     ],
     "wof:id":403728401,
-    "wof:lastmodified":1449054953,
+    "wof:lastmodified":1454357382,
     "wof:name":"China Queen Restaurant",
     "wof:parent_id":85835679,
     "wof:placetype":"venue",
@@ -64,6 +63,11 @@
         "pan"
     ]
 },
-  "bbox": [-77.568708,40.615252,-77.568708,40.615252],
+  "bbox": [
+    -77.568708,
+    40.615252,
+    -77.568708,
+    40.615252
+],
   "geometry": {"coordinates":[-77.568708,40.615252],"type":"Point"}
 }

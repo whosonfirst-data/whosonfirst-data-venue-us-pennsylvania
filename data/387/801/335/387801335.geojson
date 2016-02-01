@@ -2,13 +2,14 @@
   "id": 387801335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.152852,41.860578,-79.152852,41.860578",
     "geom:latitude":41.860578,
     "geom:longitude":-79.152852,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1419 Market St",
     "sg:city":"Warren",
     "sg:classifiers":[
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85853597,
+        102191575,
+        404487619,
         85633793,
         101719505,
         102081337,
-        85853597
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"523c7a96d57a02e114611c35aa974447",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081337,
+            "localadmin_id":404487619,
             "locality_id":101719505,
             "neighbourhood_id":85853597,
             "region_id":85688481,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":387801335,
-    "wof:lastmodified":1449059253,
+    "wof:lastmodified":1454361026,
     "wof:name":"Aaa Insurance",
     "wof:parent_id":85853597,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "agency"
     ]
 },
-  "bbox": [-79.152852,41.860578,-79.152852,41.860578],
+  "bbox": [
+    -79.152852,
+    41.860578,
+    -79.152852,
+    41.860578
+],
   "geometry": {"coordinates":[-79.152852,41.860578],"type":"Point"}
 }

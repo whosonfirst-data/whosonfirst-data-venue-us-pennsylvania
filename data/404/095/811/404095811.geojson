@@ -2,13 +2,14 @@
   "id": 404095811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.050637,41.236179,-77.050637,41.236179",
     "geom:latitude":41.236179,
     "geom:longitude":-77.050637,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"675 Arch St",
     "sg:city":"Williamsport",
     "sg:classifiers":[
@@ -56,7 +57,6 @@
     "wof:geomhash":"80d9f6f66978d57fc9945f1c4ded2326",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081317,
             "locality_id":101719105,
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":404095811,
-    "wof:lastmodified":1449039699,
+    "wof:lastmodified":1454356762,
     "wof:name":"Tire Masters",
     "wof:parent_id":85821053,
     "wof:placetype":"venue",
@@ -80,6 +80,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-77.050637,41.236179,-77.050637,41.236179],
-  "geometry": {"coordinates":[-77.050637,41.236179],"type":"Point"}
+  "bbox": [
+    -77.050637,
+    41.236179,
+    -77.050637,
+    41.236179
+],
+  "geometry": {"coordinates":[-77.05063699999999,41.236179],"type":"Point"}
 }

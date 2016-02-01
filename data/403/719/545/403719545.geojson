@@ -2,13 +2,14 @@
   "id": 403719545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.420679,40.336049,-76.420679,40.336049",
     "geom:latitude":40.336049,
     "geom:longitude":-76.420679,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"230 S 6th St Apt 5",
     "sg:city":"Lebanon",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85842249,
+        102191575,
+        404485699,
         85633793,
         101717093,
         102081341,
-        85842249
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"63500e66dce876a23bb5188a670af8db",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081341,
+            "localadmin_id":404485699,
             "locality_id":101717093,
             "neighbourhood_id":85842249,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":403719545,
-    "wof:lastmodified":1449054794,
+    "wof:lastmodified":1454357285,
     "wof:name":"Reilly's Computer Sales",
     "wof:parent_id":85842249,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "equipment"
     ]
 },
-  "bbox": [-76.420679,40.336049,-76.420679,40.336049],
-  "geometry": {"coordinates":[-76.420679,40.336049],"type":"Point"}
+  "bbox": [
+    -76.420679,
+    40.336049,
+    -76.420679,
+    40.336049
+],
+  "geometry": {"coordinates":[-76.42067900000001,40.336049],"type":"Point"}
 }

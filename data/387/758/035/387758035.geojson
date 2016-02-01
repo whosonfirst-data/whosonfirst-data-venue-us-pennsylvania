@@ -2,13 +2,14 @@
   "id": 387758035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.157928,41.192047,-80.157928,41.192047",
     "geom:latitude":41.192047,
     "geom:longitude":-80.157928,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1815 Mercer Grove City Rd",
     "sg:city":"Mercer",
     "sg:classifiers":[
@@ -59,8 +60,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080965,
-        85806323
+        85806323,
+        102080965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,17 +71,15 @@
     "wof:geomhash":"663dd2a76db327c908b1f36f9c821ac5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080965,
-            "locality_id":-1,
             "neighbourhood_id":85806323,
             "region_id":85688481,
             "venue_id":387758035
         }
     ],
     "wof:id":387758035,
-    "wof:lastmodified":1449057252,
+    "wof:lastmodified":1454358964,
     "wof:name":"Mercer Heaters Parts & Ac Dist",
     "wof:parent_id":85806323,
     "wof:placetype":"venue",
@@ -100,6 +99,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-80.157928,41.192047,-80.157928,41.192047],
+  "bbox": [
+    -80.157928,
+    41.192047,
+    -80.157928,
+    41.192047
+],
   "geometry": {"coordinates":[-80.157928,41.192047],"type":"Point"}
 }

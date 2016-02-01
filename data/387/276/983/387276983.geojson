@@ -2,13 +2,14 @@
   "id": 387276983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.834458,40.511873,-79.834458,40.511873",
     "geom:latitude":40.511873,
     "geom:longitude":-79.834458,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"12 Plum St",
     "sg:city":"Verona",
     "sg:classifiers":[
@@ -42,8 +43,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85818743
+        85818743,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,17 +54,15 @@
     "wof:geomhash":"a25cd32709f963dc053d161b542352eb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85818743,
             "region_id":85688481,
             "venue_id":387276983
         }
     ],
     "wof:id":387276983,
-    "wof:lastmodified":1449056258,
+    "wof:lastmodified":1454358204,
     "wof:name":"Anderson Interiors",
     "wof:parent_id":85818743,
     "wof:placetype":"venue",
@@ -75,6 +74,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-79.834458,40.511873,-79.834458,40.511873],
+  "bbox": [
+    -79.834458,
+    40.511873,
+    -79.834458,
+    40.511873
+],
   "geometry": {"coordinates":[-79.834458,40.511873],"type":"Point"}
 }

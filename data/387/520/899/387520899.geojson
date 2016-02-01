@@ -2,13 +2,14 @@
   "id": 387520899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.076897,40.326801,-80.076897,40.326801",
     "geom:latitude":40.326801,
     "geom:longitude":-80.076897,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"S Hills Vlg",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85807685,
+        102191575,
+        404484331,
         85633793,
         101720495,
         102080887,
-        85807685
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"cd4cf7e748c401cb5e4d2f44a9ebdaab",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484331,
             "locality_id":101720495,
             "neighbourhood_id":85807685,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387520899,
-    "wof:lastmodified":1449057355,
+    "wof:lastmodified":1454359052,
     "wof:name":"Sears Hearing Aid Center",
     "wof:parent_id":85807685,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "nose"
     ]
 },
-  "bbox": [-80.076897,40.326801,-80.076897,40.326801],
+  "bbox": [
+    -80.076897,
+    40.326801,
+    -80.076897,
+    40.326801
+],
   "geometry": {"coordinates":[-80.076897,40.326801],"type":"Point"}
 }

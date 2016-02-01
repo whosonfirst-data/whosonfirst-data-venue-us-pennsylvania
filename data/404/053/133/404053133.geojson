@@ -2,13 +2,14 @@
   "id": 404053133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.41163,40.094279,-76.41163,40.094279",
     "geom:latitude":40.094279,
     "geom:longitude":-76.41163,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"165 Bank St",
     "sg:city":"Landisville",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85833625
+        85833625,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"b32e737dbae3a07a1237d50fd3532fdd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85833625,
             "region_id":85688481,
             "venue_id":404053133
         }
     ],
     "wof:id":404053133,
-    "wof:lastmodified":1449039281,
+    "wof:lastmodified":1454356547,
     "wof:name":"Selzer Woodworking",
     "wof:parent_id":85833625,
     "wof:placetype":"venue",
@@ -64,6 +63,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-76.41163,40.094279,-76.41163,40.094279],
+  "bbox": [
+    -76.41163,
+    40.094279,
+    -76.41163,
+    40.094279
+],
   "geometry": {"coordinates":[-76.41163,40.094279],"type":"Point"}
 }

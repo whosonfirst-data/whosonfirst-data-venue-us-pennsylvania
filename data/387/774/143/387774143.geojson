@@ -2,13 +2,14 @@
   "id": 387774143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.548615,40.81228,-79.548615,40.81228",
     "geom:latitude":40.81228,
     "geom:longitude":-79.548615,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"30 Franklin Village Mall",
     "sg:city":"Kittanning",
     "sg:classifiers":[
@@ -38,10 +39,13 @@
     "sg:website":"http://www.biglots.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536487,
+        102191575,
+        404484271,
         85633793,
         101720291,
-        102081371
+        102081371,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,19 +55,20 @@
     "wof:geomhash":"0e12098a4fdc60ce8557a66c0ba69520",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081371,
+            "localadmin_id":404484271,
             "locality_id":101720291,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420536487,
             "region_id":85688481,
             "venue_id":387774143
         }
     ],
     "wof:id":387774143,
-    "wof:lastmodified":1449057587,
+    "wof:lastmodified":1454360522,
     "wof:name":"Big Lots",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536487,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -71,6 +76,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-79.548615,40.81228,-79.548615,40.81228],
+  "bbox": [
+    -79.548615,
+    40.81228,
+    -79.548615,
+    40.81228
+],
   "geometry": {"coordinates":[-79.548615,40.81228],"type":"Point"}
 }

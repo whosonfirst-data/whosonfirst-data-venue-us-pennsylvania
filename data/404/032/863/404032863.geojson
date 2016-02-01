@@ -2,13 +2,14 @@
   "id": 404032863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.710022,39.890156,-76.710022,39.890156",
     "geom:latitude":39.890156,
     "geom:longitude":-76.710022,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"119 E Greenbriar Dr",
     "sg:city":"York",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080953,
-        85844343
+        85844343,
+        102080953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"8fdf3ebb77950c207efd0d6faf960cdc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
             "neighbourhood_id":85844343,
             "region_id":85688481,
             "venue_id":404032863
         }
     ],
     "wof:id":404032863,
-    "wof:lastmodified":1449039624,
+    "wof:lastmodified":1454356739,
     "wof:name":"Rilex Properties",
     "wof:parent_id":85844343,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "park"
     ]
 },
-  "bbox": [-76.710022,39.890156,-76.710022,39.890156],
+  "bbox": [
+    -76.710022,
+    39.890156,
+    -76.710022,
+    39.890156
+],
   "geometry": {"coordinates":[-76.710022,39.890156],"type":"Point"}
 }

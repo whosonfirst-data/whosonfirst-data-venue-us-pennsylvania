@@ -2,13 +2,14 @@
   "id": 404074133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.298703,40.07309,-76.298703,40.07309",
     "geom:latitude":40.07309,
     "geom:longitude":-76.298703,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1755 Oregon Pike Ste 102",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -39,8 +40,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85811259
+        85811259,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,17 +51,15 @@
     "wof:geomhash":"0f886393bb432c5401dd79499fe15071",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85811259,
             "region_id":85688481,
             "venue_id":404074133
         }
     ],
     "wof:id":404074133,
-    "wof:lastmodified":1449039784,
+    "wof:lastmodified":1454356795,
     "wof:name":"Schmidt John M Dds",
     "wof:parent_id":85811259,
     "wof:placetype":"venue",
@@ -75,6 +74,11 @@
         "oral"
     ]
 },
-  "bbox": [-76.298703,40.07309,-76.298703,40.07309],
+  "bbox": [
+    -76.298703,
+    40.07309,
+    -76.298703,
+    40.07309
+],
   "geometry": {"coordinates":[-76.298703,40.07309],"type":"Point"}
 }

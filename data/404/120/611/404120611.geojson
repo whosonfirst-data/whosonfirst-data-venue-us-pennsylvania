@@ -2,13 +2,14 @@
   "id": 404120611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.352762,40.963029,-76.352762,40.963029",
     "geom:latitude":40.963029,
     "geom:longitude":-76.352762,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"47B Fullmill Hl",
     "sg:city":"Bloomsburg",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080973,
-        85857999
+        85857999,
+        102080973
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"c374b19f850623e9c68912f5823131a1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080973,
-            "locality_id":-1,
             "neighbourhood_id":85857999,
             "region_id":85688481,
             "venue_id":404120611
         }
     ],
     "wof:id":404120611,
-    "wof:lastmodified":1449040149,
+    "wof:lastmodified":1454357033,
     "wof:name":"Doyle E Smethers Jr",
     "wof:parent_id":85857999,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "product"
     ]
 },
-  "bbox": [-76.352762,40.963029,-76.352762,40.963029],
+  "bbox": [
+    -76.352762,
+    40.963029,
+    -76.352762,
+    40.963029
+],
   "geometry": {"coordinates":[-76.352762,40.963029],"type":"Point"}
 }

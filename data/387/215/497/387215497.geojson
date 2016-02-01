@@ -2,13 +2,14 @@
   "id": 387215497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.050805,40.604782,-80.050805,40.604782",
     "geom:latitude":40.604782,
     "geom:longitude":-80.050805,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"10384 Perry Hwy",
     "sg:city":"Wexford",
     "sg:classifiers":[
@@ -44,8 +45,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85828191
+        85828191,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,17 +56,15 @@
     "wof:geomhash":"7b7d57fd83eb979a7a9aa9e1490c416f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85828191,
             "region_id":85688481,
             "venue_id":387215497
         }
     ],
     "wof:id":387215497,
-    "wof:lastmodified":1449059262,
+    "wof:lastmodified":1454361028,
     "wof:name":"Fence By Maintenance Service Inc.",
     "wof:parent_id":85828191,
     "wof:placetype":"venue",
@@ -79,6 +78,11 @@
         "fence-sales"
     ]
 },
-  "bbox": [-80.050805,40.604782,-80.050805,40.604782],
+  "bbox": [
+    -80.050805,
+    40.604782,
+    -80.050805,
+    40.604782
+],
   "geometry": {"coordinates":[-80.050805,40.604782],"type":"Point"}
 }

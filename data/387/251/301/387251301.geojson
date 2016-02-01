@@ -2,13 +2,14 @@
   "id": 387251301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.012726,40.308675,-80.012726,40.308675",
     "geom:latitude":40.308675,
     "geom:longitude":-80.012726,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1700 Patrick Pl",
     "sg:city":"South Park",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85806925,
+        102191575,
+        404484853,
         85633793,
         101718799,
         102080887,
-        85806925
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"1d92d1047e92fded85e2fa134c4ba927",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484853,
             "locality_id":101718799,
             "neighbourhood_id":85806925,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387251301,
-    "wof:lastmodified":1449056188,
+    "wof:lastmodified":1454358150,
     "wof:name":"Park Place Apartments",
     "wof:parent_id":85806925,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-80.012726,40.308675,-80.012726,40.308675],
+  "bbox": [
+    -80.012726,
+    40.308675,
+    -80.012726,
+    40.308675
+],
   "geometry": {"coordinates":[-80.012726,40.308675],"type":"Point"}
 }

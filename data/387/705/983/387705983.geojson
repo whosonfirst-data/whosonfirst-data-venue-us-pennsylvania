@@ -2,13 +2,14 @@
   "id": 387705983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.749312,40.78843,-79.749312,40.78843",
     "geom:latitude":40.78843,
     "geom:longitude":-79.749312,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1004 Bear Creek Rd",
     "sg:city":"Cabot",
     "sg:classifiers":[
@@ -33,8 +34,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102083677,
-        85847181
+        85847181,
+        102083677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +45,15 @@
     "wof:geomhash":"02a837b05efe8a4839e38c1933c54fcf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102083677,
-            "locality_id":-1,
             "neighbourhood_id":85847181,
             "region_id":85688481,
             "venue_id":387705983
         }
     ],
     "wof:id":387705983,
-    "wof:lastmodified":1449059942,
+    "wof:lastmodified":1454361239,
     "wof:name":"Luchkiw Masonry",
     "wof:parent_id":85847181,
     "wof:placetype":"venue",
@@ -68,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.749312,40.78843,-79.749312,40.78843],
+  "bbox": [
+    -79.749312,
+    40.78843,
+    -79.749312,
+    40.78843
+],
   "geometry": {"coordinates":[-79.749312,40.78843],"type":"Point"}
 }

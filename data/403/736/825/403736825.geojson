@@ -2,13 +2,14 @@
   "id": 403736825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.970189,40.225846,-76.970189,40.225846",
     "geom:latitude":40.225846,
     "geom:longitude":-76.970189,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5006 E Trindle Rd",
     "sg:city":"Mechanicsburg",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081359,
-        85850501
+        85850501,
+        102081359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"80de21366668dcd2d8bc53a41da42553",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081359,
-            "locality_id":-1,
             "neighbourhood_id":85850501,
             "region_id":85688481,
             "venue_id":403736825
         }
     ],
     "wof:id":403736825,
-    "wof:lastmodified":1449055932,
+    "wof:lastmodified":1454357958,
     "wof:name":"Abram C Bert Cpa",
     "wof:parent_id":85850501,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "accountants-certified"
     ]
 },
-  "bbox": [-76.970189,40.225846,-76.970189,40.225846],
+  "bbox": [
+    -76.970189,
+    40.225846,
+    -76.970189,
+    40.225846
+],
   "geometry": {"coordinates":[-76.970189,40.225846],"type":"Point"}
 }

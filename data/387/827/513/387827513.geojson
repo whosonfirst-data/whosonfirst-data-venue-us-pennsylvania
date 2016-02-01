@@ -2,13 +2,14 @@
   "id": 387827513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.08477,42.126013,-80.08477,42.126013",
     "geom:latitude":42.126013,
     "geom:longitude":-80.08477,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"105 W 9th St",
     "sg:city":"Erie",
     "sg:classifiers":[
@@ -47,7 +48,6 @@
     "wof:geomhash":"1820e3291d2aaeaaa7499aa87d8d5be7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080955,
             "locality_id":101718253,
@@ -57,7 +57,7 @@
         }
     ],
     "wof:id":387827513,
-    "wof:lastmodified":1449057461,
+    "wof:lastmodified":1454359144,
     "wof:name":"Port City Java",
     "wof:parent_id":85814671,
     "wof:placetype":"venue",
@@ -68,6 +68,11 @@
         "espresso"
     ]
 },
-  "bbox": [-80.08477,42.126013,-80.08477,42.126013],
-  "geometry": {"coordinates":[-80.08477,42.126013],"type":"Point"}
+  "bbox": [
+    -80.08477,
+    42.126013,
+    -80.08477,
+    42.126013
+],
+  "geometry": {"coordinates":[-80.08477000000001,42.126013],"type":"Point"}
 }

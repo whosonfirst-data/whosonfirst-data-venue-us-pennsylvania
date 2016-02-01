@@ -2,13 +2,14 @@
   "id": 403789345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.095289,40.486441,-77.095289,40.486441",
     "geom:latitude":40.486441,
     "geom:longitude":-77.095289,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1827 Lower Bailey Rd",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080963,
-        85827701
+        85827701,
+        102080963
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"1f2364d15fbd247a00f798038977ad40",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080963,
-            "locality_id":-1,
             "neighbourhood_id":85827701,
             "region_id":85688481,
             "venue_id":403789345
         }
     ],
     "wof:id":403789345,
-    "wof:lastmodified":1449055234,
+    "wof:lastmodified":1454357553,
     "wof:name":"The Earth Alchemists",
     "wof:parent_id":85827701,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-77.095289,40.486441,-77.095289,40.486441],
-  "geometry": {"coordinates":[-77.095289,40.486441],"type":"Point"}
+  "bbox": [
+    -77.095289,
+    40.486441,
+    -77.095289,
+    40.486441
+],
+  "geometry": {"coordinates":[-77.09528899999999,40.486441],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404054007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.222425,40.120682,-76.222425,40.120682",
     "geom:latitude":40.120682,
     "geom:longitude":-76.222425,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"168 Stone Quarry Rd",
     "sg:city":"Leola",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85834405
+        85834405,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"aefd765264b0a32bbf29e00bb1dd5ca4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85834405,
             "region_id":85688481,
             "venue_id":404054007
         }
     ],
     "wof:id":404054007,
-    "wof:lastmodified":1449039574,
+    "wof:lastmodified":1454356723,
     "wof:name":"Silver Creek Gallery",
     "wof:parent_id":85834405,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "jeweler"
     ]
 },
-  "bbox": [-76.222425,40.120682,-76.222425,40.120682],
+  "bbox": [
+    -76.222425,
+    40.120682,
+    -76.222425,
+    40.120682
+],
   "geometry": {"coordinates":[-76.222425,40.120682],"type":"Point"}
 }

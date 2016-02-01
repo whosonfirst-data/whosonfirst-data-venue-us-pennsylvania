@@ -2,13 +2,14 @@
   "id": 387323979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.9985,40.4539,-79.9985,40.4539",
     "geom:latitude":40.4539,
     "geom:longitude":-79.9985,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"616 E OHIO ST",
     "sg:city":"PITTSBURGH",
     "sg:classifiers":[
@@ -48,11 +49,13 @@
     "sg:website":"http://www.rentacenter.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85815883,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85815883
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,9 +65,10 @@
     "wof:geomhash":"d72dc9a89885a26b9c8219f19a96298d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85815883,
             "region_id":85688481,
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":387323979,
-    "wof:lastmodified":1449056435,
+    "wof:lastmodified":1454358354,
     "wof:name":"Rent-A-Center",
     "wof:parent_id":85815883,
     "wof:placetype":"venue",
@@ -87,6 +91,11 @@
         "rental"
     ]
 },
-  "bbox": [-79.9985,40.4539,-79.9985,40.4539],
-  "geometry": {"coordinates":[-79.9985,40.4539],"type":"Point"}
+  "bbox": [
+    -79.9985,
+    40.4539,
+    -79.9985,
+    40.4539
+],
+  "geometry": {"coordinates":[-79.99850000000001,40.4539],"type":"Point"}
 }

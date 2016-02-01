@@ -2,13 +2,14 @@
   "id": 404195129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.368845,40.656274,-75.368845,40.656274",
     "geom:latitude":40.656274,
     "geom:longitude":-75.368845,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"541 Apollo Dr",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420539383,
+        102191575,
+        404485987,
         85633793,
         101717907,
-        102081395
+        102081395,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,20 @@
     "wof:geomhash":"8a1a3e6cceb2fac42f5aef1061544555",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081395,
+            "localadmin_id":404485987,
             "locality_id":101717907,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420539383,
             "region_id":85688481,
             "venue_id":404195129
         }
     ],
     "wof:id":404195129,
-    "wof:lastmodified":1449039926,
+    "wof:lastmodified":1454356897,
     "wof:name":"Rpn Enterprises",
-    "wof:parent_id":-1,
+    "wof:parent_id":420539383,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -67,6 +72,11 @@
         "holding"
     ]
 },
-  "bbox": [-75.368845,40.656274,-75.368845,40.656274],
-  "geometry": {"coordinates":[-75.368845,40.656274],"type":"Point"}
+  "bbox": [
+    -75.368845,
+    40.656274,
+    -75.368845,
+    40.656274
+],
+  "geometry": {"coordinates":[-75.36884499999999,40.656274],"type":"Point"}
 }

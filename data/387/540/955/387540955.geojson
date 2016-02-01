@@ -2,13 +2,14 @@
   "id": 387540955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.205382,40.219033,-80.205382,40.219033",
     "geom:latitude":40.219033,
     "geom:longitude":-80.205382,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2200 Tanger Blvd",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -27,8 +28,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081343,
-        85833251
+        85833251,
+        102081343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +39,15 @@
     "wof:geomhash":"3207257bd0ea2d81c4a978941777b771",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081343,
-            "locality_id":-1,
             "neighbourhood_id":85833251,
             "region_id":85688481,
             "venue_id":387540955
         }
     ],
     "wof:id":387540955,
-    "wof:lastmodified":1449057608,
+    "wof:lastmodified":1454360528,
     "wof:name":"Claire's Boutiques",
     "wof:parent_id":85833251,
     "wof:placetype":"venue",
@@ -56,6 +55,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.205382,40.219033,-80.205382,40.219033],
+  "bbox": [
+    -80.205382,
+    40.219033,
+    -80.205382,
+    40.219033
+],
   "geometry": {"coordinates":[-80.205382,40.219033],"type":"Point"}
 }

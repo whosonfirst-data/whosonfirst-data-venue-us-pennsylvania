@@ -2,13 +2,14 @@
   "id": 387582105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.271899,39.879177,-80.271899,39.879177",
     "geom:latitude":39.879177,
     "geom:longitude":-80.271899,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"140 Church St",
     "sg:city":"Rogersville",
     "sg:classifiers":[
@@ -48,7 +49,6 @@
     "wof:geomhash":"48b3b805b125deb0f07703105ab0dd48",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080975,
             "locality_id":101717725,
@@ -58,7 +58,7 @@
         }
     ],
     "wof:id":387582105,
-    "wof:lastmodified":1449058158,
+    "wof:lastmodified":1454360699,
     "wof:name":"USPS - United States Post Office - Rogersville Main Office",
     "wof:parent_id":85806361,
     "wof:placetype":"venue",
@@ -69,6 +69,11 @@
         "shipping"
     ]
 },
-  "bbox": [-80.271899,39.879177,-80.271899,39.879177],
+  "bbox": [
+    -80.271899,
+    39.879177,
+    -80.271899,
+    39.879177
+],
   "geometry": {"coordinates":[-80.271899,39.879177],"type":"Point"}
 }

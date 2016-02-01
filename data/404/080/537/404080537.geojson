@@ -2,13 +2,14 @@
   "id": 404080537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.306141,40.059846,-76.306141,40.059846",
     "geom:latitude":40.059846,
     "geom:longitude":-76.306141,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1326 LITITZ PIKE",
     "sg:city":"LANCASTER",
     "sg:classifiers":[
@@ -48,10 +49,13 @@
     "sg:website":"http://www.rentacenter.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85821747,
+        102191575,
+        404487183,
         85633793,
+        101718643,
         102081377,
-        85821747
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,17 +65,18 @@
     "wof:geomhash":"ca4e62c4db3c1ced27225a9826ce66f0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
+            "localadmin_id":404487183,
+            "locality_id":101718643,
             "neighbourhood_id":85821747,
             "region_id":85688481,
             "venue_id":404080537
         }
     ],
     "wof:id":404080537,
-    "wof:lastmodified":1449040300,
+    "wof:lastmodified":1454357117,
     "wof:name":"Rent-A-Center",
     "wof:parent_id":85821747,
     "wof:placetype":"venue",
@@ -86,6 +91,11 @@
         "rental"
     ]
 },
-  "bbox": [-76.306141,40.059846,-76.306141,40.059846],
+  "bbox": [
+    -76.306141,
+    40.059846,
+    -76.306141,
+    40.059846
+],
   "geometry": {"coordinates":[-76.306141,40.059846],"type":"Point"}
 }

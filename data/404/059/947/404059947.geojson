@@ -2,13 +2,14 @@
   "id": 404059947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.306479,40.157091,-76.306479,40.157091",
     "geom:latitude":40.157091,
     "geom:longitude":-76.306479,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"23 E Main St",
     "sg:city":"Lititz",
     "sg:classifiers":[
@@ -34,8 +35,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85834405
+        85834405,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +46,15 @@
     "wof:geomhash":"c473ad5912e084ad7a3832b28c8227e9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85834405,
             "region_id":85688481,
             "venue_id":404059947
         }
     ],
     "wof:id":404059947,
-    "wof:lastmodified":1449039353,
+    "wof:lastmodified":1454356590,
     "wof:name":"Cherry Acres",
     "wof:parent_id":85834405,
     "wof:placetype":"venue",
@@ -65,6 +64,11 @@
         "kennel"
     ]
 },
-  "bbox": [-76.306479,40.157091,-76.306479,40.157091],
+  "bbox": [
+    -76.306479,
+    40.157091,
+    -76.306479,
+    40.157091
+],
   "geometry": {"coordinates":[-76.306479,40.157091],"type":"Point"}
 }

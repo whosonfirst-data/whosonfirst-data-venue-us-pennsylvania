@@ -2,13 +2,14 @@
   "id": 387619505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.523242,40.302174,-79.523242,40.302174",
     "geom:latitude":40.302174,
     "geom:longitude":-79.523242,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"841 E Pittsburgh St",
     "sg:city":"Greensburg",
     "sg:classifiers":[
@@ -49,8 +50,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081383,
-        85851151
+        85851151,
+        102081383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,17 +61,15 @@
     "wof:geomhash":"849654d6df2986a77937e3c4c802024b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":-1,
             "neighbourhood_id":85851151,
             "region_id":85688481,
             "venue_id":387619505
         }
     ],
     "wof:id":387619505,
-    "wof:lastmodified":1449056787,
+    "wof:lastmodified":1454358609,
     "wof:name":"Allstate Insurance Company - Kent Platos",
     "wof:parent_id":85851151,
     "wof:placetype":"venue",
@@ -85,6 +84,11 @@
         "renter"
     ]
 },
-  "bbox": [-79.523242,40.302174,-79.523242,40.302174],
+  "bbox": [
+    -79.523242,
+    40.302174,
+    -79.523242,
+    40.302174
+],
   "geometry": {"coordinates":[-79.523242,40.302174],"type":"Point"}
 }

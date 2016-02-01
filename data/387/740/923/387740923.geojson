@@ -2,13 +2,14 @@
   "id": 387740923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.087189,40.685547,-80.087189,40.685547",
     "geom:latitude":40.685547,
     "geom:longitude":-80.087189,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1708 Route 228",
     "sg:city":"Cranberry Township",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102083677,
-        85812951
+        85812951,
+        102083677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"fc3b26b96c8f9e9094800fa8c41a9cdf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102083677,
-            "locality_id":-1,
             "neighbourhood_id":85812951,
             "region_id":85688481,
             "venue_id":387740923
         }
     ],
     "wof:id":387740923,
-    "wof:lastmodified":1449057828,
+    "wof:lastmodified":1454360608,
     "wof:name":"Smokey Bones Barbeque",
     "wof:parent_id":85812951,
     "wof:placetype":"venue",
@@ -61,6 +60,11 @@
         "barbeque"
     ]
 },
-  "bbox": [-80.087189,40.685547,-80.087189,40.685547],
+  "bbox": [
+    -80.087189,
+    40.685547,
+    -80.087189,
+    40.685547
+],
   "geometry": {"coordinates":[-80.087189,40.685547],"type":"Point"}
 }

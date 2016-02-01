@@ -2,13 +2,14 @@
   "id": 387328457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.924504,40.494748,-79.924504,40.494748",
     "geom:latitude":40.494748,
     "geom:longitude":-79.924504,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1635 Main St",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -44,8 +45,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85840611
+        85840611,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,17 +56,15 @@
     "wof:geomhash":"0fbcab5b4546bb61e21a598c874077a5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85840611,
             "region_id":85688481,
             "venue_id":387328457
         }
     ],
     "wof:id":387328457,
-    "wof:lastmodified":1449058347,
+    "wof:lastmodified":1454360751,
     "wof:name":"Wynne's Express Lube",
     "wof:parent_id":85840611,
     "wof:placetype":"venue",
@@ -79,6 +78,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-79.924504,40.494748,-79.924504,40.494748],
+  "bbox": [
+    -79.924504,
+    40.494748,
+    -79.924504,
+    40.494748
+],
   "geometry": {"coordinates":[-79.924504,40.494748],"type":"Point"}
 }

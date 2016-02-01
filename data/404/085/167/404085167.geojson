@@ -2,13 +2,14 @@
   "id": 404085167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.250556,40.040576,-76.250556,40.040576",
     "geom:latitude":40.040576,
     "geom:longitude":-76.250556,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1915 Old Philadelphia Pike",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -41,8 +42,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85817031
+        85817031,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,17 +53,15 @@
     "wof:geomhash":"7061edf5d802253556b853b758e96ffe",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85817031,
             "region_id":85688481,
             "venue_id":404085167
         }
     ],
     "wof:id":404085167,
-    "wof:lastmodified":1449039344,
+    "wof:lastmodified":1454356581,
     "wof:name":"High Steel Structures, Inc.",
     "wof:parent_id":85817031,
     "wof:placetype":"venue",
@@ -78,6 +77,11 @@
         "structural"
     ]
 },
-  "bbox": [-76.250556,40.040576,-76.250556,40.040576],
+  "bbox": [
+    -76.250556,
+    40.040576,
+    -76.250556,
+    40.040576
+],
   "geometry": {"coordinates":[-76.250556,40.040576],"type":"Point"}
 }

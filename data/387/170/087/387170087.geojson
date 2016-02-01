@@ -2,13 +2,14 @@
   "id": 387170087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.930481,40.19521,-79.930481,40.19521",
     "geom:latitude":40.19521,
     "geom:longitude":-79.930481,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"600 Park Ave",
     "sg:city":"Monongahela",
     "sg:classifiers":[
@@ -42,10 +43,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420539901,
+        102191575,
+        404487805,
         85633793,
         101718465,
-        102081343
+        102081343,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,19 +59,20 @@
     "wof:geomhash":"e9ccd7cccbfa634991c88384c1553bf9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081343,
+            "localadmin_id":404487805,
             "locality_id":101718465,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420539901,
             "region_id":85688481,
             "venue_id":387170087
         }
     ],
     "wof:id":387170087,
-    "wof:lastmodified":1449056462,
+    "wof:lastmodified":1454358374,
     "wof:name":"Macuga Construction",
-    "wof:parent_id":-1,
+    "wof:parent_id":420539901,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -80,6 +85,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.930481,40.19521,-79.930481,40.19521],
+  "bbox": [
+    -79.930481,
+    40.19521,
+    -79.930481,
+    40.19521
+],
   "geometry": {"coordinates":[-79.930481,40.19521],"type":"Point"}
 }

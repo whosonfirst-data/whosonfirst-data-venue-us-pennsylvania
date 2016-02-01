@@ -2,13 +2,14 @@
   "id": 404037587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.665956,40.134599,-76.665956,40.134599",
     "geom:latitude":40.134599,
     "geom:longitude":-76.665956,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"188 Yoder Rd",
     "sg:city":"Bainbridge",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85836929
+        85836929,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"703f02fc7a66b4b7175668703200e0b0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85836929,
             "region_id":85688481,
             "venue_id":404037587
         }
     ],
     "wof:id":404037587,
-    "wof:lastmodified":1449040343,
+    "wof:lastmodified":1454357147,
     "wof:name":"Walker Trucking",
     "wof:parent_id":85836929,
     "wof:placetype":"venue",
@@ -64,6 +63,11 @@
         "truck"
     ]
 },
-  "bbox": [-76.665956,40.134599,-76.665956,40.134599],
-  "geometry": {"coordinates":[-76.665956,40.134599],"type":"Point"}
+  "bbox": [
+    -76.665956,
+    40.134599,
+    -76.665956,
+    40.134599
+],
+  "geometry": {"coordinates":[-76.66595599999999,40.134599],"type":"Point"}
 }

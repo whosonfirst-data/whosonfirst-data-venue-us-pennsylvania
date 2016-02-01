@@ -2,13 +2,14 @@
   "id": 387126417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.815178,40.543701,-79.815178,40.543701",
     "geom:latitude":40.543701,
     "geom:longitude":-79.815178,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"230 Herron Ave",
     "sg:city":"Cheswick",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85802379
+        85802379,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"d0b19b3ba656c58833d4b5f3cf81cf3c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85802379,
             "region_id":85688481,
             "venue_id":387126417
         }
     ],
     "wof:id":387126417,
-    "wof:lastmodified":1449057503,
+    "wof:lastmodified":1454359801,
     "wof:name":"American Slovenian Citizens Assn",
     "wof:parent_id":85802379,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "volunteer"
     ]
 },
-  "bbox": [-79.815178,40.543701,-79.815178,40.543701],
+  "bbox": [
+    -79.815178,
+    40.543701,
+    -79.815178,
+    40.543701
+],
   "geometry": {"coordinates":[-79.815178,40.543701],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387512863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.771014,40.4983,-79.771014,40.4983",
     "geom:latitude":40.4983,
     "geom:longitude":-79.771014,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3180 Leechburg Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -43,8 +44,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85812851
+        85812851,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,17 +55,15 @@
     "wof:geomhash":"274b68ca9c29549e02895b0be2a0496a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85812851,
             "region_id":85688481,
             "venue_id":387512863
         }
     ],
     "wof:id":387512863,
-    "wof:lastmodified":1449058878,
+    "wof:lastmodified":1454360912,
     "wof:name":"P C M Automotive Electric",
     "wof:parent_id":85812851,
     "wof:placetype":"venue",
@@ -78,6 +77,11 @@
         "accessory"
     ]
 },
-  "bbox": [-79.771014,40.4983,-79.771014,40.4983],
-  "geometry": {"coordinates":[-79.771014,40.4983],"type":"Point"}
+  "bbox": [
+    -79.771014,
+    40.4983,
+    -79.771014,
+    40.4983
+],
+  "geometry": {"coordinates":[-79.77101399999999,40.4983],"type":"Point"}
 }

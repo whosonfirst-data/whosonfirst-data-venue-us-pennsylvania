@@ -2,13 +2,14 @@
   "id": 404090947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.36432,40.039501,-76.36432,40.039501",
     "geom:latitude":40.039501,
     "geom:longitude":-76.36432,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"22A Millersville Rd",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -41,8 +42,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85810789
+        85810789,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,17 +53,15 @@
     "wof:geomhash":"73a7953d6e86827f6c5e489bdd92da1f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85810789,
             "region_id":85688481,
             "venue_id":404090947
         }
     ],
     "wof:id":404090947,
-    "wof:lastmodified":1449040039,
+    "wof:lastmodified":1454356975,
     "wof:name":"Harry A Clark Jr Dds",
     "wof:parent_id":85810789,
     "wof:placetype":"venue",
@@ -79,6 +78,11 @@
         "oral"
     ]
 },
-  "bbox": [-76.36432,40.039501,-76.36432,40.039501],
-  "geometry": {"coordinates":[-76.36432,40.039501],"type":"Point"}
+  "bbox": [
+    -76.36432,
+    40.039501,
+    -76.36432,
+    40.039501
+],
+  "geometry": {"coordinates":[-76.36432000000001,40.039501],"type":"Point"}
 }

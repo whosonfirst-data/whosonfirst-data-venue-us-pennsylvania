@@ -2,13 +2,14 @@
   "id": 387175129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.9487,40.208401,-79.9487,40.208401",
     "geom:latitude":40.208401,
     "geom:longitude":-79.9487,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"161 Main St",
     "sg:city":"New Eagle",
     "sg:classifiers":[
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85844791,
+        102191575,
+        404483977,
         85633793,
         101718463,
         102081343,
-        85844791
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"33baf640dd13e293d28868819b172971",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081343,
+            "localadmin_id":404483977,
             "locality_id":101718463,
             "neighbourhood_id":85844791,
             "region_id":85688481,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":387175129,
-    "wof:lastmodified":1449058750,
+    "wof:lastmodified":1454360870,
     "wof:name":"New Eagle Bakery & Pizzeria",
     "wof:parent_id":85844791,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "pizza"
     ]
 },
-  "bbox": [-79.9487,40.208401,-79.9487,40.208401],
+  "bbox": [
+    -79.9487,
+    40.208401,
+    -79.9487,
+    40.208401
+],
   "geometry": {"coordinates":[-79.9487,40.208401],"type":"Point"}
 }

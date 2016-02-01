@@ -2,13 +2,14 @@
   "id": 387623203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.497794,40.298874,-79.497794,40.298874",
     "geom:latitude":40.298874,
     "geom:longitude":-79.497794,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"203 Old Route 30",
     "sg:city":"Greensburg",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081383,
-        85851151
+        85851151,
+        102081383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"84a19c1b29001f32881743bc0ceaf3be",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":-1,
             "neighbourhood_id":85851151,
             "region_id":85688481,
             "venue_id":387623203
         }
     ],
     "wof:id":387623203,
-    "wof:lastmodified":1449058779,
+    "wof:lastmodified":1454360878,
     "wof:name":"Laurel Design Associates Inc",
     "wof:parent_id":85851151,
     "wof:placetype":"venue",
@@ -64,6 +63,11 @@
         "decorator"
     ]
 },
-  "bbox": [-79.497794,40.298874,-79.497794,40.298874],
+  "bbox": [
+    -79.497794,
+    40.298874,
+    -79.497794,
+    40.298874
+],
   "geometry": {"coordinates":[-79.497794,40.298874],"type":"Point"}
 }

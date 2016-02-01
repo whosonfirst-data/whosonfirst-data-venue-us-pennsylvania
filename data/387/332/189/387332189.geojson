@@ -2,13 +2,14 @@
   "id": 387332189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.034771,40.395951,-80.034771,40.395951",
     "geom:latitude":40.395951,
     "geom:longitude":-80.034771,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1430 Potomac Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -32,10 +33,13 @@
     "sg:website":"www.dor-stoprestaurant.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85807877,
+        102191575,
+        404482523,
         85633793,
+        101718805,
         102080887,
-        85807877
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +49,18 @@
     "wof:geomhash":"ed0bdeb7e235fa14d6d603803bd70144",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
+            "localadmin_id":404482523,
+            "locality_id":101718805,
             "neighbourhood_id":85807877,
             "region_id":85688481,
             "venue_id":387332189
         }
     ],
     "wof:id":387332189,
-    "wof:lastmodified":1449058227,
+    "wof:lastmodified":1454360715,
     "wof:name":"The Dor-Stop Restaurant",
     "wof:parent_id":85807877,
     "wof:placetype":"venue",
@@ -69,6 +74,11 @@
         "breakfast"
     ]
 },
-  "bbox": [-80.034771,40.395951,-80.034771,40.395951],
-  "geometry": {"coordinates":[-80.034771,40.395951],"type":"Point"}
+  "bbox": [
+    -80.034771,
+    40.395951,
+    -80.034771,
+    40.395951
+],
+  "geometry": {"coordinates":[-80.03477100000001,40.395951],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387874425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.792606,40.887196,-77.792606,40.887196",
     "geom:latitude":40.887196,
     "geom:longitude":-77.792606,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"506 Saint Paul Cir",
     "sg:city":"Bellefonte",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081369,
-        85819359
+        85819359,
+        102081369
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"3184cc44f4b2bbc4e6230179991c9d32",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081369,
-            "locality_id":-1,
             "neighbourhood_id":85819359,
             "region_id":85688481,
             "venue_id":387874425
         }
     ],
     "wof:id":387874425,
-    "wof:lastmodified":1449059675,
+    "wof:lastmodified":1454361155,
     "wof:name":"Mark Capriani",
     "wof:parent_id":85819359,
     "wof:placetype":"venue",
@@ -61,6 +60,11 @@
         "apartment"
     ]
 },
-  "bbox": [-77.792606,40.887196,-77.792606,40.887196],
-  "geometry": {"coordinates":[-77.792606,40.887196],"type":"Point"}
+  "bbox": [
+    -77.792606,
+    40.887196,
+    -77.792606,
+    40.887196
+],
+  "geometry": {"coordinates":[-77.79260600000001,40.887196],"type":"Point"}
 }

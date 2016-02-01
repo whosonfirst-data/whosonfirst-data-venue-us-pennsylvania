@@ -2,13 +2,14 @@
   "id": 404080207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.292809,40.070839,-76.292809,40.070839",
     "geom:latitude":40.070839,
     "geom:longitude":-76.292809,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"600 Eden Rd # D",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -26,8 +27,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85826083
+        85826083,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,17 +38,15 @@
     "wof:geomhash":"8429e61dbd9fa3a5d7d511d2c3a472c7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85826083,
             "region_id":85688481,
             "venue_id":404080207
         }
     ],
     "wof:id":404080207,
-    "wof:lastmodified":1449040302,
+    "wof:lastmodified":1454357119,
     "wof:name":"Crooked Oak Dental Associates",
     "wof:parent_id":85826083,
     "wof:placetype":"venue",
@@ -55,6 +54,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.292809,40.070839,-76.292809,40.070839],
-  "geometry": {"coordinates":[-76.292809,40.070839],"type":"Point"}
+  "bbox": [
+    -76.292809,
+    40.070839,
+    -76.292809,
+    40.070839
+],
+  "geometry": {"coordinates":[-76.29280900000001,40.070839],"type":"Point"}
 }

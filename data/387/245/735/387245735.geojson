@@ -2,13 +2,14 @@
   "id": 387245735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.864034,40.384191,-79.864034,40.384191",
     "geom:latitude":40.384191,
     "geom:longitude":-79.864034,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"201 Hoffman Blvd",
     "sg:city":"Duquesne",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     "sg:website":"http://www.ljsilvers.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85826107,
+        102191575,
+        404484243,
         85633793,
         101718717,
         102080887,
-        85826107
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"a570c8c8077c89c97e97dcc85301d59e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484243,
             "locality_id":101718717,
             "neighbourhood_id":85826107,
             "region_id":85688481,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":387245735,
-    "wof:lastmodified":1449059796,
+    "wof:lastmodified":1454361197,
     "wof:name":"Long John Silver's",
     "wof:parent_id":85826107,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "seafood"
     ]
 },
-  "bbox": [-79.864034,40.384191,-79.864034,40.384191],
+  "bbox": [
+    -79.864034,
+    40.384191,
+    -79.864034,
+    40.384191
+],
   "geometry": {"coordinates":[-79.864034,40.384191],"type":"Point"}
 }

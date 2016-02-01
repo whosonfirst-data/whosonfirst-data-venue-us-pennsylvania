@@ -2,13 +2,14 @@
   "id": 387701657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.928429,40.895199,-79.928429,40.895199",
     "geom:latitude":40.895199,
     "geom:longitude":-79.928429,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"840 Mercer Rd",
     "sg:city":"Butler",
     "sg:classifiers":[
@@ -44,10 +45,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536957,
+        102191575,
+        404485061,
         85633793,
         101720155,
-        102083677
+        102083677,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,19 +61,20 @@
     "wof:geomhash":"0022fe09fd6fdcd108c671343df3da6e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083677,
+            "localadmin_id":404485061,
             "locality_id":101720155,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420536957,
             "region_id":85688481,
             "venue_id":387701657
         }
     ],
     "wof:id":387701657,
-    "wof:lastmodified":1449059113,
+    "wof:lastmodified":1454360989,
     "wof:name":"Stirling Landscaping & Nursery Sales",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536957,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -84,6 +89,11 @@
         "landscape"
     ]
 },
-  "bbox": [-79.928429,40.895199,-79.928429,40.895199],
-  "geometry": {"coordinates":[-79.928429,40.895199],"type":"Point"}
+  "bbox": [
+    -79.928429,
+    40.895199,
+    -79.928429,
+    40.895199
+],
+  "geometry": {"coordinates":[-79.92842899999999,40.895199],"type":"Point"}
 }

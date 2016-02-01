@@ -2,13 +2,14 @@
   "id": 404183519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.346609,40.644187,-75.346609,40.644187",
     "geom:latitude":40.644187,
     "geom:longitude":-75.346609,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2633 Easton Ave",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -52,11 +53,13 @@
     "sg:website":"http://www.advanceautoparts.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85834019,
+        102191575,
+        404485987,
         85633793,
-        101719937,
+        101717907,
         102081395,
-        85834019
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,17 +69,18 @@
     "wof:geomhash":"54bb98bd235637010cc0c1fb06089219",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081395,
-            "locality_id":101719937,
+            "localadmin_id":404485987,
+            "locality_id":101717907,
             "neighbourhood_id":85834019,
             "region_id":85688481,
             "venue_id":404183519
         }
     ],
     "wof:id":404183519,
-    "wof:lastmodified":1449039781,
+    "wof:lastmodified":1454356791,
     "wof:name":"Advance Auto Parts",
     "wof:parent_id":85834019,
     "wof:placetype":"venue",
@@ -95,6 +99,11 @@
         "batteries-storage"
     ]
 },
-  "bbox": [-75.346609,40.644187,-75.346609,40.644187],
+  "bbox": [
+    -75.346609,
+    40.644187,
+    -75.346609,
+    40.644187
+],
   "geometry": {"coordinates":[-75.346609,40.644187],"type":"Point"}
 }

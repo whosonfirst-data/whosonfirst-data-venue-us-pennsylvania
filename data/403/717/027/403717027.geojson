@@ -2,13 +2,14 @@
   "id": 403717027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.438157,40.33739,-76.438157,40.33739",
     "geom:latitude":40.33739,
     "geom:longitude":-76.438157,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1564 Chestnut St",
     "sg:city":"Lebanon",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85842249,
+        102191575,
+        404485699,
         85633793,
         101717093,
         102081341,
-        85842249
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"9d346a7532898e56edb7364505f82924",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081341,
+            "localadmin_id":404485699,
             "locality_id":101717093,
             "neighbourhood_id":85842249,
             "region_id":85688481,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":403717027,
-    "wof:lastmodified":1449054655,
+    "wof:lastmodified":1454357194,
     "wof:name":"Montero Restaurant",
     "wof:parent_id":85842249,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.438157,40.33739,-76.438157,40.33739],
+  "bbox": [
+    -76.438157,
+    40.33739,
+    -76.438157,
+    40.33739
+],
   "geometry": {"coordinates":[-76.438157,40.33739],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387264055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.143402,40.4468,-80.143402,40.4468",
     "geom:latitude":40.4468,
     "geom:longitude":-80.143402,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5899 Steubenville Pike",
     "sg:city":"Mc Kees Rocks",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85821263
+        85821263,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"c4cc64322333d317553560327017dce7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85821263,
             "region_id":85688481,
             "venue_id":387264055
         }
     ],
     "wof:id":387264055,
-    "wof:lastmodified":1449058581,
+    "wof:lastmodified":1454360818,
     "wof:name":"Robinson Beer & Beverage Inc",
     "wof:parent_id":85821263,
     "wof:placetype":"venue",
@@ -64,6 +63,11 @@
         "wine"
     ]
 },
-  "bbox": [-80.143402,40.4468,-80.143402,40.4468],
-  "geometry": {"coordinates":[-80.143402,40.4468],"type":"Point"}
+  "bbox": [
+    -80.143402,
+    40.4468,
+    -80.143402,
+    40.4468
+],
+  "geometry": {"coordinates":[-80.14340199999999,40.4468],"type":"Point"}
 }

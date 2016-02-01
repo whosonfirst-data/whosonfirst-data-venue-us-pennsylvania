@@ -2,13 +2,14 @@
   "id": 404059649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.28585,40.105281,-76.28585,40.105281",
     "geom:latitude":40.105281,
     "geom:longitude":-76.28585,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"616 Paxton Pl",
     "sg:city":"Lititz",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85829687
+        85829687,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"cf9676b8bc81c3adef93c05a3824fd30",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85829687,
             "region_id":85688481,
             "venue_id":404059649
         }
     ],
     "wof:id":404059649,
-    "wof:lastmodified":1449039352,
+    "wof:lastmodified":1454356590,
     "wof:name":"Uncommon Pizza",
     "wof:parent_id":85829687,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "pizza"
     ]
 },
-  "bbox": [-76.28585,40.105281,-76.28585,40.105281],
+  "bbox": [
+    -76.28585,
+    40.105281,
+    -76.28585,
+    40.105281
+],
   "geometry": {"coordinates":[-76.28585,40.105281],"type":"Point"}
 }

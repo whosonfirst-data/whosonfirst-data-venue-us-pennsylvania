@@ -2,13 +2,14 @@
   "id": 387636347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.740132,40.323989,-79.740132,40.323989",
     "geom:latitude":40.323989,
     "geom:longitude":-79.740132,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"11941 Lee Dr",
     "sg:city":"Irwin",
     "sg:classifiers":[
@@ -37,8 +38,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081383,
-        85804559
+        85804559,
+        102081383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +49,15 @@
     "wof:geomhash":"2ad227092163b4135ed170d999baba55",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":-1,
             "neighbourhood_id":85804559,
             "region_id":85688481,
             "venue_id":387636347
         }
     ],
     "wof:id":387636347,
-    "wof:lastmodified":1449057618,
+    "wof:lastmodified":1454360532,
     "wof:name":"Lee Cookie",
     "wof:parent_id":85804559,
     "wof:placetype":"venue",
@@ -71,6 +70,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-79.740132,40.323989,-79.740132,40.323989],
+  "bbox": [
+    -79.740132,
+    40.323989,
+    -79.740132,
+    40.323989
+],
   "geometry": {"coordinates":[-79.740132,40.323989],"type":"Point"}
 }

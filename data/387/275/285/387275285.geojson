@@ -2,13 +2,14 @@
   "id": 387275285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.7836,40.448929,-79.7836,40.448929",
     "geom:latitude":40.448929,
     "geom:longitude":-79.7836,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"428 Fieldstone Dr",
     "sg:city":"Monroeville",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85821019,
+        102191575,
+        404484135,
         85633793,
         101718841,
         102080887,
-        85821019
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"5f9c3510a98badac212652ee209484cd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484135,
             "locality_id":101718841,
             "neighbourhood_id":85821019,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387275285,
-    "wof:lastmodified":1449057322,
+    "wof:lastmodified":1454359019,
     "wof:name":"Matthew Lawrence Consultation Services",
     "wof:parent_id":85821019,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "consultant"
     ]
 },
-  "bbox": [-79.7836,40.448929,-79.7836,40.448929],
-  "geometry": {"coordinates":[-79.7836,40.448929],"type":"Point"}
+  "bbox": [
+    -79.7836,
+    40.448929,
+    -79.7836,
+    40.448929
+],
+  "geometry": {"coordinates":[-79.78360000000001,40.448929],"type":"Point"}
 }

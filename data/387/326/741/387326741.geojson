@@ -2,13 +2,14 @@
   "id": 387326741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.000619,40.495429,-80.000619,40.495429",
     "geom:latitude":40.495429,
     "geom:longitude":-80.000619,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"112 Villa Dr",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85851357
+        85851357,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"557142e88e4d3c16fbd898152558efa4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85851357,
             "region_id":85688481,
             "venue_id":387326741
         }
     ],
     "wof:id":387326741,
-    "wof:lastmodified":1449057725,
+    "wof:lastmodified":1454360573,
     "wof:name":"Low Vottage Technology Solutions",
     "wof:parent_id":85851357,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "laboratories-research"
     ]
 },
-  "bbox": [-80.000619,40.495429,-80.000619,40.495429],
+  "bbox": [
+    -80.000619,
+    40.495429,
+    -80.000619,
+    40.495429
+],
   "geometry": {"coordinates":[-80.000619,40.495429],"type":"Point"}
 }

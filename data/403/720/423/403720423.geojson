@@ -2,13 +2,14 @@
   "id": 403720423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.888021,40.241493,-76.888021,40.241493",
     "geom:latitude":40.241493,
     "geom:longitude":-76.888021,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"426 S 3rd St",
     "sg:city":"Lemoyne",
     "sg:classifiers":[
@@ -25,11 +26,13 @@
     "sg:website":"www.kd3designstudio.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85820057,
+        102191575,
+        404483155,
         85633793,
         101716771,
         102081359,
-        85820057
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +42,10 @@
     "wof:geomhash":"2bbfa58984f07fc40f4e44882dd3f5ac",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081359,
+            "localadmin_id":404483155,
             "locality_id":101716771,
             "neighbourhood_id":85820057,
             "region_id":85688481,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":403720423,
-    "wof:lastmodified":1449054960,
+    "wof:lastmodified":1454357385,
     "wof:name":"Kd3 Design Studio Inc",
     "wof:parent_id":85820057,
     "wof:placetype":"venue",
@@ -57,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.888021,40.241493,-76.888021,40.241493],
-  "geometry": {"coordinates":[-76.888021,40.241493],"type":"Point"}
+  "bbox": [
+    -76.888021,
+    40.241493,
+    -76.888021,
+    40.241493
+],
+  "geometry": {"coordinates":[-76.88802099999999,40.241493],"type":"Point"}
 }

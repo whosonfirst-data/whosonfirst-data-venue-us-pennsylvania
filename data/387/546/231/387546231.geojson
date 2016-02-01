@@ -2,13 +2,14 @@
   "id": 387546231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.344803,40.137275,-80.344803,40.137275",
     "geom:latitude":40.137275,
     "geom:longitude":-80.344803,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2974 S Bridge Rd",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081343,
-        85868835
+        85868835,
+        102081343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"eaa16a12455300a7a89a3f667e7e4e2c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081343,
-            "locality_id":-1,
             "neighbourhood_id":85868835,
             "region_id":85688481,
             "venue_id":387546231
         }
     ],
     "wof:id":387546231,
-    "wof:lastmodified":1449056106,
+    "wof:lastmodified":1454358086,
     "wof:name":"Beatty Self Storage",
     "wof:parent_id":85868835,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "self"
     ]
 },
-  "bbox": [-80.344803,40.137275,-80.344803,40.137275],
+  "bbox": [
+    -80.344803,
+    40.137275,
+    -80.344803,
+    40.137275
+],
   "geometry": {"coordinates":[-80.344803,40.137275],"type":"Point"}
 }

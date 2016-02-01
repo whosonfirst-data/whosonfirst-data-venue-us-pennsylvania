@@ -2,13 +2,14 @@
   "id": 387699393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.948601,40.876949,-79.948601,40.876949",
     "geom:latitude":40.876949,
     "geom:longitude":-79.948601,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"351 New Castle Rd",
     "sg:city":"Butler",
     "sg:classifiers":[
@@ -47,7 +48,6 @@
     "wof:geomhash":"e035c05a6c69a344f77c469f6ff6288e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102083677,
             "locality_id":101720141,
@@ -57,7 +57,7 @@
         }
     ],
     "wof:id":387699393,
-    "wof:lastmodified":1449056627,
+    "wof:lastmodified":1454358496,
     "wof:name":"Pennsylvania Department of Transportation",
     "wof:parent_id":85826081,
     "wof:placetype":"venue",
@@ -68,6 +68,11 @@
         "trucking"
     ]
 },
-  "bbox": [-79.948601,40.876949,-79.948601,40.876949],
+  "bbox": [
+    -79.948601,
+    40.876949,
+    -79.948601,
+    40.876949
+],
   "geometry": {"coordinates":[-79.948601,40.876949],"type":"Point"}
 }

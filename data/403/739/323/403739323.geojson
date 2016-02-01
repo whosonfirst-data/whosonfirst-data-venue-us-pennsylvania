@@ -2,13 +2,14 @@
   "id": 403739323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.990799,40.242901,-76.990799,40.242901",
     "geom:latitude":40.242901,
     "geom:longitude":-76.990799,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6040 Carlisle Pike",
     "sg:city":"Mechanicsburg",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081359,
-        85850501
+        85850501,
+        102081359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"256c6246abb5328be558ee20de292b87",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081359,
-            "locality_id":-1,
             "neighbourhood_id":85850501,
             "region_id":85688481,
             "venue_id":403739323
         }
     ],
     "wof:id":403739323,
-    "wof:lastmodified":1449055188,
+    "wof:lastmodified":1454357522,
     "wof:name":"Ollie's Bargain Outlet",
     "wof:parent_id":85850501,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "carpeting"
     ]
 },
-  "bbox": [-76.990799,40.242901,-76.990799,40.242901],
+  "bbox": [
+    -76.990799,
+    40.242901,
+    -76.990799,
+    40.242901
+],
   "geometry": {"coordinates":[-76.990799,40.242901],"type":"Point"}
 }

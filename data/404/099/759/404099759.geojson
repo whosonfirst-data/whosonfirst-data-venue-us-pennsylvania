@@ -2,13 +2,14 @@
   "id": 404099759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.981126,41.250488,-76.981126,41.250488",
     "geom:latitude":41.250488,
     "geom:longitude":-76.981126,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1307 Washington Blvd # A",
     "sg:city":"Williamsport",
     "sg:classifiers":[
@@ -33,8 +34,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081317,
-        85828027
+        85828027,
+        102081317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +45,15 @@
     "wof:geomhash":"9c800555210a4b1aca3489d88fea3f09",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081317,
-            "locality_id":-1,
             "neighbourhood_id":85828027,
             "region_id":85688481,
             "venue_id":404099759
         }
     ],
     "wof:id":404099759,
-    "wof:lastmodified":1449039921,
+    "wof:lastmodified":1454356890,
     "wof:name":"Accu Tax Xpress",
     "wof:parent_id":85828027,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "taxes-consultants"
     ]
 },
-  "bbox": [-76.981126,41.250488,-76.981126,41.250488],
+  "bbox": [
+    -76.981126,
+    41.250488,
+    -76.981126,
+    41.250488
+],
   "geometry": {"coordinates":[-76.981126,41.250488],"type":"Point"}
 }

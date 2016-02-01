@@ -2,13 +2,14 @@
   "id": 387852649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.381767,40.518148,-78.381767,40.518148",
     "geom:latitude":40.518148,
     "geom:longitude":-78.381767,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"229 Bell Ave",
     "sg:city":"Altoona",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85816273,
+        102191575,
+        404484619,
         85633793,
+        101716595,
         102081325,
-        85816273
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +46,18 @@
     "wof:geomhash":"7c4751f27db655f9e68e791c366586db",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081325,
-            "locality_id":-1,
+            "localadmin_id":404484619,
+            "locality_id":101716595,
             "neighbourhood_id":85816273,
             "region_id":85688481,
             "venue_id":387852649
         }
     ],
     "wof:id":387852649,
-    "wof:lastmodified":1449059277,
+    "wof:lastmodified":1454361031,
     "wof:name":"Robert R Hiner Plmbr",
     "wof:parent_id":85816273,
     "wof:placetype":"venue",
@@ -64,6 +69,11 @@
         "contractors-commercial"
     ]
 },
-  "bbox": [-78.381767,40.518148,-78.381767,40.518148],
+  "bbox": [
+    -78.381767,
+    40.518148,
+    -78.381767,
+    40.518148
+],
   "geometry": {"coordinates":[-78.381767,40.518148],"type":"Point"}
 }

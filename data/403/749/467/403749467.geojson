@@ -2,13 +2,14 @@
   "id": 403749467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.970749,40.269004,-76.970749,40.269004",
     "geom:latitude":40.269004,
     "geom:longitude":-76.970749,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4195 Nantucket Dr",
     "sg:city":"Mechanicsburg",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081359,
-        85822223
+        85822223,
+        102081359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"09f1ab8fe2a6164656cdca43337a2497",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081359,
-            "locality_id":-1,
             "neighbourhood_id":85822223,
             "region_id":85688481,
             "venue_id":403749467
         }
     ],
     "wof:id":403749467,
-    "wof:lastmodified":1449055026,
+    "wof:lastmodified":1454357424,
     "wof:name":"Momos Savory Sauce",
     "wof:parent_id":85822223,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "condiment"
     ]
 },
-  "bbox": [-76.970749,40.269004,-76.970749,40.269004],
+  "bbox": [
+    -76.970749,
+    40.269004,
+    -76.970749,
+    40.269004
+],
   "geometry": {"coordinates":[-76.970749,40.269004],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387329131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.039483,40.400197,-80.039483,40.400197",
     "geom:latitude":40.400197,
     "geom:longitude":-80.039483,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1733 Potomac Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85804395,
+        102191575,
+        404482523,
         85633793,
+        101718805,
         102080887,
-        85804395
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,17 +41,18 @@
     "wof:geomhash":"20138e6f82b4ce0e6e5df8e24cf15119",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
+            "localadmin_id":404482523,
+            "locality_id":101718805,
             "neighbourhood_id":85804395,
             "region_id":85688481,
             "venue_id":387329131
         }
     ],
     "wof:id":387329131,
-    "wof:lastmodified":1449057155,
+    "wof:lastmodified":1454358889,
     "wof:name":"Pankow Charles",
     "wof:parent_id":85804395,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.039483,40.400197,-80.039483,40.400197],
+  "bbox": [
+    -80.039483,
+    40.400197,
+    -80.039483,
+    40.400197
+],
   "geometry": {"coordinates":[-80.039483,40.400197],"type":"Point"}
 }

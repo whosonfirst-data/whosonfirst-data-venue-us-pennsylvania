@@ -2,13 +2,14 @@
   "id": 387299213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.067009,40.444781,-80.067009,40.444781",
     "geom:latitude":40.444781,
     "geom:longitude":-80.067009,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"24 Vancouver St",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -38,10 +39,13 @@
     "sg:website":"www.budgetpestcontrolpgh.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85858189,
+        102191575,
+        404482523,
         85633793,
+        101718805,
         102080887,
-        85858189
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,17 +55,18 @@
     "wof:geomhash":"84a661212c5efc56bcc81e4256ecaa79",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
+            "localadmin_id":404482523,
+            "locality_id":101718805,
             "neighbourhood_id":85858189,
             "region_id":85688481,
             "venue_id":387299213
         }
     ],
     "wof:id":387299213,
-    "wof:lastmodified":1449057069,
+    "wof:lastmodified":1454358810,
     "wof:name":"Budget Pest Control Inc",
     "wof:parent_id":85858189,
     "wof:placetype":"venue",
@@ -76,6 +81,11 @@
         "inspection"
     ]
 },
-  "bbox": [-80.067009,40.444781,-80.067009,40.444781],
+  "bbox": [
+    -80.067009,
+    40.444781,
+    -80.067009,
+    40.444781
+],
   "geometry": {"coordinates":[-80.067009,40.444781],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403900787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.769131,40.333375,-76.769131,40.333375",
     "geom:latitude":40.333375,
     "geom:longitude":-76.769131,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6791 Blue Ridge Ave",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420537733,
+        102191575,
+        404486185,
         85633793,
         101719817,
-        102081347
+        102081347,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,20 @@
     "wof:geomhash":"769e56438fc0ed7149ed0632e1746015",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
+            "localadmin_id":404486185,
             "locality_id":101719817,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420537733,
             "region_id":85688481,
             "venue_id":403900787
         }
     ],
     "wof:id":403900787,
-    "wof:lastmodified":1449055210,
+    "wof:lastmodified":1454357537,
     "wof:name":"Hummel's Landscape Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420537733,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -72,6 +77,11 @@
         "landscape"
     ]
 },
-  "bbox": [-76.769131,40.333375,-76.769131,40.333375],
+  "bbox": [
+    -76.769131,
+    40.333375,
+    -76.769131,
+    40.333375
+],
   "geometry": {"coordinates":[-76.769131,40.333375],"type":"Point"}
 }

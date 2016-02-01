@@ -2,13 +2,14 @@
   "id": 387853591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.386919,40.506118,-78.386919,40.506118",
     "geom:latitude":40.506118,
     "geom:longitude":-78.386919,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1307 Pleasant Valley Blvd",
     "sg:city":"Altoona",
     "sg:classifiers":[
@@ -27,7 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85842329,
+        102191575,
+        404484619,
         85633793,
+        101716595,
+        102081325,
         85688481
     ],
     "wof:breaches":[],
@@ -38,18 +44,20 @@
     "wof:geomhash":"07943d32481eb8008a2d32880a24e68f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081325,
+            "localadmin_id":404484619,
+            "locality_id":101716595,
+            "neighbourhood_id":85842329,
             "region_id":85688481,
             "venue_id":387853591
         }
     ],
     "wof:id":387853591,
-    "wof:lastmodified":1449057643,
+    "wof:lastmodified":1454360540,
     "wof:name":"Say It With Sweets",
-    "wof:parent_id":-1,
+    "wof:parent_id":85842329,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +65,11 @@
         "shop"
     ]
 },
-  "bbox": [-78.386919,40.506118,-78.386919,40.506118],
-  "geometry": {"coordinates":[-78.386919,40.506118],"type":"Point"}
+  "bbox": [
+    -78.386919,
+    40.506118,
+    -78.386919,
+    40.506118
+],
+  "geometry": {"coordinates":[-78.38691900000001,40.506118],"type":"Point"}
 }

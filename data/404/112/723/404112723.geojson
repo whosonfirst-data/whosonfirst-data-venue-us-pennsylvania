@@ -2,13 +2,14 @@
   "id": 404112723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.861717,41.082642,-76.861717,41.082642",
     "geom:latitude":41.082642,
     "geom:longitude":-76.861717,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"200 Main St",
     "sg:city":"Watsontown",
     "sg:classifiers":[
@@ -44,8 +45,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081349,
-        85837713
+        85837713,
+        102081349
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,17 +56,15 @@
     "wof:geomhash":"487b4b3db1d19cb9ce0ee2cfc0b8836b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081349,
-            "locality_id":-1,
             "neighbourhood_id":85837713,
             "region_id":85688481,
             "venue_id":404112723
         }
     ],
     "wof:id":404112723,
-    "wof:lastmodified":1449039560,
+    "wof:lastmodified":1454356714,
     "wof:name":"Norman E. Buck & Sons",
     "wof:parent_id":85837713,
     "wof:placetype":"venue",
@@ -85,6 +84,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-76.861717,41.082642,-76.861717,41.082642],
+  "bbox": [
+    -76.861717,
+    41.082642,
+    -76.861717,
+    41.082642
+],
   "geometry": {"coordinates":[-76.861717,41.082642],"type":"Point"}
 }

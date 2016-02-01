@@ -2,13 +2,14 @@
   "id": 404027159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.746292,39.986541,-76.746292,39.986541",
     "geom:latitude":39.986541,
     "geom:longitude":-76.746292,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"730 Neu Rd York",
     "sg:city":"York",
     "sg:classifiers":[
@@ -41,10 +42,13 @@
     "sg:website":"http://www.sastruckrepair.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85819331,
+        102191575,
+        404488029,
         85633793,
+        101717279,
         102080953,
-        85819331
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,17 +58,18 @@
     "wof:geomhash":"a6b0cfd5141f13593a387b1e2f5a6514",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
+            "localadmin_id":404488029,
+            "locality_id":101717279,
             "neighbourhood_id":85819331,
             "region_id":85688481,
             "venue_id":404027159
         }
     ],
     "wof:id":404027159,
-    "wof:lastmodified":1449039263,
+    "wof:lastmodified":1454356540,
     "wof:name":"S.A.S. Inc",
     "wof:parent_id":85819331,
     "wof:placetype":"venue",
@@ -77,6 +82,11 @@
         "trailers-repair"
     ]
 },
-  "bbox": [-76.746292,39.986541,-76.746292,39.986541],
+  "bbox": [
+    -76.746292,
+    39.986541,
+    -76.746292,
+    39.986541
+],
   "geometry": {"coordinates":[-76.746292,39.986541],"type":"Point"}
 }

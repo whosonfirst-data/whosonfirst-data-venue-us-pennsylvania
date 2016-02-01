@@ -2,13 +2,14 @@
   "id": 387342029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.980537,40.450119,-79.980537,40.450119",
     "geom:latitude":40.450119,
     "geom:longitude":-79.980537,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3351 Bigelow Blvd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -36,11 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85851271,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85851271
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,9 +53,10 @@
     "wof:geomhash":"7a2f97bbafdcdc84e547532a9fb5ade7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85851271,
             "region_id":85688481,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":387342029,
-    "wof:lastmodified":1449059648,
+    "wof:lastmodified":1454361144,
     "wof:name":"Witt Gateway, Inc",
     "wof:parent_id":85851271,
     "wof:placetype":"venue",
@@ -74,6 +78,11 @@
         "supply"
     ]
 },
-  "bbox": [-79.980537,40.450119,-79.980537,40.450119],
+  "bbox": [
+    -79.980537,
+    40.450119,
+    -79.980537,
+    40.450119
+],
   "geometry": {"coordinates":[-79.980537,40.450119],"type":"Point"}
 }

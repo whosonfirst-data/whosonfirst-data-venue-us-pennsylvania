@@ -2,13 +2,14 @@
   "id": 404025465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.754336,39.974361,-76.754336,39.974361",
     "geom:latitude":39.974361,
     "geom:longitude":-76.754336,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1128 Roosevelt Ave",
     "sg:city":"York",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85819331,
+        102191575,
+        404488029,
         85633793,
+        101717279,
         102080953,
-        85819331
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +44,18 @@
     "wof:geomhash":"5fc465d817674292b1f9573dcadf3eae",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
+            "localadmin_id":404488029,
+            "locality_id":101717279,
             "neighbourhood_id":85819331,
             "region_id":85688481,
             "venue_id":404025465
         }
     ],
     "wof:id":404025465,
-    "wof:lastmodified":1449040118,
+    "wof:lastmodified":1454357018,
     "wof:name":"Pa Cellular Telephone Cor",
     "wof:parent_id":85819331,
     "wof:placetype":"venue",
@@ -60,6 +65,11 @@
         "telecommunication"
     ]
 },
-  "bbox": [-76.754336,39.974361,-76.754336,39.974361],
+  "bbox": [
+    -76.754336,
+    39.974361,
+    -76.754336,
+    39.974361
+],
   "geometry": {"coordinates":[-76.754336,39.974361],"type":"Point"}
 }

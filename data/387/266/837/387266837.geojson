@@ -2,13 +2,14 @@
   "id": 387266837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.147425,40.594972,-80.147425,40.594972",
     "geom:latitude":40.594972,
     "geom:longitude":-80.147425,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2191 Campmeeting Rd",
     "sg:city":"Sewickley",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85815367,
+        102191575,
+        404484933,
         85633793,
         101718681,
         102080887,
-        85815367
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"d0f2c375b7463465c1bb4d9c1748917c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484933,
             "locality_id":101718681,
             "neighbourhood_id":85815367,
             "region_id":85688481,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":387266837,
-    "wof:lastmodified":1449056235,
+    "wof:lastmodified":1454358186,
     "wof:name":"Rhodes John D Atty",
     "wof:parent_id":85815367,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.147425,40.594972,-80.147425,40.594972],
+  "bbox": [
+    -80.147425,
+    40.594972,
+    -80.147425,
+    40.594972
+],
   "geometry": {"coordinates":[-80.147425,40.594972],"type":"Point"}
 }

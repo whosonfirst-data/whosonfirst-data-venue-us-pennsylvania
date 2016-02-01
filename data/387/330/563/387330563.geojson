@@ -2,13 +2,14 @@
   "id": 387330563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.020317,40.411695,-80.020317,40.411695",
     "geom:latitude":40.411695,
     "geom:longitude":-80.020317,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1514 Rockland Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85805277,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85805277
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"c00594cdbbf26aff6d717f970fdc7d41",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85805277,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387330563,
-    "wof:lastmodified":1449058003,
+    "wof:lastmodified":1454360648,
     "wof:name":"Always Open Locksmith",
     "wof:parent_id":85805277,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "key"
     ]
 },
-  "bbox": [-80.020317,40.411695,-80.020317,40.411695],
-  "geometry": {"coordinates":[-80.020317,40.411695],"type":"Point"}
+  "bbox": [
+    -80.020317,
+    40.411695,
+    -80.020317,
+    40.411695
+],
+  "geometry": {"coordinates":[-80.02031700000001,40.411695],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387172885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.955498,40.191601,-79.955498,40.191601",
     "geom:latitude":40.191601,
     "geom:longitude":-79.955498,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1574 4th St",
     "sg:city":"Monongahela",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420540033,
+        102191575,
+        404487733,
         85633793,
         101720319,
-        102081343
+        102081343,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"7a879d6b8aa05c6a427fdaf6c6aae3bc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081343,
+            "localadmin_id":404487733,
             "locality_id":101720319,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420540033,
             "region_id":85688481,
             "venue_id":387172885
         }
     ],
     "wof:id":387172885,
-    "wof:lastmodified":1449057638,
+    "wof:lastmodified":1454360539,
     "wof:name":"Step II Restaurant & Lounge",
-    "wof:parent_id":-1,
+    "wof:parent_id":420540033,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.955498,40.191601,-79.955498,40.191601],
-  "geometry": {"coordinates":[-79.955498,40.191601],"type":"Point"}
+  "bbox": [
+    -79.955498,
+    40.191601,
+    -79.955498,
+    40.191601
+],
+  "geometry": {"coordinates":[-79.95549800000001,40.191601],"type":"Point"}
 }

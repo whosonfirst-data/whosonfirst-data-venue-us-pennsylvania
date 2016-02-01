@@ -2,13 +2,14 @@
   "id": 403979639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.386398,39.773701,-77.386398,39.773701",
     "geom:latitude":39.773701,
     "geom:longitude":-77.386398,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"27 Main Trl",
     "sg:city":"Fairfield",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85827223,
+        102191575,
+        404484791,
         85633793,
         101718869,
         102080899,
-        85827223
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"e37619db1982abeff0e1955b945e723b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080899,
+            "localadmin_id":404484791,
             "locality_id":101718869,
             "neighbourhood_id":85827223,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":403979639,
-    "wof:lastmodified":1449055554,
+    "wof:lastmodified":1454357743,
     "wof:name":"Monahan Funeral Home Inc",
     "wof:parent_id":85827223,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "cemetery"
     ]
 },
-  "bbox": [-77.386398,39.773701,-77.386398,39.773701],
+  "bbox": [
+    -77.386398,
+    39.773701,
+    -77.386398,
+    39.773701
+],
   "geometry": {"coordinates":[-77.386398,39.773701],"type":"Point"}
 }

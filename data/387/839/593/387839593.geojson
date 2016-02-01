@@ -2,13 +2,14 @@
   "id": 387839593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.113268,42.084275,-80.113268,42.084275",
     "geom:latitude":42.084275,
     "geom:longitude":-80.113268,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3822 Schaper Ave",
     "sg:city":"Erie",
     "sg:classifiers":[
@@ -43,8 +44,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080955,
-        85827851
+        85827851,
+        102080955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,17 +55,15 @@
     "wof:geomhash":"5402c4092d23c3b94554a0e528ec6189",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080955,
-            "locality_id":-1,
             "neighbourhood_id":85827851,
             "region_id":85688481,
             "venue_id":387839593
         }
     ],
     "wof:id":387839593,
-    "wof:lastmodified":1449058391,
+    "wof:lastmodified":1454360768,
     "wof:name":"Scully D M MD",
     "wof:parent_id":85827851,
     "wof:placetype":"venue",
@@ -83,6 +82,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-80.113268,42.084275,-80.113268,42.084275],
-  "geometry": {"coordinates":[-80.113268,42.084275],"type":"Point"}
+  "bbox": [
+    -80.113268,
+    42.084275,
+    -80.113268,
+    42.084275
+],
+  "geometry": {"coordinates":[-80.11326800000001,42.084275],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387832417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.160423,42.102507,-80.160423,42.102507",
     "geom:latitude":42.102507,
     "geom:longitude":-80.160423,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3325 W Lake Rd",
     "sg:city":"Erie",
     "sg:classifiers":[
@@ -38,8 +39,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080955,
-        85815773
+        85815773,
+        102080955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +50,15 @@
     "wof:geomhash":"ae90bff1ebba3aa61b63dd5eeb8ee051",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080955,
-            "locality_id":-1,
             "neighbourhood_id":85815773,
             "region_id":85688481,
             "venue_id":387832417
         }
     ],
     "wof:id":387832417,
-    "wof:lastmodified":1449056131,
+    "wof:lastmodified":1454358107,
     "wof:name":"Erie Diocesan Cemeteries",
     "wof:parent_id":85815773,
     "wof:placetype":"venue",
@@ -72,6 +71,11 @@
         "supply"
     ]
 },
-  "bbox": [-80.160423,42.102507,-80.160423,42.102507],
-  "geometry": {"coordinates":[-80.160423,42.102507],"type":"Point"}
+  "bbox": [
+    -80.160423,
+    42.102507,
+    -80.160423,
+    42.102507
+],
+  "geometry": {"coordinates":[-80.16042299999999,42.102507],"type":"Point"}
 }

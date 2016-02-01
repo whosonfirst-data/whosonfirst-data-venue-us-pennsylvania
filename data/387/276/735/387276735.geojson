@@ -2,13 +2,14 @@
   "id": 387276735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.785599,40.435993,-79.785599,40.435993",
     "geom:latitude":40.435993,
     "geom:longitude":-79.785599,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1 Monroeville Ctr",
     "sg:city":"Monroeville",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85821019,
+        102191575,
+        404484135,
         85633793,
         101718841,
         102080887,
-        85821019
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"f091ec6e1264b5cf9010db40d0414ec0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484135,
             "locality_id":101718841,
             "neighbourhood_id":85821019,
             "region_id":85688481,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":387276735,
-    "wof:lastmodified":1449056259,
+    "wof:lastmodified":1454358205,
     "wof:name":"Renew Skin Care Center",
     "wof:parent_id":85821019,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.785599,40.435993,-79.785599,40.435993],
+  "bbox": [
+    -79.785599,
+    40.435993,
+    -79.785599,
+    40.435993
+],
   "geometry": {"coordinates":[-79.785599,40.435993],"type":"Point"}
 }

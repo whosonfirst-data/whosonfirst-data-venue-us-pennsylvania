@@ -2,13 +2,14 @@
   "id": 387248333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.8845,40.400317,-79.8845,40.400317",
     "geom:latitude":40.400317,
     "geom:longitude":-79.8845,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"203 Chalfont St",
     "sg:city":"Homestead",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85851951,
+        102191575,
+        404482541,
         85633793,
         101718713,
         102080887,
-        85851951
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"ae58a5e6bc78425e89fe813e33c4ec41",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482541,
             "locality_id":101718713,
             "neighbourhood_id":85851951,
             "region_id":85688481,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":387248333,
-    "wof:lastmodified":1449058200,
+    "wof:lastmodified":1454360709,
     "wof:name":"R K Promotionals Inc",
     "wof:parent_id":85851951,
     "wof:placetype":"venue",
@@ -68,6 +72,11 @@
         "embroidery"
     ]
 },
-  "bbox": [-79.8845,40.400317,-79.8845,40.400317],
+  "bbox": [
+    -79.8845,
+    40.400317,
+    -79.8845,
+    40.400317
+],
   "geometry": {"coordinates":[-79.8845,40.400317],"type":"Point"}
 }

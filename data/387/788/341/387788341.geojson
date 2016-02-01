@@ -2,13 +2,14 @@
   "id": 387788341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.151633,41.613509,-80.151633,41.613509",
     "geom:latitude":41.613509,
     "geom:longitude":-80.151633,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"19344 Cochranton Rd",
     "sg:city":"Meadville",
     "sg:classifiers":[
@@ -51,8 +52,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080911,
-        85820599
+        85820599,
+        102080911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,17 +63,15 @@
     "wof:geomhash":"83e5227168b42bff2f079298b62bdfd5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080911,
-            "locality_id":-1,
             "neighbourhood_id":85820599,
             "region_id":85688481,
             "venue_id":387788341
         }
     ],
     "wof:id":387788341,
-    "wof:lastmodified":1449058070,
+    "wof:lastmodified":1454360673,
     "wof:name":"Morton Buildings",
     "wof:parent_id":85820599,
     "wof:placetype":"venue",
@@ -88,6 +87,11 @@
         "garages-building"
     ]
 },
-  "bbox": [-80.151633,41.613509,-80.151633,41.613509],
+  "bbox": [
+    -80.151633,
+    41.613509,
+    -80.151633,
+    41.613509
+],
   "geometry": {"coordinates":[-80.151633,41.613509],"type":"Point"}
 }

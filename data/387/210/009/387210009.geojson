@@ -2,13 +2,14 @@
   "id": 387210009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.034258,40.591493,-80.034258,40.591493",
     "geom:latitude":40.591493,
     "geom:longitude":-80.034258,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"405 Westchester Cmns",
     "sg:city":"Wexford",
     "sg:classifiers":[
@@ -47,8 +48,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85828191
+        85828191,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,17 +59,15 @@
     "wof:geomhash":"1d07fb99718bdab6ee3c8d5d7e5733d3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85828191,
             "region_id":85688481,
             "venue_id":387210009
         }
     ],
     "wof:id":387210009,
-    "wof:lastmodified":1449057392,
+    "wof:lastmodified":1454359087,
     "wof:name":"Archadeck",
     "wof:parent_id":85828191,
     "wof:placetype":"venue",
@@ -85,6 +84,11 @@
         "patio"
     ]
 },
-  "bbox": [-80.034258,40.591493,-80.034258,40.591493],
-  "geometry": {"coordinates":[-80.034258,40.591493],"type":"Point"}
+  "bbox": [
+    -80.034258,
+    40.591493,
+    -80.034258,
+    40.591493
+],
+  "geometry": {"coordinates":[-80.03425799999999,40.591493],"type":"Point"}
 }

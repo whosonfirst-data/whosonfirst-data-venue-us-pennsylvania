@@ -2,13 +2,14 @@
   "id": 403984919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.165831,39.77856,-77.165831,39.77856",
     "geom:latitude":39.77856,
     "geom:longitude":-77.165831,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"7 Two Taverns Rd",
     "sg:city":"Gettysburg",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080899,
-        85865375
+        85865375,
+        102080899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"f137eabaf9e562d877ba9c7a2391ac8d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080899,
-            "locality_id":-1,
             "neighbourhood_id":85865375,
             "region_id":85688481,
             "venue_id":403984919
         }
     ],
     "wof:id":403984919,
-    "wof:lastmodified":1449055391,
+    "wof:lastmodified":1454357644,
     "wof:name":"Steven & Teresa Reidel",
     "wof:parent_id":85865375,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "furniture"
     ]
 },
-  "bbox": [-77.165831,39.77856,-77.165831,39.77856],
+  "bbox": [
+    -77.165831,
+    39.77856,
+    -77.165831,
+    39.77856
+],
   "geometry": {"coordinates":[-77.165831,39.77856],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404180801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.42893,40.645897,-75.42893,40.645897",
     "geom:latitude":40.645897,
     "geom:longitude":-75.42893,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2260 Industrial Dr Unit 1",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -27,10 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        102529131,
         85688481,
         85633793,
         102081327,
-        85838547
+        85824299
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +42,18 @@
     "wof:geomhash":"6dcc669024ee4a54976df8f2943c7911",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102529131,
             "country_id":85633793,
             "county_id":102081327,
-            "locality_id":-1,
-            "neighbourhood_id":85838547,
+            "neighbourhood_id":85824299,
             "region_id":85688481,
             "venue_id":404180801
         }
     ],
     "wof:id":404180801,
-    "wof:lastmodified":1449039117,
+    "wof:lastmodified":1454356446,
     "wof:name":"Unclaimed Freight",
-    "wof:parent_id":85838547,
+    "wof:parent_id":102529131,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +61,11 @@
         "store"
     ]
 },
-  "bbox": [-75.42893,40.645897,-75.42893,40.645897],
-  "geometry": {"coordinates":[-75.42893,40.645897],"type":"Point"}
+  "bbox": [
+    -75.42893,
+    40.645897,
+    -75.42893,
+    40.645897
+],
+  "geometry": {"coordinates":[-75.42892999999999,40.645897],"type":"Point"}
 }

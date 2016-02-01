@@ -2,13 +2,14 @@
   "id": 387445043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.043888,40.380727,-80.043888,40.380727",
     "geom:latitude":40.380727,
     "geom:longitude":-80.043888,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"99 Alfred St",
     "sg:city":"Mount Lebanon",
     "sg:classifiers":[
@@ -40,10 +41,13 @@
     "sg:website":"edensmarket.intuitwebsites.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85804395,
+        102191575,
+        404482523,
         85633793,
+        101718805,
         102080887,
-        85804395
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,17 +57,18 @@
     "wof:geomhash":"623e1400ca5bfce11e66cdee292bde9c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
+            "localadmin_id":404482523,
+            "locality_id":101718805,
             "neighbourhood_id":85804395,
             "region_id":85688481,
             "venue_id":387445043
         }
     ],
     "wof:id":387445043,
-    "wof:lastmodified":1449056614,
+    "wof:lastmodified":1454358487,
     "wof:name":"Eden's Market",
     "wof:parent_id":85804395,
     "wof:placetype":"venue",
@@ -75,6 +80,11 @@
         "gluten-free"
     ]
 },
-  "bbox": [-80.043888,40.380727,-80.043888,40.380727],
+  "bbox": [
+    -80.043888,
+    40.380727,
+    -80.043888,
+    40.380727
+],
   "geometry": {"coordinates":[-80.043888,40.380727],"type":"Point"}
 }

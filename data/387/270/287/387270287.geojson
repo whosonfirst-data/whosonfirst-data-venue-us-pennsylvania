@@ -2,13 +2,14 @@
   "id": 387270287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.193869,40.584811,-80.193869,40.584811",
     "geom:latitude":40.584811,
     "geom:longitude":-80.193869,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"35 Charleston Sq",
     "sg:city":"Sewickley",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85848361,
+        102191575,
+        404484893,
         85633793,
-        101718661,
+        101718695,
         102080887,
-        85848361
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"def82de5863feb3299964da80dd7f736",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":101718661,
+            "localadmin_id":404484893,
+            "locality_id":101718695,
             "neighbourhood_id":85848361,
             "region_id":85688481,
             "venue_id":387270287
         }
     ],
     "wof:id":387270287,
-    "wof:lastmodified":1449056774,
+    "wof:lastmodified":1454358600,
     "wof:name":"Plantation Investment Holding",
     "wof:parent_id":85848361,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "holding"
     ]
 },
-  "bbox": [-80.193869,40.584811,-80.193869,40.584811],
-  "geometry": {"coordinates":[-80.193869,40.584811],"type":"Point"}
+  "bbox": [
+    -80.193869,
+    40.584811,
+    -80.193869,
+    40.584811
+],
+  "geometry": {"coordinates":[-80.19386900000001,40.584811],"type":"Point"}
 }

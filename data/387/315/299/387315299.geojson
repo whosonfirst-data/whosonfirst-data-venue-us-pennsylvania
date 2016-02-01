@@ -2,13 +2,14 @@
   "id": 387315299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.9832,40.463902,-79.9832,40.463902",
     "geom:latitude":40.463902,
     "geom:longitude":-79.9832,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1626 Hatteras St",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85852705,
+        102191575,
+        404482523,
         85633793,
+        101718805,
         102080887,
-        85852705
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +45,18 @@
     "wof:geomhash":"e294d2c6b3ee4d34860ef0955f2f6e36",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
+            "localadmin_id":404482523,
+            "locality_id":101718805,
             "neighbourhood_id":85852705,
             "region_id":85688481,
             "venue_id":387315299
         }
     ],
     "wof:id":387315299,
-    "wof:lastmodified":1449059720,
+    "wof:lastmodified":1454361170,
     "wof:name":"Emmaus Community of Pittsburgh",
     "wof:parent_id":85852705,
     "wof:placetype":"venue",
@@ -62,6 +67,11 @@
         "community"
     ]
 },
-  "bbox": [-79.9832,40.463902,-79.9832,40.463902],
+  "bbox": [
+    -79.9832,
+    40.463902,
+    -79.9832,
+    40.463902
+],
   "geometry": {"coordinates":[-79.9832,40.463902],"type":"Point"}
 }

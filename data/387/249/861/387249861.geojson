@@ -2,13 +2,14 @@
   "id": 387249861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.253462,40.453294,-80.253462,40.453294",
     "geom:latitude":40.453294,
     "geom:longitude":-80.253462,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"535 Route 30",
     "sg:city":"Imperial",
     "sg:classifiers":[
@@ -44,11 +45,13 @@
     "sg:website":"http://www.vinyl-answer.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85818161,
+        102191575,
+        404484901,
         85633793,
         101720525,
         102080887,
-        85818161
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,9 +61,10 @@
     "wof:geomhash":"3ae3360ad0b0f48ce7e5d277e43b2ad1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484901,
             "locality_id":101720525,
             "neighbourhood_id":85818161,
             "region_id":85688481,
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":387249861,
-    "wof:lastmodified":1449056311,
+    "wof:lastmodified":1454358250,
     "wof:name":"The Vinyl Answer",
     "wof:parent_id":85818161,
     "wof:placetype":"venue",
@@ -84,6 +88,11 @@
         "fence-sales"
     ]
 },
-  "bbox": [-80.253462,40.453294,-80.253462,40.453294],
+  "bbox": [
+    -80.253462,
+    40.453294,
+    -80.253462,
+    40.453294
+],
   "geometry": {"coordinates":[-80.253462,40.453294],"type":"Point"}
 }

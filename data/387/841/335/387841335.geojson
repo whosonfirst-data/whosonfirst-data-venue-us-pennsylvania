@@ -2,13 +2,14 @@
   "id": 387841335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.093335,42.072014,-80.093335,42.072014",
     "geom:latitude":42.072014,
     "geom:longitude":-80.093335,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5618 Peach St",
     "sg:city":"Erie",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080955,
-        85827851
+        85827851,
+        102080955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"716ee6ea4cde5dfcda719afaf211d440",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080955,
-            "locality_id":-1,
             "neighbourhood_id":85827851,
             "region_id":85688481,
             "venue_id":387841335
         }
     ],
     "wof:id":387841335,
-    "wof:lastmodified":1449056900,
+    "wof:lastmodified":1454358691,
     "wof:name":"Tops Buffet",
     "wof:parent_id":85827851,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "buffet"
     ]
 },
-  "bbox": [-80.093335,42.072014,-80.093335,42.072014],
+  "bbox": [
+    -80.093335,
+    42.072014,
+    -80.093335,
+    42.072014
+],
   "geometry": {"coordinates":[-80.093335,42.072014],"type":"Point"}
 }

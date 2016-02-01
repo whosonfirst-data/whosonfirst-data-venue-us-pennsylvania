@@ -2,13 +2,14 @@
   "id": 387676709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.911728,40.29961,-78.911728,40.29961",
     "geom:latitude":40.29961,
     "geom:longitude":-78.911728,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"490 Central Ave",
     "sg:city":"Johnstown",
     "sg:classifiers":[
@@ -25,11 +26,13 @@
     "sg:website":"http://www.sheetz.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85846273,
+        102191575,
+        404485115,
         85633793,
         101717809,
         102080879,
-        85846273
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +42,10 @@
     "wof:geomhash":"8a7664e43e0dbb121ed084be8bf187fc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080879,
+            "localadmin_id":404485115,
             "locality_id":101717809,
             "neighbourhood_id":85846273,
             "region_id":85688481,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":387676709,
-    "wof:lastmodified":1449058548,
+    "wof:lastmodified":1454360810,
     "wof:name":"Sheetz 21",
     "wof:parent_id":85846273,
     "wof:placetype":"venue",
@@ -57,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.911728,40.29961,-78.911728,40.29961],
+  "bbox": [
+    -78.911728,
+    40.29961,
+    -78.911728,
+    40.29961
+],
   "geometry": {"coordinates":[-78.911728,40.29961],"type":"Point"}
 }

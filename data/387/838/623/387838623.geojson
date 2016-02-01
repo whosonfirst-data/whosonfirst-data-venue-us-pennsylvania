@@ -2,13 +2,14 @@
   "id": 387838623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.085243,42.097431,-80.085243,42.097431",
     "geom:latitude":42.097431,
     "geom:longitude":-80.085243,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3600 Liberty St",
     "sg:city":"Erie",
     "sg:classifiers":[
@@ -49,11 +50,13 @@
     "sg:website":"http://clickserve.dartsearch.net/link/click?lid=43000000308049899",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85822031,
+        102191575,
+        404486673,
         85633793,
         101718253,
         102080955,
-        85822031
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,9 +66,10 @@
     "wof:geomhash":"e56649268f9c8ed7db6c0eff5abc01a9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080955,
+            "localadmin_id":404486673,
             "locality_id":101718253,
             "neighbourhood_id":85822031,
             "region_id":85688481,
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":387838623,
-    "wof:lastmodified":1449056572,
+    "wof:lastmodified":1454358444,
     "wof:name":"T-Mobile",
     "wof:parent_id":85822031,
     "wof:placetype":"venue",
@@ -89,6 +93,11 @@
         "cellular"
     ]
 },
-  "bbox": [-80.085243,42.097431,-80.085243,42.097431],
-  "geometry": {"coordinates":[-80.085243,42.097431],"type":"Point"}
+  "bbox": [
+    -80.085243,
+    42.097431,
+    -80.085243,
+    42.097431
+],
+  "geometry": {"coordinates":[-80.08524300000001,42.097431],"type":"Point"}
 }

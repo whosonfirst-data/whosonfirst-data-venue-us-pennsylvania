@@ -2,13 +2,14 @@
   "id": 387802623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.317237,41.850368,-79.317237,41.850368",
     "geom:latitude":41.850368,
     "geom:longitude":-79.317237,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"39 Railroad St",
     "sg:city":"Youngsville",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081337,
-        85802759
+        85802759,
+        102081337
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"b2418df360a9ac4ad5e37dffdefb199b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081337,
-            "locality_id":-1,
             "neighbourhood_id":85802759,
             "region_id":85688481,
             "venue_id":387802623
         }
     ],
     "wof:id":387802623,
-    "wof:lastmodified":1449059210,
+    "wof:lastmodified":1454361012,
     "wof:name":"USPS - United States Post Office - Youngsville Main Office",
     "wof:parent_id":85802759,
     "wof:placetype":"venue",
@@ -68,6 +67,11 @@
         "shipping"
     ]
 },
-  "bbox": [-79.317237,41.850368,-79.317237,41.850368],
-  "geometry": {"coordinates":[-79.317237,41.850368],"type":"Point"}
+  "bbox": [
+    -79.317237,
+    41.850368,
+    -79.317237,
+    41.850368
+],
+  "geometry": {"coordinates":[-79.31723700000001,41.850368],"type":"Point"}
 }

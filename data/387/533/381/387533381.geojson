@@ -2,13 +2,14 @@
   "id": 387533381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.175179,40.44939,-80.175179,40.44939",
     "geom:latitude":40.44939,
     "geom:longitude":-80.175179,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"300 Mcholme Dr",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85805237
+        85805237,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"1f9a2cf25996dd59bab9f5c0405c44b1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85805237,
             "region_id":85688481,
             "venue_id":387533381
         }
     ],
     "wof:id":387533381,
-    "wof:lastmodified":1449056068,
+    "wof:lastmodified":1454358057,
     "wof:name":"Montour Church Place",
     "wof:parent_id":85805237,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "church"
     ]
 },
-  "bbox": [-80.175179,40.44939,-80.175179,40.44939],
+  "bbox": [
+    -80.175179,
+    40.44939,
+    -80.175179,
+    40.44939
+],
   "geometry": {"coordinates":[-80.175179,40.44939],"type":"Point"}
 }

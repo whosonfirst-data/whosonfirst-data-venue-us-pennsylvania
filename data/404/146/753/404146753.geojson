@@ -2,13 +2,14 @@
   "id": 404146753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.232684,40.787338,-76.232684,40.787338",
     "geom:latitude":40.787338,
     "geom:longitude":-76.232684,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"150 N Lehigh Ave",
     "sg:city":"Frackville",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85820509,
+        102191575,
+        404483819,
         85633793,
         101717629,
         102081271,
-        85820509
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"b2e4750077ab75393790c6ffae5dd7be",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081271,
+            "localadmin_id":404483819,
             "locality_id":101717629,
             "neighbourhood_id":85820509,
             "region_id":85688481,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":404146753,
-    "wof:lastmodified":1449039530,
+    "wof:lastmodified":1454356700,
     "wof:name":"Harper's Auto Body",
     "wof:parent_id":85820509,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "automobile"
     ]
 },
-  "bbox": [-76.232684,40.787338,-76.232684,40.787338],
-  "geometry": {"coordinates":[-76.232684,40.787338],"type":"Point"}
+  "bbox": [
+    -76.232684,
+    40.787338,
+    -76.232684,
+    40.787338
+],
+  "geometry": {"coordinates":[-76.23268400000001,40.787338],"type":"Point"}
 }

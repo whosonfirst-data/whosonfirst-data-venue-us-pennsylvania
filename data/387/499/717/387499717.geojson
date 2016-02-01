@@ -2,13 +2,14 @@
   "id": 387499717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.042961,40.53867,-80.042961,40.53867",
     "geom:latitude":40.53867,
     "geom:longitude":-80.042961,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"133 Hillendale Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -26,8 +27,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85841395
+        85841395,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,17 +38,15 @@
     "wof:geomhash":"e92ffe39bfdde6e73fe7593192347759",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85841395,
             "region_id":85688481,
             "venue_id":387499717
         }
     ],
     "wof:id":387499717,
-    "wof:lastmodified":1449056824,
+    "wof:lastmodified":1454358632,
     "wof:name":"Ice Cream Ice Cream",
     "wof:parent_id":85841395,
     "wof:placetype":"venue",
@@ -55,6 +54,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.042961,40.53867,-80.042961,40.53867],
-  "geometry": {"coordinates":[-80.042961,40.53867],"type":"Point"}
+  "bbox": [
+    -80.042961,
+    40.53867,
+    -80.042961,
+    40.53867
+],
+  "geometry": {"coordinates":[-80.04296100000001,40.53867],"type":"Point"}
 }

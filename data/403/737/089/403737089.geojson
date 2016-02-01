@@ -2,13 +2,14 @@
   "id": 403737089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.978203,40.282421,-76.978203,40.282421",
     "geom:latitude":40.282421,
     "geom:longitude":-76.978203,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2005 Technology Pkwy",
     "sg:city":"Mechanicsburg",
     "sg:classifiers":[
@@ -42,8 +43,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081359,
-        85822223
+        85822223,
+        102081359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,17 +54,15 @@
     "wof:geomhash":"b502a07ed152001ff20983d4ec02de88",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081359,
-            "locality_id":-1,
             "neighbourhood_id":85822223,
             "region_id":85688481,
             "venue_id":403737089
         }
     ],
     "wof:id":403737089,
-    "wof:lastmodified":1449054945,
+    "wof:lastmodified":1454357376,
     "wof:name":"Stratis John P MD",
     "wof:parent_id":85822223,
     "wof:placetype":"venue",
@@ -80,6 +79,11 @@
         "surgery"
     ]
 },
-  "bbox": [-76.978203,40.282421,-76.978203,40.282421],
-  "geometry": {"coordinates":[-76.978203,40.282421],"type":"Point"}
+  "bbox": [
+    -76.978203,
+    40.282421,
+    -76.978203,
+    40.282421
+],
+  "geometry": {"coordinates":[-76.97820299999999,40.282421],"type":"Point"}
 }

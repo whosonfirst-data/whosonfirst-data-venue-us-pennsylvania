@@ -2,13 +2,14 @@
   "id": 403711919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.732371,40.267842,-76.732371,40.267842",
     "geom:latitude":40.267842,
     "geom:longitude":-76.732371,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"19 Overview Dr",
     "sg:city":"Hummelstown",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85842349,
+        102191575,
+        404486175,
         85633793,
+        101717689,
         102081347,
-        85842349
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +45,18 @@
     "wof:geomhash":"08c4f48c691b7a11bd27de9a0f343030",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
+            "localadmin_id":404486175,
+            "locality_id":101717689,
             "neighbourhood_id":85842349,
             "region_id":85688481,
             "venue_id":403711919
         }
     ],
     "wof:id":403711919,
-    "wof:lastmodified":1449055723,
+    "wof:lastmodified":1454357843,
     "wof:name":"Kevins Lawn Care",
     "wof:parent_id":85842349,
     "wof:placetype":"venue",
@@ -62,6 +67,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-76.732371,40.267842,-76.732371,40.267842],
+  "bbox": [
+    -76.732371,
+    40.267842,
+    -76.732371,
+    40.267842
+],
   "geometry": {"coordinates":[-76.732371,40.267842],"type":"Point"}
 }

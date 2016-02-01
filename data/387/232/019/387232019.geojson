@@ -2,13 +2,14 @@
   "id": 387232019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.08521,40.408543,-80.08521,40.408543",
     "geom:latitude":40.408543,
     "geom:longitude":-80.08521,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"213 E Main St",
     "sg:city":"Carnegie",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85821875,
+        102191575,
+        404484865,
         85633793,
         101718775,
         102080887,
-        85821875
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"47d0c2aea484bf7b0b88269c507c6bb4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484865,
             "locality_id":101718775,
             "neighbourhood_id":85821875,
             "region_id":85688481,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":387232019,
-    "wof:lastmodified":1449057328,
+    "wof:lastmodified":1454359028,
     "wof:name":"Henderson Covington Messenger Newman & Thomas Co Lpa",
     "wof:parent_id":85821875,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.08521,40.408543,-80.08521,40.408543],
+  "bbox": [
+    -80.08521,
+    40.408543,
+    -80.08521,
+    40.408543
+],
   "geometry": {"coordinates":[-80.08521,40.408543],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387836511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.154498,42.081825,-80.154498,42.081825",
     "geom:latitude":42.081825,
     "geom:longitude":-80.154498,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3547 W 26th St",
     "sg:city":"Erie",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080955,
-        85810495
+        85810495,
+        102080955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"6694e0293b418579801f51004ca6329c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080955,
-            "locality_id":-1,
             "neighbourhood_id":85810495,
             "region_id":85688481,
             "venue_id":387836511
         }
     ],
     "wof:id":387836511,
-    "wof:lastmodified":1449058625,
+    "wof:lastmodified":1454360832,
     "wof:name":"Hess Glover Family Chiropractic",
     "wof:parent_id":85810495,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "chiropractic"
     ]
 },
-  "bbox": [-80.154498,42.081825,-80.154498,42.081825],
+  "bbox": [
+    -80.154498,
+    42.081825,
+    -80.154498,
+    42.081825
+],
   "geometry": {"coordinates":[-80.154498,42.081825],"type":"Point"}
 }

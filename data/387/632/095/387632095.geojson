@@ -2,13 +2,14 @@
   "id": 387632095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.635551,40.420761,-79.635551,40.420761",
     "geom:latitude":40.420761,
     "geom:longitude":-79.635551,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5578 Old William Penn Hwy",
     "sg:city":"Export",
     "sg:classifiers":[
@@ -37,10 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420540097,
+        102191575,
+        404487539,
         85633793,
         101717149,
-        102081383
+        102081383,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,19 +54,20 @@
     "wof:geomhash":"c5bfd809135aba6d050fcf321615ffc2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081383,
+            "localadmin_id":404487539,
             "locality_id":101717149,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420540097,
             "region_id":85688481,
             "venue_id":387632095
         }
     ],
     "wof:id":387632095,
-    "wof:lastmodified":1449058536,
+    "wof:lastmodified":1454360808,
     "wof:name":"Apex Tax Consulting Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":420540097,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -75,6 +80,11 @@
         "public"
     ]
 },
-  "bbox": [-79.635551,40.420761,-79.635551,40.420761],
-  "geometry": {"coordinates":[-79.635551,40.420761],"type":"Point"}
+  "bbox": [
+    -79.635551,
+    40.420761,
+    -79.635551,
+    40.420761
+],
+  "geometry": {"coordinates":[-79.63555100000001,40.420761],"type":"Point"}
 }

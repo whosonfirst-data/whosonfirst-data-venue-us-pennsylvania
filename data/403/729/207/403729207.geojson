@@ -2,13 +2,14 @@
   "id": 403729207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.57616,40.595129,-77.57616,40.595129",
     "geom:latitude":40.595129,
     "geom:longitude":-77.57616,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"391 S Juniata St",
     "sg:city":"Lewistown",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081333,
-        85835679
+        85835679,
+        102081333
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"5e18580f787aee19914330af1d5aa2ec",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081333,
-            "locality_id":-1,
             "neighbourhood_id":85835679,
             "region_id":85688481,
             "venue_id":403729207
         }
     ],
     "wof:id":403729207,
-    "wof:lastmodified":1449055315,
+    "wof:lastmodified":1454357602,
     "wof:name":"Industrial Plywood of Central PA Inc",
     "wof:parent_id":85835679,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "veneer"
     ]
 },
-  "bbox": [-77.57616,40.595129,-77.57616,40.595129],
+  "bbox": [
+    -77.57616,
+    40.595129,
+    -77.57616,
+    40.595129
+],
   "geometry": {"coordinates":[-77.57616,40.595129],"type":"Point"}
 }

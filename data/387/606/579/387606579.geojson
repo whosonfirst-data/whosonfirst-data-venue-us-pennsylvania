@@ -2,13 +2,14 @@
   "id": 387606579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.510832,40.052776,-78.510832,40.052776",
     "geom:latitude":40.052776,
     "geom:longitude":-78.510832,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4407 Business 220",
     "sg:city":"Bedford",
     "sg:classifiers":[
@@ -48,8 +49,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080939,
-        85858457
+        85858457,
+        102080939
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,17 +60,15 @@
     "wof:geomhash":"1dfea4dd8d3b77e82b011a7569a9d0ec",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080939,
-            "locality_id":-1,
             "neighbourhood_id":85858457,
             "region_id":85688481,
             "venue_id":387606579
         }
     ],
     "wof:id":387606579,
-    "wof:lastmodified":1449056690,
+    "wof:lastmodified":1454358540,
     "wof:name":"Arena Restaurant",
     "wof:parent_id":85858457,
     "wof:placetype":"venue",
@@ -88,6 +87,11 @@
         "banquet"
     ]
 },
-  "bbox": [-78.510832,40.052776,-78.510832,40.052776],
-  "geometry": {"coordinates":[-78.510832,40.052776],"type":"Point"}
+  "bbox": [
+    -78.510832,
+    40.052776,
+    -78.510832,
+    40.052776
+],
+  "geometry": {"coordinates":[-78.51083199999999,40.052776],"type":"Point"}
 }

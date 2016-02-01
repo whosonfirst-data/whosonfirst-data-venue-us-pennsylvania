@@ -2,13 +2,14 @@
   "id": 387772575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.519639,40.81405,-79.519639,40.81405",
     "geom:latitude":40.81405,
     "geom:longitude":-79.519639,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"108 S Jefferson St",
     "sg:city":"Kittanning",
     "sg:classifiers":[
@@ -34,8 +35,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081371,
-        85816487
+        85816487,
+        102081371
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +46,15 @@
     "wof:geomhash":"d1ebf22c2e8b2297b4a9d0a3b3e87bc6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081371,
-            "locality_id":-1,
             "neighbourhood_id":85816487,
             "region_id":85688481,
             "venue_id":387772575
         }
     ],
     "wof:id":387772575,
-    "wof:lastmodified":1449057811,
+    "wof:lastmodified":1454360603,
     "wof:name":"Oak Wood Tavern Inc",
     "wof:parent_id":85816487,
     "wof:placetype":"venue",
@@ -65,6 +64,11 @@
         "tavern"
     ]
 },
-  "bbox": [-79.519639,40.81405,-79.519639,40.81405],
+  "bbox": [
+    -79.519639,
+    40.81405,
+    -79.519639,
+    40.81405
+],
   "geometry": {"coordinates":[-79.519639,40.81405],"type":"Point"}
 }

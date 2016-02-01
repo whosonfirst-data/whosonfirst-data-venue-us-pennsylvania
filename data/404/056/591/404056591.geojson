@@ -2,13 +2,14 @@
   "id": 404056591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.194289,40.086866,-76.194289,40.086866",
     "geom:latitude":40.086866,
     "geom:longitude":-76.194289,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"119 W Main St",
     "sg:city":"Leola",
     "sg:classifiers":[
@@ -36,10 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420538511,
+        102191575,
+        404485437,
         85633793,
         101720397,
-        102081377
+        102081377,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,19 +53,20 @@
     "wof:geomhash":"86884c57a2a9100e0b9db790533c20f5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081377,
+            "localadmin_id":404485437,
             "locality_id":101720397,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420538511,
             "region_id":85688481,
             "venue_id":404056591
         }
     ],
     "wof:id":404056591,
-    "wof:lastmodified":1449039357,
+    "wof:lastmodified":1454356591,
     "wof:name":"Spirit Hawk Gallery",
-    "wof:parent_id":-1,
+    "wof:parent_id":420538511,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -73,6 +78,11 @@
         "jeweler"
     ]
 },
-  "bbox": [-76.194289,40.086866,-76.194289,40.086866],
+  "bbox": [
+    -76.194289,
+    40.086866,
+    -76.194289,
+    40.086866
+],
   "geometry": {"coordinates":[-76.194289,40.086866],"type":"Point"}
 }

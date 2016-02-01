@@ -2,13 +2,14 @@
   "id": 387682737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.931977,40.326612,-78.931977,40.326612",
     "geom:latitude":40.326612,
     "geom:longitude":-78.931977,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"216 Venango St",
     "sg:city":"Johnstown",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85828219,
+        102191575,
+        404485493,
         85633793,
-        101717809,
+        101717777,
         102080879,
-        85828219
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"1fa772567510b01a76760da6eec48307",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080879,
-            "locality_id":101717809,
+            "localadmin_id":404485493,
+            "locality_id":101717777,
             "neighbourhood_id":85828219,
             "region_id":85688481,
             "venue_id":387682737
         }
     ],
     "wof:id":387682737,
-    "wof:lastmodified":1449056762,
+    "wof:lastmodified":1454358590,
     "wof:name":"Dr Donald Paul Koval",
     "wof:parent_id":85828219,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-78.931977,40.326612,-78.931977,40.326612],
+  "bbox": [
+    -78.931977,
+    40.326612,
+    -78.931977,
+    40.326612
+],
   "geometry": {"coordinates":[-78.931977,40.326612],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404099421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.001683,41.240816,-77.001683,41.240816",
     "geom:latitude":41.240816,
     "geom:longitude":-77.001683,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"25 W 3rd St",
     "sg:city":"Williamsport",
     "sg:classifiers":[
@@ -39,11 +40,13 @@
     "sg:website":"http://www.johngummolaw.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85802799,
+        102191575,
+        404485355,
         85633793,
-        101716811,
+        101716809,
         102081317,
-        85802799
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,17 +56,18 @@
     "wof:geomhash":"06ae37aaf1494011a0f7a6c51538c6d9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081317,
-            "locality_id":101716811,
+            "localadmin_id":404485355,
+            "locality_id":101716809,
             "neighbourhood_id":85802799,
             "region_id":85688481,
             "venue_id":404099421
         }
     ],
     "wof:id":404099421,
-    "wof:lastmodified":1449039915,
+    "wof:lastmodified":1454356888,
     "wof:name":"Gummo, John A. Attorney At Law",
     "wof:parent_id":85802799,
     "wof:placetype":"venue",
@@ -79,6 +83,11 @@
         "dwi"
     ]
 },
-  "bbox": [-77.001683,41.240816,-77.001683,41.240816],
+  "bbox": [
+    -77.001683,
+    41.240816,
+    -77.001683,
+    41.240816
+],
   "geometry": {"coordinates":[-77.001683,41.240816],"type":"Point"}
 }

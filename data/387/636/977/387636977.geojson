@@ -2,13 +2,14 @@
   "id": 387636977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.765848,40.332737,-79.765848,40.332737",
     "geom:latitude":40.332737,
     "geom:longitude":-79.765848,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"996 Hedy Lynn Dr",
     "sg:city":"Irwin",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081383,
-        85851055
+        85851055,
+        102081383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"a32314e6296ac8fce4202fcb68bb3e3e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":-1,
             "neighbourhood_id":85851055,
             "region_id":85688481,
             "venue_id":387636977
         }
     ],
     "wof:id":387636977,
-    "wof:lastmodified":1449057619,
+    "wof:lastmodified":1454360532,
     "wof:name":"Telstar Diamonds",
     "wof:parent_id":85851055,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "jeweler"
     ]
 },
-  "bbox": [-79.765848,40.332737,-79.765848,40.332737],
-  "geometry": {"coordinates":[-79.765848,40.332737],"type":"Point"}
+  "bbox": [
+    -79.765848,
+    40.332737,
+    -79.765848,
+    40.332737
+],
+  "geometry": {"coordinates":[-79.76584800000001,40.332737],"type":"Point"}
 }

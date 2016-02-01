@@ -2,13 +2,14 @@
   "id": 403894865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.758812,40.291389,-76.758812,40.291389",
     "geom:latitude":40.291389,
     "geom:longitude":-76.758812,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6414 Churchill Rd",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85846483,
+        102191575,
+        404486309,
         85633793,
         101719823,
         102081347,
-        85846483
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"d326b458a2cdc5b807376e115a7c2062",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
+            "localadmin_id":404486309,
             "locality_id":101719823,
             "neighbourhood_id":85846483,
             "region_id":85688481,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":403894865,
-    "wof:lastmodified":1449055174,
+    "wof:lastmodified":1454357511,
     "wof:name":"Concrete Ideas",
     "wof:parent_id":85846483,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "contractor"
     ]
 },
-  "bbox": [-76.758812,40.291389,-76.758812,40.291389],
-  "geometry": {"coordinates":[-76.758812,40.291389],"type":"Point"}
+  "bbox": [
+    -76.758812,
+    40.291389,
+    -76.758812,
+    40.291389
+],
+  "geometry": {"coordinates":[-76.75881200000001,40.291389],"type":"Point"}
 }

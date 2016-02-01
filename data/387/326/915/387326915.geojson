@@ -2,13 +2,14 @@
   "id": 387326915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.006166,40.462564,-80.006166,40.462564",
     "geom:latitude":40.462564,
     "geom:longitude":-80.006166,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"11 Television Hl",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -25,11 +26,13 @@
     "sg:website":"www.wpxi.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85819285,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85819285
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +42,10 @@
     "wof:geomhash":"3200436ba7229032ee6ab5e5fab3df83",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85819285,
             "region_id":85688481,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":387326915,
-    "wof:lastmodified":1449057726,
+    "wof:lastmodified":1454360574,
     "wof:name":"Wpxi Tv Channel 11",
     "wof:parent_id":85819285,
     "wof:placetype":"venue",
@@ -57,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.006166,40.462564,-80.006166,40.462564],
-  "geometry": {"coordinates":[-80.006166,40.462564],"type":"Point"}
+  "bbox": [
+    -80.006166,
+    40.462564,
+    -80.006166,
+    40.462564
+],
+  "geometry": {"coordinates":[-80.00616599999999,40.462564],"type":"Point"}
 }

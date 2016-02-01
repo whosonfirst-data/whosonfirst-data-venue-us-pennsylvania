@@ -2,13 +2,14 @@
   "id": 387233601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.075104,40.405499,-80.075104,40.405499",
     "geom:latitude":40.405499,
     "geom:longitude":-80.075104,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"920 Forsythe Rd",
     "sg:city":"Carnegie",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85816087,
+        102191575,
+        404484941,
         85633793,
         101718673,
         102080887,
-        85816087
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"f5f4357cb67a06dd1806ee73d00d8491",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484941,
             "locality_id":101718673,
             "neighbourhood_id":85816087,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387233601,
-    "wof:lastmodified":1449059984,
+    "wof:lastmodified":1454361253,
     "wof:name":"Forsythe Miniature Golf & Snacks",
     "wof:parent_id":85816087,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "mini"
     ]
 },
-  "bbox": [-80.075104,40.405499,-80.075104,40.405499],
+  "bbox": [
+    -80.075104,
+    40.405499,
+    -80.075104,
+    40.405499
+],
   "geometry": {"coordinates":[-80.075104,40.405499],"type":"Point"}
 }

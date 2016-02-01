@@ -2,13 +2,14 @@
   "id": 387300619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.925105,40.458853,-79.925105,40.458853",
     "geom:latitude":40.458853,
     "geom:longitude":-79.925105,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"202 S Highland Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85847925,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85847925
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"09dde23daaf3a47f67332520eabc98a7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85847925,
             "region_id":85688481,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":387300619,
-    "wof:lastmodified":1449058247,
+    "wof:lastmodified":1454360721,
     "wof:name":"Kohane L. Aaron Dr",
     "wof:parent_id":85847925,
     "wof:placetype":"venue",
@@ -73,6 +77,11 @@
         "dentists-prosthodontists"
     ]
 },
-  "bbox": [-79.925105,40.458853,-79.925105,40.458853],
+  "bbox": [
+    -79.925105,
+    40.458853,
+    -79.925105,
+    40.458853
+],
   "geometry": {"coordinates":[-79.925105,40.458853],"type":"Point"}
 }

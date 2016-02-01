@@ -2,13 +2,14 @@
   "id": 403985181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.136833,39.875623,-77.136833,39.875623",
     "geom:latitude":39.875623,
     "geom:longitude":-77.136833,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"305 Swift Run Rd",
     "sg:city":"Gettysburg",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080899,
-        85865375
+        85865375,
+        102080899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"bceebffc2c068d4905b1157d9873c8b0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080899,
-            "locality_id":-1,
             "neighbourhood_id":85865375,
             "region_id":85688481,
             "venue_id":403985181
         }
     ],
     "wof:id":403985181,
-    "wof:lastmodified":1449055297,
+    "wof:lastmodified":1454357587,
     "wof:name":"Vieux Carre' Farms",
     "wof:parent_id":85865375,
     "wof:placetype":"venue",
@@ -66,6 +65,11 @@
         "horse"
     ]
 },
-  "bbox": [-77.136833,39.875623,-77.136833,39.875623],
+  "bbox": [
+    -77.136833,
+    39.875623,
+    -77.136833,
+    39.875623
+],
   "geometry": {"coordinates":[-77.136833,39.875623],"type":"Point"}
 }

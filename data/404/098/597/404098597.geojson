@@ -2,13 +2,14 @@
   "id": 404098597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.99768,41.24442,-76.99768,41.24442",
     "geom:latitude":41.24442,
     "geom:longitude":-76.99768,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"380 E 4th St",
     "sg:city":"Williamsport",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85802799,
+        102191575,
+        404485355,
         85633793,
-        101716811,
+        101716809,
         102081317,
-        85802799
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,18 @@
     "wof:geomhash":"9275c7fe3eecf151a0b24c845d202e79",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081317,
-            "locality_id":101716811,
+            "localadmin_id":404485355,
+            "locality_id":101716809,
             "neighbourhood_id":85802799,
             "region_id":85688481,
             "venue_id":404098597
         }
     ],
     "wof:id":404098597,
-    "wof:lastmodified":1449040206,
+    "wof:lastmodified":1454357062,
     "wof:name":"First Baptist Church Of Williamsport",
     "wof:parent_id":85802799,
     "wof:placetype":"venue",
@@ -68,6 +72,11 @@
         "churches-baptist"
     ]
 },
-  "bbox": [-76.99768,41.24442,-76.99768,41.24442],
+  "bbox": [
+    -76.99768,
+    41.24442,
+    -76.99768,
+    41.24442
+],
   "geometry": {"coordinates":[-76.99768,41.24442],"type":"Point"}
 }

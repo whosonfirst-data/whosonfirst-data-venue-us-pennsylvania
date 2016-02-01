@@ -2,13 +2,14 @@
   "id": 404025297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.768751,39.952822,-76.768751,39.952822",
     "geom:latitude":39.952822,
     "geom:longitude":-76.768751,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1890 W Market St York, Pa.",
     "sg:city":"York",
     "sg:classifiers":[
@@ -25,10 +26,13 @@
     "sg:website":"http://www.imagineeredsigns.biz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85819331,
+        102191575,
+        404488029,
         85633793,
+        101717279,
         102080953,
-        85819331
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +42,18 @@
     "wof:geomhash":"e737f802b016c98dcf4285fe97664336",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
+            "localadmin_id":404488029,
+            "locality_id":101717279,
             "neighbourhood_id":85819331,
             "region_id":85688481,
             "venue_id":404025297
         }
     ],
     "wof:id":404025297,
-    "wof:lastmodified":1449040118,
+    "wof:lastmodified":1454357018,
     "wof:name":"Imagineered Signs & Displays Inc.",
     "wof:parent_id":85819331,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.768751,39.952822,-76.768751,39.952822],
-  "geometry": {"coordinates":[-76.768751,39.952822],"type":"Point"}
+  "bbox": [
+    -76.768751,
+    39.952822,
+    -76.768751,
+    39.952822
+],
+  "geometry": {"coordinates":[-76.76875099999999,39.952822],"type":"Point"}
 }

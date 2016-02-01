@@ -2,13 +2,14 @@
   "id": 387738275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.108597,40.689899,-80.108597,40.689899",
     "geom:latitude":40.689899,
     "geom:longitude":-80.108597,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"215 Executive Dr",
     "sg:city":"Cranberry Twp",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102083677,
-        85812951
+        85812951,
+        102083677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"40b6454c6805859be67334bd8255425a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102083677,
-            "locality_id":-1,
             "neighbourhood_id":85812951,
             "region_id":85688481,
             "venue_id":387738275
         }
     ],
     "wof:id":387738275,
-    "wof:lastmodified":1449058896,
+    "wof:lastmodified":1454360921,
     "wof:name":"Sheen Robt W MA",
     "wof:parent_id":85812951,
     "wof:placetype":"venue",
@@ -64,6 +63,11 @@
         "psychiatrist"
     ]
 },
-  "bbox": [-80.108597,40.689899,-80.108597,40.689899],
+  "bbox": [
+    -80.108597,
+    40.689899,
+    -80.108597,
+    40.689899
+],
   "geometry": {"coordinates":[-80.108597,40.689899],"type":"Point"}
 }

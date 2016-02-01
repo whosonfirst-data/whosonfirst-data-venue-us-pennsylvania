@@ -2,13 +2,14 @@
   "id": 387957625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.651514,40.129877,-76.651514,40.129877",
     "geom:latitude":40.129877,
     "geom:longitude":-76.651514,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"112 Spruce Ln",
     "sg:city":"Elizabethtown",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85836929
+        85836929,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"986bbdcd26fe278ee7b88eeec15cc719",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85836929,
             "region_id":85688481,
             "venue_id":387957625
         }
     ],
     "wof:id":387957625,
-    "wof:lastmodified":1449059364,
+    "wof:lastmodified":1454361055,
     "wof:name":"Big Woods Vacations",
     "wof:parent_id":85836929,
     "wof:placetype":"venue",
@@ -68,6 +67,11 @@
         "agency"
     ]
 },
-  "bbox": [-76.651514,40.129877,-76.651514,40.129877],
-  "geometry": {"coordinates":[-76.651514,40.129877],"type":"Point"}
+  "bbox": [
+    -76.651514,
+    40.129877,
+    -76.651514,
+    40.129877
+],
+  "geometry": {"coordinates":[-76.65151400000001,40.129877],"type":"Point"}
 }

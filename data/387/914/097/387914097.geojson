@@ -2,13 +2,14 @@
   "id": 387914097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.925301,40.240898,-76.925301,40.240898",
     "geom:latitude":40.240898,
     "geom:longitude":-76.925301,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"19 N 24th St",
     "sg:city":"Camp Hill",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85857441,
+        102191575,
+        404486405,
         85633793,
         101719079,
         102081359,
-        85857441
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"4677d9f5a3092e3e251c767bc305f7bb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081359,
+            "localadmin_id":404486405,
             "locality_id":101719079,
             "neighbourhood_id":85857441,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387914097,
-    "wof:lastmodified":1449057559,
+    "wof:lastmodified":1454360495,
     "wof:name":"Getty Carl DDS",
     "wof:parent_id":85857441,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "oral"
     ]
 },
-  "bbox": [-76.925301,40.240898,-76.925301,40.240898],
+  "bbox": [
+    -76.925301,
+    40.240898,
+    -76.925301,
+    40.240898
+],
   "geometry": {"coordinates":[-76.925301,40.240898],"type":"Point"}
 }

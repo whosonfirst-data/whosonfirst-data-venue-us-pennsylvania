@@ -2,13 +2,14 @@
   "id": 404125845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.591978,40.965596,-76.591978,40.965596",
     "geom:latitude":40.965596,
     "geom:longitude":-76.591978,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1410 Bloom Rd",
     "sg:city":"Danville",
     "sg:classifiers":[
@@ -40,8 +41,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080931,
-        85833629
+        85833629,
+        102080931
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,17 +52,15 @@
     "wof:geomhash":"0511b5cbe54d27e2c9eb2cb16e55c445",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080931,
-            "locality_id":-1,
             "neighbourhood_id":85833629,
             "region_id":85688481,
             "venue_id":404125845
         }
     ],
     "wof:id":404125845,
-    "wof:lastmodified":1449040284,
+    "wof:lastmodified":1454357110,
     "wof:name":"Danville Family Practice",
     "wof:parent_id":85833629,
     "wof:placetype":"venue",
@@ -76,6 +75,11 @@
         "medicine"
     ]
 },
-  "bbox": [-76.591978,40.965596,-76.591978,40.965596],
+  "bbox": [
+    -76.591978,
+    40.965596,
+    -76.591978,
+    40.965596
+],
   "geometry": {"coordinates":[-76.591978,40.965596],"type":"Point"}
 }

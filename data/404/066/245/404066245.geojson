@@ -2,13 +2,14 @@
   "id": 404066245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.413773,40.037114,-76.413773,40.037114",
     "geom:latitude":40.037114,
     "geom:longitude":-76.413773,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3858 Columbia Ave",
     "sg:city":"Mountville",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85814875
+        85814875,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"9394625cc0928f4b6e04b9e2af01d3af",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85814875,
             "region_id":85688481,
             "venue_id":404066245
         }
     ],
     "wof:id":404066245,
-    "wof:lastmodified":1449039368,
+    "wof:lastmodified":1454356604,
     "wof:name":"Flooring Concept",
     "wof:parent_id":85814875,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "tile-contractors"
     ]
 },
-  "bbox": [-76.413773,40.037114,-76.413773,40.037114],
-  "geometry": {"coordinates":[-76.413773,40.037114],"type":"Point"}
+  "bbox": [
+    -76.413773,
+    40.037114,
+    -76.413773,
+    40.037114
+],
+  "geometry": {"coordinates":[-76.41377300000001,40.037114],"type":"Point"}
 }

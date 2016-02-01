@@ -2,13 +2,14 @@
   "id": 387410227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.000025,40.442402,-80.000025,40.442402",
     "geom:latitude":40.442402,
     "geom:longitude":-80.000025,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"673 Liberty Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     "sg:website":"istanbulgrille.wordpress.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85873585,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85873585
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"8068da86e5260a3cb3e865ffdae0af42",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85873585,
             "region_id":85688481,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":387410227,
-    "wof:lastmodified":1449056170,
+    "wof:lastmodified":1454358133,
     "wof:name":"Istanbul Grille",
     "wof:parent_id":85873585,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "eastern"
     ]
 },
-  "bbox": [-80.000025,40.442402,-80.000025,40.442402],
-  "geometry": {"coordinates":[-80.000025,40.442402],"type":"Point"}
+  "bbox": [
+    -80.000025,
+    40.442402,
+    -80.000025,
+    40.442402
+],
+  "geometry": {"coordinates":[-80.00002499999999,40.442402],"type":"Point"}
 }

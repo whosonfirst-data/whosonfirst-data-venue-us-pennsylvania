@@ -2,13 +2,14 @@
   "id": 387335413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.032922,40.397434,-80.032922,40.397434",
     "geom:latitude":40.397434,
     "geom:longitude":-80.032922,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2811 Glenmore Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85807877,
+        102191575,
+        404482523,
         85633793,
+        101718805,
         102080887,
-        85807877
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +44,18 @@
     "wof:geomhash":"895b3ebb83a6a2653f34ce37bc838e8b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
+            "localadmin_id":404482523,
+            "locality_id":101718805,
             "neighbourhood_id":85807877,
             "region_id":85688481,
             "venue_id":387335413
         }
     ],
     "wof:id":387335413,
-    "wof:lastmodified":1449058618,
+    "wof:lastmodified":1454360830,
     "wof:name":"Top Notch Logistics",
     "wof:parent_id":85807877,
     "wof:placetype":"venue",
@@ -60,6 +65,11 @@
         "transportation"
     ]
 },
-  "bbox": [-80.032922,40.397434,-80.032922,40.397434],
+  "bbox": [
+    -80.032922,
+    40.397434,
+    -80.032922,
+    40.397434
+],
   "geometry": {"coordinates":[-80.032922,40.397434],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403970987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.307075,39.910998,-77.307075,39.910998",
     "geom:latitude":39.910998,
     "geom:longitude":-77.307075,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"290 Winding Rd",
     "sg:city":"Biglerville",
     "sg:classifiers":[
@@ -44,8 +45,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080899,
-        85807419
+        85807419,
+        102080899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,17 +56,15 @@
     "wof:geomhash":"f2e27b79b8b818cff48fbc787729c9e6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080899,
-            "locality_id":-1,
             "neighbourhood_id":85807419,
             "region_id":85688481,
             "venue_id":403970987
         }
     ],
     "wof:id":403970987,
-    "wof:lastmodified":1449055929,
+    "wof:lastmodified":1454357955,
     "wof:name":"Mary's Styling Salon",
     "wof:parent_id":85807419,
     "wof:placetype":"venue",
@@ -75,6 +74,11 @@
         "stylist"
     ]
 },
-  "bbox": [-77.307075,39.910998,-77.307075,39.910998],
+  "bbox": [
+    -77.307075,
+    39.910998,
+    -77.307075,
+    39.910998
+],
   "geometry": {"coordinates":[-77.307075,39.910998],"type":"Point"}
 }

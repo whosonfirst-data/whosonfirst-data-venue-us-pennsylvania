@@ -2,13 +2,14 @@
   "id": 404083903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.197954,40.023497,-76.197954,40.023497",
     "geom:latitude":40.023497,
     "geom:longitude":-76.197954,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2453 Lincoln Hwy E",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -42,8 +43,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85868585
+        85868585,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,17 +54,15 @@
     "wof:geomhash":"98fb435f70d14e6a3ebff82845329a10",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85868585,
             "region_id":85688481,
             "venue_id":404083903
         }
     ],
     "wof:id":404083903,
-    "wof:lastmodified":1449039582,
+    "wof:lastmodified":1454356724,
     "wof:name":"Grandma's Place",
     "wof:parent_id":85868585,
     "wof:placetype":"venue",
@@ -76,6 +75,11 @@
         "supply"
     ]
 },
-  "bbox": [-76.197954,40.023497,-76.197954,40.023497],
+  "bbox": [
+    -76.197954,
+    40.023497,
+    -76.197954,
+    40.023497
+],
   "geometry": {"coordinates":[-76.197954,40.023497],"type":"Point"}
 }

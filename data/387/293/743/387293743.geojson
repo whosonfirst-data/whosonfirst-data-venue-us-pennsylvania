@@ -2,13 +2,14 @@
   "id": 387293743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.158777,40.445079,-80.158777,40.445079",
     "geom:latitude":40.445079,
     "geom:longitude":-80.158777,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5460 Campbells Run Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85821263
+        85821263,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"0961967ff248ba3281aa0c3e720ac31b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85821263,
             "region_id":85688481,
             "venue_id":387293743
         }
     ],
     "wof:id":387293743,
-    "wof:lastmodified":1449056849,
+    "wof:lastmodified":1454358652,
     "wof:name":"Extreme Fitness",
     "wof:parent_id":85821263,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "trainer"
     ]
 },
-  "bbox": [-80.158777,40.445079,-80.158777,40.445079],
+  "bbox": [
+    -80.158777,
+    40.445079,
+    -80.158777,
+    40.445079
+],
   "geometry": {"coordinates":[-80.158777,40.445079],"type":"Point"}
 }

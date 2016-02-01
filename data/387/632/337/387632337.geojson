@@ -2,13 +2,14 @@
   "id": 387632337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.619948,40.409696,-79.619948,40.409696",
     "geom:latitude":40.409696,
     "geom:longitude":-79.619948,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6993 Berkshire Dr",
     "sg:city":"Export",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     "sg:website":"http://www.zescoinc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420540097,
+        102191575,
+        404487539,
         85633793,
         101717149,
-        102081383
+        102081383,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,20 @@
     "wof:geomhash":"653fd540dda3c44aff636bb8681850e1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081383,
+            "localadmin_id":404487539,
             "locality_id":101717149,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420540097,
             "region_id":85688481,
             "venue_id":387632337
         }
     ],
     "wof:id":387632337,
-    "wof:lastmodified":1449058535,
+    "wof:lastmodified":1454360808,
     "wof:name":"Ron Melinchak",
-    "wof:parent_id":-1,
+    "wof:parent_id":420540097,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -65,6 +70,11 @@
         "supply"
     ]
 },
-  "bbox": [-79.619948,40.409696,-79.619948,40.409696],
-  "geometry": {"coordinates":[-79.619948,40.409696],"type":"Point"}
+  "bbox": [
+    -79.619948,
+    40.409696,
+    -79.619948,
+    40.409696
+],
+  "geometry": {"coordinates":[-79.61994799999999,40.409696],"type":"Point"}
 }

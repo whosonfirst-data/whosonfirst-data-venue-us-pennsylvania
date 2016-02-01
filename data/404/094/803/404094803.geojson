@@ -2,13 +2,14 @@
   "id": 404094803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.312143,40.038897,-76.312143,40.038897",
     "geom:latitude":40.038897,
     "geom:longitude":-76.312143,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"348 W Orange St Ste 1F",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85858805
+        85858805,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"6557039a286f6324da786a12f1162285",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85858805,
             "region_id":85688481,
             "venue_id":404094803
         }
     ],
     "wof:id":404094803,
-    "wof:lastmodified":1449039874,
+    "wof:lastmodified":1454356856,
     "wof:name":"Veleska",
     "wof:parent_id":85858805,
     "wof:placetype":"venue",
@@ -63,6 +62,11 @@
         "artist"
     ]
 },
-  "bbox": [-76.312143,40.038897,-76.312143,40.038897],
-  "geometry": {"coordinates":[-76.312143,40.038897],"type":"Point"}
+  "bbox": [
+    -76.312143,
+    40.038897,
+    -76.312143,
+    40.038897
+],
+  "geometry": {"coordinates":[-76.31214300000001,40.038897],"type":"Point"}
 }

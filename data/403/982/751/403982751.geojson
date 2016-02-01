@@ -2,13 +2,14 @@
   "id": 403982751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.233493,39.830873,-77.233493,39.830873",
     "geom:latitude":39.830873,
     "geom:longitude":-77.233493,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"110 Chambersburg St",
     "sg:city":"Gettysburg",
     "sg:classifiers":[
@@ -34,8 +35,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080899,
-        85804527
+        85804527,
+        102080899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +46,15 @@
     "wof:geomhash":"ea9e5362acd32f7b595b86bd929ae7b9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080899,
-            "locality_id":-1,
             "neighbourhood_id":85804527,
             "region_id":85688481,
             "venue_id":403982751
         }
     ],
     "wof:id":403982751,
-    "wof:lastmodified":1449054858,
+    "wof:lastmodified":1454357328,
     "wof:name":"Ragged Edge Coffee House",
     "wof:parent_id":85804527,
     "wof:placetype":"venue",
@@ -65,6 +64,11 @@
         "espresso"
     ]
 },
-  "bbox": [-77.233493,39.830873,-77.233493,39.830873],
+  "bbox": [
+    -77.233493,
+    39.830873,
+    -77.233493,
+    39.830873
+],
   "geometry": {"coordinates":[-77.233493,39.830873],"type":"Point"}
 }

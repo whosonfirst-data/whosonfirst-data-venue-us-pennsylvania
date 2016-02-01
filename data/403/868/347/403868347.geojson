@@ -2,13 +2,14 @@
   "id": 403868347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.824414,40.278281,-76.824414,40.278281",
     "geom:latitude":40.278281,
     "geom:longitude":-76.824414,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3915 Union Deposit Rd Ste 428",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -37,8 +38,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85840955
+        85840955,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +49,15 @@
     "wof:geomhash":"65bb3c5fb4dde19dc82cc9526352e912",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85840955,
             "region_id":85688481,
             "venue_id":403868347
         }
     ],
     "wof:id":403868347,
-    "wof:lastmodified":1449054677,
+    "wof:lastmodified":1454357210,
     "wof:name":"WebpageFX Web Design",
     "wof:parent_id":85840955,
     "wof:placetype":"venue",
@@ -70,6 +69,11 @@
         "web"
     ]
 },
-  "bbox": [-76.824414,40.278281,-76.824414,40.278281],
+  "bbox": [
+    -76.824414,
+    40.278281,
+    -76.824414,
+    40.278281
+],
   "geometry": {"coordinates":[-76.824414,40.278281],"type":"Point"}
 }

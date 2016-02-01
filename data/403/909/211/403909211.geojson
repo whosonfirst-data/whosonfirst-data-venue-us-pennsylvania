@@ -2,13 +2,14 @@
   "id": 403909211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.848297,40.237999,-76.848297,40.237999",
     "geom:latitude":40.237999,
     "geom:longitude":-76.848297,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"550 N Front St",
     "sg:city":"Steelton",
     "sg:classifiers":[
@@ -34,8 +35,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85868485
+        85868485,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +46,15 @@
     "wof:geomhash":"73f56ca25abf2d538dd5162662b3de63",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85868485,
             "region_id":85688481,
             "venue_id":403909211
         }
     ],
     "wof:id":403909211,
-    "wof:lastmodified":1449055625,
+    "wof:lastmodified":1454357786,
     "wof:name":"Swatara Auto Service",
     "wof:parent_id":85868485,
     "wof:placetype":"venue",
@@ -65,6 +64,11 @@
         "notary"
     ]
 },
-  "bbox": [-76.848297,40.237999,-76.848297,40.237999],
+  "bbox": [
+    -76.848297,
+    40.237999,
+    -76.848297,
+    40.237999
+],
   "geometry": {"coordinates":[-76.848297,40.237999],"type":"Point"}
 }

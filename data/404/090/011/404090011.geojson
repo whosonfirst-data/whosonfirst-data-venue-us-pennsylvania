@@ -2,13 +2,14 @@
   "id": 404090011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.308443,40.040866,-76.308443,40.040866",
     "geom:latitude":40.040866,
     "geom:longitude":-76.308443,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"118 W Chestnut St Ste 5",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -49,8 +50,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85858805
+        85858805,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,17 +61,15 @@
     "wof:geomhash":"7fbc1ee2676bcf51fb2769f3dc8fd1c4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85858805,
             "region_id":85688481,
             "venue_id":404090011
         }
     ],
     "wof:id":404090011,
-    "wof:lastmodified":1449040044,
+    "wof:lastmodified":1454356975,
     "wof:name":"Lancaster Computer Solutions",
     "wof:parent_id":85858805,
     "wof:placetype":"venue",
@@ -89,6 +88,11 @@
         "engineer"
     ]
 },
-  "bbox": [-76.308443,40.040866,-76.308443,40.040866],
+  "bbox": [
+    -76.308443,
+    40.040866,
+    -76.308443,
+    40.040866
+],
   "geometry": {"coordinates":[-76.308443,40.040866],"type":"Point"}
 }

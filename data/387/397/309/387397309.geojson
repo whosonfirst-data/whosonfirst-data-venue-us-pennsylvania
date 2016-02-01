@@ -2,13 +2,14 @@
   "id": 387397309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.847875,40.416132,-79.847875,40.416132",
     "geom:latitude":40.416132,
     "geom:longitude":-79.847875,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2372 Ardmore Blvd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536333,
+        102191575,
+        404484859,
         85633793,
-        101718685,
-        102080887
+        101718785,
+        102080887,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,20 @@
     "wof:geomhash":"bcb11b715e38b4ffc437b122afd624f7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":101718685,
-            "neighbourhood_id":-1,
+            "localadmin_id":404484859,
+            "locality_id":101718785,
+            "neighbourhood_id":420536333,
             "region_id":85688481,
             "venue_id":387397309
         }
     ],
     "wof:id":387397309,
-    "wof:lastmodified":1449057623,
+    "wof:lastmodified":1454360534,
     "wof:name":"Core Network",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536333,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -69,6 +74,11 @@
         "physical"
     ]
 },
-  "bbox": [-79.847875,40.416132,-79.847875,40.416132],
+  "bbox": [
+    -79.847875,
+    40.416132,
+    -79.847875,
+    40.416132
+],
   "geometry": {"coordinates":[-79.847875,40.416132],"type":"Point"}
 }

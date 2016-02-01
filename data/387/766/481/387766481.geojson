@@ -2,13 +2,14 @@
   "id": 387766481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.475428,41.233297,-80.475428,41.233297",
     "geom:latitude":41.233297,
     "geom:longitude":-80.475428,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1851 E State St",
     "sg:city":"Hermitage",
     "sg:classifiers":[
@@ -64,10 +65,13 @@
     "sg:website":"http://www.riteaid.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420539011,
+        102191575,
+        404487969,
         85633793,
-        101718107,
-        102080965
+        101718115,
+        102080965,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,19 +81,20 @@
     "wof:geomhash":"705c525333e72c5a63be591286e51977",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080965,
-            "locality_id":101718107,
-            "neighbourhood_id":-1,
+            "localadmin_id":404487969,
+            "locality_id":101718115,
+            "neighbourhood_id":420539011,
             "region_id":85688481,
             "venue_id":387766481
         }
     ],
     "wof:id":387766481,
-    "wof:lastmodified":1449056067,
+    "wof:lastmodified":1454358056,
     "wof:name":"Rite Aid",
-    "wof:parent_id":-1,
+    "wof:parent_id":420539011,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -108,6 +113,11 @@
         "greeting"
     ]
 },
-  "bbox": [-80.475428,41.233297,-80.475428,41.233297],
-  "geometry": {"coordinates":[-80.475428,41.233297],"type":"Point"}
+  "bbox": [
+    -80.475428,
+    41.233297,
+    -80.475428,
+    41.233297
+],
+  "geometry": {"coordinates":[-80.47542799999999,41.233297],"type":"Point"}
 }

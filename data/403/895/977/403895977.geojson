@@ -2,13 +2,14 @@
   "id": 403895977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.800919,40.243198,-76.800919,40.243198",
     "geom:latitude":40.243198,
     "geom:longitude":-76.800919,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4751 Lindle Rd Ste 104",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85851671
+        85851671,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"bae069cbc282a873e6383ae3c07b60f4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85851671,
             "region_id":85688481,
             "venue_id":403895977
         }
     ],
     "wof:id":403895977,
-    "wof:lastmodified":1449055198,
+    "wof:lastmodified":1454357531,
     "wof:name":"Holiday Inn",
     "wof:parent_id":85851671,
     "wof:placetype":"venue",
@@ -63,6 +62,11 @@
         "lodging"
     ]
 },
-  "bbox": [-76.800919,40.243198,-76.800919,40.243198],
-  "geometry": {"coordinates":[-76.800919,40.243198],"type":"Point"}
+  "bbox": [
+    -76.800919,
+    40.243198,
+    -76.800919,
+    40.243198
+],
+  "geometry": {"coordinates":[-76.80091899999999,40.243198],"type":"Point"}
 }

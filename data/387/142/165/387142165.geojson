@@ -2,13 +2,14 @@
   "id": 387142165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.835536,40.280572,-79.835536,40.280572",
     "geom:latitude":40.280572,
     "geom:longitude":-79.835536,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"200 Swiss Way",
     "sg:city":"Elizabeth",
     "sg:classifiers":[
@@ -39,8 +40,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85810241
+        85810241,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,17 +51,15 @@
     "wof:geomhash":"0543f145ccaacb1ef0b5695d454163c9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85810241,
             "region_id":85688481,
             "venue_id":387142165
         }
     ],
     "wof:id":387142165,
-    "wof:lastmodified":1449059158,
+    "wof:lastmodified":1454361000,
     "wof:name":"Fox's Pizza Den",
     "wof:parent_id":85810241,
     "wof:placetype":"venue",
@@ -74,6 +73,11 @@
         "italian"
     ]
 },
-  "bbox": [-79.835536,40.280572,-79.835536,40.280572],
+  "bbox": [
+    -79.835536,
+    40.280572,
+    -79.835536,
+    40.280572
+],
   "geometry": {"coordinates":[-79.835536,40.280572],"type":"Point"}
 }

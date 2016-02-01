@@ -2,13 +2,14 @@
   "id": 387840533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.096032,42.021169,-80.096032,42.021169",
     "geom:latitude":42.021169,
     "geom:longitude":-80.096032,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"8692 Valley View Cir",
     "sg:city":"Erie",
     "sg:classifiers":[
@@ -32,8 +33,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080955,
-        85819503
+        85819503,
+        102080955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +44,15 @@
     "wof:geomhash":"5a63fb2d9d5ae50c996e6533a648b888",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080955,
-            "locality_id":-1,
             "neighbourhood_id":85819503,
             "region_id":85688481,
             "venue_id":387840533
         }
     ],
     "wof:id":387840533,
-    "wof:lastmodified":1449059048,
+    "wof:lastmodified":1454360968,
     "wof:name":"Rote Electrical Services",
     "wof:parent_id":85819503,
     "wof:placetype":"venue",
@@ -66,6 +65,11 @@
         "electric"
     ]
 },
-  "bbox": [-80.096032,42.021169,-80.096032,42.021169],
-  "geometry": {"coordinates":[-80.096032,42.021169],"type":"Point"}
+  "bbox": [
+    -80.096032,
+    42.021169,
+    -80.096032,
+    42.021169
+],
+  "geometry": {"coordinates":[-80.09603199999999,42.021169],"type":"Point"}
 }

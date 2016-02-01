@@ -2,13 +2,14 @@
   "id": 387394439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.062416,40.423553,-80.062416,40.423553",
     "geom:latitude":40.423553,
     "geom:longitude":-80.062416,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"780 Holiday Dr",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     "sg:website":"www.dnb.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85816087,
+        102191575,
+        404484941,
         85633793,
         101718673,
         102080887,
-        85816087
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"fe5ffa449b622e275ddf8c1f79dada00",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484941,
             "locality_id":101718673,
             "neighbourhood_id":85816087,
             "region_id":85688481,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":387394439,
-    "wof:lastmodified":1449056836,
+    "wof:lastmodified":1454358641,
     "wof:name":"Dun & Bradstreet Inc",
     "wof:parent_id":85816087,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.062416,40.423553,-80.062416,40.423553],
+  "bbox": [
+    -80.062416,
+    40.423553,
+    -80.062416,
+    40.423553
+],
   "geometry": {"coordinates":[-80.062416,40.423553],"type":"Point"}
 }

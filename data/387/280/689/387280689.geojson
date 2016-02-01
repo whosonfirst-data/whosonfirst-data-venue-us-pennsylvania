@@ -2,13 +2,14 @@
   "id": 387280689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.055154,40.486979,-80.055154,40.486979",
     "geom:latitude":40.486979,
     "geom:longitude":-80.055154,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4241 Ohio River Blvd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85807553,
+        102191575,
+        404484847,
         85633793,
-        101718805,
+        101718811,
         102080887,
-        85807553
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +51,18 @@
     "wof:geomhash":"cadec21a7f3998c2f16804bf213f6849",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":101718805,
+            "localadmin_id":404484847,
+            "locality_id":101718811,
             "neighbourhood_id":85807553,
             "region_id":85688481,
             "venue_id":387280689
         }
     ],
     "wof:id":387280689,
-    "wof:lastmodified":1449057977,
+    "wof:lastmodified":1454360644,
     "wof:name":"Blvd Generator Services",
     "wof:parent_id":85807553,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "generators-automotive"
     ]
 },
-  "bbox": [-80.055154,40.486979,-80.055154,40.486979],
+  "bbox": [
+    -80.055154,
+    40.486979,
+    -80.055154,
+    40.486979
+],
   "geometry": {"coordinates":[-80.055154,40.486979],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387234737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.151099,40.411696,-80.151099,40.411696",
     "geom:latitude":40.411696,
     "geom:longitude":-80.151099,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"196 Bryna Ln",
     "sg:city":"Carnegie",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85854259,
+        102191575,
+        404484875,
         85633793,
         101720503,
         102080887,
-        85854259
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"e7112eb789f561b2aeac5d27c4d6180b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484875,
             "locality_id":101720503,
             "neighbourhood_id":85854259,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387234737,
-    "wof:lastmodified":1449059711,
+    "wof:lastmodified":1454361166,
     "wof:name":"Bmm Of North America Inc",
     "wof:parent_id":85854259,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "sale"
     ]
 },
-  "bbox": [-80.151099,40.411696,-80.151099,40.411696],
+  "bbox": [
+    -80.151099,
+    40.411696,
+    -80.151099,
+    40.411696
+],
   "geometry": {"coordinates":[-80.151099,40.411696],"type":"Point"}
 }

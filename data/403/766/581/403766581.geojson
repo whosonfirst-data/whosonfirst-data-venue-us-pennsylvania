@@ -2,13 +2,14 @@
   "id": 403766581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.933393,40.199926,-76.933393,40.199926",
     "geom:latitude":40.199926,
     "geom:longitude":-76.933393,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"228 Ewe Rd",
     "sg:city":"Mechanicsburg",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081359,
-        85846181
+        85846181,
+        102081359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"0238f36f3402d8e4e808e3984d49a1de",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081359,
-            "locality_id":-1,
             "neighbourhood_id":85846181,
             "region_id":85688481,
             "venue_id":403766581
         }
     ],
     "wof:id":403766581,
-    "wof:lastmodified":1449054610,
+    "wof:lastmodified":1454357170,
     "wof:name":"Servpro",
     "wof:parent_id":85846181,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "cleaners-interior"
     ]
 },
-  "bbox": [-76.933393,40.199926,-76.933393,40.199926],
+  "bbox": [
+    -76.933393,
+    40.199926,
+    -76.933393,
+    40.199926
+],
   "geometry": {"coordinates":[-76.933393,40.199926],"type":"Point"}
 }

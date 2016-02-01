@@ -2,13 +2,14 @@
   "id": 404090877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.333849,40.029219,-76.333849,40.029219",
     "geom:latitude":40.029219,
     "geom:longitude":-76.333849,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"515 Abbeyville Rd Apt B",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -38,8 +39,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85858805
+        85858805,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +50,15 @@
     "wof:geomhash":"70b85ada38e6b66179320da5e17bd066",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85858805,
             "region_id":85688481,
             "venue_id":404090877
         }
     ],
     "wof:id":404090877,
-    "wof:lastmodified":1449040040,
+    "wof:lastmodified":1454356974,
     "wof:name":"Sega Technologies",
     "wof:parent_id":85858805,
     "wof:placetype":"venue",
@@ -73,6 +72,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-76.333849,40.029219,-76.333849,40.029219],
+  "bbox": [
+    -76.333849,
+    40.029219,
+    -76.333849,
+    40.029219
+],
   "geometry": {"coordinates":[-76.333849,40.029219],"type":"Point"}
 }

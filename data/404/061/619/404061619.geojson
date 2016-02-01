@@ -2,13 +2,14 @@
   "id": 404061619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.348534,40.112269,-76.348534,40.112269",
     "geom:latitude":40.112269,
     "geom:longitude":-76.348534,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2345 Quarry Rd",
     "sg:city":"Lititz",
     "sg:classifiers":[
@@ -37,8 +38,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85806481
+        85806481,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +49,15 @@
     "wof:geomhash":"b6b0c90de1ef0c68b19bdd00174021fc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85806481,
             "region_id":85688481,
             "venue_id":404061619
         }
     ],
     "wof:id":404061619,
-    "wof:lastmodified":1449039991,
+    "wof:lastmodified":1454356936,
     "wof:name":"Bent Creek Country Club Maintenance",
     "wof:parent_id":85806481,
     "wof:placetype":"venue",
@@ -71,6 +70,11 @@
         "private"
     ]
 },
-  "bbox": [-76.348534,40.112269,-76.348534,40.112269],
+  "bbox": [
+    -76.348534,
+    40.112269,
+    -76.348534,
+    40.112269
+],
   "geometry": {"coordinates":[-76.348534,40.112269],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387868863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.534843,41.929483,-78.534843,41.929483",
     "geom:latitude":41.929483,
     "geom:longitude":-78.534843,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"294 Summit Rd",
     "sg:city":"Bradford",
     "sg:classifiers":[
@@ -26,8 +27,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080951,
-        85852805
+        85852805,
+        102080951
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,17 +38,15 @@
     "wof:geomhash":"93feae51fa4d773dc5663077ff245dd5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080951,
-            "locality_id":-1,
             "neighbourhood_id":85852805,
             "region_id":85688481,
             "venue_id":387868863
         }
     ],
     "wof:id":387868863,
-    "wof:lastmodified":1449056292,
+    "wof:lastmodified":1454358228,
     "wof:name":"Edd's Auto Repair",
     "wof:parent_id":85852805,
     "wof:placetype":"venue",
@@ -55,6 +54,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.534843,41.929483,-78.534843,41.929483],
+  "bbox": [
+    -78.534843,
+    41.929483,
+    -78.534843,
+    41.929483
+],
   "geometry": {"coordinates":[-78.534843,41.929483],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387295687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.154123,40.447546,-80.154123,40.447546",
     "geom:latitude":40.447546,
     "geom:longitude":-80.154123,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6296 Steubenville Pike",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -37,8 +38,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85821263
+        85821263,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +49,15 @@
     "wof:geomhash":"65bdac4fa03a23c46dd5de7fcebb55a4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85821263,
             "region_id":85688481,
             "venue_id":387295687
         }
     ],
     "wof:id":387295687,
-    "wof:lastmodified":1449057649,
+    "wof:lastmodified":1454360543,
     "wof:name":"Wendy's Old Fashioned Hamburgers",
     "wof:parent_id":85821263,
     "wof:placetype":"venue",
@@ -70,6 +69,11 @@
         "dog"
     ]
 },
-  "bbox": [-80.154123,40.447546,-80.154123,40.447546],
+  "bbox": [
+    -80.154123,
+    40.447546,
+    -80.154123,
+    40.447546
+],
   "geometry": {"coordinates":[-80.154123,40.447546],"type":"Point"}
 }

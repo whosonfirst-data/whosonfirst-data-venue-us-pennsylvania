@@ -2,13 +2,14 @@
   "id": 387831325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.203834,42.074704,-80.203834,42.074704",
     "geom:latitude":42.074704,
     "geom:longitude":-80.203834,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1642 Clifford Dr",
     "sg:city":"Erie",
     "sg:classifiers":[
@@ -33,8 +34,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080955,
-        85853665
+        85853665,
+        102080955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +45,15 @@
     "wof:geomhash":"3fc024510cd3cb665f4bf158766d4c66",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080955,
-            "locality_id":-1,
             "neighbourhood_id":85853665,
             "region_id":85688481,
             "venue_id":387831325
         }
     ],
     "wof:id":387831325,
-    "wof:lastmodified":1449058335,
+    "wof:lastmodified":1454360748,
     "wof:name":"Foster Lori Ms",
     "wof:parent_id":85853665,
     "wof:placetype":"venue",
@@ -68,6 +67,11 @@
         "child"
     ]
 },
-  "bbox": [-80.203834,42.074704,-80.203834,42.074704],
+  "bbox": [
+    -80.203834,
+    42.074704,
+    -80.203834,
+    42.074704
+],
   "geometry": {"coordinates":[-80.203834,42.074704],"type":"Point"}
 }

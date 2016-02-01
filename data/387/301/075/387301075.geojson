@@ -2,13 +2,14 @@
   "id": 387301075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.928523,40.467087,-79.928523,40.467087",
     "geom:latitude":40.467087,
     "geom:longitude":-79.928523,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"430 N Negley Ave Ofc",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85816533,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85816533
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"c96f718a5c0b14c02a838335e873cd19",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85816533,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387301075,
-    "wof:lastmodified":1449057077,
+    "wof:lastmodified":1454358817,
     "wof:name":"Negley Commons",
     "wof:parent_id":85816533,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "hotel"
     ]
 },
-  "bbox": [-79.928523,40.467087,-79.928523,40.467087],
+  "bbox": [
+    -79.928523,
+    40.467087,
+    -79.928523,
+    40.467087
+],
   "geometry": {"coordinates":[-79.928523,40.467087],"type":"Point"}
 }

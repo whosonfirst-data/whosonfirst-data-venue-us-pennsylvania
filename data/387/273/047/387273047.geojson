@@ -2,13 +2,14 @@
   "id": 387273047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.799405,40.432884,-79.799405,40.432884",
     "geom:latitude":40.432884,
     "geom:longitude":-79.799405,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3621 William Penn Hwy",
     "sg:city":"Monroeville",
     "sg:classifiers":[
@@ -63,7 +64,6 @@
     "wof:geomhash":"8377db0ae1a8ffb42e9f58936820392f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
             "locality_id":101718755,
@@ -73,7 +73,7 @@
         }
     ],
     "wof:id":387273047,
-    "wof:lastmodified":1449058080,
+    "wof:lastmodified":1454360676,
     "wof:name":"T-Mobile",
     "wof:parent_id":85817041,
     "wof:placetype":"venue",
@@ -89,6 +89,11 @@
         "cellular"
     ]
 },
-  "bbox": [-79.799405,40.432884,-79.799405,40.432884],
-  "geometry": {"coordinates":[-79.799405,40.432884],"type":"Point"}
+  "bbox": [
+    -79.799405,
+    40.432884,
+    -79.799405,
+    40.432884
+],
+  "geometry": {"coordinates":[-79.79940499999999,40.432884],"type":"Point"}
 }

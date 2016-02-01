@@ -2,13 +2,14 @@
   "id": 404112617,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.85859,41.102422,-76.85859,41.102422",
     "geom:latitude":41.102422,
     "geom:longitude":-76.85859,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"332 Fairmont Dr",
     "sg:city":"Watsontown",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081349,
-        85837713
+        85837713,
+        102081349
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"570a0a9d83e483fdb2e24a7c5b6fbcc9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081349,
-            "locality_id":-1,
             "neighbourhood_id":85837713,
             "region_id":85688481,
             "venue_id":404112617
         }
     ],
     "wof:id":404112617,
-    "wof:lastmodified":1449039557,
+    "wof:lastmodified":1454356714,
     "wof:name":"Watsontown Business Forms",
     "wof:parent_id":85837713,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "printers-business"
     ]
 },
-  "bbox": [-76.85859,41.102422,-76.85859,41.102422],
-  "geometry": {"coordinates":[-76.85859,41.102422],"type":"Point"}
+  "bbox": [
+    -76.85859,
+    41.102422,
+    -76.85859,
+    41.102422
+],
+  "geometry": {"coordinates":[-76.85859000000001,41.102422],"type":"Point"}
 }

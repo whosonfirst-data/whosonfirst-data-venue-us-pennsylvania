@@ -2,13 +2,14 @@
   "id": 387941961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.212196,40.2033,-77.212196,40.2033",
     "geom:latitude":40.2033,
     "geom:longitude":-77.212196,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"837 Newville Rd",
     "sg:city":"Carlisle",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85865395,
+        102191575,
+        404486423,
         85633793,
         101719085,
         102081359,
-        85865395
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"1859c78001a097771ae2ad47d497bdb0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081359,
+            "localadmin_id":404486423,
             "locality_id":101719085,
             "neighbourhood_id":85865395,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387941961,
-    "wof:lastmodified":1449058385,
+    "wof:lastmodified":1454360766,
     "wof:name":"Galbraith's Accounting & Tax Service",
     "wof:parent_id":85865395,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "accountant"
     ]
 },
-  "bbox": [-77.212196,40.2033,-77.212196,40.2033],
-  "geometry": {"coordinates":[-77.212196,40.2033],"type":"Point"}
+  "bbox": [
+    -77.212196,
+    40.2033,
+    -77.212196,
+    40.2033
+],
+  "geometry": {"coordinates":[-77.21219600000001,40.2033],"type":"Point"}
 }

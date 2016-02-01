@@ -2,13 +2,14 @@
   "id": 387537523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.223522,40.183255,-80.223522,40.183255",
     "geom:latitude":40.183255,
     "geom:longitude":-80.223522,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"30 Trinity Point Dr",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -34,8 +35,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081343,
-        85832105
+        85832105,
+        102081343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +46,15 @@
     "wof:geomhash":"8dd046384698783edefc090c7e9a767e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081343,
-            "locality_id":-1,
             "neighbourhood_id":85832105,
             "region_id":85688481,
             "venue_id":387537523
         }
     ],
     "wof:id":387537523,
-    "wof:lastmodified":1449057040,
+    "wof:lastmodified":1454358791,
     "wof:name":"Jackson Hewitt Tax Service",
     "wof:parent_id":85832105,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "taxes-consultants"
     ]
 },
-  "bbox": [-80.223522,40.183255,-80.223522,40.183255],
+  "bbox": [
+    -80.223522,
+    40.183255,
+    -80.223522,
+    40.183255
+],
   "geometry": {"coordinates":[-80.223522,40.183255],"type":"Point"}
 }

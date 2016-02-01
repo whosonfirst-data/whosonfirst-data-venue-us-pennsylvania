@@ -2,13 +2,14 @@
   "id": 387279523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.958199,40.471359,-79.958199,40.471359",
     "geom:latitude":40.471359,
     "geom:longitude":-79.958199,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"240 45th St",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85830015,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85830015
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"fcc8b7754b0d0f50e6bb9266508d9f6e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85830015,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387279523,
-    "wof:lastmodified":1449057850,
+    "wof:lastmodified":1454360614,
     "wof:name":"Barkley Hauling Company",
     "wof:parent_id":85830015,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "hauling"
     ]
 },
-  "bbox": [-79.958199,40.471359,-79.958199,40.471359],
-  "geometry": {"coordinates":[-79.958199,40.471359],"type":"Point"}
+  "bbox": [
+    -79.958199,
+    40.471359,
+    -79.958199,
+    40.471359
+],
+  "geometry": {"coordinates":[-79.95819899999999,40.471359],"type":"Point"}
 }

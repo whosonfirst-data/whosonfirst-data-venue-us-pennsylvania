@@ -2,13 +2,14 @@
   "id": 387958493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.603707,40.152387,-76.603707,40.152387",
     "geom:latitude":40.152387,
     "geom:longitude":-76.603707,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"153 E High St Ste 101",
     "sg:city":"Elizabethtown",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85836929
+        85836929,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"d25cbf068495a8196aeb4e5e085706da",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85836929,
             "region_id":85688481,
             "venue_id":387958493
         }
     ],
     "wof:id":387958493,
-    "wof:lastmodified":1449059072,
+    "wof:lastmodified":1454360974,
     "wof:name":"The Homestead Realty Group Inc",
     "wof:parent_id":85836929,
     "wof:placetype":"venue",
@@ -66,6 +65,11 @@
         "management"
     ]
 },
-  "bbox": [-76.603707,40.152387,-76.603707,40.152387],
+  "bbox": [
+    -76.603707,
+    40.152387,
+    -76.603707,
+    40.152387
+],
   "geometry": {"coordinates":[-76.603707,40.152387],"type":"Point"}
 }

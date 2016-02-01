@@ -2,13 +2,14 @@
   "id": 387372419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.99732,40.439157,-79.99732,40.439157",
     "geom:latitude":40.439157,
     "geom:longitude":-79.99732,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"437 Grant St",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85873585,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85873585
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"e0d12d0b7447e1dd0c92644b4cbf8f30",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85873585,
             "region_id":85688481,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":387372419,
-    "wof:lastmodified":1449058415,
+    "wof:lastmodified":1454360775,
     "wof:name":"American Business Center Inc",
     "wof:parent_id":85873585,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.99732,40.439157,-79.99732,40.439157],
+  "bbox": [
+    -79.99732,
+    40.439157,
+    -79.99732,
+    40.439157
+],
   "geometry": {"coordinates":[-79.99732,40.439157],"type":"Point"}
 }

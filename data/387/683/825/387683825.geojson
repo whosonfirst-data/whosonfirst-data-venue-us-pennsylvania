@@ -2,13 +2,14 @@
   "id": 387683825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.919182,40.308071,-78.919182,40.308071",
     "geom:latitude":40.308071,
     "geom:longitude":-78.919182,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"901 Menoher Blvd",
     "sg:city":"Johnstown",
     "sg:classifiers":[
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420537013,
+        102191575,
+        404485091,
         85633793,
-        101717783,
-        102080879
+        101717763,
+        102080879,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,20 @@
     "wof:geomhash":"6ffd93037bf67c274a0498db60e45c34",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080879,
-            "locality_id":101717783,
-            "neighbourhood_id":-1,
+            "localadmin_id":404485091,
+            "locality_id":101717763,
+            "neighbourhood_id":420537013,
             "region_id":85688481,
             "venue_id":387683825
         }
     ],
     "wof:id":387683825,
-    "wof:lastmodified":1449057501,
+    "wof:lastmodified":1454359548,
     "wof:name":"Indiana First Savings Bank",
-    "wof:parent_id":-1,
+    "wof:parent_id":420537013,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -69,6 +74,11 @@
         "saving"
     ]
 },
-  "bbox": [-78.919182,40.308071,-78.919182,40.308071],
-  "geometry": {"coordinates":[-78.919182,40.308071],"type":"Point"}
+  "bbox": [
+    -78.919182,
+    40.308071,
+    -78.919182,
+    40.308071
+],
+  "geometry": {"coordinates":[-78.91918200000001,40.308071],"type":"Point"}
 }

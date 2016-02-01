@@ -2,13 +2,14 @@
   "id": 387898247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.284898,41.533565,-77.284898,41.533565",
     "geom:latitude":41.533565,
     "geom:longitude":-77.284898,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"23573 Route 287",
     "sg:city":"Morris",
     "sg:classifiers":[
@@ -39,8 +40,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081317,
-        85810013
+        85810013,
+        102081317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,17 +51,15 @@
     "wof:geomhash":"3a2882a7581a97ae2721dfe396d146fb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081317,
-            "locality_id":-1,
             "neighbourhood_id":85810013,
             "region_id":85688481,
             "venue_id":387898247
         }
     ],
     "wof:id":387898247,
-    "wof:lastmodified":1449056035,
+    "wof:lastmodified":1454358028,
     "wof:name":"Oregon Hill Wine Co Inc",
     "wof:parent_id":85810013,
     "wof:placetype":"venue",
@@ -70,6 +69,11 @@
         "broker"
     ]
 },
-  "bbox": [-77.284898,41.533565,-77.284898,41.533565],
+  "bbox": [
+    -77.284898,
+    41.533565,
+    -77.284898,
+    41.533565
+],
   "geometry": {"coordinates":[-77.284898,41.533565],"type":"Point"}
 }

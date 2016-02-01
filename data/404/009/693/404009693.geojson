@@ -2,13 +2,14 @@
   "id": 404009693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.734132,39.959343,-76.734132,39.959343",
     "geom:latitude":39.959343,
     "geom:longitude":-76.734132,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"56 S Newberry St",
     "sg:city":"York",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85833149,
+        102191575,
+        404488029,
         85633793,
+        101717279,
         102080953,
-        85833149
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +44,18 @@
     "wof:geomhash":"29a2c43e08b57b38ff017cf84a456487",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
+            "localadmin_id":404488029,
+            "locality_id":101717279,
             "neighbourhood_id":85833149,
             "region_id":85688481,
             "venue_id":404009693
         }
     ],
     "wof:id":404009693,
-    "wof:lastmodified":1449040308,
+    "wof:lastmodified":1454357125,
     "wof:name":"Rowe King's Commercial Cleaning Inc",
     "wof:parent_id":85833149,
     "wof:placetype":"venue",
@@ -60,6 +65,11 @@
         "janitorial"
     ]
 },
-  "bbox": [-76.734132,39.959343,-76.734132,39.959343],
+  "bbox": [
+    -76.734132,
+    39.959343,
+    -76.734132,
+    39.959343
+],
   "geometry": {"coordinates":[-76.734132,39.959343],"type":"Point"}
 }

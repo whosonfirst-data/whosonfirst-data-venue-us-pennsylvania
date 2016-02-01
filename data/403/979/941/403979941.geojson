@@ -2,13 +2,14 @@
   "id": 403979941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.385943,39.773034,-77.385943,39.773034",
     "geom:latitude":39.773034,
     "geom:longitude":-77.385943,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"7 Field Trl",
     "sg:city":"Fairfield",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85827223,
+        102191575,
+        404484791,
         85633793,
         101718869,
         102080899,
-        85827223
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"5a22e589d116359c9cb9d4c30bd1fd8b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080899,
+            "localadmin_id":404484791,
             "locality_id":101718869,
             "neighbourhood_id":85827223,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":403979941,
-    "wof:lastmodified":1449055550,
+    "wof:lastmodified":1454357741,
     "wof:name":"Deardorff Drafting",
     "wof:parent_id":85827223,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "drafting"
     ]
 },
-  "bbox": [-77.385943,39.773034,-77.385943,39.773034],
+  "bbox": [
+    -77.385943,
+    39.773034,
+    -77.385943,
+    39.773034
+],
   "geometry": {"coordinates":[-77.385943,39.773034],"type":"Point"}
 }

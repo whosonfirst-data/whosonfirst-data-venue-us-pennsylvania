@@ -2,13 +2,14 @@
   "id": 387101767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.33008,40.684189,-80.33008,40.684189",
     "geom:latitude":40.684189,
     "geom:longitude":-80.33008,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"457 State Ave",
     "sg:city":"Beaver",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081323,
-        85827637
+        85827637,
+        102081323
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"affce3631e47583561954d29b8991232",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081323,
-            "locality_id":-1,
             "neighbourhood_id":85827637,
             "region_id":85688481,
             "venue_id":387101767
         }
     ],
     "wof:id":387101767,
-    "wof:lastmodified":1449058107,
+    "wof:lastmodified":1454360683,
     "wof:name":"Tempest Group",
     "wof:parent_id":85827637,
     "wof:placetype":"venue",
@@ -66,6 +65,11 @@
         "management"
     ]
 },
-  "bbox": [-80.33008,40.684189,-80.33008,40.684189],
+  "bbox": [
+    -80.33008,
+    40.684189,
+    -80.33008,
+    40.684189
+],
   "geometry": {"coordinates":[-80.33008,40.684189],"type":"Point"}
 }

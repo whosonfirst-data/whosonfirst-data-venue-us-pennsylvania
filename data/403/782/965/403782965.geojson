@@ -2,13 +2,14 @@
   "id": 403782965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.867599,40.228401,-76.867599,40.228401",
     "geom:latitude":40.228401,
     "geom:longitude":-76.867599,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"503 Bridge St",
     "sg:city":"New Cumberland",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85802785,
+        102191575,
+        404486419,
         85633793,
-        101719079,
+        101716757,
         102081359,
-        85802785
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"52c05b38d5af32a942c3e379c901bd53",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081359,
-            "locality_id":101719079,
+            "localadmin_id":404486419,
+            "locality_id":101716757,
             "neighbourhood_id":85802785,
             "region_id":85688481,
             "venue_id":403782965
         }
     ],
     "wof:id":403782965,
-    "wof:lastmodified":1449054624,
+    "wof:lastmodified":1454357178,
     "wof:name":"Holy Spirit Health System Family Health Centers",
     "wof:parent_id":85802785,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "family"
     ]
 },
-  "bbox": [-76.867599,40.228401,-76.867599,40.228401],
+  "bbox": [
+    -76.867599,
+    40.228401,
+    -76.867599,
+    40.228401
+],
   "geometry": {"coordinates":[-76.867599,40.228401],"type":"Point"}
 }

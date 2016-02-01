@@ -2,13 +2,14 @@
   "id": 404084885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.212837,40.051266,-76.212837,40.051266",
     "geom:latitude":40.051266,
     "geom:longitude":-76.212837,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"474 Mount Sidney Rd",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -43,8 +44,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85823025
+        85823025,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,17 +55,15 @@
     "wof:geomhash":"cbfeb0fb5d5a73108b52fadf0e317e22",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85823025,
             "region_id":85688481,
             "venue_id":404084885
         }
     ],
     "wof:id":404084885,
-    "wof:lastmodified":1449039146,
+    "wof:lastmodified":1454356474,
     "wof:name":"Elam G. Stoltzfus Jr., Inc.",
     "wof:parent_id":85823025,
     "wof:placetype":"venue",
@@ -78,6 +77,11 @@
         "contractor"
     ]
 },
-  "bbox": [-76.212837,40.051266,-76.212837,40.051266],
-  "geometry": {"coordinates":[-76.212837,40.051266],"type":"Point"}
+  "bbox": [
+    -76.212837,
+    40.051266,
+    -76.212837,
+    40.051266
+],
+  "geometry": {"coordinates":[-76.21283699999999,40.051266],"type":"Point"}
 }

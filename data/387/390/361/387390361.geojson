@@ -2,13 +2,14 @@
   "id": 387390361,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.066418,40.393016,-80.066418,40.393016",
     "geom:latitude":40.393016,
     "geom:longitude":-80.066418,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2025 Greentree Rd Suite 201",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -38,8 +39,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85859075
+        85859075,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +50,15 @@
     "wof:geomhash":"9980a77161d01610f3ed0b23acd92931",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85859075,
             "region_id":85688481,
             "venue_id":387390361
         }
     ],
     "wof:id":387390361,
-    "wof:lastmodified":1449059959,
+    "wof:lastmodified":1454361244,
     "wof:name":"Windham & Leibovich PC",
     "wof:parent_id":85859075,
     "wof:placetype":"venue",
@@ -72,6 +71,11 @@
         "psychotherapist"
     ]
 },
-  "bbox": [-80.066418,40.393016,-80.066418,40.393016],
+  "bbox": [
+    -80.066418,
+    40.393016,
+    -80.066418,
+    40.393016
+],
   "geometry": {"coordinates":[-80.066418,40.393016],"type":"Point"}
 }

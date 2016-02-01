@@ -2,13 +2,14 @@
   "id": 387094557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.241489,40.638406,-80.241489,40.638406",
     "geom:latitude":40.638406,
     "geom:longitude":-80.241489,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"243 3rd St",
     "sg:city":"Aliquippa",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85808703,
+        102191575,
+        404482583,
         85633793,
         101718403,
         102081323,
-        85808703
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"194f16767329ae2682a4154425ed7da4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081323,
+            "localadmin_id":404482583,
             "locality_id":101718403,
             "neighbourhood_id":85808703,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387094557,
-    "wof:lastmodified":1449058492,
+    "wof:lastmodified":1454360798,
     "wof:name":"Pippy's Corner Grill",
     "wof:parent_id":85808703,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "bar"
     ]
 },
-  "bbox": [-80.241489,40.638406,-80.241489,40.638406],
+  "bbox": [
+    -80.241489,
+    40.638406,
+    -80.241489,
+    40.638406
+],
   "geometry": {"coordinates":[-80.241489,40.638406],"type":"Point"}
 }

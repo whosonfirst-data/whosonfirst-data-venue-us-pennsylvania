@@ -2,13 +2,14 @@
   "id": 387873323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.776625,40.847236,-77.776625,40.847236",
     "geom:latitude":40.847236,
     "geom:longitude":-77.776625,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1821 W College Ave",
     "sg:city":"State College",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081369,
-        85813359
+        85813359,
+        102081369
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"0cc39ac066011788a323b7d243e4712c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081369,
-            "locality_id":-1,
             "neighbourhood_id":85813359,
             "region_id":85688481,
             "venue_id":387873323
         }
     ],
     "wof:id":387873323,
-    "wof:lastmodified":1449056894,
+    "wof:lastmodified":1454358684,
     "wof:name":"National Furniture Wholesalers",
     "wof:parent_id":85813359,
     "wof:placetype":"venue",
@@ -61,6 +60,11 @@
         "store"
     ]
 },
-  "bbox": [-77.776625,40.847236,-77.776625,40.847236],
+  "bbox": [
+    -77.776625,
+    40.847236,
+    -77.776625,
+    40.847236
+],
   "geometry": {"coordinates":[-77.776625,40.847236],"type":"Point"}
 }

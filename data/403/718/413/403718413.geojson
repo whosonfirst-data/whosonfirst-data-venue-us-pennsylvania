@@ -2,13 +2,14 @@
   "id": 403718413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.396271,40.331805,-76.396271,40.331805",
     "geom:latitude":40.331805,
     "geom:longitude":-76.396271,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"700 S 5th Ave",
     "sg:city":"Lebanon",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85824511,
+        102191575,
+        404485817,
         85633793,
-        101719403,
+        101719375,
         102081341,
-        85824511
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"fcd1b1b6592e2564a87d3cd1388bc7a3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081341,
-            "locality_id":101719403,
+            "localadmin_id":404485817,
+            "locality_id":101719375,
             "neighbourhood_id":85824511,
             "region_id":85688481,
             "venue_id":403718413
         }
     ],
     "wof:id":403718413,
-    "wof:lastmodified":1449054930,
+    "wof:lastmodified":1454357370,
     "wof:name":"Pa Lighting & Grip Equipment",
     "wof:parent_id":85824511,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-76.396271,40.331805,-76.396271,40.331805],
+  "bbox": [
+    -76.396271,
+    40.331805,
+    -76.396271,
+    40.331805
+],
   "geometry": {"coordinates":[-76.396271,40.331805],"type":"Point"}
 }

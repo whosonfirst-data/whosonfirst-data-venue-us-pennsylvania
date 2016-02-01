@@ -2,13 +2,14 @@
   "id": 387241961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.210927,40.501366,-80.210927,40.501366",
     "geom:latitude":40.501366,
     "geom:longitude":-80.210927,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"400 Rouser Rd Ste 600",
     "sg:city":"Coraopolis",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"http://www.alumag.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85809567,
+        102191575,
+        404484137,
         85633793,
         101720527,
         102080887,
-        85809567
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"2ddc5ea894151800f88ffa026091af63",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484137,
             "locality_id":101720527,
             "neighbourhood_id":85809567,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387241961,
-    "wof:lastmodified":1449059821,
+    "wof:lastmodified":1454361201,
     "wof:name":"Sapa Extrusions, Inc.",
     "wof:parent_id":85809567,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "aluminum"
     ]
 },
-  "bbox": [-80.210927,40.501366,-80.210927,40.501366],
+  "bbox": [
+    -80.210927,
+    40.501366,
+    -80.210927,
+    40.501366
+],
   "geometry": {"coordinates":[-80.210927,40.501366],"type":"Point"}
 }

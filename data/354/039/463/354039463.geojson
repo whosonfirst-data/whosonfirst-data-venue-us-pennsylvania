@@ -2,13 +2,14 @@
   "id": 354039463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.957938,39.640751,-75.957938,39.640751",
     "geom:latitude":39.640751,
     "geom:longitude":-75.957938,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1 Seahawk Dr",
     "sg:city":"North East",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081275,
-        85810983
+        85810983,
+        102081275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"7ca1300f18b0cc1f9d4b0daed78a65a4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081275,
-            "locality_id":-1,
             "neighbourhood_id":85810983,
             "region_id":85688481,
             "venue_id":354039463
         }
     ],
     "wof:id":354039463,
-    "wof:lastmodified":1449067452,
+    "wof:lastmodified":1454361271,
     "wof:name":"Conference Center At Cecil",
     "wof:parent_id":85810983,
     "wof:placetype":"venue",
@@ -64,6 +63,11 @@
         "facility"
     ]
 },
-  "bbox": [-75.957938,39.640751,-75.957938,39.640751],
+  "bbox": [
+    -75.957938,
+    39.640751,
+    -75.957938,
+    39.640751
+],
   "geometry": {"coordinates":[-75.957938,39.640751],"type":"Point"}
 }

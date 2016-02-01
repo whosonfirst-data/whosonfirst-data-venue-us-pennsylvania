@@ -2,13 +2,14 @@
   "id": 387233301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.083,40.3983,-80.083,40.3983",
     "geom:latitude":40.3983,
     "geom:longitude":-80.083,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1061 Washington Ave",
     "sg:city":"Carnegie",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     "sg:website":"www.cvs.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85821875,
+        102191575,
+        404484865,
         85633793,
         101718775,
         102080887,
-        85821875
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"8f1102c47f7326976e4e63b68eebff89",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484865,
             "locality_id":101718775,
             "neighbourhood_id":85821875,
             "region_id":85688481,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":387233301,
-    "wof:lastmodified":1449059983,
+    "wof:lastmodified":1454361253,
     "wof:name":"Cvs/Pharmacy",
     "wof:parent_id":85821875,
     "wof:placetype":"venue",
@@ -71,6 +75,11 @@
         "store"
     ]
 },
-  "bbox": [-80.083,40.3983,-80.083,40.3983],
+  "bbox": [
+    -80.083,
+    40.3983,
+    -80.083,
+    40.3983
+],
   "geometry": {"coordinates":[-80.083,40.3983],"type":"Point"}
 }

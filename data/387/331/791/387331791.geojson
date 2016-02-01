@@ -2,13 +2,14 @@
   "id": 387331791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.027496,40.397701,-80.027496,40.397701",
     "geom:latitude":40.397701,
     "geom:longitude":-80.027496,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2685 W Liberty Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -35,10 +36,13 @@
     "sg:website":"www.billgray.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85807877,
+        102191575,
+        404482523,
         85633793,
+        101718805,
         102080887,
-        85807877
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +52,18 @@
     "wof:geomhash":"66863cbfd1e030a8dcd7e64508876d0a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
+            "localadmin_id":404482523,
+            "locality_id":101718805,
             "neighbourhood_id":85807877,
             "region_id":85688481,
             "venue_id":387331791
         }
     ],
     "wof:id":387331791,
-    "wof:lastmodified":1449058418,
+    "wof:lastmodified":1454360776,
     "wof:name":"Bill Gray Automotive",
     "wof:parent_id":85807877,
     "wof:placetype":"venue",
@@ -70,6 +75,11 @@
         "car"
     ]
 },
-  "bbox": [-80.027496,40.397701,-80.027496,40.397701],
+  "bbox": [
+    -80.027496,
+    40.397701,
+    -80.027496,
+    40.397701
+],
   "geometry": {"coordinates":[-80.027496,40.397701],"type":"Point"}
 }

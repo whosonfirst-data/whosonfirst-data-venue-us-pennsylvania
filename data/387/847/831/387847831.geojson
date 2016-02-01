@@ -2,13 +2,14 @@
   "id": 387847831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.403421,40.519919,-78.403421,40.519919",
     "geom:latitude":40.519919,
     "geom:longitude":-78.403421,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1116 16th Ave",
     "sg:city":"Altoona",
     "sg:classifiers":[
@@ -36,11 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85818685,
+        102191575,
+        404484619,
         85633793,
         101716595,
         102081325,
-        85818685
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,9 +53,10 @@
     "wof:geomhash":"915eb8f8b9640cad9dfd329ae39605d7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081325,
+            "localadmin_id":404484619,
             "locality_id":101716595,
             "neighbourhood_id":85818685,
             "region_id":85688481,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":387847831,
-    "wof:lastmodified":1449057483,
+    "wof:lastmodified":1454359156,
     "wof:name":"Cleaning A L S Custom",
     "wof:parent_id":85818685,
     "wof:placetype":"venue",
@@ -74,6 +78,11 @@
         "house"
     ]
 },
-  "bbox": [-78.403421,40.519919,-78.403421,40.519919],
-  "geometry": {"coordinates":[-78.403421,40.519919],"type":"Point"}
+  "bbox": [
+    -78.403421,
+    40.519919,
+    -78.403421,
+    40.519919
+],
+  "geometry": {"coordinates":[-78.40342099999999,40.519919],"type":"Point"}
 }

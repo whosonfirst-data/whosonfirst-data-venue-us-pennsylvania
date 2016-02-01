@@ -2,13 +2,14 @@
   "id": 403970905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.380203,39.896332,-77.380203,39.896332",
     "geom:latitude":39.896332,
     "geom:longitude":-77.380203,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4587 Chambersburg Rd",
     "sg:city":"Biglerville",
     "sg:classifiers":[
@@ -34,8 +35,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080899,
-        85825673
+        85825673,
+        102080899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +46,15 @@
     "wof:geomhash":"7708d75e540dbebdb2bfcfa2496a2a43",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080899,
-            "locality_id":-1,
             "neighbourhood_id":85825673,
             "region_id":85688481,
             "venue_id":403970905
         }
     ],
     "wof:id":403970905,
-    "wof:lastmodified":1449055930,
+    "wof:lastmodified":1454357955,
     "wof:name":"Roosters Pub",
     "wof:parent_id":85825673,
     "wof:placetype":"venue",
@@ -65,6 +64,11 @@
         "cocktail"
     ]
 },
-  "bbox": [-77.380203,39.896332,-77.380203,39.896332],
-  "geometry": {"coordinates":[-77.380203,39.896332],"type":"Point"}
+  "bbox": [
+    -77.380203,
+    39.896332,
+    -77.380203,
+    39.896332
+],
+  "geometry": {"coordinates":[-77.38020299999999,39.896332],"type":"Point"}
 }

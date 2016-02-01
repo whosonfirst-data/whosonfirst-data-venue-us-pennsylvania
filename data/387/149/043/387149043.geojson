@@ -2,13 +2,14 @@
   "id": 387149043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.946327,40.616407,-79.946327,40.616407",
     "geom:latitude":40.616407,
     "geom:longitude":-79.946327,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5312 William Flynn Hwy",
     "sg:city":"Gibsonia",
     "sg:classifiers":[
@@ -52,7 +53,12 @@
     "sg:website":"http://www.advanceautoparts.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420536325,
+        102191575,
+        404484173,
         85633793,
+        101720497,
+        102080887,
         85688481
     ],
     "wof:breaches":[],
@@ -63,18 +69,20 @@
     "wof:geomhash":"8a34c226bc2b4dd77e7c93062ad3c51d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102080887,
+            "localadmin_id":404484173,
+            "locality_id":101720497,
+            "neighbourhood_id":420536325,
             "region_id":85688481,
             "venue_id":387149043
         }
     ],
     "wof:id":387149043,
-    "wof:lastmodified":1449056122,
+    "wof:lastmodified":1454358099,
     "wof:name":"Advance Auto Parts",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536325,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -91,6 +99,11 @@
         "batteries-storage"
     ]
 },
-  "bbox": [-79.946327,40.616407,-79.946327,40.616407],
+  "bbox": [
+    -79.946327,
+    40.616407,
+    -79.946327,
+    40.616407
+],
   "geometry": {"coordinates":[-79.946327,40.616407],"type":"Point"}
 }

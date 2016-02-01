@@ -2,13 +2,14 @@
   "id": 387496563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.994971,40.554409,-79.994971,40.554409",
     "geom:latitude":40.554409,
     "geom:longitude":-79.994971,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"7072 Bennington Woods Dr",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85805835
+        85805835,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"19b5cce227e6ae5c95b064cfb7649cca",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85805835,
             "region_id":85688481,
             "venue_id":387496563
         }
     ],
     "wof:id":387496563,
-    "wof:lastmodified":1449059348,
+    "wof:lastmodified":1454361048,
     "wof:name":"Neuroscience Education And Research Fund",
     "wof:parent_id":85805835,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "laboratories-research"
     ]
 },
-  "bbox": [-79.994971,40.554409,-79.994971,40.554409],
-  "geometry": {"coordinates":[-79.994971,40.554409],"type":"Point"}
+  "bbox": [
+    -79.994971,
+    40.554409,
+    -79.994971,
+    40.554409
+],
+  "geometry": {"coordinates":[-79.99497100000001,40.554409],"type":"Point"}
 }

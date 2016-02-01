@@ -2,13 +2,14 @@
   "id": 387164119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.890623,40.162182,-79.890623,40.162182",
     "geom:latitude":40.162182,
     "geom:longitude":-79.890623,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"848 Donner Ave Apt 848",
     "sg:city":"Monessen",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85817735,
+        102191575,
+        404487505,
         85633793,
         101717153,
         102081383,
-        85817735
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"d4aa81083871db99c8a871a1babfd29a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081383,
+            "localadmin_id":404487505,
             "locality_id":101717153,
             "neighbourhood_id":85817735,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387164119,
-    "wof:lastmodified":1449056563,
+    "wof:lastmodified":1454358438,
     "wof:name":"Westgate Manor",
     "wof:parent_id":85817735,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-79.890623,40.162182,-79.890623,40.162182],
-  "geometry": {"coordinates":[-79.890623,40.162182],"type":"Point"}
+  "bbox": [
+    -79.890623,
+    40.162182,
+    -79.890623,
+    40.162182
+],
+  "geometry": {"coordinates":[-79.89062300000001,40.162182],"type":"Point"}
 }

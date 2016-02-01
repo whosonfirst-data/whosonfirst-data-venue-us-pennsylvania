@@ -2,13 +2,14 @@
   "id": 403906735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.713179,40.351282,-76.713179,40.351282",
     "geom:latitude":40.351282,
     "geom:longitude":-76.713179,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"252 N Hershey Rd",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -36,11 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85848911,
+        102191575,
+        404486315,
         85633793,
         101719829,
         102081347,
-        85848911
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,9 +53,10 @@
     "wof:geomhash":"b376d224faec92ea9a67fb3e9f5e72ec",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
+            "localadmin_id":404486315,
             "locality_id":101719829,
             "neighbourhood_id":85848911,
             "region_id":85688481,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":403906735,
-    "wof:lastmodified":1449055131,
+    "wof:lastmodified":1454357487,
     "wof:name":"D And K Auto Body Shop",
     "wof:parent_id":85848911,
     "wof:placetype":"venue",
@@ -74,6 +78,11 @@
         "repairing"
     ]
 },
-  "bbox": [-76.713179,40.351282,-76.713179,40.351282],
+  "bbox": [
+    -76.713179,
+    40.351282,
+    -76.713179,
+    40.351282
+],
   "geometry": {"coordinates":[-76.713179,40.351282],"type":"Point"}
 }

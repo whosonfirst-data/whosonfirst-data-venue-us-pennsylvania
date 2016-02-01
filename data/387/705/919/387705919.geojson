@@ -2,13 +2,14 @@
   "id": 387705919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.91431,41.104423,-79.91431,41.104423",
     "geom:latitude":41.104423,
     "geom:longitude":-79.91431,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"119 Oakwood Rd",
     "sg:city":"Boyers",
     "sg:classifiers":[
@@ -51,8 +52,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102083677,
-        85848295
+        85848295,
+        102083677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,17 +63,15 @@
     "wof:geomhash":"a402a2a7a933dffdb265e0a53f0617a8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102083677,
-            "locality_id":-1,
             "neighbourhood_id":85848295,
             "region_id":85688481,
             "venue_id":387705919
         }
     ],
     "wof:id":387705919,
-    "wof:lastmodified":1449059942,
+    "wof:lastmodified":1454361239,
     "wof:name":"Boyers Sports Supply",
     "wof:parent_id":85848295,
     "wof:placetype":"venue",
@@ -89,6 +88,11 @@
         "bicycles-renting"
     ]
 },
-  "bbox": [-79.91431,41.104423,-79.91431,41.104423],
+  "bbox": [
+    -79.91431,
+    41.104423,
+    -79.91431,
+    41.104423
+],
   "geometry": {"coordinates":[-79.91431,41.104423],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387838555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.06321,42.137983,-80.06321,42.137983",
     "geom:latitude":42.137983,
     "geom:longitude":-80.06321,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1002 E Lake Rd",
     "sg:city":"Erie",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85822031,
+        102191575,
+        404486673,
         85633793,
         101718253,
         102080955,
-        85822031
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"908d3b002ed60f769c0e3f1f84cbac3e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080955,
+            "localadmin_id":404486673,
             "locality_id":101718253,
             "neighbourhood_id":85822031,
             "region_id":85688481,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":387838555,
-    "wof:lastmodified":1449056572,
+    "wof:lastmodified":1454358445,
     "wof:name":"Rosewood Apartments Inc",
     "wof:parent_id":85822031,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "community"
     ]
 },
-  "bbox": [-80.06321,42.137983,-80.06321,42.137983],
+  "bbox": [
+    -80.06321,
+    42.137983,
+    -80.06321,
+    42.137983
+],
   "geometry": {"coordinates":[-80.06321,42.137983],"type":"Point"}
 }

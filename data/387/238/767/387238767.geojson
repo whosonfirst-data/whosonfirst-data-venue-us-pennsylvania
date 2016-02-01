@@ -2,13 +2,14 @@
   "id": 387238767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.086502,40.395401,-80.086502,40.395401",
     "geom:latitude":40.395401,
     "geom:longitude":-80.086502,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"718 Hope Hollow Rd",
     "sg:city":"Carnegie",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85821875,
+        102191575,
+        404484865,
         85633793,
         101718775,
         102080887,
-        85821875
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"5f0937fec224e38ff1d13a1d31dd5778",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484865,
             "locality_id":101718775,
             "neighbourhood_id":85821875,
             "region_id":85688481,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":387238767,
-    "wof:lastmodified":1449057531,
+    "wof:lastmodified":1454360234,
     "wof:name":"E W Tire & Service Center",
     "wof:parent_id":85821875,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.086502,40.395401,-80.086502,40.395401],
+  "bbox": [
+    -80.086502,
+    40.395401,
+    -80.086502,
+    40.395401
+],
   "geometry": {"coordinates":[-80.086502,40.395401],"type":"Point"}
 }

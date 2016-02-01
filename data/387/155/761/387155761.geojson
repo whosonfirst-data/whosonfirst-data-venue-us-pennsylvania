@@ -2,13 +2,14 @@
   "id": 387155761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.892461,40.324174,-79.892461,40.324174",
     "geom:latitude":40.324174,
     "geom:longitude":-79.892461,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"710 Monongahela Ave",
     "sg:city":"Glassport",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536347,
+        102191575,
+        404484873,
         85633793,
-        101718679,
-        102080887
+        101718753,
+        102080887,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"d90e131a5d364a66c433e96f5d680805",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":101718679,
-            "neighbourhood_id":-1,
+            "localadmin_id":404484873,
+            "locality_id":101718753,
+            "neighbourhood_id":420536347,
             "region_id":85688481,
             "venue_id":387155761
         }
     ],
     "wof:id":387155761,
-    "wof:lastmodified":1449059257,
+    "wof:lastmodified":1454361027,
     "wof:name":"Hub Caps By Chuck & Sons",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536347,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "accessory"
     ]
 },
-  "bbox": [-79.892461,40.324174,-79.892461,40.324174],
+  "bbox": [
+    -79.892461,
+    40.324174,
+    -79.892461,
+    40.324174
+],
   "geometry": {"coordinates":[-79.892461,40.324174],"type":"Point"}
 }

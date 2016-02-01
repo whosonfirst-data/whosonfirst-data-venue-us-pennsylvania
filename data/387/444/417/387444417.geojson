@@ -2,13 +2,14 @@
   "id": 387444417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.068199,40.360401,-80.068199,40.360401",
     "geom:latitude":40.360401,
     "geom:longitude":-80.068199,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1000 Painters Dr",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85805039
+        85805039,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"b0916cda97b5bcf2aad76c34d82feaf2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85805039,
             "region_id":85688481,
             "venue_id":387444417
         }
     ],
     "wof:id":387444417,
-    "wof:lastmodified":1449059402,
+    "wof:lastmodified":1454361070,
     "wof:name":"Painters Plaza Apartments",
     "wof:parent_id":85805039,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "apartment"
     ]
 },
-  "bbox": [-80.068199,40.360401,-80.068199,40.360401],
-  "geometry": {"coordinates":[-80.068199,40.360401],"type":"Point"}
+  "bbox": [
+    -80.068199,
+    40.360401,
+    -80.068199,
+    40.360401
+],
+  "geometry": {"coordinates":[-80.06819900000001,40.360401],"type":"Point"}
 }

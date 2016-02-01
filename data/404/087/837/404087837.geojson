@@ -2,13 +2,14 @@
   "id": 404087837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.222859,40.027764,-76.222859,40.027764",
     "geom:latitude":40.027764,
     "geom:longitude":-76.222859,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2208 Lincoln Hwy E",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -39,8 +40,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85823025
+        85823025,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,17 +51,15 @@
     "wof:geomhash":"781cbff6658c593318e434b3d9c8bd6b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85823025,
             "region_id":85688481,
             "venue_id":404087837
         }
     ],
     "wof:id":404087837,
-    "wof:lastmodified":1449039561,
+    "wof:lastmodified":1454356716,
     "wof:name":"Starbucks Coffee",
     "wof:parent_id":85823025,
     "wof:placetype":"venue",
@@ -74,6 +73,11 @@
         "restaurant"
     ]
 },
-  "bbox": [-76.222859,40.027764,-76.222859,40.027764],
+  "bbox": [
+    -76.222859,
+    40.027764,
+    -76.222859,
+    40.027764
+],
   "geometry": {"coordinates":[-76.222859,40.027764],"type":"Point"}
 }

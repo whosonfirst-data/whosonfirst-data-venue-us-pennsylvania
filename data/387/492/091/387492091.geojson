@@ -2,13 +2,14 @@
   "id": 387492091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.979118,40.338161,-79.979118,40.338161",
     "geom:latitude":40.338161,
     "geom:longitude":-79.979118,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5410 Keeport Dr",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -64,11 +65,13 @@
     "sg:website":"http://www.riteaid.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85839661,
+        102191575,
+        404484247,
         85633793,
         101718705,
         102080887,
-        85839661
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,9 +81,10 @@
     "wof:geomhash":"126b73df10b21a88e943f40e04c0af67",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484247,
             "locality_id":101718705,
             "neighbourhood_id":85839661,
             "region_id":85688481,
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":387492091,
-    "wof:lastmodified":1449056108,
+    "wof:lastmodified":1454358088,
     "wof:name":"Rite Aid",
     "wof:parent_id":85839661,
     "wof:placetype":"venue",
@@ -109,6 +113,11 @@
         "greeting"
     ]
 },
-  "bbox": [-79.979118,40.338161,-79.979118,40.338161],
+  "bbox": [
+    -79.979118,
+    40.338161,
+    -79.979118,
+    40.338161
+],
   "geometry": {"coordinates":[-79.979118,40.338161],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236623807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.497047,41.224382,-80.497047,41.224382",
     "geom:latitude":41.224382,
     "geom:longitude":-80.497047,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"500 Cedar Ave",
     "sg:city":"Sharon",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"OH",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420539011,
+        102191575,
+        404487969,
         85633793,
-        101718093,
-        102080965
+        101718115,
+        102080965,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"c4bfc610e865bf6df67a0b2b1dafdafb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080965,
-            "locality_id":101718093,
-            "neighbourhood_id":-1,
+            "localadmin_id":404487969,
+            "locality_id":101718115,
+            "neighbourhood_id":420539011,
             "region_id":85688481,
             "venue_id":236623807
         }
     ],
     "wof:id":236623807,
-    "wof:lastmodified":1449004066,
+    "wof:lastmodified":1454356362,
     "wof:name":"Musser II Head Start",
-    "wof:parent_id":-1,
+    "wof:parent_id":420539011,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.497047,41.224382,-80.497047,41.224382],
-  "geometry": {"coordinates":[-80.497047,41.224382],"type":"Point"}
+  "bbox": [
+    -80.497047,
+    41.224382,
+    -80.497047,
+    41.224382
+],
+  "geometry": {"coordinates":[-80.49704699999999,41.224382],"type":"Point"}
 }

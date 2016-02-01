@@ -2,13 +2,14 @@
   "id": 387283985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.979196,40.428055,-79.979196,40.428055",
     "geom:latitude":40.428055,
     "geom:longitude":-79.979196,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"105 S 19th St",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -39,11 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85850327,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85850327
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,9 +56,10 @@
     "wof:geomhash":"223a5e5841a048ec23191eb8e967680e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85850327,
             "region_id":85688481,
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":387283985,
-    "wof:lastmodified":1449057225,
+    "wof:lastmodified":1454358941,
     "wof:name":"Holy Assumption Of St Mary Chu",
     "wof:parent_id":85850327,
     "wof:placetype":"venue",
@@ -75,6 +79,11 @@
         "denomination"
     ]
 },
-  "bbox": [-79.979196,40.428055,-79.979196,40.428055],
+  "bbox": [
+    -79.979196,
+    40.428055,
+    -79.979196,
+    40.428055
+],
   "geometry": {"coordinates":[-79.979196,40.428055],"type":"Point"}
 }

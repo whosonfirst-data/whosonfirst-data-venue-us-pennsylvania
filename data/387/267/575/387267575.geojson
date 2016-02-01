@@ -2,13 +2,14 @@
   "id": 387267575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.103302,40.611698,-80.103302,40.611698",
     "geom:latitude":40.611698,
     "geom:longitude":-80.103302,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2523 Wexford Bayne Rd",
     "sg:city":"Sewickley",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85815367,
+        102191575,
+        404484933,
         85633793,
         101718681,
         102080887,
-        85815367
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"9ef94db8a4514b01b1226813711a62eb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484933,
             "locality_id":101718681,
             "neighbourhood_id":85815367,
             "region_id":85688481,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":387267575,
-    "wof:lastmodified":1449059572,
+    "wof:lastmodified":1454361122,
     "wof:name":"Misty Pines Dog Park Co",
     "wof:parent_id":85815367,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "sitting"
     ]
 },
-  "bbox": [-80.103302,40.611698,-80.103302,40.611698],
+  "bbox": [
+    -80.103302,
+    40.611698,
+    -80.103302,
+    40.611698
+],
   "geometry": {"coordinates":[-80.103302,40.611698],"type":"Point"}
 }

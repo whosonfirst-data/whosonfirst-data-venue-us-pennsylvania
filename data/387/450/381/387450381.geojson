@@ -2,13 +2,14 @@
   "id": 387450381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.045335,40.521722,-80.045335,40.521722",
     "geom:latitude":40.521722,
     "geom:longitude":-80.045335,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"420 Highland Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -37,8 +38,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85824969
+        85824969,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +49,15 @@
     "wof:geomhash":"eb34eb810ffb1ddda1c3c8f39286a700",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85824969,
             "region_id":85688481,
             "venue_id":387450381
         }
     ],
     "wof:id":387450381,
-    "wof:lastmodified":1449059340,
+    "wof:lastmodified":1454361045,
     "wof:name":"Vento's Pizza",
     "wof:parent_id":85824969,
     "wof:placetype":"venue",
@@ -70,6 +69,11 @@
         "pizza"
     ]
 },
-  "bbox": [-80.045335,40.521722,-80.045335,40.521722],
-  "geometry": {"coordinates":[-80.045335,40.521722],"type":"Point"}
+  "bbox": [
+    -80.045335,
+    40.521722,
+    -80.045335,
+    40.521722
+],
+  "geometry": {"coordinates":[-80.04533499999999,40.521722],"type":"Point"}
 }

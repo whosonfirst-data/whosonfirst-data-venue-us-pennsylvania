@@ -2,13 +2,14 @@
   "id": 387396147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.851057,40.431921,-79.851057,40.431921",
     "geom:latitude":40.431921,
     "geom:longitude":-79.851057,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"20 Carmel Ct",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[],
@@ -18,10 +19,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536333,
+        102191575,
+        404484859,
         85633793,
-        101718685,
-        102080887
+        101718785,
+        102080887,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -31,24 +35,30 @@
     "wof:geomhash":"f2a2f88c53ad3c4fff38fec6f473388c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":101718685,
-            "neighbourhood_id":-1,
+            "localadmin_id":404484859,
+            "locality_id":101718785,
+            "neighbourhood_id":420536333,
             "region_id":85688481,
             "venue_id":387396147
         }
     ],
     "wof:id":387396147,
-    "wof:lastmodified":1449058607,
+    "wof:lastmodified":1454360828,
     "wof:name":"Wissman's Forward Lanes",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536333,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.851057,40.431921,-79.851057,40.431921],
+  "bbox": [
+    -79.851057,
+    40.431921,
+    -79.851057,
+    40.431921
+],
   "geometry": {"coordinates":[-79.851057,40.431921],"type":"Point"}
 }

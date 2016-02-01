@@ -2,13 +2,14 @@
   "id": 387957319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.605082,40.150126,-76.605082,40.150126",
     "geom:latitude":40.150126,
     "geom:longitude":-76.605082,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"109 S Market St",
     "sg:city":"Elizabethtown",
     "sg:classifiers":[
@@ -53,8 +54,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85836929
+        85836929,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,17 +65,15 @@
     "wof:geomhash":"1451d83e586210630b37988737f281ab",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85836929,
             "region_id":85688481,
             "venue_id":387957319
         }
     ],
     "wof:id":387957319,
-    "wof:lastmodified":1449059358,
+    "wof:lastmodified":1454361055,
     "wof:name":"Pulse Direct, Inc.",
     "wof:parent_id":85836929,
     "wof:placetype":"venue",
@@ -92,6 +91,11 @@
         "plotting"
     ]
 },
-  "bbox": [-76.605082,40.150126,-76.605082,40.150126],
+  "bbox": [
+    -76.605082,
+    40.150126,
+    -76.605082,
+    40.150126
+],
   "geometry": {"coordinates":[-76.605082,40.150126],"type":"Point"}
 }

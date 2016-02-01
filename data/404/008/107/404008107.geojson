@@ -2,13 +2,14 @@
   "id": 404008107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.556084,40.036962,-76.556084,40.036962",
     "geom:latitude":40.036962,
     "geom:longitude":-76.556084,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"806 Grand Manor Dr",
     "sg:city":"Wrightsville",
     "sg:classifiers":[
@@ -45,8 +46,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080953,
-        85851267
+        85851267,
+        102080953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,17 +57,15 @@
     "wof:geomhash":"10082f61b1faae07979d5965a406e152",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
             "neighbourhood_id":85851267,
             "region_id":85688481,
             "venue_id":404008107
         }
     ],
     "wof:id":404008107,
-    "wof:lastmodified":1449039395,
+    "wof:lastmodified":1454356619,
     "wof:name":"Military Electronics Manufactu",
     "wof:parent_id":85851267,
     "wof:placetype":"venue",
@@ -81,6 +80,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-76.556084,40.036962,-76.556084,40.036962],
+  "bbox": [
+    -76.556084,
+    40.036962,
+    -76.556084,
+    40.036962
+],
   "geometry": {"coordinates":[-76.556084,40.036962],"type":"Point"}
 }

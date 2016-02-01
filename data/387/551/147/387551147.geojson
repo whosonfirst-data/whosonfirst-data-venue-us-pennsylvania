@@ -2,13 +2,14 @@
   "id": 387551147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.082199,40.269699,-80.082199,40.269699",
     "geom:latitude":40.269699,
     "geom:longitude":-80.082199,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"170 Simmons Rd",
     "sg:city":"Canonsburg",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081343,
-        85806851
+        85806851,
+        102081343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"ca1a4d0aeb44722b4ca84219558203f7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081343,
-            "locality_id":-1,
             "neighbourhood_id":85806851,
             "region_id":85688481,
             "venue_id":387551147
         }
     ],
     "wof:id":387551147,
-    "wof:lastmodified":1449056864,
+    "wof:lastmodified":1454358662,
     "wof:name":"Simmons Farm",
     "wof:parent_id":85806851,
     "wof:placetype":"venue",
@@ -61,6 +60,11 @@
         "veggie"
     ]
 },
-  "bbox": [-80.082199,40.269699,-80.082199,40.269699],
+  "bbox": [
+    -80.082199,
+    40.269699,
+    -80.082199,
+    40.269699
+],
   "geometry": {"coordinates":[-80.082199,40.269699],"type":"Point"}
 }

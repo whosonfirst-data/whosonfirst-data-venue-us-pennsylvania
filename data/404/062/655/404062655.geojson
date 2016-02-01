@@ -2,13 +2,14 @@
   "id": 404062655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.358107,40.17228,-76.358107,40.17228",
     "geom:latitude":40.17228,
     "geom:longitude":-76.358107,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"510 Indian Village Rd",
     "sg:city":"Manheim",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85853449
+        85853449,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"42c75dead14330706a606a3fc440eda6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85853449,
             "region_id":85688481,
             "venue_id":404062655
         }
     ],
     "wof:id":404062655,
-    "wof:lastmodified":1449040261,
+    "wof:lastmodified":1454357093,
     "wof:name":"Isaac Geib",
     "wof:parent_id":85853449,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "product"
     ]
 },
-  "bbox": [-76.358107,40.17228,-76.358107,40.17228],
+  "bbox": [
+    -76.358107,
+    40.17228,
+    -76.358107,
+    40.17228
+],
   "geometry": {"coordinates":[-76.358107,40.17228],"type":"Point"}
 }

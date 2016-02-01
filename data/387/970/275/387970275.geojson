@@ -2,13 +2,14 @@
   "id": 387970275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.647099,40.295628,-76.647099,40.295628",
     "geom:latitude":40.295628,
     "geom:longitude":-76.647099,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"60 Outlet Sq",
     "sg:city":"Hershey",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     "sg:website":"www.rue21.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85850549,
+        102191575,
+        404483303,
         85633793,
         101719813,
         102081347,
-        85850549
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"e7dcf4f63bc6082cf0759a903cf079fa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
+            "localadmin_id":404483303,
             "locality_id":101719813,
             "neighbourhood_id":85850549,
             "region_id":85688481,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":387970275,
-    "wof:lastmodified":1449059854,
+    "wof:lastmodified":1454361211,
     "wof:name":"Rue 21",
     "wof:parent_id":85850549,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "women's"
     ]
 },
-  "bbox": [-76.647099,40.295628,-76.647099,40.295628],
+  "bbox": [
+    -76.647099,
+    40.295628,
+    -76.647099,
+    40.295628
+],
   "geometry": {"coordinates":[-76.647099,40.295628],"type":"Point"}
 }

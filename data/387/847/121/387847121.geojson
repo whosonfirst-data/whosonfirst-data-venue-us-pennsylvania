@@ -2,13 +2,14 @@
   "id": 387847121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.103491,42.065324,-80.103491,42.065324",
     "geom:latitude":42.065324,
     "geom:longitude":-80.103491,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2090 Interchange Rd",
     "sg:city":"Erie",
     "sg:classifiers":[
@@ -32,8 +33,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080955,
-        85827851
+        85827851,
+        102080955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +44,15 @@
     "wof:geomhash":"07934e7b3b4c2a35ee1ec213affcb04d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080955,
-            "locality_id":-1,
             "neighbourhood_id":85827851,
             "region_id":85688481,
             "venue_id":387847121
         }
     ],
     "wof:id":387847121,
-    "wof:lastmodified":1449057482,
+    "wof:lastmodified":1454359156,
     "wof:name":"Erie TownePlace Suites",
     "wof:parent_id":85827851,
     "wof:placetype":"venue",
@@ -65,6 +64,11 @@
         "lodging"
     ]
 },
-  "bbox": [-80.103491,42.065324,-80.103491,42.065324],
-  "geometry": {"coordinates":[-80.103491,42.065324],"type":"Point"}
+  "bbox": [
+    -80.103491,
+    42.065324,
+    -80.103491,
+    42.065324
+],
+  "geometry": {"coordinates":[-80.10349100000001,42.065324],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403876373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.841797,40.309299,-76.841797,40.309299",
     "geom:latitude":40.309299,
     "geom:longitude":-76.841797,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2416 Park Dr",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85824251,
+        102191575,
+        404486185,
         85633793,
+        101719811,
         102081347,
-        85824251
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +44,18 @@
     "wof:geomhash":"6674667cab8ad18ba127cb2ab1f1fa77",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
+            "localadmin_id":404486185,
+            "locality_id":101719811,
             "neighbourhood_id":85824251,
             "region_id":85688481,
             "venue_id":403876373
         }
     ],
     "wof:id":403876373,
-    "wof:lastmodified":1449054905,
+    "wof:lastmodified":1454357353,
     "wof:name":"Home Builders Assn of Metropolitan Harrisburg",
     "wof:parent_id":85824251,
     "wof:placetype":"venue",
@@ -60,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-76.841797,40.309299,-76.841797,40.309299],
+  "bbox": [
+    -76.841797,
+    40.309299,
+    -76.841797,
+    40.309299
+],
   "geometry": {"coordinates":[-76.841797,40.309299],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387394331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.040272,40.425567,-80.040272,40.425567",
     "geom:latitude":40.425567,
     "geom:longitude":-80.040272,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"7 Parkway Ctr",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"www.officedepot.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85873597,
+        102191575,
+        404482523,
         85633793,
-        101718673,
+        101718805,
         102080887,
-        85873597
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"a7462ce1486103296e47cbed2b8480a5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":101718673,
+            "localadmin_id":404482523,
+            "locality_id":101718805,
             "neighbourhood_id":85873597,
             "region_id":85688481,
             "venue_id":387394331
         }
     ],
     "wof:id":387394331,
-    "wof:lastmodified":1449056838,
+    "wof:lastmodified":1454358642,
     "wof:name":"Office Depot Business Services",
     "wof:parent_id":85873597,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "equipment"
     ]
 },
-  "bbox": [-80.040272,40.425567,-80.040272,40.425567],
+  "bbox": [
+    -80.040272,
+    40.425567,
+    -80.040272,
+    40.425567
+],
   "geometry": {"coordinates":[-80.040272,40.425567],"type":"Point"}
 }

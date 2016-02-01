@@ -2,13 +2,14 @@
   "id": 404057861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.305588,40.114079,-76.305588,40.114079",
     "geom:latitude":40.114079,
     "geom:longitude":-76.305588,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3111 Lititz Pike Apt 108",
     "sg:city":"Lititz",
     "sg:classifiers":[
@@ -38,8 +39,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85806481
+        85806481,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +50,15 @@
     "wof:geomhash":"3fea2b677d52d91e610823d545176222",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85806481,
             "region_id":85688481,
             "venue_id":404057861
         }
     ],
     "wof:id":404057861,
-    "wof:lastmodified":1449039658,
+    "wof:lastmodified":1454356748,
     "wof:name":"Village Garden Apartments",
     "wof:parent_id":85806481,
     "wof:placetype":"venue",
@@ -73,6 +72,11 @@
         "listing"
     ]
 },
-  "bbox": [-76.305588,40.114079,-76.305588,40.114079],
+  "bbox": [
+    -76.305588,
+    40.114079,
+    -76.305588,
+    40.114079
+],
   "geometry": {"coordinates":[-76.305588,40.114079],"type":"Point"}
 }

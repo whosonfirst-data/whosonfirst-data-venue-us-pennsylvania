@@ -2,13 +2,14 @@
   "id": 403714645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.414749,40.247471,-76.414749,40.247471",
     "geom:latitude":40.247471,
     "geom:longitude":-76.414749,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"639 Aspen Ln",
     "sg:city":"Lebanon",
     "sg:classifiers":[
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85812349,
+        102191575,
+        404483425,
         85633793,
         101717097,
         102081341,
-        85812349
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"f1c970c7bd25f3d69befe4d5a336bac6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081341,
+            "localadmin_id":404483425,
             "locality_id":101717097,
             "neighbourhood_id":85812349,
             "region_id":85688481,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":403714645,
-    "wof:lastmodified":1449055283,
+    "wof:lastmodified":1454357580,
     "wof:name":"Glen Wheeler Md",
     "wof:parent_id":85812349,
     "wof:placetype":"venue",
@@ -71,6 +75,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-76.414749,40.247471,-76.414749,40.247471],
+  "bbox": [
+    -76.414749,
+    40.247471,
+    -76.414749,
+    40.247471
+],
   "geometry": {"coordinates":[-76.414749,40.247471],"type":"Point"}
 }

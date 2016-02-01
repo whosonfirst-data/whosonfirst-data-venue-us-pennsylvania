@@ -2,13 +2,14 @@
   "id": 387804497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.366342,41.890944,-80.366342,41.890944",
     "geom:latitude":41.890944,
     "geom:longitude":-80.366342,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4 N Main St",
     "sg:city":"Albion",
     "sg:classifiers":[
@@ -40,10 +41,13 @@
     "sg:website":"http://www.hrblock.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420537911,
+        102191575,
+        404486719,
         85633793,
         101718265,
-        102080955
+        102080955,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,19 +57,20 @@
     "wof:geomhash":"6bf1d8c90c3b69389141f52180616cf8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080955,
+            "localadmin_id":404486719,
             "locality_id":101718265,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420537911,
             "region_id":85688481,
             "venue_id":387804497
         }
     ],
     "wof:id":387804497,
-    "wof:lastmodified":1449058762,
+    "wof:lastmodified":1454360873,
     "wof:name":"H&R Block",
-    "wof:parent_id":-1,
+    "wof:parent_id":420537911,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -80,6 +85,11 @@
         "bookkeeping"
     ]
 },
-  "bbox": [-80.366342,41.890944,-80.366342,41.890944],
+  "bbox": [
+    -80.366342,
+    41.890944,
+    -80.366342,
+    41.890944
+],
   "geometry": {"coordinates":[-80.366342,41.890944],"type":"Point"}
 }

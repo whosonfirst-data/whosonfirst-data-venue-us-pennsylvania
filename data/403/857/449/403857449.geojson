@@ -2,13 +2,14 @@
   "id": 403857449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.855499,40.269901,-76.855499,40.269901",
     "geom:latitude":40.269901,
     "geom:longitude":-76.855499,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1 Lincoln Cir",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85817391
+        85817391,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"616dc7670af2ae4081b527170e19afc2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85817391,
             "region_id":85688481,
             "venue_id":403857449
         }
     ],
     "wof:id":403857449,
-    "wof:lastmodified":1449055488,
+    "wof:lastmodified":1454357695,
     "wof:name":"National Civil War Museum",
     "wof:parent_id":85817391,
     "wof:placetype":"venue",
@@ -66,6 +65,11 @@
         "tour"
     ]
 },
-  "bbox": [-76.855499,40.269901,-76.855499,40.269901],
-  "geometry": {"coordinates":[-76.855499,40.269901],"type":"Point"}
+  "bbox": [
+    -76.855499,
+    40.269901,
+    -76.855499,
+    40.269901
+],
+  "geometry": {"coordinates":[-76.85549899999999,40.269901],"type":"Point"}
 }

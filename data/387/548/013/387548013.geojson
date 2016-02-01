@@ -2,13 +2,14 @@
   "id": 387548013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.014066,40.110487,-80.014066,40.110487",
     "geom:latitude":40.110487,
     "geom:longitude":-80.014066,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"117 Main St",
     "sg:city":"Bentleyville",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420539957,
+        102191575,
+        404487785,
         85633793,
-        101718551,
-        102081343
+        101718503,
+        102081343,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"44f0909e4d06f093ca1e1bc2f991f5b0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081343,
-            "locality_id":101718551,
-            "neighbourhood_id":-1,
+            "localadmin_id":404487785,
+            "locality_id":101718503,
+            "neighbourhood_id":420539957,
             "region_id":85688481,
             "venue_id":387548013
         }
     ],
     "wof:id":387548013,
-    "wof:lastmodified":1449058743,
+    "wof:lastmodified":1454360868,
     "wof:name":"Direct Web Solutions",
-    "wof:parent_id":-1,
+    "wof:parent_id":420539957,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.014066,40.110487,-80.014066,40.110487],
+  "bbox": [
+    -80.014066,
+    40.110487,
+    -80.014066,
+    40.110487
+],
   "geometry": {"coordinates":[-80.014066,40.110487],"type":"Point"}
 }

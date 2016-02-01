@@ -2,13 +2,14 @@
   "id": 387560247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.103401,40.292801,-80.103401,40.292801",
     "geom:latitude":40.292801,
     "geom:longitude":-80.103401,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3055 Washington Rd",
     "sg:city":"Canonsburg",
     "sg:classifiers":[
@@ -26,8 +27,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081343,
-        85852193
+        85852193,
+        102081343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,17 +38,15 @@
     "wof:geomhash":"eaf5ecb1b0d304e98ae560d65c6c88ac",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081343,
-            "locality_id":-1,
             "neighbourhood_id":85852193,
             "region_id":85688481,
             "venue_id":387560247
         }
     ],
     "wof:id":387560247,
-    "wof:lastmodified":1449059009,
+    "wof:lastmodified":1454360957,
     "wof:name":"Pediatrics South",
     "wof:parent_id":85852193,
     "wof:placetype":"venue",
@@ -55,6 +54,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.103401,40.292801,-80.103401,40.292801],
-  "geometry": {"coordinates":[-80.103401,40.292801],"type":"Point"}
+  "bbox": [
+    -80.103401,
+    40.292801,
+    -80.103401,
+    40.292801
+],
+  "geometry": {"coordinates":[-80.10340100000001,40.292801],"type":"Point"}
 }

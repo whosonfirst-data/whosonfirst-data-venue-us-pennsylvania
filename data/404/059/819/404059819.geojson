@@ -2,13 +2,14 @@
   "id": 404059819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.342827,40.12616,-76.342827,40.12616",
     "geom:latitude":40.12616,
     "geom:longitude":-76.342827,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"970 Fruitville Pike",
     "sg:city":"Lititz",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85806481
+        85806481,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"cede9a9f690061f599fe2438ec1f2292",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85806481,
             "region_id":85688481,
             "venue_id":404059819
         }
     ],
     "wof:id":404059819,
-    "wof:lastmodified":1449039351,
+    "wof:lastmodified":1454356586,
     "wof:name":"Hamilton Real Estate Co",
     "wof:parent_id":85806481,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "broker"
     ]
 },
-  "bbox": [-76.342827,40.12616,-76.342827,40.12616],
+  "bbox": [
+    -76.342827,
+    40.12616,
+    -76.342827,
+    40.12616
+],
   "geometry": {"coordinates":[-76.342827,40.12616],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387960825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.567681,40.132505,-76.567681,40.132505",
     "geom:latitude":40.132505,
     "geom:longitude":-76.567681,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2147 S Market St",
     "sg:city":"Elizabethtown",
     "sg:classifiers":[
@@ -40,8 +41,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85803077
+        85803077,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,17 +52,15 @@
     "wof:geomhash":"8b872c9ec3bde9ea0d44220705771d62",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85803077,
             "region_id":85688481,
             "venue_id":387960825
         }
     ],
     "wof:id":387960825,
-    "wof:lastmodified":1449058844,
+    "wof:lastmodified":1454360901,
     "wof:name":"Century Spouting Co Inc",
     "wof:parent_id":85803077,
     "wof:placetype":"venue",
@@ -76,6 +75,11 @@
         "siding"
     ]
 },
-  "bbox": [-76.567681,40.132505,-76.567681,40.132505],
-  "geometry": {"coordinates":[-76.567681,40.132505],"type":"Point"}
+  "bbox": [
+    -76.567681,
+    40.132505,
+    -76.567681,
+    40.132505
+],
+  "geometry": {"coordinates":[-76.56768099999999,40.132505],"type":"Point"}
 }

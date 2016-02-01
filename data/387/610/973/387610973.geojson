@@ -2,13 +2,14 @@
   "id": 387610973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.466341,39.842025,-78.466341,39.842025",
     "geom:latitude":39.842025,
     "geom:longitude":-78.466341,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"7020 Chaneysville Rd",
     "sg:city":"Clearville",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080939,
-        85848733
+        85848733,
+        102080939
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"fb61c4cc75382018e1c131deba99d04d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080939,
-            "locality_id":-1,
             "neighbourhood_id":85848733,
             "region_id":85688481,
             "venue_id":387610973
         }
     ],
     "wof:id":387610973,
-    "wof:lastmodified":1449059859,
+    "wof:lastmodified":1454361213,
     "wof:name":"Lester Resau",
     "wof:parent_id":85848733,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "farm"
     ]
 },
-  "bbox": [-78.466341,39.842025,-78.466341,39.842025],
+  "bbox": [
+    -78.466341,
+    39.842025,
+    -78.466341,
+    39.842025
+],
   "geometry": {"coordinates":[-78.466341,39.842025],"type":"Point"}
 }

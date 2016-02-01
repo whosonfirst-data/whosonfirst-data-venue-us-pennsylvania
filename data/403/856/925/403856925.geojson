@@ -2,13 +2,14 @@
   "id": 403856925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.862701,40.272099,-76.862701,40.272099",
     "geom:latitude":40.272099,
     "geom:longitude":-76.862701,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1255 Market St",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85817391
+        85817391,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"d968c75ed5508d140608d9fce0878a1a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85817391,
             "region_id":85688481,
             "venue_id":403856925
         }
     ],
     "wof:id":403856925,
-    "wof:lastmodified":1449055018,
+    "wof:lastmodified":1454357419,
     "wof:name":"Hill Cafe Apartments",
     "wof:parent_id":85817391,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "apartment"
     ]
 },
-  "bbox": [-76.862701,40.272099,-76.862701,40.272099],
+  "bbox": [
+    -76.862701,
+    40.272099,
+    -76.862701,
+    40.272099
+],
   "geometry": {"coordinates":[-76.862701,40.272099],"type":"Point"}
 }

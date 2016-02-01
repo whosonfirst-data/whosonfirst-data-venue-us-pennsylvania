@@ -2,13 +2,14 @@
   "id": 404099735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.986622,41.251936,-76.986622,41.251936",
     "geom:latitude":41.251936,
     "geom:longitude":-76.986622,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"930 Meade St",
     "sg:city":"Williamsport",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081317,
-        85828027
+        85828027,
+        102081317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"0238c7974c1490bf5f8c094ddd67095d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081317,
-            "locality_id":-1,
             "neighbourhood_id":85828027,
             "region_id":85688481,
             "venue_id":404099735
         }
     ],
     "wof:id":404099735,
-    "wof:lastmodified":1449039916,
+    "wof:lastmodified":1454356890,
     "wof:name":"Lifestyle Homes",
     "wof:parent_id":85828027,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-76.986622,41.251936,-76.986622,41.251936],
+  "bbox": [
+    -76.986622,
+    41.251936,
+    -76.986622,
+    41.251936
+],
   "geometry": {"coordinates":[-76.986622,41.251936],"type":"Point"}
 }

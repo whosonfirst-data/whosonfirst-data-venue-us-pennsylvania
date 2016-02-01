@@ -2,13 +2,14 @@
   "id": 387533573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.182555,40.451192,-80.182555,40.451192",
     "geom:latitude":40.451192,
     "geom:longitude":-80.182555,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"475 Home Dr",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85805237
+        85805237,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"34906fc715728bb2577bee91fb6f7fab",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85805237,
             "region_id":85688481,
             "venue_id":387533573
         }
     ],
     "wof:id":387533573,
-    "wof:lastmodified":1449056069,
+    "wof:lastmodified":1454358060,
     "wof:name":"West Hills Pet Center",
     "wof:parent_id":85805237,
     "wof:placetype":"venue",
@@ -61,6 +60,11 @@
         "store"
     ]
 },
-  "bbox": [-80.182555,40.451192,-80.182555,40.451192],
-  "geometry": {"coordinates":[-80.182555,40.451192],"type":"Point"}
+  "bbox": [
+    -80.182555,
+    40.451192,
+    -80.182555,
+    40.451192
+],
+  "geometry": {"coordinates":[-80.18255499999999,40.451192],"type":"Point"}
 }

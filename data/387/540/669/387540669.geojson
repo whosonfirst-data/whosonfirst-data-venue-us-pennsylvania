@@ -2,13 +2,14 @@
   "id": 387540669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.24369,40.174309,-80.24369,40.174309",
     "geom:latitude":40.174309,
     "geom:longitude":-80.24369,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"200 N COLLEGE ST",
     "sg:city":"WASHINGTON",
     "sg:classifiers":[
@@ -25,11 +26,13 @@
     "sg:website":"http://www.washingtonsquareflowershop.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85852963,
+        102191575,
+        404487917,
         85633793,
         101718569,
         102081343,
-        85852963
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +42,10 @@
     "wof:geomhash":"f8e3d994c81328472c0e57315cf359de",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081343,
+            "localadmin_id":404487917,
             "locality_id":101718569,
             "neighbourhood_id":85852963,
             "region_id":85688481,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":387540669,
-    "wof:lastmodified":1449057605,
+    "wof:lastmodified":1454360527,
     "wof:name":"Washington Square Flower Shop",
     "wof:parent_id":85852963,
     "wof:placetype":"venue",
@@ -57,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.24369,40.174309,-80.24369,40.174309],
+  "bbox": [
+    -80.24369,
+    40.174309,
+    -80.24369,
+    40.174309
+],
   "geometry": {"coordinates":[-80.24369,40.174309],"type":"Point"}
 }

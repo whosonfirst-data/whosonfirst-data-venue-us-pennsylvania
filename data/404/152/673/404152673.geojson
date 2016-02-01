@@ -2,13 +2,14 @@
   "id": 404152673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.19988,40.847021,-75.19988,40.847021",
     "geom:latitude":40.847021,
     "geom:longitude":-75.19988,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"89 Springfield Dr",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081395,
-        85851101
+        85851101,
+        102081395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"c9d0627b5471b9e2ad95d289ba486f68",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081395,
-            "locality_id":-1,
             "neighbourhood_id":85851101,
             "region_id":85688481,
             "venue_id":404152673
         }
     ],
     "wof:id":404152673,
-    "wof:lastmodified":1449040014,
+    "wof:lastmodified":1454356957,
     "wof:name":"Dalton Fence",
     "wof:parent_id":85851101,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-75.19988,40.847021,-75.19988,40.847021],
-  "geometry": {"coordinates":[-75.19988,40.847021],"type":"Point"}
+  "bbox": [
+    -75.19988,
+    40.847021,
+    -75.19988,
+    40.847021
+],
+  "geometry": {"coordinates":[-75.19987999999999,40.847021],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404025077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.770889,39.952518,-76.770889,39.952518",
     "geom:latitude":39.952518,
     "geom:longitude":-76.770889,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2000 W Market St",
     "sg:city":"York",
     "sg:classifiers":[
@@ -36,10 +37,13 @@
     "sg:website":"http://www.rfkoller.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85819331,
+        102191575,
+        404488029,
         85633793,
+        101717279,
         102080953,
-        85819331
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +53,18 @@
     "wof:geomhash":"d411de52b7a07cae993d6ed5931c0c8d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
+            "localadmin_id":404488029,
+            "locality_id":101717279,
             "neighbourhood_id":85819331,
             "region_id":85688481,
             "venue_id":404025077
         }
     ],
     "wof:id":404025077,
-    "wof:lastmodified":1449040114,
+    "wof:lastmodified":1454357014,
     "wof:name":"Koller Funeral Home & Cremation Center Inc",
     "wof:parent_id":85819331,
     "wof:placetype":"venue",
@@ -72,6 +77,11 @@
         "supply"
     ]
 },
-  "bbox": [-76.770889,39.952518,-76.770889,39.952518],
+  "bbox": [
+    -76.770889,
+    39.952518,
+    -76.770889,
+    39.952518
+],
   "geometry": {"coordinates":[-76.770889,39.952518],"type":"Point"}
 }

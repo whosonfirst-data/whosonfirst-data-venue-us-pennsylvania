@@ -2,13 +2,14 @@
   "id": 404084163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.281548,39.996282,-76.281548,39.996282",
     "geom:latitude":39.996282,
     "geom:longitude":-76.281548,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"200 Willow Valley Sq G",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -41,8 +42,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85868493
+        85868493,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,17 +53,15 @@
     "wof:geomhash":"c6dce801bcff36f0ef836e71102f4bbd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85868493,
             "region_id":85688481,
             "venue_id":404084163
         }
     ],
     "wof:id":404084163,
-    "wof:lastmodified":1449039150,
+    "wof:lastmodified":1454356477,
     "wof:name":"Weigel, John",
     "wof:parent_id":85868493,
     "wof:placetype":"venue",
@@ -74,6 +73,11 @@
         "psychologist"
     ]
 },
-  "bbox": [-76.281548,39.996282,-76.281548,39.996282],
+  "bbox": [
+    -76.281548,
+    39.996282,
+    -76.281548,
+    39.996282
+],
   "geometry": {"coordinates":[-76.281548,39.996282],"type":"Point"}
 }

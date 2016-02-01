@@ -2,13 +2,14 @@
   "id": 404137299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.389318,41.100171,-76.389318,41.100171",
     "geom:latitude":41.100171,
     "geom:longitude":-76.389318,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"22 Savage Hollow Rd",
     "sg:city":"Orangeville",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080973,
-        85868479
+        85868479,
+        102080973
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"45bde4c91d25806afd75213139b11f28",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080973,
-            "locality_id":-1,
             "neighbourhood_id":85868479,
             "region_id":85688481,
             "venue_id":404137299
         }
     ],
     "wof:id":404137299,
-    "wof:lastmodified":1449040157,
+    "wof:lastmodified":1454357036,
     "wof:name":"Circle C",
     "wof:parent_id":85868479,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "product"
     ]
 },
-  "bbox": [-76.389318,41.100171,-76.389318,41.100171],
+  "bbox": [
+    -76.389318,
+    41.100171,
+    -76.389318,
+    41.100171
+],
   "geometry": {"coordinates":[-76.389318,41.100171],"type":"Point"}
 }

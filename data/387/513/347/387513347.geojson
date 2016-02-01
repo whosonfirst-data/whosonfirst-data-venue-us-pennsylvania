@@ -2,13 +2,14 @@
   "id": 387513347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.778501,40.484432,-79.778501,40.484432",
     "geom:latitude":40.484432,
     "geom:longitude":-79.778501,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"637 Pikeview Dr",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85812851
+        85812851,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"e17e12324d982d063a5c54301358dc5c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85812851,
             "region_id":85688481,
             "venue_id":387513347
         }
     ],
     "wof:id":387513347,
-    "wof:lastmodified":1449058629,
+    "wof:lastmodified":1454360833,
     "wof:name":"Kitchen Consultants",
     "wof:parent_id":85812851,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "coach"
     ]
 },
-  "bbox": [-79.778501,40.484432,-79.778501,40.484432],
-  "geometry": {"coordinates":[-79.778501,40.484432],"type":"Point"}
+  "bbox": [
+    -79.778501,
+    40.484432,
+    -79.778501,
+    40.484432
+],
+  "geometry": {"coordinates":[-79.77850100000001,40.484432],"type":"Point"}
 }

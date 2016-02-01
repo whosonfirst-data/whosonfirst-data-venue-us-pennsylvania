@@ -2,13 +2,14 @@
   "id": 404193173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.356016,40.65622,-75.356016,40.65622",
     "geom:latitude":40.65622,
     "geom:longitude":-75.356016,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2979 Linden St",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -89,10 +90,13 @@
     "sg:website":"http://www.walgreens.com/default.jsp?ec=iyp_yellowpages_trademark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420539383,
+        102191575,
+        404485987,
         85633793,
         101717907,
-        102081395
+        102081395,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -102,19 +106,20 @@
     "wof:geomhash":"4f040489db2d84bafafb1839d0e646f7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081395,
+            "localadmin_id":404485987,
             "locality_id":101717907,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420539383,
             "region_id":85688481,
             "venue_id":404193173
         }
     ],
     "wof:id":404193173,
-    "wof:lastmodified":1449039210,
+    "wof:lastmodified":1454356525,
     "wof:name":"Walgreens Pharmacies",
-    "wof:parent_id":-1,
+    "wof:parent_id":420539383,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -133,6 +138,11 @@
         "consumer"
     ]
 },
-  "bbox": [-75.356016,40.65622,-75.356016,40.65622],
+  "bbox": [
+    -75.356016,
+    40.65622,
+    -75.356016,
+    40.65622
+],
   "geometry": {"coordinates":[-75.356016,40.65622],"type":"Point"}
 }

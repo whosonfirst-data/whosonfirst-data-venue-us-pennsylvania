@@ -2,13 +2,14 @@
   "id": 387247425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.927411,40.560464,-79.927411,40.560464",
     "geom:latitude":40.560464,
     "geom:longitude":-79.927411,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3179 Harts Run Rd Apt 1",
     "sg:city":"Glenshaw",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85808227,
+        102191575,
+        404484943,
         85633793,
         101720509,
         102080887,
-        85808227
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"1714d61f6ac1e47998df512da944c485",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484943,
             "locality_id":101720509,
             "neighbourhood_id":85808227,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387247425,
-    "wof:lastmodified":1449058331,
+    "wof:lastmodified":1454360747,
     "wof:name":"Welsh George A Mkt & Auto Sups",
     "wof:parent_id":85808227,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "part"
     ]
 },
-  "bbox": [-79.927411,40.560464,-79.927411,40.560464],
-  "geometry": {"coordinates":[-79.927411,40.560464],"type":"Point"}
+  "bbox": [
+    -79.927411,
+    40.560464,
+    -79.927411,
+    40.560464
+],
+  "geometry": {"coordinates":[-79.92741100000001,40.560464],"type":"Point"}
 }

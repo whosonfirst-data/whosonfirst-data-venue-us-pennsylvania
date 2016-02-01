@@ -2,13 +2,14 @@
   "id": 269804015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.710465,42.266847,-79.710465,42.266847",
     "geom:latitude":42.266847,
     "geom:longitude":-79.710465,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"19 Main St",
     "sg:city":"Ripley",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080955,
-        85850957
+        85850957,
+        102080955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"37a4f2848a857d11c7e0f4fce364b2f9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080955,
-            "locality_id":-1,
             "neighbourhood_id":85850957,
             "region_id":85688481,
             "venue_id":269804015
         }
     ],
     "wof:id":269804015,
-    "wof:lastmodified":1449037782,
+    "wof:lastmodified":1454356396,
     "wof:name":"O'Donnell's Hotel",
     "wof:parent_id":85850957,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "establishment"
     ]
 },
-  "bbox": [-79.710465,42.266847,-79.710465,42.266847],
+  "bbox": [
+    -79.710465,
+    42.266847,
+    -79.710465,
+    42.266847
+],
   "geometry": {"coordinates":[-79.710465,42.266847],"type":"Point"}
 }

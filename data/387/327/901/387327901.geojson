@@ -2,13 +2,14 @@
   "id": 387327901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.90757,40.490711,-79.90757,40.490711",
     "geom:latitude":40.490711,
     "geom:longitude":-79.90757,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"101 Freeport Rd",
     "sg:city":"Aspinwall",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     "sg:website":"http://www.supertix.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85830655,
+        102191575,
+        404484931,
         85633793,
+        101718683,
         102080887,
-        85830655
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +46,18 @@
     "wof:geomhash":"313c431c3ced88f275ef31d38cd922bb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
+            "localadmin_id":404484931,
+            "locality_id":101718683,
             "neighbourhood_id":85830655,
             "region_id":85688481,
             "venue_id":387327901
         }
     ],
     "wof:id":387327901,
-    "wof:lastmodified":1449056396,
+    "wof:lastmodified":1454358314,
     "wof:name":"All American Events & Tours",
     "wof:parent_id":85830655,
     "wof:placetype":"venue",
@@ -63,6 +68,11 @@
         "tours-operators"
     ]
 },
-  "bbox": [-79.90757,40.490711,-79.90757,40.490711],
-  "geometry": {"coordinates":[-79.90757,40.490711],"type":"Point"}
+  "bbox": [
+    -79.90757,
+    40.490711,
+    -79.90757,
+    40.490711
+],
+  "geometry": {"coordinates":[-79.90757000000001,40.490711],"type":"Point"}
 }

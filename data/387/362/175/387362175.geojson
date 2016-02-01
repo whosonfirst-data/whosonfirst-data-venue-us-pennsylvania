@@ -2,13 +2,14 @@
   "id": 387362175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.995641,40.43795,-79.995641,40.43795",
     "geom:latitude":40.43795,
     "geom:longitude":-79.995641,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"564 Forbes Ave Ste 802",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85853291,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85853291
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"0ba3379203327866f49ffc03180e97a1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85853291,
             "region_id":85688481,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":387362175,
-    "wof:lastmodified":1449058571,
+    "wof:lastmodified":1454360814,
     "wof:name":"Frayer Dale P",
     "wof:parent_id":85853291,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.995641,40.43795,-79.995641,40.43795],
-  "geometry": {"coordinates":[-79.995641,40.43795],"type":"Point"}
+  "bbox": [
+    -79.995641,
+    40.43795,
+    -79.995641,
+    40.43795
+],
+  "geometry": {"coordinates":[-79.99564100000001,40.43795],"type":"Point"}
 }

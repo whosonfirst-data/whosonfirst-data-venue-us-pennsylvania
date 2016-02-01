@@ -2,13 +2,14 @@
   "id": 387492089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.000613,40.359315,-80.000613,40.359315",
     "geom:latitude":40.359315,
     "geom:longitude":-80.000613,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"610 Weyman Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -37,11 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85830717,
+        102191575,
+        404484869,
         85633793,
         101718761,
         102080887,
-        85830717
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,9 +54,10 @@
     "wof:geomhash":"4aa34619cb1ed0722e33ffdad04b25e9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484869,
             "locality_id":101718761,
             "neighbourhood_id":85830717,
             "region_id":85688481,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":387492089,
-    "wof:lastmodified":1449056108,
+    "wof:lastmodified":1454358089,
     "wof:name":"A T C Sales & Service Inc",
     "wof:parent_id":85830717,
     "wof:placetype":"venue",
@@ -76,6 +80,11 @@
         "truck"
     ]
 },
-  "bbox": [-80.000613,40.359315,-80.000613,40.359315],
+  "bbox": [
+    -80.000613,
+    40.359315,
+    -80.000613,
+    40.359315
+],
   "geometry": {"coordinates":[-80.000613,40.359315],"type":"Point"}
 }

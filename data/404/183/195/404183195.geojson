@@ -2,13 +2,14 @@
   "id": 404183195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.403079,40.64304,-75.403079,40.64304",
     "geom:latitude":40.64304,
     "geom:longitude":-75.403079,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2289 Schoenersville Rd",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -25,10 +26,13 @@
     "sg:website":"www.countryroseflorist.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85856947,
+        102191575,
+        404485987,
         85633793,
+        101717907,
         102081395,
-        85856947
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +42,18 @@
     "wof:geomhash":"fa427b9586995e9f9f8baf360b2bd242",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081395,
-            "locality_id":-1,
+            "localadmin_id":404485987,
+            "locality_id":101717907,
             "neighbourhood_id":85856947,
             "region_id":85688481,
             "venue_id":404183195
         }
     ],
     "wof:id":404183195,
-    "wof:lastmodified":1449039780,
+    "wof:lastmodified":1454356791,
     "wof:name":"Country Rose Florist",
     "wof:parent_id":85856947,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.403079,40.64304,-75.403079,40.64304],
-  "geometry": {"coordinates":[-75.403079,40.64304],"type":"Point"}
+  "bbox": [
+    -75.403079,
+    40.64304,
+    -75.403079,
+    40.64304
+],
+  "geometry": {"coordinates":[-75.40307900000001,40.64304],"type":"Point"}
 }

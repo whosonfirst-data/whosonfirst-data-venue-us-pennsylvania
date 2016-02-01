@@ -2,13 +2,14 @@
   "id": 387261293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.074535,40.473061,-80.074535,40.473061",
     "geom:latitude":40.473061,
     "geom:longitude":-80.074535,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"800 Broadway Ave",
     "sg:city":"Mc Kees Rocks",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"www.lynnscafeandqualitycatering.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85810503,
+        102191575,
+        404482511,
         85633793,
-        101718805,
+        101718845,
         102080887,
-        85810503
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"ad6f8e7c77439b211ae6f7f9dbe1b2c1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":101718805,
+            "localadmin_id":404482511,
+            "locality_id":101718845,
             "neighbourhood_id":85810503,
             "region_id":85688481,
             "venue_id":387261293
         }
     ],
     "wof:id":387261293,
-    "wof:lastmodified":1449056178,
+    "wof:lastmodified":1454358142,
     "wof:name":"Lynn's Cafe & Quality Catering",
     "wof:parent_id":85810503,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "caterer"
     ]
 },
-  "bbox": [-80.074535,40.473061,-80.074535,40.473061],
+  "bbox": [
+    -80.074535,
+    40.473061,
+    -80.074535,
+    40.473061
+],
   "geometry": {"coordinates":[-80.074535,40.473061],"type":"Point"}
 }

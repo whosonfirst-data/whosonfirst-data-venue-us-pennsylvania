@@ -2,13 +2,14 @@
   "id": 404182241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.409103,40.663101,-75.409103,40.663101",
     "geom:latitude":40.663101,
     "geom:longitude":-75.409103,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3620 Stephen Crane Ln",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081395,
-        85814279
+        85814279,
+        102081395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"9fadac2636bdb4b02df45b810cc1258d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081395,
-            "locality_id":-1,
             "neighbourhood_id":85814279,
             "region_id":85688481,
             "venue_id":404182241
         }
     ],
     "wof:id":404182241,
-    "wof:lastmodified":1449039890,
+    "wof:lastmodified":1454356870,
     "wof:name":"Sample Associates",
     "wof:parent_id":85814279,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "property"
     ]
 },
-  "bbox": [-75.409103,40.663101,-75.409103,40.663101],
+  "bbox": [
+    -75.409103,
+    40.663101,
+    -75.409103,
+    40.663101
+],
   "geometry": {"coordinates":[-75.409103,40.663101],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403761049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.042402,40.150172,-77.042402,40.150172",
     "geom:latitude":40.150172,
     "geom:longitude":-77.042402,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1022 Park Pl",
     "sg:city":"Mechanicsburg",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080953,
-        85845989
+        85845989,
+        102080953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"19781bb373f6a1894914aebf863947f1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
             "neighbourhood_id":85845989,
             "region_id":85688481,
             "venue_id":403761049
         }
     ],
     "wof:id":403761049,
-    "wof:lastmodified":1449055642,
+    "wof:lastmodified":1454357796,
     "wof:name":"Homestay Farm Bed & Breakfast",
     "wof:parent_id":85845989,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "lodging"
     ]
 },
-  "bbox": [-77.042402,40.150172,-77.042402,40.150172],
+  "bbox": [
+    -77.042402,
+    40.150172,
+    -77.042402,
+    40.150172
+],
   "geometry": {"coordinates":[-77.042402,40.150172],"type":"Point"}
 }

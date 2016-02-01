@@ -2,13 +2,14 @@
   "id": 404076041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.341263,40.085635,-76.341263,40.085635",
     "geom:latitude":40.085635,
     "geom:longitude":-76.341263,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"650 Delp Rd",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -40,8 +41,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85848619
+        85848619,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,17 +52,15 @@
     "wof:geomhash":"3c98c4ae26e78110731fea65f6ab2b8a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85848619,
             "region_id":85688481,
             "venue_id":404076041
         }
     ],
     "wof:id":404076041,
-    "wof:lastmodified":1449040036,
+    "wof:lastmodified":1454356968,
     "wof:name":"SUSQUEHANNA INSURANCE MGT",
     "wof:parent_id":85848619,
     "wof:placetype":"venue",
@@ -76,6 +75,11 @@
         "boat"
     ]
 },
-  "bbox": [-76.341263,40.085635,-76.341263,40.085635],
+  "bbox": [
+    -76.341263,
+    40.085635,
+    -76.341263,
+    40.085635
+],
   "geometry": {"coordinates":[-76.341263,40.085635],"type":"Point"}
 }

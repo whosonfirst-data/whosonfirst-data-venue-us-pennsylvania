@@ -2,13 +2,14 @@
   "id": 404088703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.327193,40.027208,-76.327193,40.027208",
     "geom:latitude":40.027208,
     "geom:longitude":-76.327193,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1256C Millersville Pike",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -51,8 +52,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85843407
+        85843407,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,17 +63,15 @@
     "wof:geomhash":"5af46308b6326670fbf670857d8ba10d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85843407,
             "region_id":85688481,
             "venue_id":404088703
         }
     ],
     "wof:id":404088703,
-    "wof:lastmodified":1449040020,
+    "wof:lastmodified":1454356961,
     "wof:name":"T-Mobile",
     "wof:parent_id":85843407,
     "wof:placetype":"venue",
@@ -88,6 +87,11 @@
         "cellular"
     ]
 },
-  "bbox": [-76.327193,40.027208,-76.327193,40.027208],
-  "geometry": {"coordinates":[-76.327193,40.027208],"type":"Point"}
+  "bbox": [
+    -76.327193,
+    40.027208,
+    -76.327193,
+    40.027208
+],
+  "geometry": {"coordinates":[-76.32719299999999,40.027208],"type":"Point"}
 }

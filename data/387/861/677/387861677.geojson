@@ -2,13 +2,14 @@
   "id": 387861677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.886866,40.599418,-77.886866,40.599418",
     "geom:latitude":40.599418,
     "geom:longitude":-77.886866,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5980 Wesley Chapel Rd",
     "sg:city":"Huntingdon",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080901,
-        85832873
+        85832873,
+        102080901
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"93825f4101def1019e64471e0928f0e4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080901,
-            "locality_id":-1,
             "neighbourhood_id":85832873,
             "region_id":85688481,
             "venue_id":387861677
         }
     ],
     "wof:id":387861677,
-    "wof:lastmodified":1449059896,
+    "wof:lastmodified":1454361225,
     "wof:name":"Russell Culbertson",
     "wof:parent_id":85832873,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "product"
     ]
 },
-  "bbox": [-77.886866,40.599418,-77.886866,40.599418],
+  "bbox": [
+    -77.886866,
+    40.599418,
+    -77.886866,
+    40.599418
+],
   "geometry": {"coordinates":[-77.886866,40.599418],"type":"Point"}
 }

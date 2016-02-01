@@ -2,13 +2,14 @@
   "id": 404092739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.388754,40.049829,-76.388754,40.049829",
     "geom:latitude":40.049829,
     "geom:longitude":-76.388754,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2950 Old Tree Dr Ste 2",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -37,8 +38,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85810207
+        85810207,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +49,15 @@
     "wof:geomhash":"640709f1bda1527219fea2546acbb248",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85810207,
             "region_id":85688481,
             "venue_id":404092739
         }
     ],
     "wof:id":404092739,
-    "wof:lastmodified":1449040072,
+    "wof:lastmodified":1454356991,
     "wof:name":"Synapse Print Management",
     "wof:parent_id":85810207,
     "wof:placetype":"venue",
@@ -71,6 +70,11 @@
         "supply"
     ]
 },
-  "bbox": [-76.388754,40.049829,-76.388754,40.049829],
-  "geometry": {"coordinates":[-76.388754,40.049829],"type":"Point"}
+  "bbox": [
+    -76.388754,
+    40.049829,
+    -76.388754,
+    40.049829
+],
+  "geometry": {"coordinates":[-76.38875400000001,40.049829],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387802679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.762828,41.221002,-79.762828,41.221002",
     "geom:latitude":41.221002,
     "geom:longitude":-79.762828,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"610 Riviera Rd",
     "sg:city":"Emlenton",
     "sg:classifiers":[
@@ -45,8 +46,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081279,
-        85868879
+        85868879,
+        102081279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,17 +57,15 @@
     "wof:geomhash":"7d76e062455be84c395cab3b8e2dbfca",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081279,
-            "locality_id":-1,
             "neighbourhood_id":85868879,
             "region_id":85688481,
             "venue_id":387802679
         }
     ],
     "wof:id":387802679,
-    "wof:lastmodified":1449059210,
+    "wof:lastmodified":1454361012,
     "wof:name":"Dollar General",
     "wof:parent_id":85868879,
     "wof:placetype":"venue",
@@ -76,6 +75,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-79.762828,41.221002,-79.762828,41.221002],
+  "bbox": [
+    -79.762828,
+    41.221002,
+    -79.762828,
+    41.221002
+],
   "geometry": {"coordinates":[-79.762828,41.221002],"type":"Point"}
 }

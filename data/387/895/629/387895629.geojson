@@ -2,13 +2,14 @@
   "id": 387895629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.918277,41.757417,-77.918277,41.757417",
     "geom:latitude":41.757417,
     "geom:longitude":-77.918277,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"103 Robin Ln",
     "sg:city":"Coudersport",
     "sg:classifiers":[
@@ -32,8 +33,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081299,
-        85814353
+        85814353,
+        102081299
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +44,15 @@
     "wof:geomhash":"65b7f17acbb9879223aa6b9a89ad6956",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081299,
-            "locality_id":-1,
             "neighbourhood_id":85814353,
             "region_id":85688481,
             "venue_id":387895629
         }
     ],
     "wof:id":387895629,
-    "wof:lastmodified":1449057721,
+    "wof:lastmodified":1454360572,
     "wof:name":"Steves Auto Report",
     "wof:parent_id":85814353,
     "wof:placetype":"venue",
@@ -66,6 +65,11 @@
         "repairing"
     ]
 },
-  "bbox": [-77.918277,41.757417,-77.918277,41.757417],
+  "bbox": [
+    -77.918277,
+    41.757417,
+    -77.918277,
+    41.757417
+],
   "geometry": {"coordinates":[-77.918277,41.757417],"type":"Point"}
 }

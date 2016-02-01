@@ -2,13 +2,14 @@
   "id": 387587957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.713931,39.896266,-79.713931,39.896266",
     "geom:latitude":39.896266,
     "geom:longitude":-79.713931,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"43 Searight Ave",
     "sg:city":"Uniontown",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85850161,
+        102191575,
+        404487055,
         85633793,
+        101719799,
         102080959,
-        85850161
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,17 +41,18 @@
     "wof:geomhash":"68e7e6a767ed84278f34d02f91ffa641",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080959,
-            "locality_id":-1,
+            "localadmin_id":404487055,
+            "locality_id":101719799,
             "neighbourhood_id":85850161,
             "region_id":85688481,
             "venue_id":387587957
         }
     ],
     "wof:id":387587957,
-    "wof:lastmodified":1449057402,
+    "wof:lastmodified":1454359102,
     "wof:name":"Mama Janess Soul Food",
     "wof:parent_id":85850161,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.713931,39.896266,-79.713931,39.896266],
+  "bbox": [
+    -79.713931,
+    39.896266,
+    -79.713931,
+    39.896266
+],
   "geometry": {"coordinates":[-79.713931,39.896266],"type":"Point"}
 }

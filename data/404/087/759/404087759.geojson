@@ -2,13 +2,14 @@
   "id": 404087759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.259289,39.991086,-76.259289,39.991086",
     "geom:latitude":39.991086,
     "geom:longitude":-76.259289,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"521 Beaver Valley Pike",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -49,8 +50,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85868585
+        85868585,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,17 +61,15 @@
     "wof:geomhash":"1e31c69c7ed79fc7934f340cfba1514d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85868585,
             "region_id":85688481,
             "venue_id":404087759
         }
     ],
     "wof:id":404087759,
-    "wof:lastmodified":1449039571,
+    "wof:lastmodified":1454356719,
     "wof:name":"Vortex Environmental",
     "wof:parent_id":85868585,
     "wof:placetype":"venue",
@@ -85,6 +84,11 @@
         "engineer"
     ]
 },
-  "bbox": [-76.259289,39.991086,-76.259289,39.991086],
+  "bbox": [
+    -76.259289,
+    39.991086,
+    -76.259289,
+    39.991086
+],
   "geometry": {"coordinates":[-76.259289,39.991086],"type":"Point"}
 }

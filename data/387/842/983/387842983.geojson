@@ -2,13 +2,14 @@
   "id": 387842983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.038776,42.068524,-80.038776,42.068524",
     "geom:latitude":42.068524,
     "geom:longitude":-80.038776,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"8040 Perry Hwy",
     "sg:city":"Erie",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080955,
-        85829739
+        85829739,
+        102080955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"5fc48b3471f9af2d29c10511dbbd8889",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080955,
-            "locality_id":-1,
             "neighbourhood_id":85829739,
             "region_id":85688481,
             "venue_id":387842983
         }
     ],
     "wof:id":387842983,
-    "wof:lastmodified":1449056393,
+    "wof:lastmodified":1454358307,
     "wof:name":"Super 8 Motel",
     "wof:parent_id":85829739,
     "wof:placetype":"venue",
@@ -61,6 +60,11 @@
         "lodging"
     ]
 },
-  "bbox": [-80.038776,42.068524,-80.038776,42.068524],
+  "bbox": [
+    -80.038776,
+    42.068524,
+    -80.038776,
+    42.068524
+],
   "geometry": {"coordinates":[-80.038776,42.068524],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387634421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.69336,40.316868,-79.69336,40.316868",
     "geom:latitude":40.316868,
     "geom:longitude":-79.69336,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"8775 Norwin Ave",
     "sg:city":"Irwin",
     "sg:classifiers":[
@@ -48,8 +49,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081383,
-        85841171
+        85841171,
+        102081383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,17 +60,15 @@
     "wof:geomhash":"09278a5902cc6185ede23bb44cddc174",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":-1,
             "neighbourhood_id":85841171,
             "region_id":85688481,
             "venue_id":387634421
         }
     ],
     "wof:id":387634421,
-    "wof:lastmodified":1449057919,
+    "wof:lastmodified":1454360632,
     "wof:name":"H&R BLOCK",
     "wof:parent_id":85841171,
     "wof:placetype":"venue",
@@ -87,6 +86,11 @@
         "bookkeeping"
     ]
 },
-  "bbox": [-79.69336,40.316868,-79.69336,40.316868],
+  "bbox": [
+    -79.69336,
+    40.316868,
+    -79.69336,
+    40.316868
+],
   "geometry": {"coordinates":[-79.69336,40.316868],"type":"Point"}
 }

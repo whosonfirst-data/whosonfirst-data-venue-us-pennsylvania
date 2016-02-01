@@ -2,13 +2,14 @@
   "id": 387773545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.519396,40.8144,-79.519396,40.8144",
     "geom:latitude":40.8144,
     "geom:longitude":-79.519396,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"212 Market St",
     "sg:city":"Kittanning",
     "sg:classifiers":[
@@ -37,8 +38,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081371,
-        85816487
+        85816487,
+        102081371
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +49,15 @@
     "wof:geomhash":"7e6d55750d50e1548908994d0c745d77",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081371,
-            "locality_id":-1,
             "neighbourhood_id":85816487,
             "region_id":85688481,
             "venue_id":387773545
         }
     ],
     "wof:id":387773545,
-    "wof:lastmodified":1449056589,
+    "wof:lastmodified":1454358463,
     "wof:name":"Tlc Show",
     "wof:parent_id":85816487,
     "wof:placetype":"venue",
@@ -71,6 +70,11 @@
         "hand"
     ]
 },
-  "bbox": [-79.519396,40.8144,-79.519396,40.8144],
+  "bbox": [
+    -79.519396,
+    40.8144,
+    -79.519396,
+    40.8144
+],
   "geometry": {"coordinates":[-79.519396,40.8144],"type":"Point"}
 }

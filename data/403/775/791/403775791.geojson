@@ -2,13 +2,14 @@
   "id": 403775791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.295425,40.57983,-77.295425,40.57983",
     "geom:latitude":40.57983,
     "geom:longitude":-77.295425,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2144 Locust Run Rd",
     "sg:city":"Mifflintown",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081367,
-        85852189
+        85852189,
+        102081367
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"67e95fb8f4164f53a091931696ad2b37",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081367,
-            "locality_id":-1,
             "neighbourhood_id":85852189,
             "region_id":85688481,
             "venue_id":403775791
         }
     ],
     "wof:id":403775791,
-    "wof:lastmodified":1449055597,
+    "wof:lastmodified":1454357771,
     "wof:name":"A W Sawmill",
     "wof:parent_id":85852189,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "sawmill"
     ]
 },
-  "bbox": [-77.295425,40.57983,-77.295425,40.57983],
-  "geometry": {"coordinates":[-77.295425,40.57983],"type":"Point"}
+  "bbox": [
+    -77.295425,
+    40.57983,
+    -77.295425,
+    40.57983
+],
+  "geometry": {"coordinates":[-77.29542499999999,40.57983],"type":"Point"}
 }

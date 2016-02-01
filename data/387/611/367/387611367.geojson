@@ -2,13 +2,14 @@
   "id": 387611367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.430232,39.984083,-78.430232,39.984083",
     "geom:latitude":39.984083,
     "geom:longitude":-78.430232,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"799 Ott Town Rd",
     "sg:city":"Everett",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080939,
-        85824143
+        85824143,
+        102080939
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"a7adf2eb6b6fb73cd24d7adfa5458909",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080939,
-            "locality_id":-1,
             "neighbourhood_id":85824143,
             "region_id":85688481,
             "venue_id":387611367
         }
     ],
     "wof:id":387611367,
-    "wof:lastmodified":1449059106,
+    "wof:lastmodified":1454360984,
     "wof:name":"D D Trucking",
     "wof:parent_id":85824143,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "trucking"
     ]
 },
-  "bbox": [-78.430232,39.984083,-78.430232,39.984083],
+  "bbox": [
+    -78.430232,
+    39.984083,
+    -78.430232,
+    39.984083
+],
   "geometry": {"coordinates":[-78.430232,39.984083],"type":"Point"}
 }

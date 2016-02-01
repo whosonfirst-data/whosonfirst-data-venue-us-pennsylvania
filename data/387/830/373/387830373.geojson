@@ -2,13 +2,14 @@
   "id": 387830373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.044959,42.102204,-80.044959,42.102204",
     "geom:latitude":42.102204,
     "geom:longitude":-80.044959,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"815 E Grandview Blvd",
     "sg:city":"Erie",
     "sg:classifiers":[
@@ -49,11 +50,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85822031,
+        102191575,
+        404486673,
         85633793,
         101718253,
         102080955,
-        85822031
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,9 +66,10 @@
     "wof:geomhash":"11d32f0f714e79b9dc6ff84ab15ad500",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080955,
+            "localadmin_id":404486673,
             "locality_id":101718253,
             "neighbourhood_id":85822031,
             "region_id":85688481,
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":387830373,
-    "wof:lastmodified":1449056908,
+    "wof:lastmodified":1454358697,
     "wof:name":"Tanglewood Apartments Homes",
     "wof:parent_id":85822031,
     "wof:placetype":"venue",
@@ -90,6 +94,11 @@
         "finder"
     ]
 },
-  "bbox": [-80.044959,42.102204,-80.044959,42.102204],
-  "geometry": {"coordinates":[-80.044959,42.102204],"type":"Point"}
+  "bbox": [
+    -80.044959,
+    42.102204,
+    -80.044959,
+    42.102204
+],
+  "geometry": {"coordinates":[-80.04495900000001,42.102204],"type":"Point"}
 }

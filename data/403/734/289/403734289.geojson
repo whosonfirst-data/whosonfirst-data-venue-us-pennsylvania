@@ -2,13 +2,14 @@
   "id": 403734289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.362991,40.395932,-77.362991,40.395932",
     "geom:latitude":40.395932,
     "geom:longitude":-77.362991,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1685 Rock Hollow Rd",
     "sg:city":"Loysville",
     "sg:classifiers":[
@@ -33,8 +34,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080963,
-        85854111
+        85854111,
+        102080963
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +45,15 @@
     "wof:geomhash":"8491a73cd2cdf87985ff5d9f0b0a2fd3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080963,
-            "locality_id":-1,
             "neighbourhood_id":85854111,
             "region_id":85688481,
             "venue_id":403734289
         }
     ],
     "wof:id":403734289,
-    "wof:lastmodified":1449055804,
+    "wof:lastmodified":1454357885,
     "wof:name":"Fisher's Roofing",
     "wof:parent_id":85854111,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-77.362991,40.395932,-77.362991,40.395932],
-  "geometry": {"coordinates":[-77.362991,40.395932],"type":"Point"}
+  "bbox": [
+    -77.362991,
+    40.395932,
+    -77.362991,
+    40.395932
+],
+  "geometry": {"coordinates":[-77.36299099999999,40.395932],"type":"Point"}
 }

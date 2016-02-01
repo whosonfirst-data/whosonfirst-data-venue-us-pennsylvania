@@ -2,13 +2,14 @@
   "id": 404096689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.981308,41.258999,-76.981308,41.258999",
     "geom:latitude":41.258999,
     "geom:longitude":-76.981308,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1705 Warren Ave Ste 204",
     "sg:city":"Williamsport",
     "sg:classifiers":[
@@ -38,8 +39,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081317,
-        85828027
+        85828027,
+        102081317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +50,15 @@
     "wof:geomhash":"59418cf1068d8a9c220468494982a5bf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081317,
-            "locality_id":-1,
             "neighbourhood_id":85828027,
             "region_id":85688481,
             "venue_id":404096689
         }
     ],
     "wof:id":404096689,
-    "wof:lastmodified":1449039405,
+    "wof:lastmodified":1454356629,
     "wof:name":"Susquehanna Hearing Services",
     "wof:parent_id":85828027,
     "wof:placetype":"venue",
@@ -73,6 +72,11 @@
         "hearing"
     ]
 },
-  "bbox": [-76.981308,41.258999,-76.981308,41.258999],
+  "bbox": [
+    -76.981308,
+    41.258999,
+    -76.981308,
+    41.258999
+],
   "geometry": {"coordinates":[-76.981308,41.258999],"type":"Point"}
 }

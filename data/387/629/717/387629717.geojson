@@ -2,13 +2,14 @@
   "id": 387629717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.31752,40.34214,-79.31752,40.34214",
     "geom:latitude":40.34214,
     "geom:longitude":-79.31752,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1 Imaging Ln",
     "sg:city":"Derry",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081383,
-        85840999
+        85840999,
+        102081383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"30dcba9585e89e5650fe33f3ffeaff36",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":-1,
             "neighbourhood_id":85840999,
             "region_id":85688481,
             "venue_id":387629717
         }
     ],
     "wof:id":387629717,
-    "wof:lastmodified":1449059016,
+    "wof:lastmodified":1454360959,
     "wof:name":"Designed Alloys",
     "wof:parent_id":85840999,
     "wof:placetype":"venue",
@@ -63,6 +62,11 @@
         "metal"
     ]
 },
-  "bbox": [-79.31752,40.34214,-79.31752,40.34214],
+  "bbox": [
+    -79.31752,
+    40.34214,
+    -79.31752,
+    40.34214
+],
   "geometry": {"coordinates":[-79.31752,40.34214],"type":"Point"}
 }

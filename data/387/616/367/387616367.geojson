@@ -2,13 +2,14 @@
   "id": 387616367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.461683,40.340777,-79.461683,40.340777",
     "geom:latitude":40.340777,
     "geom:longitude":-79.461683,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"123 Cemetery Rd",
     "sg:city":"Greensburg",
     "sg:classifiers":[
@@ -26,8 +27,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081383,
-        85850381
+        85850381,
+        102081383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,17 +38,15 @@
     "wof:geomhash":"caa488bc2ecc91eeebd8abd2da3359b1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":-1,
             "neighbourhood_id":85850381,
             "region_id":85688481,
             "venue_id":387616367
         }
     ],
     "wof:id":387616367,
-    "wof:lastmodified":1449058902,
+    "wof:lastmodified":1454360924,
     "wof:name":"E B Mc Colly's",
     "wof:parent_id":85850381,
     "wof:placetype":"venue",
@@ -55,6 +54,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.461683,40.340777,-79.461683,40.340777],
-  "geometry": {"coordinates":[-79.461683,40.340777],"type":"Point"}
+  "bbox": [
+    -79.461683,
+    40.340777,
+    -79.461683,
+    40.340777
+],
+  "geometry": {"coordinates":[-79.46168299999999,40.340777],"type":"Point"}
 }

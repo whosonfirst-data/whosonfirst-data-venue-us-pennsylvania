@@ -2,13 +2,14 @@
   "id": 387654169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.163982,40.603999,-79.163982,40.603999",
     "geom:latitude":40.603999,
     "geom:longitude":-79.163982,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1265 Wayne Ave Ste 310A",
     "sg:city":"Indiana",
     "sg:classifiers":[
@@ -26,8 +27,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081387,
-        85821437
+        85821437,
+        102081387
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,17 +38,15 @@
     "wof:geomhash":"9284f9964e4910a90a9a8c4570be7ca2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081387,
-            "locality_id":-1,
             "neighbourhood_id":85821437,
             "region_id":85688481,
             "venue_id":387654169
         }
     ],
     "wof:id":387654169,
-    "wof:lastmodified":1449057374,
+    "wof:lastmodified":1454359066,
     "wof:name":"Indiana District 2",
     "wof:parent_id":85821437,
     "wof:placetype":"venue",
@@ -55,6 +54,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.163982,40.603999,-79.163982,40.603999],
+  "bbox": [
+    -79.163982,
+    40.603999,
+    -79.163982,
+    40.603999
+],
   "geometry": {"coordinates":[-79.163982,40.603999],"type":"Point"}
 }

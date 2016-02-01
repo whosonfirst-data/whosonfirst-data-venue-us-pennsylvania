@@ -2,13 +2,14 @@
   "id": 387536111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.252862,40.175797,-80.252862,40.175797",
     "geom:latitude":40.175797,
     "geom:longitude":-80.252862,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"335 Duncan Ave",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85852963,
+        102191575,
+        404487917,
         85633793,
         101718569,
         102081343,
-        85852963
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"a6a825ca9322aa5ab359f18f1cf3b23e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081343,
+            "localadmin_id":404487917,
             "locality_id":101718569,
             "neighbourhood_id":85852963,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387536111,
-    "wof:lastmodified":1449058377,
+    "wof:lastmodified":1454360764,
     "wof:name":"Neridan Family Properties",
     "wof:parent_id":85852963,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "park"
     ]
 },
-  "bbox": [-80.252862,40.175797,-80.252862,40.175797],
-  "geometry": {"coordinates":[-80.252862,40.175797],"type":"Point"}
+  "bbox": [
+    -80.252862,
+    40.175797,
+    -80.252862,
+    40.175797
+],
+  "geometry": {"coordinates":[-80.25286199999999,40.175797],"type":"Point"}
 }

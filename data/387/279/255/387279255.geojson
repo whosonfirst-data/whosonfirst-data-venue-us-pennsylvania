@@ -2,13 +2,14 @@
   "id": 387279255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.969312,40.460244,-79.969312,40.460244",
     "geom:latitude":40.460244,
     "geom:longitude":-79.969312,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"351 32nd St",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -48,11 +49,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85842581,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85842581
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,9 +65,10 @@
     "wof:geomhash":"ad8e4bc44544df266c2152b2f9d1f69e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85842581,
             "region_id":85688481,
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":387279255,
-    "wof:lastmodified":1449057849,
+    "wof:lastmodified":1454360614,
     "wof:name":"FedEx World Service Center",
     "wof:parent_id":85842581,
     "wof:placetype":"venue",
@@ -88,6 +92,11 @@
         "mail"
     ]
 },
-  "bbox": [-79.969312,40.460244,-79.969312,40.460244],
+  "bbox": [
+    -79.969312,
+    40.460244,
+    -79.969312,
+    40.460244
+],
   "geometry": {"coordinates":[-79.969312,40.460244],"type":"Point"}
 }

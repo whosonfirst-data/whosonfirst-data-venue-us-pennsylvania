@@ -2,13 +2,14 @@
   "id": 387174783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.949898,40.208302,-79.949898,40.208302",
     "geom:latitude":40.208302,
     "geom:longitude":-79.949898,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"191 Main St",
     "sg:city":"New Eagle",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85844791,
+        102191575,
+        404483977,
         85633793,
         101718463,
         102081343,
-        85844791
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"552d05545e8c57f8a70a1c2457e7c68c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081343,
+            "localadmin_id":404483977,
             "locality_id":101718463,
             "neighbourhood_id":85844791,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387174783,
-    "wof:lastmodified":1449056621,
+    "wof:lastmodified":1454358493,
     "wof:name":"Collision One",
     "wof:parent_id":85844791,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "shop"
     ]
 },
-  "bbox": [-79.949898,40.208302,-79.949898,40.208302],
+  "bbox": [
+    -79.949898,
+    40.208302,
+    -79.949898,
+    40.208302
+],
   "geometry": {"coordinates":[-79.949898,40.208302],"type":"Point"}
 }

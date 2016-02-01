@@ -2,13 +2,14 @@
   "id": 387163169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.312444,40.676383,-80.312444,40.676383",
     "geom:latitude":40.676383,
     "geom:longitude":-80.312444,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"760 Beaver Valley Mall",
     "sg:city":"Monaca",
     "sg:classifiers":[
@@ -47,8 +48,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081323,
-        85827637
+        85827637,
+        102081323
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,17 +59,15 @@
     "wof:geomhash":"514b1db7a8b1b7d7699eeb810b7287d8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081323,
-            "locality_id":-1,
             "neighbourhood_id":85827637,
             "region_id":85688481,
             "venue_id":387163169
         }
     ],
     "wof:id":387163169,
-    "wof:lastmodified":1449059836,
+    "wof:lastmodified":1454361206,
     "wof:name":"Maple Mountain Equipment",
     "wof:parent_id":85827637,
     "wof:placetype":"venue",
@@ -85,6 +84,11 @@
         "saw"
     ]
 },
-  "bbox": [-80.312444,40.676383,-80.312444,40.676383],
+  "bbox": [
+    -80.312444,
+    40.676383,
+    -80.312444,
+    40.676383
+],
   "geometry": {"coordinates":[-80.312444,40.676383],"type":"Point"}
 }

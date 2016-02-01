@@ -2,13 +2,14 @@
   "id": 387292085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.130711,40.432595,-80.130711,40.432595",
     "geom:latitude":40.432595,
     "geom:longitude":-80.130711,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1001 Parkway View Dr",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85821263
+        85821263,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"e7337593993ba5e32d62328c7c41785e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85821263,
             "region_id":85688481,
             "venue_id":387292085
         }
     ],
     "wof:id":387292085,
-    "wof:lastmodified":1449056425,
+    "wof:lastmodified":1454358341,
     "wof:name":"Allied Office Products",
     "wof:parent_id":85821263,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "equipment"
     ]
 },
-  "bbox": [-80.130711,40.432595,-80.130711,40.432595],
-  "geometry": {"coordinates":[-80.130711,40.432595],"type":"Point"}
+  "bbox": [
+    -80.130711,
+    40.432595,
+    -80.130711,
+    40.432595
+],
+  "geometry": {"coordinates":[-80.13071100000001,40.432595],"type":"Point"}
 }

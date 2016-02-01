@@ -2,13 +2,14 @@
   "id": 403728685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.566842,40.595019,-77.566842,40.595019",
     "geom:latitude":40.595019,
     "geom:longitude":-77.566842,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"213 Green Ave",
     "sg:city":"Lewistown",
     "sg:classifiers":[
@@ -26,8 +27,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081333,
-        85835679
+        85835679,
+        102081333
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,17 +38,15 @@
     "wof:geomhash":"9046c73bc8a5f063e3c7d6f01a94f02f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081333,
-            "locality_id":-1,
             "neighbourhood_id":85835679,
             "region_id":85688481,
             "venue_id":403728685
         }
     ],
     "wof:id":403728685,
-    "wof:lastmodified":1449054953,
+    "wof:lastmodified":1454357382,
     "wof:name":"Millers Wholesale Florists In",
     "wof:parent_id":85835679,
     "wof:placetype":"venue",
@@ -55,6 +54,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.566842,40.595019,-77.566842,40.595019],
-  "geometry": {"coordinates":[-77.566842,40.595019],"type":"Point"}
+  "bbox": [
+    -77.566842,
+    40.595019,
+    -77.566842,
+    40.595019
+],
+  "geometry": {"coordinates":[-77.56684199999999,40.595019],"type":"Point"}
 }

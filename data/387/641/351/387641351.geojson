@@ -2,13 +2,14 @@
   "id": 387641351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.577612,40.313351,-79.577612,40.313351",
     "geom:latitude":40.313351,
     "geom:longitude":-79.577612,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"128 Armstrong Rd",
     "sg:city":"Jeannette",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081383,
-        85843595
+        85843595,
+        102081383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"615c971644c12fb42054c2c63bd10311",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":-1,
             "neighbourhood_id":85843595,
             "region_id":85688481,
             "venue_id":387641351
         }
     ],
     "wof:id":387641351,
-    "wof:lastmodified":1449058998,
+    "wof:lastmodified":1454360951,
     "wof:name":"Diane Perne Family Haircare",
     "wof:parent_id":85843595,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "advisory"
     ]
 },
-  "bbox": [-79.577612,40.313351,-79.577612,40.313351],
+  "bbox": [
+    -79.577612,
+    40.313351,
+    -79.577612,
+    40.313351
+],
   "geometry": {"coordinates":[-79.577612,40.313351],"type":"Point"}
 }

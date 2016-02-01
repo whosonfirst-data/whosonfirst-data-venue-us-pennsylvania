@@ -2,13 +2,14 @@
   "id": 387738933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.109869,40.695639,-80.109869,40.695639",
     "geom:latitude":40.695639,
     "geom:longitude":-80.109869,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"305 Commerce Park Dr",
     "sg:city":"Cranberry Twp",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102083677,
-        85812951
+        85812951,
+        102083677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"18c7f2ed4de0eba93f6f117e48c61c87",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102083677,
-            "locality_id":-1,
             "neighbourhood_id":85812951,
             "region_id":85688481,
             "venue_id":387738933
         }
     ],
     "wof:id":387738933,
-    "wof:lastmodified":1449058896,
+    "wof:lastmodified":1454360919,
     "wof:name":"Molyneaux Tile & Carpet",
     "wof:parent_id":85812951,
     "wof:placetype":"venue",
@@ -61,6 +60,11 @@
         "carpeting"
     ]
 },
-  "bbox": [-80.109869,40.695639,-80.109869,40.695639],
+  "bbox": [
+    -80.109869,
+    40.695639,
+    -80.109869,
+    40.695639
+],
   "geometry": {"coordinates":[-80.109869,40.695639],"type":"Point"}
 }

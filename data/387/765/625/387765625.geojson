@@ -2,13 +2,14 @@
   "id": 387765625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.43821,41.236351,-80.43821,41.236351",
     "geom:latitude":41.236351,
     "geom:longitude":-80.43821,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"200 Hermitage Hills Blvd",
     "sg:city":"Hermitage",
     "sg:classifiers":[
@@ -37,11 +38,13 @@
     "sg:website":"http://www.universaldevelopment.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85824773,
+        102191575,
+        404487983,
         85633793,
         101718107,
         102080965,
-        85824773
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,9 +54,10 @@
     "wof:geomhash":"263efa97b0b060a67cdae19e99e1c81a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080965,
+            "localadmin_id":404487983,
             "locality_id":101718107,
             "neighbourhood_id":85824773,
             "region_id":85688481,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":387765625,
-    "wof:lastmodified":1449058306,
+    "wof:lastmodified":1454360740,
     "wof:name":"Hermitage Hills Apts",
     "wof:parent_id":85824773,
     "wof:placetype":"venue",
@@ -75,6 +79,11 @@
         "finder"
     ]
 },
-  "bbox": [-80.43821,41.236351,-80.43821,41.236351],
+  "bbox": [
+    -80.43821,
+    41.236351,
+    -80.43821,
+    41.236351
+],
   "geometry": {"coordinates":[-80.43821,41.236351],"type":"Point"}
 }

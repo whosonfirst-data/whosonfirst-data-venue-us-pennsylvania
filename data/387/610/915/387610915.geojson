@@ -2,13 +2,14 @@
   "id": 387610915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.418641,39.852205,-78.418641,39.852205",
     "geom:latitude":39.852205,
     "geom:longitude":-78.418641,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5509 Clear Ridge Rd",
     "sg:city":"Clearville",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080939,
-        85848733
+        85848733,
+        102080939
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"4e284bfd60c394c26d2c829c2a5f23bd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080939,
-            "locality_id":-1,
             "neighbourhood_id":85848733,
             "region_id":85688481,
             "venue_id":387610915
         }
     ],
     "wof:id":387610915,
-    "wof:lastmodified":1449059862,
+    "wof:lastmodified":1454361213,
     "wof:name":"Susquehanna Entertainment",
     "wof:parent_id":85848733,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "business"
     ]
 },
-  "bbox": [-78.418641,39.852205,-78.418641,39.852205],
-  "geometry": {"coordinates":[-78.418641,39.852205],"type":"Point"}
+  "bbox": [
+    -78.418641,
+    39.852205,
+    -78.418641,
+    39.852205
+],
+  "geometry": {"coordinates":[-78.41864099999999,39.852205],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353664219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.936641,39.717362,-75.936641,39.717362",
     "geom:latitude":39.717362,
     "geom:longitude":-75.936641,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4005 Blue Ball Rd",
     "sg:city":"Elkton",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081275,
-        85810983
+        85810983,
+        102081275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"e11e4e96538bd4f5ff9f0639944b1e53",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081275,
-            "locality_id":-1,
             "neighbourhood_id":85810983,
             "region_id":85688481,
             "venue_id":353664219
         }
     ],
     "wof:id":353664219,
-    "wof:lastmodified":1449019204,
+    "wof:lastmodified":1454356382,
     "wof:name":"Elkton Log Homes",
     "wof:parent_id":85810983,
     "wof:placetype":"venue",
@@ -64,6 +63,11 @@
         "cabin"
     ]
 },
-  "bbox": [-75.936641,39.717362,-75.936641,39.717362],
-  "geometry": {"coordinates":[-75.936641,39.717362],"type":"Point"}
+  "bbox": [
+    -75.936641,
+    39.717362,
+    -75.936641,
+    39.717362
+],
+  "geometry": {"coordinates":[-75.93664099999999,39.717362],"type":"Point"}
 }

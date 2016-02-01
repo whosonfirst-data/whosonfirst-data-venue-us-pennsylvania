@@ -2,13 +2,14 @@
   "id": 403982795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.238352,39.829672,-77.238352,39.829672",
     "geom:latitude":39.829672,
     "geom:longitude":-77.238352,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"330 W Middle St",
     "sg:city":"Gettysburg",
     "sg:classifiers":[
@@ -40,8 +41,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080899,
-        85804527
+        85804527,
+        102080899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,17 +52,15 @@
     "wof:geomhash":"826641692b7c788cf5660ac115101011",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080899,
-            "locality_id":-1,
             "neighbourhood_id":85804527,
             "region_id":85688481,
             "venue_id":403982795
         }
     ],
     "wof:id":403982795,
-    "wof:lastmodified":1449054861,
+    "wof:lastmodified":1454357330,
     "wof:name":"Gettysburg Foursquare Church",
     "wof:parent_id":85804527,
     "wof:placetype":"venue",
@@ -71,6 +70,11 @@
         "churches-pentecostal"
     ]
 },
-  "bbox": [-77.238352,39.829672,-77.238352,39.829672],
-  "geometry": {"coordinates":[-77.238352,39.829672],"type":"Point"}
+  "bbox": [
+    -77.238352,
+    39.829672,
+    -77.238352,
+    39.829672
+],
+  "geometry": {"coordinates":[-77.23835200000001,39.829672],"type":"Point"}
 }

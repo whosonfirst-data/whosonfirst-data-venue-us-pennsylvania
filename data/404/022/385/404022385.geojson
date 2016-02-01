@@ -2,13 +2,14 @@
   "id": 404022385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.69487,39.939424,-76.69487,39.939424",
     "geom:latitude":39.939424,
     "geom:longitude":-76.69487,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2050 S Queen St",
     "sg:city":"York",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420540339,
+        102191575,
+        404488031,
         85633793,
         101719457,
-        102080953
+        102080953,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"9c6df021983a7fffecdaacab1cdb82c3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080953,
+            "localadmin_id":404488031,
             "locality_id":101719457,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420540339,
             "region_id":85688481,
             "venue_id":404022385
         }
     ],
     "wof:id":404022385,
-    "wof:lastmodified":1449039416,
+    "wof:lastmodified":1454356634,
     "wof:name":"Gymnastics Of York Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420540339,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "gymnastics"
     ]
 },
-  "bbox": [-76.69487,39.939424,-76.69487,39.939424],
-  "geometry": {"coordinates":[-76.69487,39.939424],"type":"Point"}
+  "bbox": [
+    -76.69487,
+    39.939424,
+    -76.69487,
+    39.939424
+],
+  "geometry": {"coordinates":[-76.69486999999999,39.939424],"type":"Point"}
 }

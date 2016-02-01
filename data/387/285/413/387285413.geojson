@@ -2,13 +2,14 @@
   "id": 387285413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.989445,40.428558,-79.989445,40.428558",
     "geom:latitude":40.428558,
     "geom:longitude":-79.989445,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"930 E Carson St",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85802827,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85802827
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"d401450cd9c6dddd7faa03987dd78654",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85802827,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387285413,
-    "wof:lastmodified":1449056227,
+    "wof:lastmodified":1454358177,
     "wof:name":"Pittsburgh School District",
     "wof:parent_id":85802827,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "elementary"
     ]
 },
-  "bbox": [-79.989445,40.428558,-79.989445,40.428558],
+  "bbox": [
+    -79.989445,
+    40.428558,
+    -79.989445,
+    40.428558
+],
   "geometry": {"coordinates":[-79.989445,40.428558],"type":"Point"}
 }

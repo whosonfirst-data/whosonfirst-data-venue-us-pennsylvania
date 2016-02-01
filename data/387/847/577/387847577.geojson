@@ -2,13 +2,14 @@
   "id": 387847577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.403746,40.526781,-78.403746,40.526781",
     "geom:latitude":40.526781,
     "geom:longitude":-78.403746,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"419 21st Ave",
     "sg:city":"Altoona",
     "sg:classifiers":[
@@ -36,11 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85818685,
+        102191575,
+        404484619,
         85633793,
         101716595,
         102081325,
-        85818685
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,9 +53,10 @@
     "wof:geomhash":"a2a6613a4018cd0da1243138164f96b3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081325,
+            "localadmin_id":404484619,
             "locality_id":101716595,
             "neighbourhood_id":85818685,
             "region_id":85688481,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":387847577,
-    "wof:lastmodified":1449057484,
+    "wof:lastmodified":1454359171,
     "wof:name":"Thermodoor Inc",
     "wof:parent_id":85818685,
     "wof:placetype":"venue",
@@ -74,6 +78,11 @@
         "type"
     ]
 },
-  "bbox": [-78.403746,40.526781,-78.403746,40.526781],
+  "bbox": [
+    -78.403746,
+    40.526781,
+    -78.403746,
+    40.526781
+],
   "geometry": {"coordinates":[-78.403746,40.526781],"type":"Point"}
 }

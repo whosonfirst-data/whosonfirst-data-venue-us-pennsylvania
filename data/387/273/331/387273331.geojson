@@ -2,13 +2,14 @@
   "id": 387273331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.770716,40.438558,-79.770716,40.438558",
     "geom:latitude":40.438558,
     "geom:longitude":-79.770716,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4053 William Penn Hwy",
     "sg:city":"Monroeville",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85821019,
+        102191575,
+        404484135,
         85633793,
         101718841,
         102080887,
-        85821019
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"1fee3b55cfbbc4f9d14a7a01fe38004b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484135,
             "locality_id":101718841,
             "neighbourhood_id":85821019,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387273331,
-    "wof:lastmodified":1449058080,
+    "wof:lastmodified":1454360676,
     "wof:name":"Js Music Corp",
     "wof:parent_id":85821019,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "distribution"
     ]
 },
-  "bbox": [-79.770716,40.438558,-79.770716,40.438558],
-  "geometry": {"coordinates":[-79.770716,40.438558],"type":"Point"}
+  "bbox": [
+    -79.770716,
+    40.438558,
+    -79.770716,
+    40.438558
+],
+  "geometry": {"coordinates":[-79.77071599999999,40.438558],"type":"Point"}
 }

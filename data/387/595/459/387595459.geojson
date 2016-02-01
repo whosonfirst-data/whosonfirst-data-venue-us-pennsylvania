@@ -2,13 +2,14 @@
   "id": 387595459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.758614,39.819641,-79.758614,39.819641",
     "geom:latitude":39.819641,
     "geom:longitude":-79.758614,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"20 S Morgantown St",
     "sg:city":"Fairchance",
     "sg:classifiers":[
@@ -40,8 +41,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080959,
-        85827687
+        85827687,
+        102080959
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,17 +52,15 @@
     "wof:geomhash":"9d36e27a3949cc6a2e8b2e74553e0576",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080959,
-            "locality_id":-1,
             "neighbourhood_id":85827687,
             "region_id":85688481,
             "venue_id":387595459
         }
     ],
     "wof:id":387595459,
-    "wof:lastmodified":1449059549,
+    "wof:lastmodified":1454361112,
     "wof:name":"Myers' Catering & Decorating",
     "wof:parent_id":85827687,
     "wof:placetype":"venue",
@@ -72,6 +71,11 @@
         "wedding"
     ]
 },
-  "bbox": [-79.758614,39.819641,-79.758614,39.819641],
-  "geometry": {"coordinates":[-79.758614,39.819641],"type":"Point"}
+  "bbox": [
+    -79.758614,
+    39.819641,
+    -79.758614,
+    39.819641
+],
+  "geometry": {"coordinates":[-79.75861399999999,39.819641],"type":"Point"}
 }

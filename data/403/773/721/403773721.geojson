@@ -2,13 +2,14 @@
   "id": 403773721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.722355,40.201166,-76.722355,40.201166",
     "geom:latitude":40.201166,
     "geom:longitude":-76.722355,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"444 E Main St",
     "sg:city":"Middletown",
     "sg:classifiers":[
@@ -54,7 +55,6 @@
     "wof:geomhash":"c798a8fc80ca8e092f3927661293f38f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
             "locality_id":101717723,
@@ -64,7 +64,7 @@
         }
     ],
     "wof:id":403773721,
-    "wof:lastmodified":1449054789,
+    "wof:lastmodified":1454357283,
     "wof:name":"H&R Block",
     "wof:parent_id":85820719,
     "wof:placetype":"venue",
@@ -81,6 +81,11 @@
         "bookkeeping"
     ]
 },
-  "bbox": [-76.722355,40.201166,-76.722355,40.201166],
-  "geometry": {"coordinates":[-76.722355,40.201166],"type":"Point"}
+  "bbox": [
+    -76.722355,
+    40.201166,
+    -76.722355,
+    40.201166
+],
+  "geometry": {"coordinates":[-76.72235499999999,40.201166],"type":"Point"}
 }

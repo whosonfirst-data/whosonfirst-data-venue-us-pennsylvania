@@ -2,13 +2,14 @@
   "id": 387716227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.011551,40.699478,-80.011551,40.699478",
     "geom:latitude":40.699478,
     "geom:longitude":-80.011551,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"101 Grand Ave",
     "sg:city":"Mars",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102083677,
-        85815109
+        85815109,
+        102083677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"eac8ac3782a80d8e022bbfa950be5802",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102083677,
-            "locality_id":-1,
             "neighbourhood_id":85815109,
             "region_id":85688481,
             "venue_id":387716227
         }
     ],
     "wof:id":387716227,
-    "wof:lastmodified":1449056641,
+    "wof:lastmodified":1454358508,
     "wof:name":"Agway",
     "wof:parent_id":85815109,
     "wof:placetype":"venue",
@@ -63,6 +62,11 @@
         "lawn"
     ]
 },
-  "bbox": [-80.011551,40.699478,-80.011551,40.699478],
+  "bbox": [
+    -80.011551,
+    40.699478,
+    -80.011551,
+    40.699478
+],
   "geometry": {"coordinates":[-80.011551,40.699478],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387224905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.030421,40.330773,-80.030421,40.330773",
     "geom:latitude":40.330773,
     "geom:longitude":-80.030421,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5147 Brightwood Rd",
     "sg:city":"Bethel Park",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536303,
+        102191575,
+        404484853,
         85633793,
         101718799,
-        102080887
+        102080887,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"2314a6ae109af746d2df89468d72afa5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484853,
             "locality_id":101718799,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420536303,
             "region_id":85688481,
             "venue_id":387224905
         }
     ],
     "wof:id":387224905,
-    "wof:lastmodified":1449058892,
+    "wof:lastmodified":1454360916,
     "wof:name":"Miller's Garage",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536303,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.030421,40.330773,-80.030421,40.330773],
+  "bbox": [
+    -80.030421,
+    40.330773,
+    -80.030421,
+    40.330773
+],
   "geometry": {"coordinates":[-80.030421,40.330773],"type":"Point"}
 }

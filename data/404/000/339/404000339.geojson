@@ -2,13 +2,14 @@
   "id": 404000339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.353431,39.851026,-77.353431,39.851026",
     "geom:latitude":39.851026,
     "geom:longitude":-77.353431,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1140 Carrolls Tract Rd",
     "sg:city":"Orrtanna",
     "sg:classifiers":[
@@ -37,8 +38,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080899,
-        85833295
+        85833295,
+        102080899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +49,15 @@
     "wof:geomhash":"f2d11bf2e8d0e1bf345880e281747f4a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080899,
-            "locality_id":-1,
             "neighbourhood_id":85833295,
             "region_id":85688481,
             "venue_id":404000339
         }
     ],
     "wof:id":404000339,
-    "wof:lastmodified":1449039209,
+    "wof:lastmodified":1454356523,
     "wof:name":"Wayne W Woerner",
     "wof:parent_id":85833295,
     "wof:placetype":"venue",
@@ -71,6 +70,11 @@
         "grower"
     ]
 },
-  "bbox": [-77.353431,39.851026,-77.353431,39.851026],
+  "bbox": [
+    -77.353431,
+    39.851026,
+    -77.353431,
+    39.851026
+],
   "geometry": {"coordinates":[-77.353431,39.851026],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403879229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.889397,40.318199,-76.889397,40.318199",
     "geom:latitude":40.318199,
     "geom:longitude":-76.889397,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3900 Industrial Rd",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -26,8 +27,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85858225
+        85858225,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,17 +38,15 @@
     "wof:geomhash":"1f4d5cc1da0bdb5ddbca70798c73b57f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85858225,
             "region_id":85688481,
             "venue_id":403879229
         }
     ],
     "wof:id":403879229,
-    "wof:lastmodified":1449054645,
+    "wof:lastmodified":1454357191,
     "wof:name":"Supervalu Eastern Region",
     "wof:parent_id":85858225,
     "wof:placetype":"venue",
@@ -55,6 +54,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.889397,40.318199,-76.889397,40.318199],
+  "bbox": [
+    -76.889397,
+    40.318199,
+    -76.889397,
+    40.318199
+],
   "geometry": {"coordinates":[-76.889397,40.318199],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387725321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.941053,40.681583,-79.941053,40.681583",
     "geom:latitude":40.681583,
     "geom:longitude":-79.941053,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"216 Chan Mowr Dr",
     "sg:city":"Valencia",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102083677,
-        85815109
+        85815109,
+        102083677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"02a721f3d698078ec0641dd45064d723",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102083677,
-            "locality_id":-1,
             "neighbourhood_id":85815109,
             "region_id":85688481,
             "venue_id":387725321
         }
     ],
     "wof:id":387725321,
-    "wof:lastmodified":1449057025,
+    "wof:lastmodified":1454358782,
     "wof:name":"Sports Medictothe Rescue",
     "wof:parent_id":85815109,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "welfare"
     ]
 },
-  "bbox": [-79.941053,40.681583,-79.941053,40.681583],
+  "bbox": [
+    -79.941053,
+    40.681583,
+    -79.941053,
+    40.681583
+],
   "geometry": {"coordinates":[-79.941053,40.681583],"type":"Point"}
 }

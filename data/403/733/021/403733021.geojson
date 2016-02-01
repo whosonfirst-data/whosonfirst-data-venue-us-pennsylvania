@@ -2,13 +2,14 @@
   "id": 403733021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.403221,40.354275,-76.403221,40.354275",
     "geom:latitude":40.354275,
     "geom:longitude":-76.403221,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"500 Weavertown Rd Unit 80",
     "sg:city":"Lebanon",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85824511,
+        102191575,
+        404485817,
         85633793,
-        101719403,
+        101719375,
         102081341,
-        85824511
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"61bb468d1c7de068e4d3ad45c8b579eb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081341,
-            "locality_id":101719403,
+            "localadmin_id":404485817,
+            "locality_id":101719375,
             "neighbourhood_id":85824511,
             "region_id":85688481,
             "venue_id":403733021
         }
     ],
     "wof:id":403733021,
-    "wof:lastmodified":1449054805,
+    "wof:lastmodified":1454357295,
     "wof:name":"J Velez & Associates Inc",
     "wof:parent_id":85824511,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "guard"
     ]
 },
-  "bbox": [-76.403221,40.354275,-76.403221,40.354275],
+  "bbox": [
+    -76.403221,
+    40.354275,
+    -76.403221,
+    40.354275
+],
   "geometry": {"coordinates":[-76.403221,40.354275],"type":"Point"}
 }

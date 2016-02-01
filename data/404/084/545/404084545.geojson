@@ -2,13 +2,14 @@
   "id": 404084545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.293992,40.048508,-76.293992,40.048508",
     "geom:latitude":40.048508,
     "geom:longitude":-76.293992,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"604 New Holland Ave",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -47,11 +48,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85822505,
+        102191575,
+        404487183,
         85633793,
         101718643,
         102081377,
-        85822505
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,9 +64,10 @@
     "wof:geomhash":"af436fa8823e8574d0cf7823970f87bc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081377,
+            "localadmin_id":404487183,
             "locality_id":101718643,
             "neighbourhood_id":85822505,
             "region_id":85688481,
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":404084545,
-    "wof:lastmodified":1449039146,
+    "wof:lastmodified":1454356473,
     "wof:name":"Aaron Mccloud Massage Therapy Center",
     "wof:parent_id":85822505,
     "wof:placetype":"venue",
@@ -86,6 +90,11 @@
         "physical"
     ]
 },
-  "bbox": [-76.293992,40.048508,-76.293992,40.048508],
+  "bbox": [
+    -76.293992,
+    40.048508,
+    -76.293992,
+    40.048508
+],
   "geometry": {"coordinates":[-76.293992,40.048508],"type":"Point"}
 }

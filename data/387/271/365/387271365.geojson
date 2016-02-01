@@ -2,13 +2,14 @@
   "id": 387271365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.102305,40.604031,-80.102305,40.604031",
     "geom:latitude":40.604031,
     "geom:longitude":-80.102305,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2200 Georgetown Dr # 100",
     "sg:city":"Sewickley",
     "sg:classifiers":[
@@ -48,11 +49,13 @@
     "sg:website":"http://www.lfaonline.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85815367,
+        102191575,
+        404484933,
         85633793,
         101718681,
         102080887,
-        85815367
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,9 +65,10 @@
     "wof:geomhash":"fdf4ba105034c07cd1467f04a4fd2a2c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484933,
             "locality_id":101718681,
             "neighbourhood_id":85815367,
             "region_id":85688481,
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":387271365,
-    "wof:lastmodified":1449058099,
+    "wof:lastmodified":1454360680,
     "wof:name":"Lincoln Financial",
     "wof:parent_id":85815367,
     "wof:placetype":"venue",
@@ -87,6 +91,11 @@
         "security"
     ]
 },
-  "bbox": [-80.102305,40.604031,-80.102305,40.604031],
+  "bbox": [
+    -80.102305,
+    40.604031,
+    -80.102305,
+    40.604031
+],
   "geometry": {"coordinates":[-80.102305,40.604031],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387440313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.993599,40.367001,-79.993599,40.367001",
     "geom:latitude":40.367001,
     "geom:longitude":-79.993599,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3312 Provost Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85830717,
+        102191575,
+        404484869,
         85633793,
         101718761,
         102080887,
-        85830717
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"b83d14e05740129ce565113834f752da",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484869,
             "locality_id":101718761,
             "neighbourhood_id":85830717,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387440313,
-    "wof:lastmodified":1449057443,
+    "wof:lastmodified":1454359129,
     "wof:name":"Tri-State Painting and Restoration Co",
     "wof:parent_id":85830717,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "painter"
     ]
 },
-  "bbox": [-79.993599,40.367001,-79.993599,40.367001],
+  "bbox": [
+    -79.993599,
+    40.367001,
+    -79.993599,
+    40.367001
+],
   "geometry": {"coordinates":[-79.993599,40.367001],"type":"Point"}
 }

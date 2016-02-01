@@ -2,13 +2,14 @@
   "id": 387584319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.148179,39.898367,-80.148179,39.898367",
     "geom:latitude":39.898367,
     "geom:longitude":-80.148179,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"110 Greene Plz",
     "sg:city":"Waynesburg",
     "sg:classifiers":[
@@ -40,8 +41,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080975,
-        85835337
+        85835337,
+        102080975
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,17 +52,15 @@
     "wof:geomhash":"8cb7650202a5418a8fce4b75324324f1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080975,
-            "locality_id":-1,
             "neighbourhood_id":85835337,
             "region_id":85688481,
             "venue_id":387584319
         }
     ],
     "wof:id":387584319,
-    "wof:lastmodified":1449056525,
+    "wof:lastmodified":1454358415,
     "wof:name":"Big Lots",
     "wof:parent_id":85835337,
     "wof:placetype":"venue",
@@ -71,6 +70,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-80.148179,39.898367,-80.148179,39.898367],
+  "bbox": [
+    -80.148179,
+    39.898367,
+    -80.148179,
+    39.898367
+],
   "geometry": {"coordinates":[-80.148179,39.898367],"type":"Point"}
 }

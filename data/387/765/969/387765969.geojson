@@ -2,13 +2,14 @@
   "id": 387765969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.471662,41.219057,-80.471662,41.219057",
     "geom:latitude":41.219057,
     "geom:longitude":-80.471662,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1119 Mercer Ave",
     "sg:city":"Hermitage",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85824773,
+        102191575,
+        404487983,
         85633793,
         101718107,
         102080965,
-        85824773
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"40f19b2353cd284251e682997ff470d6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080965,
+            "localadmin_id":404487983,
             "locality_id":101718107,
             "neighbourhood_id":85824773,
             "region_id":85688481,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":387765969,
-    "wof:lastmodified":1449058300,
+    "wof:lastmodified":1454360739,
     "wof:name":"Pizza Pan",
     "wof:parent_id":85824773,
     "wof:placetype":"venue",
@@ -68,6 +72,11 @@
         "pizza"
     ]
 },
-  "bbox": [-80.471662,41.219057,-80.471662,41.219057],
-  "geometry": {"coordinates":[-80.471662,41.219057],"type":"Point"}
+  "bbox": [
+    -80.471662,
+    41.219057,
+    -80.471662,
+    41.219057
+],
+  "geometry": {"coordinates":[-80.47166199999999,41.219057],"type":"Point"}
 }

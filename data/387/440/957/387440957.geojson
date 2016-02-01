@@ -2,13 +2,14 @@
   "id": 387440957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.982472,40.367697,-79.982472,40.367697",
     "geom:latitude":40.367697,
     "geom:longitude":-79.982472,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"312 Towne Square Way",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -25,11 +26,13 @@
     "sg:website":"www.borics.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85857905,
+        102191575,
+        404484247,
         85633793,
         101718705,
         102080887,
-        85857905
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +42,10 @@
     "wof:geomhash":"42debad6d89b84d192ce113bb17ceaad",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484247,
             "locality_id":101718705,
             "neighbourhood_id":85857905,
             "region_id":85688481,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":387440957,
-    "wof:lastmodified":1449057447,
+    "wof:lastmodified":1454359133,
     "wof:name":"Borics Hair Care",
     "wof:parent_id":85857905,
     "wof:placetype":"venue",
@@ -57,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.982472,40.367697,-79.982472,40.367697],
+  "bbox": [
+    -79.982472,
+    40.367697,
+    -79.982472,
+    40.367697
+],
   "geometry": {"coordinates":[-79.982472,40.367697],"type":"Point"}
 }

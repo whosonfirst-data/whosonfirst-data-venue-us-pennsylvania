@@ -2,13 +2,14 @@
   "id": 387610559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.221481,40.056376,-78.221481,40.056376",
     "geom:latitude":40.056376,
     "geom:longitude":-78.221481,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1103 Mountain Chapel Rd",
     "sg:city":"Breezewood",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081273,
-        85839365
+        85839365,
+        102081273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"61d1bae801b5faf1022682c4f7acbba3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081273,
-            "locality_id":-1,
             "neighbourhood_id":85839365,
             "region_id":85688481,
             "venue_id":387610559
         }
     ],
     "wof:id":387610559,
-    "wof:lastmodified":1449059861,
+    "wof:lastmodified":1454361213,
     "wof:name":"Douglas Whipkey Trucking",
     "wof:parent_id":85839365,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "trucking"
     ]
 },
-  "bbox": [-78.221481,40.056376,-78.221481,40.056376],
+  "bbox": [
+    -78.221481,
+    40.056376,
+    -78.221481,
+    40.056376
+],
   "geometry": {"coordinates":[-78.221481,40.056376],"type":"Point"}
 }

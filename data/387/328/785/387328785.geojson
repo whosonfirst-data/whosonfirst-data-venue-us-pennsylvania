@@ -2,13 +2,14 @@
   "id": 387328785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.0298,40.4198,-80.0298,40.4198",
     "geom:latitude":40.4198,
     "geom:longitude":-80.0298,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1000 Banksville Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"www.marksweitzerpainting.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85873597,
+        102191575,
+        404482523,
         85633793,
-        101718673,
+        101718805,
         102080887,
-        85873597
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"d22f92a237bea0f5cbcb3711113ac4a7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":101718673,
+            "localadmin_id":404482523,
+            "locality_id":101718805,
             "neighbourhood_id":85873597,
             "region_id":85688481,
             "venue_id":387328785
         }
     ],
     "wof:id":387328785,
-    "wof:lastmodified":1449058346,
+    "wof:lastmodified":1454360751,
     "wof:name":"Mark Sweitzer Painting",
     "wof:parent_id":85873597,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "painter"
     ]
 },
-  "bbox": [-80.0298,40.4198,-80.0298,40.4198],
-  "geometry": {"coordinates":[-80.0298,40.4198],"type":"Point"}
+  "bbox": [
+    -80.0298,
+    40.4198,
+    -80.0298,
+    40.4198
+],
+  "geometry": {"coordinates":[-80.02979999999999,40.4198],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387634099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.756751,40.338626,-79.756751,40.338626",
     "geom:latitude":40.338626,
     "geom:longitude":-79.756751,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"185 Colonial Manor Rd",
     "sg:city":"Irwin",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081383,
-        85851055
+        85851055,
+        102081383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"f815212b0c2aaa0cb630528bd25afaa7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":-1,
             "neighbourhood_id":85851055,
             "region_id":85688481,
             "venue_id":387634099
         }
     ],
     "wof:id":387634099,
-    "wof:lastmodified":1449057918,
+    "wof:lastmodified":1454360632,
     "wof:name":"Allied.com",
     "wof:parent_id":85851055,
     "wof:placetype":"venue",
@@ -64,6 +63,11 @@
         "storage"
     ]
 },
-  "bbox": [-79.756751,40.338626,-79.756751,40.338626],
-  "geometry": {"coordinates":[-79.756751,40.338626],"type":"Point"}
+  "bbox": [
+    -79.756751,
+    40.338626,
+    -79.756751,
+    40.338626
+],
+  "geometry": {"coordinates":[-79.75675099999999,40.338626],"type":"Point"}
 }

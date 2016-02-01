@@ -2,13 +2,14 @@
   "id": 387281483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.090796,40.508845,-80.090796,40.508845",
     "geom:latitude":40.508845,
     "geom:longitude":-80.090796,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"8070 Ohio River Blvd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -34,8 +35,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85842091
+        85842091,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +46,15 @@
     "wof:geomhash":"7178a61bd9cd4eaabf89865ccfa9bc21",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85842091,
             "region_id":85688481,
             "venue_id":387281483
         }
     ],
     "wof:id":387281483,
-    "wof:lastmodified":1449059347,
+    "wof:lastmodified":1454361048,
     "wof:name":"Gennaros Cafe Inc",
     "wof:parent_id":85842091,
     "wof:placetype":"venue",
@@ -65,6 +64,11 @@
         "espresso"
     ]
 },
-  "bbox": [-80.090796,40.508845,-80.090796,40.508845],
+  "bbox": [
+    -80.090796,
+    40.508845,
+    -80.090796,
+    40.508845
+],
   "geometry": {"coordinates":[-80.090796,40.508845],"type":"Point"}
 }

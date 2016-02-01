@@ -2,13 +2,14 @@
   "id": 387335337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.041901,40.389301,-80.041901,40.389301",
     "geom:latitude":40.389301,
     "geom:longitude":-80.041901,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3269 W Liberty Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -37,10 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536353,
+        102191575,
+        404484881,
         85633793,
         101718733,
-        102080887
+        102080887,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,19 +54,20 @@
     "wof:geomhash":"28350381e831836fd88f41d991ef0f64",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484881,
             "locality_id":101718733,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420536353,
             "region_id":85688481,
             "venue_id":387335337
         }
     ],
     "wof:id":387335337,
-    "wof:lastmodified":1449058620,
+    "wof:lastmodified":1454360831,
     "wof:name":"South Hills & North Hills Beauty Academy",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536353,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -70,6 +75,11 @@
         "cosmetology"
     ]
 },
-  "bbox": [-80.041901,40.389301,-80.041901,40.389301],
+  "bbox": [
+    -80.041901,
+    40.389301,
+    -80.041901,
+    40.389301
+],
   "geometry": {"coordinates":[-80.041901,40.389301],"type":"Point"}
 }

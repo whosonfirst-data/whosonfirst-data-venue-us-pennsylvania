@@ -2,13 +2,14 @@
   "id": 387789509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.15711,41.645452,-80.15711,41.645452",
     "geom:latitude":41.645452,
     "geom:longitude":-80.15711,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"764 Bessemer St Ste 102",
     "sg:city":"Meadville",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85820629,
+        102191575,
+        404486287,
         85633793,
         101718923,
         102080911,
-        85820629
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"254b337ea6e1bd0e14945092f967ed5e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080911,
+            "localadmin_id":404486287,
             "locality_id":101718923,
             "neighbourhood_id":85820629,
             "region_id":85688481,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":387789509,
-    "wof:lastmodified":1449057815,
+    "wof:lastmodified":1454360605,
     "wof:name":"Regional Center For Workforce Excellence",
     "wof:parent_id":85820629,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.15711,41.645452,-80.15711,41.645452],
+  "bbox": [
+    -80.15711,
+    41.645452,
+    -80.15711,
+    41.645452
+],
   "geometry": {"coordinates":[-80.15711,41.645452],"type":"Point"}
 }

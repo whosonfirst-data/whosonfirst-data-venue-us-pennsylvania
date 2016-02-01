@@ -2,13 +2,14 @@
   "id": 387276535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.769432,40.435322,-79.769432,40.435322",
     "geom:latitude":40.435322,
     "geom:longitude":-79.769432,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4036 Monroeville Blvd",
     "sg:city":"Monroeville",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85821019,
+        102191575,
+        404484135,
         85633793,
         101718841,
         102080887,
-        85821019
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"4b7270bf6a7799cbcea537701d4e050b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484135,
             "locality_id":101718841,
             "neighbourhood_id":85821019,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387276535,
-    "wof:lastmodified":1449056258,
+    "wof:lastmodified":1454358202,
     "wof:name":"J C Hair Design",
     "wof:parent_id":85821019,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.769432,40.435322,-79.769432,40.435322],
-  "geometry": {"coordinates":[-79.769432,40.435322],"type":"Point"}
+  "bbox": [
+    -79.769432,
+    40.435322,
+    -79.769432,
+    40.435322
+],
+  "geometry": {"coordinates":[-79.76943199999999,40.435322],"type":"Point"}
 }

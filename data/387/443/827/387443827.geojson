@@ -2,13 +2,14 @@
   "id": 387443827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.050903,40.351299,-80.050903,40.351299",
     "geom:latitude":40.351299,
     "geom:longitude":-80.050903,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1699 Washington Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"www.handsoncare.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85805921,
+        102191575,
+        404484853,
         85633793,
         101718799,
         102080887,
-        85805921
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"1f71c1619a65924992c71dc1872f1241",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484853,
             "locality_id":101718799,
             "neighbourhood_id":85805921,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387443827,
-    "wof:lastmodified":1449059217,
+    "wof:lastmodified":1454361014,
     "wof:name":"Physical Therapy Center the",
     "wof:parent_id":85805921,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "physical"
     ]
 },
-  "bbox": [-80.050903,40.351299,-80.050903,40.351299],
-  "geometry": {"coordinates":[-80.050903,40.351299],"type":"Point"}
+  "bbox": [
+    -80.050903,
+    40.351299,
+    -80.050903,
+    40.351299
+],
+  "geometry": {"coordinates":[-80.05090300000001,40.351299],"type":"Point"}
 }

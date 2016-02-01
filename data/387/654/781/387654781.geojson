@@ -2,13 +2,14 @@
   "id": 387654781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.122757,40.636238,-79.122757,40.636238",
     "geom:latitude":40.636238,
     "geom:longitude":-79.122757,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"550 Hamill Rd",
     "sg:city":"Indiana",
     "sg:classifiers":[
@@ -38,8 +39,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081387,
-        85810803
+        85810803,
+        102081387
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +50,15 @@
     "wof:geomhash":"91a27f7b00b3b4345ddbf6559ebeeb87",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081387,
-            "locality_id":-1,
             "neighbourhood_id":85810803,
             "region_id":85688481,
             "venue_id":387654781
         }
     ],
     "wof:id":387654781,
-    "wof:lastmodified":1449057374,
+    "wof:lastmodified":1454359064,
     "wof:name":"Flooring Unlimited",
     "wof:parent_id":85810803,
     "wof:placetype":"venue",
@@ -73,6 +72,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.122757,40.636238,-79.122757,40.636238],
-  "geometry": {"coordinates":[-79.122757,40.636238],"type":"Point"}
+  "bbox": [
+    -79.122757,
+    40.636238,
+    -79.122757,
+    40.636238
+],
+  "geometry": {"coordinates":[-79.12275699999999,40.636238],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387588523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.724676,39.902289,-79.724676,39.902289",
     "geom:latitude":39.902289,
     "geom:longitude":-79.724676,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"25 E Penn St",
     "sg:city":"Uniontown",
     "sg:classifiers":[
@@ -40,10 +41,13 @@
     "sg:website":"http://www.hrblock.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85850161,
+        102191575,
+        404487055,
         85633793,
+        101719799,
         102080959,
-        85850161
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,17 +57,18 @@
     "wof:geomhash":"3c9b01033f5bfb0d6a5a92a2c5d855ca",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080959,
-            "locality_id":-1,
+            "localadmin_id":404487055,
+            "locality_id":101719799,
             "neighbourhood_id":85850161,
             "region_id":85688481,
             "venue_id":387588523
         }
     ],
     "wof:id":387588523,
-    "wof:lastmodified":1449059167,
+    "wof:lastmodified":1454361003,
     "wof:name":"H&R Block",
     "wof:parent_id":85850161,
     "wof:placetype":"venue",
@@ -80,6 +85,11 @@
         "bookkeeping"
     ]
 },
-  "bbox": [-79.724676,39.902289,-79.724676,39.902289],
+  "bbox": [
+    -79.724676,
+    39.902289,
+    -79.724676,
+    39.902289
+],
   "geometry": {"coordinates":[-79.724676,39.902289],"type":"Point"}
 }

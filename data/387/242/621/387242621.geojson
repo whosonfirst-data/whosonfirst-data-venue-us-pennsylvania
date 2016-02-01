@@ -2,13 +2,14 @@
   "id": 387242621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.21099,40.543301,-80.21099,40.543301",
     "geom:latitude":40.543301,
     "geom:longitude":-80.21099,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1155 Stoops Ferry Rd",
     "sg:city":"Coraopolis",
     "sg:classifiers":[
@@ -50,11 +51,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85848361,
+        102191575,
+        404484893,
         85633793,
-        101718661,
+        101718695,
         102080887,
-        85848361
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,17 +67,18 @@
     "wof:geomhash":"4afccd8e5155f7b3d043e89a86c58a3b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":101718661,
+            "localadmin_id":404484893,
+            "locality_id":101718695,
             "neighbourhood_id":85848361,
             "region_id":85688481,
             "venue_id":387242621
         }
     ],
     "wof:id":387242621,
-    "wof:lastmodified":1449059468,
+    "wof:lastmodified":1454361093,
     "wof:name":"1st Out Specialty Vehicle Service & Repair Center",
     "wof:parent_id":85848361,
     "wof:placetype":"venue",
@@ -92,6 +96,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-80.21099,40.543301,-80.21099,40.543301],
+  "bbox": [
+    -80.21099,
+    40.543301,
+    -80.21099,
+    40.543301
+],
   "geometry": {"coordinates":[-80.21099,40.543301],"type":"Point"}
 }

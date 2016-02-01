@@ -2,13 +2,14 @@
   "id": 403774687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.75911,40.244229,-76.75911,40.244229",
     "geom:latitude":40.244229,
     "geom:longitude":-76.75911,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1346 Butter Churn Rd",
     "sg:city":"Middletown",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85811387
+        85811387,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"8f9a5c85b032ae95220b79462369c99e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85811387,
             "region_id":85688481,
             "venue_id":403774687
         }
     ],
     "wof:id":403774687,
-    "wof:lastmodified":1449055151,
+    "wof:lastmodified":1454357500,
     "wof:name":"Douglas Weinstein Acupuncture",
     "wof:parent_id":85811387,
     "wof:placetype":"venue",
@@ -64,6 +63,11 @@
         "alternative"
     ]
 },
-  "bbox": [-76.75911,40.244229,-76.75911,40.244229],
-  "geometry": {"coordinates":[-76.75911,40.244229],"type":"Point"}
+  "bbox": [
+    -76.75911,
+    40.244229,
+    -76.75911,
+    40.244229
+],
+  "geometry": {"coordinates":[-76.75911000000001,40.244229],"type":"Point"}
 }

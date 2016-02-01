@@ -2,13 +2,14 @@
   "id": 387637907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.585666,40.349598,-79.585666,40.349598",
     "geom:latitude":40.349598,
     "geom:longitude":-79.585666,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"218 Ashbaugh Rd",
     "sg:city":"Jeannette",
     "sg:classifiers":[
@@ -32,8 +33,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081383,
-        85843595
+        85843595,
+        102081383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +44,15 @@
     "wof:geomhash":"4e1c244fd1d3ef911e8bf3345989a52f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":-1,
             "neighbourhood_id":85843595,
             "region_id":85688481,
             "venue_id":387637907
         }
     ],
     "wof:id":387637907,
-    "wof:lastmodified":1449056116,
+    "wof:lastmodified":1454358094,
     "wof:name":"Hartman Construction",
     "wof:parent_id":85843595,
     "wof:placetype":"venue",
@@ -66,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.585666,40.349598,-79.585666,40.349598],
+  "bbox": [
+    -79.585666,
+    40.349598,
+    -79.585666,
+    40.349598
+],
   "geometry": {"coordinates":[-79.585666,40.349598],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404019759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.720452,39.957034,-76.720452,39.957034",
     "geom:latitude":39.957034,
     "geom:longitude":-76.720452,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"457 S Queen St",
     "sg:city":"York",
     "sg:classifiers":[
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85850705,
+        102191575,
+        404488029,
         85633793,
+        101717279,
         102080953,
-        85850705
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +49,18 @@
     "wof:geomhash":"446c095657437783971b5b49c0066be2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
+            "localadmin_id":404488029,
+            "locality_id":101717279,
             "neighbourhood_id":85850705,
             "region_id":85688481,
             "venue_id":404019759
         }
     ],
     "wof:id":404019759,
-    "wof:lastmodified":1449039825,
+    "wof:lastmodified":1454356823,
     "wof:name":"La Hachendita",
     "wof:parent_id":85850705,
     "wof:placetype":"venue",
@@ -65,6 +70,11 @@
         "delicatessen"
     ]
 },
-  "bbox": [-76.720452,39.957034,-76.720452,39.957034],
-  "geometry": {"coordinates":[-76.720452,39.957034],"type":"Point"}
+  "bbox": [
+    -76.720452,
+    39.957034,
+    -76.720452,
+    39.957034
+],
+  "geometry": {"coordinates":[-76.72045199999999,39.957034],"type":"Point"}
 }

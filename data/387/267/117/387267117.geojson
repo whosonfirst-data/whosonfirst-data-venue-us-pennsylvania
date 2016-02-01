@@ -2,13 +2,14 @@
   "id": 387267117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.156626,40.627562,-80.156626,40.627562",
     "geom:latitude":40.627562,
     "geom:longitude":-80.156626,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"120 Mcguire Rd",
     "sg:city":"Sewickley",
     "sg:classifiers":[
@@ -37,11 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85841931,
+        102191575,
+        404484437,
         85633793,
-        101718813,
-        102080887,
-        85841931
+        101718383,
+        102081323,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,17 +54,18 @@
     "wof:geomhash":"c15eca83ae3ac57c94861398625fe626",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102080887,
-            "locality_id":101718813,
+            "county_id":102081323,
+            "localadmin_id":404484437,
+            "locality_id":101718383,
             "neighbourhood_id":85841931,
             "region_id":85688481,
             "venue_id":387267117
         }
     ],
     "wof:id":387267117,
-    "wof:lastmodified":1449059573,
+    "wof:lastmodified":1454361123,
     "wof:name":"Larrys Carpet & Upholstery Clg",
     "wof:parent_id":85841931,
     "wof:placetype":"venue",
@@ -76,6 +80,11 @@
         "carpet"
     ]
 },
-  "bbox": [-80.156626,40.627562,-80.156626,40.627562],
+  "bbox": [
+    -80.156626,
+    40.627562,
+    -80.156626,
+    40.627562
+],
   "geometry": {"coordinates":[-80.156626,40.627562],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387122431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.414058,40.384612,-80.414058,40.384612",
     "geom:latitude":40.384612,
     "geom:longitude":-80.414058,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"38 Francis Rd",
     "sg:city":"Burgettstown",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081343,
-        85819639
+        85819639,
+        102081343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"247ee5621fdcfb5543c4eb0e2dce9466",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081343,
-            "locality_id":-1,
             "neighbourhood_id":85819639,
             "region_id":85688481,
             "venue_id":387122431
         }
     ],
     "wof:id":387122431,
-    "wof:lastmodified":1449058263,
+    "wof:lastmodified":1454360729,
     "wof:name":"Omband Company",
     "wof:parent_id":85819639,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-80.414058,40.384612,-80.414058,40.384612],
+  "bbox": [
+    -80.414058,
+    40.384612,
+    -80.414058,
+    40.384612
+],
   "geometry": {"coordinates":[-80.414058,40.384612],"type":"Point"}
 }

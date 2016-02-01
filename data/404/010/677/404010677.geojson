@@ -2,13 +2,14 @@
   "id": 404010677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.670103,39.982415,-76.670103,39.982415",
     "geom:latitude":39.982415,
     "geom:longitude":-76.670103,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2865 Concord Rd",
     "sg:city":"York",
     "sg:classifiers":[
@@ -29,7 +30,12 @@
     "sg:website":"http://www.geeksquad.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420540439,
+        102191575,
+        404487939,
         85633793,
+        101719469,
+        102080953,
         85688481
     ],
     "wof:breaches":[],
@@ -40,18 +46,20 @@
     "wof:geomhash":"e0ced9e5ede1110b0ba6ee991de1f125",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102080953,
+            "localadmin_id":404487939,
+            "locality_id":101719469,
+            "neighbourhood_id":420540439,
             "region_id":85688481,
             "venue_id":404010677
         }
     ],
     "wof:id":404010677,
-    "wof:lastmodified":1449039857,
+    "wof:lastmodified":1454356845,
     "wof:name":"Geek Squad",
-    "wof:parent_id":-1,
+    "wof:parent_id":420540439,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +68,11 @@
         "equipment-service"
     ]
 },
-  "bbox": [-76.670103,39.982415,-76.670103,39.982415],
+  "bbox": [
+    -76.670103,
+    39.982415,
+    -76.670103,
+    39.982415
+],
   "geometry": {"coordinates":[-76.670103,39.982415],"type":"Point"}
 }

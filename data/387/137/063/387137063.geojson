@@ -2,13 +2,14 @@
   "id": 387137063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.36226,40.51197,-80.36226,40.51197",
     "geom:latitude":40.51197,
     "geom:longitude":-80.36226,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"129 Patterson Farm Rd",
     "sg:city":"Clinton",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85836049
+        85836049,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"22c8fd2e5feb7b664c48018906ccf2f9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85836049,
             "region_id":85688481,
             "venue_id":387137063
         }
     ],
     "wof:id":387137063,
-    "wof:lastmodified":1449059399,
+    "wof:lastmodified":1454361069,
     "wof:name":"Action Photos",
     "wof:parent_id":85836049,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "wedding"
     ]
 },
-  "bbox": [-80.36226,40.51197,-80.36226,40.51197],
-  "geometry": {"coordinates":[-80.36226,40.51197],"type":"Point"}
+  "bbox": [
+    -80.36226,
+    40.51197,
+    -80.36226,
+    40.51197
+],
+  "geometry": {"coordinates":[-80.36226000000001,40.51197],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387490153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.986801,40.351601,-79.986801,40.351601",
     "geom:latitude":40.351601,
     "geom:longitude":-79.986801,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4932 Carlyn Dr",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536253,
+        102191575,
+        404484861,
         85633793,
-        101718705,
-        102080887
+        101718815,
+        102080887,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"e660b147272a34503470012b07a4faee",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":101718705,
-            "neighbourhood_id":-1,
+            "localadmin_id":404484861,
+            "locality_id":101718815,
+            "neighbourhood_id":420536253,
             "region_id":85688481,
             "venue_id":387490153
         }
     ],
     "wof:id":387490153,
-    "wof:lastmodified":1449059529,
+    "wof:lastmodified":1454361109,
     "wof:name":"Picchi Contracting Inc Contracting",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536253,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.986801,40.351601,-79.986801,40.351601],
+  "bbox": [
+    -79.986801,
+    40.351601,
+    -79.986801,
+    40.351601
+],
   "geometry": {"coordinates":[-79.986801,40.351601],"type":"Point"}
 }

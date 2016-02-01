@@ -2,13 +2,14 @@
   "id": 387856653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.580045,40.460505,-78.580045,40.460505",
     "geom:latitude":40.460505,
     "geom:longitude":-78.580045,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"748 Keystone Ave",
     "sg:city":"Cresson",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85825859,
+        102191575,
+        404482895,
         85633793,
         101717789,
         102080879,
-        85825859
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"bcc0af533d7bd052c354fb7230613fa3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080879,
+            "localadmin_id":404482895,
             "locality_id":101717789,
             "neighbourhood_id":85825859,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387856653,
-    "wof:lastmodified":1449057175,
+    "wof:lastmodified":1454358904,
     "wof:name":"Kenneth M Anderson",
     "wof:parent_id":85825859,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "accountants-certified"
     ]
 },
-  "bbox": [-78.580045,40.460505,-78.580045,40.460505],
+  "bbox": [
+    -78.580045,
+    40.460505,
+    -78.580045,
+    40.460505
+],
   "geometry": {"coordinates":[-78.580045,40.460505],"type":"Point"}
 }

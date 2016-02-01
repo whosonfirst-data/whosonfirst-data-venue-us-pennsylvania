@@ -2,13 +2,14 @@
   "id": 387450177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.038498,40.516221,-80.038498,40.516221",
     "geom:latitude":40.516221,
     "geom:longitude":-80.038498,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1019 W View Park Dr",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -39,8 +40,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85824969
+        85824969,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,17 +51,15 @@
     "wof:geomhash":"643c23b6898c510441e1ceaa2dd2a61a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85824969,
             "region_id":85688481,
             "venue_id":387450177
         }
     ],
     "wof:id":387450177,
-    "wof:lastmodified":1449059344,
+    "wof:lastmodified":1454361046,
     "wof:name":"Fox's Pizza Den",
     "wof:parent_id":85824969,
     "wof:placetype":"venue",
@@ -74,6 +73,11 @@
         "italian"
     ]
 },
-  "bbox": [-80.038498,40.516221,-80.038498,40.516221],
+  "bbox": [
+    -80.038498,
+    40.516221,
+    -80.038498,
+    40.516221
+],
   "geometry": {"coordinates":[-80.038498,40.516221],"type":"Point"}
 }

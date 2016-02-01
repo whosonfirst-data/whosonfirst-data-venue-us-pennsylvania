@@ -2,13 +2,14 @@
   "id": 403984803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.307767,39.850186,-77.307767,39.850186",
     "geom:latitude":39.850186,
     "geom:longitude":-77.307767,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"359 Seven Stars Rd",
     "sg:city":"Gettysburg",
     "sg:classifiers":[
@@ -45,8 +46,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080899,
-        85833295
+        85833295,
+        102080899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,17 +57,15 @@
     "wof:geomhash":"73cf3d88e8b0d7ef526af90baa3f55ce",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080899,
-            "locality_id":-1,
             "neighbourhood_id":85833295,
             "region_id":85688481,
             "venue_id":403984803
         }
     ],
     "wof:id":403984803,
-    "wof:lastmodified":1449055390,
+    "wof:lastmodified":1454357645,
     "wof:name":"D & G Fence Inc",
     "wof:parent_id":85833295,
     "wof:placetype":"venue",
@@ -82,6 +81,11 @@
         "fence-sales"
     ]
 },
-  "bbox": [-77.307767,39.850186,-77.307767,39.850186],
+  "bbox": [
+    -77.307767,
+    39.850186,
+    -77.307767,
+    39.850186
+],
   "geometry": {"coordinates":[-77.307767,39.850186],"type":"Point"}
 }

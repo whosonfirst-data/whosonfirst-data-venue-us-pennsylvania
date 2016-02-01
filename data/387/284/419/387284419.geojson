@@ -2,13 +2,14 @@
   "id": 387284419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.974464,40.427513,-79.974464,40.427513",
     "geom:latitude":40.427513,
     "geom:longitude":-79.974464,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2215 Sarah St 2",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -58,11 +59,13 @@
     "sg:website":"http://www.goodwill.org/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85850101,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85850101
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,9 +75,10 @@
     "wof:geomhash":"74dfff027321fcc29ff475cd2273ce76",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85850101,
             "region_id":85688481,
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":387284419,
-    "wof:lastmodified":1449058470,
+    "wof:lastmodified":1454360792,
     "wof:name":"Goodwill Industries Of Pittsburgh",
     "wof:parent_id":85850101,
     "wof:placetype":"venue",
@@ -102,6 +106,11 @@
         "charity"
     ]
 },
-  "bbox": [-79.974464,40.427513,-79.974464,40.427513],
+  "bbox": [
+    -79.974464,
+    40.427513,
+    -79.974464,
+    40.427513
+],
   "geometry": {"coordinates":[-79.974464,40.427513],"type":"Point"}
 }

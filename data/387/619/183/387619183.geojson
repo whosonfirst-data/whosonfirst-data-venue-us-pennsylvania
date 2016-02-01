@@ -2,13 +2,14 @@
   "id": 387619183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.54726,40.292693,-79.54726,40.292693",
     "geom:latitude":40.292693,
     "geom:longitude":-79.54726,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"717 Green St",
     "sg:city":"Greensburg",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85809439,
+        102191575,
+        404487487,
         85633793,
-        101717119,
+        101717177,
         102081383,
-        85809439
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"cecc85fa0572277da70376bcfacf7938",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":101717119,
+            "localadmin_id":404487487,
+            "locality_id":101717177,
             "neighbourhood_id":85809439,
             "region_id":85688481,
             "venue_id":387619183
         }
     ],
     "wof:id":387619183,
-    "wof:lastmodified":1449056786,
+    "wof:lastmodified":1454358607,
     "wof:name":"Rich's Remodeling",
     "wof:parent_id":85809439,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.54726,40.292693,-79.54726,40.292693],
-  "geometry": {"coordinates":[-79.54726,40.292693],"type":"Point"}
+  "bbox": [
+    -79.54726,
+    40.292693,
+    -79.54726,
+    40.292693
+],
+  "geometry": {"coordinates":[-79.54725999999999,40.292693],"type":"Point"}
 }

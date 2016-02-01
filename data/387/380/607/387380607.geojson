@@ -2,13 +2,14 @@
   "id": 387380607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.997356,40.429536,-79.997356,40.429536",
     "geom:latitude":40.429536,
     "geom:longitude":-79.997356,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"333 E Carson St Ste 439",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85802827,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85802827
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"ddefedd94d4fbe2b014bfee1b50feb8e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85802827,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387380607,
-    "wof:lastmodified":1449057865,
+    "wof:lastmodified":1454360617,
     "wof:name":"Lunametrics",
     "wof:parent_id":85802827,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "data"
     ]
 },
-  "bbox": [-79.997356,40.429536,-79.997356,40.429536],
+  "bbox": [
+    -79.997356,
+    40.429536,
+    -79.997356,
+    40.429536
+],
   "geometry": {"coordinates":[-79.997356,40.429536],"type":"Point"}
 }

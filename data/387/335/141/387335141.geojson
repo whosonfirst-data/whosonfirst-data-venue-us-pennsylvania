@@ -2,13 +2,14 @@
   "id": 387335141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.031403,40.4165,-80.031403,40.4165",
     "geom:latitude":40.4165,
     "geom:longitude":-80.031403,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1001 E Entry Dr Ste 310",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85804395,
+        102191575,
+        404482523,
         85633793,
+        101718805,
         102080887,
-        85804395
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +44,18 @@
     "wof:geomhash":"043be021a2df01ec4b47db2f2a1f334e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
+            "localadmin_id":404482523,
+            "locality_id":101718805,
             "neighbourhood_id":85804395,
             "region_id":85688481,
             "venue_id":387335141
         }
     ],
     "wof:id":387335141,
-    "wof:lastmodified":1449058620,
+    "wof:lastmodified":1454360830,
     "wof:name":"Primerica Financial Services Doug Manges Rvp",
     "wof:parent_id":85804395,
     "wof:placetype":"venue",
@@ -60,6 +65,11 @@
         "investing"
     ]
 },
-  "bbox": [-80.031403,40.4165,-80.031403,40.4165],
+  "bbox": [
+    -80.031403,
+    40.4165,
+    -80.031403,
+    40.4165
+],
   "geometry": {"coordinates":[-80.031403,40.4165],"type":"Point"}
 }

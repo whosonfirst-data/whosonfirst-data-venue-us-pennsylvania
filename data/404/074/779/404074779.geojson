@@ -2,13 +2,14 @@
   "id": 404074779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.299609,40.053604,-76.299609,40.053604",
     "geom:latitude":40.053604,
     "geom:longitude":-76.299609,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1048 N Plum St",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     "sg:website":"http://www.goodwill.org/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85846173,
+        102191575,
+        404487183,
         85633793,
         101718643,
         102081377,
-        85846173
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"30a405b15dcfd1eeba7262ff11d8de82",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081377,
+            "localadmin_id":404487183,
             "locality_id":101718643,
             "neighbourhood_id":85846173,
             "region_id":85688481,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":404074779,
-    "wof:lastmodified":1449039783,
+    "wof:lastmodified":1454356793,
     "wof:name":"Goodwill Keystone Area",
     "wof:parent_id":85846173,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "opportunity"
     ]
 },
-  "bbox": [-76.299609,40.053604,-76.299609,40.053604],
+  "bbox": [
+    -76.299609,
+    40.053604,
+    -76.299609,
+    40.053604
+],
   "geometry": {"coordinates":[-76.299609,40.053604],"type":"Point"}
 }

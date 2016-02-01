@@ -2,13 +2,14 @@
   "id": 403904245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.823695,40.341622,-76.823695,40.341622",
     "geom:latitude":40.341622,
     "geom:longitude":-76.823695,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4331 S Victoria Way",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85819927
+        85819927,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"591a9cedea5b3a78a8828beb279e223f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85819927,
             "region_id":85688481,
             "venue_id":403904245
         }
     ],
     "wof:id":403904245,
-    "wof:lastmodified":1449056005,
+    "wof:lastmodified":1454358007,
     "wof:name":"Jake Gittlen Memorial Golf Tournament",
     "wof:parent_id":85819927,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "raising"
     ]
 },
-  "bbox": [-76.823695,40.341622,-76.823695,40.341622],
+  "bbox": [
+    -76.823695,
+    40.341622,
+    -76.823695,
+    40.341622
+],
   "geometry": {"coordinates":[-76.823695,40.341622],"type":"Point"}
 }

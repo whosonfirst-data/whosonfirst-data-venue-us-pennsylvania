@@ -2,13 +2,14 @@
   "id": 387559761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.123293,40.279854,-80.123293,40.279854",
     "geom:latitude":40.279854,
     "geom:longitude":-80.123293,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3637 Washington Rd Ste 1",
     "sg:city":"Canonsburg",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081343,
-        85814861
+        85814861,
+        102081343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"fb8c2644d3c57be953a97c2d99c18f5b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081343,
-            "locality_id":-1,
             "neighbourhood_id":85814861,
             "region_id":85688481,
             "venue_id":387559761
         }
     ],
     "wof:id":387559761,
-    "wof:lastmodified":1449059082,
+    "wof:lastmodified":1454360977,
     "wof:name":"Maid Pro",
     "wof:parent_id":85814861,
     "wof:placetype":"venue",
@@ -61,6 +60,11 @@
         "home"
     ]
 },
-  "bbox": [-80.123293,40.279854,-80.123293,40.279854],
+  "bbox": [
+    -80.123293,
+    40.279854,
+    -80.123293,
+    40.279854
+],
   "geometry": {"coordinates":[-80.123293,40.279854],"type":"Point"}
 }

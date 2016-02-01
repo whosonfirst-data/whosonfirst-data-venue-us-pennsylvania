@@ -2,13 +2,14 @@
   "id": 403805779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.850445,40.250411,-76.850445,40.250411",
     "geom:latitude":40.250411,
     "geom:longitude":-76.850445,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2101 N Cameron",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -26,8 +27,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85868485
+        85868485,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,17 +38,15 @@
     "wof:geomhash":"20ce6e36c1e7a942e94e442df5834970",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85868485,
             "region_id":85688481,
             "venue_id":403805779
         }
     ],
     "wof:id":403805779,
-    "wof:lastmodified":1449055079,
+    "wof:lastmodified":1454357457,
     "wof:name":"Young Janice Snack Bar",
     "wof:parent_id":85868485,
     "wof:placetype":"venue",
@@ -55,6 +54,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.850445,40.250411,-76.850445,40.250411],
-  "geometry": {"coordinates":[-76.850445,40.250411],"type":"Point"}
+  "bbox": [
+    -76.850445,
+    40.250411,
+    -76.850445,
+    40.250411
+],
+  "geometry": {"coordinates":[-76.85044499999999,40.250411],"type":"Point"}
 }

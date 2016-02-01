@@ -2,13 +2,14 @@
   "id": 387654573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.177696,40.610239,-79.177696,40.610239",
     "geom:latitude":40.610239,
     "geom:longitude":-79.177696,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2015 Oakland Ave",
     "sg:city":"Indiana",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081387,
-        85821437
+        85821437,
+        102081387
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"74c6fcbbf4663c4f6bb4764bf7e91219",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081387,
-            "locality_id":-1,
             "neighbourhood_id":85821437,
             "region_id":85688481,
             "venue_id":387654573
         }
     ],
     "wof:id":387654573,
-    "wof:lastmodified":1449057375,
+    "wof:lastmodified":1454359066,
     "wof:name":"Localnet",
     "wof:parent_id":85821437,
     "wof:placetype":"venue",
@@ -73,6 +72,11 @@
         "provider"
     ]
 },
-  "bbox": [-79.177696,40.610239,-79.177696,40.610239],
+  "bbox": [
+    -79.177696,
+    40.610239,
+    -79.177696,
+    40.610239
+],
   "geometry": {"coordinates":[-79.177696,40.610239],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387490541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.968708,40.338145,-79.968708,40.338145",
     "geom:latitude":40.338145,
     "geom:longitude":-79.968708,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"180 Curry Hollow Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -47,11 +48,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85813247,
+        102191575,
+        404484163,
         85633793,
         101718803,
         102080887,
-        85813247
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,9 +64,10 @@
     "wof:geomhash":"9ba3e3df4d792d885f513748db38ce94",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484163,
             "locality_id":101718803,
             "neighbourhood_id":85813247,
             "region_id":85688481,
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":387490541,
-    "wof:lastmodified":1449059528,
+    "wof:lastmodified":1454361108,
     "wof:name":"Allstate Insurance Company - Blair Bogdan",
     "wof:parent_id":85813247,
     "wof:placetype":"venue",
@@ -86,6 +90,11 @@
         "renter"
     ]
 },
-  "bbox": [-79.968708,40.338145,-79.968708,40.338145],
-  "geometry": {"coordinates":[-79.968708,40.338145],"type":"Point"}
+  "bbox": [
+    -79.968708,
+    40.338145,
+    -79.968708,
+    40.338145
+],
+  "geometry": {"coordinates":[-79.96870800000001,40.338145],"type":"Point"}
 }

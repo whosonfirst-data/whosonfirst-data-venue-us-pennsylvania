@@ -2,13 +2,14 @@
   "id": 387439945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.972907,40.402211,-79.972907,40.402211",
     "geom:latitude":40.402211,
     "geom:longitude":-79.972907,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"616 Penn St",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85809633,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85809633
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"9b270bf3a805cde9f64455cd62eec002",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85809633,
             "region_id":85688481,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":387439945,
-    "wof:lastmodified":1449057146,
+    "wof:lastmodified":1454358880,
     "wof:name":"X-Ceptional Beauty Supply",
     "wof:parent_id":85809633,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "supply"
     ]
 },
-  "bbox": [-79.972907,40.402211,-79.972907,40.402211],
-  "geometry": {"coordinates":[-79.972907,40.402211],"type":"Point"}
+  "bbox": [
+    -79.972907,
+    40.402211,
+    -79.972907,
+    40.402211
+],
+  "geometry": {"coordinates":[-79.97290700000001,40.402211],"type":"Point"}
 }

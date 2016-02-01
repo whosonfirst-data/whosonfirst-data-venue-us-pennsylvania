@@ -2,13 +2,14 @@
   "id": 387864901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.939339,40.617741,-77.939339,40.617741",
     "geom:latitude":40.617741,
     "geom:longitude":-77.939339,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"8217 Warriors Ridge Rd",
     "sg:city":"Petersburg",
     "sg:classifiers":[
@@ -34,8 +35,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080901,
-        85832873
+        85832873,
+        102080901
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +46,15 @@
     "wof:geomhash":"7154e762cb57fe146d3707ad8c82b04e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080901,
-            "locality_id":-1,
             "neighbourhood_id":85832873,
             "region_id":85688481,
             "venue_id":387864901
         }
     ],
     "wof:id":387864901,
-    "wof:lastmodified":1449059966,
+    "wof:lastmodified":1454361246,
     "wof:name":"American Hydro Power Co",
     "wof:parent_id":85832873,
     "wof:placetype":"venue",
@@ -65,6 +64,11 @@
         "equipment-testing"
     ]
 },
-  "bbox": [-77.939339,40.617741,-77.939339,40.617741],
+  "bbox": [
+    -77.939339,
+    40.617741,
+    -77.939339,
+    40.617741
+],
   "geometry": {"coordinates":[-77.939339,40.617741],"type":"Point"}
 }

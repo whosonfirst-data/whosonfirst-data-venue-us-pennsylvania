@@ -2,13 +2,14 @@
   "id": 387801127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.137016,41.842381,-79.137016,41.842381",
     "geom:latitude":41.842381,
     "geom:longitude":-79.137016,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"308 Pennsylvania Ave E",
     "sg:city":"Warren",
     "sg:classifiers":[
@@ -39,11 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85853597,
+        102191575,
+        404487619,
         85633793,
         101719505,
         102081337,
-        85853597
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,9 +56,10 @@
     "wof:geomhash":"cb459dbb4d5e9154b3e86f8c9b327127",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081337,
+            "localadmin_id":404487619,
             "locality_id":101719505,
             "neighbourhood_id":85853597,
             "region_id":85688481,
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":387801127,
-    "wof:lastmodified":1449059253,
+    "wof:lastmodified":1454361026,
     "wof:name":"Cornerstone Lounge",
     "wof:parent_id":85853597,
     "wof:placetype":"venue",
@@ -75,6 +79,11 @@
         "cocktail"
     ]
 },
-  "bbox": [-79.137016,41.842381,-79.137016,41.842381],
+  "bbox": [
+    -79.137016,
+    41.842381,
+    -79.137016,
+    41.842381
+],
   "geometry": {"coordinates":[-79.137016,41.842381],"type":"Point"}
 }

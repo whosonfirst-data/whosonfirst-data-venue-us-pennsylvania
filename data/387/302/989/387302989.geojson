@@ -2,13 +2,14 @@
   "id": 387302989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.897304,40.458458,-79.897304,40.458458",
     "geom:latitude":40.458458,
     "geom:longitude":-79.897304,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"7140 Idlewild St",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85812851
+        85812851,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"6ed1f629782b9c8fcd6fdd58ef4b48ba",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85812851,
             "region_id":85688481,
             "venue_id":387302989
         }
     ],
     "wof:id":387302989,
-    "wof:lastmodified":1449057381,
+    "wof:lastmodified":1454359076,
     "wof:name":"Nanis Kids Around The Clock",
     "wof:parent_id":85812851,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "clock"
     ]
 },
-  "bbox": [-79.897304,40.458458,-79.897304,40.458458],
-  "geometry": {"coordinates":[-79.897304,40.458458],"type":"Point"}
+  "bbox": [
+    -79.897304,
+    40.458458,
+    -79.897304,
+    40.458458
+],
+  "geometry": {"coordinates":[-79.89730400000001,40.458458],"type":"Point"}
 }

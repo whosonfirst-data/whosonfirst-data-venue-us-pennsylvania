@@ -2,13 +2,14 @@
   "id": 404008553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.729424,39.963579,-76.729424,39.963579",
     "geom:latitude":39.963579,
     "geom:longitude":-76.729424,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"34 W Philadelphia St",
     "sg:city":"York",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85850705,
+        102191575,
+        404488029,
         85633793,
+        101717279,
         102080953,
-        85850705
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +44,18 @@
     "wof:geomhash":"36f8ec5a3662bd5a86f5483db904d79c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
+            "localadmin_id":404488029,
+            "locality_id":101717279,
             "neighbourhood_id":85850705,
             "region_id":85688481,
             "venue_id":404008553
         }
     ],
     "wof:id":404008553,
-    "wof:lastmodified":1449039395,
+    "wof:lastmodified":1454356619,
     "wof:name":"J R's Fresh Cut French Fries",
     "wof:parent_id":85850705,
     "wof:placetype":"venue",
@@ -60,6 +65,11 @@
         "american"
     ]
 },
-  "bbox": [-76.729424,39.963579,-76.729424,39.963579],
-  "geometry": {"coordinates":[-76.729424,39.963579],"type":"Point"}
+  "bbox": [
+    -76.729424,
+    39.963579,
+    -76.729424,
+    39.963579
+],
+  "geometry": {"coordinates":[-76.72942399999999,39.963579],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387229907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.859749,40.397259,-79.859749,40.397259",
     "geom:latitude":40.397259,
     "geom:longitude":-79.859749,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1300 Braddock Ave",
     "sg:city":"Braddock",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536333,
+        102191575,
+        404484859,
         85633793,
-        101718793,
-        102080887
+        101718785,
+        102080887,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"746b5d3a6a5752427a0b0dee1447d329",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":101718793,
-            "neighbourhood_id":-1,
+            "localadmin_id":404484859,
+            "locality_id":101718785,
+            "neighbourhood_id":420536333,
             "region_id":85688481,
             "venue_id":387229907
         }
     ],
     "wof:id":387229907,
-    "wof:lastmodified":1449059148,
+    "wof:lastmodified":1454360997,
     "wof:name":"Braddock Recovery Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536333,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.859749,40.397259,-79.859749,40.397259],
-  "geometry": {"coordinates":[-79.859749,40.397259],"type":"Point"}
+  "bbox": [
+    -79.859749,
+    40.397259,
+    -79.859749,
+    40.397259
+],
+  "geometry": {"coordinates":[-79.85974899999999,40.397259],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387586013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.751404,39.91658,-79.751404,39.91658",
     "geom:latitude":39.91658,
     "geom:longitude":-79.751404,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2 Superior Way",
     "sg:city":"Uniontown",
     "sg:classifiers":[
@@ -37,10 +38,13 @@
     "sg:website":"http://www.tristarnissan.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85850161,
+        102191575,
+        404487055,
         85633793,
+        101719799,
         102080959,
-        85850161
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,17 +54,18 @@
     "wof:geomhash":"d7e5e3353361d0072ce4a0bac0207441",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080959,
-            "locality_id":-1,
+            "localadmin_id":404487055,
+            "locality_id":101719799,
             "neighbourhood_id":85850161,
             "region_id":85688481,
             "venue_id":387586013
         }
     ],
     "wof:id":387586013,
-    "wof:lastmodified":1449059482,
+    "wof:lastmodified":1454361095,
     "wof:name":"Tri Star Nissan",
     "wof:parent_id":85850161,
     "wof:placetype":"venue",
@@ -74,6 +79,11 @@
         "new"
     ]
 },
-  "bbox": [-79.751404,39.91658,-79.751404,39.91658],
-  "geometry": {"coordinates":[-79.751404,39.91658],"type":"Point"}
+  "bbox": [
+    -79.751404,
+    39.91658,
+    -79.751404,
+    39.91658
+],
+  "geometry": {"coordinates":[-79.75140399999999,39.91658],"type":"Point"}
 }

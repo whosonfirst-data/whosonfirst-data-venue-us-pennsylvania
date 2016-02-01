@@ -2,13 +2,14 @@
   "id": 387099141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.225983,40.589409,-80.225983,40.589409",
     "geom:latitude":40.589409,
     "geom:longitude":-80.225983,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"547 8th St",
     "sg:city":"Ambridge",
     "sg:classifiers":[
@@ -50,10 +51,13 @@
     "sg:website":"http://www.kasper-hahn.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85803005,
+        102191575,
+        404484359,
         85633793,
+        101718407,
         102081323,
-        85803005
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,17 +67,18 @@
     "wof:geomhash":"a604000a38b6134ede03d33ceae2d06b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081323,
-            "locality_id":-1,
+            "localadmin_id":404484359,
+            "locality_id":101718407,
             "neighbourhood_id":85803005,
             "region_id":85688481,
             "venue_id":387099141
         }
     ],
     "wof:id":387099141,
-    "wof:lastmodified":1449058586,
+    "wof:lastmodified":1454360819,
     "wof:name":"Kasper-Hahn Funeral & Cremation Services Inc.",
     "wof:parent_id":85803005,
     "wof:placetype":"venue",
@@ -90,6 +95,11 @@
         "embalmer"
     ]
 },
-  "bbox": [-80.225983,40.589409,-80.225983,40.589409],
+  "bbox": [
+    -80.225983,
+    40.589409,
+    -80.225983,
+    40.589409
+],
   "geometry": {"coordinates":[-80.225983,40.589409],"type":"Point"}
 }

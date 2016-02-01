@@ -2,13 +2,14 @@
   "id": 404188945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.356492,40.655431,-75.356492,40.655431",
     "geom:latitude":40.655431,
     "geom:longitude":-75.356492,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2943 Linden St",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     "sg:website":"http://www.linkfinancial.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420539383,
+        102191575,
+        404485987,
         85633793,
         101717907,
-        102081395
+        102081395,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"ce45fdde9ed812dcc4456a9d0fbf90e8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081395,
+            "localadmin_id":404485987,
             "locality_id":101717907,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420539383,
             "region_id":85688481,
             "venue_id":404188945
         }
     ],
     "wof:id":404188945,
-    "wof:lastmodified":1449039663,
+    "wof:lastmodified":1454356754,
     "wof:name":"National Penn Bankshares, Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420539383,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -61,6 +66,11 @@
         "trust"
     ]
 },
-  "bbox": [-75.356492,40.655431,-75.356492,40.655431],
+  "bbox": [
+    -75.356492,
+    40.655431,
+    -75.356492,
+    40.655431
+],
   "geometry": {"coordinates":[-75.356492,40.655431],"type":"Point"}
 }

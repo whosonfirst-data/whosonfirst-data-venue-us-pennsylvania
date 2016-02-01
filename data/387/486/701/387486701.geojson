@@ -2,13 +2,14 @@
   "id": 387486701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.837548,40.466708,-79.837548,40.466708",
     "geom:latitude":40.466708,
     "geom:longitude":-79.837548,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"119 Wilson Dr",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -34,8 +35,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85812851
+        85812851,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +46,15 @@
     "wof:geomhash":"9b01f5b31c232a4a02124e1ab356e4c0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85812851,
             "region_id":85688481,
             "venue_id":387486701
         }
     ],
     "wof:id":387486701,
-    "wof:lastmodified":1449058233,
+    "wof:lastmodified":1454360716,
     "wof:name":"Tara Medical Center At Bentleyville",
     "wof:parent_id":85812851,
     "wof:placetype":"venue",
@@ -65,6 +64,11 @@
         "medical"
     ]
 },
-  "bbox": [-79.837548,40.466708,-79.837548,40.466708],
+  "bbox": [
+    -79.837548,
+    40.466708,
+    -79.837548,
+    40.466708
+],
   "geometry": {"coordinates":[-79.837548,40.466708],"type":"Point"}
 }

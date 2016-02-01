@@ -2,13 +2,14 @@
   "id": 404095359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.310015,40.050627,-76.310015,40.050627",
     "geom:latitude":40.050627,
     "geom:longitude":-76.310015,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"841 N Prince St",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -41,10 +42,13 @@
     "sg:website":"http://www.cdstock.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85821747,
+        102191575,
+        404487183,
         85633793,
+        101718643,
         102081377,
-        85821747
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,17 +58,18 @@
     "wof:geomhash":"7e91a3aeaaedf9cf12a2858172bb526b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
+            "localadmin_id":404487183,
+            "locality_id":101718643,
             "neighbourhood_id":85821747,
             "region_id":85688481,
             "venue_id":404095359
         }
     ],
     "wof:id":404095359,
-    "wof:lastmodified":1449039695,
+    "wof:lastmodified":1454356760,
     "wof:name":"Velocity Color, Inc.",
     "wof:parent_id":85821747,
     "wof:placetype":"venue",
@@ -77,6 +82,11 @@
         "wedding"
     ]
 },
-  "bbox": [-76.310015,40.050627,-76.310015,40.050627],
-  "geometry": {"coordinates":[-76.310015,40.050627],"type":"Point"}
+  "bbox": [
+    -76.310015,
+    40.050627,
+    -76.310015,
+    40.050627
+],
+  "geometry": {"coordinates":[-76.31001500000001,40.050627],"type":"Point"}
 }

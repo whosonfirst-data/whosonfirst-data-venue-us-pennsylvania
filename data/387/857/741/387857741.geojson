@@ -2,13 +2,14 @@
   "id": 387857741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.412102,40.438013,-78.412102,40.438013",
     "geom:latitude":40.438013,
     "geom:longitude":-78.412102,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1644 Old Route 220 N",
     "sg:city":"Duncansville",
     "sg:classifiers":[
@@ -42,8 +43,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081325,
-        85820087
+        85820087,
+        102081325
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,17 +54,15 @@
     "wof:geomhash":"495f8ffe2c7c7def43268665fb4c432b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081325,
-            "locality_id":-1,
             "neighbourhood_id":85820087,
             "region_id":85688481,
             "venue_id":387857741
         }
     ],
     "wof:id":387857741,
-    "wof:lastmodified":1449058577,
+    "wof:lastmodified":1454360816,
     "wof:name":"L.R. Webber Associates",
     "wof:parent_id":85820087,
     "wof:placetype":"venue",
@@ -81,6 +80,11 @@
         "pension"
     ]
 },
-  "bbox": [-78.412102,40.438013,-78.412102,40.438013],
+  "bbox": [
+    -78.412102,
+    40.438013,
+    -78.412102,
+    40.438013
+],
   "geometry": {"coordinates":[-78.412102,40.438013],"type":"Point"}
 }

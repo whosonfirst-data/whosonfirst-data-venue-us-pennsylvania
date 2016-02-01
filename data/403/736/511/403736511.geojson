@@ -2,13 +2,14 @@
   "id": 403736511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.970074,40.237221,-76.970074,40.237221",
     "geom:latitude":40.237221,
     "geom:longitude":-76.970074,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4930 Carlisle Pike",
     "sg:city":"Mechanicsburg",
     "sg:classifiers":[
@@ -49,8 +50,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081359,
-        85850501
+        85850501,
+        102081359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,17 +61,15 @@
     "wof:geomhash":"3c99d68f99250f060d8b2267bbe84bef",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081359,
-            "locality_id":-1,
             "neighbourhood_id":85850501,
             "region_id":85688481,
             "venue_id":403736511
         }
     ],
     "wof:id":403736511,
-    "wof:lastmodified":1449055932,
+    "wof:lastmodified":1454357959,
     "wof:name":"Allstate Insurance Company - Michael Kelley",
     "wof:parent_id":85850501,
     "wof:placetype":"venue",
@@ -85,6 +84,11 @@
         "renter"
     ]
 },
-  "bbox": [-76.970074,40.237221,-76.970074,40.237221],
+  "bbox": [
+    -76.970074,
+    40.237221,
+    -76.970074,
+    40.237221
+],
   "geometry": {"coordinates":[-76.970074,40.237221],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387569851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.08387,40.279018,-80.08387,40.279018",
     "geom:latitude":40.279018,
     "geom:longitude":-80.08387,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"501 Valley Brook Rd",
     "sg:city":"Canonsburg",
     "sg:classifiers":[
@@ -44,8 +45,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081343,
-        85852193
+        85852193,
+        102081343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,17 +56,15 @@
     "wof:geomhash":"b34196c5fc074e75560685d4f8188323",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081343,
-            "locality_id":-1,
             "neighbourhood_id":85852193,
             "region_id":85688481,
             "venue_id":387569851
         }
     ],
     "wof:id":387569851,
-    "wof:lastmodified":1449059767,
+    "wof:lastmodified":1454361189,
     "wof:name":"Touching Hearts at Home Inc",
     "wof:parent_id":85852193,
     "wof:placetype":"venue",
@@ -79,6 +78,11 @@
         "elder"
     ]
 },
-  "bbox": [-80.08387,40.279018,-80.08387,40.279018],
+  "bbox": [
+    -80.08387,
+    40.279018,
+    -80.08387,
+    40.279018
+],
   "geometry": {"coordinates":[-80.08387,40.279018],"type":"Point"}
 }

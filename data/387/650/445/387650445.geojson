@@ -2,13 +2,14 @@
   "id": 387650445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.595314,40.104516,-79.595314,40.104516",
     "geom:latitude":40.104516,
     "geom:longitude":-79.595314,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"116 Homestead Ave",
     "sg:city":"Scottdale",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85828483,
+        102191575,
+        404484117,
         85633793,
         101717129,
         102081383,
-        85828483
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"e7f8c00c4d0bad8c1542015a3d8367cf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081383,
+            "localadmin_id":404484117,
             "locality_id":101717129,
             "neighbourhood_id":85828483,
             "region_id":85688481,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":387650445,
-    "wof:lastmodified":1449058424,
+    "wof:lastmodified":1454360778,
     "wof:name":"Barry's Grocery",
     "wof:parent_id":85828483,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.595314,40.104516,-79.595314,40.104516],
+  "bbox": [
+    -79.595314,
+    40.104516,
+    -79.595314,
+    40.104516
+],
   "geometry": {"coordinates":[-79.595314,40.104516],"type":"Point"}
 }

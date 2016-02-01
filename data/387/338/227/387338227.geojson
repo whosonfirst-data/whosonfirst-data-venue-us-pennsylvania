@@ -2,13 +2,14 @@
   "id": 387338227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.922911,40.436574,-79.922911,40.436574",
     "geom:latitude":40.436574,
     "geom:longitude":-79.922911,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1824 Murray Ave Ste 200",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85873591,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85873591
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"fe147146a7523056469144f57e1e23ca",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85873591,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387338227,
-    "wof:lastmodified":1449057411,
+    "wof:lastmodified":1454359106,
     "wof:name":"Greater Pittsburgh Chapter",
     "wof:parent_id":85873591,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "club"
     ]
 },
-  "bbox": [-79.922911,40.436574,-79.922911,40.436574],
+  "bbox": [
+    -79.922911,
+    40.436574,
+    -79.922911,
+    40.436574
+],
   "geometry": {"coordinates":[-79.922911,40.436574],"type":"Point"}
 }

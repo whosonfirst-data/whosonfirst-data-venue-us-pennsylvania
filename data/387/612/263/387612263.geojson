@@ -2,13 +2,14 @@
   "id": 387612263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.4335,40.010836,-78.4335,40.010836",
     "geom:latitude":40.010836,
     "geom:longitude":-78.4335,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"290 Mill Ridge Rd",
     "sg:city":"Everett",
     "sg:classifiers":[
@@ -39,8 +40,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080939,
-        85824143
+        85824143,
+        102080939
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,17 +51,15 @@
     "wof:geomhash":"1250cf9808952813b49a2040a1176d65",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080939,
-            "locality_id":-1,
             "neighbourhood_id":85824143,
             "region_id":85688481,
             "venue_id":387612263
         }
     ],
     "wof:id":387612263,
-    "wof:lastmodified":1449057791,
+    "wof:lastmodified":1454360597,
     "wof:name":"Deckside Diversion",
     "wof:parent_id":85824143,
     "wof:placetype":"venue",
@@ -75,6 +74,11 @@
         "store"
     ]
 },
-  "bbox": [-78.4335,40.010836,-78.4335,40.010836],
+  "bbox": [
+    -78.4335,
+    40.010836,
+    -78.4335,
+    40.010836
+],
   "geometry": {"coordinates":[-78.4335,40.010836],"type":"Point"}
 }

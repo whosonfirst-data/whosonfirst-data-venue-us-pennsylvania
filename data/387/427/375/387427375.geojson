@@ -2,13 +2,14 @@
   "id": 387427375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.982427,40.454875,-79.982427,40.454875",
     "geom:latitude":40.454875,
     "geom:longitude":-79.982427,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"40 24th St Ste 200",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     "sg:website":"http://www.etceteraedutainment.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85851271,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85851271
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"460328f0b397e78c0637a6d3cd984bf1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85851271,
             "region_id":85688481,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":387427375,
-    "wof:lastmodified":1449057241,
+    "wof:lastmodified":1454358955,
     "wof:name":"Etcetera Edutainment",
     "wof:parent_id":85851271,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "software"
     ]
 },
-  "bbox": [-79.982427,40.454875,-79.982427,40.454875],
+  "bbox": [
+    -79.982427,
+    40.454875,
+    -79.982427,
+    40.454875
+],
   "geometry": {"coordinates":[-79.982427,40.454875],"type":"Point"}
 }

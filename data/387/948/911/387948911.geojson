@@ -2,13 +2,14 @@
   "id": 387948911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.104492,40.232618,-77.104492,40.232618",
     "geom:latitude":40.232618,
     "geom:longitude":-77.104492,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"100 Louis Pkwy",
     "sg:city":"Carlisle",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081359,
-        85826667
+        85826667,
+        102081359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"a9475e346830e4860a89c43c09c6e1a6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081359,
-            "locality_id":-1,
             "neighbourhood_id":85826667,
             "region_id":85688481,
             "venue_id":387948911
         }
     ],
     "wof:id":387948911,
-    "wof:lastmodified":1449059127,
+    "wof:lastmodified":1454360992,
     "wof:name":"Inmar",
     "wof:parent_id":85826667,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "warehouses-public-commercial"
     ]
 },
-  "bbox": [-77.104492,40.232618,-77.104492,40.232618],
-  "geometry": {"coordinates":[-77.104492,40.232618],"type":"Point"}
+  "bbox": [
+    -77.104492,
+    40.232618,
+    -77.104492,
+    40.232618
+],
+  "geometry": {"coordinates":[-77.10449199999999,40.232618],"type":"Point"}
 }

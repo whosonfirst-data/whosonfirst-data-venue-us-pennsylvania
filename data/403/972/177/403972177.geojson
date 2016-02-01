@@ -2,13 +2,14 @@
   "id": 403972177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.660182,39.913257,-76.660182,39.913257",
     "geom:latitude":39.913257,
     "geom:longitude":-76.660182,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"150 Mcdowell Dr",
     "sg:city":"Dallastown",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080953,
-        85868591
+        85868591,
+        102080953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"c1b791d5b6aab73190450aec263ef761",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
             "neighbourhood_id":85868591,
             "region_id":85688481,
             "venue_id":403972177
         }
     ],
     "wof:id":403972177,
-    "wof:lastmodified":1449055314,
+    "wof:lastmodified":1454357599,
     "wof:name":"Latterman Trucking",
     "wof:parent_id":85868591,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "trucking"
     ]
 },
-  "bbox": [-76.660182,39.913257,-76.660182,39.913257],
-  "geometry": {"coordinates":[-76.660182,39.913257],"type":"Point"}
+  "bbox": [
+    -76.660182,
+    39.913257,
+    -76.660182,
+    39.913257
+],
+  "geometry": {"coordinates":[-76.66018200000001,39.913257],"type":"Point"}
 }

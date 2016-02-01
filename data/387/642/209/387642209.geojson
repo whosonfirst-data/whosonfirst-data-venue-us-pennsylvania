@@ -2,13 +2,14 @@
   "id": 387642209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.383838,40.315807,-79.383838,40.315807",
     "geom:latitude":40.315807,
     "geom:longitude":-79.383838,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1010 Ligonier St Ste 3",
     "sg:city":"Latrobe",
     "sg:classifiers":[
@@ -31,11 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85831075,
+        102191575,
+        404487493,
         85633793,
         101717167,
         102081383,
-        85831075
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,9 +48,10 @@
     "wof:geomhash":"141108d78749d53a6068c045b90588b6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081383,
+            "localadmin_id":404487493,
             "locality_id":101717167,
             "neighbourhood_id":85831075,
             "region_id":85688481,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":387642209,
-    "wof:lastmodified":1449056337,
+    "wof:lastmodified":1454358269,
     "wof:name":"Whorral, Greg S Md",
     "wof:parent_id":85831075,
     "wof:placetype":"venue",
@@ -69,6 +73,11 @@
         "obstetrics"
     ]
 },
-  "bbox": [-79.383838,40.315807,-79.383838,40.315807],
+  "bbox": [
+    -79.383838,
+    40.315807,
+    -79.383838,
+    40.315807
+],
   "geometry": {"coordinates":[-79.383838,40.315807],"type":"Point"}
 }

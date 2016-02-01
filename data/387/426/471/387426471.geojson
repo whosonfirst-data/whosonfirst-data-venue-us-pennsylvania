@@ -2,13 +2,14 @@
   "id": 387426471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.005402,40.441502,-80.005402,40.441502",
     "geom:latitude":40.441502,
     "geom:longitude":-80.005402,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"401 Liberty Ave Fl 3",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     "sg:website":"www.maherduesselcpas.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85815129,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85815129
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"a6784ebbed5641e50110315b31ded79d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85815129,
             "region_id":85688481,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":387426471,
-    "wof:lastmodified":1449056912,
+    "wof:lastmodified":1454358700,
     "wof:name":"Maher Duessel C P A",
     "wof:parent_id":85815129,
     "wof:placetype":"venue",
@@ -69,6 +73,11 @@
         "accountant"
     ]
 },
-  "bbox": [-80.005402,40.441502,-80.005402,40.441502],
+  "bbox": [
+    -80.005402,
+    40.441502,
+    -80.005402,
+    40.441502
+],
   "geometry": {"coordinates":[-80.005402,40.441502],"type":"Point"}
 }

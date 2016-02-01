@@ -2,13 +2,14 @@
   "id": 387222199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.032586,40.311257,-80.032586,40.311257",
     "geom:latitude":40.311257,
     "geom:longitude":-80.032586,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5797 Library Rd.",
     "sg:city":"Bethel Park",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     "sg:website":"www.monstermusicco.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85806925,
+        102191575,
+        404484853,
         85633793,
         101718799,
         102080887,
-        85806925
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"ea8e6710d6d6b1a4c8b957e7725d14ae",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484853,
             "locality_id":101718799,
             "neighbourhood_id":85806925,
             "region_id":85688481,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":387222199,
-    "wof:lastmodified":1449058654,
+    "wof:lastmodified":1454360841,
     "wof:name":"Monster Music Company",
     "wof:parent_id":85806925,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "musical"
     ]
 },
-  "bbox": [-80.032586,40.311257,-80.032586,40.311257],
-  "geometry": {"coordinates":[-80.032586,40.311257],"type":"Point"}
+  "bbox": [
+    -80.032586,
+    40.311257,
+    -80.032586,
+    40.311257
+],
+  "geometry": {"coordinates":[-80.03258599999999,40.311257],"type":"Point"}
 }

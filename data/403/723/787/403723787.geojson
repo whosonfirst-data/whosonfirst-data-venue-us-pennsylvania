@@ -2,13 +2,14 @@
   "id": 403723787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.905006,40.24289,-76.905006,40.24289",
     "geom:latitude":40.24289,
     "geom:longitude":-76.905006,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1007 Market St",
     "sg:city":"Lemoyne",
     "sg:classifiers":[
@@ -44,11 +45,13 @@
     "sg:website":"www.alliancecomp.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85820057,
+        102191575,
+        404483155,
         85633793,
         101716771,
         102081359,
-        85820057
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,9 +61,10 @@
     "wof:geomhash":"5c790c09143340d0468f1b3cfa22cbaa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081359,
+            "localadmin_id":404483155,
             "locality_id":101716771,
             "neighbourhood_id":85820057,
             "region_id":85688481,
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":403723787,
-    "wof:lastmodified":1449055422,
+    "wof:lastmodified":1454357662,
     "wof:name":"Alliance Computers",
     "wof:parent_id":85820057,
     "wof:placetype":"venue",
@@ -84,6 +88,11 @@
         "equipment-service"
     ]
 },
-  "bbox": [-76.905006,40.24289,-76.905006,40.24289],
+  "bbox": [
+    -76.905006,
+    40.24289,
+    -76.905006,
+    40.24289
+],
   "geometry": {"coordinates":[-76.905006,40.24289],"type":"Point"}
 }

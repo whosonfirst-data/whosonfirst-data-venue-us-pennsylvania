@@ -2,13 +2,14 @@
   "id": 403854693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.847204,40.279267,-76.847204,40.279267",
     "geom:latitude":40.279267,
     "geom:longitude":-76.847204,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2730 Booser Ave",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -38,11 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85850427,
+        102191575,
+        404486197,
         85633793,
-        101719811,
+        101717715,
         102081347,
-        85850427
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,17 +55,18 @@
     "wof:geomhash":"1a6051479c713419568708a8424a65d1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":101719811,
+            "localadmin_id":404486197,
+            "locality_id":101717715,
             "neighbourhood_id":85850427,
             "region_id":85688481,
             "venue_id":403854693
         }
     ],
     "wof:id":403854693,
-    "wof:lastmodified":1449055896,
+    "wof:lastmodified":1454357938,
     "wof:name":"Zion Lutheran Church",
     "wof:parent_id":85850427,
     "wof:placetype":"venue",
@@ -78,6 +82,11 @@
         "churches-lutheran"
     ]
 },
-  "bbox": [-76.847204,40.279267,-76.847204,40.279267],
+  "bbox": [
+    -76.847204,
+    40.279267,
+    -76.847204,
+    40.279267
+],
   "geometry": {"coordinates":[-76.847204,40.279267],"type":"Point"}
 }

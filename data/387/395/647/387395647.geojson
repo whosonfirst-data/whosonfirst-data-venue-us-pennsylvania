@@ -2,13 +2,14 @@
   "id": 387395647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.884517,40.44266,-79.884517,40.44266",
     "geom:latitude":40.44266,
     "geom:longitude":-79.884517,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"725 Ross Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     "sg:website":"http://save-a-lot.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85873569,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85873569
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"fb802aa1121c8906a021218756f46019",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85873569,
             "region_id":85688481,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":387395647,
-    "wof:lastmodified":1449059366,
+    "wof:lastmodified":1454361058,
     "wof:name":"Save-A-Lot Food Stores, Ltd.",
     "wof:parent_id":85873569,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "grocers-wholesale"
     ]
 },
-  "bbox": [-79.884517,40.44266,-79.884517,40.44266],
+  "bbox": [
+    -79.884517,
+    40.44266,
+    -79.884517,
+    40.44266
+],
   "geometry": {"coordinates":[-79.884517,40.44266],"type":"Point"}
 }

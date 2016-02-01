@@ -2,13 +2,14 @@
   "id": 387469839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.018027,40.453509,-80.018027,40.453509",
     "geom:latitude":40.453509,
     "geom:longitude":-80.018027,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"922 W North Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     "sg:website":"www.mrsmallsrecording.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420558991,
+        102191575,
+        404482523,
         85633793,
         101718805,
-        102080887
+        102080887,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,20 @@
     "wof:geomhash":"225a364aef496160e9f3486dce16dc93",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420558991,
             "region_id":85688481,
             "venue_id":387469839
         }
     ],
     "wof:id":387469839,
-    "wof:lastmodified":1449060015,
+    "wof:lastmodified":1454361261,
     "wof:name":"Mr. Smalls Recording and Mastering",
-    "wof:parent_id":-1,
+    "wof:parent_id":420558991,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -65,6 +70,11 @@
         "studio"
     ]
 },
-  "bbox": [-80.018027,40.453509,-80.018027,40.453509],
+  "bbox": [
+    -80.018027,
+    40.453509,
+    -80.018027,
+    40.453509
+],
   "geometry": {"coordinates":[-80.018027,40.453509],"type":"Point"}
 }

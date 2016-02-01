@@ -2,13 +2,14 @@
   "id": 387698295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.926292,40.892101,-79.926292,40.892101",
     "geom:latitude":40.892101,
     "geom:longitude":-79.926292,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"800 Mercer Rd",
     "sg:city":"Butler",
     "sg:classifiers":[
@@ -34,10 +35,13 @@
     "sg:website":"http://www.butlercac.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536957,
+        102191575,
+        404485061,
         85633793,
         101720155,
-        102083677
+        102083677,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,20 @@
     "wof:geomhash":"2c1122ee5f058d55c7861146c254032f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083677,
+            "localadmin_id":404485061,
             "locality_id":101720155,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420536957,
             "region_id":85688481,
             "venue_id":387698295
         }
     ],
     "wof:id":387698295,
-    "wof:lastmodified":1449059685,
+    "wof:lastmodified":1454361159,
     "wof:name":"Community Alliance Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536957,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -68,6 +73,11 @@
         "churches-community"
     ]
 },
-  "bbox": [-79.926292,40.892101,-79.926292,40.892101],
+  "bbox": [
+    -79.926292,
+    40.892101,
+    -79.926292,
+    40.892101
+],
   "geometry": {"coordinates":[-79.926292,40.892101],"type":"Point"}
 }

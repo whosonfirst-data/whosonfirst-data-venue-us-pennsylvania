@@ -2,13 +2,14 @@
   "id": 387324581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.964372,40.437805,-79.964372,40.437805",
     "geom:latitude":40.437805,
     "geom:longitude":-79.964372,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3260 5th Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -25,11 +26,13 @@
     "sg:website":"http://www.spinedisease.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85873589,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85873589
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +42,10 @@
     "wof:geomhash":"80016332ee2d68b45ee606969e34ddf7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85873589,
             "region_id":85688481,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":387324581,
-    "wof:lastmodified":1449058321,
+    "wof:lastmodified":1454360745,
     "wof:name":"UPMC Presbyterian HR Department",
     "wof:parent_id":85873589,
     "wof:placetype":"venue",
@@ -57,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.964372,40.437805,-79.964372,40.437805],
+  "bbox": [
+    -79.964372,
+    40.437805,
+    -79.964372,
+    40.437805
+],
   "geometry": {"coordinates":[-79.964372,40.437805],"type":"Point"}
 }

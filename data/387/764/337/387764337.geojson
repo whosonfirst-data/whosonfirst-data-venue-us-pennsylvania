@@ -2,13 +2,14 @@
   "id": 387764337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.476237,41.230416,-80.476237,41.230416",
     "geom:latitude":41.230416,
     "geom:longitude":-80.476237,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"264 Greenwood Dr",
     "sg:city":"Hermitage",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420539011,
+        102191575,
+        404487969,
         85633793,
-        101718107,
-        102080965
+        101718115,
+        102080965,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"a7ae8a1877c603ce6fef6d1ffab75450",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080965,
-            "locality_id":101718107,
-            "neighbourhood_id":-1,
+            "localadmin_id":404487969,
+            "locality_id":101718115,
+            "neighbourhood_id":420539011,
             "region_id":85688481,
             "venue_id":387764337
         }
     ],
     "wof:id":387764337,
-    "wof:lastmodified":1449059740,
+    "wof:lastmodified":1454361177,
     "wof:name":"Bryan S Barbecue",
-    "wof:parent_id":-1,
+    "wof:parent_id":420539011,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "barbecue"
     ]
 },
-  "bbox": [-80.476237,41.230416,-80.476237,41.230416],
+  "bbox": [
+    -80.476237,
+    41.230416,
+    -80.476237,
+    41.230416
+],
   "geometry": {"coordinates":[-80.476237,41.230416],"type":"Point"}
 }

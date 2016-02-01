@@ -2,13 +2,14 @@
   "id": 387432907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.948985,40.465829,-79.948985,40.465829",
     "geom:latitude":40.465829,
     "geom:longitude":-79.948985,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4608 Penn Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85830015,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85830015
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"14023cabfeff0377b7ef4414576ac411",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85830015,
             "region_id":85688481,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":387432907,
-    "wof:lastmodified":1449056051,
+    "wof:lastmodified":1454358041,
     "wof:name":"Pk Mullick Md & Associates Pc",
     "wof:parent_id":85830015,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "surgeons"
     ]
 },
-  "bbox": [-79.948985,40.465829,-79.948985,40.465829],
-  "geometry": {"coordinates":[-79.948985,40.465829],"type":"Point"}
+  "bbox": [
+    -79.948985,
+    40.465829,
+    -79.948985,
+    40.465829
+],
+  "geometry": {"coordinates":[-79.94898499999999,40.465829],"type":"Point"}
 }

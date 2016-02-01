@@ -2,13 +2,14 @@
   "id": 403737211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.96814,40.23732,-76.96814,40.23732",
     "geom:latitude":40.23732,
     "geom:longitude":-76.96814,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4900 Carlisle Pike Ste 101",
     "sg:city":"Mechanicsburg",
     "sg:classifiers":[
@@ -52,8 +53,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081359,
-        85850501
+        85850501,
+        102081359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,17 +64,15 @@
     "wof:geomhash":"c11cb5b25eb35bdc79a6a7c6d1aeff03",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081359,
-            "locality_id":-1,
             "neighbourhood_id":85850501,
             "region_id":85688481,
             "venue_id":403737211
         }
     ],
     "wof:id":403737211,
-    "wof:lastmodified":1449054948,
+    "wof:lastmodified":1454357377,
     "wof:name":"Hampden Vacuum & Sewing Center",
     "wof:parent_id":85850501,
     "wof:placetype":"venue",
@@ -90,6 +89,11 @@
         "vacuum"
     ]
 },
-  "bbox": [-76.96814,40.23732,-76.96814,40.23732],
-  "geometry": {"coordinates":[-76.96814,40.23732],"type":"Point"}
+  "bbox": [
+    -76.96814,
+    40.23732,
+    -76.96814,
+    40.23732
+],
+  "geometry": {"coordinates":[-76.96814000000001,40.23732],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387699817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.893368,40.848279,-79.893368,40.848279",
     "geom:latitude":40.848279,
     "geom:longitude":-79.893368,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"208 E Muntz Ave",
     "sg:city":"Butler",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85865387,
+        102191575,
+        404485059,
         85633793,
         101720139,
         102083677,
-        85865387
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"06c9a79cebff21a8addd06e1d45b0150",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083677,
+            "localadmin_id":404485059,
             "locality_id":101720139,
             "neighbourhood_id":85865387,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387699817,
-    "wof:lastmodified":1449056628,
+    "wof:lastmodified":1454358498,
     "wof:name":"Robert J Stock Atty",
     "wof:parent_id":85865387,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "plan"
     ]
 },
-  "bbox": [-79.893368,40.848279,-79.893368,40.848279],
+  "bbox": [
+    -79.893368,
+    40.848279,
+    -79.893368,
+    40.848279
+],
   "geometry": {"coordinates":[-79.893368,40.848279],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387865919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.252243,40.6759,-78.252243,40.6759",
     "geom:latitude":40.6759,
     "geom:longitude":-78.252243,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"187 Hospital Dr",
     "sg:city":"Tyrone",
     "sg:classifiers":[
@@ -53,7 +54,6 @@
     "wof:geomhash":"57fbc8889974272ac06635f663e8a36d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081325,
             "locality_id":101716613,
@@ -63,7 +63,7 @@
         }
     ],
     "wof:id":387865919,
-    "wof:lastmodified":1449058980,
+    "wof:lastmodified":1454360946,
     "wof:name":"Tyrone Hospital",
     "wof:parent_id":85836439,
     "wof:placetype":"venue",
@@ -74,6 +74,11 @@
         "surgery"
     ]
 },
-  "bbox": [-78.252243,40.6759,-78.252243,40.6759],
-  "geometry": {"coordinates":[-78.252243,40.6759],"type":"Point"}
+  "bbox": [
+    -78.252243,
+    40.6759,
+    -78.252243,
+    40.6759
+],
+  "geometry": {"coordinates":[-78.25224300000001,40.6759],"type":"Point"}
 }

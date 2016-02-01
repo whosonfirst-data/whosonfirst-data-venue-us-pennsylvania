@@ -2,13 +2,14 @@
   "id": 403733879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.419463,40.34925,-76.419463,40.34925",
     "geom:latitude":40.34925,
     "geom:longitude":-76.419463,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"613 N 5th St",
     "sg:city":"Lebanon",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85842249,
+        102191575,
+        404485699,
         85633793,
         101717093,
         102081341,
-        85842249
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"32d92321a8914ac322bc92310ca6e882",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081341,
+            "localadmin_id":404485699,
             "locality_id":101717093,
             "neighbourhood_id":85842249,
             "region_id":85688481,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":403733879,
-    "wof:lastmodified":1449054802,
+    "wof:lastmodified":1454357293,
     "wof:name":"Gonya Auto Service",
     "wof:parent_id":85842249,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "diagnostic"
     ]
 },
-  "bbox": [-76.419463,40.34925,-76.419463,40.34925],
-  "geometry": {"coordinates":[-76.419463,40.34925],"type":"Point"}
+  "bbox": [
+    -76.419463,
+    40.34925,
+    -76.419463,
+    40.34925
+],
+  "geometry": {"coordinates":[-76.41946299999999,40.34925],"type":"Point"}
 }

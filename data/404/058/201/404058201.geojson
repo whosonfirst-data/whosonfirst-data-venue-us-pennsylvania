@@ -2,13 +2,14 @@
   "id": 404058201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.304025,40.157673,-76.304025,40.157673",
     "geom:latitude":40.157673,
     "geom:longitude":-76.304025,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"35 N Cedar St",
     "sg:city":"Lititz",
     "sg:classifiers":[
@@ -44,8 +45,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85834405
+        85834405,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,17 +56,15 @@
     "wof:geomhash":"9a87caa26aa32b5f57cff60a2b9558e3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85834405,
             "region_id":85688481,
             "venue_id":404058201
         }
     ],
     "wof:id":404058201,
-    "wof:lastmodified":1449039195,
+    "wof:lastmodified":1454356511,
     "wof:name":"Grauers Paint & Decorating",
     "wof:parent_id":85834405,
     "wof:placetype":"venue",
@@ -79,6 +78,11 @@
         "paint"
     ]
 },
-  "bbox": [-76.304025,40.157673,-76.304025,40.157673],
+  "bbox": [
+    -76.304025,
+    40.157673,
+    -76.304025,
+    40.157673
+],
   "geometry": {"coordinates":[-76.304025,40.157673],"type":"Point"}
 }

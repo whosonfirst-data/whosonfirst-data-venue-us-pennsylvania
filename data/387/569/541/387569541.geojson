@@ -2,13 +2,14 @@
   "id": 387569541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.086887,40.269705,-80.086887,40.269705",
     "geom:latitude":40.269705,
     "geom:longitude":-80.086887,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"215 Thomas Rd",
     "sg:city":"Canonsburg",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081343,
-        85806851
+        85806851,
+        102081343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"b8cb89292120026e8a6d3942125e54eb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081343,
-            "locality_id":-1,
             "neighbourhood_id":85806851,
             "region_id":85688481,
             "venue_id":387569541
         }
     ],
     "wof:id":387569541,
-    "wof:lastmodified":1449059766,
+    "wof:lastmodified":1454361188,
     "wof:name":"Stephen E Schake",
     "wof:parent_id":85806851,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.086887,40.269705,-80.086887,40.269705],
+  "bbox": [
+    -80.086887,
+    40.269705,
+    -80.086887,
+    40.269705
+],
   "geometry": {"coordinates":[-80.086887,40.269705],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404085415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.247612,40.033505,-76.247612,40.033505",
     "geom:latitude":40.033505,
     "geom:longitude":-76.247612,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1929 Lincoln Hwy E Ste 20",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -39,8 +40,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85817031
+        85817031,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,17 +51,15 @@
     "wof:geomhash":"06ba5a2d771d1132e556de66f957a009",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85817031,
             "region_id":85688481,
             "venue_id":404085415
         }
     ],
     "wof:id":404085415,
-    "wof:lastmodified":1449039347,
+    "wof:lastmodified":1454356582,
     "wof:name":"Constructive Concepts Ltd",
     "wof:parent_id":85817031,
     "wof:placetype":"venue",
@@ -75,6 +74,11 @@
         "architectural"
     ]
 },
-  "bbox": [-76.247612,40.033505,-76.247612,40.033505],
+  "bbox": [
+    -76.247612,
+    40.033505,
+    -76.247612,
+    40.033505
+],
   "geometry": {"coordinates":[-76.247612,40.033505],"type":"Point"}
 }

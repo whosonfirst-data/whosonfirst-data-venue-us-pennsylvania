@@ -2,13 +2,14 @@
   "id": 387606467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.966035,40.019208,-78.966035,40.019208",
     "geom:latitude":40.019208,
     "geom:longitude":-78.966035,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"427 Ross Rd",
     "sg:city":"Somerset",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081361,
-        85829623
+        85829623,
+        102081361
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"c120117180b758606915a1ab81031052",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081361,
-            "locality_id":-1,
             "neighbourhood_id":85829623,
             "region_id":85688481,
             "venue_id":387606467
         }
     ],
     "wof:id":387606467,
-    "wof:lastmodified":1449056692,
+    "wof:lastmodified":1454358541,
     "wof:name":"Mostoller Inc",
     "wof:parent_id":85829623,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "trust"
     ]
 },
-  "bbox": [-78.966035,40.019208,-78.966035,40.019208],
-  "geometry": {"coordinates":[-78.966035,40.019208],"type":"Point"}
+  "bbox": [
+    -78.966035,
+    40.019208,
+    -78.966035,
+    40.019208
+],
+  "geometry": {"coordinates":[-78.96603500000001,40.019208],"type":"Point"}
 }

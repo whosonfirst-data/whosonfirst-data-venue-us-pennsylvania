@@ -2,13 +2,14 @@
   "id": 387773221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.520249,40.814662,-79.520249,40.814662",
     "geom:latitude":40.814662,
     "geom:longitude":-79.520249,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"140 N Jefferson St",
     "sg:city":"Kittanning",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081371,
-        85816487
+        85816487,
+        102081371
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"fe6c9b3e5466161fb9d8001d9bb4d655",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081371,
-            "locality_id":-1,
             "neighbourhood_id":85816487,
             "region_id":85688481,
             "venue_id":387773221
         }
     ],
     "wof:id":387773221,
-    "wof:lastmodified":1449056589,
+    "wof:lastmodified":1454358464,
     "wof:name":"Miller's Hoagies",
     "wof:parent_id":85816487,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "sandwich"
     ]
 },
-  "bbox": [-79.520249,40.814662,-79.520249,40.814662],
-  "geometry": {"coordinates":[-79.520249,40.814662],"type":"Point"}
+  "bbox": [
+    -79.520249,
+    40.814662,
+    -79.520249,
+    40.814662
+],
+  "geometry": {"coordinates":[-79.52024900000001,40.814662],"type":"Point"}
 }

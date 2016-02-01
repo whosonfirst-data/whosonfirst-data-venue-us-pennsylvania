@@ -2,13 +2,14 @@
   "id": 403717205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.486323,40.259073,-76.486323,40.259073",
     "geom:latitude":40.259073,
     "geom:longitude":-76.486323,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"612 Horseshoe Trail Dr",
     "sg:city":"Lebanon",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85865399,
+        102191575,
+        404483435,
         85633793,
         101719401,
         102081341,
-        85865399
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"9bc41b972c5e071e21cd66640a296876",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081341,
+            "localadmin_id":404483435,
             "locality_id":101719401,
             "neighbourhood_id":85865399,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":403717205,
-    "wof:lastmodified":1449054655,
+    "wof:lastmodified":1454357195,
     "wof:name":"English Gardens Landscaping",
     "wof:parent_id":85865399,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "lawn"
     ]
 },
-  "bbox": [-76.486323,40.259073,-76.486323,40.259073],
+  "bbox": [
+    -76.486323,
+    40.259073,
+    -76.486323,
+    40.259073
+],
   "geometry": {"coordinates":[-76.486323,40.259073],"type":"Point"}
 }

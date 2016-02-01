@@ -2,13 +2,14 @@
   "id": 403857267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.846086,40.279584,-76.846086,40.279584",
     "geom:latitude":40.279584,
     "geom:longitude":-76.846086,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2835 Booser Ave",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -31,11 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85850427,
+        102191575,
+        404486197,
         85633793,
-        101719811,
+        101717715,
         102081347,
-        85850427
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +48,18 @@
     "wof:geomhash":"062379db8c536e241d3583c1eb03c3e8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":101719811,
+            "localadmin_id":404486197,
+            "locality_id":101717715,
             "neighbourhood_id":85850427,
             "region_id":85688481,
             "venue_id":403857267
         }
     ],
     "wof:id":403857267,
-    "wof:lastmodified":1449055485,
+    "wof:lastmodified":1454357694,
     "wof:name":"Ss Enterprises Auto Parts",
     "wof:parent_id":85850427,
     "wof:placetype":"venue",
@@ -69,6 +73,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-76.846086,40.279584,-76.846086,40.279584],
+  "bbox": [
+    -76.846086,
+    40.279584,
+    -76.846086,
+    40.279584
+],
   "geometry": {"coordinates":[-76.846086,40.279584],"type":"Point"}
 }

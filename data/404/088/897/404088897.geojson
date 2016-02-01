@@ -2,13 +2,14 @@
   "id": 404088897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.359998,40.044652,-76.359998,40.044652",
     "geom:latitude":40.044652,
     "geom:longitude":-76.359998,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2137 Embassy Dr Ste 218",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85810789
+        85810789,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"c82be5c659e26e75799639f359bec704",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85810789,
             "region_id":85688481,
             "venue_id":404088897
         }
     ],
     "wof:id":404088897,
-    "wof:lastmodified":1449040022,
+    "wof:lastmodified":1454356962,
     "wof:name":"Success Performance Solutions",
     "wof:parent_id":85810789,
     "wof:placetype":"venue",
@@ -63,6 +62,11 @@
         "laboratories-research"
     ]
 },
-  "bbox": [-76.359998,40.044652,-76.359998,40.044652],
+  "bbox": [
+    -76.359998,
+    40.044652,
+    -76.359998,
+    40.044652
+],
   "geometry": {"coordinates":[-76.359998,40.044652],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387415919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.998932,40.442875,-79.998932,40.442875",
     "geom:latitude":40.442875,
     "geom:longitude":-79.998932,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"801 Liberty Avenue",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -25,11 +26,13 @@
     "sg:website":"www.crazymocha.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85873585,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85873585
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +42,10 @@
     "wof:geomhash":"8ce20fb5bba7d672b8dfdcef13d5b007",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85873585,
             "region_id":85688481,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":387415919,
-    "wof:lastmodified":1449058856,
+    "wof:lastmodified":1454360904,
     "wof:name":"Crazy Mocha",
     "wof:parent_id":85873585,
     "wof:placetype":"venue",
@@ -57,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.998932,40.442875,-79.998932,40.442875],
+  "bbox": [
+    -79.998932,
+    40.442875,
+    -79.998932,
+    40.442875
+],
   "geometry": {"coordinates":[-79.998932,40.442875],"type":"Point"}
 }

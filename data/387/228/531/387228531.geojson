@@ -2,13 +2,14 @@
   "id": 387228531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.019815,40.336234,-80.019815,40.336234",
     "geom:latitude":40.336234,
     "geom:longitude":-80.019815,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1000 Higbee Dr",
     "sg:city":"Bethel Park",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85807579,
+        102191575,
+        404484853,
         85633793,
         101718799,
         102080887,
-        85807579
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"1ae0d1669c0b2177acb419aeea89b813",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484853,
             "locality_id":101718799,
             "neighbourhood_id":85807579,
             "region_id":85688481,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":387228531,
-    "wof:lastmodified":1449057289,
+    "wof:lastmodified":1454358992,
     "wof:name":"Waltrip Nicole MD",
     "wof:parent_id":85807579,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.019815,40.336234,-80.019815,40.336234],
-  "geometry": {"coordinates":[-80.019815,40.336234],"type":"Point"}
+  "bbox": [
+    -80.019815,
+    40.336234,
+    -80.019815,
+    40.336234
+],
+  "geometry": {"coordinates":[-80.01981499999999,40.336234],"type":"Point"}
 }

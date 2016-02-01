@@ -2,13 +2,14 @@
   "id": 403986727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.88934,39.751396,-76.88934,39.751396",
     "geom:latitude":39.751396,
     "geom:longitude":-76.88934,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3255 Hobart Rd",
     "sg:city":"Glenville",
     "sg:classifiers":[
@@ -34,8 +35,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080953,
-        85832403
+        85832403,
+        102080953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +46,15 @@
     "wof:geomhash":"5463023c5d39b208a0bdb8a287e68b77",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
             "neighbourhood_id":85832403,
             "region_id":85688481,
             "venue_id":403986727
         }
     ],
     "wof:id":403986727,
-    "wof:lastmodified":1449055701,
+    "wof:lastmodified":1454357829,
     "wof:name":"Choozee Vending",
     "wof:parent_id":85832403,
     "wof:placetype":"venue",
@@ -70,6 +69,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-76.88934,39.751396,-76.88934,39.751396],
+  "bbox": [
+    -76.88934,
+    39.751396,
+    -76.88934,
+    39.751396
+],
   "geometry": {"coordinates":[-76.88934,39.751396],"type":"Point"}
 }

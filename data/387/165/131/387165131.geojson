@@ -2,13 +2,14 @@
   "id": 387165131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.890146,40.158654,-79.890146,40.158654",
     "geom:latitude":40.158654,
     "geom:longitude":-79.890146,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"648 Knox Ave",
     "sg:city":"Monessen",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85816095,
+        102191575,
+        404487505,
         85633793,
-        101718539,
-        102081343,
-        85816095
+        101717153,
+        102081383,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"ef19dc04934ff6958524f304af9ca407",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081343,
-            "locality_id":101718539,
+            "county_id":102081383,
+            "localadmin_id":404487505,
+            "locality_id":101717153,
             "neighbourhood_id":85816095,
             "region_id":85688481,
             "venue_id":387165131
         }
     ],
     "wof:id":387165131,
-    "wof:lastmodified":1449059925,
+    "wof:lastmodified":1454361235,
     "wof:name":"Great Deals 4 Me",
     "wof:parent_id":85816095,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "variety"
     ]
 },
-  "bbox": [-79.890146,40.158654,-79.890146,40.158654],
+  "bbox": [
+    -79.890146,
+    40.158654,
+    -79.890146,
+    40.158654
+],
   "geometry": {"coordinates":[-79.890146,40.158654],"type":"Point"}
 }

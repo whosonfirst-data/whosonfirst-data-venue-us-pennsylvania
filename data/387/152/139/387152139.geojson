@@ -2,13 +2,14 @@
   "id": 387152139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.943972,40.625049,-79.943972,40.625049",
     "geom:latitude":40.625049,
     "geom:longitude":-79.943972,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4156 Kenneth Dr",
     "sg:city":"Gibsonia",
     "sg:classifiers":[
@@ -27,7 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420536325,
+        102191575,
+        404484173,
         85633793,
+        101720497,
+        102080887,
         85688481
     ],
     "wof:breaches":[],
@@ -38,18 +44,20 @@
     "wof:geomhash":"bc6eda262ac7dce89196d6253a12f645",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102080887,
+            "localadmin_id":404484173,
+            "locality_id":101720497,
+            "neighbourhood_id":420536325,
             "region_id":85688481,
             "venue_id":387152139
         }
     ],
     "wof:id":387152139,
-    "wof:lastmodified":1449059030,
+    "wof:lastmodified":1454360962,
     "wof:name":"Transhealth Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536325,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +65,11 @@
         "meter"
     ]
 },
-  "bbox": [-79.943972,40.625049,-79.943972,40.625049],
+  "bbox": [
+    -79.943972,
+    40.625049,
+    -79.943972,
+    40.625049
+],
   "geometry": {"coordinates":[-79.943972,40.625049],"type":"Point"}
 }

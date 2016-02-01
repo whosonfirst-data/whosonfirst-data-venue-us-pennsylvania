@@ -2,13 +2,14 @@
   "id": 387278151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.859771,40.469325,-79.859771,40.469325",
     "geom:latitude":40.469325,
     "geom:longitude":-79.859771,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4356 Verona Rd",
     "sg:city":"Verona",
     "sg:classifiers":[
@@ -33,8 +34,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85812851
+        85812851,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +45,15 @@
     "wof:geomhash":"60a2f6eb2980ce7b1fcdfaca2db7ef79",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85812851,
             "region_id":85688481,
             "venue_id":387278151
         }
     ],
     "wof:id":387278151,
-    "wof:lastmodified":1449058211,
+    "wof:lastmodified":1454360710,
     "wof:name":"Monroeville Glass Block Co",
     "wof:parent_id":85812851,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "glass-block"
     ]
 },
-  "bbox": [-79.859771,40.469325,-79.859771,40.469325],
-  "geometry": {"coordinates":[-79.859771,40.469325],"type":"Point"}
+  "bbox": [
+    -79.859771,
+    40.469325,
+    -79.859771,
+    40.469325
+],
+  "geometry": {"coordinates":[-79.85977099999999,40.469325],"type":"Point"}
 }

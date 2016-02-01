@@ -2,13 +2,14 @@
   "id": 387959357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.599781,40.148271,-76.599781,40.148271",
     "geom:latitude":40.148271,
     "geom:longitude":-76.599781,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"148 College Ave",
     "sg:city":"Elizabethtown",
     "sg:classifiers":[
@@ -37,8 +38,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85803077
+        85803077,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +49,15 @@
     "wof:geomhash":"227c4b7136a73349589f8b81e1c6dc9e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85803077,
             "region_id":85688481,
             "venue_id":387959357
         }
     ],
     "wof:id":387959357,
-    "wof:lastmodified":1449059536,
+    "wof:lastmodified":1454361111,
     "wof:name":"Custom Tailoring By Halina Szewczak",
     "wof:parent_id":85803077,
     "wof:placetype":"venue",
@@ -71,6 +70,11 @@
         "wedding"
     ]
 },
-  "bbox": [-76.599781,40.148271,-76.599781,40.148271],
-  "geometry": {"coordinates":[-76.599781,40.148271],"type":"Point"}
+  "bbox": [
+    -76.599781,
+    40.148271,
+    -76.599781,
+    40.148271
+],
+  "geometry": {"coordinates":[-76.59978099999999,40.148271],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387904927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.525041,40.347596,-76.525041,40.347596",
     "geom:latitude":40.347596,
     "geom:longitude":-76.525041,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4585 Hill Church Rd",
     "sg:city":"Annville",
     "sg:classifiers":[
@@ -28,7 +29,12 @@
     "sg:website":"http://www.dayosh.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420538697,
+        102191575,
+        404483423,
         85633793,
+        101719373,
+        102081341,
         85688481
     ],
     "wof:breaches":[],
@@ -39,18 +45,20 @@
     "wof:geomhash":"182209797228cb048b8df76122d15164",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081341,
+            "localadmin_id":404483423,
+            "locality_id":101719373,
+            "neighbourhood_id":420538697,
             "region_id":85688481,
             "venue_id":387904927
         }
     ],
     "wof:id":387904927,
-    "wof:lastmodified":1449060006,
+    "wof:lastmodified":1454361258,
     "wof:name":"Miller's Computers",
-    "wof:parent_id":-1,
+    "wof:parent_id":420538697,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -58,6 +66,11 @@
         "equipment"
     ]
 },
-  "bbox": [-76.525041,40.347596,-76.525041,40.347596],
+  "bbox": [
+    -76.525041,
+    40.347596,
+    -76.525041,
+    40.347596
+],
   "geometry": {"coordinates":[-76.525041,40.347596],"type":"Point"}
 }

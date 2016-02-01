@@ -2,13 +2,14 @@
   "id": 387621259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.582184,40.305895,-79.582184,40.305895",
     "geom:latitude":40.305895,
     "geom:longitude":-79.582184,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2510 Greengate Centre Cir",
     "sg:city":"Greensburg",
     "sg:classifiers":[
@@ -42,8 +43,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081383,
-        85843595
+        85843595,
+        102081383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,17 +54,15 @@
     "wof:geomhash":"528a144fb35c1bd035345b6e4b593b8c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":-1,
             "neighbourhood_id":85843595,
             "region_id":85688481,
             "venue_id":387621259
         }
     ],
     "wof:id":387621259,
-    "wof:lastmodified":1449059464,
+    "wof:lastmodified":1454361091,
     "wof:name":"Pearle Vision",
     "wof:parent_id":85843595,
     "wof:placetype":"venue",
@@ -75,6 +74,11 @@
         "contact"
     ]
 },
-  "bbox": [-79.582184,40.305895,-79.582184,40.305895],
+  "bbox": [
+    -79.582184,
+    40.305895,
+    -79.582184,
+    40.305895
+],
   "geometry": {"coordinates":[-79.582184,40.305895],"type":"Point"}
 }

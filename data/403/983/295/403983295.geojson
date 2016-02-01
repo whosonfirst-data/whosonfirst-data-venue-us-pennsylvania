@@ -2,13 +2,14 @@
   "id": 403983295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.226281,39.839903,-77.226281,39.839903",
     "geom:latitude":39.839903,
     "geom:longitude":-77.226281,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"675 Old Harrisburg Rd",
     "sg:city":"Gettysburg",
     "sg:classifiers":[
@@ -37,8 +38,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080899,
-        85804527
+        85804527,
+        102080899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +49,15 @@
     "wof:geomhash":"1cd214ccff489e62005cd9b17f520386",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080899,
-            "locality_id":-1,
             "neighbourhood_id":85804527,
             "region_id":85688481,
             "venue_id":403983295
         }
     ],
     "wof:id":403983295,
-    "wof:lastmodified":1449055852,
+    "wof:lastmodified":1454357909,
     "wof:name":"Adams County National Bank Inc",
     "wof:parent_id":85804527,
     "wof:placetype":"venue",
@@ -70,6 +69,11 @@
         "saving"
     ]
 },
-  "bbox": [-77.226281,39.839903,-77.226281,39.839903],
+  "bbox": [
+    -77.226281,
+    39.839903,
+    -77.226281,
+    39.839903
+],
   "geometry": {"coordinates":[-77.226281,39.839903],"type":"Point"}
 }

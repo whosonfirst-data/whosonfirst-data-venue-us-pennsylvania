@@ -2,13 +2,14 @@
   "id": 403985067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.195147,39.798278,-77.195147,39.798278",
     "geom:latitude":39.798278,
     "geom:longitude":-77.195147,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"98 White Rd",
     "sg:city":"Gettysburg",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080899,
-        85865375
+        85865375,
+        102080899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"1936ceb730adcd0feb3bdd8ecb5e72d0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080899,
-            "locality_id":-1,
             "neighbourhood_id":85865375,
             "region_id":85688481,
             "venue_id":403985067
         }
     ],
     "wof:id":403985067,
-    "wof:lastmodified":1449055295,
+    "wof:lastmodified":1454357586,
     "wof:name":"Saint Jude Medical",
     "wof:parent_id":85865375,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "eldercare-home"
     ]
 },
-  "bbox": [-77.195147,39.798278,-77.195147,39.798278],
-  "geometry": {"coordinates":[-77.195147,39.798278],"type":"Point"}
+  "bbox": [
+    -77.195147,
+    39.798278,
+    -77.195147,
+    39.798278
+],
+  "geometry": {"coordinates":[-77.19514700000001,39.798278],"type":"Point"}
 }

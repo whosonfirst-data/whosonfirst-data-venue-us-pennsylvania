@@ -2,13 +2,14 @@
   "id": 404015711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.680957,39.92455,-76.680957,39.92455",
     "geom:latitude":39.92455,
     "geom:longitude":-76.680957,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2280 Ashleigh Dr",
     "sg:city":"York",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85844261,
+        102191575,
+        404488031,
         85633793,
+        101719481,
         102080953,
-        85844261
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +44,18 @@
     "wof:geomhash":"372bd5c554c8f08cbca11dcb7583a43c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
+            "localadmin_id":404488031,
+            "locality_id":101719481,
             "neighbourhood_id":85844261,
             "region_id":85688481,
             "venue_id":404015711
         }
     ],
     "wof:id":404015711,
-    "wof:lastmodified":1449039333,
+    "wof:lastmodified":1454356574,
     "wof:name":"L & B Networks, Llp",
     "wof:parent_id":85844261,
     "wof:placetype":"venue",
@@ -60,6 +65,11 @@
         "communication"
     ]
 },
-  "bbox": [-76.680957,39.92455,-76.680957,39.92455],
-  "geometry": {"coordinates":[-76.680957,39.92455],"type":"Point"}
+  "bbox": [
+    -76.680957,
+    39.92455,
+    -76.680957,
+    39.92455
+],
+  "geometry": {"coordinates":[-76.68095700000001,39.92455],"type":"Point"}
 }

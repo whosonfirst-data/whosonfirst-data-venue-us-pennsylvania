@@ -2,13 +2,14 @@
   "id": 404022629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.69766,39.972586,-76.69766,39.972586",
     "geom:latitude":39.972586,
     "geom:longitude":-76.69766,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1561 E Market St",
     "sg:city":"York",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080953,
-        85817923
+        85817923,
+        102080953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"196ea0ab048f6ea1174101ed731c880a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
             "neighbourhood_id":85817923,
             "region_id":85688481,
             "venue_id":404022629
         }
     ],
     "wof:id":404022629,
-    "wof:lastmodified":1449039415,
+    "wof:lastmodified":1454356635,
     "wof:name":"Cr Realty",
     "wof:parent_id":85817923,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "broker"
     ]
 },
-  "bbox": [-76.69766,39.972586,-76.69766,39.972586],
+  "bbox": [
+    -76.69766,
+    39.972586,
+    -76.69766,
+    39.972586
+],
   "geometry": {"coordinates":[-76.69766,39.972586],"type":"Point"}
 }

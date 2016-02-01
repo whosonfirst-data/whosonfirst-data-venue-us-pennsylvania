@@ -2,13 +2,14 @@
   "id": 387494877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.01639,40.57202,-80.01639,40.57202",
     "geom:latitude":40.57202,
     "geom:longitude":-80.01639,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"9104 Babcock Blvd Ste 3105",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -40,8 +41,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85820441
+        85820441,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,17 +52,15 @@
     "wof:geomhash":"066a8b8a2099b901f771178d1d319234",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85820441,
             "region_id":85688481,
             "venue_id":387494877
         }
     ],
     "wof:id":387494877,
-    "wof:lastmodified":1449059496,
+    "wof:lastmodified":1454361100,
     "wof:name":"Robert J Neeson Dmd & Associates",
     "wof:parent_id":85820441,
     "wof:placetype":"venue",
@@ -76,6 +75,11 @@
         "oral"
     ]
 },
-  "bbox": [-80.01639,40.57202,-80.01639,40.57202],
+  "bbox": [
+    -80.01639,
+    40.57202,
+    -80.01639,
+    40.57202
+],
   "geometry": {"coordinates":[-80.01639,40.57202],"type":"Point"}
 }

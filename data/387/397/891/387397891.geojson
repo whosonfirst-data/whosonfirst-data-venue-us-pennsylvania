@@ -2,13 +2,14 @@
   "id": 387397891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.856364,40.420922,-79.856364,40.420922",
     "geom:latitude":40.420922,
     "geom:longitude":-79.856364,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"162 Fairfax Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536333,
+        102191575,
+        404484859,
         85633793,
-        101718685,
-        102080887
+        101718785,
+        102080887,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"d5587cb27e44c4c8a9c6d4765a16dc1f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":101718685,
-            "neighbourhood_id":-1,
+            "localadmin_id":404484859,
+            "locality_id":101718785,
+            "neighbourhood_id":420536333,
             "region_id":85688481,
             "venue_id":387397891
         }
     ],
     "wof:id":387397891,
-    "wof:lastmodified":1449057626,
+    "wof:lastmodified":1454360535,
     "wof:name":"Gatti Evaluation, Inc.",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536333,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "market"
     ]
 },
-  "bbox": [-79.856364,40.420922,-79.856364,40.420922],
+  "bbox": [
+    -79.856364,
+    40.420922,
+    -79.856364,
+    40.420922
+],
   "geometry": {"coordinates":[-79.856364,40.420922],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403789031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.159151,40.512252,-77.159151,40.512252",
     "geom:latitude":40.512252,
     "geom:longitude":-77.159151,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"120 Forrest Ln",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080963,
-        85827701
+        85827701,
+        102080963
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"df2c7c8758602c2744dbea037387938c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080963,
-            "locality_id":-1,
             "neighbourhood_id":85827701,
             "region_id":85688481,
             "venue_id":403789031
         }
     ],
     "wof:id":403789031,
-    "wof:lastmodified":1449055233,
+    "wof:lastmodified":1454357551,
     "wof:name":"A & R Heating & Air Conditioning",
     "wof:parent_id":85827701,
     "wof:placetype":"venue",
@@ -64,6 +63,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-77.159151,40.512252,-77.159151,40.512252],
-  "geometry": {"coordinates":[-77.159151,40.512252],"type":"Point"}
+  "bbox": [
+    -77.159151,
+    40.512252,
+    -77.159151,
+    40.512252
+],
+  "geometry": {"coordinates":[-77.15915099999999,40.512252],"type":"Point"}
 }

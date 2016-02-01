@@ -2,13 +2,14 @@
   "id": 404194793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.419139,40.65702,-75.419139,40.65702",
     "geom:latitude":40.65702,
     "geom:longitude":-75.419139,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2031 Avenue C",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -25,10 +26,13 @@
     "sg:website":"homewoodsuites1.hilton.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85847329,
+        102191575,
+        404485987,
         85633793,
+        101717907,
         102081395,
-        85847329
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +42,18 @@
     "wof:geomhash":"c07e54bbb6bea4e8b41ba96e6c99d07c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081395,
-            "locality_id":-1,
+            "localadmin_id":404485987,
+            "locality_id":101717907,
             "neighbourhood_id":85847329,
             "region_id":85688481,
             "venue_id":404194793
         }
     ],
     "wof:id":404194793,
-    "wof:lastmodified":1449040141,
+    "wof:lastmodified":1454357031,
     "wof:name":"Homewood Suites",
     "wof:parent_id":85847329,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.419139,40.65702,-75.419139,40.65702],
+  "bbox": [
+    -75.419139,
+    40.65702,
+    -75.419139,
+    40.65702
+],
   "geometry": {"coordinates":[-75.419139,40.65702],"type":"Point"}
 }

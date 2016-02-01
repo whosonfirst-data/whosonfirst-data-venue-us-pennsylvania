@@ -2,13 +2,14 @@
   "id": 387444833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.04392,40.383053,-80.04392,40.383053",
     "geom:latitude":40.383053,
     "geom:longitude":-80.04392,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"603 Washington Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -34,10 +35,13 @@
     "sg:website":"http://www.drphyllislee.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85804395,
+        102191575,
+        404482523,
         85633793,
+        101718805,
         102080887,
-        85804395
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +51,18 @@
     "wof:geomhash":"9a6d6779b8baa2610527639ce9710393",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
+            "localadmin_id":404482523,
+            "locality_id":101718805,
             "neighbourhood_id":85804395,
             "region_id":85688481,
             "venue_id":387444833
         }
     ],
     "wof:id":387444833,
-    "wof:lastmodified":1449059402,
+    "wof:lastmodified":1454361070,
     "wof:name":"Lee Phyllis C Dmd Mds PC",
     "wof:parent_id":85804395,
     "wof:placetype":"venue",
@@ -73,6 +78,11 @@
         "dentists-implantology"
     ]
 },
-  "bbox": [-80.04392,40.383053,-80.04392,40.383053],
+  "bbox": [
+    -80.04392,
+    40.383053,
+    -80.04392,
+    40.383053
+],
   "geometry": {"coordinates":[-80.04392,40.383053],"type":"Point"}
 }

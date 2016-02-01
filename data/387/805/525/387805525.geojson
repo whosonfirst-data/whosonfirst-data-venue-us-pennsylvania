@@ -2,13 +2,14 @@
   "id": 387805525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.583436,41.940767,-79.583436,41.940767",
     "geom:latitude":41.940767,
     "geom:longitude":-79.583436,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"11 E Main St",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -34,8 +35,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081337,
-        85802759
+        85802759,
+        102081337
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +46,15 @@
     "wof:geomhash":"bd7d2ffd483b3cf19a7db3e42c25458f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081337,
-            "locality_id":-1,
             "neighbourhood_id":85802759,
             "region_id":85688481,
             "venue_id":387805525
         }
     ],
     "wof:id":387805525,
-    "wof:lastmodified":1449057371,
+    "wof:lastmodified":1454359063,
     "wof:name":"Columbus Inn",
     "wof:parent_id":85802759,
     "wof:placetype":"venue",
@@ -65,6 +64,11 @@
         "brew"
     ]
 },
-  "bbox": [-79.583436,41.940767,-79.583436,41.940767],
-  "geometry": {"coordinates":[-79.583436,41.940767],"type":"Point"}
+  "bbox": [
+    -79.583436,
+    41.940767,
+    -79.583436,
+    41.940767
+],
+  "geometry": {"coordinates":[-79.58343600000001,41.940767],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404147131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.276166,40.796253,-76.276166,40.796253",
     "geom:latitude":40.796253,
     "geom:longitude":-76.276166,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"648 E Mahanoy Ave",
     "sg:city":"Girardville",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85820509,
+        102191575,
+        404483819,
         85633793,
         101717629,
         102081271,
-        85820509
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"c1bf09c7663d0559199f6d887a2b9964",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081271,
+            "localadmin_id":404483819,
             "locality_id":101717629,
             "neighbourhood_id":85820509,
             "region_id":85688481,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":404147131,
-    "wof:lastmodified":1449040193,
+    "wof:lastmodified":1454357055,
     "wof:name":"Crick's Automotive",
     "wof:parent_id":85820509,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "automobile"
     ]
 },
-  "bbox": [-76.276166,40.796253,-76.276166,40.796253],
+  "bbox": [
+    -76.276166,
+    40.796253,
+    -76.276166,
+    40.796253
+],
   "geometry": {"coordinates":[-76.276166,40.796253],"type":"Point"}
 }

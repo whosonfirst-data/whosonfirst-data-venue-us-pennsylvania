@@ -2,13 +2,14 @@
   "id": 387833925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.205133,42.061429,-80.205133,42.061429",
     "geom:latitude":42.061429,
     "geom:longitude":-80.205133,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5712 W Ridge Rd",
     "sg:city":"Erie",
     "sg:classifiers":[
@@ -40,8 +41,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080955,
-        85853665
+        85853665,
+        102080955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,17 +52,15 @@
     "wof:geomhash":"f1c5556dc29fd40e5476def8483f391c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080955,
-            "locality_id":-1,
             "neighbourhood_id":85853665,
             "region_id":85688481,
             "venue_id":387833925
         }
     ],
     "wof:id":387833925,
-    "wof:lastmodified":1449056592,
+    "wof:lastmodified":1454358466,
     "wof:name":"Alleruzzo Blanc & Miceli",
     "wof:parent_id":85853665,
     "wof:placetype":"venue",
@@ -77,6 +76,11 @@
         "dentists-orthodontists"
     ]
 },
-  "bbox": [-80.205133,42.061429,-80.205133,42.061429],
+  "bbox": [
+    -80.205133,
+    42.061429,
+    -80.205133,
+    42.061429
+],
   "geometry": {"coordinates":[-80.205133,42.061429],"type":"Point"}
 }

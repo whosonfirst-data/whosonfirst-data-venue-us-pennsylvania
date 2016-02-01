@@ -2,13 +2,14 @@
   "id": 387271713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.784738,40.541112,-79.784738,40.541112",
     "geom:latitude":40.541112,
     "geom:longitude":-79.784738,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"580 Pittsburgh St",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     "sg:website":"http://www.hairbyborga.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85839857,
+        102191575,
+        404484317,
         85633793,
         101718751,
         102080887,
-        85839857
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"f6377ee2271242068c06921d6412add6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484317,
             "locality_id":101718751,
             "neighbourhood_id":85839857,
             "region_id":85688481,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":387271713,
-    "wof:lastmodified":1449058102,
+    "wof:lastmodified":1454360681,
     "wof:name":"Hair by Borga & Day Spa",
     "wof:parent_id":85839857,
     "wof:placetype":"venue",
@@ -69,6 +73,11 @@
         "stylist"
     ]
 },
-  "bbox": [-79.784738,40.541112,-79.784738,40.541112],
+  "bbox": [
+    -79.784738,
+    40.541112,
+    -79.784738,
+    40.541112
+],
   "geometry": {"coordinates":[-79.784738,40.541112],"type":"Point"}
 }

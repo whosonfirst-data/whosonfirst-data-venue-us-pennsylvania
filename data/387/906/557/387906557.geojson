@@ -2,13 +2,14 @@
   "id": 387906557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.135696,40.164398,-77.135696,40.164398",
     "geom:latitude":40.164398,
     "geom:longitude":-77.135696,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"49 S Pin Oak Dr",
     "sg:city":"Boiling Springs",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85868581,
+        102191575,
+        404486545,
         85633793,
         101719075,
         102081359,
-        85868581
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"918b4c6aeedeab31e21e1ebcf39636eb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081359,
+            "localadmin_id":404486545,
             "locality_id":101719075,
             "neighbourhood_id":85868581,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387906557,
-    "wof:lastmodified":1449057551,
+    "wof:lastmodified":1454360434,
     "wof:name":"Weibley Ronald E CPA - CLOSED",
     "wof:parent_id":85868581,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "accountant"
     ]
 },
-  "bbox": [-77.135696,40.164398,-77.135696,40.164398],
+  "bbox": [
+    -77.135696,
+    40.164398,
+    -77.135696,
+    40.164398
+],
   "geometry": {"coordinates":[-77.135696,40.164398],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404079783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.297232,40.055036,-76.297232,40.055036",
     "geom:latitude":40.055036,
     "geom:longitude":-76.297232,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1142 Marshall Ave Ste 1",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -25,11 +26,13 @@
     "sg:website":"http://www.cheveuxsalon.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85846173,
+        102191575,
+        404487183,
         85633793,
         101718643,
         102081377,
-        85846173
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +42,10 @@
     "wof:geomhash":"762fc253e8af35280fc69652f006101b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081377,
+            "localadmin_id":404487183,
             "locality_id":101718643,
             "neighbourhood_id":85846173,
             "region_id":85688481,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":404079783,
-    "wof:lastmodified":1449040109,
+    "wof:lastmodified":1454357011,
     "wof:name":"Cheveux",
     "wof:parent_id":85846173,
     "wof:placetype":"venue",
@@ -57,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.297232,40.055036,-76.297232,40.055036],
-  "geometry": {"coordinates":[-76.297232,40.055036],"type":"Point"}
+  "bbox": [
+    -76.297232,
+    40.055036,
+    -76.297232,
+    40.055036
+],
+  "geometry": {"coordinates":[-76.29723199999999,40.055036],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387631461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.650726,40.421422,-79.650726,40.421422",
     "geom:latitude":40.421422,
     "geom:longitude":-79.650726,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2912 Bryer Ridge Ct",
     "sg:city":"Export",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"http://www.sherlocks.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85836835,
+        102191575,
+        404487539,
         85633793,
         101717149,
         102081383,
-        85836835
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"a977a8c335d822013c5686c5de86b270",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081383,
+            "localadmin_id":404487539,
             "locality_id":101717149,
             "neighbourhood_id":85836835,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387631461,
-    "wof:lastmodified":1449057276,
+    "wof:lastmodified":1454358987,
     "wof:name":"Anthony Fonzi",
     "wof:parent_id":85836835,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "preparation-business"
     ]
 },
-  "bbox": [-79.650726,40.421422,-79.650726,40.421422],
-  "geometry": {"coordinates":[-79.650726,40.421422],"type":"Point"}
+  "bbox": [
+    -79.650726,
+    40.421422,
+    -79.650726,
+    40.421422
+],
+  "geometry": {"coordinates":[-79.65072600000001,40.421422],"type":"Point"}
 }

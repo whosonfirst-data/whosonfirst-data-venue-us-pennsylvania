@@ -2,13 +2,14 @@
   "id": 404014313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.673113,39.975279,-76.673113,39.975279",
     "geom:latitude":39.975279,
     "geom:longitude":-76.673113,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2820 E Market St",
     "sg:city":"York",
     "sg:classifiers":[
@@ -37,10 +38,13 @@
     "sg:website":"http://www.hardees.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420540439,
+        102191575,
+        404487939,
         85633793,
         101719469,
-        102080953
+        102080953,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,19 +54,20 @@
     "wof:geomhash":"6f4dda19d0d0ab337b37590ddae0b30a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080953,
+            "localadmin_id":404487939,
             "locality_id":101719469,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420540439,
             "region_id":85688481,
             "venue_id":404014313
         }
     ],
     "wof:id":404014313,
-    "wof:lastmodified":1449039625,
+    "wof:lastmodified":1454356740,
     "wof:name":"Hardee's",
-    "wof:parent_id":-1,
+    "wof:parent_id":420540439,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -74,6 +79,11 @@
         "take"
     ]
 },
-  "bbox": [-76.673113,39.975279,-76.673113,39.975279],
+  "bbox": [
+    -76.673113,
+    39.975279,
+    -76.673113,
+    39.975279
+],
   "geometry": {"coordinates":[-76.673113,39.975279],"type":"Point"}
 }

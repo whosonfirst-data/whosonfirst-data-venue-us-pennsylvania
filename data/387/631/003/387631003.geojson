@@ -2,13 +2,14 @@
   "id": 387631003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.652939,40.420391,-79.652939,40.420391",
     "geom:latitude":40.420391,
     "geom:longitude":-79.652939,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5051 Old William Penn Hwy",
     "sg:city":"Export",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"http://www.eastsuburbananimalhospital.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85836835,
+        102191575,
+        404487539,
         85633793,
         101717149,
         102081383,
-        85836835
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"99fa4854ec56cda168e5e43fc9d30264",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081383,
+            "localadmin_id":404487539,
             "locality_id":101717149,
             "neighbourhood_id":85836835,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387631003,
-    "wof:lastmodified":1449057278,
+    "wof:lastmodified":1454358988,
     "wof:name":"Caslow, Donald Vmd",
     "wof:parent_id":85836835,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "hospital"
     ]
 },
-  "bbox": [-79.652939,40.420391,-79.652939,40.420391],
+  "bbox": [
+    -79.652939,
+    40.420391,
+    -79.652939,
+    40.420391
+],
   "geometry": {"coordinates":[-79.652939,40.420391],"type":"Point"}
 }

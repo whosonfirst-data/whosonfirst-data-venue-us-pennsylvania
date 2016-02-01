@@ -2,13 +2,14 @@
   "id": 387969419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.6492,40.293098,-76.6492,40.293098",
     "geom:latitude":40.293098,
     "geom:longitude":-76.6492,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"32 Northeast Dr Ste 202",
     "sg:city":"Hershey",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85850549,
+        102191575,
+        404483303,
         85633793,
         101719813,
         102081347,
-        85850549
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"34a6b386b6634221367301702b151773",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
+            "localadmin_id":404483303,
             "locality_id":101719813,
             "neighbourhood_id":85850549,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387969419,
-    "wof:lastmodified":1449057019,
+    "wof:lastmodified":1454358774,
     "wof:name":"Abildness James E Dr DDS",
     "wof:parent_id":85850549,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "oral"
     ]
 },
-  "bbox": [-76.6492,40.293098,-76.6492,40.293098],
-  "geometry": {"coordinates":[-76.6492,40.293098],"type":"Point"}
+  "bbox": [
+    -76.6492,
+    40.293098,
+    -76.6492,
+    40.293098
+],
+  "geometry": {"coordinates":[-76.64919999999999,40.293098],"type":"Point"}
 }

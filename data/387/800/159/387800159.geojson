@@ -2,13 +2,14 @@
   "id": 387800159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.142344,41.881851,-79.142344,41.881851",
     "geom:latitude":41.881851,
     "geom:longitude":-79.142344,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"213 N State St",
     "sg:city":"Warren",
     "sg:classifiers":[
@@ -37,11 +38,13 @@
     "sg:website":"http://www.healthylifespan.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85853597,
+        102191575,
+        404487619,
         85633793,
         101719505,
         102081337,
-        85853597
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,9 +54,10 @@
     "wof:geomhash":"848cd6ec4b34d21c822bb0f9f51e39ed",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081337,
+            "localadmin_id":404487619,
             "locality_id":101719505,
             "neighbourhood_id":85853597,
             "region_id":85688481,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":387800159,
-    "wof:lastmodified":1449056407,
+    "wof:lastmodified":1454358324,
     "wof:name":"Healthy Lifespan",
     "wof:parent_id":85853597,
     "wof:placetype":"venue",
@@ -75,6 +79,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-79.142344,41.881851,-79.142344,41.881851],
-  "geometry": {"coordinates":[-79.142344,41.881851],"type":"Point"}
+  "bbox": [
+    -79.142344,
+    41.881851,
+    -79.142344,
+    41.881851
+],
+  "geometry": {"coordinates":[-79.14234399999999,41.881851],"type":"Point"}
 }

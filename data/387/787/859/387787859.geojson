@@ -2,13 +2,14 @@
   "id": 387787859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.166158,41.624711,-80.166158,41.624711",
     "geom:latitude":41.624711,
     "geom:longitude":-80.166158,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"11516 Pennsylvania Ave",
     "sg:city":"Meadville",
     "sg:classifiers":[
@@ -52,8 +53,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080911,
-        85820599
+        85820599,
+        102080911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,17 +64,15 @@
     "wof:geomhash":"85fa2ed25fe2b4507e9c55d6fa612482",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080911,
-            "locality_id":-1,
             "neighbourhood_id":85820599,
             "region_id":85688481,
             "venue_id":387787859
         }
     ],
     "wof:id":387787859,
-    "wof:lastmodified":1449057822,
+    "wof:lastmodified":1454360606,
     "wof:name":"Penske Truck Rental",
     "wof:parent_id":85820599,
     "wof:placetype":"venue",
@@ -90,6 +89,11 @@
         "trailer"
     ]
 },
-  "bbox": [-80.166158,41.624711,-80.166158,41.624711],
+  "bbox": [
+    -80.166158,
+    41.624711,
+    -80.166158,
+    41.624711
+],
   "geometry": {"coordinates":[-80.166158,41.624711],"type":"Point"}
 }

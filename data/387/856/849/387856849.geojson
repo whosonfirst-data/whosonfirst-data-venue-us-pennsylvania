@@ -2,13 +2,14 @@
   "id": 387856849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.591918,40.459564,-78.591918,40.459564",
     "geom:latitude":40.459564,
     "geom:longitude":-78.591918,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1212 2nd St",
     "sg:city":"Cresson",
     "sg:classifiers":[
@@ -64,11 +65,13 @@
     "sg:website":"http://www.riteaid.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85825859,
+        102191575,
+        404482895,
         85633793,
         101717789,
         102080879,
-        85825859
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,9 +81,10 @@
     "wof:geomhash":"6800b57a47d8233fc53f2d9329280135",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080879,
+            "localadmin_id":404482895,
             "locality_id":101717789,
             "neighbourhood_id":85825859,
             "region_id":85688481,
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":387856849,
-    "wof:lastmodified":1449057175,
+    "wof:lastmodified":1454358905,
     "wof:name":"Rite Aid",
     "wof:parent_id":85825859,
     "wof:placetype":"venue",
@@ -109,6 +113,11 @@
         "greeting"
     ]
 },
-  "bbox": [-78.591918,40.459564,-78.591918,40.459564],
-  "geometry": {"coordinates":[-78.591918,40.459564],"type":"Point"}
+  "bbox": [
+    -78.591918,
+    40.459564,
+    -78.591918,
+    40.459564
+],
+  "geometry": {"coordinates":[-78.59191800000001,40.459564],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387713689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.097098,40.675587,-80.097098,40.675587",
     "geom:latitude":40.675587,
     "geom:longitude":-80.097098,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1160 Dutilh Rd Ste 100",
     "sg:city":"Mars",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102083677,
-        85812951
+        85812951,
+        102083677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"26d07ed9833b31494b14c55ed9d48a91",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102083677,
-            "locality_id":-1,
             "neighbourhood_id":85812951,
             "region_id":85688481,
             "venue_id":387713689
         }
     ],
     "wof:id":387713689,
-    "wof:lastmodified":1449059561,
+    "wof:lastmodified":1454361117,
     "wof:name":"First Choice Mortgage Services Inc",
     "wof:parent_id":85812951,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-80.097098,40.675587,-80.097098,40.675587],
+  "bbox": [
+    -80.097098,
+    40.675587,
+    -80.097098,
+    40.675587
+],
   "geometry": {"coordinates":[-80.097098,40.675587],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387361579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.006374,40.434454,-80.006374,40.434454",
     "geom:latitude":40.434454,
     "geom:longitude":-80.006374,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1 W Station Sq Dr",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"www.tribtotalmediaamp.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85873587,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85873587
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"7e93bce9cc82b3412cd06f403b9f61a5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85873587,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387361579,
-    "wof:lastmodified":1449058882,
+    "wof:lastmodified":1454360913,
     "wof:name":"Trib Total Media Amphitheatre",
     "wof:parent_id":85873587,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "venue"
     ]
 },
-  "bbox": [-80.006374,40.434454,-80.006374,40.434454],
-  "geometry": {"coordinates":[-80.006374,40.434454],"type":"Point"}
+  "bbox": [
+    -80.006374,
+    40.434454,
+    -80.006374,
+    40.434454
+],
+  "geometry": {"coordinates":[-80.00637399999999,40.434454],"type":"Point"}
 }

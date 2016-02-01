@@ -2,13 +2,14 @@
   "id": 404188169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.391588,40.653056,-75.391588,40.653056",
     "geom:latitude":40.653056,
     "geom:longitude":-75.391588,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"795 W Macada Rd",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081395,
-        85814279
+        85814279,
+        102081395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"f9947a8cffd323578ee97a50a8370780",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081395,
-            "locality_id":-1,
             "neighbourhood_id":85814279,
             "region_id":85688481,
             "venue_id":404188169
         }
     ],
     "wof:id":404188169,
-    "wof:lastmodified":1449039667,
+    "wof:lastmodified":1454356756,
     "wof:name":"Kapoor Foundation Inc",
     "wof:parent_id":85814279,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "emergency"
     ]
 },
-  "bbox": [-75.391588,40.653056,-75.391588,40.653056],
+  "bbox": [
+    -75.391588,
+    40.653056,
+    -75.391588,
+    40.653056
+],
   "geometry": {"coordinates":[-75.391588,40.653056],"type":"Point"}
 }

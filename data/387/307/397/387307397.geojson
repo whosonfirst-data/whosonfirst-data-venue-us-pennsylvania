@@ -2,13 +2,14 @@
   "id": 387307397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.985771,40.413897,-79.985771,40.413897",
     "geom:latitude":40.413897,
     "geom:longitude":-79.985771,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"141 Penn Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536261,
+        102191575,
+        404482515,
         85633793,
         101718839,
-        102080887
+        102080887,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"b4708209bab66126dab0f5c995143c14",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482515,
             "locality_id":101718839,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420536261,
             "region_id":85688481,
             "venue_id":387307397
         }
     ],
     "wof:id":387307397,
-    "wof:lastmodified":1449057087,
+    "wof:lastmodified":1454358824,
     "wof:name":"Natcity Investments",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536261,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "investing"
     ]
 },
-  "bbox": [-79.985771,40.413897,-79.985771,40.413897],
+  "bbox": [
+    -79.985771,
+    40.413897,
+    -79.985771,
+    40.413897
+],
   "geometry": {"coordinates":[-79.985771,40.413897],"type":"Point"}
 }

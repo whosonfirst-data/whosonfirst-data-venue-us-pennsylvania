@@ -2,13 +2,14 @@
   "id": 387233615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.093736,40.415707,-80.093736,40.415707",
     "geom:latitude":40.415707,
     "geom:longitude":-80.093736,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"107 Huron Dr",
     "sg:city":"Carnegie",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85826735,
+        102191575,
+        404484879,
         85633793,
-        101718743,
+        101718739,
         102080887,
-        85826735
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"43b4b4b98ee45f8830059a6c42ce0a4b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":101718743,
+            "localadmin_id":404484879,
+            "locality_id":101718739,
             "neighbourhood_id":85826735,
             "region_id":85688481,
             "venue_id":387233615
         }
     ],
     "wof:id":387233615,
-    "wof:lastmodified":1449059984,
+    "wof:lastmodified":1454361253,
     "wof:name":"Commonwealth Medical Center",
     "wof:parent_id":85826735,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "medical"
     ]
 },
-  "bbox": [-80.093736,40.415707,-80.093736,40.415707],
-  "geometry": {"coordinates":[-80.093736,40.415707],"type":"Point"}
+  "bbox": [
+    -80.093736,
+    40.415707,
+    -80.093736,
+    40.415707
+],
+  "geometry": {"coordinates":[-80.09373600000001,40.415707],"type":"Point"}
 }

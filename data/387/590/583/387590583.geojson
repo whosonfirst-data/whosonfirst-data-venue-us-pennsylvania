@@ -2,13 +2,14 @@
   "id": 387590583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.33768,39.816694,-79.33768,39.816694",
     "geom:latitude":39.816694,
     "geom:longitude":-79.33768,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"157 Groff Rd",
     "sg:city":"Confluence",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081361,
-        85824075
+        85824075,
+        102081361
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"37db1322445075f1094d487789bf7b75",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081361,
-            "locality_id":-1,
             "neighbourhood_id":85824075,
             "region_id":85688481,
             "venue_id":387590583
         }
     ],
     "wof:id":387590583,
-    "wof:lastmodified":1449058373,
+    "wof:lastmodified":1454360762,
     "wof:name":"Wilburn Michelle",
     "wof:parent_id":85824075,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "preparation-business"
     ]
 },
-  "bbox": [-79.33768,39.816694,-79.33768,39.816694],
-  "geometry": {"coordinates":[-79.33768,39.816694],"type":"Point"}
+  "bbox": [
+    -79.33768,
+    39.816694,
+    -79.33768,
+    39.816694
+],
+  "geometry": {"coordinates":[-79.33768000000001,39.816694],"type":"Point"}
 }

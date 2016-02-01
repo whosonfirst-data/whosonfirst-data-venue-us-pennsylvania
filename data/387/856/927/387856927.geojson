@@ -2,13 +2,14 @@
   "id": 387856927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.429846,40.454953,-78.429846,40.454953",
     "geom:latitude":40.454953,
     "geom:longitude":-78.429846,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2694 Route 764 3",
     "sg:city":"Duncansville",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081325,
-        85820087
+        85820087,
+        102081325
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"5665a4ee65af4e5f56d20c15f1d4cc07",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081325,
-            "locality_id":-1,
             "neighbourhood_id":85820087,
             "region_id":85688481,
             "venue_id":387856927
         }
     ],
     "wof:id":387856927,
-    "wof:lastmodified":1449057178,
+    "wof:lastmodified":1454358907,
     "wof:name":"Beer Barn",
     "wof:parent_id":85820087,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-78.429846,40.454953,-78.429846,40.454953],
+  "bbox": [
+    -78.429846,
+    40.454953,
+    -78.429846,
+    40.454953
+],
   "geometry": {"coordinates":[-78.429846,40.454953],"type":"Point"}
 }

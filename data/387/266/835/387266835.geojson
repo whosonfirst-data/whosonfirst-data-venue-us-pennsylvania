@@ -2,13 +2,14 @@
   "id": 387266835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.099602,40.605801,-80.099602,40.605801",
     "geom:latitude":40.605801,
     "geom:longitude":-80.099602,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2609 Nicholson Rd",
     "sg:city":"Sewickley",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85815367,
+        102191575,
+        404484933,
         85633793,
         101718681,
         102080887,
-        85815367
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"3dc572c14a68eb49eb2d4a6747ab3a84",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484933,
             "locality_id":101718681,
             "neighbourhood_id":85815367,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387266835,
-    "wof:lastmodified":1449056236,
+    "wof:lastmodified":1454358186,
     "wof:name":"J J Herbert & Sons",
     "wof:parent_id":85815367,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.099602,40.605801,-80.099602,40.605801],
+  "bbox": [
+    -80.099602,
+    40.605801,
+    -80.099602,
+    40.605801
+],
   "geometry": {"coordinates":[-80.099602,40.605801],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403985563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.215332,39.792925,-77.215332,39.792925",
     "geom:latitude":39.792925,
     "geom:longitude":-77.215332,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"146 Hospital Rd",
     "sg:city":"Gettysburg",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080899,
-        85846225
+        85846225,
+        102080899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"3646f1f003de7dc5d29bb74c538c3a9a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080899,
-            "locality_id":-1,
             "neighbourhood_id":85846225,
             "region_id":85688481,
             "venue_id":403985563
         }
     ],
     "wof:id":403985563,
-    "wof:lastmodified":1449055295,
+    "wof:lastmodified":1454357585,
     "wof:name":"E A Ganas",
     "wof:parent_id":85846225,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "book"
     ]
 },
-  "bbox": [-77.215332,39.792925,-77.215332,39.792925],
+  "bbox": [
+    -77.215332,
+    39.792925,
+    -77.215332,
+    39.792925
+],
   "geometry": {"coordinates":[-77.215332,39.792925],"type":"Point"}
 }

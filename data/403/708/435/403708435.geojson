@@ -2,13 +2,14 @@
   "id": 403708435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.783907,40.208105,-76.783907,40.208105",
     "geom:latitude":40.208105,
     "geom:longitude":-76.783907,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"47 Ann St",
     "sg:city":"Highspire",
     "sg:classifiers":[
@@ -44,7 +45,6 @@
     "wof:geomhash":"557fb7892a65eb94a28841cea6994a74",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
             "locality_id":101717691,
@@ -54,7 +54,7 @@
         }
     ],
     "wof:id":403708435,
-    "wof:lastmodified":1449054845,
+    "wof:lastmodified":1454357318,
     "wof:name":"Housing Authority County",
     "wof:parent_id":85823171,
     "wof:placetype":"venue",
@@ -67,6 +67,11 @@
         "government-county"
     ]
 },
-  "bbox": [-76.783907,40.208105,-76.783907,40.208105],
+  "bbox": [
+    -76.783907,
+    40.208105,
+    -76.783907,
+    40.208105
+],
   "geometry": {"coordinates":[-76.783907,40.208105],"type":"Point"}
 }

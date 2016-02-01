@@ -2,13 +2,14 @@
   "id": 387585943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.725728,39.904816,-79.725728,39.904816",
     "geom:latitude":39.904816,
     "geom:longitude":-79.725728,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"140 N Beeson Ave",
     "sg:city":"Uniontown",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85850161,
+        102191575,
+        404487055,
         85633793,
+        101719799,
         102080959,
-        85850161
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +45,18 @@
     "wof:geomhash":"f2e5a485e4edc11cf223ec6b2a4f7336",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080959,
-            "locality_id":-1,
+            "localadmin_id":404487055,
+            "locality_id":101719799,
             "neighbourhood_id":85850161,
             "region_id":85688481,
             "venue_id":387585943
         }
     ],
     "wof:id":387585943,
-    "wof:lastmodified":1449058641,
+    "wof:lastmodified":1454360837,
     "wof:name":"Fayette Unit",
     "wof:parent_id":85850161,
     "wof:placetype":"venue",
@@ -62,6 +67,11 @@
         "raising"
     ]
 },
-  "bbox": [-79.725728,39.904816,-79.725728,39.904816],
+  "bbox": [
+    -79.725728,
+    39.904816,
+    -79.725728,
+    39.904816
+],
   "geometry": {"coordinates":[-79.725728,39.904816],"type":"Point"}
 }

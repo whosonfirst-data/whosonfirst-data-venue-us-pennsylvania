@@ -2,13 +2,14 @@
   "id": 404020357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.719935,39.956204,-76.719935,39.956204",
     "geom:latitude":39.956204,
     "geom:longitude":-76.719935,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"516 S Queen St",
     "sg:city":"York",
     "sg:classifiers":[
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85850705,
+        102191575,
+        404488029,
         85633793,
+        101717279,
         102080953,
-        85850705
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +51,18 @@
     "wof:geomhash":"51aa97499f001c4c90b14c57761f7a7d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
+            "localadmin_id":404488029,
+            "locality_id":101717279,
             "neighbourhood_id":85850705,
             "region_id":85688481,
             "venue_id":404020357
         }
     ],
     "wof:id":404020357,
-    "wof:lastmodified":1449039572,
+    "wof:lastmodified":1454356721,
     "wof:name":"Botanica Lucero Inc",
     "wof:parent_id":85850705,
     "wof:placetype":"venue",
@@ -69,6 +74,11 @@
         "bible"
     ]
 },
-  "bbox": [-76.719935,39.956204,-76.719935,39.956204],
-  "geometry": {"coordinates":[-76.719935,39.956204],"type":"Point"}
+  "bbox": [
+    -76.719935,
+    39.956204,
+    -76.719935,
+    39.956204
+],
+  "geometry": {"coordinates":[-76.71993500000001,39.956204],"type":"Point"}
 }

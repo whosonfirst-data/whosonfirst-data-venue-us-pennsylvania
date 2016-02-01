@@ -2,13 +2,14 @@
   "id": 387434809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.009864,40.402417,-80.009864,40.402417",
     "geom:latitude":40.402417,
     "geom:longitude":-80.009864,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"785 Dunster St",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     "sg:website":"www.pghboe.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85807877,
+        102191575,
+        404482523,
         85633793,
+        101718805,
         102080887,
-        85807877
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +47,18 @@
     "wof:geomhash":"2a044a38c39a9affd6e50dba8d83c2e4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
+            "localadmin_id":404482523,
+            "locality_id":101718805,
             "neighbourhood_id":85807877,
             "region_id":85688481,
             "venue_id":387434809
         }
     ],
     "wof:id":387434809,
-    "wof:lastmodified":1449056925,
+    "wof:lastmodified":1454358712,
     "wof:name":"Pittsburgh School District",
     "wof:parent_id":85807877,
     "wof:placetype":"venue",
@@ -65,6 +70,11 @@
         "elementary"
     ]
 },
-  "bbox": [-80.009864,40.402417,-80.009864,40.402417],
-  "geometry": {"coordinates":[-80.009864,40.402417],"type":"Point"}
+  "bbox": [
+    -80.009864,
+    40.402417,
+    -80.009864,
+    40.402417
+],
+  "geometry": {"coordinates":[-80.00986399999999,40.402417],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387501011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.017874,40.547173,-80.017874,40.547173",
     "geom:latitude":40.547173,
     "geom:longitude":-80.017874,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"7809 Mcknight Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -37,8 +38,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85828195
+        85828195,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +49,15 @@
     "wof:geomhash":"b9d2719e0339da70d72a0f6cfc895625",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85828195,
             "region_id":85688481,
             "venue_id":387501011
         }
     ],
     "wof:id":387501011,
-    "wof:lastmodified":1449059951,
+    "wof:lastmodified":1454361242,
     "wof:name":"Tobacco Beer Outlet Inc",
     "wof:parent_id":85828195,
     "wof:placetype":"venue",
@@ -71,6 +70,11 @@
         "tobacco-wholesale"
     ]
 },
-  "bbox": [-80.017874,40.547173,-80.017874,40.547173],
-  "geometry": {"coordinates":[-80.017874,40.547173],"type":"Point"}
+  "bbox": [
+    -80.017874,
+    40.547173,
+    -80.017874,
+    40.547173
+],
+  "geometry": {"coordinates":[-80.01787400000001,40.547173],"type":"Point"}
 }

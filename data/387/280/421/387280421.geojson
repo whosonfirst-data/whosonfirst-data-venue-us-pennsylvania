@@ -2,13 +2,14 @@
   "id": 387280421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.080028,40.428869,-80.080028,40.428869",
     "geom:latitude":40.428869,
     "geom:longitude":-80.080028,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"174 Lincoln Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -26,11 +27,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85826735,
+        102191575,
+        404484879,
         85633793,
-        101718743,
+        101718739,
         102080887,
-        85826735
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +43,18 @@
     "wof:geomhash":"a48629d06b32feb81b896429af5900b3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":101718743,
+            "localadmin_id":404484879,
+            "locality_id":101718739,
             "neighbourhood_id":85826735,
             "region_id":85688481,
             "venue_id":387280421
         }
     ],
     "wof:id":387280421,
-    "wof:lastmodified":1449057977,
+    "wof:lastmodified":1454360643,
     "wof:name":"Around the Bend Books",
     "wof:parent_id":85826735,
     "wof:placetype":"venue",
@@ -60,6 +64,11 @@
         "bookstore"
     ]
 },
-  "bbox": [-80.080028,40.428869,-80.080028,40.428869],
+  "bbox": [
+    -80.080028,
+    40.428869,
+    -80.080028,
+    40.428869
+],
   "geometry": {"coordinates":[-80.080028,40.428869],"type":"Point"}
 }

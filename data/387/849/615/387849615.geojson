@@ -2,13 +2,14 @@
   "id": 387849615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.407672,40.529771,-78.407672,40.529771",
     "geom:latitude":40.529771,
     "geom:longitude":-78.407672,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"309 26th Ave",
     "sg:city":"Altoona",
     "sg:classifiers":[
@@ -36,11 +37,13 @@
     "sg:website":"http://www.ronbeatty.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85818685,
+        102191575,
+        404484619,
         85633793,
         101716595,
         102081325,
-        85818685
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,9 +53,10 @@
     "wof:geomhash":"ee56d2f6f876c9441389d24742f28aad",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081325,
+            "localadmin_id":404484619,
             "locality_id":101716595,
             "neighbourhood_id":85818685,
             "region_id":85688481,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":387849615,
-    "wof:lastmodified":1449056798,
+    "wof:lastmodified":1454358620,
     "wof:name":"Beatty Ron Carpet And Upholstery Cleaning Inc",
     "wof:parent_id":85818685,
     "wof:placetype":"venue",
@@ -73,6 +77,11 @@
         "carpet"
     ]
 },
-  "bbox": [-78.407672,40.529771,-78.407672,40.529771],
-  "geometry": {"coordinates":[-78.407672,40.529771],"type":"Point"}
+  "bbox": [
+    -78.407672,
+    40.529771,
+    -78.407672,
+    40.529771
+],
+  "geometry": {"coordinates":[-78.40767200000001,40.529771],"type":"Point"}
 }

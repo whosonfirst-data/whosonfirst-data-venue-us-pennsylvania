@@ -2,13 +2,14 @@
   "id": 387764769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.47895,41.230613,-80.47895,41.230613",
     "geom:latitude":41.230613,
     "geom:longitude":-80.47895,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"200 Wick Ave",
     "sg:city":"Hermitage",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420539011,
+        102191575,
+        404487969,
         85633793,
-        101718107,
-        102080965
+        101718115,
+        102080965,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"4f64c3585b1828f26f3875029611ae05",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080965,
-            "locality_id":101718107,
-            "neighbourhood_id":-1,
+            "localadmin_id":404487969,
+            "locality_id":101718115,
+            "neighbourhood_id":420539011,
             "region_id":85688481,
             "venue_id":387764769
         }
     ],
     "wof:id":387764769,
-    "wof:lastmodified":1449059739,
+    "wof:lastmodified":1454361176,
     "wof:name":"Joans Hair And Nails",
-    "wof:parent_id":-1,
+    "wof:parent_id":420539011,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.47895,41.230613,-80.47895,41.230613],
+  "bbox": [
+    -80.47895,
+    41.230613,
+    -80.47895,
+    41.230613
+],
   "geometry": {"coordinates":[-80.47895,41.230613],"type":"Point"}
 }

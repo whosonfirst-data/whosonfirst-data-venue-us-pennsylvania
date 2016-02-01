@@ -2,13 +2,14 @@
   "id": 404172223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.346792,40.61331,-75.346792,40.61331",
     "geom:latitude":40.61331,
     "geom:longitude":-75.346792,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1720 Spillman Dr Ste 200",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -41,11 +42,13 @@
     "sg:website":"http://www.spillmanfarmer.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85850149,
+        102191575,
+        404485987,
         85633793,
         101717907,
         102081395,
-        85850149
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,9 +58,10 @@
     "wof:geomhash":"78ef478cdfdcddaaff50b33c9538531b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081395,
+            "localadmin_id":404485987,
             "locality_id":101717907,
             "neighbourhood_id":85850149,
             "region_id":85688481,
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":404172223,
-    "wof:lastmodified":1449039520,
+    "wof:lastmodified":1454356693,
     "wof:name":"Spillman Farmer Architects",
     "wof:parent_id":85850149,
     "wof:placetype":"venue",
@@ -83,6 +87,11 @@
         "engineer"
     ]
 },
-  "bbox": [-75.346792,40.61331,-75.346792,40.61331],
-  "geometry": {"coordinates":[-75.346792,40.61331],"type":"Point"}
+  "bbox": [
+    -75.346792,
+    40.61331,
+    -75.346792,
+    40.61331
+],
+  "geometry": {"coordinates":[-75.34679199999999,40.61331],"type":"Point"}
 }

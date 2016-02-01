@@ -2,13 +2,14 @@
   "id": 404093777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.384099,40.041254,-76.384099,40.041254",
     "geom:latitude":40.041254,
     "geom:longitude":-76.384099,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2938 Columbia Ave Ste 802",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -44,8 +45,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85810789
+        85810789,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,17 +56,15 @@
     "wof:geomhash":"aca3d16ed535d9a7183d72954e0354d2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85810789,
             "region_id":85688481,
             "venue_id":404093777
         }
     ],
     "wof:id":404093777,
-    "wof:lastmodified":1449039082,
+    "wof:lastmodified":1454356412,
     "wof:name":"Power View Associates",
     "wof:parent_id":85810789,
     "wof:placetype":"venue",
@@ -79,6 +78,11 @@
         "equipment"
     ]
 },
-  "bbox": [-76.384099,40.041254,-76.384099,40.041254],
-  "geometry": {"coordinates":[-76.384099,40.041254],"type":"Point"}
+  "bbox": [
+    -76.384099,
+    40.041254,
+    -76.384099,
+    40.041254
+],
+  "geometry": {"coordinates":[-76.38409900000001,40.041254],"type":"Point"}
 }

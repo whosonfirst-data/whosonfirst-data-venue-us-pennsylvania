@@ -2,13 +2,14 @@
   "id": 387489905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.985363,40.333441,-79.985363,40.333441",
     "geom:latitude":40.333441,
     "geom:longitude":-79.985363,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5570 Brownsville Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -52,10 +53,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536253,
+        102191575,
+        404484861,
         85633793,
         101718815,
-        102080887
+        102080887,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,19 +69,20 @@
     "wof:geomhash":"363b9fc7ab8f98daf4690ffce79ba81b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484861,
             "locality_id":101718815,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420536253,
             "region_id":85688481,
             "venue_id":387489905
         }
     ],
     "wof:id":387489905,
-    "wof:lastmodified":1449058190,
+    "wof:lastmodified":1454360705,
     "wof:name":"Willis Chuck Heating & Ac",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536253,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -95,6 +100,11 @@
         "radiators-heating"
     ]
 },
-  "bbox": [-79.985363,40.333441,-79.985363,40.333441],
-  "geometry": {"coordinates":[-79.985363,40.333441],"type":"Point"}
+  "bbox": [
+    -79.985363,
+    40.333441,
+    -79.985363,
+    40.333441
+],
+  "geometry": {"coordinates":[-79.98536300000001,40.333441],"type":"Point"}
 }

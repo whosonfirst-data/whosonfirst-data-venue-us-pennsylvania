@@ -2,13 +2,14 @@
   "id": 387158259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.215415,40.562959,-80.215415,40.562959",
     "geom:latitude":40.562959,
     "geom:longitude":-80.215415,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"100 Leetsdale Industrial Dr",
     "sg:city":"Leetsdale",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85848361,
+        102191575,
+        404484893,
         85633793,
-        101718661,
+        101718695,
         102080887,
-        85848361
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +51,18 @@
     "wof:geomhash":"d4cfe39ef12a7c5beb1dd9d98ee5ed4c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":101718661,
+            "localadmin_id":404484893,
+            "locality_id":101718695,
             "neighbourhood_id":85848361,
             "region_id":85688481,
             "venue_id":387158259
         }
     ],
     "wof:id":387158259,
-    "wof:lastmodified":1449058645,
+    "wof:lastmodified":1454360839,
     "wof:name":"Industrial Welding & Fabg",
     "wof:parent_id":85848361,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "welding"
     ]
 },
-  "bbox": [-80.215415,40.562959,-80.215415,40.562959],
-  "geometry": {"coordinates":[-80.215415,40.562959],"type":"Point"}
+  "bbox": [
+    -80.215415,
+    40.562959,
+    -80.215415,
+    40.562959
+],
+  "geometry": {"coordinates":[-80.21541499999999,40.562959],"type":"Point"}
 }

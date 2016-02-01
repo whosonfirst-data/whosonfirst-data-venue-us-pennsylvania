@@ -2,13 +2,14 @@
   "id": 387852733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.400382,40.512411,-78.400382,40.512411",
     "geom:latitude":40.512411,
     "geom:longitude":-78.400382,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1414 9th Ave",
     "sg:city":"Altoona",
     "sg:classifiers":[
@@ -38,11 +39,13 @@
     "sg:website":"http://www.bma.md",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85808899,
+        102191575,
+        404484619,
         85633793,
         101716595,
         102081325,
-        85808899
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,9 +55,10 @@
     "wof:geomhash":"87af5fc6eeb81ea277b2d2d95a0527a9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081325,
+            "localadmin_id":404484619,
             "locality_id":101716595,
             "neighbourhood_id":85808899,
             "region_id":85688481,
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":387852733,
-    "wof:lastmodified":1449059274,
+    "wof:lastmodified":1454361030,
     "wof:name":"Blair Medical Associates",
     "wof:parent_id":85808899,
     "wof:placetype":"venue",
@@ -82,6 +86,11 @@
         "diabetes"
     ]
 },
-  "bbox": [-78.400382,40.512411,-78.400382,40.512411],
-  "geometry": {"coordinates":[-78.400382,40.512411],"type":"Point"}
+  "bbox": [
+    -78.400382,
+    40.512411,
+    -78.400382,
+    40.512411
+],
+  "geometry": {"coordinates":[-78.40038199999999,40.512411],"type":"Point"}
 }

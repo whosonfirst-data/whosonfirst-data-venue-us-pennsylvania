@@ -2,13 +2,14 @@
   "id": 404139569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.557428,40.790988,-76.557428,40.790988",
     "geom:latitude":40.790988,
     "geom:longitude":-76.557428,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"21 W Independence St",
     "sg:city":"Shamokin",
     "sg:classifiers":[
@@ -47,11 +48,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85817501,
+        102191575,
+        404486113,
         85633793,
-        101719367,
+        101719303,
         102081349,
-        85817501
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,17 +64,18 @@
     "wof:geomhash":"7eeaf5eb4ba1f26a1fedb2cda04d59e9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081349,
-            "locality_id":101719367,
+            "localadmin_id":404486113,
+            "locality_id":101719303,
             "neighbourhood_id":85817501,
             "region_id":85688481,
             "venue_id":404139569
         }
     ],
     "wof:id":404139569,
-    "wof:lastmodified":1449039135,
+    "wof:lastmodified":1454356464,
     "wof:name":"V N A Health System Crossings",
     "wof:parent_id":85817501,
     "wof:placetype":"venue",
@@ -86,6 +90,11 @@
         "eldercare-home"
     ]
 },
-  "bbox": [-76.557428,40.790988,-76.557428,40.790988],
+  "bbox": [
+    -76.557428,
+    40.790988,
+    -76.557428,
+    40.790988
+],
   "geometry": {"coordinates":[-76.557428,40.790988],"type":"Point"}
 }

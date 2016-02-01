@@ -2,13 +2,14 @@
   "id": 387659087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.017253,40.663598,-79.017253,40.663598",
     "geom:latitude":40.663598,
     "geom:longitude":-79.017253,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1120 Franklin St",
     "sg:city":"Clymer",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420538353,
+        102191575,
+        404486351,
         85633793,
         101716679,
-        102081387
+        102081387,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"ffcc6e83a97cf92514d0ebe554de5166",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081387,
+            "localadmin_id":404486351,
             "locality_id":101716679,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420538353,
             "region_id":85688481,
             "venue_id":387659087
         }
     ],
     "wof:id":387659087,
-    "wof:lastmodified":1449056516,
+    "wof:lastmodified":1454358412,
     "wof:name":"Whipstock Drilling Company Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420538353,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "oils-petroleum"
     ]
 },
-  "bbox": [-79.017253,40.663598,-79.017253,40.663598],
+  "bbox": [
+    -79.017253,
+    40.663598,
+    -79.017253,
+    40.663598
+],
   "geometry": {"coordinates":[-79.017253,40.663598],"type":"Point"}
 }

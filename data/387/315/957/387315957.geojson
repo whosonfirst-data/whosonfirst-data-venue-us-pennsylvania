@@ -2,13 +2,14 @@
   "id": 387315957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.04365,40.488527,-80.04365,40.488527",
     "geom:latitude":40.488527,
     "geom:longitude":-80.04365,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1804 Winhurst St Fl 2",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85807553,
+        102191575,
+        404484847,
         85633793,
-        101718805,
+        101718811,
         102080887,
-        85807553
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"ba4d280497e1e277e0bd7aeaeb0160c3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":101718805,
+            "localadmin_id":404484847,
+            "locality_id":101718811,
             "neighbourhood_id":85807553,
             "region_id":85688481,
             "venue_id":387315957
         }
     ],
     "wof:id":387315957,
-    "wof:lastmodified":1449059720,
+    "wof:lastmodified":1454361171,
     "wof:name":"Higher Living Housing Company",
     "wof:parent_id":85807553,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "management"
     ]
 },
-  "bbox": [-80.04365,40.488527,-80.04365,40.488527],
+  "bbox": [
+    -80.04365,
+    40.488527,
+    -80.04365,
+    40.488527
+],
   "geometry": {"coordinates":[-80.04365,40.488527],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403970497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.298121,39.921595,-77.298121,39.921595",
     "geom:latitude":39.921595,
     "geom:longitude":-77.298121,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"46 Gettysburg St",
     "sg:city":"Biglerville",
     "sg:classifiers":[
@@ -45,8 +46,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080899,
-        85807419
+        85807419,
+        102080899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,17 +57,15 @@
     "wof:geomhash":"ca1164728069070a4ceec93d64f03553",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080899,
-            "locality_id":-1,
             "neighbourhood_id":85807419,
             "region_id":85688481,
             "venue_id":403970497
         }
     ],
     "wof:id":403970497,
-    "wof:lastmodified":1449055931,
+    "wof:lastmodified":1454357957,
     "wof:name":"APM Building Materials",
     "wof:parent_id":85807419,
     "wof:placetype":"venue",
@@ -81,6 +80,11 @@
         "frames"
     ]
 },
-  "bbox": [-77.298121,39.921595,-77.298121,39.921595],
-  "geometry": {"coordinates":[-77.298121,39.921595],"type":"Point"}
+  "bbox": [
+    -77.298121,
+    39.921595,
+    -77.298121,
+    39.921595
+],
+  "geometry": {"coordinates":[-77.29812099999999,39.921595],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404066165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.416391,40.051444,-76.416391,40.051444",
     "geom:latitude":40.051444,
     "geom:longitude":-76.416391,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1812 Stony Battery Rd",
     "sg:city":"Mountville",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85814875
+        85814875,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"cb8eeba6d8e92b41974c99109c2d35d0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85814875,
             "region_id":85688481,
             "venue_id":404066165
         }
     ],
     "wof:id":404066165,
-    "wof:lastmodified":1449039369,
+    "wof:lastmodified":1454356605,
     "wof:name":"Dutka Inc",
     "wof:parent_id":85814875,
     "wof:placetype":"venue",
@@ -64,6 +63,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-76.416391,40.051444,-76.416391,40.051444],
+  "bbox": [
+    -76.416391,
+    40.051444,
+    -76.416391,
+    40.051444
+],
   "geometry": {"coordinates":[-76.416391,40.051444],"type":"Point"}
 }

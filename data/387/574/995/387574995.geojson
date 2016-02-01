@@ -2,13 +2,14 @@
   "id": 387574995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.125797,40.203294,-80.125797,40.203294",
     "geom:latitude":40.203294,
     "geom:longitude":-80.125797,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"750 Brownlee Rd",
     "sg:city":"Eighty Four",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420539911,
+        102191575,
+        404487841,
         85633793,
         101720327,
-        102081343
+        102081343,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"7181d2f492062f56f25ab930ab0d1fd7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081343,
+            "localadmin_id":404487841,
             "locality_id":101720327,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420539911,
             "region_id":85688481,
             "venue_id":387574995
         }
     ],
     "wof:id":387574995,
-    "wof:lastmodified":1449056089,
+    "wof:lastmodified":1454358078,
     "wof:name":"Leichty Builders",
-    "wof:parent_id":-1,
+    "wof:parent_id":420539911,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.125797,40.203294,-80.125797,40.203294],
-  "geometry": {"coordinates":[-80.125797,40.203294],"type":"Point"}
+  "bbox": [
+    -80.125797,
+    40.203294,
+    -80.125797,
+    40.203294
+],
+  "geometry": {"coordinates":[-80.12579700000001,40.203294],"type":"Point"}
 }

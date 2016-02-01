@@ -2,13 +2,14 @@
   "id": 404078757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.391735,40.088032,-76.391735,40.088032",
     "geom:latitude":40.088032,
     "geom:longitude":-76.391735,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3055 Yellow Goose Rd",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -41,8 +42,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85833625
+        85833625,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,17 +53,15 @@
     "wof:geomhash":"4676f9da8ebaf23ce4e495a825d89154",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85833625,
             "region_id":85688481,
             "venue_id":404078757
         }
     ],
     "wof:id":404078757,
-    "wof:lastmodified":1449040132,
+    "wof:lastmodified":1454357025,
     "wof:name":"Tomlinson Bomberger Lawn Care",
     "wof:parent_id":85833625,
     "wof:placetype":"venue",
@@ -78,6 +77,11 @@
         "landscape"
     ]
 },
-  "bbox": [-76.391735,40.088032,-76.391735,40.088032],
+  "bbox": [
+    -76.391735,
+    40.088032,
+    -76.391735,
+    40.088032
+],
   "geometry": {"coordinates":[-76.391735,40.088032],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404093167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.32053,40.051298,-76.32053,40.051298",
     "geom:latitude":40.051298,
     "geom:longitude":-76.32053,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"931 Harrisburg Ave",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85868583
+        85868583,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"f947143b79ed8387d11cfab643ccd525",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85868583,
             "region_id":85688481,
             "venue_id":404093167
         }
     ],
     "wof:id":404093167,
-    "wof:lastmodified":1449039084,
+    "wof:lastmodified":1454356412,
     "wof:name":"Gibraltar",
     "wof:parent_id":85868583,
     "wof:placetype":"venue",
@@ -61,6 +60,11 @@
         "seafood"
     ]
 },
-  "bbox": [-76.32053,40.051298,-76.32053,40.051298],
-  "geometry": {"coordinates":[-76.32053,40.051298],"type":"Point"}
+  "bbox": [
+    -76.32053,
+    40.051298,
+    -76.32053,
+    40.051298
+],
+  "geometry": {"coordinates":[-76.32053000000001,40.051298],"type":"Point"}
 }

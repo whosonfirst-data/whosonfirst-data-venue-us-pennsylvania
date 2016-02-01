@@ -2,13 +2,14 @@
   "id": 387488557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.963955,40.338798,-79.963955,40.338798",
     "geom:latitude":40.338798,
     "geom:longitude":-79.963955,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"67 Old Clairton Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -47,11 +48,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85839661,
+        102191575,
+        404484247,
         85633793,
         101718705,
         102080887,
-        85839661
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,9 +64,10 @@
     "wof:geomhash":"a20a57a33390a8b83af2b4d34ef229c9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484247,
             "locality_id":101718705,
             "neighbourhood_id":85839661,
             "region_id":85688481,
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":387488557,
-    "wof:lastmodified":1449059824,
+    "wof:lastmodified":1454361203,
     "wof:name":"Allstate Insurance Company - Lawrence Ross",
     "wof:parent_id":85839661,
     "wof:placetype":"venue",
@@ -86,6 +90,11 @@
         "renter"
     ]
 },
-  "bbox": [-79.963955,40.338798,-79.963955,40.338798],
+  "bbox": [
+    -79.963955,
+    40.338798,
+    -79.963955,
+    40.338798
+],
   "geometry": {"coordinates":[-79.963955,40.338798],"type":"Point"}
 }

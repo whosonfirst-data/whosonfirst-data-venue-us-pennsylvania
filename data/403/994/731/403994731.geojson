@@ -2,13 +2,14 @@
   "id": 403994731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.899984,40.140592,-76.899984,40.140592",
     "geom:latitude":40.140592,
     "geom:longitude":-76.899984,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"988 Siddonsburg Rd",
     "sg:city":"Lewisberry",
     "sg:classifiers":[
@@ -38,8 +39,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080953,
-        85833079
+        85833079,
+        102080953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +50,15 @@
     "wof:geomhash":"950919c82762a20fd0bb699653336a5c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
             "neighbourhood_id":85833079,
             "region_id":85688481,
             "venue_id":403994731
         }
     ],
     "wof:id":403994731,
-    "wof:lastmodified":1449054691,
+    "wof:lastmodified":1454357217,
     "wof:name":"Rietmulder Associates",
     "wof:parent_id":85833079,
     "wof:placetype":"venue",
@@ -73,6 +72,11 @@
         "software"
     ]
 },
-  "bbox": [-76.899984,40.140592,-76.899984,40.140592],
+  "bbox": [
+    -76.899984,
+    40.140592,
+    -76.899984,
+    40.140592
+],
   "geometry": {"coordinates":[-76.899984,40.140592],"type":"Point"}
 }

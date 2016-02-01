@@ -2,13 +2,14 @@
   "id": 404056775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.212957,40.085269,-76.212957,40.085269",
     "geom:latitude":40.085269,
     "geom:longitude":-76.212957,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"356 W Main St",
     "sg:city":"Leola",
     "sg:classifiers":[],
@@ -19,10 +20,13 @@
     "sg:website":"http://www.augustbischoffjewelers.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420538511,
+        102191575,
+        404485437,
         85633793,
         101720397,
-        102081377
+        102081377,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -32,24 +36,30 @@
     "wof:geomhash":"834d754582dc394e40792c6f803e620a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081377,
+            "localadmin_id":404485437,
             "locality_id":101720397,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420538511,
             "region_id":85688481,
             "venue_id":404056775
         }
     ],
     "wof:id":404056775,
-    "wof:lastmodified":1449039357,
+    "wof:lastmodified":1454356592,
     "wof:name":"August Bschoff Jwlers Gldsmith",
-    "wof:parent_id":-1,
+    "wof:parent_id":420538511,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.212957,40.085269,-76.212957,40.085269],
+  "bbox": [
+    -76.212957,
+    40.085269,
+    -76.212957,
+    40.085269
+],
   "geometry": {"coordinates":[-76.212957,40.085269],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404093587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.377346,40.040369,-76.377346,40.040369",
     "geom:latitude":40.040369,
     "geom:longitude":-76.377346,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2625 Columbia Ave",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -44,8 +45,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85810207
+        85810207,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,17 +56,15 @@
     "wof:geomhash":"1bf2d3b1dc4ebaaefc1d09fa85dbfccb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85810207,
             "region_id":85688481,
             "venue_id":404093587
         }
     ],
     "wof:id":404093587,
-    "wof:lastmodified":1449039082,
+    "wof:lastmodified":1454356412,
     "wof:name":"C & C Auto Inc.",
     "wof:parent_id":85810207,
     "wof:placetype":"venue",
@@ -79,6 +78,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-76.377346,40.040369,-76.377346,40.040369],
+  "bbox": [
+    -76.377346,
+    40.040369,
+    -76.377346,
+    40.040369
+],
   "geometry": {"coordinates":[-76.377346,40.040369],"type":"Point"}
 }

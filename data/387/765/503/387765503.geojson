@@ -2,13 +2,14 @@
   "id": 387765503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.438412,41.2277,-80.438412,41.2277",
     "geom:latitude":41.2277,
     "geom:longitude":-80.438412,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3820 Esther Ln",
     "sg:city":"Hermitage",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85824773,
+        102191575,
+        404487983,
         85633793,
         101718107,
         102080965,
-        85824773
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"3ba437f5a72daf4c8b4a705090846d26",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080965,
+            "localadmin_id":404487983,
             "locality_id":101718107,
             "neighbourhood_id":85824773,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387765503,
-    "wof:lastmodified":1449058305,
+    "wof:lastmodified":1454360740,
     "wof:name":"Roth Mechanical, Inc.",
     "wof:parent_id":85824773,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "mechanical"
     ]
 },
-  "bbox": [-80.438412,41.2277,-80.438412,41.2277],
+  "bbox": [
+    -80.438412,
+    41.2277,
+    -80.438412,
+    41.2277
+],
   "geometry": {"coordinates":[-80.438412,41.2277],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387587045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.715657,39.912334,-79.715657,39.912334",
     "geom:latitude":39.912334,
     "geom:longitude":-79.715657,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"396 N Gallatin Ave",
     "sg:city":"Uniontown",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85850161,
+        102191575,
+        404487055,
         85633793,
+        101719799,
         102080959,
-        85850161
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,17 +41,18 @@
     "wof:geomhash":"a31e338eef428ee0438d31d45ae7aa9b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080959,
-            "locality_id":-1,
+            "localadmin_id":404487055,
+            "locality_id":101719799,
             "neighbourhood_id":85850161,
             "region_id":85688481,
             "venue_id":387587045
         }
     ],
     "wof:id":387587045,
-    "wof:lastmodified":1449057404,
+    "wof:lastmodified":1454359103,
     "wof:name":"Engle's Inspection & Repair",
     "wof:parent_id":85850161,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.715657,39.912334,-79.715657,39.912334],
-  "geometry": {"coordinates":[-79.715657,39.912334],"type":"Point"}
+  "bbox": [
+    -79.715657,
+    39.912334,
+    -79.715657,
+    39.912334
+],
+  "geometry": {"coordinates":[-79.71565699999999,39.912334],"type":"Point"}
 }

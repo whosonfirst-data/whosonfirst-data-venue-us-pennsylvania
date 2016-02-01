@@ -2,13 +2,14 @@
   "id": 404152257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.622565,40.447227,-75.622565,40.447227",
     "geom:latitude":40.447227,
     "geom:longitude":-75.622565,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"540 Conrad Rd",
     "sg:city":"Alburtis",
     "sg:classifiers":[
@@ -37,8 +38,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080991,
-        85826433
+        85826433,
+        102080991
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +49,15 @@
     "wof:geomhash":"12e26f27c43a66cb9958bdcb127ba589",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080991,
-            "locality_id":-1,
             "neighbourhood_id":85826433,
             "region_id":85688481,
             "venue_id":404152257
         }
     ],
     "wof:id":404152257,
-    "wof:lastmodified":1449040015,
+    "wof:lastmodified":1454356956,
     "wof:name":"Huffs Union Church",
     "wof:parent_id":85826433,
     "wof:placetype":"venue",
@@ -71,6 +70,11 @@
         "churches-lutheran-evangelical"
     ]
 },
-  "bbox": [-75.622565,40.447227,-75.622565,40.447227],
-  "geometry": {"coordinates":[-75.622565,40.447227],"type":"Point"}
+  "bbox": [
+    -75.622565,
+    40.447227,
+    -75.622565,
+    40.447227
+],
+  "geometry": {"coordinates":[-75.62256499999999,40.447227],"type":"Point"}
 }

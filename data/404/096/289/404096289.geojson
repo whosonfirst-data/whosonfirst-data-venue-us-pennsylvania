@@ -2,13 +2,14 @@
   "id": 404096289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.99749,41.24371,-76.99749,41.24371",
     "geom:latitude":41.24371,
     "geom:longitude":-76.99749,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"330 Basin St Ste 2",
     "sg:city":"Williamsport",
     "sg:classifiers":[
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85802799,
+        102191575,
+        404485355,
         85633793,
-        101716811,
+        101716809,
         102081317,
-        85802799
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"ca520f8ea2a8f3b2516e58178fab21c1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081317,
-            "locality_id":101716811,
+            "localadmin_id":404485355,
+            "locality_id":101716809,
             "neighbourhood_id":85802799,
             "region_id":85688481,
             "venue_id":404096289
         }
     ],
     "wof:id":404096289,
-    "wof:lastmodified":1449039406,
+    "wof:lastmodified":1454356629,
     "wof:name":"Comcast",
     "wof:parent_id":85802799,
     "wof:placetype":"venue",
@@ -71,6 +75,11 @@
         "equipment"
     ]
 },
-  "bbox": [-76.99749,41.24371,-76.99749,41.24371],
+  "bbox": [
+    -76.99749,
+    41.24371,
+    -76.99749,
+    41.24371
+],
   "geometry": {"coordinates":[-76.99749,41.24371],"type":"Point"}
 }

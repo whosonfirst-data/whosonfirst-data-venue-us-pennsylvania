@@ -2,13 +2,14 @@
   "id": 387764067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.447387,41.233441,-80.447387,41.233441",
     "geom:latitude":41.233441,
     "geom:longitude":-80.447387,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3405 E State St",
     "sg:city":"Hermitage",
     "sg:classifiers":[
@@ -77,11 +78,13 @@
     "sg:website":"http://www.jcpenney.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85824773,
+        102191575,
+        404487983,
         85633793,
         101718107,
         102080965,
-        85824773
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,9 +94,10 @@
     "wof:geomhash":"ca3e58a85c32994d8cc53a5158fe36a8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080965,
+            "localadmin_id":404487983,
             "locality_id":101718107,
             "neighbourhood_id":85824773,
             "region_id":85688481,
@@ -101,7 +105,7 @@
         }
     ],
     "wof:id":387764067,
-    "wof:lastmodified":1449059738,
+    "wof:lastmodified":1454361176,
     "wof:name":"JCPenney",
     "wof:parent_id":85824773,
     "wof:placetype":"venue",
@@ -125,6 +129,11 @@
         "decorator"
     ]
 },
-  "bbox": [-80.447387,41.233441,-80.447387,41.233441],
-  "geometry": {"coordinates":[-80.447387,41.233441],"type":"Point"}
+  "bbox": [
+    -80.447387,
+    41.233441,
+    -80.447387,
+    41.233441
+],
+  "geometry": {"coordinates":[-80.44738700000001,41.233441],"type":"Point"}
 }

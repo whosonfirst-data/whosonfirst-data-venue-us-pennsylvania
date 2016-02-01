@@ -2,13 +2,14 @@
   "id": 403900661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.729141,40.33519,-76.729141,40.33519",
     "geom:latitude":40.33519,
     "geom:longitude":-76.729141,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"7604 Allentown Blvd",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85848911,
+        102191575,
+        404486315,
         85633793,
         101719829,
         102081347,
-        85848911
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"895dcac878b13aca294f8a93d8f973ff",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
+            "localadmin_id":404486315,
             "locality_id":101719829,
             "neighbourhood_id":85848911,
             "region_id":85688481,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":403900661,
-    "wof:lastmodified":1449055210,
+    "wof:lastmodified":1454357537,
     "wof:name":"Car Wash Systems, Inc.",
     "wof:parent_id":85848911,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "equipment"
     ]
 },
-  "bbox": [-76.729141,40.33519,-76.729141,40.33519],
+  "bbox": [
+    -76.729141,
+    40.33519,
+    -76.729141,
+    40.33519
+],
   "geometry": {"coordinates":[-76.729141,40.33519],"type":"Point"}
 }

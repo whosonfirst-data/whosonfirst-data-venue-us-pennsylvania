@@ -2,13 +2,14 @@
   "id": 387274039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.754478,40.440262,-79.754478,40.440262",
     "geom:latitude":40.440262,
     "geom:longitude":-79.754478,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"339 Old Haymaker Rd # 1500",
     "sg:city":"Monroeville",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"http://www.pacle.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85834841,
+        102191575,
+        404484135,
         85633793,
         101718841,
         102080887,
-        85834841
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"69fffc4a7b13ae7ce4244a52ec292820",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484135,
             "locality_id":101718841,
             "neighbourhood_id":85834841,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387274039,
-    "wof:lastmodified":1449056577,
+    "wof:lastmodified":1454358450,
     "wof:name":"Magisterial District 05-2-07",
     "wof:parent_id":85834841,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "justice"
     ]
 },
-  "bbox": [-79.754478,40.440262,-79.754478,40.440262],
-  "geometry": {"coordinates":[-79.754478,40.440262],"type":"Point"}
+  "bbox": [
+    -79.754478,
+    40.440262,
+    -79.754478,
+    40.440262
+],
+  "geometry": {"coordinates":[-79.75447800000001,40.440262],"type":"Point"}
 }

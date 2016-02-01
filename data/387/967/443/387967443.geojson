@@ -2,13 +2,14 @@
   "id": 387967443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.935894,40.436256,-76.935894,40.436256",
     "geom:latitude":40.436256,
     "geom:longitude":-76.935894,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"33 Williams St",
     "sg:city":"Halifax",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85832885
+        85832885,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"0b26b16bff03b8436034c22504217e69",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85832885,
             "region_id":85688481,
             "venue_id":387967443
         }
     ],
     "wof:id":387967443,
-    "wof:lastmodified":1449059640,
+    "wof:lastmodified":1454361142,
     "wof:name":"Schlegel Cleaning Services",
     "wof:parent_id":85832885,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "cleaners-interior"
     ]
 },
-  "bbox": [-76.935894,40.436256,-76.935894,40.436256],
+  "bbox": [
+    -76.935894,
+    40.436256,
+    -76.935894,
+    40.436256
+],
   "geometry": {"coordinates":[-76.935894,40.436256],"type":"Point"}
 }

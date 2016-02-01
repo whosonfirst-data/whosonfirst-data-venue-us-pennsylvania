@@ -2,13 +2,14 @@
   "id": 387172219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.923698,40.200802,-79.923698,40.200802",
     "geom:latitude":40.200802,
     "geom:longitude":-79.923698,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"159 W Main St",
     "sg:city":"Monongahela",
     "sg:classifiers":[
@@ -35,10 +36,13 @@
     "sg:website":"www.eckerd.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420539901,
+        102191575,
+        404487805,
         85633793,
         101718465,
-        102081343
+        102081343,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +52,20 @@
     "wof:geomhash":"44676543521f98bf7e787942d3332263",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081343,
+            "localadmin_id":404487805,
             "locality_id":101718465,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420539901,
             "region_id":85688481,
             "venue_id":387172219
         }
     ],
     "wof:id":387172219,
-    "wof:lastmodified":1449057642,
+    "wof:lastmodified":1454360539,
     "wof:name":"Eckerd Express Photo",
-    "wof:parent_id":-1,
+    "wof:parent_id":420539901,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -70,6 +75,11 @@
         "store"
     ]
 },
-  "bbox": [-79.923698,40.200802,-79.923698,40.200802],
+  "bbox": [
+    -79.923698,
+    40.200802,
+    -79.923698,
+    40.200802
+],
   "geometry": {"coordinates":[-79.923698,40.200802],"type":"Point"}
 }

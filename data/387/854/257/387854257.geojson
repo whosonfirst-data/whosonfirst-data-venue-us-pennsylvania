@@ -2,13 +2,14 @@
   "id": 387854257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.390596,40.517068,-78.390596,40.517068",
     "geom:latitude":40.517068,
     "geom:longitude":-78.390596,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"616 5th Ave",
     "sg:city":"Altoona",
     "sg:classifiers":[
@@ -57,11 +58,13 @@
     "sg:website":"http://www.youravon.com/christiniadavis",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85818685,
+        102191575,
+        404484619,
         85633793,
         101716595,
         102081325,
-        85818685
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,9 +74,10 @@
     "wof:geomhash":"3e39d9e145860db7f9777eefce6c14bd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081325,
+            "localadmin_id":404484619,
             "locality_id":101716595,
             "neighbourhood_id":85818685,
             "region_id":85688481,
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":387854257,
-    "wof:lastmodified":1449059776,
+    "wof:lastmodified":1454361192,
     "wof:name":"AVON",
     "wof:parent_id":85818685,
     "wof:placetype":"venue",
@@ -100,6 +104,11 @@
         "accessory"
     ]
 },
-  "bbox": [-78.390596,40.517068,-78.390596,40.517068],
+  "bbox": [
+    -78.390596,
+    40.517068,
+    -78.390596,
+    40.517068
+],
   "geometry": {"coordinates":[-78.390596,40.517068],"type":"Point"}
 }

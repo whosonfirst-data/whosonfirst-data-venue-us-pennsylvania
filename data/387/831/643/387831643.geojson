@@ -2,13 +2,14 @@
   "id": 387831643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.16437,42.093926,-80.16437,42.093926",
     "geom:latitude":42.093926,
     "geom:longitude":-80.16437,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1112 Potomac Ave",
     "sg:city":"Erie",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080955,
-        85829561
+        85829561,
+        102080955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"96850292474787fce13c8068ad7576e2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080955,
-            "locality_id":-1,
             "neighbourhood_id":85829561,
             "region_id":85688481,
             "venue_id":387831643
         }
     ],
     "wof:id":387831643,
-    "wof:lastmodified":1449058338,
+    "wof:lastmodified":1454360749,
     "wof:name":"First Art Records",
     "wof:parent_id":85829561,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "store"
     ]
 },
-  "bbox": [-80.16437,42.093926,-80.16437,42.093926],
-  "geometry": {"coordinates":[-80.16437,42.093926],"type":"Point"}
+  "bbox": [
+    -80.16437,
+    42.093926,
+    -80.16437,
+    42.093926
+],
+  "geometry": {"coordinates":[-80.16437000000001,42.093926],"type":"Point"}
 }

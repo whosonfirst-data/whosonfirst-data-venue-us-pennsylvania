@@ -2,13 +2,14 @@
   "id": 387875607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.785109,40.90532,-77.785109,40.90532",
     "geom:latitude":40.90532,
     "geom:longitude":-77.785109,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"636 Buds Aly",
     "sg:city":"Bellefonte",
     "sg:classifiers":[
@@ -38,11 +39,13 @@
     "sg:website":"http://www.dixonselectric.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85806075,
+        102191575,
+        404485871,
         85633793,
         101718145,
         102081369,
-        85806075
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,9 +55,10 @@
     "wof:geomhash":"96d32f0f9e620c63fd9936fe6ff8a8c3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081369,
+            "localadmin_id":404485871,
             "locality_id":101718145,
             "neighbourhood_id":85806075,
             "region_id":85688481,
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":387875607,
-    "wof:lastmodified":1449058934,
+    "wof:lastmodified":1454360932,
     "wof:name":"Dixon's Electric",
     "wof:parent_id":85806075,
     "wof:placetype":"venue",
@@ -77,6 +81,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-77.785109,40.90532,-77.785109,40.90532],
-  "geometry": {"coordinates":[-77.785109,40.90532],"type":"Point"}
+  "bbox": [
+    -77.785109,
+    40.90532,
+    -77.785109,
+    40.90532
+],
+  "geometry": {"coordinates":[-77.78510900000001,40.90532],"type":"Point"}
 }

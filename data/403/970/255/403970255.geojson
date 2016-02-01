@@ -2,13 +2,14 @@
   "id": 403970255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.248304,39.916279,-77.248304,39.916279",
     "geom:latitude":39.916279,
     "geom:longitude":-77.248304,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3177 Biglerville Rd",
     "sg:city":"Biglerville",
     "sg:classifiers":[
@@ -44,8 +45,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080899,
-        85822177
+        85822177,
+        102080899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,17 +56,15 @@
     "wof:geomhash":"b9d099afba9a2bcda44771a1d29dc279",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080899,
-            "locality_id":-1,
             "neighbourhood_id":85822177,
             "region_id":85688481,
             "venue_id":403970255
         }
     ],
     "wof:id":403970255,
-    "wof:lastmodified":1449055929,
+    "wof:lastmodified":1454357955,
     "wof:name":"IFCO SYSTEMS",
     "wof:parent_id":85822177,
     "wof:placetype":"venue",
@@ -79,6 +78,11 @@
         "skid"
     ]
 },
-  "bbox": [-77.248304,39.916279,-77.248304,39.916279],
+  "bbox": [
+    -77.248304,
+    39.916279,
+    -77.248304,
+    39.916279
+],
   "geometry": {"coordinates":[-77.248304,39.916279],"type":"Point"}
 }

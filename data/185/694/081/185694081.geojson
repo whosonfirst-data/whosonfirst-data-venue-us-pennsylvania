@@ -2,13 +2,14 @@
   "id": 185694081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.969283,39.643656,-75.969283,39.643656",
     "geom:latitude":39.643656,
     "geom:longitude":-75.969283,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2411 Theodore Rd",
     "sg:city":"North East",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081275,
-        85810983
+        85810983,
+        102081275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"25c87f7218ab1c7f2f4dc8e45579950b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081275,
-            "locality_id":-1,
             "neighbourhood_id":85810983,
             "region_id":85688481,
             "venue_id":185694081
         }
     ],
     "wof:id":185694081,
-    "wof:lastmodified":1449007059,
+    "wof:lastmodified":1454356369,
     "wof:name":"Denton Spring Water Co",
     "wof:parent_id":85810983,
     "wof:placetype":"venue",
@@ -64,6 +63,11 @@
         "company"
     ]
 },
-  "bbox": [-75.969283,39.643656,-75.969283,39.643656],
+  "bbox": [
+    -75.969283,
+    39.643656,
+    -75.969283,
+    39.643656
+],
   "geometry": {"coordinates":[-75.969283,39.643656],"type":"Point"}
 }

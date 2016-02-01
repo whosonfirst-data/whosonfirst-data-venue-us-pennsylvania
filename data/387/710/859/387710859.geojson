@@ -2,13 +2,14 @@
   "id": 387710859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.112268,40.843811,-80.112268,40.843811",
     "geom:latitude":40.843811,
     "geom:longitude":-80.112268,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"156 Warner Ln",
     "sg:city":"Harmony",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102083677,
-        85833977
+        85833977,
+        102083677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"30d3a08d16292b1d990cc08eaa228468",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102083677,
-            "locality_id":-1,
             "neighbourhood_id":85833977,
             "region_id":85688481,
             "venue_id":387710859
         }
     ],
     "wof:id":387710859,
-    "wof:lastmodified":1449056349,
+    "wof:lastmodified":1454358277,
     "wof:name":"Concrete Contractors Inc",
     "wof:parent_id":85833977,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.112268,40.843811,-80.112268,40.843811],
+  "bbox": [
+    -80.112268,
+    40.843811,
+    -80.112268,
+    40.843811
+],
   "geometry": {"coordinates":[-80.112268,40.843811],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387439377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.993401,40.368698,-79.993401,40.368698",
     "geom:latitude":40.368698,
     "geom:longitude":-79.993401,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"726 Frank St",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85839961,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85839961
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"d68a960fb892425eb5d78999f748bbb6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85839961,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387439377,
-    "wof:lastmodified":1449057150,
+    "wof:lastmodified":1454358881,
     "wof:name":"Schneider's Dairy",
     "wof:parent_id":85839961,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "yogurt"
     ]
 },
-  "bbox": [-79.993401,40.368698,-79.993401,40.368698],
-  "geometry": {"coordinates":[-79.993401,40.368698],"type":"Point"}
+  "bbox": [
+    -79.993401,
+    40.368698,
+    -79.993401,
+    40.368698
+],
+  "geometry": {"coordinates":[-79.99340100000001,40.368698],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387726175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.912696,40.717444,-79.912696,40.717444",
     "geom:latitude":40.717444,
     "geom:longitude":-79.912696,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"530 Steiner Bridge Rd",
     "sg:city":"Valencia",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102083677,
-        85845445
+        85845445,
+        102083677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"149b792965c738e12a83779de5bc9188",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102083677,
-            "locality_id":-1,
             "neighbourhood_id":85845445,
             "region_id":85688481,
             "venue_id":387726175
         }
     ],
     "wof:id":387726175,
-    "wof:lastmodified":1449058716,
+    "wof:lastmodified":1454360861,
     "wof:name":"Kennihan Duct Cleaning Service",
     "wof:parent_id":85845445,
     "wof:placetype":"venue",
@@ -64,6 +63,11 @@
         "contractors-commercial"
     ]
 },
-  "bbox": [-79.912696,40.717444,-79.912696,40.717444],
+  "bbox": [
+    -79.912696,
+    40.717444,
+    -79.912696,
+    40.717444
+],
   "geometry": {"coordinates":[-79.912696,40.717444],"type":"Point"}
 }

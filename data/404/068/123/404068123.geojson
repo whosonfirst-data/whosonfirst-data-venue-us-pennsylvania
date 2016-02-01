@@ -2,13 +2,14 @@
   "id": 404068123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.342805,39.885171,-76.342805,39.885171",
     "geom:latitude":39.885171,
     "geom:longitude":-76.342805,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"121 House Rock Rd",
     "sg:city":"Pequea",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85818203
+        85818203,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"be4ec540c10500f884aa032eca64f6a0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85818203,
             "region_id":85688481,
             "venue_id":404068123
         }
     ],
     "wof:id":404068123,
-    "wof:lastmodified":1449039721,
+    "wof:lastmodified":1454356766,
     "wof:name":"Billy Beats Woodworking",
     "wof:parent_id":85818203,
     "wof:placetype":"venue",
@@ -64,6 +63,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-76.342805,39.885171,-76.342805,39.885171],
+  "bbox": [
+    -76.342805,
+    39.885171,
+    -76.342805,
+    39.885171
+],
   "geometry": {"coordinates":[-76.342805,39.885171],"type":"Point"}
 }

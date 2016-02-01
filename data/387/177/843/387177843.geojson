@@ -2,13 +2,14 @@
   "id": 387177843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.231439,40.435349,-80.231439,40.435349",
     "geom:latitude":40.435349,
     "geom:longitude":-80.231439,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"402 High Tech Dr",
     "sg:city":"Oakdale",
     "sg:classifiers":[
@@ -38,8 +39,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85819043
+        85819043,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +50,15 @@
     "wof:geomhash":"25e9c1457ec16a2299677b1623d0106d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85819043,
             "region_id":85688481,
             "venue_id":387177843
         }
     ],
     "wof:id":387177843,
-    "wof:lastmodified":1449059916,
+    "wof:lastmodified":1454361232,
     "wof:name":"Brueggers Distribution",
     "wof:parent_id":85819043,
     "wof:placetype":"venue",
@@ -73,6 +72,11 @@
         "breakfast"
     ]
 },
-  "bbox": [-80.231439,40.435349,-80.231439,40.435349],
-  "geometry": {"coordinates":[-80.231439,40.435349],"type":"Point"}
+  "bbox": [
+    -80.231439,
+    40.435349,
+    -80.231439,
+    40.435349
+],
+  "geometry": {"coordinates":[-80.23143899999999,40.435349],"type":"Point"}
 }

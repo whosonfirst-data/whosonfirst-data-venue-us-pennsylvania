@@ -2,13 +2,14 @@
   "id": 387950531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.151254,40.181951,-77.151254,40.181951",
     "geom:latitude":40.181951,
     "geom:longitude":-77.151254,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"20 Liberty Ct",
     "sg:city":"Carlisle",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85868581,
+        102191575,
+        404486545,
         85633793,
         101719075,
         102081359,
-        85868581
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"d2ce67eb2e3fde87f2b7fb658f03ac09",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081359,
+            "localadmin_id":404486545,
             "locality_id":101719075,
             "neighbourhood_id":85868581,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387950531,
-    "wof:lastmodified":1449057587,
+    "wof:lastmodified":1454360523,
     "wof:name":"Praetorian Fitness Inc",
     "wof:parent_id":85868581,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "health"
     ]
 },
-  "bbox": [-77.151254,40.181951,-77.151254,40.181951],
-  "geometry": {"coordinates":[-77.151254,40.181951],"type":"Point"}
+  "bbox": [
+    -77.151254,
+    40.181951,
+    -77.151254,
+    40.181951
+],
+  "geometry": {"coordinates":[-77.15125399999999,40.181951],"type":"Point"}
 }

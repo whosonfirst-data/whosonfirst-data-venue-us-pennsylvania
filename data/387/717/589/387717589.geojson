@@ -2,13 +2,14 @@
   "id": 387717589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.004898,40.686798,-80.004898,40.686798",
     "geom:latitude":40.686798,
     "geom:longitude":-80.004898,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"337 Mars Valencia Rd",
     "sg:city":"Mars",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102083677,
-        85815109
+        85815109,
+        102083677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"d60c26d209ada7bd2bfc8ddae5be534a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102083677,
-            "locality_id":-1,
             "neighbourhood_id":85815109,
             "region_id":85688481,
             "venue_id":387717589
         }
     ],
     "wof:id":387717589,
-    "wof:lastmodified":1449056220,
+    "wof:lastmodified":1454358173,
     "wof:name":"Kozminski Auto Body",
     "wof:parent_id":85815109,
     "wof:placetype":"venue",
@@ -63,6 +62,11 @@
         "shop"
     ]
 },
-  "bbox": [-80.004898,40.686798,-80.004898,40.686798],
+  "bbox": [
+    -80.004898,
+    40.686798,
+    -80.004898,
+    40.686798
+],
   "geometry": {"coordinates":[-80.004898,40.686798],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387612019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.293086,39.949797,-78.293086,39.949797",
     "geom:latitude":39.949797,
     "geom:longitude":-78.293086,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"496 Mellott Rd",
     "sg:city":"Everett",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080939,
-        85827257
+        85827257,
+        102080939
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"b9c054f78f93f080b9ea630f0cd0b701",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080939,
-            "locality_id":-1,
             "neighbourhood_id":85827257,
             "region_id":85688481,
             "venue_id":387612019
         }
     ],
     "wof:id":387612019,
-    "wof:lastmodified":1449057789,
+    "wof:lastmodified":1454360597,
     "wof:name":"Forest Sherwood Bldrs Inc",
     "wof:parent_id":85827257,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-78.293086,39.949797,-78.293086,39.949797],
+  "bbox": [
+    -78.293086,
+    39.949797,
+    -78.293086,
+    39.949797
+],
   "geometry": {"coordinates":[-78.293086,39.949797],"type":"Point"}
 }

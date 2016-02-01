@@ -2,13 +2,14 @@
   "id": 387298829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.069355,40.411494,-80.069355,40.411494",
     "geom:latitude":40.411494,
     "geom:longitude":-80.069355,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"800 Trumbull Dr",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -55,11 +56,13 @@
     "sg:website":"http://www.vandyk.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85816087,
+        102191575,
+        404484941,
         85633793,
         101718673,
         102080887,
-        85816087
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,9 +72,10 @@
     "wof:geomhash":"3c448a403afd6475d250b5013fe58c19",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484941,
             "locality_id":101718673,
             "neighbourhood_id":85816087,
             "region_id":85688481,
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":387298829,
-    "wof:lastmodified":1449057132,
+    "wof:lastmodified":1454358864,
     "wof:name":"Van Dyk Business Systems",
     "wof:parent_id":85816087,
     "wof:placetype":"venue",
@@ -96,6 +100,11 @@
         "furniture"
     ]
 },
-  "bbox": [-80.069355,40.411494,-80.069355,40.411494],
+  "bbox": [
+    -80.069355,
+    40.411494,
+    -80.069355,
+    40.411494
+],
   "geometry": {"coordinates":[-80.069355,40.411494],"type":"Point"}
 }

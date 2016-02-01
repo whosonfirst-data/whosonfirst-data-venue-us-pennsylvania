@@ -2,13 +2,14 @@
   "id": 387607955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.495992,40.011904,-78.495992,40.011904",
     "geom:latitude":40.011904,
     "geom:longitude":-78.495992,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"309 Arandale St",
     "sg:city":"Bedford",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080939,
-        85810345
+        85810345,
+        102080939
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"ea8f9d28f154bbbfa740e74cdd839264",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080939,
-            "locality_id":-1,
             "neighbourhood_id":85810345,
             "region_id":85688481,
             "venue_id":387607955
         }
     ],
     "wof:id":387607955,
-    "wof:lastmodified":1449056609,
+    "wof:lastmodified":1454358482,
     "wof:name":"Morningstar Trucking",
     "wof:parent_id":85810345,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "trucking"
     ]
 },
-  "bbox": [-78.495992,40.011904,-78.495992,40.011904],
+  "bbox": [
+    -78.495992,
+    40.011904,
+    -78.495992,
+    40.011904
+],
   "geometry": {"coordinates":[-78.495992,40.011904],"type":"Point"}
 }

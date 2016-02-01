@@ -2,13 +2,14 @@
   "id": 387398849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.854222,40.413413,-79.854222,40.413413",
     "geom:latitude":40.413413,
     "geom:longitude":-79.854222,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"250 Yost Blvd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     "sg:website":"http://www.ccac.edu",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536333,
+        102191575,
+        404484859,
         85633793,
         101718785,
-        102080887
+        102080887,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"4d82af4060c94ce29c171581c31d86b4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484859,
             "locality_id":101718785,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420536333,
             "region_id":85688481,
             "venue_id":387398849
         }
     ],
     "wof:id":387398849,
-    "wof:lastmodified":1449056414,
+    "wof:lastmodified":1454358329,
     "wof:name":"Braddock Hills Center",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536333,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -61,6 +66,11 @@
         "college"
     ]
 },
-  "bbox": [-79.854222,40.413413,-79.854222,40.413413],
-  "geometry": {"coordinates":[-79.854222,40.413413],"type":"Point"}
+  "bbox": [
+    -79.854222,
+    40.413413,
+    -79.854222,
+    40.413413
+],
+  "geometry": {"coordinates":[-79.85422199999999,40.413413],"type":"Point"}
 }

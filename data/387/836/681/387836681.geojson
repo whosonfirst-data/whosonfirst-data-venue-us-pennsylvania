@@ -2,13 +2,14 @@
   "id": 387836681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.133358,42.089709,-80.133358,42.089709",
     "geom:latitude":42.089709,
     "geom:longitude":-80.133358,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2702 W 26th St",
     "sg:city":"Erie",
     "sg:classifiers":[
@@ -80,8 +81,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080955,
-        85810495
+        85810495,
+        102080955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,17 +92,15 @@
     "wof:geomhash":"ffca0bf46451463ae9df1b0d49440f2a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080955,
-            "locality_id":-1,
             "neighbourhood_id":85810495,
             "region_id":85688481,
             "venue_id":387836681
         }
     ],
     "wof:id":387836681,
-    "wof:lastmodified":1449058626,
+    "wof:lastmodified":1454360832,
     "wof:name":"Sherwin-Williams",
     "wof:parent_id":85810495,
     "wof:placetype":"venue",
@@ -126,6 +125,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-80.133358,42.089709,-80.133358,42.089709],
+  "bbox": [
+    -80.133358,
+    42.089709,
+    -80.133358,
+    42.089709
+],
   "geometry": {"coordinates":[-80.133358,42.089709],"type":"Point"}
 }

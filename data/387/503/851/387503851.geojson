@@ -2,13 +2,14 @@
   "id": 387503851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.004567,40.516941,-80.004567,40.516941",
     "geom:latitude":40.516941,
     "geom:longitude":-80.004567,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4717 Mcknight Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[],
@@ -21,8 +22,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85805835
+        85805835,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -32,17 +33,15 @@
     "wof:geomhash":"260006f49bfc04bd49ddabcdeaea1042",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85805835,
             "region_id":85688481,
             "venue_id":387503851
         }
     ],
     "wof:id":387503851,
-    "wof:lastmodified":1449059930,
+    "wof:lastmodified":1454361236,
     "wof:name":"Kuhn's Market",
     "wof:parent_id":85805835,
     "wof:placetype":"venue",
@@ -50,6 +49,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.004567,40.516941,-80.004567,40.516941],
-  "geometry": {"coordinates":[-80.004567,40.516941],"type":"Point"}
+  "bbox": [
+    -80.004567,
+    40.516941,
+    -80.004567,
+    40.516941
+],
+  "geometry": {"coordinates":[-80.00456699999999,40.516941],"type":"Point"}
 }

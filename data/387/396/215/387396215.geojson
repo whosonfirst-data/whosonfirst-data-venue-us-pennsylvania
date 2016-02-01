@@ -2,13 +2,14 @@
   "id": 387396215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.858718,40.454027,-79.858718,40.454027",
     "geom:latitude":40.454027,
     "geom:longitude":-79.858718,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2407 Laketon Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536283,
+        102191575,
+        404484253,
         85633793,
         101718701,
-        102080887
+        102080887,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,20 @@
     "wof:geomhash":"8f5a59ffddfa549e08074b527f15c6b3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484253,
             "locality_id":101718701,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420536283,
             "region_id":85688481,
             "venue_id":387396215
         }
     ],
     "wof:id":387396215,
-    "wof:lastmodified":1449058609,
+    "wof:lastmodified":1454360828,
     "wof:name":"C. P. Hall Jr. Paintings",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536283,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -66,6 +71,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.858718,40.454027,-79.858718,40.454027],
+  "bbox": [
+    -79.858718,
+    40.454027,
+    -79.858718,
+    40.454027
+],
   "geometry": {"coordinates":[-79.858718,40.454027],"type":"Point"}
 }

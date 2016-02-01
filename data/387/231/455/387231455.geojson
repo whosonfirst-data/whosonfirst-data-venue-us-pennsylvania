@@ -2,13 +2,14 @@
   "id": 387231455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.148003,40.401199,-80.148003,40.401199",
     "geom:latitude":40.401199,
     "geom:longitude":-80.148003,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"9 Noblestown Rd",
     "sg:city":"Carnegie",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85854259,
+        102191575,
+        404484875,
         85633793,
         101720503,
         102080887,
-        85854259
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"99c19ffaacf65af9120a92f3a32d7cdb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484875,
             "locality_id":101720503,
             "neighbourhood_id":85854259,
             "region_id":85688481,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":387231455,
-    "wof:lastmodified":1449058054,
+    "wof:lastmodified":1454360670,
     "wof:name":"Camphill Sportsmen Club",
     "wof:parent_id":85854259,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "team"
     ]
 },
-  "bbox": [-80.148003,40.401199,-80.148003,40.401199],
+  "bbox": [
+    -80.148003,
+    40.401199,
+    -80.148003,
+    40.401199
+],
   "geometry": {"coordinates":[-80.148003,40.401199],"type":"Point"}
 }

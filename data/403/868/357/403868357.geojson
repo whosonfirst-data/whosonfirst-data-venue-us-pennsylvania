@@ -2,13 +2,14 @@
   "id": 403868357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.842102,40.284801,-76.842102,40.284801",
     "geom:latitude":40.284801,
     "geom:longitude":-76.842102,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"7 N Progress Ave",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85843183,
+        102191575,
+        404486305,
         85633793,
         101719821,
         102081347,
-        85843183
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"2539d084ce69d4436fc02393a91fc449",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
+            "localadmin_id":404486305,
             "locality_id":101719821,
             "neighbourhood_id":85843183,
             "region_id":85688481,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":403868357,
-    "wof:lastmodified":1449054679,
+    "wof:lastmodified":1454357212,
     "wof:name":"Balloon City USA of Central PA",
     "wof:parent_id":85843183,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "costume"
     ]
 },
-  "bbox": [-76.842102,40.284801,-76.842102,40.284801],
+  "bbox": [
+    -76.842102,
+    40.284801,
+    -76.842102,
+    40.284801
+],
   "geometry": {"coordinates":[-76.842102,40.284801],"type":"Point"}
 }

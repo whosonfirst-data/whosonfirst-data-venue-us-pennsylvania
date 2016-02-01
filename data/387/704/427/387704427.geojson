@@ -2,13 +2,14 @@
   "id": 387704427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.861856,40.800659,-79.861856,40.800659",
     "geom:latitude":40.800659,
     "geom:longitude":-79.861856,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"178 Blakely Rd",
     "sg:city":"Butler",
     "sg:classifiers":[
@@ -37,8 +38,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102083677,
-        85845445
+        85845445,
+        102083677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +49,15 @@
     "wof:geomhash":"0f67d9d5e31d796da5877cf37e21c545",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102083677,
-            "locality_id":-1,
             "neighbourhood_id":85845445,
             "region_id":85688481,
             "venue_id":387704427
         }
     ],
     "wof:id":387704427,
-    "wof:lastmodified":1449057093,
+    "wof:lastmodified":1454358832,
     "wof:name":"Diana's Custom Crafts",
     "wof:parent_id":85845445,
     "wof:placetype":"venue",
@@ -71,6 +70,11 @@
         "supply"
     ]
 },
-  "bbox": [-79.861856,40.800659,-79.861856,40.800659],
+  "bbox": [
+    -79.861856,
+    40.800659,
+    -79.861856,
+    40.800659
+],
   "geometry": {"coordinates":[-79.861856,40.800659],"type":"Point"}
 }

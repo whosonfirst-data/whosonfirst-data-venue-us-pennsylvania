@@ -2,13 +2,14 @@
   "id": 404000561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.353777,39.855626,-77.353777,39.855626",
     "geom:latitude":39.855626,
     "geom:longitude":-77.353777,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1045 Orrtanna Rd",
     "sg:city":"Orrtanna",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080899,
-        85825673
+        85825673,
+        102080899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"23f62d192b547e1ba1eec0914777ec47",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080899,
-            "locality_id":-1,
             "neighbourhood_id":85825673,
             "region_id":85688481,
             "venue_id":404000561
         }
     ],
     "wof:id":404000561,
-    "wof:lastmodified":1449039209,
+    "wof:lastmodified":1454356523,
     "wof:name":"Pukownik, Maria Fine Art And Paper Conservation",
     "wof:parent_id":85825673,
     "wof:placetype":"venue",
@@ -63,6 +62,11 @@
         "restoration"
     ]
 },
-  "bbox": [-77.353777,39.855626,-77.353777,39.855626],
-  "geometry": {"coordinates":[-77.353777,39.855626],"type":"Point"}
+  "bbox": [
+    -77.353777,
+    39.855626,
+    -77.353777,
+    39.855626
+],
+  "geometry": {"coordinates":[-77.35377699999999,39.855626],"type":"Point"}
 }

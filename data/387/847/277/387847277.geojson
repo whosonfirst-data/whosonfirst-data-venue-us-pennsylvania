@@ -2,13 +2,14 @@
   "id": 387847277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.102409,42.065057,-80.102409,42.065057",
     "geom:latitude":42.065057,
     "geom:longitude":-80.102409,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2074 Interchange Rd",
     "sg:city":"Erie",
     "sg:classifiers":[
@@ -39,8 +40,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080955,
-        85827851
+        85827851,
+        102080955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,17 +51,15 @@
     "wof:geomhash":"6ca77333ff29ceab89dc7573b4ddf67f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080955,
-            "locality_id":-1,
             "neighbourhood_id":85827851,
             "region_id":85688481,
             "venue_id":387847277
         }
     ],
     "wof:id":387847277,
-    "wof:lastmodified":1449057478,
+    "wof:lastmodified":1454359154,
     "wof:name":"Smokey Bones Barbeque & Grill",
     "wof:parent_id":85827851,
     "wof:placetype":"venue",
@@ -74,6 +73,11 @@
         "barbecue"
     ]
 },
-  "bbox": [-80.102409,42.065057,-80.102409,42.065057],
-  "geometry": {"coordinates":[-80.102409,42.065057],"type":"Point"}
+  "bbox": [
+    -80.102409,
+    42.065057,
+    -80.102409,
+    42.065057
+],
+  "geometry": {"coordinates":[-80.10240899999999,42.065057],"type":"Point"}
 }

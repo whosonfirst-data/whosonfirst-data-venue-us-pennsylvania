@@ -2,13 +2,14 @@
   "id": 387248089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.90197,40.409111,-79.90197,40.409111",
     "geom:latitude":40.409111,
     "geom:longitude":-79.90197,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"100 William Marks Way",
     "sg:city":"Homestead",
     "sg:classifiers":[
@@ -64,11 +65,13 @@
     "sg:website":"http://www.riteaid.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85851951,
+        102191575,
+        404482541,
         85633793,
         101718713,
         102080887,
-        85851951
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,9 +81,10 @@
     "wof:geomhash":"6d0db43abf60c27f7bf80d801068c891",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482541,
             "locality_id":101718713,
             "neighbourhood_id":85851951,
             "region_id":85688481,
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":387248089,
-    "wof:lastmodified":1449058199,
+    "wof:lastmodified":1454360708,
     "wof:name":"Rite Aid",
     "wof:parent_id":85851951,
     "wof:placetype":"venue",
@@ -109,6 +113,11 @@
         "greeting"
     ]
 },
-  "bbox": [-79.90197,40.409111,-79.90197,40.409111],
-  "geometry": {"coordinates":[-79.90197,40.409111],"type":"Point"}
+  "bbox": [
+    -79.90197,
+    40.409111,
+    -79.90197,
+    40.409111
+],
+  "geometry": {"coordinates":[-79.90197000000001,40.409111],"type":"Point"}
 }

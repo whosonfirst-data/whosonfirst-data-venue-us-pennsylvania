@@ -2,13 +2,14 @@
   "id": 387372151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.996752,40.441041,-79.996752,40.441041",
     "geom:latitude":40.441041,
     "geom:longitude":-79.996752,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"435 6th Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85873585,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85873585
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"1d8d59898645a654c17b0a9df8669c32",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85873585,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387372151,
-    "wof:lastmodified":1449058413,
+    "wof:lastmodified":1454360773,
     "wof:name":"Wiegand, Martha - Reed Smith Law Offices",
     "wof:parent_id":85873585,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "tax"
     ]
 },
-  "bbox": [-79.996752,40.441041,-79.996752,40.441041],
+  "bbox": [
+    -79.996752,
+    40.441041,
+    -79.996752,
+    40.441041
+],
   "geometry": {"coordinates":[-79.996752,40.441041],"type":"Point"}
 }

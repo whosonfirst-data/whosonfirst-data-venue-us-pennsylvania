@@ -2,13 +2,14 @@
   "id": 403741653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.075536,40.225024,-77.075536,40.225024",
     "geom:latitude":40.225024,
     "geom:longitude":-77.075536,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"236 N Locust Point Rd",
     "sg:city":"Mechanicsburg",
     "sg:classifiers":[
@@ -47,8 +48,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081359,
-        85826667
+        85826667,
+        102081359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,17 +59,15 @@
     "wof:geomhash":"f9d8b6933759d8f4270a00574056db17",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081359,
-            "locality_id":-1,
             "neighbourhood_id":85826667,
             "region_id":85688481,
             "venue_id":403741653
         }
     ],
     "wof:id":403741653,
-    "wof:lastmodified":1449054695,
+    "wof:lastmodified":1454357220,
     "wof:name":"Outdoor Expressions LLC",
     "wof:parent_id":85826667,
     "wof:placetype":"venue",
@@ -85,6 +84,11 @@
         "patio"
     ]
 },
-  "bbox": [-77.075536,40.225024,-77.075536,40.225024],
+  "bbox": [
+    -77.075536,
+    40.225024,
+    -77.075536,
+    40.225024
+],
   "geometry": {"coordinates":[-77.075536,40.225024],"type":"Point"}
 }

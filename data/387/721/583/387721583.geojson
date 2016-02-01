@@ -2,13 +2,14 @@
   "id": 387721583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.96348,40.805797,-79.96348,40.805797",
     "geom:latitude":40.805797,
     "geom:longitude":-79.96348,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"116 E Main St",
     "sg:city":"Renfrew",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102083677,
-        85833131
+        85833131,
+        102083677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"989bb3e06b1de545e8ec98918e43904e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102083677,
-            "locality_id":-1,
             "neighbourhood_id":85833131,
             "region_id":85688481,
             "venue_id":387721583
         }
     ],
     "wof:id":387721583,
-    "wof:lastmodified":1449059912,
+    "wof:lastmodified":1454361230,
     "wof:name":"Frederick V Luke",
     "wof:parent_id":85833131,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.96348,40.805797,-79.96348,40.805797],
+  "bbox": [
+    -79.96348,
+    40.805797,
+    -79.96348,
+    40.805797
+],
   "geometry": {"coordinates":[-79.96348,40.805797],"type":"Point"}
 }

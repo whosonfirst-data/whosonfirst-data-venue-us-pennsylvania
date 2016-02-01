@@ -2,13 +2,14 @@
   "id": 403984415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.25326,39.779051,-77.25326,39.779051",
     "geom:latitude":39.779051,
     "geom:longitude":-77.25326,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"182 Ridge Rd",
     "sg:city":"Gettysburg",
     "sg:classifiers":[
@@ -47,8 +48,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080899,
-        85847703
+        85847703,
+        102080899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,17 +59,15 @@
     "wof:geomhash":"98dd5f3cdc9a4bc677522b5abe331067",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080899,
-            "locality_id":-1,
             "neighbourhood_id":85847703,
             "region_id":85688481,
             "venue_id":403984415
         }
     ],
     "wof:id":403984415,
-    "wof:lastmodified":1449055391,
+    "wof:lastmodified":1454357644,
     "wof:name":"George M. Forney",
     "wof:parent_id":85847703,
     "wof:placetype":"venue",
@@ -85,6 +84,11 @@
         "inspection"
     ]
 },
-  "bbox": [-77.25326,39.779051,-77.25326,39.779051],
+  "bbox": [
+    -77.25326,
+    39.779051,
+    -77.25326,
+    39.779051
+],
   "geometry": {"coordinates":[-77.25326,39.779051],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387653887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.166325,40.615442,-79.166325,40.615442",
     "geom:latitude":40.615442,
     "geom:longitude":-79.166325,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1336 Oakland Ave",
     "sg:city":"Indiana",
     "sg:classifiers":[
@@ -43,8 +44,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081387,
-        85821437
+        85821437,
+        102081387
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,17 +55,15 @@
     "wof:geomhash":"18685a4d14d9e906a945a3e2d5bef1d6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081387,
-            "locality_id":-1,
             "neighbourhood_id":85821437,
             "region_id":85688481,
             "venue_id":387653887
         }
     ],
     "wof:id":387653887,
-    "wof:lastmodified":1449056388,
+    "wof:lastmodified":1454358302,
     "wof:name":"Monro Muffler Brake & Service",
     "wof:parent_id":85821437,
     "wof:placetype":"venue",
@@ -82,6 +81,11 @@
         "muffler"
     ]
 },
-  "bbox": [-79.166325,40.615442,-79.166325,40.615442],
+  "bbox": [
+    -79.166325,
+    40.615442,
+    -79.166325,
+    40.615442
+],
   "geometry": {"coordinates":[-79.166325,40.615442],"type":"Point"}
 }

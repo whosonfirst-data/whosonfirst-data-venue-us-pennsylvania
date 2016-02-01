@@ -2,13 +2,14 @@
   "id": 387164777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.887489,40.146366,-79.887489,40.146366",
     "geom:latitude":40.146366,
     "geom:longitude":-79.887489,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1518 Rostraver St",
     "sg:city":"Monessen",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85816095,
+        102191575,
+        404487505,
         85633793,
-        101718539,
-        102081343,
-        85816095
+        101717153,
+        102081383,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"d5a753bae8ddca5771f55f6ea40e2174",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081343,
-            "locality_id":101718539,
+            "county_id":102081383,
+            "localadmin_id":404487505,
+            "locality_id":101717153,
             "neighbourhood_id":85816095,
             "region_id":85688481,
             "venue_id":387164777
         }
     ],
     "wof:id":387164777,
-    "wof:lastmodified":1449056564,
+    "wof:lastmodified":1454358437,
     "wof:name":"Five Star Answering Service",
     "wof:parent_id":85816095,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "telephone"
     ]
 },
-  "bbox": [-79.887489,40.146366,-79.887489,40.146366],
+  "bbox": [
+    -79.887489,
+    40.146366,
+    -79.887489,
+    40.146366
+],
   "geometry": {"coordinates":[-79.887489,40.146366],"type":"Point"}
 }

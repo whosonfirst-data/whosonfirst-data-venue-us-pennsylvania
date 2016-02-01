@@ -2,13 +2,14 @@
   "id": 387939837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.20319,40.206618,-77.20319,40.206618",
     "geom:latitude":40.206618,
     "geom:longitude":-77.20319,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"623 W Penn St",
     "sg:city":"Carlisle",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85865395,
+        102191575,
+        404486423,
         85633793,
         101719085,
         102081359,
-        85865395
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"828c257efe4b555c8df6c394d54f4cb8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081359,
+            "localadmin_id":404486423,
             "locality_id":101719085,
             "neighbourhood_id":85865395,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387939837,
-    "wof:lastmodified":1449057214,
+    "wof:lastmodified":1454358929,
     "wof:name":"Wilson Middle School",
     "wof:parent_id":85865395,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "middle"
     ]
 },
-  "bbox": [-77.20319,40.206618,-77.20319,40.206618],
-  "geometry": {"coordinates":[-77.20319,40.206618],"type":"Point"}
+  "bbox": [
+    -77.20319,
+    40.206618,
+    -77.20319,
+    40.206618
+],
+  "geometry": {"coordinates":[-77.20319000000001,40.206618],"type":"Point"}
 }

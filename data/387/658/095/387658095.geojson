@@ -2,13 +2,14 @@
   "id": 387658095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.233421,40.442952,-79.233421,40.442952",
     "geom:latitude":40.442952,
     "geom:longitude":-79.233421,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"915 Route 22 Hwy W",
     "sg:city":"Blairsville",
     "sg:classifiers":[
@@ -29,7 +30,12 @@
     "sg:website":"http://www.infirstbank.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420538361,
+        102191575,
+        404486345,
         85633793,
+        101718953,
+        102081387,
         85688481
     ],
     "wof:breaches":[],
@@ -40,18 +46,20 @@
     "wof:geomhash":"36dd9b9cb526fd76ecd34c9cc9498031",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081387,
+            "localadmin_id":404486345,
+            "locality_id":101718953,
+            "neighbourhood_id":420538361,
             "region_id":85688481,
             "venue_id":387658095
         }
     ],
     "wof:id":387658095,
-    "wof:lastmodified":1449056032,
+    "wof:lastmodified":1454358024,
     "wof:name":"Indiana First Bank",
-    "wof:parent_id":-1,
+    "wof:parent_id":420538361,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +68,11 @@
         "commercial"
     ]
 },
-  "bbox": [-79.233421,40.442952,-79.233421,40.442952],
-  "geometry": {"coordinates":[-79.233421,40.442952],"type":"Point"}
+  "bbox": [
+    -79.233421,
+    40.442952,
+    -79.233421,
+    40.442952
+],
+  "geometry": {"coordinates":[-79.23342100000001,40.442952],"type":"Point"}
 }

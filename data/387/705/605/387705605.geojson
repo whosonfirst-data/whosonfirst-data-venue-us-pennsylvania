@@ -2,13 +2,14 @@
   "id": 387705605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.935173,40.793011,-79.935173,40.793011",
     "geom:latitude":40.793011,
     "geom:longitude":-79.935173,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"114 Blackthorn Dr",
     "sg:city":"Butler",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102083677,
-        85833131
+        85833131,
+        102083677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"b03dbfc5b0fe9f1a499692ccee0ab9ae",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102083677,
-            "locality_id":-1,
             "neighbourhood_id":85833131,
             "region_id":85688481,
             "venue_id":387705605
         }
     ],
     "wof:id":387705605,
-    "wof:lastmodified":1449059940,
+    "wof:lastmodified":1454361239,
     "wof:name":"Stavac Associates",
     "wof:parent_id":85833131,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-79.935173,40.793011,-79.935173,40.793011],
-  "geometry": {"coordinates":[-79.935173,40.793011],"type":"Point"}
+  "bbox": [
+    -79.935173,
+    40.793011,
+    -79.935173,
+    40.793011
+],
+  "geometry": {"coordinates":[-79.93517300000001,40.793011],"type":"Point"}
 }

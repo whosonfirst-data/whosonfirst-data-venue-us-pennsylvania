@@ -2,13 +2,14 @@
   "id": 403863575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.848073,40.258559,-76.848073,40.258559",
     "geom:latitude":40.258559,
     "geom:longitude":-76.848073,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2259A Woodlawn St",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -45,8 +46,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85868485
+        85868485,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,17 +57,15 @@
     "wof:geomhash":"0c3987950863a1576954a63a2138349c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85868485,
             "region_id":85688481,
             "venue_id":403863575
         }
     ],
     "wof:id":403863575,
-    "wof:lastmodified":1449055526,
+    "wof:lastmodified":1454357727,
     "wof:name":"MetalWorks Etcetera, LLC",
     "wof:parent_id":85868485,
     "wof:placetype":"venue",
@@ -81,6 +80,11 @@
         "plaque"
     ]
 },
-  "bbox": [-76.848073,40.258559,-76.848073,40.258559],
+  "bbox": [
+    -76.848073,
+    40.258559,
+    -76.848073,
+    40.258559
+],
   "geometry": {"coordinates":[-76.848073,40.258559],"type":"Point"}
 }

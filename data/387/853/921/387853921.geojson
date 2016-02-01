@@ -2,13 +2,14 @@
   "id": 387853921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.396784,40.504352,-78.396784,40.504352",
     "geom:latitude":40.504352,
     "geom:longitude":-78.396784,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1804 1st Ave",
     "sg:city":"Altoona",
     "sg:classifiers":[
@@ -28,7 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85842329,
+        102191575,
+        404484619,
         85633793,
+        101716595,
+        102081325,
         85688481
     ],
     "wof:breaches":[],
@@ -39,18 +45,20 @@
     "wof:geomhash":"9c79eae13ebc400b02c556c5b04b42cb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081325,
+            "localadmin_id":404484619,
+            "locality_id":101716595,
+            "neighbourhood_id":85842329,
             "region_id":85688481,
             "venue_id":387853921
         }
     ],
     "wof:id":387853921,
-    "wof:lastmodified":1449057642,
+    "wof:lastmodified":1454360540,
     "wof:name":"Mid-Atlantic Independent Insurance Agency Limited Liability Company",
-    "wof:parent_id":-1,
+    "wof:parent_id":85842329,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -59,6 +67,11 @@
         "business"
     ]
 },
-  "bbox": [-78.396784,40.504352,-78.396784,40.504352],
+  "bbox": [
+    -78.396784,
+    40.504352,
+    -78.396784,
+    40.504352
+],
   "geometry": {"coordinates":[-78.396784,40.504352],"type":"Point"}
 }

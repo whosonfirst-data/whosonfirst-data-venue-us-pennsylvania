@@ -2,13 +2,14 @@
   "id": 387450049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.0439,40.386501,-80.0439,40.386501",
     "geom:latitude":40.386501,
     "geom:longitude":-80.0439,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"420 Washington Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -24,7 +25,12 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420536353,
+        102191575,
+        404484881,
         85633793,
+        101718733,
+        102080887,
         85688481
     ],
     "wof:breaches":[],
@@ -35,23 +41,30 @@
     "wof:geomhash":"fb01df35e4b74a396388d373cb27d1e8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102080887,
+            "localadmin_id":404484881,
+            "locality_id":101718733,
+            "neighbourhood_id":420536353,
             "region_id":85688481,
             "venue_id":387450049
         }
     ],
     "wof:id":387450049,
-    "wof:lastmodified":1449059344,
+    "wof:lastmodified":1454361045,
     "wof:name":"Notarius Harvey DMD",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536353,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.0439,40.386501,-80.0439,40.386501],
-  "geometry": {"coordinates":[-80.0439,40.386501],"type":"Point"}
+  "bbox": [
+    -80.0439,
+    40.386501,
+    -80.0439,
+    40.386501
+],
+  "geometry": {"coordinates":[-80.04389999999999,40.386501],"type":"Point"}
 }

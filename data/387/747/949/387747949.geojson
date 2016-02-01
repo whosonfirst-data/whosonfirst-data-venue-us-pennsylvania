@@ -2,13 +2,14 @@
   "id": 387747949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.375742,40.802451,-80.375742,40.802451",
     "geom:latitude":40.802451,
     "geom:longitude":-80.375742,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1201 Shenango Rd",
     "sg:city":"Darlington",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     "sg:website":"http://www.pinkertonrealestate.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536501,
+        102191575,
+        404484367,
         85633793,
         101718397,
-        102081323
+        102081323,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"eab7c0290942c597e321c39ed22d9586",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081323,
+            "localadmin_id":404484367,
             "locality_id":101718397,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420536501,
             "region_id":85688481,
             "venue_id":387747949
         }
     ],
     "wof:id":387747949,
-    "wof:lastmodified":1449056792,
+    "wof:lastmodified":1454358615,
     "wof:name":"Pinkerton L A",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536501,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -63,6 +68,11 @@
         "investigator"
     ]
 },
-  "bbox": [-80.375742,40.802451,-80.375742,40.802451],
+  "bbox": [
+    -80.375742,
+    40.802451,
+    -80.375742,
+    40.802451
+],
   "geometry": {"coordinates":[-80.375742,40.802451],"type":"Point"}
 }

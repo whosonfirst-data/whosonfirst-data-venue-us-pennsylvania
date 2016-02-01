@@ -2,13 +2,14 @@
   "id": 387878027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.78228,40.888052,-77.78228,40.888052",
     "geom:latitude":40.888052,
     "geom:longitude":-77.78228,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3013 Benner Pike",
     "sg:city":"Bellefonte",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081369,
-        85819359
+        85819359,
+        102081369
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"6f50ce083ad22ca3fede1cd834068f3b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081369,
-            "locality_id":-1,
             "neighbourhood_id":85819359,
             "region_id":85688481,
             "venue_id":387878027
         }
     ],
     "wof:id":387878027,
-    "wof:lastmodified":1449058095,
+    "wof:lastmodified":1454360679,
     "wof:name":"CentrePeace",
     "wof:parent_id":85819359,
     "wof:placetype":"venue",
@@ -61,6 +60,11 @@
         "store"
     ]
 },
-  "bbox": [-77.78228,40.888052,-77.78228,40.888052],
+  "bbox": [
+    -77.78228,
+    40.888052,
+    -77.78228,
+    40.888052
+],
   "geometry": {"coordinates":[-77.78228,40.888052],"type":"Point"}
 }

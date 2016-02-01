@@ -2,13 +2,14 @@
   "id": 387332421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.041229,40.389809,-80.041229,40.389809",
     "geom:latitude":40.389809,
     "geom:longitude":-80.041229,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3241 W Liberty Ave Ste 1",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536353,
+        102191575,
+        404484881,
         85633793,
         101718733,
-        102080887
+        102080887,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"b56541b6819a8e25a7c06b092eebdcd5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484881,
             "locality_id":101718733,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420536353,
             "region_id":85688481,
             "venue_id":387332421
         }
     ],
     "wof:id":387332421,
-    "wof:lastmodified":1449058227,
+    "wof:lastmodified":1454360715,
     "wof:name":"Print Craft Studio",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536353,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "services-commercial"
     ]
 },
-  "bbox": [-80.041229,40.389809,-80.041229,40.389809],
+  "bbox": [
+    -80.041229,
+    40.389809,
+    -80.041229,
+    40.389809
+],
   "geometry": {"coordinates":[-80.041229,40.389809],"type":"Point"}
 }

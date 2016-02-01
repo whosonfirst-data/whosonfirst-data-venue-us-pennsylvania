@@ -2,13 +2,14 @@
   "id": 404066689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.418971,40.051324,-76.418971,40.051324",
     "geom:latitude":40.051324,
     "geom:longitude":-76.418971,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3307 Pin Oak Ln",
     "sg:city":"Mountville",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85814875
+        85814875,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"aaad77ca9980cea8c59962a38f1825d7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85814875,
             "region_id":85688481,
             "venue_id":404066689
         }
     ],
     "wof:id":404066689,
-    "wof:lastmodified":1449039370,
+    "wof:lastmodified":1454356603,
     "wof:name":"Susquehanna Timber Frames",
     "wof:parent_id":85814875,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "builder"
     ]
 },
-  "bbox": [-76.418971,40.051324,-76.418971,40.051324],
+  "bbox": [
+    -76.418971,
+    40.051324,
+    -76.418971,
+    40.051324
+],
   "geometry": {"coordinates":[-76.418971,40.051324],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387391813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.045197,40.416698,-80.045197,40.416698",
     "geom:latitude":40.416698,
     "geom:longitude":-80.045197,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1006 Greentree Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -25,10 +26,13 @@
     "sg:website":"www.aracrisgreentreeinn.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85804395,
+        102191575,
+        404482523,
         85633793,
+        101718805,
         102080887,
-        85804395
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +42,18 @@
     "wof:geomhash":"9cfad0d73e8559c9a3487fd06ccadcc3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
+            "localadmin_id":404482523,
+            "locality_id":101718805,
             "neighbourhood_id":85804395,
             "region_id":85688481,
             "venue_id":387391813
         }
     ],
     "wof:id":387391813,
-    "wof:lastmodified":1449058543,
+    "wof:lastmodified":1454360809,
     "wof:name":"Aracri's Greentree Inn",
     "wof:parent_id":85804395,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.045197,40.416698,-80.045197,40.416698],
+  "bbox": [
+    -80.045197,
+    40.416698,
+    -80.045197,
+    40.416698
+],
   "geometry": {"coordinates":[-80.045197,40.416698],"type":"Point"}
 }

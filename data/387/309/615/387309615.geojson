@@ -2,13 +2,14 @@
   "id": 387309615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.986893,40.421741,-79.986893,40.421741",
     "geom:latitude":40.421741,
     "geom:longitude":-79.986893,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"24 Sharon St",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -35,10 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536321,
+        102191575,
+        404482523,
         85633793,
         101718805,
-        102080887
+        102080887,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +52,20 @@
     "wof:geomhash":"0f271281c917a2b08b717c22ea62e3a3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420536321,
             "region_id":85688481,
             "venue_id":387309615
         }
     ],
     "wof:id":387309615,
-    "wof:lastmodified":1449056947,
+    "wof:lastmodified":1454358728,
     "wof:name":"Veronique Crafts And Art",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536321,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -71,6 +76,11 @@
         "supply"
     ]
 },
-  "bbox": [-79.986893,40.421741,-79.986893,40.421741],
-  "geometry": {"coordinates":[-79.986893,40.421741],"type":"Point"}
+  "bbox": [
+    -79.986893,
+    40.421741,
+    -79.986893,
+    40.421741
+],
+  "geometry": {"coordinates":[-79.98689299999999,40.421741],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387230217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.083185,40.409699,-80.083185,40.409699",
     "geom:latitude":40.409699,
     "geom:longitude":-80.083185,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"360 E Main St",
     "sg:city":"Carnegie",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85816087,
+        102191575,
+        404484941,
         85633793,
         101718673,
         102080887,
-        85816087
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"34631dbb75bc083394eda032773068bd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484941,
             "locality_id":101718673,
             "neighbourhood_id":85816087,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387230217,
-    "wof:lastmodified":1449058931,
+    "wof:lastmodified":1454360931,
     "wof:name":"Bradley Sheasley",
     "wof:parent_id":85816087,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "business"
     ]
 },
-  "bbox": [-80.083185,40.409699,-80.083185,40.409699],
+  "bbox": [
+    -80.083185,
+    40.409699,
+    -80.083185,
+    40.409699
+],
   "geometry": {"coordinates":[-80.083185,40.409699],"type":"Point"}
 }

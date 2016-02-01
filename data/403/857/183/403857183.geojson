@@ -2,13 +2,14 @@
   "id": 403857183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.8484,40.275136,-76.8484,40.275136",
     "geom:latitude":40.275136,
     "geom:longitude":-76.8484,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2639 Boas St",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85840955
+        85840955,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"e4a22df3afd0452dbbb9a92c8391af47",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85840955,
             "region_id":85688481,
             "venue_id":403857183
         }
     ],
     "wof:id":403857183,
-    "wof:lastmodified":1449055482,
+    "wof:lastmodified":1454357694,
     "wof:name":"Warf & Mac Contracting",
     "wof:parent_id":85840955,
     "wof:placetype":"venue",
@@ -61,6 +60,11 @@
         "contractor"
     ]
 },
-  "bbox": [-76.8484,40.275136,-76.8484,40.275136],
+  "bbox": [
+    -76.8484,
+    40.275136,
+    -76.8484,
+    40.275136
+],
   "geometry": {"coordinates":[-76.8484,40.275136],"type":"Point"}
 }

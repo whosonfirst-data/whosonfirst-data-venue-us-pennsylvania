@@ -2,13 +2,14 @@
   "id": 387542315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.240669,40.160267,-80.240669,40.160267",
     "geom:latitude":40.160267,
     "geom:longitude":-80.240669,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"35 Redstone Ln",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -26,8 +27,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081343,
-        85820871
+        85820871,
+        102081343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,17 +38,15 @@
     "wof:geomhash":"3e41b9896f399f3b7e0f76baaf70f9f4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081343,
-            "locality_id":-1,
             "neighbourhood_id":85820871,
             "region_id":85688481,
             "venue_id":387542315
         }
     ],
     "wof:id":387542315,
-    "wof:lastmodified":1449059058,
+    "wof:lastmodified":1454360972,
     "wof:name":"Frank C Carroll",
     "wof:parent_id":85820871,
     "wof:placetype":"venue",
@@ -55,6 +54,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.240669,40.160267,-80.240669,40.160267],
+  "bbox": [
+    -80.240669,
+    40.160267,
+    -80.240669,
+    40.160267
+],
   "geometry": {"coordinates":[-80.240669,40.160267],"type":"Point"}
 }

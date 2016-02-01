@@ -2,13 +2,14 @@
   "id": 387723785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.852624,40.70977,-79.852624,40.70977",
     "geom:latitude":40.70977,
     "geom:longitude":-79.852624,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"788 Saxonburg Blvd",
     "sg:city":"Saxonburg",
     "sg:classifiers":[
@@ -32,8 +33,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102083677,
-        85845445
+        85845445,
+        102083677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +44,15 @@
     "wof:geomhash":"95611619e35ed4129e6ab0cec90e88e2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102083677,
-            "locality_id":-1,
             "neighbourhood_id":85845445,
             "region_id":85688481,
             "venue_id":387723785
         }
     ],
     "wof:id":387723785,
-    "wof:lastmodified":1449058328,
+    "wof:lastmodified":1454360747,
     "wof:name":"Sefton Portable Axle Surgeon",
     "wof:parent_id":85845445,
     "wof:placetype":"venue",
@@ -66,6 +65,11 @@
         "surgery-general"
     ]
 },
-  "bbox": [-79.852624,40.70977,-79.852624,40.70977],
-  "geometry": {"coordinates":[-79.852624,40.70977],"type":"Point"}
+  "bbox": [
+    -79.852624,
+    40.70977,
+    -79.852624,
+    40.70977
+],
+  "geometry": {"coordinates":[-79.85262400000001,40.70977],"type":"Point"}
 }

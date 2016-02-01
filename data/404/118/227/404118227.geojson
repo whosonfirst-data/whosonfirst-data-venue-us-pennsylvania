@@ -2,13 +2,14 @@
   "id": 404118227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.350911,41.031946,-76.350911,41.031946",
     "geom:latitude":41.031946,
     "geom:longitude":-76.350911,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6850 Lows Rd",
     "sg:city":"Bloomsburg",
     "sg:classifiers":[
@@ -47,8 +48,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080973,
-        85857999
+        85857999,
+        102080973
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,17 +59,15 @@
     "wof:geomhash":"b01796384bb527f4bc95201aa5209b58",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080973,
-            "locality_id":-1,
             "neighbourhood_id":85857999,
             "region_id":85688481,
             "venue_id":404118227
         }
     ],
     "wof:id":404118227,
-    "wof:lastmodified":1449040062,
+    "wof:lastmodified":1454356987,
     "wof:name":"Columbia Ancillary Services, Inc.",
     "wof:parent_id":85857999,
     "wof:placetype":"venue",
@@ -81,6 +80,11 @@
         "home"
     ]
 },
-  "bbox": [-76.350911,41.031946,-76.350911,41.031946],
+  "bbox": [
+    -76.350911,
+    41.031946,
+    -76.350911,
+    41.031946
+],
   "geometry": {"coordinates":[-76.350911,41.031946],"type":"Point"}
 }

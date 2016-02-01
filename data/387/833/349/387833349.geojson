@@ -2,13 +2,14 @@
   "id": 387833349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.191018,42.078192,-80.191018,42.078192",
     "geom:latitude":42.078192,
     "geom:longitude":-80.191018,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4845 W Lake Rd Ste 112",
     "sg:city":"Erie",
     "sg:classifiers":[
@@ -38,8 +39,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080955,
-        85853665
+        85853665,
+        102080955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +50,15 @@
     "wof:geomhash":"bb4ee34d0658a56dd1ee99c5a4ff657b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080955,
-            "locality_id":-1,
             "neighbourhood_id":85853665,
             "region_id":85688481,
             "venue_id":387833349
         }
     ],
     "wof:id":387833349,
-    "wof:lastmodified":1449056596,
+    "wof:lastmodified":1454358468,
     "wof:name":"Merry Maids",
     "wof:parent_id":85853665,
     "wof:placetype":"venue",
@@ -72,6 +71,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.191018,42.078192,-80.191018,42.078192],
+  "bbox": [
+    -80.191018,
+    42.078192,
+    -80.191018,
+    42.078192
+],
   "geometry": {"coordinates":[-80.191018,42.078192],"type":"Point"}
 }

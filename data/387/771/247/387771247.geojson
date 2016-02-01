@@ -2,13 +2,14 @@
   "id": 387771247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.516453,40.809085,-79.516453,40.809085",
     "geom:latitude":40.809085,
     "geom:longitude":-79.516453,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"105 Willow St",
     "sg:city":"Kittanning",
     "sg:classifiers":[
@@ -80,8 +81,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081371,
-        85816487
+        85816487,
+        102081371
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,17 +92,15 @@
     "wof:geomhash":"db9bca28702c0f2b2a6a9223dac31c69",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081371,
-            "locality_id":-1,
             "neighbourhood_id":85816487,
             "region_id":85688481,
             "venue_id":387771247
         }
     ],
     "wof:id":387771247,
-    "wof:lastmodified":1449058180,
+    "wof:lastmodified":1454360702,
     "wof:name":"Sherwin-Williams",
     "wof:parent_id":85816487,
     "wof:placetype":"venue",
@@ -126,6 +125,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-79.516453,40.809085,-79.516453,40.809085],
+  "bbox": [
+    -79.516453,
+    40.809085,
+    -79.516453,
+    40.809085
+],
   "geometry": {"coordinates":[-79.516453,40.809085],"type":"Point"}
 }

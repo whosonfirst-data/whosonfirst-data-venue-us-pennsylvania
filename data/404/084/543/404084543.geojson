@@ -2,13 +2,14 @@
   "id": 404084543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.304645,40.038074,-76.304645,40.038074",
     "geom:latitude":40.038074,
     "geom:longitude":-76.304645,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"23 E King St Fl 4",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"http://www.lema.co.lancaster.pa.us",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85818111,
+        102191575,
+        404487183,
         85633793,
         101718643,
         102081377,
-        85818111
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"b621e96679a6969dd43ef6f5cfd021ef",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081377,
+            "localadmin_id":404487183,
             "locality_id":101718643,
             "neighbourhood_id":85818111,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":404084543,
-    "wof:lastmodified":1449039145,
+    "wof:lastmodified":1454356473,
     "wof:name":"Community Resources, Office Of",
     "wof:parent_id":85818111,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "rehabilitation"
     ]
 },
-  "bbox": [-76.304645,40.038074,-76.304645,40.038074],
-  "geometry": {"coordinates":[-76.304645,40.038074],"type":"Point"}
+  "bbox": [
+    -76.304645,
+    40.038074,
+    -76.304645,
+    40.038074
+],
+  "geometry": {"coordinates":[-76.30464499999999,40.038074],"type":"Point"}
 }

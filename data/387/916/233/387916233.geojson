@@ -2,13 +2,14 @@
   "id": 387916233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.91554,40.239863,-76.91554,40.239863",
     "geom:latitude":40.239863,
     "geom:longitude":-76.91554,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1845 Market St Ste 5",
     "sg:city":"Camp Hill",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"www.justplainyoga.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85857441,
+        102191575,
+        404486405,
         85633793,
         101719079,
         102081359,
-        85857441
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"dc2f411d8b8f2bb81ba4dae8b6c60ede",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081359,
+            "localadmin_id":404486405,
             "locality_id":101719079,
             "neighbourhood_id":85857441,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387916233,
-    "wof:lastmodified":1449058197,
+    "wof:lastmodified":1454360708,
     "wof:name":"Just Plain Yoga Studio",
     "wof:parent_id":85857441,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "yoga"
     ]
 },
-  "bbox": [-76.91554,40.239863,-76.91554,40.239863],
-  "geometry": {"coordinates":[-76.91554,40.239863],"type":"Point"}
+  "bbox": [
+    -76.91554,
+    40.239863,
+    -76.91554,
+    40.239863
+],
+  "geometry": {"coordinates":[-76.91553999999999,40.239863],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403716647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.419487,40.318989,-76.419487,40.318989",
     "geom:latitude":40.318989,
     "geom:longitude":-76.419487,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"100 Tuck Ct Lebanon Pa",
     "sg:city":"Lebanon",
     "sg:classifiers":[
@@ -42,8 +43,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081341,
-        85868587
+        85868587,
+        102081341
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,17 +54,15 @@
     "wof:geomhash":"ef7acbf0193b223fb5cbe628a211acac",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081341,
-            "locality_id":-1,
             "neighbourhood_id":85868587,
             "region_id":85688481,
             "venue_id":403716647
         }
     ],
     "wof:id":403716647,
-    "wof:lastmodified":1449054814,
+    "wof:lastmodified":1454357300,
     "wof:name":"Linden Village MCHS",
     "wof:parent_id":85868587,
     "wof:placetype":"venue",
@@ -80,6 +79,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-76.419487,40.318989,-76.419487,40.318989],
+  "bbox": [
+    -76.419487,
+    40.318989,
+    -76.419487,
+    40.318989
+],
   "geometry": {"coordinates":[-76.419487,40.318989],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404077443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.282294,40.086518,-76.282294,40.086518",
     "geom:latitude":40.086518,
     "geom:longitude":-76.282294,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"719 Olde Hickory Rd",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85829687
+        85829687,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"fbda0f4d28a94be801a08fcdfc88d6fd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85829687,
             "region_id":85688481,
             "venue_id":404077443
         }
     ],
     "wof:id":404077443,
-    "wof:lastmodified":1449039201,
+    "wof:lastmodified":1454356519,
     "wof:name":"Automatic Data Processing (ADP)",
     "wof:parent_id":85829687,
     "wof:placetype":"venue",
@@ -61,6 +60,11 @@
         "payroll"
     ]
 },
-  "bbox": [-76.282294,40.086518,-76.282294,40.086518],
-  "geometry": {"coordinates":[-76.282294,40.086518],"type":"Point"}
+  "bbox": [
+    -76.282294,
+    40.086518,
+    -76.282294,
+    40.086518
+],
+  "geometry": {"coordinates":[-76.28229399999999,40.086518],"type":"Point"}
 }

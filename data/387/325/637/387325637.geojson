@@ -2,13 +2,14 @@
   "id": 387325637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.960202,40.458594,-79.960202,40.458594",
     "geom:latitude":40.458594,
     "geom:longitude":-79.960202,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3523 Bethoven St",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85842581,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85842581
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"3750780cc4edc8e62111ede0d8e87335",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85842581,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387325637,
-    "wof:lastmodified":1449057598,
+    "wof:lastmodified":1454360526,
     "wof:name":"Rohrich Vw Mazda Sales Dept",
     "wof:parent_id":85842581,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "car"
     ]
 },
-  "bbox": [-79.960202,40.458594,-79.960202,40.458594],
+  "bbox": [
+    -79.960202,
+    40.458594,
+    -79.960202,
+    40.458594
+],
   "geometry": {"coordinates":[-79.960202,40.458594],"type":"Point"}
 }

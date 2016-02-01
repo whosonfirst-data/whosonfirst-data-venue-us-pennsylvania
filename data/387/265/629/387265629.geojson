@@ -2,13 +2,14 @@
   "id": 387265629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.825047,40.523706,-79.825047,40.523706",
     "geom:latitude":40.523706,
     "geom:longitude":-79.825047,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1312 Summit Dr",
     "sg:city":"Oakmont",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85816637,
+        102191575,
+        404484167,
         85633793,
         101718791,
         102080887,
-        85816637
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"dc0f04eaf17eec8fc95bb103257129d8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484167,
             "locality_id":101718791,
             "neighbourhood_id":85816637,
             "region_id":85688481,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":387265629,
-    "wof:lastmodified":1449057394,
+    "wof:lastmodified":1454359091,
     "wof:name":"Blue Skies Photography",
     "wof:parent_id":85816637,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "wedding"
     ]
 },
-  "bbox": [-79.825047,40.523706,-79.825047,40.523706],
+  "bbox": [
+    -79.825047,
+    40.523706,
+    -79.825047,
+    40.523706
+],
   "geometry": {"coordinates":[-79.825047,40.523706],"type":"Point"}
 }

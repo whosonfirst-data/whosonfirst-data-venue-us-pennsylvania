@@ -2,13 +2,14 @@
   "id": 404111787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.757828,41.3265,-77.757828,41.3265",
     "geom:latitude":41.3265,
     "geom:longitude":-77.757828,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"100 3rd St",
     "sg:city":"Renovo",
     "sg:classifiers":[
@@ -42,8 +43,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080917,
-        85826685
+        85826685,
+        102080917
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,17 +54,15 @@
     "wof:geomhash":"36faaa45bf468ff486c0308cfa9cb455",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080917,
-            "locality_id":-1,
             "neighbourhood_id":85826685,
             "region_id":85688481,
             "venue_id":404111787
         }
     ],
     "wof:id":404111787,
-    "wof:lastmodified":1449040351,
+    "wof:lastmodified":1454357154,
     "wof:name":"Yesterday's Restaurant & Hotel",
     "wof:parent_id":85826685,
     "wof:placetype":"venue",
@@ -75,6 +74,11 @@
         "delivery"
     ]
 },
-  "bbox": [-77.757828,41.3265,-77.757828,41.3265],
+  "bbox": [
+    -77.757828,
+    41.3265,
+    -77.757828,
+    41.3265
+],
   "geometry": {"coordinates":[-77.757828,41.3265],"type":"Point"}
 }

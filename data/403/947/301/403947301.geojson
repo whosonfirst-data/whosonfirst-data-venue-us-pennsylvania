@@ -2,13 +2,14 @@
   "id": 403947301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.874487,40.293285,-77.874487,40.293285",
     "geom:latitude":40.293285,
     "geom:longitude":-77.874487,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"17164 Croghan Pike",
     "sg:city":"Shirleysburg",
     "sg:classifiers":[
@@ -40,8 +41,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080901,
-        85845467
+        85845467,
+        102080901
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,17 +52,15 @@
     "wof:geomhash":"c565442ccac060fe48fd8d5115ef6735",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080901,
-            "locality_id":-1,
             "neighbourhood_id":85845467,
             "region_id":85688481,
             "venue_id":403947301
         }
     ],
     "wof:id":403947301,
-    "wof:lastmodified":1449055572,
+    "wof:lastmodified":1454357753,
     "wof:name":"Lake Charles Septic Tank Cleaning & Portable Toilets",
     "wof:parent_id":85845467,
     "wof:placetype":"venue",
@@ -77,6 +76,11 @@
         "sewer"
     ]
 },
-  "bbox": [-77.874487,40.293285,-77.874487,40.293285],
+  "bbox": [
+    -77.874487,
+    40.293285,
+    -77.874487,
+    40.293285
+],
   "geometry": {"coordinates":[-77.874487,40.293285],"type":"Point"}
 }

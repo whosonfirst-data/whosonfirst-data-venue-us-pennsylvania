@@ -2,13 +2,14 @@
   "id": 403896533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.81292,40.256755,-76.81292,40.256755",
     "geom:latitude":40.256755,
     "geom:longitude":-76.81292,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"60 S 41st St",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -45,8 +46,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85839023
+        85839023,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,17 +57,15 @@
     "wof:geomhash":"f5aaaa560d1d3b18342816cf20a1d1d6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85839023,
             "region_id":85688481,
             "venue_id":403896533
         }
     ],
     "wof:id":403896533,
-    "wof:lastmodified":1449055115,
+    "wof:lastmodified":1454357479,
     "wof:name":"Weaver's Glass And Building Specialties, Inc.",
     "wof:parent_id":85839023,
     "wof:placetype":"venue",
@@ -82,6 +81,11 @@
         "replacement"
     ]
 },
-  "bbox": [-76.81292,40.256755,-76.81292,40.256755],
-  "geometry": {"coordinates":[-76.81292,40.256755],"type":"Point"}
+  "bbox": [
+    -76.81292,
+    40.256755,
+    -76.81292,
+    40.256755
+],
+  "geometry": {"coordinates":[-76.81292000000001,40.256755],"type":"Point"}
 }

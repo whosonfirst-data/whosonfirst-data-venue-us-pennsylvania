@@ -2,13 +2,14 @@
   "id": 387585413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.10429,39.889656,-80.10429,39.889656",
     "geom:latitude":39.889656,
     "geom:longitude":-80.10429,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"570 Rolling Meadows Rd",
     "sg:city":"Waynesburg",
     "sg:classifiers":[
@@ -37,8 +38,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080975,
-        85835337
+        85835337,
+        102080975
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +49,15 @@
     "wof:geomhash":"c9ddf22bc4774b16d32a4e5336fdbd77",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080975,
-            "locality_id":-1,
             "neighbourhood_id":85835337,
             "region_id":85688481,
             "venue_id":387585413
         }
     ],
     "wof:id":387585413,
-    "wof:lastmodified":1449058640,
+    "wof:lastmodified":1454360837,
     "wof:name":"Franklin Township Sewer Authority",
     "wof:parent_id":85835337,
     "wof:placetype":"venue",
@@ -71,6 +70,11 @@
         "equipment"
     ]
 },
-  "bbox": [-80.10429,39.889656,-80.10429,39.889656],
-  "geometry": {"coordinates":[-80.10429,39.889656],"type":"Point"}
+  "bbox": [
+    -80.10429,
+    39.889656,
+    -80.10429,
+    39.889656
+],
+  "geometry": {"coordinates":[-80.10429000000001,39.889656],"type":"Point"}
 }

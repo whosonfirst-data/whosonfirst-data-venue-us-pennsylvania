@@ -2,13 +2,14 @@
   "id": 387608843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.50174,40.018311,-78.50174,40.018311",
     "geom:latitude":40.018311,
     "geom:longitude":-78.50174,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"118 N Richard St",
     "sg:city":"Bedford",
     "sg:classifiers":[
@@ -59,8 +60,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080939,
-        85810345
+        85810345,
+        102080939
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,17 +71,15 @@
     "wof:geomhash":"c57d8e396f80c5213cd69155c1003f1b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080939,
-            "locality_id":-1,
             "neighbourhood_id":85810345,
             "region_id":85688481,
             "venue_id":387608843
         }
     ],
     "wof:id":387608843,
-    "wof:lastmodified":1449057731,
+    "wof:lastmodified":1454360576,
     "wof:name":"Harclerode & McGee Appliance",
     "wof:parent_id":85810345,
     "wof:placetype":"venue",
@@ -104,6 +103,11 @@
         "refrigerator"
     ]
 },
-  "bbox": [-78.50174,40.018311,-78.50174,40.018311],
+  "bbox": [
+    -78.50174,
+    40.018311,
+    -78.50174,
+    40.018311
+],
   "geometry": {"coordinates":[-78.50174,40.018311],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387864343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.56931,40.165578,-78.56931,40.165578",
     "geom:latitude":40.165578,
     "geom:longitude":-78.56931,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"715 Gordon Hall Rd",
     "sg:city":"Osterburg",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080939,
-        85850607
+        85850607,
+        102080939
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"c8b1eff6c7169698786d12c56766326a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080939,
-            "locality_id":-1,
             "neighbourhood_id":85850607,
             "region_id":85688481,
             "venue_id":387864343
         }
     ],
     "wof:id":387864343,
-    "wof:lastmodified":1449059967,
+    "wof:lastmodified":1454361246,
     "wof:name":"Ed Whitesell",
     "wof:parent_id":85850607,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "product"
     ]
 },
-  "bbox": [-78.56931,40.165578,-78.56931,40.165578],
+  "bbox": [
+    -78.56931,
+    40.165578,
+    -78.56931,
+    40.165578
+],
   "geometry": {"coordinates":[-78.56931,40.165578],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387240689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.204109,40.50798,-80.204109,40.50798",
     "geom:latitude":40.50798,
     "geom:longitude":-80.204109,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1008 Thorn Run Rd",
     "sg:city":"Coraopolis",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85809567,
+        102191575,
+        404484137,
         85633793,
         101720527,
         102080887,
-        85809567
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"5f2ef3103662df69b571ac20d530fc98",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484137,
             "locality_id":101720527,
             "neighbourhood_id":85809567,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387240689,
-    "wof:lastmodified":1449056507,
+    "wof:lastmodified":1454358402,
     "wof:name":"Alco-Teen Inc",
     "wof:parent_id":85809567,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "treatment"
     ]
 },
-  "bbox": [-80.204109,40.50798,-80.204109,40.50798],
+  "bbox": [
+    -80.204109,
+    40.50798,
+    -80.204109,
+    40.50798
+],
   "geometry": {"coordinates":[-80.204109,40.50798],"type":"Point"}
 }

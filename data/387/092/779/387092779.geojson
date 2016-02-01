@@ -2,13 +2,14 @@
   "id": 387092779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.323143,40.637932,-80.323143,40.637932",
     "geom:latitude":40.637932,
     "geom:longitude":-80.323143,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"214 Pleasant Dr",
     "sg:city":"Aliquippa",
     "sg:classifiers":[
@@ -59,8 +60,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081323,
-        85827637
+        85827637,
+        102081323
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,17 +71,15 @@
     "wof:geomhash":"03963807d62adfe99e8c532b9c25f981",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081323,
-            "locality_id":-1,
             "neighbourhood_id":85827637,
             "region_id":85688481,
             "venue_id":387092779
         }
     ],
     "wof:id":387092779,
-    "wof:lastmodified":1449059205,
+    "wof:lastmodified":1454361011,
     "wof:name":"Sunny Solutions Remodel",
     "wof:parent_id":85827637,
     "wof:placetype":"venue",
@@ -104,6 +103,11 @@
         "kitchen"
     ]
 },
-  "bbox": [-80.323143,40.637932,-80.323143,40.637932],
+  "bbox": [
+    -80.323143,
+    40.637932,
+    -80.323143,
+    40.637932
+],
   "geometry": {"coordinates":[-80.323143,40.637932],"type":"Point"}
 }

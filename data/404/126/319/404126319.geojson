@@ -2,13 +2,14 @@
   "id": 404126319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.587542,40.94276,-76.587542,40.94276",
     "geom:latitude":40.94276,
     "geom:longitude":-76.587542,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1802 River Dr",
     "sg:city":"Danville",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080931,
-        85833629
+        85833629,
+        102080931
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"ff986123d3fe49dcfdd966e98177609e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080931,
-            "locality_id":-1,
             "neighbourhood_id":85833629,
             "region_id":85688481,
             "venue_id":404126319
         }
     ],
     "wof:id":404126319,
-    "wof:lastmodified":1449039472,
+    "wof:lastmodified":1454356668,
     "wof:name":"Poeths Welding",
     "wof:parent_id":85833629,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "welder"
     ]
 },
-  "bbox": [-76.587542,40.94276,-76.587542,40.94276],
+  "bbox": [
+    -76.587542,
+    40.94276,
+    -76.587542,
+    40.94276
+],
   "geometry": {"coordinates":[-76.587542,40.94276],"type":"Point"}
 }

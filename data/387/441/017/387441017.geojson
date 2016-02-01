@@ -2,13 +2,14 @@
   "id": 387441017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.969647,40.351735,-79.969647,40.351735",
     "geom:latitude":40.351735,
     "geom:longitude":-79.969647,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5166 Dolores Dr",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85839661,
+        102191575,
+        404484247,
         85633793,
         101718705,
         102080887,
-        85839661
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"1e9ff7fbee0e4327d55179b98af91297",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484247,
             "locality_id":101718705,
             "neighbourhood_id":85839661,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387441017,
-    "wof:lastmodified":1449056402,
+    "wof:lastmodified":1454358317,
     "wof:name":"T Bradley",
     "wof:parent_id":85839661,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-79.969647,40.351735,-79.969647,40.351735],
-  "geometry": {"coordinates":[-79.969647,40.351735],"type":"Point"}
+  "bbox": [
+    -79.969647,
+    40.351735,
+    -79.969647,
+    40.351735
+],
+  "geometry": {"coordinates":[-79.96964699999999,40.351735],"type":"Point"}
 }

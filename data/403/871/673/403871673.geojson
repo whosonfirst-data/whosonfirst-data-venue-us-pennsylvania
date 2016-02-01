@@ -2,13 +2,14 @@
   "id": 403871673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.807322,40.300547,-76.807322,40.300547",
     "geom:latitude":40.300547,
     "geom:longitude":-76.807322,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4807 Lancer St",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85844549,
+        102191575,
+        404486185,
         85633793,
-        101719819,
+        101719811,
         102081347,
-        85844549
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"97f03655975ef406aaaef1f6ff7c7af9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":101719819,
+            "localadmin_id":404486185,
+            "locality_id":101719811,
             "neighbourhood_id":85844549,
             "region_id":85688481,
             "venue_id":403871673
         }
     ],
     "wof:id":403871673,
-    "wof:lastmodified":1449055058,
+    "wof:lastmodified":1454357446,
     "wof:name":"Canine Learning Ctr",
     "wof:parent_id":85844549,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "specialty"
     ]
 },
-  "bbox": [-76.807322,40.300547,-76.807322,40.300547],
+  "bbox": [
+    -76.807322,
+    40.300547,
+    -76.807322,
+    40.300547
+],
   "geometry": {"coordinates":[-76.807322,40.300547],"type":"Point"}
 }

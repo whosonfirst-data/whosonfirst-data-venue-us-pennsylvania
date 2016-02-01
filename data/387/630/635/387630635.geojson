@@ -2,13 +2,14 @@
   "id": 387630635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.669362,40.416045,-79.669362,40.416045",
     "geom:latitude":40.416045,
     "geom:longitude":-79.669362,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3012 Hillcrest Ln",
     "sg:city":"Export",
     "sg:classifiers":[
@@ -38,11 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85836835,
+        102191575,
+        404487539,
         85633793,
         101717149,
         102081383,
-        85836835
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,9 +55,10 @@
     "wof:geomhash":"34c3a9b4ac90baf1831d9050a186a86c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081383,
+            "localadmin_id":404487539,
             "locality_id":101717149,
             "neighbourhood_id":85836835,
             "region_id":85688481,
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":387630635,
-    "wof:lastmodified":1449057458,
+    "wof:lastmodified":1454359140,
     "wof:name":"Interior Drywall",
     "wof:parent_id":85836835,
     "wof:placetype":"venue",
@@ -78,6 +82,11 @@
         "drywall"
     ]
 },
-  "bbox": [-79.669362,40.416045,-79.669362,40.416045],
-  "geometry": {"coordinates":[-79.669362,40.416045],"type":"Point"}
+  "bbox": [
+    -79.669362,
+    40.416045,
+    -79.669362,
+    40.416045
+],
+  "geometry": {"coordinates":[-79.66936200000001,40.416045],"type":"Point"}
 }

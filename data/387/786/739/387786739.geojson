@@ -2,13 +2,14 @@
   "id": 387786739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.834229,41.398272,-79.834229,41.398272",
     "geom:latitude":41.398272,
     "geom:longitude":-79.834229,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1416 Liberty St",
     "sg:city":"Franklin",
     "sg:classifiers":[
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420539847,
+        102191575,
+        404487609,
         85633793,
-        101717333,
-        102081279
+        101717321,
+        102081279,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,20 @@
     "wof:geomhash":"22515f90dc8f29a349b59a0813f91a49",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081279,
-            "locality_id":101717333,
-            "neighbourhood_id":-1,
+            "localadmin_id":404487609,
+            "locality_id":101717321,
+            "neighbourhood_id":420539847,
             "region_id":85688481,
             "venue_id":387786739
         }
     ],
     "wof:id":387786739,
-    "wof:lastmodified":1449056600,
+    "wof:lastmodified":1454358473,
     "wof:name":"Fed Ex Ground Bill",
-    "wof:parent_id":-1,
+    "wof:parent_id":420539847,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -69,6 +74,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.834229,41.398272,-79.834229,41.398272],
-  "geometry": {"coordinates":[-79.834229,41.398272],"type":"Point"}
+  "bbox": [
+    -79.834229,
+    41.398272,
+    -79.834229,
+    41.398272
+],
+  "geometry": {"coordinates":[-79.83422899999999,41.398272],"type":"Point"}
 }

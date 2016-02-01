@@ -2,13 +2,14 @@
   "id": 403902947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.823888,40.309183,-76.823888,40.309183",
     "geom:latitude":40.309183,
     "geom:longitude":-76.823888,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"712 Colonial Rd Colonial Crossings",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     "sg:website":"www.ediblearrangements.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85824251,
+        102191575,
+        404486185,
         85633793,
+        101719811,
         102081347,
-        85824251
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +45,18 @@
     "wof:geomhash":"d7f8be9c18580f5119eff7402458a863",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
+            "localadmin_id":404486185,
+            "locality_id":101719811,
             "neighbourhood_id":85824251,
             "region_id":85688481,
             "venue_id":403902947
         }
     ],
     "wof:id":403902947,
-    "wof:lastmodified":1449055604,
+    "wof:lastmodified":1454357775,
     "wof:name":"Edible Arrangements",
     "wof:parent_id":85824251,
     "wof:placetype":"venue",
@@ -61,6 +66,11 @@
         "veggie"
     ]
 },
-  "bbox": [-76.823888,40.309183,-76.823888,40.309183],
+  "bbox": [
+    -76.823888,
+    40.309183,
+    -76.823888,
+    40.309183
+],
   "geometry": {"coordinates":[-76.823888,40.309183],"type":"Point"}
 }

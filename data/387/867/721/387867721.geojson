@@ -2,13 +2,14 @@
   "id": 387867721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.64521,41.959438,-78.64521,41.959438",
     "geom:latitude":41.959438,
     "geom:longitude":-78.64521,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"100 DAVIS ST",
     "sg:city":"BRADFORD",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080951,
-        85824425
+        85824425,
+        102080951
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"76902f1d603c5602081170543a57b0e8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080951,
-            "locality_id":-1,
             "neighbourhood_id":85824425,
             "region_id":85688481,
             "venue_id":387867721
         }
     ],
     "wof:id":387867721,
-    "wof:lastmodified":1449057755,
+    "wof:lastmodified":1454360582,
     "wof:name":"Best Western Bradford Inn",
     "wof:parent_id":85824425,
     "wof:placetype":"venue",
@@ -61,6 +60,11 @@
         "lodging"
     ]
 },
-  "bbox": [-78.64521,41.959438,-78.64521,41.959438],
-  "geometry": {"coordinates":[-78.64521,41.959438],"type":"Point"}
+  "bbox": [
+    -78.64521,
+    41.959438,
+    -78.64521,
+    41.959438
+],
+  "geometry": {"coordinates":[-78.64521000000001,41.959438],"type":"Point"}
 }

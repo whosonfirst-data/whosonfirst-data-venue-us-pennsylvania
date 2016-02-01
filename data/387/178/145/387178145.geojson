@@ -2,13 +2,14 @@
   "id": 387178145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.29451,40.720463,-80.29451,40.720463",
     "geom:latitude":40.720463,
     "geom:longitude":-80.29451,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"113 Radcliff Ln",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -61,7 +62,6 @@
     "wof:geomhash":"c5188fc15dc35f274956385a7b524073",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081323,
             "locality_id":101718357,
@@ -71,7 +71,7 @@
         }
     ],
     "wof:id":387178145,
-    "wof:lastmodified":1449058838,
+    "wof:lastmodified":1454360900,
     "wof:name":"Precise Automotive",
     "wof:parent_id":85832471,
     "wof:placetype":"venue",
@@ -91,6 +91,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-80.29451,40.720463,-80.29451,40.720463],
+  "bbox": [
+    -80.29451,
+    40.720463,
+    -80.29451,
+    40.720463
+],
   "geometry": {"coordinates":[-80.29451,40.720463],"type":"Point"}
 }

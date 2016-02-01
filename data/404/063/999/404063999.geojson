@@ -2,13 +2,14 @@
   "id": 404063999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.428656,40.231121,-76.428656,40.231121",
     "geom:latitude":40.231121,
     "geom:longitude":-76.428656,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"106 Engle Ln",
     "sg:city":"Manheim",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85836395
+        85836395,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"8ca19a1654b7845af943a175b7a784dd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85836395,
             "region_id":85688481,
             "venue_id":404063999
         }
     ],
     "wof:id":404063999,
-    "wof:lastmodified":1449039125,
+    "wof:lastmodified":1454356456,
     "wof:name":"Matthews R Terry Auctioneers",
     "wof:parent_id":85836395,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "auctioneer"
     ]
 },
-  "bbox": [-76.428656,40.231121,-76.428656,40.231121],
+  "bbox": [
+    -76.428656,
+    40.231121,
+    -76.428656,
+    40.231121
+],
   "geometry": {"coordinates":[-76.428656,40.231121],"type":"Point"}
 }

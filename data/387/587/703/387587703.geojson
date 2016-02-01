@@ -2,13 +2,14 @@
   "id": 387587703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.722641,39.900299,-79.722641,39.900299",
     "geom:latitude":39.900299,
     "geom:longitude":-79.722641,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"55 E Church St",
     "sg:city":"Uniontown",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85850161,
+        102191575,
+        404487055,
         85633793,
+        101719799,
         102080959,
-        85850161
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +44,18 @@
     "wof:geomhash":"d0dc0487cf3641ba7471da24b85f769c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080959,
-            "locality_id":-1,
+            "localadmin_id":404487055,
+            "locality_id":101719799,
             "neighbourhood_id":85850161,
             "region_id":85688481,
             "venue_id":387587703
         }
     ],
     "wof:id":387587703,
-    "wof:lastmodified":1449057402,
+    "wof:lastmodified":1454359099,
     "wof:name":"Coldren & Adams",
     "wof:parent_id":85850161,
     "wof:placetype":"venue",
@@ -60,6 +65,11 @@
         "plan"
     ]
 },
-  "bbox": [-79.722641,39.900299,-79.722641,39.900299],
+  "bbox": [
+    -79.722641,
+    39.900299,
+    -79.722641,
+    39.900299
+],
   "geometry": {"coordinates":[-79.722641,39.900299],"type":"Point"}
 }

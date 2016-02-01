@@ -2,13 +2,14 @@
   "id": 387674733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.923074,40.327361,-78.923074,40.327361",
     "geom:latitude":40.327361,
     "geom:longitude":-78.923074,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"206 Main St",
     "sg:city":"Johnstown",
     "sg:classifiers":[
@@ -42,11 +43,13 @@
     "sg:website":"http://www.mcquillanlaw.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85828219,
+        102191575,
+        404485493,
         85633793,
-        101717809,
+        101717777,
         102080879,
-        85828219
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,17 +59,18 @@
     "wof:geomhash":"9ef00b5a13ff0c3caefb2ff982b37086",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080879,
-            "locality_id":101717809,
+            "localadmin_id":404485493,
+            "locality_id":101717777,
             "neighbourhood_id":85828219,
             "region_id":85688481,
             "venue_id":387674733
         }
     ],
     "wof:id":387674733,
-    "wof:lastmodified":1449058952,
+    "wof:lastmodified":1454360937,
     "wof:name":"Attorney Art McQuillan",
     "wof:parent_id":85828219,
     "wof:placetype":"venue",
@@ -85,6 +89,11 @@
         "law"
     ]
 },
-  "bbox": [-78.923074,40.327361,-78.923074,40.327361],
+  "bbox": [
+    -78.923074,
+    40.327361,
+    -78.923074,
+    40.327361
+],
   "geometry": {"coordinates":[-78.923074,40.327361],"type":"Point"}
 }

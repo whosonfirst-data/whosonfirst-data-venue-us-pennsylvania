@@ -2,13 +2,14 @@
   "id": 387622129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.575058,40.306622,-79.575058,40.306622",
     "geom:latitude":40.306622,
     "geom:longitude":-79.575058,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"801 N Greengate Rd Ste 350",
     "sg:city":"Greensburg",
     "sg:classifiers":[
@@ -49,8 +50,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081383,
-        85843595
+        85843595,
+        102081383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,17 +61,15 @@
     "wof:geomhash":"b83e25d7cc97b9ac36b5ebb8783fcf8c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":-1,
             "neighbourhood_id":85843595,
             "region_id":85688481,
             "venue_id":387622129
         }
     ],
     "wof:id":387622129,
-    "wof:lastmodified":1449059237,
+    "wof:lastmodified":1454361017,
     "wof:name":"Vittone's Music Center",
     "wof:parent_id":85843595,
     "wof:placetype":"venue",
@@ -84,6 +83,11 @@
         "organ"
     ]
 },
-  "bbox": [-79.575058,40.306622,-79.575058,40.306622],
+  "bbox": [
+    -79.575058,
+    40.306622,
+    -79.575058,
+    40.306622
+],
   "geometry": {"coordinates":[-79.575058,40.306622],"type":"Point"}
 }

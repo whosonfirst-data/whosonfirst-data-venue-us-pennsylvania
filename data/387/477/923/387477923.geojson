@@ -2,13 +2,14 @@
   "id": 387477923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.016602,40.358898,-80.016602,40.358898",
     "geom:latitude":40.358898,
     "geom:longitude":-80.016602,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1524 Hamilton Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85830717,
+        102191575,
+        404484869,
         85633793,
         101718761,
         102080887,
-        85830717
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"8dbaed9cc8484bb48c8f7b5601f0aa29",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484869,
             "locality_id":101718761,
             "neighbourhood_id":85830717,
             "region_id":85688481,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":387477923,
-    "wof:lastmodified":1449056754,
+    "wof:lastmodified":1454358584,
     "wof:name":"Bethel Park School District",
     "wof:parent_id":85830717,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "elementary"
     ]
 },
-  "bbox": [-80.016602,40.358898,-80.016602,40.358898],
-  "geometry": {"coordinates":[-80.016602,40.358898],"type":"Point"}
+  "bbox": [
+    -80.016602,
+    40.358898,
+    -80.016602,
+    40.358898
+],
+  "geometry": {"coordinates":[-80.01660200000001,40.358898],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387243525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.222861,40.513027,-80.222861,40.513027",
     "geom:latitude":40.513027,
     "geom:longitude":-80.222861,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"202 Moon Clinton Rd",
     "sg:city":"Coraopolis",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"http://www.angeliasmoon.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85809567,
+        102191575,
+        404484137,
         85633793,
         101720527,
         102080887,
-        85809567
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"e01f62bbc00c26a97b15b6d2af7dc54e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484137,
             "locality_id":101720527,
             "neighbourhood_id":85809567,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387243525,
-    "wof:lastmodified":1449057335,
+    "wof:lastmodified":1454359035,
     "wof:name":"Angelia's Pizza",
     "wof:parent_id":85809567,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "pizza"
     ]
 },
-  "bbox": [-80.222861,40.513027,-80.222861,40.513027],
-  "geometry": {"coordinates":[-80.222861,40.513027],"type":"Point"}
+  "bbox": [
+    -80.222861,
+    40.513027,
+    -80.222861,
+    40.513027
+],
+  "geometry": {"coordinates":[-80.22286099999999,40.513027],"type":"Point"}
 }

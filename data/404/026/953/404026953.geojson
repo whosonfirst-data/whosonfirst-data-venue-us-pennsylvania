@@ -2,13 +2,14 @@
   "id": 404026953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.769757,40.031121,-76.769757,40.031121",
     "geom:latitude":40.031121,
     "geom:longitude":-76.769757,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3610 Lewisberry Rd",
     "sg:city":"York",
     "sg:classifiers":[
@@ -48,8 +49,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080953,
-        85846231
+        85846231,
+        102080953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,17 +60,15 @@
     "wof:geomhash":"cb3252d2b32e3c497bb99a49f2f0e98f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
             "neighbourhood_id":85846231,
             "region_id":85688481,
             "venue_id":404026953
         }
     ],
     "wof:id":404026953,
-    "wof:lastmodified":1449039826,
+    "wof:lastmodified":1454356826,
     "wof:name":"Beck's Ice Cream Parlor",
     "wof:parent_id":85846231,
     "wof:placetype":"venue",
@@ -83,6 +82,11 @@
         "foods-wholesale"
     ]
 },
-  "bbox": [-76.769757,40.031121,-76.769757,40.031121],
+  "bbox": [
+    -76.769757,
+    40.031121,
+    -76.769757,
+    40.031121
+],
   "geometry": {"coordinates":[-76.769757,40.031121],"type":"Point"}
 }

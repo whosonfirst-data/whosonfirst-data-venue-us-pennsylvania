@@ -2,13 +2,14 @@
   "id": 404125433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.411116,40.906344,-76.411116,40.906344",
     "geom:latitude":40.906344,
     "geom:longitude":-76.411116,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"258 Slabtown Rd",
     "sg:city":"Catawissa",
     "sg:classifiers":[
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420537581,
+        102191575,
+        404485395,
         85633793,
         101720251,
-        102080973
+        102080973,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,20 @@
     "wof:geomhash":"c00115b441478d8018f8f30daa9c315c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080973,
+            "localadmin_id":404485395,
             "locality_id":101720251,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420537581,
             "region_id":85688481,
             "venue_id":404125433
         }
     ],
     "wof:id":404125433,
-    "wof:lastmodified":1449040283,
+    "wof:lastmodified":1454357110,
     "wof:name":"Roaring Creek Pallet & Crate",
-    "wof:parent_id":-1,
+    "wof:parent_id":420537581,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -67,6 +72,11 @@
         "skid"
     ]
 },
-  "bbox": [-76.411116,40.906344,-76.411116,40.906344],
-  "geometry": {"coordinates":[-76.411116,40.906344],"type":"Point"}
+  "bbox": [
+    -76.411116,
+    40.906344,
+    -76.411116,
+    40.906344
+],
+  "geometry": {"coordinates":[-76.41111600000001,40.906344],"type":"Point"}
 }

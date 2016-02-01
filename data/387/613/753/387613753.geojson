@@ -2,13 +2,14 @@
   "id": 387613753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.031669,39.817368,-79.031669,39.817368",
     "geom:latitude":39.817368,
     "geom:longitude":-79.031669,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"620 2nd St",
     "sg:city":"Meyersdale",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081361,
-        85821623
+        85821623,
+        102081361
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"3e910653d19f30e93358c7481af07edd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081361,
-            "locality_id":-1,
             "neighbourhood_id":85821623,
             "region_id":85688481,
             "venue_id":387613753
         }
     ],
     "wof:id":387613753,
-    "wof:lastmodified":1449057875,
+    "wof:lastmodified":1454360619,
     "wof:name":"Meyersdale Borough Shed",
     "wof:parent_id":85821623,
     "wof:placetype":"venue",
@@ -64,6 +63,11 @@
         "village"
     ]
 },
-  "bbox": [-79.031669,39.817368,-79.031669,39.817368],
-  "geometry": {"coordinates":[-79.031669,39.817368],"type":"Point"}
+  "bbox": [
+    -79.031669,
+    39.817368,
+    -79.031669,
+    39.817368
+],
+  "geometry": {"coordinates":[-79.03166899999999,39.817368],"type":"Point"}
 }

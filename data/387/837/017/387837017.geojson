@@ -2,13 +2,14 @@
   "id": 387837017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.145333,42.085224,-80.145333,42.085224",
     "geom:latitude":42.085224,
     "geom:longitude":-80.145333,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3202 W 26th St Erie",
     "sg:city":"Erie",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080955,
-        85810495
+        85810495,
+        102080955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"f92e3c6c6c341d43ea21849e76d99d3b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080955,
-            "locality_id":-1,
             "neighbourhood_id":85810495,
             "region_id":85688481,
             "venue_id":387837017
         }
     ],
     "wof:id":387837017,
-    "wof:lastmodified":1449056695,
+    "wof:lastmodified":1454358548,
     "wof:name":"Glass House Inn",
     "wof:parent_id":85810495,
     "wof:placetype":"venue",
@@ -68,6 +67,11 @@
         "lodging"
     ]
 },
-  "bbox": [-80.145333,42.085224,-80.145333,42.085224],
-  "geometry": {"coordinates":[-80.145333,42.085224],"type":"Point"}
+  "bbox": [
+    -80.145333,
+    42.085224,
+    -80.145333,
+    42.085224
+],
+  "geometry": {"coordinates":[-80.14533299999999,42.085224],"type":"Point"}
 }

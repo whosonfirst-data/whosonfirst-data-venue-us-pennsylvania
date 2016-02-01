@@ -2,13 +2,14 @@
   "id": 403981987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.231017,39.823366,-77.231017,39.823366",
     "geom:latitude":39.823366,
     "geom:longitude":-77.231017,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"504 Baltimore St",
     "sg:city":"Gettysburg",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080899,
-        85804527
+        85804527,
+        102080899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"8231d645eebafc1a85bfc64f1c84bcb5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080899,
-            "locality_id":-1,
             "neighbourhood_id":85804527,
             "region_id":85688481,
             "venue_id":403981987
         }
     ],
     "wof:id":403981987,
-    "wof:lastmodified":1449055994,
+    "wof:lastmodified":1454357998,
     "wof:name":"Irish Brigade Gift Shop",
     "wof:parent_id":85804527,
     "wof:placetype":"venue",
@@ -68,6 +67,11 @@
         "store"
     ]
 },
-  "bbox": [-77.231017,39.823366,-77.231017,39.823366],
-  "geometry": {"coordinates":[-77.231017,39.823366],"type":"Point"}
+  "bbox": [
+    -77.231017,
+    39.823366,
+    -77.231017,
+    39.823366
+],
+  "geometry": {"coordinates":[-77.23101699999999,39.823366],"type":"Point"}
 }

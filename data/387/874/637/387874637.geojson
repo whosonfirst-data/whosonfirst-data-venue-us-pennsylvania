@@ -2,13 +2,14 @@
   "id": 387874637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.749832,40.914519,-77.749832,40.914519",
     "geom:latitude":40.914519,
     "geom:longitude":-77.749832,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"205 Park Pl Ste 4",
     "sg:city":"Bellefonte",
     "sg:classifiers":[
@@ -40,11 +41,13 @@
     "sg:website":"http://www.selectmedicalcorp.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85840619,
+        102191575,
+        404485871,
         85633793,
         101718145,
         102081369,
-        85840619
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,9 +57,10 @@
     "wof:geomhash":"efde709d32c1d2977963954900add469",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081369,
+            "localadmin_id":404485871,
             "locality_id":101718145,
             "neighbourhood_id":85840619,
             "region_id":85688481,
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":387874637,
-    "wof:lastmodified":1449059672,
+    "wof:lastmodified":1454361155,
     "wof:name":"Healthsouth",
     "wof:parent_id":85840619,
     "wof:placetype":"venue",
@@ -81,6 +85,11 @@
         "physical"
     ]
 },
-  "bbox": [-77.749832,40.914519,-77.749832,40.914519],
+  "bbox": [
+    -77.749832,
+    40.914519,
+    -77.749832,
+    40.914519
+],
   "geometry": {"coordinates":[-77.749832,40.914519],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404032979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.706785,39.887032,-76.706785,39.887032",
     "geom:latitude":39.887032,
     "geom:longitude":-76.706785,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"212 York Rd",
     "sg:city":"York",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080953,
-        85844343
+        85844343,
+        102080953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"d13f5672f6dc45a26ae7139182798320",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
             "neighbourhood_id":85844343,
             "region_id":85688481,
             "venue_id":404032979
         }
     ],
     "wof:id":404032979,
-    "wof:lastmodified":1449039623,
+    "wof:lastmodified":1454356740,
     "wof:name":"Cr Spine Welding",
     "wof:parent_id":85844343,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "welder"
     ]
 },
-  "bbox": [-76.706785,39.887032,-76.706785,39.887032],
+  "bbox": [
+    -76.706785,
+    39.887032,
+    -76.706785,
+    39.887032
+],
   "geometry": {"coordinates":[-76.706785,39.887032],"type":"Point"}
 }

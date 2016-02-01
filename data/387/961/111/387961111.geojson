@@ -2,13 +2,14 @@
   "id": 387961111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.590359,40.141494,-76.590359,40.141494",
     "geom:latitude":40.141494,
     "geom:longitude":-76.590359,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1230 S Mount Joy St",
     "sg:city":"Elizabethtown",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85803077
+        85803077,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"86ac49a928b72a5683e1178dfaab4ec3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85803077,
             "region_id":85688481,
             "venue_id":387961111
         }
     ],
     "wof:id":387961111,
-    "wof:lastmodified":1449059849,
+    "wof:lastmodified":1454361209,
     "wof:name":"A1 Waterproofing",
     "wof:parent_id":85803077,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-76.590359,40.141494,-76.590359,40.141494],
-  "geometry": {"coordinates":[-76.590359,40.141494],"type":"Point"}
+  "bbox": [
+    -76.590359,
+    40.141494,
+    -76.590359,
+    40.141494
+],
+  "geometry": {"coordinates":[-76.59035900000001,40.141494],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387705333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.92378,40.78516,-79.92378,40.78516",
     "geom:latitude":40.78516,
     "geom:longitude":-79.92378,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1261 Lake Vue Dr",
     "sg:city":"Butler",
     "sg:classifiers":[
@@ -34,8 +35,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102083677,
-        85833131
+        85833131,
+        102083677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +46,15 @@
     "wof:geomhash":"ef4b839919bf2f18ccc6b7bb3b758f22",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102083677,
-            "locality_id":-1,
             "neighbourhood_id":85833131,
             "region_id":85688481,
             "venue_id":387705333
         }
     ],
     "wof:id":387705333,
-    "wof:lastmodified":1449059942,
+    "wof:lastmodified":1454361239,
     "wof:name":"Jones Ronald D Financial Svcs",
     "wof:parent_id":85833131,
     "wof:placetype":"venue",
@@ -65,6 +64,11 @@
         "financing"
     ]
 },
-  "bbox": [-79.92378,40.78516,-79.92378,40.78516],
-  "geometry": {"coordinates":[-79.92378,40.78516],"type":"Point"}
+  "bbox": [
+    -79.92378,
+    40.78516,
+    -79.92378,
+    40.78516
+],
+  "geometry": {"coordinates":[-79.92377999999999,40.78516],"type":"Point"}
 }

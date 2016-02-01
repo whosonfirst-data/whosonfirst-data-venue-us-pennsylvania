@@ -2,13 +2,14 @@
   "id": 387357077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.995694,40.442394,-79.995694,40.442394",
     "geom:latitude":40.442394,
     "geom:longitude":-79.995694,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"436 7th Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -39,11 +40,13 @@
     "sg:website":"http://unionlawyers.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85873585,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85873585
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,9 +56,10 @@
     "wof:geomhash":"44b3ffa134999aabdcc872612c3ba00f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85873585,
             "region_id":85688481,
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":387357077,
-    "wof:lastmodified":1449059452,
+    "wof:lastmodified":1454361083,
     "wof:name":"Healey and Hornack PC",
     "wof:parent_id":85873585,
     "wof:placetype":"venue",
@@ -84,6 +88,11 @@
         "employment"
     ]
 },
-  "bbox": [-79.995694,40.442394,-79.995694,40.442394],
+  "bbox": [
+    -79.995694,
+    40.442394,
+    -79.995694,
+    40.442394
+],
   "geometry": {"coordinates":[-79.995694,40.442394],"type":"Point"}
 }

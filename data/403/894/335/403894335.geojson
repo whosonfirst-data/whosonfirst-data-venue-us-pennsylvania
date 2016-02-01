@@ -2,13 +2,14 @@
   "id": 403894335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.811768,40.24757,-76.811768,40.24757",
     "geom:latitude":40.24757,
     "geom:longitude":-76.811768,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"499 Eisenhower Blvd",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -43,8 +44,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85839023
+        85839023,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,17 +55,15 @@
     "wof:geomhash":"6d2525bb77417a9a6065ae7e67db2513",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85839023,
             "region_id":85688481,
             "venue_id":403894335
         }
     ],
     "wof:id":403894335,
-    "wof:lastmodified":1449055174,
+    "wof:lastmodified":1454357511,
     "wof:name":"Monro Muffler Brake & Service",
     "wof:parent_id":85839023,
     "wof:placetype":"venue",
@@ -82,6 +81,11 @@
         "muffler"
     ]
 },
-  "bbox": [-76.811768,40.24757,-76.811768,40.24757],
+  "bbox": [
+    -76.811768,
+    40.24757,
+    -76.811768,
+    40.24757
+],
   "geometry": {"coordinates":[-76.811768,40.24757],"type":"Point"}
 }

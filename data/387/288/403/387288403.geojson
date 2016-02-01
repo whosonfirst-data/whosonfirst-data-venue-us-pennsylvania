@@ -2,13 +2,14 @@
   "id": 387288403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.164772,40.448521,-80.164772,40.448521",
     "geom:latitude":40.448521,
     "geom:longitude":-80.164772,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1 Robinson Plz # 1",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -33,8 +34,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85821263
+        85821263,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +45,15 @@
     "wof:geomhash":"3aad996fd4aba09bf6e502fddfcab85a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85821263,
             "region_id":85688481,
             "venue_id":387288403
         }
     ],
     "wof:id":387288403,
-    "wof:lastmodified":1449056510,
+    "wof:lastmodified":1454358406,
     "wof:name":"Red Lobster",
     "wof:parent_id":85821263,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "family"
     ]
 },
-  "bbox": [-80.164772,40.448521,-80.164772,40.448521],
+  "bbox": [
+    -80.164772,
+    40.448521,
+    -80.164772,
+    40.448521
+],
   "geometry": {"coordinates":[-80.164772,40.448521],"type":"Point"}
 }

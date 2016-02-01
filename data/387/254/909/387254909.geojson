@@ -2,13 +2,14 @@
   "id": 387254909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.856506,40.344452,-79.856506,40.344452",
     "geom:latitude":40.344452,
     "geom:longitude":-79.856506,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1600 Coursin St Ste 100",
     "sg:city":"Mckeesport",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85845081,
+        102191575,
+        404484971,
         85633793,
         101718847,
         102080887,
-        85845081
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"710dccb7b9f74a3269205c3cce79da39",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484971,
             "locality_id":101718847,
             "neighbourhood_id":85845081,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387254909,
-    "wof:lastmodified":1449058725,
+    "wof:lastmodified":1454360864,
     "wof:name":"Toy Fuzz, Inc.",
     "wof:parent_id":85845081,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "supply"
     ]
 },
-  "bbox": [-79.856506,40.344452,-79.856506,40.344452],
+  "bbox": [
+    -79.856506,
+    40.344452,
+    -79.856506,
+    40.344452
+],
   "geometry": {"coordinates":[-79.856506,40.344452],"type":"Point"}
 }

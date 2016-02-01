@@ -2,13 +2,14 @@
   "id": 404087815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.246638,40.012923,-76.246638,40.012923",
     "geom:latitude":40.012923,
     "geom:longitude":-76.246638,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1765 Windy Hill Rd",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85823025
+        85823025,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"783f12fd711217adcf68bfaf898440b3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85823025,
             "region_id":85688481,
             "venue_id":404087815
         }
     ],
     "wof:id":404087815,
-    "wof:lastmodified":1449039568,
+    "wof:lastmodified":1454356718,
     "wof:name":"Amsoil Synthetic Lubr Distr",
     "wof:parent_id":85823025,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "lubricant"
     ]
 },
-  "bbox": [-76.246638,40.012923,-76.246638,40.012923],
+  "bbox": [
+    -76.246638,
+    40.012923,
+    -76.246638,
+    40.012923
+],
   "geometry": {"coordinates":[-76.246638,40.012923],"type":"Point"}
 }

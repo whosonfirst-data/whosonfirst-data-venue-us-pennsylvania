@@ -2,13 +2,14 @@
   "id": 387143151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.854555,40.256004,-79.854555,40.256004",
     "geom:latitude":40.256004,
     "geom:longitude":-79.854555,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1000 Weigles Hill Rd",
     "sg:city":"Elizabeth",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85825513
+        85825513,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"ebf98a12207744e5f2dc347942c6cb2b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85825513,
             "region_id":85688481,
             "venue_id":387143151
         }
     ],
     "wof:id":387143151,
-    "wof:lastmodified":1449059277,
+    "wof:lastmodified":1454361031,
     "wof:name":"Elizabeth Forward School District",
     "wof:parent_id":85825513,
     "wof:placetype":"venue",
@@ -64,6 +63,11 @@
         "elementary"
     ]
 },
-  "bbox": [-79.854555,40.256004,-79.854555,40.256004],
+  "bbox": [
+    -79.854555,
+    40.256004,
+    -79.854555,
+    40.256004
+],
   "geometry": {"coordinates":[-79.854555,40.256004],"type":"Point"}
 }

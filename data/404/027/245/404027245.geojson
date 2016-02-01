@@ -2,13 +2,14 @@
   "id": 404027245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.771902,40.021559,-76.771902,40.021559",
     "geom:latitude":40.021559,
     "geom:longitude":-76.771902,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1080 Cherimoya St",
     "sg:city":"York",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080953,
-        85846231
+        85846231,
+        102080953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"bc6141d0acc1834b6fdd77b3bda739bb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
             "neighbourhood_id":85846231,
             "region_id":85688481,
             "venue_id":404027245
         }
     ],
     "wof:id":404027245,
-    "wof:lastmodified":1449039265,
+    "wof:lastmodified":1454356543,
     "wof:name":"Alliance Mortgage Funding Inc",
     "wof:parent_id":85846231,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "financing"
     ]
 },
-  "bbox": [-76.771902,40.021559,-76.771902,40.021559],
+  "bbox": [
+    -76.771902,
+    40.021559,
+    -76.771902,
+    40.021559
+],
   "geometry": {"coordinates":[-76.771902,40.021559],"type":"Point"}
 }

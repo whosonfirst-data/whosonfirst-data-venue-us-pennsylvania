@@ -2,13 +2,14 @@
   "id": 404053717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.410362,40.09531,-76.410362,40.09531",
     "geom:latitude":40.09531,
     "geom:longitude":-76.410362,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"301 Main St Suite F",
     "sg:city":"Landisville",
     "sg:classifiers":[
@@ -49,8 +50,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85833625
+        85833625,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,17 +61,15 @@
     "wof:geomhash":"53e7592e4c44a731fed59ef99e563456",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85833625,
             "region_id":85688481,
             "venue_id":404053717
         }
     ],
     "wof:id":404053717,
-    "wof:lastmodified":1449039265,
+    "wof:lastmodified":1454356544,
     "wof:name":"Allstate Insurance Company - Douglas A Moyer",
     "wof:parent_id":85833625,
     "wof:placetype":"venue",
@@ -85,6 +84,11 @@
         "renter"
     ]
 },
-  "bbox": [-76.410362,40.09531,-76.410362,40.09531],
-  "geometry": {"coordinates":[-76.410362,40.09531],"type":"Point"}
+  "bbox": [
+    -76.410362,
+    40.09531,
+    -76.410362,
+    40.09531
+],
+  "geometry": {"coordinates":[-76.41036200000001,40.09531],"type":"Point"}
 }

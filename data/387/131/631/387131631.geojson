@@ -2,13 +2,14 @@
   "id": 387131631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.940262,40.32383,-79.940262,40.32383",
     "geom:latitude":40.32383,
     "geom:longitude":-79.940262,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"555 N Lewis Run Rd",
     "sg:city":"Clairton",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85834159,
+        102191575,
+        404484243,
         85633793,
         101718717,
         102080887,
-        85834159
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"82a4b5623a81d49314c8da80027c9202",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484243,
             "locality_id":101718717,
             "neighbourhood_id":85834159,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387131631,
-    "wof:lastmodified":1449057244,
+    "wof:lastmodified":1454358960,
     "wof:name":"Wesley Acute Partl Hosp Prgrm",
     "wof:parent_id":85834159,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "mental"
     ]
 },
-  "bbox": [-79.940262,40.32383,-79.940262,40.32383],
+  "bbox": [
+    -79.940262,
+    40.32383,
+    -79.940262,
+    40.32383
+],
   "geometry": {"coordinates":[-79.940262,40.32383],"type":"Point"}
 }

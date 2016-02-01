@@ -2,13 +2,14 @@
   "id": 387644891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.631744,40.619389,-79.631744,40.619389",
     "geom:latitude":40.619389,
     "geom:longitude":-79.631744,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"87 Maple St",
     "sg:city":"Leechburg",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081383,
-        85822365
+        85822365,
+        102081383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"33df919303e4fb4ee2cb2b66a8ba37ba",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":-1,
             "neighbourhood_id":85822365,
             "region_id":85688481,
             "venue_id":387644891
         }
     ],
     "wof:id":387644891,
-    "wof:lastmodified":1449058283,
+    "wof:lastmodified":1454360734,
     "wof:name":"Jims Plumbing And Heating",
     "wof:parent_id":85822365,
     "wof:placetype":"venue",
@@ -64,6 +63,11 @@
         "contractors-commercial"
     ]
 },
-  "bbox": [-79.631744,40.619389,-79.631744,40.619389],
+  "bbox": [
+    -79.631744,
+    40.619389,
+    -79.631744,
+    40.619389
+],
   "geometry": {"coordinates":[-79.631744,40.619389],"type":"Point"}
 }

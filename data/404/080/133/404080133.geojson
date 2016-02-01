@@ -2,13 +2,14 @@
   "id": 404080133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.413673,40.050671,-76.413673,40.050671",
     "geom:latitude":40.050671,
     "geom:longitude":-76.413673,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3260 Greenridge Dr",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85814875
+        85814875,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"dd8f53db9b4ec504790174f0787abbc2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85814875,
             "region_id":85688481,
             "venue_id":404080133
         }
     ],
     "wof:id":404080133,
-    "wof:lastmodified":1449040302,
+    "wof:lastmodified":1454357122,
     "wof:name":"The Garden Gate",
     "wof:parent_id":85814875,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-76.413673,40.050671,-76.413673,40.050671],
+  "bbox": [
+    -76.413673,
+    40.050671,
+    -76.413673,
+    40.050671
+],
   "geometry": {"coordinates":[-76.413673,40.050671],"type":"Point"}
 }

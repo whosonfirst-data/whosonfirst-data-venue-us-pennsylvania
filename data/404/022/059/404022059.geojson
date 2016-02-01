@@ -2,13 +2,14 @@
   "id": 404022059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.713808,39.963759,-76.713808,39.963759",
     "geom:latitude":39.963759,
     "geom:longitude":-76.713808,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"617 E Princess St",
     "sg:city":"York",
     "sg:classifiers":[
@@ -39,10 +40,13 @@
     "sg:website":"http://www.adventist.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85850705,
+        102191575,
+        404488029,
         85633793,
+        101717279,
         102080953,
-        85850705
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,17 +56,18 @@
     "wof:geomhash":"a2ec0ef756c4f6037e08b6f33f426463",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
+            "localadmin_id":404488029,
+            "locality_id":101717279,
             "neighbourhood_id":85850705,
             "region_id":85688481,
             "venue_id":404022059
         }
     ],
     "wof:id":404022059,
-    "wof:lastmodified":1449039410,
+    "wof:lastmodified":1454356634,
     "wof:name":"Truth Tabernacle 7th Day Adventist",
     "wof:parent_id":85850705,
     "wof:placetype":"venue",
@@ -78,6 +83,11 @@
         "adventist"
     ]
 },
-  "bbox": [-76.713808,39.963759,-76.713808,39.963759],
+  "bbox": [
+    -76.713808,
+    39.963759,
+    -76.713808,
+    39.963759
+],
   "geometry": {"coordinates":[-76.713808,39.963759],"type":"Point"}
 }

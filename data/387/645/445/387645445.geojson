@@ -2,13 +2,14 @@
   "id": 387645445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.239425,40.241641,-79.239425,40.241641",
     "geom:latitude":40.241641,
     "geom:longitude":-79.239425,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"232 N Market St",
     "sg:city":"Ligonier",
     "sg:classifiers":[
@@ -33,8 +34,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081383,
-        85834295
+        85834295,
+        102081383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +45,15 @@
     "wof:geomhash":"9b858f57bb4f8b7e37cb100cdcc2667d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":-1,
             "neighbourhood_id":85834295,
             "region_id":85688481,
             "venue_id":387645445
         }
     ],
     "wof:id":387645445,
-    "wof:lastmodified":1449056490,
+    "wof:lastmodified":1454358393,
     "wof:name":"Knapp William B CPA",
     "wof:parent_id":85834295,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "accountants-certified"
     ]
 },
-  "bbox": [-79.239425,40.241641,-79.239425,40.241641],
+  "bbox": [
+    -79.239425,
+    40.241641,
+    -79.239425,
+    40.241641
+],
   "geometry": {"coordinates":[-79.239425,40.241641],"type":"Point"}
 }

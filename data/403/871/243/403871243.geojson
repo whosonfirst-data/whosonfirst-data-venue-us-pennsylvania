@@ -2,13 +2,14 @@
   "id": 403871243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.829855,40.278016,-76.829855,40.278016",
     "geom:latitude":40.278016,
     "geom:longitude":-76.829855,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3529 Union Deposit Rd",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85840955
+        85840955,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"d0bfda042be8e4ac8c3f640a89216808",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85840955,
             "region_id":85688481,
             "venue_id":403871243
         }
     ],
     "wof:id":403871243,
-    "wof:lastmodified":1449055059,
+    "wof:lastmodified":1454357445,
     "wof:name":"Texas Roadhouse",
     "wof:parent_id":85840955,
     "wof:placetype":"venue",
@@ -61,6 +60,11 @@
         "steakhouse"
     ]
 },
-  "bbox": [-76.829855,40.278016,-76.829855,40.278016],
-  "geometry": {"coordinates":[-76.829855,40.278016],"type":"Point"}
+  "bbox": [
+    -76.829855,
+    40.278016,
+    -76.829855,
+    40.278016
+],
+  "geometry": {"coordinates":[-76.82985499999999,40.278016],"type":"Point"}
 }

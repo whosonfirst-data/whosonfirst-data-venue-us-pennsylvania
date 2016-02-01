@@ -2,13 +2,14 @@
   "id": 387844815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.002186,42.107215,-80.002186,42.107215",
     "geom:latitude":42.107215,
     "geom:longitude":-80.002186,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2446 Bliley Rd",
     "sg:city":"Erie",
     "sg:classifiers":[
@@ -37,8 +38,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080955,
-        85827775
+        85827775,
+        102080955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +49,15 @@
     "wof:geomhash":"2db1e94a0c404f4d8af234b4969c79af",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080955,
-            "locality_id":-1,
             "neighbourhood_id":85827775,
             "region_id":85688481,
             "venue_id":387844815
         }
     ],
     "wof:id":387844815,
-    "wof:lastmodified":1449057730,
+    "wof:lastmodified":1454360575,
     "wof:name":"Classy Crafts",
     "wof:parent_id":85827775,
     "wof:placetype":"venue",
@@ -71,6 +70,11 @@
         "supply"
     ]
 },
-  "bbox": [-80.002186,42.107215,-80.002186,42.107215],
-  "geometry": {"coordinates":[-80.002186,42.107215],"type":"Point"}
+  "bbox": [
+    -80.002186,
+    42.107215,
+    -80.002186,
+    42.107215
+],
+  "geometry": {"coordinates":[-80.00218599999999,42.107215],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387616427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.556862,40.296273,-79.556862,40.296273",
     "geom:latitude":40.296273,
     "geom:longitude":-79.556862,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"206 Russell Ave",
     "sg:city":"Greensburg",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85809439,
+        102191575,
+        404487487,
         85633793,
-        101717119,
+        101717177,
         102081383,
-        85809439
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +51,18 @@
     "wof:geomhash":"fcd140e67237966e5936ba50c9b627fe",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":101717119,
+            "localadmin_id":404487487,
+            "locality_id":101717177,
             "neighbourhood_id":85809439,
             "region_id":85688481,
             "venue_id":387616427
         }
     ],
     "wof:id":387616427,
-    "wof:lastmodified":1449058902,
+    "wof:lastmodified":1454360923,
     "wof:name":"Beehner's Garage",
     "wof:parent_id":85809439,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "diagnostic"
     ]
 },
-  "bbox": [-79.556862,40.296273,-79.556862,40.296273],
+  "bbox": [
+    -79.556862,
+    40.296273,
+    -79.556862,
+    40.296273
+],
   "geometry": {"coordinates":[-79.556862,40.296273],"type":"Point"}
 }

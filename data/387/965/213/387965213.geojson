@@ -2,13 +2,14 @@
   "id": 387965213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.937834,40.31044,-76.937834,40.31044",
     "geom:latitude":40.31044,
     "geom:longitude":-76.937834,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"642 Mountain St",
     "sg:city":"Enola",
     "sg:classifiers":[
@@ -44,8 +45,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081359,
-        85852571
+        85852571,
+        102081359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,17 +56,15 @@
     "wof:geomhash":"43c0936aa37b027054be5ec752e1a468",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081359,
-            "locality_id":-1,
             "neighbourhood_id":85852571,
             "region_id":85688481,
             "venue_id":387965213
         }
     ],
     "wof:id":387965213,
-    "wof:lastmodified":1449058764,
+    "wof:lastmodified":1454360875,
     "wof:name":"W.E.B. Contracting Inc",
     "wof:parent_id":85852571,
     "wof:placetype":"venue",
@@ -84,6 +83,11 @@
         "kitchen"
     ]
 },
-  "bbox": [-76.937834,40.31044,-76.937834,40.31044],
+  "bbox": [
+    -76.937834,
+    40.31044,
+    -76.937834,
+    40.31044
+],
   "geometry": {"coordinates":[-76.937834,40.31044],"type":"Point"}
 }

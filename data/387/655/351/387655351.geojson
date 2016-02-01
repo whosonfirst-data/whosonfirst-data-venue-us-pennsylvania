@@ -2,13 +2,14 @@
   "id": 387655351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.189088,40.621362,-79.189088,40.621362",
     "geom:latitude":40.621362,
     "geom:longitude":-79.189088,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2020 Shelly Dr",
     "sg:city":"Indiana",
     "sg:classifiers":[
@@ -44,8 +45,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081387,
-        85821437
+        85821437,
+        102081387
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,17 +56,15 @@
     "wof:geomhash":"b84056e86969596cf2fbed08baebc34d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081387,
-            "locality_id":-1,
             "neighbourhood_id":85821437,
             "region_id":85688481,
             "venue_id":387655351
         }
     ],
     "wof:id":387655351,
-    "wof:lastmodified":1449058297,
+    "wof:lastmodified":1454360737,
     "wof:name":"Aaron's",
     "wof:parent_id":85821437,
     "wof:placetype":"venue",
@@ -79,6 +78,11 @@
         "store"
     ]
 },
-  "bbox": [-79.189088,40.621362,-79.189088,40.621362],
+  "bbox": [
+    -79.189088,
+    40.621362,
+    -79.189088,
+    40.621362
+],
   "geometry": {"coordinates":[-79.189088,40.621362],"type":"Point"}
 }

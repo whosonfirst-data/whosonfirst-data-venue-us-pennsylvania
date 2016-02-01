@@ -2,13 +2,14 @@
   "id": 387336451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.020918,40.415593,-80.020918,40.415593",
     "geom:latitude":40.415593,
     "geom:longitude":-80.020918,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"810 Rockland Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     "sg:website":"www.pghboe.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85805277,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85805277
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"b07359a3cebb918ad5b6bbb40f1e6b57",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85805277,
             "region_id":85688481,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":387336451,
-    "wof:lastmodified":1449056037,
+    "wof:lastmodified":1454358032,
     "wof:name":"Pittsburgh Public Schools",
     "wof:parent_id":85805277,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "elementary"
     ]
 },
-  "bbox": [-80.020918,40.415593,-80.020918,40.415593],
-  "geometry": {"coordinates":[-80.020918,40.415593],"type":"Point"}
+  "bbox": [
+    -80.020918,
+    40.415593,
+    -80.020918,
+    40.415593
+],
+  "geometry": {"coordinates":[-80.02091799999999,40.415593],"type":"Point"}
 }

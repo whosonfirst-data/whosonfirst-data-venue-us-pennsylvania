@@ -2,13 +2,14 @@
   "id": 387267845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.179253,40.539101,-80.179253,40.539101",
     "geom:latitude":40.539101,
     "geom:longitude":-80.179253,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"600 Beaver St Ste 201",
     "sg:city":"Sewickley",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85835111
+        85835111,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"41a391c796616d3f6b6d2e35c17b38c3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85835111,
             "region_id":85688481,
             "venue_id":387267845
         }
     ],
     "wof:id":387267845,
-    "wof:lastmodified":1449059570,
+    "wof:lastmodified":1454361122,
     "wof:name":"William R Hill Insurance Inc",
     "wof:parent_id":85835111,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "business"
     ]
 },
-  "bbox": [-80.179253,40.539101,-80.179253,40.539101],
+  "bbox": [
+    -80.179253,
+    40.539101,
+    -80.179253,
+    40.539101
+],
   "geometry": {"coordinates":[-80.179253,40.539101],"type":"Point"}
 }

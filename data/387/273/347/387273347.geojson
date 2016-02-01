@@ -2,13 +2,14 @@
   "id": 387273347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.793529,40.396735,-79.793529,40.396735",
     "geom:latitude":40.396735,
     "geom:longitude":-79.793529,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2808 Broadway Blvd Ste 99",
     "sg:city":"Monroeville",
     "sg:classifiers":[
@@ -38,10 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85856615,
+        102191575,
+        404482543,
         85633793,
+        101718699,
         102080887,
-        85856615
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,17 +55,18 @@
     "wof:geomhash":"327b4aed6973efb630cb35375047fab9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
+            "localadmin_id":404482543,
+            "locality_id":101718699,
             "neighbourhood_id":85856615,
             "region_id":85688481,
             "venue_id":387273347
         }
     ],
     "wof:id":387273347,
-    "wof:lastmodified":1449058081,
+    "wof:lastmodified":1454360676,
     "wof:name":"Allegheny Inspection Cons",
     "wof:parent_id":85856615,
     "wof:placetype":"venue",
@@ -72,6 +77,11 @@
         "adjuster"
     ]
 },
-  "bbox": [-79.793529,40.396735,-79.793529,40.396735],
-  "geometry": {"coordinates":[-79.793529,40.396735],"type":"Point"}
+  "bbox": [
+    -79.793529,
+    40.396735,
+    -79.793529,
+    40.396735
+],
+  "geometry": {"coordinates":[-79.79352900000001,40.396735],"type":"Point"}
 }

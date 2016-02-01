@@ -2,13 +2,14 @@
   "id": 387508843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.836254,40.537554,-79.836254,40.537554",
     "geom:latitude":40.537554,
     "geom:longitude":-79.836254,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2635 Freeport Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -27,8 +28,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85824029
+        85824029,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +39,15 @@
     "wof:geomhash":"805357c5fdca41d8bd14b76ee363ed88",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85824029,
             "region_id":85688481,
             "venue_id":387508843
         }
     ],
     "wof:id":387508843,
-    "wof:lastmodified":1449058236,
+    "wof:lastmodified":1454360718,
     "wof:name":"Guffey Brothers, Inc.",
     "wof:parent_id":85824029,
     "wof:placetype":"venue",
@@ -56,6 +55,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.836254,40.537554,-79.836254,40.537554],
+  "bbox": [
+    -79.836254,
+    40.537554,
+    -79.836254,
+    40.537554
+],
   "geometry": {"coordinates":[-79.836254,40.537554],"type":"Point"}
 }

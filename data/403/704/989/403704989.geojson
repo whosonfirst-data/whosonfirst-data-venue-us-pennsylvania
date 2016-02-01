@@ -2,13 +2,14 @@
   "id": 403704989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.652626,40.28503,-76.652626,40.28503",
     "geom:latitude":40.28503,
     "geom:longitude":-76.652626,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"50 N Linden Rd",
     "sg:city":"Hershey",
     "sg:classifiers":[
@@ -50,11 +51,13 @@
     "sg:website":"http://national.citysearch.com/profile/external/604421882/hershey_pa/roto_rooter_plumbing_drain_services.html?publisher=yellowpages&reference_id=1&placement=ypwebsitemip",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85850549,
+        102191575,
+        404483303,
         85633793,
         101719813,
         102081347,
-        85850549
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,9 +67,10 @@
     "wof:geomhash":"e56b22edf67ec24f6edefcf5d33a754f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
+            "localadmin_id":404483303,
             "locality_id":101719813,
             "neighbourhood_id":85850549,
             "region_id":85688481,
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":403704989,
-    "wof:lastmodified":1449054990,
+    "wof:lastmodified":1454357404,
     "wof:name":"Roto-Rooter Plumbing & Drain Services",
     "wof:parent_id":85850549,
     "wof:placetype":"venue",
@@ -91,6 +95,11 @@
         "plumbing-drain"
     ]
 },
-  "bbox": [-76.652626,40.28503,-76.652626,40.28503],
+  "bbox": [
+    -76.652626,
+    40.28503,
+    -76.652626,
+    40.28503
+],
   "geometry": {"coordinates":[-76.652626,40.28503],"type":"Point"}
 }

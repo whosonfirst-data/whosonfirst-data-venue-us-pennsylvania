@@ -2,13 +2,14 @@
   "id": 404180053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.338242,40.650139,-75.338242,40.650139",
     "geom:latitude":40.650139,
     "geom:longitude":-75.338242,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3010 Easton Ave",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -41,10 +42,13 @@
     "sg:website":"http://www.monro.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85857809,
+        102191575,
+        404485989,
         85633793,
+        101719937,
         102081395,
-        85857809
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,17 +58,18 @@
     "wof:geomhash":"8d98685aa16509d1a10f15f04c888f7b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081395,
-            "locality_id":-1,
+            "localadmin_id":404485989,
+            "locality_id":101719937,
             "neighbourhood_id":85857809,
             "region_id":85688481,
             "venue_id":404180053
         }
     ],
     "wof:id":404180053,
-    "wof:lastmodified":1449039115,
+    "wof:lastmodified":1454356445,
     "wof:name":"Monro Muffler Brake & Service",
     "wof:parent_id":85857809,
     "wof:placetype":"venue",
@@ -82,6 +87,11 @@
         "muffler"
     ]
 },
-  "bbox": [-75.338242,40.650139,-75.338242,40.650139],
-  "geometry": {"coordinates":[-75.338242,40.650139],"type":"Point"}
+  "bbox": [
+    -75.338242,
+    40.650139,
+    -75.338242,
+    40.650139
+],
+  "geometry": {"coordinates":[-75.33824199999999,40.650139],"type":"Point"}
 }

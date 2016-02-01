@@ -2,13 +2,14 @@
   "id": 387712281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.119331,40.837421,-80.119331,40.837421",
     "geom:latitude":40.837421,
     "geom:longitude":-80.119331,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"468 Perry Hwy",
     "sg:city":"Harmony",
     "sg:classifiers":[
@@ -50,8 +51,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102083677,
-        85833977
+        85833977,
+        102083677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,17 +62,15 @@
     "wof:geomhash":"c47dfd05a8e5de1bbb414571d9b7fda0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102083677,
-            "locality_id":-1,
             "neighbourhood_id":85833977,
             "region_id":85688481,
             "venue_id":387712281
         }
     ],
     "wof:id":387712281,
-    "wof:lastmodified":1449057740,
+    "wof:lastmodified":1454360578,
     "wof:name":"Meinert Well Drilling",
     "wof:parent_id":85833977,
     "wof:placetype":"venue",
@@ -87,6 +86,11 @@
         "sewer"
     ]
 },
-  "bbox": [-80.119331,40.837421,-80.119331,40.837421],
+  "bbox": [
+    -80.119331,
+    40.837421,
+    -80.119331,
+    40.837421
+],
   "geometry": {"coordinates":[-80.119331,40.837421],"type":"Point"}
 }

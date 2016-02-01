@@ -2,13 +2,14 @@
   "id": 387149641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.951467,40.620971,-79.951467,40.620971",
     "geom:latitude":40.620971,
     "geom:longitude":-79.951467,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2850 Kramer Rd",
     "sg:city":"Gibsonia",
     "sg:classifiers":[
@@ -33,7 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420536325,
+        102191575,
+        404484173,
         85633793,
+        101720497,
+        102080887,
         85688481
     ],
     "wof:breaches":[],
@@ -44,18 +50,20 @@
     "wof:geomhash":"ead0e177d7d6dfdef768b9241b21633f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102080887,
+            "localadmin_id":404484173,
+            "locality_id":101720497,
+            "neighbourhood_id":420536325,
             "region_id":85688481,
             "venue_id":387149641
         }
     ],
     "wof:id":387149641,
-    "wof:lastmodified":1449056122,
+    "wof:lastmodified":1454358099,
     "wof:name":"Pjax Transport",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536325,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +72,11 @@
         "trucking"
     ]
 },
-  "bbox": [-79.951467,40.620971,-79.951467,40.620971],
-  "geometry": {"coordinates":[-79.951467,40.620971],"type":"Point"}
+  "bbox": [
+    -79.951467,
+    40.620971,
+    -79.951467,
+    40.620971
+],
+  "geometry": {"coordinates":[-79.95146699999999,40.620971],"type":"Point"}
 }

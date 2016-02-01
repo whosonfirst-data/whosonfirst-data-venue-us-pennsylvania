@@ -2,13 +2,14 @@
   "id": 404028551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.75074,39.95533,-76.75074,39.95533",
     "geom:latitude":39.95533,
     "geom:longitude":-76.75074,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1011 W Market St",
     "sg:city":"York",
     "sg:classifiers":[],
@@ -19,10 +20,13 @@
     "sg:website":"http://www.printostat.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85833149,
+        102191575,
+        404488029,
         85633793,
+        101717279,
         102080953,
-        85833149
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -32,17 +36,18 @@
     "wof:geomhash":"0b4bfcd9f499222b284b7806819c6565",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
+            "localadmin_id":404488029,
+            "locality_id":101717279,
             "neighbourhood_id":85833149,
             "region_id":85688481,
             "venue_id":404028551
         }
     ],
     "wof:id":404028551,
-    "wof:lastmodified":1449039786,
+    "wof:lastmodified":1454356798,
     "wof:name":"Print-O-Stat, Inc.",
     "wof:parent_id":85833149,
     "wof:placetype":"venue",
@@ -50,6 +55,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.75074,39.95533,-76.75074,39.95533],
-  "geometry": {"coordinates":[-76.75074,39.95533],"type":"Point"}
+  "bbox": [
+    -76.75074,
+    39.95533,
+    -76.75074,
+    39.95533
+],
+  "geometry": {"coordinates":[-76.75073999999999,39.95533],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387746025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.072522,40.685413,-80.072522,40.685413",
     "geom:latitude":40.685413,
     "geom:longitude":-80.072522,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1667 Route 228 Suite 200",
     "sg:city":"Butler",
     "sg:classifiers":[
@@ -25,11 +26,13 @@
     "sg:website":"www.greenhomespgh.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85824601,
+        102191575,
+        404485077,
         85633793,
         101720147,
         102083677,
-        85824601
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +42,10 @@
     "wof:geomhash":"e3b54d84ed8dc512d42e6c69b6d7a864",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083677,
+            "localadmin_id":404485077,
             "locality_id":101720147,
             "neighbourhood_id":85824601,
             "region_id":85688481,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":387746025,
-    "wof:lastmodified":1449056082,
+    "wof:lastmodified":1454358072,
     "wof:name":"Christa Ross - RE/MAX",
     "wof:parent_id":85824601,
     "wof:placetype":"venue",
@@ -57,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.072522,40.685413,-80.072522,40.685413],
-  "geometry": {"coordinates":[-80.072522,40.685413],"type":"Point"}
+  "bbox": [
+    -80.072522,
+    40.685413,
+    -80.072522,
+    40.685413
+],
+  "geometry": {"coordinates":[-80.07252200000001,40.685413],"type":"Point"}
 }

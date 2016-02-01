@@ -2,13 +2,14 @@
   "id": 403910245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.827194,40.237471,-76.827194,40.237471",
     "geom:latitude":40.237471,
     "geom:longitude":-76.827194,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"209 Kelker St",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -38,8 +39,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85868485
+        85868485,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +50,15 @@
     "wof:geomhash":"adf67bbab4457424f64cdd6873f0da4b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85868485,
             "region_id":85688481,
             "venue_id":403910245
         }
     ],
     "wof:id":403910245,
-    "wof:lastmodified":1449055185,
+    "wof:lastmodified":1454357518,
     "wof:name":"Our Daily Bread Catering",
     "wof:parent_id":85868485,
     "wof:placetype":"venue",
@@ -72,6 +71,11 @@
         "caterer"
     ]
 },
-  "bbox": [-76.827194,40.237471,-76.827194,40.237471],
-  "geometry": {"coordinates":[-76.827194,40.237471],"type":"Point"}
+  "bbox": [
+    -76.827194,
+    40.237471,
+    -76.827194,
+    40.237471
+],
+  "geometry": {"coordinates":[-76.82719400000001,40.237471],"type":"Point"}
 }

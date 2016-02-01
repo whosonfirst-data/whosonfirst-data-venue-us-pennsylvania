@@ -2,13 +2,14 @@
   "id": 387367355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.990501,40.438702,-79.990501,40.438702",
     "geom:latitude":40.438702,
     "geom:longitude":-79.990501,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1018 5th Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     "sg:website":"www.crownantiques.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85873593,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85873593
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"110c78d8bf22b6a9403f1fb186051a90",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85873593,
             "region_id":85688481,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":387367355,
-    "wof:lastmodified":1449058356,
+    "wof:lastmodified":1454360753,
     "wof:name":"Crown Antiques & Collectibles",
     "wof:parent_id":85873593,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "bookstore"
     ]
 },
-  "bbox": [-79.990501,40.438702,-79.990501,40.438702],
-  "geometry": {"coordinates":[-79.990501,40.438702],"type":"Point"}
+  "bbox": [
+    -79.990501,
+    40.438702,
+    -79.990501,
+    40.438702
+],
+  "geometry": {"coordinates":[-79.99050099999999,40.438702],"type":"Point"}
 }

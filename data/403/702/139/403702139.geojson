@@ -2,13 +2,14 @@
   "id": 403702139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.648206,40.293602,-76.648206,40.293602",
     "geom:latitude":40.293602,
     "geom:longitude":-76.648206,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"69 Outlet Sq",
     "sg:city":"Hershey",
     "sg:classifiers":[
@@ -42,11 +43,13 @@
     "sg:website":"http://www.hersheypa.com/dining/bella_luna.html",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85850549,
+        102191575,
+        404483303,
         85633793,
         101719813,
         102081347,
-        85850549
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,9 +59,10 @@
     "wof:geomhash":"732546a6274afabcda20f96f68dd315c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
+            "localadmin_id":404483303,
             "locality_id":101719813,
             "neighbourhood_id":85850549,
             "region_id":85688481,
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":403702139,
-    "wof:lastmodified":1449055299,
+    "wof:lastmodified":1454357589,
     "wof:name":"Bella Luna",
     "wof:parent_id":85850549,
     "wof:placetype":"venue",
@@ -80,6 +84,11 @@
         "pizza"
     ]
 },
-  "bbox": [-76.648206,40.293602,-76.648206,40.293602],
+  "bbox": [
+    -76.648206,
+    40.293602,
+    -76.648206,
+    40.293602
+],
   "geometry": {"coordinates":[-76.648206,40.293602],"type":"Point"}
 }

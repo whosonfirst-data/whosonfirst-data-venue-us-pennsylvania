@@ -2,13 +2,14 @@
   "id": 387633243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.682106,40.299505,-79.682106,40.299505",
     "geom:latitude":40.299505,
     "geom:longitude":-79.682106,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"31 S Rolling Hills Ave",
     "sg:city":"Irwin",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081383,
-        85841171
+        85841171,
+        102081383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"619dad0415db45a1e9ae66573db73cd6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":-1,
             "neighbourhood_id":85841171,
             "region_id":85688481,
             "venue_id":387633243
         }
     ],
     "wof:id":387633243,
-    "wof:lastmodified":1449059892,
+    "wof:lastmodified":1454361223,
     "wof:name":"Midas Muffler",
     "wof:parent_id":85841171,
     "wof:placetype":"venue",
@@ -64,6 +63,11 @@
         "system"
     ]
 },
-  "bbox": [-79.682106,40.299505,-79.682106,40.299505],
+  "bbox": [
+    -79.682106,
+    40.299505,
+    -79.682106,
+    40.299505
+],
   "geometry": {"coordinates":[-79.682106,40.299505],"type":"Point"}
 }

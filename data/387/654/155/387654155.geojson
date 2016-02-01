@@ -2,13 +2,14 @@
   "id": 387654155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.172211,40.611857,-79.172211,40.611857",
     "geom:latitude":40.611857,
     "geom:longitude":-79.172211,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1657 Saltsburg Ave",
     "sg:city":"Indiana",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081387,
-        85821437
+        85821437,
+        102081387
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"1577f38351c256f8e12a8015a051da08",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081387,
-            "locality_id":-1,
             "neighbourhood_id":85821437,
             "region_id":85688481,
             "venue_id":387654155
         }
     ],
     "wof:id":387654155,
-    "wof:lastmodified":1449057375,
+    "wof:lastmodified":1454359068,
     "wof:name":"Indiana County Transit Authority",
     "wof:parent_id":85821437,
     "wof:placetype":"venue",
@@ -68,6 +67,11 @@
         "line"
     ]
 },
-  "bbox": [-79.172211,40.611857,-79.172211,40.611857],
+  "bbox": [
+    -79.172211,
+    40.611857,
+    -79.172211,
+    40.611857
+],
   "geometry": {"coordinates":[-79.172211,40.611857],"type":"Point"}
 }

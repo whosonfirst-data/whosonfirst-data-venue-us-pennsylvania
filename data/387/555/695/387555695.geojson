@@ -2,13 +2,14 @@
   "id": 387555695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.133301,40.262299,-80.133301,40.262299",
     "geom:latitude":40.262299,
     "geom:longitude":-80.133301,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"155 Waterdam Rd",
     "sg:city":"Mc Murray",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081343,
-        85814861
+        85814861,
+        102081343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"e89d1726c616fd08cadf2ad8ed67574e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081343,
-            "locality_id":-1,
             "neighbourhood_id":85814861,
             "region_id":85688481,
             "venue_id":387555695
         }
     ],
     "wof:id":387555695,
-    "wof:lastmodified":1449059382,
+    "wof:lastmodified":1454361063,
     "wof:name":"Keystone Rehabilitation Systems",
     "wof:parent_id":85814861,
     "wof:placetype":"venue",
@@ -63,6 +62,11 @@
         "physical"
     ]
 },
-  "bbox": [-80.133301,40.262299,-80.133301,40.262299],
+  "bbox": [
+    -80.133301,
+    40.262299,
+    -80.133301,
+    40.262299
+],
   "geometry": {"coordinates":[-80.133301,40.262299],"type":"Point"}
 }

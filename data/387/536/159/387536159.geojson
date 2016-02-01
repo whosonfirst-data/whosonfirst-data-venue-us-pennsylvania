@@ -2,13 +2,14 @@
   "id": 387536159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.2239,40.186401,-80.2239,40.186401",
     "geom:latitude":40.186401,
     "geom:longitude":-80.2239,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"327 Washington Rd",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081343,
-        85832105
+        85832105,
+        102081343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"2b2fc301b0dd971d238be7f14e29ed9f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081343,
-            "locality_id":-1,
             "neighbourhood_id":85832105,
             "region_id":85688481,
             "venue_id":387536159
         }
     ],
     "wof:id":387536159,
-    "wof:lastmodified":1449058372,
+    "wof:lastmodified":1454360763,
     "wof:name":"Petsmart",
     "wof:parent_id":85832105,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "sitting"
     ]
 },
-  "bbox": [-80.2239,40.186401,-80.2239,40.186401],
+  "bbox": [
+    -80.2239,
+    40.186401,
+    -80.2239,
+    40.186401
+],
   "geometry": {"coordinates":[-80.2239,40.186401],"type":"Point"}
 }

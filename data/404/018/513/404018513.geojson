@@ -2,13 +2,14 @@
   "id": 404018513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.699222,39.974679,-76.699222,39.974679",
     "geom:latitude":39.974679,
     "geom:longitude":-76.699222,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1510 E Philadelphia St",
     "sg:city":"York",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080953,
-        85817923
+        85817923,
+        102080953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"8aa26c4b1251721f3a09224de8e4461b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
             "neighbourhood_id":85817923,
             "region_id":85688481,
             "venue_id":404018513
         }
     ],
     "wof:id":404018513,
-    "wof:lastmodified":1449039696,
+    "wof:lastmodified":1454356759,
     "wof:name":"The Go-Getters Courier Services Inc",
     "wof:parent_id":85817923,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "courier"
     ]
 },
-  "bbox": [-76.699222,39.974679,-76.699222,39.974679],
-  "geometry": {"coordinates":[-76.699222,39.974679],"type":"Point"}
+  "bbox": [
+    -76.699222,
+    39.974679,
+    -76.699222,
+    39.974679
+],
+  "geometry": {"coordinates":[-76.69922200000001,39.974679],"type":"Point"}
 }

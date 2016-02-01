@@ -2,13 +2,14 @@
   "id": 387650735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.566512,40.114603,-79.566512,40.114603",
     "geom:latitude":40.114603,
     "geom:longitude":-79.566512,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"900 Porter Ave",
     "sg:city":"Scottdale",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081383,
-        85856077
+        85856077,
+        102081383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"616a54665b9b84b587645f42fc4ac84e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":-1,
             "neighbourhood_id":85856077,
             "region_id":85688481,
             "venue_id":387650735
         }
     ],
     "wof:id":387650735,
-    "wof:lastmodified":1449058426,
+    "wof:lastmodified":1454360779,
     "wof:name":"Guardian Elder Care",
     "wof:parent_id":85856077,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "residential"
     ]
 },
-  "bbox": [-79.566512,40.114603,-79.566512,40.114603],
+  "bbox": [
+    -79.566512,
+    40.114603,
+    -79.566512,
+    40.114603
+],
   "geometry": {"coordinates":[-79.566512,40.114603],"type":"Point"}
 }

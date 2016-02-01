@@ -2,13 +2,14 @@
   "id": 387776287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.396889,41.191391,-79.396889,41.191391",
     "geom:latitude":41.191391,
     "geom:longitude":-79.396889,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4 Hospital Dr",
     "sg:city":"Clarion",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081389,
-        85857843
+        85857843,
+        102081389
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"7bb8915a366c97cb997afc29700cf4ac",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081389,
-            "locality_id":-1,
             "neighbourhood_id":85857843,
             "region_id":85688481,
             "venue_id":387776287
         }
     ],
     "wof:id":387776287,
-    "wof:lastmodified":1449056927,
+    "wof:lastmodified":1454358713,
     "wof:name":"Hampton Inn",
     "wof:parent_id":85857843,
     "wof:placetype":"venue",
@@ -63,6 +62,11 @@
         "lodging"
     ]
 },
-  "bbox": [-79.396889,41.191391,-79.396889,41.191391],
+  "bbox": [
+    -79.396889,
+    41.191391,
+    -79.396889,
+    41.191391
+],
   "geometry": {"coordinates":[-79.396889,41.191391],"type":"Point"}
 }

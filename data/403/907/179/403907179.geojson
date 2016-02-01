@@ -2,13 +2,14 @@
   "id": 403907179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.845989,40.350929,-76.845989,40.350929",
     "geom:latitude":40.350929,
     "geom:longitude":-76.845989,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2350 Timber Line Ct",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85819927
+        85819927,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"496b7d9159fd9b5566a9f2cf9e52c487",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85819927,
             "region_id":85688481,
             "venue_id":403907179
         }
     ],
     "wof:id":403907179,
-    "wof:lastmodified":1449055862,
+    "wof:lastmodified":1454357918,
     "wof:name":"Jpst Holdings",
     "wof:parent_id":85819927,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "holding"
     ]
 },
-  "bbox": [-76.845989,40.350929,-76.845989,40.350929],
+  "bbox": [
+    -76.845989,
+    40.350929,
+    -76.845989,
+    40.350929
+],
   "geometry": {"coordinates":[-76.845989,40.350929],"type":"Point"}
 }

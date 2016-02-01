@@ -2,13 +2,14 @@
   "id": 387854481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.390409,40.501999,-78.390409,40.501999",
     "geom:latitude":40.501999,
     "geom:longitude":-78.390409,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1637 E Pleasant Valley Blvd",
     "sg:city":"Altoona",
     "sg:classifiers":[
@@ -36,7 +37,12 @@
     "sg:website":"http://www.provinestudios.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85842329,
+        102191575,
+        404484619,
         85633793,
+        101716595,
+        102081325,
         85688481
     ],
     "wof:breaches":[],
@@ -47,18 +53,20 @@
     "wof:geomhash":"38f57a2ac2b2ce903431f276ecb5c73e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081325,
+            "localadmin_id":404484619,
+            "locality_id":101716595,
+            "neighbourhood_id":85842329,
             "region_id":85688481,
             "venue_id":387854481
         }
     ],
     "wof:id":387854481,
-    "wof:lastmodified":1449059778,
+    "wof:lastmodified":1454361193,
     "wof:name":"Provine Studios",
-    "wof:parent_id":-1,
+    "wof:parent_id":85842329,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -69,6 +77,11 @@
         "darkroom"
     ]
 },
-  "bbox": [-78.390409,40.501999,-78.390409,40.501999],
-  "geometry": {"coordinates":[-78.390409,40.501999],"type":"Point"}
+  "bbox": [
+    -78.390409,
+    40.501999,
+    -78.390409,
+    40.501999
+],
+  "geometry": {"coordinates":[-78.39040900000001,40.501999],"type":"Point"}
 }

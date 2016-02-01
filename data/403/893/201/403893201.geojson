@@ -2,13 +2,14 @@
   "id": 403893201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.840692,40.256525,-76.840692,40.256525",
     "geom:latitude":40.256525,
     "geom:longitude":-76.840692,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2810 Paxton Street",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -34,8 +35,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85868485
+        85868485,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +46,15 @@
     "wof:geomhash":"cc86a6f6a4aa0d18403dfd931366db05",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85868485,
             "region_id":85688481,
             "venue_id":403893201
         }
     ],
     "wof:id":403893201,
-    "wof:lastmodified":1449055714,
+    "wof:lastmodified":1454357838,
     "wof:name":"Sphynx of PA",
     "wof:parent_id":85868485,
     "wof:placetype":"venue",
@@ -65,6 +64,11 @@
         "african"
     ]
 },
-  "bbox": [-76.840692,40.256525,-76.840692,40.256525],
+  "bbox": [
+    -76.840692,
+    40.256525,
+    -76.840692,
+    40.256525
+],
   "geometry": {"coordinates":[-76.840692,40.256525],"type":"Point"}
 }

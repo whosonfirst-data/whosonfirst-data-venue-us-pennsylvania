@@ -2,13 +2,14 @@
   "id": 387877451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.778659,40.914136,-77.778659,40.914136",
     "geom:latitude":40.914136,
     "geom:longitude":-77.778659,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"228 N Allegheny St",
     "sg:city":"Bellefonte",
     "sg:classifiers":[
@@ -31,11 +32,13 @@
     "sg:website":"http://www.robfisheramericandream.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85806075,
+        102191575,
+        404485871,
         85633793,
         101718145,
         102081369,
-        85806075
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,9 +48,10 @@
     "wof:geomhash":"dafb907bbf8c6e1d4d21168a976415cf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081369,
+            "localadmin_id":404485871,
             "locality_id":101718145,
             "neighbourhood_id":85806075,
             "region_id":85688481,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":387877451,
-    "wof:lastmodified":1449058782,
+    "wof:lastmodified":1454360880,
     "wof:name":"Rob Fisher Sculpture",
     "wof:parent_id":85806075,
     "wof:placetype":"venue",
@@ -68,6 +72,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-77.778659,40.914136,-77.778659,40.914136],
+  "bbox": [
+    -77.778659,
+    40.914136,
+    -77.778659,
+    40.914136
+],
   "geometry": {"coordinates":[-77.778659,40.914136],"type":"Point"}
 }

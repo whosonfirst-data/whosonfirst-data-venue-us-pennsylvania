@@ -2,13 +2,14 @@
   "id": 387242453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.233122,40.513125,-80.233122,40.513125",
     "geom:latitude":40.513125,
     "geom:longitude":-80.233122,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"282 Moon Clinton Rd",
     "sg:city":"Coraopolis",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85809567,
+        102191575,
+        404484137,
         85633793,
         101720527,
         102080887,
-        85809567
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"f35583c6249f0eb26e59b94fd7a671ad",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484137,
             "locality_id":101720527,
             "neighbourhood_id":85809567,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387242453,
-    "wof:lastmodified":1449059468,
+    "wof:lastmodified":1454361093,
     "wof:name":"Mary & Mecca's Hair Studio",
     "wof:parent_id":85809567,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "stylist"
     ]
 },
-  "bbox": [-80.233122,40.513125,-80.233122,40.513125],
-  "geometry": {"coordinates":[-80.233122,40.513125],"type":"Point"}
+  "bbox": [
+    -80.233122,
+    40.513125,
+    -80.233122,
+    40.513125
+],
+  "geometry": {"coordinates":[-80.23312199999999,40.513125],"type":"Point"}
 }

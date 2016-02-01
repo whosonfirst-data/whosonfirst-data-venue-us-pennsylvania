@@ -2,13 +2,14 @@
   "id": 404085891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.303192,40.041435,-76.303192,40.041435",
     "geom:latitude":40.041435,
     "geom:longitude":-76.303192,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"132 E Chestnut St",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -36,11 +37,13 @@
     "sg:website":"http://www.timoneyknox.xom",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85846173,
+        102191575,
+        404487183,
         85633793,
         101718643,
         102081377,
-        85846173
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,9 +53,10 @@
     "wof:geomhash":"407e9923562b8ddb00d866a49e5f9176",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081377,
+            "localadmin_id":404487183,
             "locality_id":101718643,
             "neighbourhood_id":85846173,
             "region_id":85688481,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":404085891,
-    "wof:lastmodified":1449039346,
+    "wof:lastmodified":1454356582,
     "wof:name":"Timoney Knox LLP",
     "wof:parent_id":85846173,
     "wof:placetype":"venue",
@@ -78,6 +82,11 @@
         "dwi"
     ]
 },
-  "bbox": [-76.303192,40.041435,-76.303192,40.041435],
+  "bbox": [
+    -76.303192,
+    40.041435,
+    -76.303192,
+    40.041435
+],
   "geometry": {"coordinates":[-76.303192,40.041435],"type":"Point"}
 }

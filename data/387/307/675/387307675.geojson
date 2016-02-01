@@ -2,13 +2,14 @@
   "id": 387307675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.987099,40.396,-79.987099,40.396",
     "geom:latitude":40.396,
     "geom:longitude":-79.987099,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1917 Brownsville Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85809633,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85809633
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"4a59b428fd4b27a040e8b8d071b46ce5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85809633,
             "region_id":85688481,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":387307675,
-    "wof:lastmodified":1449057086,
+    "wof:lastmodified":1454358824,
     "wof:name":"Vern's Electric",
     "wof:parent_id":85809633,
     "wof:placetype":"venue",
@@ -68,6 +72,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.987099,40.396,-79.987099,40.396],
+  "bbox": [
+    -79.987099,
+    40.396,
+    -79.987099,
+    40.396
+],
   "geometry": {"coordinates":[-79.987099,40.396],"type":"Point"}
 }

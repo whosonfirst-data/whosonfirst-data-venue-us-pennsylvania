@@ -2,13 +2,14 @@
   "id": 404161531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.379969,40.608209,-75.379969,40.608209",
     "geom:latitude":40.608209,
     "geom:longitude":-75.379969,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"125 W Packer Ave",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85897245,
+        102191575,
+        404485987,
         85633793,
         101717907,
         102081395,
-        85897245
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"f5677b2610a2c6bfb1a26decc1683ab1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081395,
+            "localadmin_id":404485987,
             "locality_id":101717907,
             "neighbourhood_id":85897245,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":404161531,
-    "wof:lastmodified":1449039509,
+    "wof:lastmodified":1454356689,
     "wof:name":"Bethlehem Area School District",
     "wof:parent_id":85897245,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "elementary"
     ]
 },
-  "bbox": [-75.379969,40.608209,-75.379969,40.608209],
+  "bbox": [
+    -75.379969,
+    40.608209,
+    -75.379969,
+    40.608209
+],
   "geometry": {"coordinates":[-75.379969,40.608209],"type":"Point"}
 }

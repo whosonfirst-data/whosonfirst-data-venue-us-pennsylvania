@@ -2,13 +2,14 @@
   "id": 387887653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.727799,40.999147,-77.727799,40.999147",
     "geom:latitude":40.999147,
     "geom:longitude":-77.727799,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"482 Bullit Run Rd",
     "sg:city":"Howard",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081369,
-        85835483
+        85835483,
+        102081369
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"2fddad20c38229b2bdf3f997e1e5711f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081369,
-            "locality_id":-1,
             "neighbourhood_id":85835483,
             "region_id":85688481,
             "venue_id":387887653
         }
     ],
     "wof:id":387887653,
-    "wof:lastmodified":1449059162,
+    "wof:lastmodified":1454361001,
     "wof:name":"Samuel J Berenty",
     "wof:parent_id":85835483,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "carpenter"
     ]
 },
-  "bbox": [-77.727799,40.999147,-77.727799,40.999147],
+  "bbox": [
+    -77.727799,
+    40.999147,
+    -77.727799,
+    40.999147
+],
   "geometry": {"coordinates":[-77.727799,40.999147],"type":"Point"}
 }

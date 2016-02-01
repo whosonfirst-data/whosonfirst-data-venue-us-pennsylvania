@@ -2,13 +2,14 @@
   "id": 404028183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.761368,39.976978,-76.761368,39.976978",
     "geom:latitude":39.976978,
     "geom:longitude":-76.761368,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1301 Kenneth Rd",
     "sg:city":"York",
     "sg:classifiers":[],
@@ -19,10 +20,13 @@
     "sg:website":"http://www.smokeybones.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85819331,
+        102191575,
+        404488029,
         85633793,
+        101717279,
         102080953,
-        85819331
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -32,17 +36,18 @@
     "wof:geomhash":"1e95028de33850b2bb59eb6e3e8a09b2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
+            "localadmin_id":404488029,
+            "locality_id":101717279,
             "neighbourhood_id":85819331,
             "region_id":85688481,
             "venue_id":404028183
         }
     ],
     "wof:id":404028183,
-    "wof:lastmodified":1449039787,
+    "wof:lastmodified":1454356799,
     "wof:name":"Smokey Bones Barbeque & Grill",
     "wof:parent_id":85819331,
     "wof:placetype":"venue",
@@ -50,6 +55,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.761368,39.976978,-76.761368,39.976978],
+  "bbox": [
+    -76.761368,
+    39.976978,
+    -76.761368,
+    39.976978
+],
   "geometry": {"coordinates":[-76.761368,39.976978],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387624145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.528029,40.291564,-79.528029,40.291564",
     "geom:latitude":40.291564,
     "geom:longitude":-79.528029,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2034 Tower Way",
     "sg:city":"Greensburg",
     "sg:classifiers":[
@@ -39,10 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420540243,
+        102191575,
+        404487487,
         85633793,
         101717177,
-        102081383
+        102081383,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,19 +56,20 @@
     "wof:geomhash":"39e02f7239edaa921e57006a8f1044ec",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081383,
+            "localadmin_id":404487487,
             "locality_id":101717177,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420540243,
             "region_id":85688481,
             "venue_id":387624145
         }
     ],
     "wof:id":387624145,
-    "wof:lastmodified":1449058719,
+    "wof:lastmodified":1454360862,
     "wof:name":"Cynthia Leach Ma",
-    "wof:parent_id":-1,
+    "wof:parent_id":420540243,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -74,6 +79,11 @@
         "psychologist"
     ]
 },
-  "bbox": [-79.528029,40.291564,-79.528029,40.291564],
+  "bbox": [
+    -79.528029,
+    40.291564,
+    -79.528029,
+    40.291564
+],
   "geometry": {"coordinates":[-79.528029,40.291564],"type":"Point"}
 }

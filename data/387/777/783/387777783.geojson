@@ -2,13 +2,14 @@
   "id": 387777783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.658058,40.756908,-79.658058,40.756908",
     "geom:latitude":40.756908,
     "geom:longitude":-79.658058,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"116 Todd Rd",
     "sg:city":"Freeport",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081371,
-        85828225
+        85828225,
+        102081371
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"776a6bcc55190becfa0014d447e3671f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081371,
-            "locality_id":-1,
             "neighbourhood_id":85828225,
             "region_id":85688481,
             "venue_id":387777783
         }
     ],
     "wof:id":387777783,
-    "wof:lastmodified":1449058114,
+    "wof:lastmodified":1454360684,
     "wof:name":"Allwood Construction",
     "wof:parent_id":85828225,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.658058,40.756908,-79.658058,40.756908],
+  "bbox": [
+    -79.658058,
+    40.756908,
+    -79.658058,
+    40.756908
+],
   "geometry": {"coordinates":[-79.658058,40.756908],"type":"Point"}
 }

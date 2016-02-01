@@ -2,13 +2,14 @@
   "id": 387100947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.236568,40.655847,-80.236568,40.655847",
     "geom:latitude":40.655847,
     "geom:longitude":-80.236568,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1642 W State St",
     "sg:city":"Baden",
     "sg:classifiers":[
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85851083,
+        102191575,
+        404482587,
         85633793,
+        101718393,
         102081323,
-        85851083
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +49,18 @@
     "wof:geomhash":"52444172c457f05580422f8c186d9da2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081323,
-            "locality_id":-1,
+            "localadmin_id":404482587,
+            "locality_id":101718393,
             "neighbourhood_id":85851083,
             "region_id":85688481,
             "venue_id":387100947
         }
     ],
     "wof:id":387100947,
-    "wof:lastmodified":1449058929,
+    "wof:lastmodified":1454360929,
     "wof:name":"Altmeyer's Store 4",
     "wof:parent_id":85851083,
     "wof:placetype":"venue",
@@ -70,6 +75,11 @@
         "trimming"
     ]
 },
-  "bbox": [-80.236568,40.655847,-80.236568,40.655847],
-  "geometry": {"coordinates":[-80.236568,40.655847],"type":"Point"}
+  "bbox": [
+    -80.236568,
+    40.655847,
+    -80.236568,
+    40.655847
+],
+  "geometry": {"coordinates":[-80.23656800000001,40.655847],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387528107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.069946,40.361641,-80.069946,40.361641",
     "geom:latitude":40.361641,
     "geom:longitude":-80.069946,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1600 Painters Run Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85805039
+        85805039,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"dd4ceb5ac5b1aef201d889b8445b6322",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85805039,
             "region_id":85688481,
             "venue_id":387528107
         }
     ],
     "wof:id":387528107,
-    "wof:lastmodified":1449057116,
+    "wof:lastmodified":1454358854,
     "wof:name":"Painter's Run - The Art Of Fine Food",
     "wof:parent_id":85805039,
     "wof:placetype":"venue",
@@ -64,6 +63,11 @@
         "steak"
     ]
 },
-  "bbox": [-80.069946,40.361641,-80.069946,40.361641],
+  "bbox": [
+    -80.069946,
+    40.361641,
+    -80.069946,
+    40.361641
+],
   "geometry": {"coordinates":[-80.069946,40.361641],"type":"Point"}
 }

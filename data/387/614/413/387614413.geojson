@@ -2,13 +2,14 @@
   "id": 387614413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.160461,39.91087,-79.160461,39.91087",
     "geom:latitude":39.91087,
     "geom:longitude":-79.160461,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"131 Rockdale Rd",
     "sg:city":"Rockwood",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081361,
-        85845559
+        85845559,
+        102081361
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"e50eb77649a6b45e052949476799651c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081361,
-            "locality_id":-1,
             "neighbourhood_id":85845559,
             "region_id":85688481,
             "venue_id":387614413
         }
     ],
     "wof:id":387614413,
-    "wof:lastmodified":1449060022,
+    "wof:lastmodified":1454361263,
     "wof:name":"Rockwood Trail House",
     "wof:parent_id":85845559,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "lodging"
     ]
 },
-  "bbox": [-79.160461,39.91087,-79.160461,39.91087],
+  "bbox": [
+    -79.160461,
+    39.91087,
+    -79.160461,
+    39.91087
+],
   "geometry": {"coordinates":[-79.160461,39.91087],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387439417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.961676,40.382027,-79.961676,40.382027",
     "geom:latitude":40.382027,
     "geom:longitude":-79.961676,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3405 Hazelhurst Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85824379,
+        102191575,
+        404484861,
         85633793,
         101718815,
         102080887,
-        85824379
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"c057def316e4c68b2a4992b3293012ed",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484861,
             "locality_id":101718815,
             "neighbourhood_id":85824379,
             "region_id":85688481,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":387439417,
-    "wof:lastmodified":1449057150,
+    "wof:lastmodified":1454358881,
     "wof:name":"All Service Insulating",
     "wof:parent_id":85824379,
     "wof:placetype":"venue",
@@ -68,6 +72,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.961676,40.382027,-79.961676,40.382027],
+  "bbox": [
+    -79.961676,
+    40.382027,
+    -79.961676,
+    40.382027
+],
   "geometry": {"coordinates":[-79.961676,40.382027],"type":"Point"}
 }

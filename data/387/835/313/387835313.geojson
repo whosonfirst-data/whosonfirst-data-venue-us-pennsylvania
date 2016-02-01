@@ -2,13 +2,14 @@
   "id": 387835313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.145709,42.08943,-80.145709,42.08943",
     "geom:latitude":42.08943,
     "geom:longitude":-80.145709,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3152 W 22nd St",
     "sg:city":"Erie",
     "sg:classifiers":[
@@ -42,8 +43,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080955,
-        85810495
+        85810495,
+        102080955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,17 +54,15 @@
     "wof:geomhash":"e3e1153f00c52c9d805f3967d9739fc0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080955,
-            "locality_id":-1,
             "neighbourhood_id":85810495,
             "region_id":85688481,
             "venue_id":387835313
         }
     ],
     "wof:id":387835313,
-    "wof:lastmodified":1449056643,
+    "wof:lastmodified":1454358512,
     "wof:name":"Applied Coating Solution Inc",
     "wof:parent_id":85810495,
     "wof:placetype":"venue",
@@ -76,6 +75,11 @@
         "sandblasting"
     ]
 },
-  "bbox": [-80.145709,42.08943,-80.145709,42.08943],
+  "bbox": [
+    -80.145709,
+    42.08943,
+    -80.145709,
+    42.08943
+],
   "geometry": {"coordinates":[-80.145709,42.08943],"type":"Point"}
 }

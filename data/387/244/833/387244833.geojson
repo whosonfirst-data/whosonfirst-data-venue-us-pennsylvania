@@ -2,13 +2,14 @@
   "id": 387244833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.160652,40.51725,-80.160652,40.51725",
     "geom:latitude":40.51725,
     "geom:longitude":-80.160652,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"400 Broadway St",
     "sg:city":"Coraopolis",
     "sg:classifiers":[
@@ -50,8 +51,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85835111
+        85835111,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,17 +62,15 @@
     "wof:geomhash":"916e11578bf39d22579e681613b63e6c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85835111,
             "region_id":85688481,
             "venue_id":387244833
         }
     ],
     "wof:id":387244833,
-    "wof:lastmodified":1449057619,
+    "wof:lastmodified":1454360533,
     "wof:name":"Beverly Services",
     "wof:parent_id":85835111,
     "wof:placetype":"venue",
@@ -91,6 +90,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-80.160652,40.51725,-80.160652,40.51725],
+  "bbox": [
+    -80.160652,
+    40.51725,
+    -80.160652,
+    40.51725
+],
   "geometry": {"coordinates":[-80.160652,40.51725],"type":"Point"}
 }

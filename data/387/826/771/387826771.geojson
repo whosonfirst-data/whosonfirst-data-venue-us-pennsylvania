@@ -2,13 +2,14 @@
   "id": 387826771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.077419,42.117636,-80.077419,42.117636",
     "geom:latitude":42.117636,
     "geom:longitude":-80.077419,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1925 State St",
     "sg:city":"Erie",
     "sg:classifiers":[
@@ -46,11 +47,13 @@
     "sg:website":"http://www.hallmanchevy.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85822031,
+        102191575,
+        404486673,
         85633793,
         101718253,
         102080955,
-        85822031
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,9 +63,10 @@
     "wof:geomhash":"3e68ad7596f929c57c1d7df356c114be",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080955,
+            "localadmin_id":404486673,
             "locality_id":101718253,
             "neighbourhood_id":85822031,
             "region_id":85688481,
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":387826771,
-    "wof:lastmodified":1449058875,
+    "wof:lastmodified":1454360910,
     "wof:name":"Hallman Dave Chevrolet",
     "wof:parent_id":85822031,
     "wof:placetype":"venue",
@@ -88,6 +92,11 @@
         "painting"
     ]
 },
-  "bbox": [-80.077419,42.117636,-80.077419,42.117636],
-  "geometry": {"coordinates":[-80.077419,42.117636],"type":"Point"}
+  "bbox": [
+    -80.077419,
+    42.117636,
+    -80.077419,
+    42.117636
+],
+  "geometry": {"coordinates":[-80.07741900000001,42.117636],"type":"Point"}
 }

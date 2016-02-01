@@ -2,13 +2,14 @@
   "id": 387852637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.400875,40.507308,-78.400875,40.507308",
     "geom:latitude":40.507308,
     "geom:longitude":-78.400875,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"609 18th St",
     "sg:city":"Altoona",
     "sg:classifiers":[
@@ -30,7 +31,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85842329,
+        102191575,
+        404484619,
         85633793,
+        101716595,
+        102081325,
         85688481
     ],
     "wof:breaches":[],
@@ -41,18 +47,20 @@
     "wof:geomhash":"b3d00b6b0ed9d570c21b413b394156d1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081325,
+            "localadmin_id":404484619,
+            "locality_id":101716595,
+            "neighbourhood_id":85842329,
             "region_id":85688481,
             "venue_id":387852637
         }
     ],
     "wof:id":387852637,
-    "wof:lastmodified":1449059273,
+    "wof:lastmodified":1454361030,
     "wof:name":"Moyer Painting",
-    "wof:parent_id":-1,
+    "wof:parent_id":85842329,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -63,6 +71,11 @@
         "contractor"
     ]
 },
-  "bbox": [-78.400875,40.507308,-78.400875,40.507308],
+  "bbox": [
+    -78.400875,
+    40.507308,
+    -78.400875,
+    40.507308
+],
   "geometry": {"coordinates":[-78.400875,40.507308],"type":"Point"}
 }

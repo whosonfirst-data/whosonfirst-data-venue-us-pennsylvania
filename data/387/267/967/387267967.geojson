@@ -2,13 +2,14 @@
   "id": 387267967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.187858,40.543649,-80.187858,40.543649",
     "geom:latitude":40.543649,
     "geom:longitude":-80.187858,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"63 Thorn St",
     "sg:city":"Sewickley",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85835111
+        85835111,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"75bd4d69ebe6cc251b943ab792faeef8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85835111,
             "region_id":85688481,
             "venue_id":387267967
         }
     ],
     "wof:id":387267967,
-    "wof:lastmodified":1449059574,
+    "wof:lastmodified":1454361123,
     "wof:name":"Hildy Heffernan Interiors",
     "wof:parent_id":85835111,
     "wof:placetype":"venue",
@@ -64,6 +63,11 @@
         "decorator"
     ]
 },
-  "bbox": [-80.187858,40.543649,-80.187858,40.543649],
-  "geometry": {"coordinates":[-80.187858,40.543649],"type":"Point"}
+  "bbox": [
+    -80.187858,
+    40.543649,
+    -80.187858,
+    40.543649
+],
+  "geometry": {"coordinates":[-80.18785800000001,40.543649],"type":"Point"}
 }

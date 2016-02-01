@@ -2,13 +2,14 @@
   "id": 387146485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.225024,40.682042,-80.225024,40.682042",
     "geom:latitude":40.682042,
     "geom:longitude":-80.225024,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"325 Freedom Crider Rd",
     "sg:city":"Freedom",
     "sg:classifiers":[
@@ -39,10 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85851083,
+        102191575,
+        404482587,
         85633793,
+        101718393,
         102081323,
-        85851083
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,17 +56,18 @@
     "wof:geomhash":"9c7aefd1c5b8c7217d92fe6aad6cf396",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081323,
-            "locality_id":-1,
+            "localadmin_id":404482587,
+            "locality_id":101718393,
             "neighbourhood_id":85851083,
             "region_id":85688481,
             "venue_id":387146485
         }
     ],
     "wof:id":387146485,
-    "wof:lastmodified":1449057680,
+    "wof:lastmodified":1454360558,
     "wof:name":"Family Bible Church",
     "wof:parent_id":85851083,
     "wof:placetype":"venue",
@@ -74,6 +79,11 @@
         "denomination"
     ]
 },
-  "bbox": [-80.225024,40.682042,-80.225024,40.682042],
+  "bbox": [
+    -80.225024,
+    40.682042,
+    -80.225024,
+    40.682042
+],
   "geometry": {"coordinates":[-80.225024,40.682042],"type":"Point"}
 }

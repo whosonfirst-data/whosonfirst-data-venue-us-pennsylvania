@@ -2,13 +2,14 @@
   "id": 404102467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.8545,41.66346,-76.8545,41.66346",
     "geom:latitude":41.66346,
     "geom:longitude":-76.8545,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"229 Troy St",
     "sg:city":"Canton",
     "sg:classifiers":[
@@ -45,8 +46,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081319,
-        85868601
+        85868601,
+        102081319
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,17 +57,15 @@
     "wof:geomhash":"14339c9f6ae5424da78f50418a433b92",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081319,
-            "locality_id":-1,
             "neighbourhood_id":85868601,
             "region_id":85688481,
             "venue_id":404102467
         }
     ],
     "wof:id":404102467,
-    "wof:lastmodified":1449040253,
+    "wof:lastmodified":1454357090,
     "wof:name":"Dollar General",
     "wof:parent_id":85868601,
     "wof:placetype":"venue",
@@ -76,6 +75,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-76.8545,41.66346,-76.8545,41.66346],
+  "bbox": [
+    -76.8545,
+    41.66346,
+    -76.8545,
+    41.66346
+],
   "geometry": {"coordinates":[-76.8545,41.66346],"type":"Point"}
 }

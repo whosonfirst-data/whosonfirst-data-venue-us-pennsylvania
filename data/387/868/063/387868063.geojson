@@ -2,13 +2,14 @@
   "id": 387868063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.646446,41.955952,-78.646446,41.955952",
     "geom:latitude":41.955952,
     "geom:longitude":-78.646446,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"153 Main St Unit 1",
     "sg:city":"Bradford",
     "sg:classifiers":[
@@ -26,8 +27,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080951,
-        85824425
+        85824425,
+        102080951
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,17 +38,15 @@
     "wof:geomhash":"71d6544422511eca65b459aefcbad8b0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080951,
-            "locality_id":-1,
             "neighbourhood_id":85824425,
             "region_id":85688481,
             "venue_id":387868063
         }
     ],
     "wof:id":387868063,
-    "wof:lastmodified":1449056291,
+    "wof:lastmodified":1454358226,
     "wof:name":"Riddell House",
     "wof:parent_id":85824425,
     "wof:placetype":"venue",
@@ -55,6 +54,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.646446,41.955952,-78.646446,41.955952],
+  "bbox": [
+    -78.646446,
+    41.955952,
+    -78.646446,
+    41.955952
+],
   "geometry": {"coordinates":[-78.646446,41.955952],"type":"Point"}
 }

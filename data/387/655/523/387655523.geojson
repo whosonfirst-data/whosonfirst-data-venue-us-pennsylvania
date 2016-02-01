@@ -2,13 +2,14 @@
   "id": 387655523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.179039,40.623265,-79.179039,40.623265",
     "geom:latitude":40.623265,
     "geom:longitude":-79.179039,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1805 Philadelphia St",
     "sg:city":"Indiana",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081387,
-        85821437
+        85821437,
+        102081387
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"e286951b876ccaa09d8174b4f16dbd91",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081387,
-            "locality_id":-1,
             "neighbourhood_id":85821437,
             "region_id":85688481,
             "venue_id":387655523
         }
     ],
     "wof:id":387655523,
-    "wof:lastmodified":1449058294,
+    "wof:lastmodified":1454360736,
     "wof:name":"Erb Construction",
     "wof:parent_id":85821437,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.179039,40.623265,-79.179039,40.623265],
+  "bbox": [
+    -79.179039,
+    40.623265,
+    -79.179039,
+    40.623265
+],
   "geometry": {"coordinates":[-79.179039,40.623265],"type":"Point"}
 }

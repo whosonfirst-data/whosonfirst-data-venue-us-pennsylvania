@@ -2,13 +2,14 @@
   "id": 387643237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.456914,40.274719,-79.456914,40.274719",
     "geom:latitude":40.274719,
     "geom:longitude":-79.456914,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"575 Marguerite Rd",
     "sg:city":"Latrobe",
     "sg:classifiers":[
@@ -43,8 +44,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081383,
-        85814893
+        85814893,
+        102081383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,17 +55,15 @@
     "wof:geomhash":"e461da9782e2accfaba9439fcde0c856",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":-1,
             "neighbourhood_id":85814893,
             "region_id":85688481,
             "venue_id":387643237
         }
     ],
     "wof:id":387643237,
-    "wof:lastmodified":1449059413,
+    "wof:lastmodified":1454361073,
     "wof:name":"Kelly's Tack & Equipment",
     "wof:parent_id":85814893,
     "wof:placetype":"venue",
@@ -78,6 +77,11 @@
         "riding"
     ]
 },
-  "bbox": [-79.456914,40.274719,-79.456914,40.274719],
+  "bbox": [
+    -79.456914,
+    40.274719,
+    -79.456914,
+    40.274719
+],
   "geometry": {"coordinates":[-79.456914,40.274719],"type":"Point"}
 }

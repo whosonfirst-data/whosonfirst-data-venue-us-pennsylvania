@@ -2,13 +2,14 @@
   "id": 403986077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.233383,39.835129,-77.233383,39.835129",
     "geom:latitude":39.835129,
     "geom:longitude":-77.233383,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"300 N Washington St",
     "sg:city":"Gettysburg",
     "sg:classifiers":[
@@ -39,8 +40,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080899,
-        85804527
+        85804527,
+        102080899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,17 +51,15 @@
     "wof:geomhash":"ece65999fce24446c58ea4582a6d3fb3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080899,
-            "locality_id":-1,
             "neighbourhood_id":85804527,
             "region_id":85688481,
             "venue_id":403986077
         }
     ],
     "wof:id":403986077,
-    "wof:lastmodified":1449055702,
+    "wof:lastmodified":1454357829,
     "wof:name":"Jazzercise Gettysburg College Corporate Class",
     "wof:parent_id":85804527,
     "wof:placetype":"venue",
@@ -74,6 +73,11 @@
         "fitness"
     ]
 },
-  "bbox": [-77.233383,39.835129,-77.233383,39.835129],
+  "bbox": [
+    -77.233383,
+    39.835129,
+    -77.233383,
+    39.835129
+],
   "geometry": {"coordinates":[-77.233383,39.835129],"type":"Point"}
 }

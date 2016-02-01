@@ -2,13 +2,14 @@
   "id": 387700329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.92794,40.869416,-79.92794,40.869416",
     "geom:latitude":40.869416,
     "geom:longitude":-79.92794,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"126 Point Plz Routes 356 And 68",
     "sg:city":"Butler",
     "sg:classifiers":[
@@ -54,7 +55,6 @@
     "wof:geomhash":"ef2ccdc26324df45bc79241ca65876c9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102083677,
             "locality_id":101720141,
@@ -64,7 +64,7 @@
         }
     ],
     "wof:id":387700329,
-    "wof:lastmodified":1449059583,
+    "wof:lastmodified":1454361127,
     "wof:name":"H&R Block",
     "wof:parent_id":85826081,
     "wof:placetype":"venue",
@@ -81,6 +81,11 @@
         "bookkeeping"
     ]
 },
-  "bbox": [-79.92794,40.869416,-79.92794,40.869416],
-  "geometry": {"coordinates":[-79.92794,40.869416],"type":"Point"}
+  "bbox": [
+    -79.92794,
+    40.869416,
+    -79.92794,
+    40.869416
+],
+  "geometry": {"coordinates":[-79.92794000000001,40.869416],"type":"Point"}
 }

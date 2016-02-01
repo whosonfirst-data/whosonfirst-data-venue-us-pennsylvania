@@ -2,13 +2,14 @@
   "id": 387231283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.140244,40.403309,-80.140244,40.403309",
     "geom:latitude":40.403309,
     "geom:longitude":-80.140244,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"40 Mcmichael Rd",
     "sg:city":"Carnegie",
     "sg:classifiers":[
@@ -31,11 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85854259,
+        102191575,
+        404484875,
         85633793,
         101720503,
         102080887,
-        85854259
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,9 +48,10 @@
     "wof:geomhash":"823023caf873060731189d0a29371024",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484875,
             "locality_id":101720503,
             "neighbourhood_id":85854259,
             "region_id":85688481,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":387231283,
-    "wof:lastmodified":1449058052,
+    "wof:lastmodified":1454360669,
     "wof:name":"Gege S Glass Specialties",
     "wof:parent_id":85854259,
     "wof:placetype":"venue",
@@ -69,6 +73,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-80.140244,40.403309,-80.140244,40.403309],
+  "bbox": [
+    -80.140244,
+    40.403309,
+    -80.140244,
+    40.403309
+],
   "geometry": {"coordinates":[-80.140244,40.403309],"type":"Point"}
 }

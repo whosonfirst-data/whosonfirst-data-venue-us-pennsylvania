@@ -2,13 +2,14 @@
   "id": 404161061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.375198,40.612,-75.375198,40.612",
     "geom:latitude":40.612,
     "geom:longitude":-75.375198,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"226 E 3rd St",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85897245,
+        102191575,
+        404485987,
         85633793,
         101717907,
         102081395,
-        85897245
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"d1d7095075d94fc3982548863e831d5e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081395,
+            "localadmin_id":404485987,
             "locality_id":101717907,
             "neighbourhood_id":85897245,
             "region_id":85688481,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":404161061,
-    "wof:lastmodified":1449039509,
+    "wof:lastmodified":1454356690,
     "wof:name":"Hank's Auto Service",
     "wof:parent_id":85897245,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.375198,40.612,-75.375198,40.612],
+  "bbox": [
+    -75.375198,
+    40.612,
+    -75.375198,
+    40.612
+],
   "geometry": {"coordinates":[-75.375198,40.612],"type":"Point"}
 }

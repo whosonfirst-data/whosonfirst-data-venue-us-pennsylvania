@@ -2,13 +2,14 @@
   "id": 387331399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.037102,40.4007,-80.037102,40.4007",
     "geom:latitude":40.4007,
     "geom:longitude":-80.037102,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"N Hills",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -40,10 +41,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85804395,
+        102191575,
+        404482523,
         85633793,
+        101718805,
         102080887,
-        85804395
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,17 +57,18 @@
     "wof:geomhash":"712dc402c82515fd61b228a01a9e3a80",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
+            "localadmin_id":404482523,
+            "locality_id":101718805,
             "neighbourhood_id":85804395,
             "region_id":85688481,
             "venue_id":387331399
         }
     ],
     "wof:id":387331399,
-    "wof:lastmodified":1449058415,
+    "wof:lastmodified":1454360775,
     "wof:name":"Enhanced Images",
     "wof:parent_id":85804395,
     "wof:placetype":"venue",
@@ -76,6 +81,11 @@
         "dermatologist"
     ]
 },
-  "bbox": [-80.037102,40.4007,-80.037102,40.4007],
+  "bbox": [
+    -80.037102,
+    40.4007,
+    -80.037102,
+    40.4007
+],
   "geometry": {"coordinates":[-80.037102,40.4007],"type":"Point"}
 }

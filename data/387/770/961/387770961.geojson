@@ -2,13 +2,14 @@
   "id": 387770961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.46702,40.792052,-79.46702,40.792052",
     "geom:latitude":40.792052,
     "geom:longitude":-79.46702,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"241 Lasher Rd",
     "sg:city":"Kittanning",
     "sg:classifiers":[
@@ -41,8 +42,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081371,
-        85816487
+        85816487,
+        102081371
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,17 +53,15 @@
     "wof:geomhash":"8f0ad54c25794a0e6194bf05f7a37990",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081371,
-            "locality_id":-1,
             "neighbourhood_id":85816487,
             "region_id":85688481,
             "venue_id":387770961
         }
     ],
     "wof:id":387770961,
-    "wof:lastmodified":1449059995,
+    "wof:lastmodified":1454361255,
     "wof:name":"Mark Ferguson Dmd",
     "wof:parent_id":85816487,
     "wof:placetype":"venue",
@@ -79,6 +78,11 @@
         "oral"
     ]
 },
-  "bbox": [-79.46702,40.792052,-79.46702,40.792052],
-  "geometry": {"coordinates":[-79.46702,40.792052],"type":"Point"}
+  "bbox": [
+    -79.46702,
+    40.792052,
+    -79.46702,
+    40.792052
+],
+  "geometry": {"coordinates":[-79.46702000000001,40.792052],"type":"Point"}
 }

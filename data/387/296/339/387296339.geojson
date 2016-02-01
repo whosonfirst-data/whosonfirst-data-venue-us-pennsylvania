@@ -2,13 +2,14 @@
   "id": 387296339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.065804,40.4352,-80.065804,40.4352",
     "geom:latitude":40.4352,
     "geom:longitude":-80.065804,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"39 White Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536243,
+        102191575,
+        404482523,
         85633793,
-        101718739,
-        102080887
+        101718805,
+        102080887,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"7f263c462c33fb8e6c0bc50a6ec8b640",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":101718739,
-            "neighbourhood_id":-1,
+            "localadmin_id":404482523,
+            "locality_id":101718805,
+            "neighbourhood_id":420536243,
             "region_id":85688481,
             "venue_id":387296339
         }
     ],
     "wof:id":387296339,
-    "wof:lastmodified":1449059216,
+    "wof:lastmodified":1454361013,
     "wof:name":"Daschbach Herbert H PHD",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536243,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.065804,40.4352,-80.065804,40.4352],
+  "bbox": [
+    -80.065804,
+    40.4352,
+    -80.065804,
+    40.4352
+],
   "geometry": {"coordinates":[-80.065804,40.4352],"type":"Point"}
 }

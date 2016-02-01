@@ -2,13 +2,14 @@
   "id": 387155443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.87773,40.325418,-79.87773,40.325418",
     "geom:latitude":40.325418,
     "geom:longitude":-79.87773,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1036 Edmundson Dr",
     "sg:city":"Glassport",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536347,
+        102191575,
+        404484873,
         85633793,
-        101718679,
-        102080887
+        101718753,
+        102080887,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"8100701c6dcf0c8458eb65d9dac9338a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":101718679,
-            "neighbourhood_id":-1,
+            "localadmin_id":404484873,
+            "locality_id":101718753,
+            "neighbourhood_id":420536347,
             "region_id":85688481,
             "venue_id":387155443
         }
     ],
     "wof:id":387155443,
-    "wof:lastmodified":1449059257,
+    "wof:lastmodified":1454361027,
     "wof:name":"Cathy Esack Hair Styling",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536347,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.87773,40.325418,-79.87773,40.325418],
+  "bbox": [
+    -79.87773,
+    40.325418,
+    -79.87773,
+    40.325418
+],
   "geometry": {"coordinates":[-79.87773,40.325418],"type":"Point"}
 }

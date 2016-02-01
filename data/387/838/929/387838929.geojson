@@ -2,13 +2,14 @@
   "id": 387838929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.10704,42.089149,-80.10704,42.089149",
     "geom:latitude":42.089149,
     "geom:longitude":-80.10704,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3626 Harvard Rd",
     "sg:city":"Erie",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85818215,
+        102191575,
+        404486673,
         85633793,
         101718253,
         102080955,
-        85818215
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"ee3f3a7a1c0c20062b147b296b34bca9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080955,
+            "localadmin_id":404486673,
             "locality_id":101718253,
             "neighbourhood_id":85818215,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387838929,
-    "wof:lastmodified":1449056570,
+    "wof:lastmodified":1454358443,
     "wof:name":"Barbara Hesler Massage Therapy",
     "wof:parent_id":85818215,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "producer"
     ]
 },
-  "bbox": [-80.10704,42.089149,-80.10704,42.089149],
+  "bbox": [
+    -80.10704,
+    42.089149,
+    -80.10704,
+    42.089149
+],
   "geometry": {"coordinates":[-80.10704,42.089149],"type":"Point"}
 }

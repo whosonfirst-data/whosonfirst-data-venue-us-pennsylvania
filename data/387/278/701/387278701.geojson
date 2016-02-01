@@ -2,13 +2,14 @@
   "id": 387278701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.808647,40.392689,-79.808647,40.392689",
     "geom:latitude":40.392689,
     "geom:longitude":-79.808647,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"401 Commerce St",
     "sg:city":"Wilmerding",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85856615,
+        102191575,
+        404482543,
         85633793,
+        101718699,
         102080887,
-        85856615
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,17 +41,18 @@
     "wof:geomhash":"fb5c92020a47055e62d7a0e0c2fc7356",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
+            "localadmin_id":404482543,
+            "locality_id":101718699,
             "neighbourhood_id":85856615,
             "region_id":85688481,
             "venue_id":387278701
         }
     ],
     "wof:id":387278701,
-    "wof:lastmodified":1449058214,
+    "wof:lastmodified":1454360711,
     "wof:name":"Dominick's Classic Cuts",
     "wof:parent_id":85856615,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.808647,40.392689,-79.808647,40.392689],
-  "geometry": {"coordinates":[-79.808647,40.392689],"type":"Point"}
+  "bbox": [
+    -79.808647,
+    40.392689,
+    -79.808647,
+    40.392689
+],
+  "geometry": {"coordinates":[-79.80864699999999,40.392689],"type":"Point"}
 }

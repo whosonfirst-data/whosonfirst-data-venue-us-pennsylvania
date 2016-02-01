@@ -2,13 +2,14 @@
   "id": 403985657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.227242,39.728329,-77.227242,39.728329",
     "geom:latitude":39.728329,
     "geom:longitude":-77.227242,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"601 Mason Dixon Rd",
     "sg:city":"Gettysburg",
     "sg:classifiers":[
@@ -37,8 +38,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080899,
-        85847703
+        85847703,
+        102080899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +49,15 @@
     "wof:geomhash":"3af663f27b5fd8f863016ee5aba2f83e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080899,
-            "locality_id":-1,
             "neighbourhood_id":85847703,
             "region_id":85688481,
             "venue_id":403985657
         }
     ],
     "wof:id":403985657,
-    "wof:lastmodified":1449055295,
+    "wof:lastmodified":1454357586,
     "wof:name":"Klein Builders Group Inc",
     "wof:parent_id":85847703,
     "wof:placetype":"venue",
@@ -71,6 +70,11 @@
         "home"
     ]
 },
-  "bbox": [-77.227242,39.728329,-77.227242,39.728329],
+  "bbox": [
+    -77.227242,
+    39.728329,
+    -77.227242,
+    39.728329
+],
   "geometry": {"coordinates":[-77.227242,39.728329],"type":"Point"}
 }

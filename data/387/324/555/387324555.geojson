@@ -2,13 +2,14 @@
   "id": 387324555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.94876,40.445167,-79.94876,40.445167",
     "geom:latitude":40.445167,
     "geom:longitude":-79.94876,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"414 S Craig St 280",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85805461,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85805461
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"59b6d497a17ef3b9ac6981fa41a1d80c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85805461,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387324555,
-    "wof:lastmodified":1449058325,
+    "wof:lastmodified":1454360746,
     "wof:name":"Srishti Dances Of India",
     "wof:parent_id":85805461,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "dancing"
     ]
 },
-  "bbox": [-79.94876,40.445167,-79.94876,40.445167],
-  "geometry": {"coordinates":[-79.94876,40.445167],"type":"Point"}
+  "bbox": [
+    -79.94876,
+    40.445167,
+    -79.94876,
+    40.445167
+],
+  "geometry": {"coordinates":[-79.94875999999999,40.445167],"type":"Point"}
 }

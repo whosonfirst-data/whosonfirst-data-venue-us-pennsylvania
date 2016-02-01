@@ -2,13 +2,14 @@
   "id": 387328027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.93682,40.496237,-79.93682,40.496237",
     "geom:latitude":40.496237,
     "geom:longitude":-79.93682,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"225 Penn St",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85840611
+        85840611,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"5d8fe4c306ba64543950d6705d95775d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85840611,
             "region_id":85688481,
             "venue_id":387328027
         }
     ],
     "wof:id":387328027,
-    "wof:lastmodified":1449058345,
+    "wof:lastmodified":1454360751,
     "wof:name":"Psychiatric Associates Of Western Pa",
     "wof:parent_id":85840611,
     "wof:placetype":"venue",
@@ -64,6 +63,11 @@
         "disorders-information"
     ]
 },
-  "bbox": [-79.93682,40.496237,-79.93682,40.496237],
+  "bbox": [
+    -79.93682,
+    40.496237,
+    -79.93682,
+    40.496237
+],
   "geometry": {"coordinates":[-79.93682,40.496237],"type":"Point"}
 }

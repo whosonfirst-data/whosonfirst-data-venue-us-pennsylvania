@@ -2,13 +2,14 @@
   "id": 387240593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.208328,40.499229,-80.208328,40.499229",
     "geom:latitude":40.499229,
     "geom:longitude":-80.208328,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1187 Thorn Run Rd",
     "sg:city":"Coraopolis",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85809567,
+        102191575,
+        404484137,
         85633793,
         101720527,
         102080887,
-        85809567
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"3bf1ee4df45b7f38f02c799afcbf4742",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484137,
             "locality_id":101720527,
             "neighbourhood_id":85809567,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387240593,
-    "wof:lastmodified":1449056506,
+    "wof:lastmodified":1454358401,
     "wof:name":"Sub Prime Consultants",
     "wof:parent_id":85809567,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "academic"
     ]
 },
-  "bbox": [-80.208328,40.499229,-80.208328,40.499229],
-  "geometry": {"coordinates":[-80.208328,40.499229],"type":"Point"}
+  "bbox": [
+    -80.208328,
+    40.499229,
+    -80.208328,
+    40.499229
+],
+  "geometry": {"coordinates":[-80.20832799999999,40.499229],"type":"Point"}
 }

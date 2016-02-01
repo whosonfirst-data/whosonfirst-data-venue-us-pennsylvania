@@ -2,13 +2,14 @@
   "id": 387276905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.837641,40.482544,-79.837641,40.482544",
     "geom:latitude":40.482544,
     "geom:longitude":-79.837641,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5614 Verona Rd",
     "sg:city":"Verona",
     "sg:classifiers":[
@@ -51,8 +52,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85812851
+        85812851,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,17 +63,15 @@
     "wof:geomhash":"a645ad8f6f77c6febc81eaf774be86e4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85812851,
             "region_id":85688481,
             "venue_id":387276905
         }
     ],
     "wof:id":387276905,
-    "wof:lastmodified":1449056257,
+    "wof:lastmodified":1454358202,
     "wof:name":"Werley Chiropractic",
     "wof:parent_id":85812851,
     "wof:placetype":"venue",
@@ -88,6 +87,11 @@
         "rehabilitation"
     ]
 },
-  "bbox": [-79.837641,40.482544,-79.837641,40.482544],
+  "bbox": [
+    -79.837641,
+    40.482544,
+    -79.837641,
+    40.482544
+],
   "geometry": {"coordinates":[-79.837641,40.482544],"type":"Point"}
 }

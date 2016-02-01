@@ -2,13 +2,14 @@
   "id": 387874857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.777757,40.911173,-77.777757,40.911173",
     "geom:latitude":40.911173,
     "geom:longitude":-77.777757,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"141 S Allegheny St",
     "sg:city":"Bellefonte",
     "sg:classifiers":[
@@ -36,11 +37,13 @@
     "sg:website":"www.wirelessmadesimple.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85806075,
+        102191575,
+        404485871,
         85633793,
         101718145,
         102081369,
-        85806075
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,9 +53,10 @@
     "wof:geomhash":"2e91104376bbdf3ba1ed0f4fd4154da2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081369,
+            "localadmin_id":404485871,
             "locality_id":101718145,
             "neighbourhood_id":85806075,
             "region_id":85688481,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":387874857,
-    "wof:lastmodified":1449059675,
+    "wof:lastmodified":1454361155,
     "wof:name":"Wireless Made Simple",
     "wof:parent_id":85806075,
     "wof:placetype":"venue",
@@ -73,6 +77,11 @@
         "supply"
     ]
 },
-  "bbox": [-77.777757,40.911173,-77.777757,40.911173],
-  "geometry": {"coordinates":[-77.777757,40.911173],"type":"Point"}
+  "bbox": [
+    -77.777757,
+    40.911173,
+    -77.777757,
+    40.911173
+],
+  "geometry": {"coordinates":[-77.77775699999999,40.911173],"type":"Point"}
 }

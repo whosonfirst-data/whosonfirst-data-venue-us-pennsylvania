@@ -2,13 +2,14 @@
   "id": 387565057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.17896,40.234811,-80.17896,40.234811",
     "geom:latitude":40.234811,
     "geom:longitude":-80.17896,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2095 Washington Rd",
     "sg:city":"Canonsburg",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081343,
-        85825315
+        85825315,
+        102081343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"8609b7c5de6ada34a26fb329e5cd599e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081343,
-            "locality_id":-1,
             "neighbourhood_id":85825315,
             "region_id":85688481,
             "venue_id":387565057
         }
     ],
     "wof:id":387565057,
-    "wof:lastmodified":1449059581,
+    "wof:lastmodified":1454361126,
     "wof:name":"Peaceful Pastures Pet Cemetery & Crematory",
     "wof:parent_id":85825315,
     "wof:placetype":"venue",
@@ -61,6 +60,11 @@
         "pet"
     ]
 },
-  "bbox": [-80.17896,40.234811,-80.17896,40.234811],
+  "bbox": [
+    -80.17896,
+    40.234811,
+    -80.17896,
+    40.234811
+],
   "geometry": {"coordinates":[-80.17896,40.234811],"type":"Point"}
 }

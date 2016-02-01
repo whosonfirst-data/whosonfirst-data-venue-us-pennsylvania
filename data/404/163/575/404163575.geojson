@@ -2,13 +2,14 @@
   "id": 404163575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.394175,40.570055,-75.394175,40.570055",
     "geom:latitude":40.570055,
     "geom:longitude":-75.394175,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4121 Old Bethlehem Pike",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081327,
-        85811719
+        85811719,
+        102081327
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"f2d140bcfb7d1baa6ecadb531162e6c9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081327,
-            "locality_id":-1,
             "neighbourhood_id":85811719,
             "region_id":85688481,
             "venue_id":404163575
         }
     ],
     "wof:id":404163575,
-    "wof:lastmodified":1449040307,
+    "wof:lastmodified":1454357123,
     "wof:name":"St Michael's School",
     "wof:parent_id":85811719,
     "wof:placetype":"venue",
@@ -64,6 +63,11 @@
         "elementary"
     ]
 },
-  "bbox": [-75.394175,40.570055,-75.394175,40.570055],
+  "bbox": [
+    -75.394175,
+    40.570055,
+    -75.394175,
+    40.570055
+],
   "geometry": {"coordinates":[-75.394175,40.570055],"type":"Point"}
 }

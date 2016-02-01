@@ -2,13 +2,14 @@
   "id": 387389291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.062407,40.423675,-80.062407,40.423675",
     "geom:latitude":40.423675,
     "geom:longitude":-80.062407,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"790 Holiday Dr Ste 1",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -25,11 +26,13 @@
     "sg:website":"www.myceridian.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85816087,
+        102191575,
+        404484941,
         85633793,
         101718673,
         102080887,
-        85816087
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +42,10 @@
     "wof:geomhash":"471c46cef05d8f45ec18893c42bdb183",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484941,
             "locality_id":101718673,
             "neighbourhood_id":85816087,
             "region_id":85688481,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":387389291,
-    "wof:lastmodified":1449059137,
+    "wof:lastmodified":1454360995,
     "wof:name":"Ceridian",
     "wof:parent_id":85816087,
     "wof:placetype":"venue",
@@ -57,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.062407,40.423675,-80.062407,40.423675],
-  "geometry": {"coordinates":[-80.062407,40.423675],"type":"Point"}
+  "bbox": [
+    -80.062407,
+    40.423675,
+    -80.062407,
+    40.423675
+],
+  "geometry": {"coordinates":[-80.06240699999999,40.423675],"type":"Point"}
 }

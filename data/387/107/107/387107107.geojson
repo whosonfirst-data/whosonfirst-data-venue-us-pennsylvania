@@ -2,13 +2,14 @@
   "id": 387107107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.10984,40.354109,-80.10984,40.354109",
     "geom:latitude":40.354109,
     "geom:longitude":-80.10984,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"656 Gregg Ave",
     "sg:city":"Bridgeville",
     "sg:classifiers":[
@@ -48,7 +49,6 @@
     "wof:geomhash":"d3f41e2127e2be1961b98231c94fbc12",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
             "locality_id":101718777,
@@ -58,7 +58,7 @@
         }
     ],
     "wof:id":387107107,
-    "wof:lastmodified":1449056127,
+    "wof:lastmodified":1454358099,
     "wof:name":"Creative Memories",
     "wof:parent_id":85828567,
     "wof:placetype":"venue",
@@ -70,6 +70,11 @@
         "art"
     ]
 },
-  "bbox": [-80.10984,40.354109,-80.10984,40.354109],
-  "geometry": {"coordinates":[-80.10984,40.354109],"type":"Point"}
+  "bbox": [
+    -80.10984,
+    40.354109,
+    -80.10984,
+    40.354109
+],
+  "geometry": {"coordinates":[-80.10984000000001,40.354109],"type":"Point"}
 }

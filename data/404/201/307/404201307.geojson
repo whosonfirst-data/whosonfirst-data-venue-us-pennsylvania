@@ -2,13 +2,14 @@
   "id": 404201307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.422813,40.635656,-75.422813,40.635656",
     "geom:latitude":40.635656,
     "geom:longitude":-75.422813,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4701 Pinehurst Rd",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420538729,
+        102191575,
+        404485987,
         85633793,
         101717907,
-        102081395
+        102081395,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"a3daf54179e8cb391a8e93e0ffac9e70",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081395,
+            "localadmin_id":404485987,
             "locality_id":101717907,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420538729,
             "region_id":85688481,
             "venue_id":404201307
         }
     ],
     "wof:id":404201307,
-    "wof:lastmodified":1449040159,
+    "wof:lastmodified":1454357037,
     "wof:name":"Woodcrest Condominium",
-    "wof:parent_id":-1,
+    "wof:parent_id":420538729,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "condominium"
     ]
 },
-  "bbox": [-75.422813,40.635656,-75.422813,40.635656],
+  "bbox": [
+    -75.422813,
+    40.635656,
+    -75.422813,
+    40.635656
+],
   "geometry": {"coordinates":[-75.422813,40.635656],"type":"Point"}
 }

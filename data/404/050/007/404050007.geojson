@@ -2,13 +2,14 @@
   "id": 404050007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.209638,40.235041,-76.209638,40.235041",
     "geom:latitude":40.235041,
     "geom:longitude":-76.209638,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"575 Indian Run Rd",
     "sg:city":"Ephrata",
     "sg:classifiers":[
@@ -39,8 +40,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85811603
+        85811603,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,17 +51,15 @@
     "wof:geomhash":"c13fe76d2467a12ab1101e36c1ea29fe",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85811603,
             "region_id":85688481,
             "venue_id":404050007
         }
     ],
     "wof:id":404050007,
-    "wof:lastmodified":1449039802,
+    "wof:lastmodified":1454356810,
     "wof:name":"Scotts Garage Door Installations",
     "wof:parent_id":85811603,
     "wof:placetype":"venue",
@@ -74,6 +73,11 @@
         "type"
     ]
 },
-  "bbox": [-76.209638,40.235041,-76.209638,40.235041],
+  "bbox": [
+    -76.209638,
+    40.235041,
+    -76.209638,
+    40.235041
+],
   "geometry": {"coordinates":[-76.209638,40.235041],"type":"Point"}
 }

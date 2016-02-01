@@ -2,13 +2,14 @@
   "id": 404146321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.326735,40.681592,-76.326735,40.681592",
     "geom:latitude":40.681592,
     "geom:longitude":-76.326735,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"119 School Row",
     "sg:city":"Branchdale",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420539633,
+        102191575,
+        404488151,
         85633793,
-        101719685,
-        102081271
+        101719727,
+        102081271,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"945a7edffad5f72f35430adbfed54d2e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081271,
-            "locality_id":101719685,
-            "neighbourhood_id":-1,
+            "localadmin_id":404488151,
+            "locality_id":101719727,
+            "neighbourhood_id":420539633,
             "region_id":85688481,
             "venue_id":404146321
         }
     ],
     "wof:id":404146321,
-    "wof:lastmodified":1449039529,
+    "wof:lastmodified":1454356699,
     "wof:name":"Vic's Taxidermy",
-    "wof:parent_id":-1,
+    "wof:parent_id":420539633,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "taxidermist"
     ]
 },
-  "bbox": [-76.326735,40.681592,-76.326735,40.681592],
+  "bbox": [
+    -76.326735,
+    40.681592,
+    -76.326735,
+    40.681592
+],
   "geometry": {"coordinates":[-76.326735,40.681592],"type":"Point"}
 }

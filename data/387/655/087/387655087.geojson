@@ -2,13 +2,14 @@
   "id": 387655087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.115673,40.689133,-79.115673,40.689133",
     "geom:latitude":40.689133,
     "geom:longitude":-79.115673,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1569 Grove Chapel Rd",
     "sg:city":"Indiana",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081387,
-        85810803
+        85810803,
+        102081387
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"cb7938de00c92d83ea4d7900736e2eea",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081387,
-            "locality_id":-1,
             "neighbourhood_id":85810803,
             "region_id":85688481,
             "venue_id":387655087
         }
     ],
     "wof:id":387655087,
-    "wof:lastmodified":1449058294,
+    "wof:lastmodified":1454360736,
     "wof:name":"Jke Contracting",
     "wof:parent_id":85810803,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.115673,40.689133,-79.115673,40.689133],
+  "bbox": [
+    -79.115673,
+    40.689133,
+    -79.115673,
+    40.689133
+],
   "geometry": {"coordinates":[-79.115673,40.689133],"type":"Point"}
 }

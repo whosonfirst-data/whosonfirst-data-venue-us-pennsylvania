@@ -2,13 +2,14 @@
   "id": 387432061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.95268,40.509407,-79.95268,40.509407",
     "geom:latitude":40.509407,
     "geom:longitude":-79.95268,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"7 Reese Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -47,8 +48,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85853055
+        85853055,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,17 +59,15 @@
     "wof:geomhash":"f3cdadc5523837bccf82ca962a22016e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85853055,
             "region_id":85688481,
             "venue_id":387432061
         }
     ],
     "wof:id":387432061,
-    "wof:lastmodified":1449056046,
+    "wof:lastmodified":1454358040,
     "wof:name":"Kenst Brothers Inc",
     "wof:parent_id":85853055,
     "wof:placetype":"venue",
@@ -91,6 +90,11 @@
         "painting"
     ]
 },
-  "bbox": [-79.95268,40.509407,-79.95268,40.509407],
+  "bbox": [
+    -79.95268,
+    40.509407,
+    -79.95268,
+    40.509407
+],
   "geometry": {"coordinates":[-79.95268,40.509407],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387771575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.520269,40.812816,-79.520269,40.812816",
     "geom:latitude":40.812816,
     "geom:longitude":-79.520269,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"150 S Water St",
     "sg:city":"Kittanning",
     "sg:classifiers":[
@@ -38,8 +39,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081371,
-        85816487
+        85816487,
+        102081371
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +50,15 @@
     "wof:geomhash":"079d8108b7ae7080a5e5df36b773c71b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081371,
-            "locality_id":-1,
             "neighbourhood_id":85816487,
             "region_id":85688481,
             "venue_id":387771575
         }
     ],
     "wof:id":387771575,
-    "wof:lastmodified":1449058176,
+    "wof:lastmodified":1454360702,
     "wof:name":"API Auto Glass",
     "wof:parent_id":85816487,
     "wof:placetype":"venue",
@@ -72,6 +71,11 @@
         "glass-auto"
     ]
 },
-  "bbox": [-79.520269,40.812816,-79.520269,40.812816],
+  "bbox": [
+    -79.520269,
+    40.812816,
+    -79.520269,
+    40.812816
+],
   "geometry": {"coordinates":[-79.520269,40.812816],"type":"Point"}
 }

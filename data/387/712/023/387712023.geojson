@@ -2,13 +2,14 @@
   "id": 387712023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.123901,40.824651,-80.123901,40.824651",
     "geom:latitude":40.824651,
     "geom:longitude":-80.123901,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"348 Perry Hwy",
     "sg:city":"Harmony",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102083677,
-        85833977
+        85833977,
+        102083677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"fb5c6597329acb9f7c705475b69b033f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102083677,
-            "locality_id":-1,
             "neighbourhood_id":85833977,
             "region_id":85688481,
             "venue_id":387712023
         }
     ],
     "wof:id":387712023,
-    "wof:lastmodified":1449057740,
+    "wof:lastmodified":1454360578,
     "wof:name":"Shaffer Ls Services",
     "wof:parent_id":85833977,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "bureau"
     ]
 },
-  "bbox": [-80.123901,40.824651,-80.123901,40.824651],
+  "bbox": [
+    -80.123901,
+    40.824651,
+    -80.123901,
+    40.824651
+],
   "geometry": {"coordinates":[-80.123901,40.824651],"type":"Point"}
 }

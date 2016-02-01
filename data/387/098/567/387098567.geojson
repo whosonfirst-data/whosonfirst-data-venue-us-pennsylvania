@@ -2,13 +2,14 @@
   "id": 387098567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.225385,40.583982,-80.225385,40.583982",
     "geom:latitude":40.583982,
     "geom:longitude":-80.225385,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"418 Merchant St",
     "sg:city":"Ambridge",
     "sg:classifiers":[
@@ -31,10 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85803005,
+        102191575,
+        404484359,
         85633793,
+        101718407,
         102081323,
-        85803005
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +48,18 @@
     "wof:geomhash":"38d4a313d422a0d0ab6fb2ca660cfca6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081323,
-            "locality_id":-1,
+            "localadmin_id":404484359,
+            "locality_id":101718407,
             "neighbourhood_id":85803005,
             "region_id":85688481,
             "venue_id":387098567
         }
     ],
     "wof:id":387098567,
-    "wof:lastmodified":1449059515,
+    "wof:lastmodified":1454361105,
     "wof:name":"Basilon of Ambridge",
     "wof:parent_id":85803005,
     "wof:placetype":"venue",
@@ -68,6 +73,11 @@
         "wedding"
     ]
 },
-  "bbox": [-80.225385,40.583982,-80.225385,40.583982],
+  "bbox": [
+    -80.225385,
+    40.583982,
+    -80.225385,
+    40.583982
+],
   "geometry": {"coordinates":[-80.225385,40.583982],"type":"Point"}
 }

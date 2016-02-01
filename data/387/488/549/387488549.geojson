@@ -2,13 +2,14 @@
   "id": 387488549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.985472,40.333817,-79.985472,40.333817",
     "geom:latitude":40.333817,
     "geom:longitude":-79.985472,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5566 Brownsville Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536253,
+        102191575,
+        404484861,
         85633793,
         101718815,
-        102080887
+        102080887,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"27568a6a800b8e24c794ae683bc5fc9f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484861,
             "locality_id":101718815,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420536253,
             "region_id":85688481,
             "venue_id":387488549
         }
     ],
     "wof:id":387488549,
-    "wof:lastmodified":1449059823,
+    "wof:lastmodified":1454361202,
     "wof:name":"Tattoo Johnny's Studio",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536253,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.985472,40.333817,-79.985472,40.333817],
+  "bbox": [
+    -79.985472,
+    40.333817,
+    -79.985472,
+    40.333817
+],
   "geometry": {"coordinates":[-79.985472,40.333817],"type":"Point"}
 }

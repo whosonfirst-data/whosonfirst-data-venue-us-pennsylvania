@@ -2,13 +2,14 @@
   "id": 403718847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.425663,40.331901,-76.425663,40.331901",
     "geom:latitude":40.331901,
     "geom:longitude":-76.425663,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"440 S 9th St",
     "sg:city":"Lebanon",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85842249,
+        102191575,
+        404485699,
         85633793,
         101717093,
         102081341,
-        85842249
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"1ec409b55b674c1a87a44a7405599140",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081341,
+            "localadmin_id":404485699,
             "locality_id":101717093,
             "neighbourhood_id":85842249,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":403718847,
-    "wof:lastmodified":1449054931,
+    "wof:lastmodified":1454357371,
     "wof:name":"Blouch's Mini Mart",
     "wof:parent_id":85842249,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "inspection"
     ]
 },
-  "bbox": [-76.425663,40.331901,-76.425663,40.331901],
+  "bbox": [
+    -76.425663,
+    40.331901,
+    -76.425663,
+    40.331901
+],
   "geometry": {"coordinates":[-76.425663,40.331901],"type":"Point"}
 }

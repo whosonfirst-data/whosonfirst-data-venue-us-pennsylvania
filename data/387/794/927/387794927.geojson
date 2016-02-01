@@ -2,13 +2,14 @@
   "id": 387794927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.394738,41.918157,-79.394738,41.918157",
     "geom:latitude":41.918157,
     "geom:longitude":-79.394738,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"609 Sheldon Rd",
     "sg:city":"Pittsfield",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081337,
-        85802759
+        85802759,
+        102081337
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"625f8d3bc19fc2cea49ca8c9e84191ff",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081337,
-            "locality_id":-1,
             "neighbourhood_id":85802759,
             "region_id":85688481,
             "venue_id":387794927
         }
     ],
     "wof:id":387794927,
-    "wof:lastmodified":1449057931,
+    "wof:lastmodified":1454360636,
     "wof:name":"Johnson Logging",
     "wof:parent_id":85802759,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "logging"
     ]
 },
-  "bbox": [-79.394738,41.918157,-79.394738,41.918157],
+  "bbox": [
+    -79.394738,
+    41.918157,
+    -79.394738,
+    41.918157
+],
   "geometry": {"coordinates":[-79.394738,41.918157],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387440573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.968136,40.383664,-79.968136,40.383664",
     "geom:latitude":40.383664,
     "geom:longitude":-79.968136,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3048 Hazelhurst Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85824379,
+        102191575,
+        404484861,
         85633793,
         101718815,
         102080887,
-        85824379
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"3ececd225361d5b247028e26336f319e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484861,
             "locality_id":101718815,
             "neighbourhood_id":85824379,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387440573,
-    "wof:lastmodified":1449057447,
+    "wof:lastmodified":1454359133,
     "wof:name":"Greg's Heating & Air",
     "wof:parent_id":85824379,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-79.968136,40.383664,-79.968136,40.383664],
+  "bbox": [
+    -79.968136,
+    40.383664,
+    -79.968136,
+    40.383664
+],
   "geometry": {"coordinates":[-79.968136,40.383664],"type":"Point"}
 }

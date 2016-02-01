@@ -2,13 +2,14 @@
   "id": 387815493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.275813,42.019477,-80.275813,42.019477",
     "geom:latitude":42.019477,
     "geom:longitude":-80.275813,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"8300 Ridge Rd",
     "sg:city":"Girard",
     "sg:classifiers":[
@@ -35,10 +36,13 @@
     "sg:website":"http://www.pleasantridgemanor.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420537927,
+        102191575,
+        404486677,
         85633793,
-        101720207,
-        102080955
+        101718251,
+        102080955,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +52,20 @@
     "wof:geomhash":"f02311641988e646a735ae43307449c9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080955,
-            "locality_id":101720207,
-            "neighbourhood_id":-1,
+            "localadmin_id":404486677,
+            "locality_id":101718251,
+            "neighbourhood_id":420537927,
             "region_id":85688481,
             "venue_id":387815493
         }
     ],
     "wof:id":387815493,
-    "wof:lastmodified":1449057945,
+    "wof:lastmodified":1454360639,
     "wof:name":"Pleasant Ridge Manor",
-    "wof:parent_id":-1,
+    "wof:parent_id":420537927,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -70,6 +75,11 @@
         "rehabilitation"
     ]
 },
-  "bbox": [-80.275813,42.019477,-80.275813,42.019477],
+  "bbox": [
+    -80.275813,
+    42.019477,
+    -80.275813,
+    42.019477
+],
   "geometry": {"coordinates":[-80.275813,42.019477],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387280619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.060067,40.497806,-80.060067,40.497806",
     "geom:latitude":40.497806,
     "geom:longitude":-80.060067,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"660 Lincoln Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85842091
+        85842091,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"725bae38ba333fc30aae83603c7fbc53",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85842091,
             "region_id":85688481,
             "venue_id":387280619
         }
     ],
     "wof:id":387280619,
-    "wof:lastmodified":1449057974,
+    "wof:lastmodified":1454360642,
     "wof:name":"D Insurance Inc",
     "wof:parent_id":85842091,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "business"
     ]
 },
-  "bbox": [-80.060067,40.497806,-80.060067,40.497806],
+  "bbox": [
+    -80.060067,
+    40.497806,
+    -80.060067,
+    40.497806
+],
   "geometry": {"coordinates":[-80.060067,40.497806],"type":"Point"}
 }

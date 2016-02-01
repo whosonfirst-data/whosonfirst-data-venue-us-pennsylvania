@@ -2,13 +2,14 @@
   "id": 403729093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.509981,40.660939,-77.509981,40.660939",
     "geom:latitude":40.660939,
     "geom:longitude":-77.509981,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"395 Lindsey Ln",
     "sg:city":"Lewistown",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081333,
-        85835679
+        85835679,
+        102081333
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"bbcf871093f12c7008758bb297d39fe5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081333,
-            "locality_id":-1,
             "neighbourhood_id":85835679,
             "region_id":85688481,
             "venue_id":403729093
         }
     ],
     "wof:id":403729093,
-    "wof:lastmodified":1449055313,
+    "wof:lastmodified":1454357600,
     "wof:name":"Lazy Hog Farm",
     "wof:parent_id":85835679,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.509981,40.660939,-77.509981,40.660939],
+  "bbox": [
+    -77.509981,
+    40.660939,
+    -77.509981,
+    40.660939
+],
   "geometry": {"coordinates":[-77.509981,40.660939],"type":"Point"}
 }

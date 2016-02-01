@@ -2,13 +2,14 @@
   "id": 404086621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.301496,40.041614,-76.301496,40.041614",
     "geom:latitude":40.041614,
     "geom:longitude":-76.301496,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"221 E Chestnut St",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -31,11 +32,13 @@
     "sg:website":"http://www.hublaw.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85846173,
+        102191575,
+        404487183,
         85633793,
         101718643,
         102081377,
-        85846173
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,9 +48,10 @@
     "wof:geomhash":"8a360d80510e07bc46f127d86376e830",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081377,
+            "localadmin_id":404487183,
             "locality_id":101718643,
             "neighbourhood_id":85846173,
             "region_id":85688481,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":404086621,
-    "wof:lastmodified":1449039936,
+    "wof:lastmodified":1454356904,
     "wof:name":"Hartman Underhill & Brubaker LLP",
     "wof:parent_id":85846173,
     "wof:placetype":"venue",
@@ -68,6 +72,11 @@
         "business"
     ]
 },
-  "bbox": [-76.301496,40.041614,-76.301496,40.041614],
+  "bbox": [
+    -76.301496,
+    40.041614,
+    -76.301496,
+    40.041614
+],
   "geometry": {"coordinates":[-76.301496,40.041614],"type":"Point"}
 }

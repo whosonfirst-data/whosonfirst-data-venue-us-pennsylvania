@@ -2,13 +2,14 @@
   "id": 387324921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.960724,40.441826,-79.960724,40.441826",
     "geom:latitude":40.441826,
     "geom:longitude":-79.960724,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"203 Lothrop St",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85873589,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85873589
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"db2a83c395805e94928907ffdee75045",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85873589,
             "region_id":85688481,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":387324921,
-    "wof:lastmodified":1449058326,
+    "wof:lastmodified":1454360746,
     "wof:name":"Scott W Thompson Md",
     "wof:parent_id":85873589,
     "wof:placetype":"venue",
@@ -75,6 +79,11 @@
         "ear"
     ]
 },
-  "bbox": [-79.960724,40.441826,-79.960724,40.441826],
+  "bbox": [
+    -79.960724,
+    40.441826,
+    -79.960724,
+    40.441826
+],
   "geometry": {"coordinates":[-79.960724,40.441826],"type":"Point"}
 }

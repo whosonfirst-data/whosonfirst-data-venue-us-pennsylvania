@@ -2,13 +2,14 @@
   "id": 387226153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.0239,40.333794,-80.0239,40.333794",
     "geom:latitude":40.333794,
     "geom:longitude":-80.0239,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5217 Library Rd",
     "sg:city":"Bethel Park",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     "sg:website":"www.barleysandhops.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85807579,
+        102191575,
+        404484853,
         85633793,
         101718799,
         102080887,
-        85807579
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"3455b08d37b15e15370c1115aded2eaf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484853,
             "locality_id":101718799,
             "neighbourhood_id":85807579,
             "region_id":85688481,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":387226153,
-    "wof:lastmodified":1449058869,
+    "wof:lastmodified":1454360909,
     "wof:name":"Barley's & Hop's Bottle Shop",
     "wof:parent_id":85807579,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "wine"
     ]
 },
-  "bbox": [-80.0239,40.333794,-80.0239,40.333794],
+  "bbox": [
+    -80.0239,
+    40.333794,
+    -80.0239,
+    40.333794
+],
   "geometry": {"coordinates":[-80.0239,40.333794],"type":"Point"}
 }

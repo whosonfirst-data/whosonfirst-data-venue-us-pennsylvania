@@ -2,13 +2,14 @@
   "id": 404007801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.556088,40.036867,-76.556088,40.036867",
     "geom:latitude":40.036867,
     "geom:longitude":-76.556088,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"780 Grand Manor Dr",
     "sg:city":"Wrightsville",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080953,
-        85851267
+        85851267,
+        102080953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"65dd62486175b5dd88b7c8e21153ce9d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
             "neighbourhood_id":85851267,
             "region_id":85688481,
             "venue_id":404007801
         }
     ],
     "wof:id":404007801,
-    "wof:lastmodified":1449040105,
+    "wof:lastmodified":1454357007,
     "wof:name":"Global Sourcing Associates",
     "wof:parent_id":85851267,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "bureau"
     ]
 },
-  "bbox": [-76.556088,40.036867,-76.556088,40.036867],
+  "bbox": [
+    -76.556088,
+    40.036867,
+    -76.556088,
+    40.036867
+],
   "geometry": {"coordinates":[-76.556088,40.036867],"type":"Point"}
 }

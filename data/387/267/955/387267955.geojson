@@ -2,13 +2,14 @@
   "id": 387267955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.089562,40.553874,-80.089562,40.553874",
     "geom:latitude":40.553874,
     "geom:longitude":-80.089562,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"204 Douglas Rd",
     "sg:city":"Sewickley",
     "sg:classifiers":[
@@ -42,8 +43,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85835579
+        85835579,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,17 +54,15 @@
     "wof:geomhash":"c0fb85a79d3162df054d2e53e269e071",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85835579,
             "region_id":85688481,
             "venue_id":387267955
         }
     ],
     "wof:id":387267955,
-    "wof:lastmodified":1449059572,
+    "wof:lastmodified":1454361123,
     "wof:name":"City Lighting Products Company",
     "wof:parent_id":85835579,
     "wof:placetype":"venue",
@@ -76,6 +75,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-80.089562,40.553874,-80.089562,40.553874],
+  "bbox": [
+    -80.089562,
+    40.553874,
+    -80.089562,
+    40.553874
+],
   "geometry": {"coordinates":[-80.089562,40.553874],"type":"Point"}
 }

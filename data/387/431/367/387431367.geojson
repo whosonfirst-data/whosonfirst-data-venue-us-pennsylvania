@@ -2,13 +2,14 @@
   "id": 387431367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.9814,40.453899,-79.9814,40.453899",
     "geom:latitude":40.453899,
     "geom:longitude":-79.9814,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"100 24th St",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85851271,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85851271
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"26a7a271e8a3bb66338572d4ab1960ae",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85851271,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387431367,
-    "wof:lastmodified":1449056617,
+    "wof:lastmodified":1454358490,
     "wof:name":"Jo Jo's Restaurant",
     "wof:parent_id":85851271,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "american"
     ]
 },
-  "bbox": [-79.9814,40.453899,-79.9814,40.453899],
-  "geometry": {"coordinates":[-79.9814,40.453899],"type":"Point"}
+  "bbox": [
+    -79.9814,
+    40.453899,
+    -79.9814,
+    40.453899
+],
+  "geometry": {"coordinates":[-79.98139999999999,40.453899],"type":"Point"}
 }

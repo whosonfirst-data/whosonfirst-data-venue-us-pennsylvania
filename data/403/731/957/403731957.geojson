@@ -2,13 +2,14 @@
   "id": 403731957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.428162,40.363689,-76.428162,40.363689",
     "geom:latitude":40.363689,
     "geom:longitude":-76.428162,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"875 Jay St",
     "sg:city":"Lebanon",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420538695,
+        102191575,
+        404485699,
         85633793,
-        101719397,
-        102081341
+        101717093,
+        102081341,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"bfa1ea9083e13f754f10c5228eb65fef",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081341,
-            "locality_id":101719397,
-            "neighbourhood_id":-1,
+            "localadmin_id":404485699,
+            "locality_id":101717093,
+            "neighbourhood_id":420538695,
             "region_id":85688481,
             "venue_id":403731957
         }
     ],
     "wof:id":403731957,
-    "wof:lastmodified":1449055821,
+    "wof:lastmodified":1454357892,
     "wof:name":"French's",
-    "wof:parent_id":-1,
+    "wof:parent_id":420538695,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-76.428162,40.363689,-76.428162,40.363689],
+  "bbox": [
+    -76.428162,
+    40.363689,
+    -76.428162,
+    40.363689
+],
   "geometry": {"coordinates":[-76.428162,40.363689],"type":"Point"}
 }

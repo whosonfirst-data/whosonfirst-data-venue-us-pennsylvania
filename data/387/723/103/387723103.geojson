@@ -2,13 +2,14 @@
   "id": 387723103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.755697,40.719311,-79.755697,40.719311",
     "geom:latitude":40.719311,
     "geom:longitude":-79.755697,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"105 N Pike Rd",
     "sg:city":"Sarver",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102083677,
-        85847181
+        85847181,
+        102083677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"cb0c70136994b31eb8f566c79666c03b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102083677,
-            "locality_id":-1,
             "neighbourhood_id":85847181,
             "region_id":85688481,
             "venue_id":387723103
         }
     ],
     "wof:id":387723103,
-    "wof:lastmodified":1449058328,
+    "wof:lastmodified":1454360747,
     "wof:name":"Quality Team Program",
     "wof:parent_id":85847181,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "engineer"
     ]
 },
-  "bbox": [-79.755697,40.719311,-79.755697,40.719311],
+  "bbox": [
+    -79.755697,
+    40.719311,
+    -79.755697,
+    40.719311
+],
   "geometry": {"coordinates":[-79.755697,40.719311],"type":"Point"}
 }

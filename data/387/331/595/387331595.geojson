@@ -2,13 +2,14 @@
   "id": 387331595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.047798,40.3904,-80.047798,40.3904",
     "geom:latitude":40.3904,
     "geom:longitude":-80.047798,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"278 Beverly Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85804395,
+        102191575,
+        404482523,
         85633793,
+        101718805,
         102080887,
-        85804395
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +44,18 @@
     "wof:geomhash":"a1981d868758869b3a90ee38041da427",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
+            "localadmin_id":404482523,
+            "locality_id":101718805,
             "neighbourhood_id":85804395,
             "region_id":85688481,
             "venue_id":387331595
         }
     ],
     "wof:id":387331595,
-    "wof:lastmodified":1449058420,
+    "wof:lastmodified":1454360776,
     "wof:name":"Keiser George F Jr CPA",
     "wof:parent_id":85804395,
     "wof:placetype":"venue",
@@ -60,6 +65,11 @@
         "accountant"
     ]
 },
-  "bbox": [-80.047798,40.3904,-80.047798,40.3904],
+  "bbox": [
+    -80.047798,
+    40.3904,
+    -80.047798,
+    40.3904
+],
   "geometry": {"coordinates":[-80.047798,40.3904],"type":"Point"}
 }

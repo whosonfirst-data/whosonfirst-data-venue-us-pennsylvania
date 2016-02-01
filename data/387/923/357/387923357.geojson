@@ -2,13 +2,14 @@
   "id": 387923357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.923698,40.251801,-76.923698,40.251801",
     "geom:latitude":40.251801,
     "geom:longitude":-76.923698,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"503 N 21st St",
     "sg:city":"Camp Hill",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081359,
-        85828675
+        85828675,
+        102081359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"66e3dc9e4463d3258579040d025f1ae6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081359,
-            "locality_id":-1,
             "neighbourhood_id":85828675,
             "region_id":85688481,
             "venue_id":387923357
         }
     ],
     "wof:id":387923357,
-    "wof:lastmodified":1449059793,
+    "wof:lastmodified":1454361196,
     "wof:name":"Healthcare 24",
     "wof:parent_id":85828675,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "family"
     ]
 },
-  "bbox": [-76.923698,40.251801,-76.923698,40.251801],
+  "bbox": [
+    -76.923698,
+    40.251801,
+    -76.923698,
+    40.251801
+],
   "geometry": {"coordinates":[-76.923698,40.251801],"type":"Point"}
 }

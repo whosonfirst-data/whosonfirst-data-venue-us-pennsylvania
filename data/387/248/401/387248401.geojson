@@ -2,13 +2,14 @@
   "id": 387248401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.90681,40.413326,-79.90681,40.413326",
     "geom:latitude":40.413326,
     "geom:longitude":-79.90681,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"475 Waterfront Dr E",
     "sg:city":"Homestead",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85821717,
+        102191575,
+        404482523,
         85633793,
         101718719,
         102080887,
-        85821717
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"2b0d0a03518b12dad981d94b5e18aaac",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718719,
             "neighbourhood_id":85821717,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387248401,
-    "wof:lastmodified":1449058201,
+    "wof:lastmodified":1454360709,
     "wof:name":"Pa Lrnrs Online Reg Cyber Cs",
     "wof:parent_id":85821717,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "private"
     ]
 },
-  "bbox": [-79.90681,40.413326,-79.90681,40.413326],
-  "geometry": {"coordinates":[-79.90681,40.413326],"type":"Point"}
+  "bbox": [
+    -79.90681,
+    40.413326,
+    -79.90681,
+    40.413326
+],
+  "geometry": {"coordinates":[-79.90680999999999,40.413326],"type":"Point"}
 }

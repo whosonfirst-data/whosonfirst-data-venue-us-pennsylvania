@@ -2,13 +2,14 @@
   "id": 387295343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.158699,40.444,-80.158699,40.444",
     "geom:latitude":40.444,
     "geom:longitude":-80.158699,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5200 Campbells Run Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85821263
+        85821263,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"527632942e2f87f3e8e762405f00f1fb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85821263,
             "region_id":85688481,
             "venue_id":387295343
         }
     ],
     "wof:id":387295343,
-    "wof:lastmodified":1449057651,
+    "wof:lastmodified":1454360543,
     "wof:name":"Cochran Robinson Twp",
     "wof:parent_id":85821263,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "car"
     ]
 },
-  "bbox": [-80.158699,40.444,-80.158699,40.444],
+  "bbox": [
+    -80.158699,
+    40.444,
+    -80.158699,
+    40.444
+],
   "geometry": {"coordinates":[-80.158699,40.444],"type":"Point"}
 }

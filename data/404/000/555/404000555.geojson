@@ -2,13 +2,14 @@
   "id": 404000555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.421469,39.90767,-77.421469,39.90767",
     "geom:latitude":39.90767,
     "geom:longitude":-77.421469,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"265 Buchanan Valley Rd",
     "sg:city":"Orrtanna",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080899,
-        85825673
+        85825673,
+        102080899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"ee9a79e19a16390f916aaaee752a84ce",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080899,
-            "locality_id":-1,
             "neighbourhood_id":85825673,
             "region_id":85688481,
             "venue_id":404000555
         }
     ],
     "wof:id":404000555,
-    "wof:lastmodified":1449039209,
+    "wof:lastmodified":1454356524,
     "wof:name":"Stars & Stripes Tours",
     "wof:parent_id":85825673,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "tours-operators"
     ]
 },
-  "bbox": [-77.421469,39.90767,-77.421469,39.90767],
+  "bbox": [
+    -77.421469,
+    39.90767,
+    -77.421469,
+    39.90767
+],
   "geometry": {"coordinates":[-77.421469,39.90767],"type":"Point"}
 }

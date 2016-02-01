@@ -2,13 +2,14 @@
   "id": 387150523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.023497,40.684649,-80.023497,40.684649",
     "geom:latitude":40.684649,
     "geom:longitude":-80.023497,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"605 Warrendale Rd",
     "sg:city":"Gibsonia",
     "sg:classifiers":[
@@ -27,8 +28,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102083677,
-        85815109
+        85815109,
+        102083677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +39,15 @@
     "wof:geomhash":"8c282f8b0f71f830d00ee62bb775cfa4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102083677,
-            "locality_id":-1,
             "neighbourhood_id":85815109,
             "region_id":85688481,
             "venue_id":387150523
         }
     ],
     "wof:id":387150523,
-    "wof:lastmodified":1449056168,
+    "wof:lastmodified":1454358131,
     "wof:name":"Bauer Dental Associates",
     "wof:parent_id":85815109,
     "wof:placetype":"venue",
@@ -56,6 +55,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.023497,40.684649,-80.023497,40.684649],
-  "geometry": {"coordinates":[-80.023497,40.684649],"type":"Point"}
+  "bbox": [
+    -80.023497,
+    40.684649,
+    -80.023497,
+    40.684649
+],
+  "geometry": {"coordinates":[-80.02349700000001,40.684649],"type":"Point"}
 }

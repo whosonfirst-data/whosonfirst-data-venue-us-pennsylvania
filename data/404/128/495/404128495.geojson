@@ -2,13 +2,14 @@
   "id": 404128495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.530728,40.840913,-76.530728,40.840913",
     "geom:latitude":40.840913,
     "geom:longitude":-76.530728,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1725 Airport Rd",
     "sg:city":"Elysburg",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     "sg:website":"http://www.elysburganimalhospital.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85817501,
+        102191575,
+        404486113,
         85633793,
-        101719367,
+        101719303,
         102081349,
-        85817501
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +47,18 @@
     "wof:geomhash":"7c7a91da5aeb06bc719903d4929febe9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081349,
-            "locality_id":101719367,
+            "localadmin_id":404486113,
+            "locality_id":101719303,
             "neighbourhood_id":85817501,
             "region_id":85688481,
             "venue_id":404128495
         }
     ],
     "wof:id":404128495,
-    "wof:lastmodified":1449039496,
+    "wof:lastmodified":1454356680,
     "wof:name":"Elysburg Animal Hospital",
     "wof:parent_id":85817501,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "specialty"
     ]
 },
-  "bbox": [-76.530728,40.840913,-76.530728,40.840913],
+  "bbox": [
+    -76.530728,
+    40.840913,
+    -76.530728,
+    40.840913
+],
   "geometry": {"coordinates":[-76.530728,40.840913],"type":"Point"}
 }

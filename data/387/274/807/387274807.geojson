@@ -2,13 +2,14 @@
   "id": 387274807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.780568,40.432606,-79.780568,40.432606",
     "geom:latitude":40.432606,
     "geom:longitude":-79.780568,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"120 Wyngate Dr Monroeville Pa",
     "sg:city":"Monroeville",
     "sg:classifiers":[
@@ -40,11 +41,13 @@
     "sg:website":"http://www.arden-courts.com/Monroeville",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85821019,
+        102191575,
+        404484135,
         85633793,
         101718841,
         102080887,
-        85821019
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,9 +57,10 @@
     "wof:geomhash":"6e2f97f97786c56c38d73bee5f32af2b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484135,
             "locality_id":101718841,
             "neighbourhood_id":85821019,
             "region_id":85688481,
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":387274807,
-    "wof:lastmodified":1449056574,
+    "wof:lastmodified":1454358447,
     "wof:name":"Arden Courts of Monroeville",
     "wof:parent_id":85821019,
     "wof:placetype":"venue",
@@ -81,6 +85,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-79.780568,40.432606,-79.780568,40.432606],
+  "bbox": [
+    -79.780568,
+    40.432606,
+    -79.780568,
+    40.432606
+],
   "geometry": {"coordinates":[-79.780568,40.432606],"type":"Point"}
 }

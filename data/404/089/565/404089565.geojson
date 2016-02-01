@@ -2,13 +2,14 @@
   "id": 404089565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.323536,40.030061,-76.323536,40.030061",
     "geom:latitude":40.030061,
     "geom:longitude":-76.323536,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"716 S West End Ave",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85858805
+        85858805,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"7d65e5165a3ac240a25e0c9c2daf748b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85858805,
             "region_id":85688481,
             "venue_id":404089565
         }
     ],
     "wof:id":404089565,
-    "wof:lastmodified":1449039302,
+    "wof:lastmodified":1454356557,
     "wof:name":"Hammond's Old-Fashioned Hand",
     "wof:parent_id":85858805,
     "wof:placetype":"venue",
@@ -68,6 +67,11 @@
         "pretzel"
     ]
 },
-  "bbox": [-76.323536,40.030061,-76.323536,40.030061],
+  "bbox": [
+    -76.323536,
+    40.030061,
+    -76.323536,
+    40.030061
+],
   "geometry": {"coordinates":[-76.323536,40.030061],"type":"Point"}
 }

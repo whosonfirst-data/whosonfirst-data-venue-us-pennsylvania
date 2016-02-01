@@ -2,13 +2,14 @@
   "id": 404174893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.393097,40.6022,-75.393097,40.6022",
     "geom:latitude":40.6022,
     "geom:longitude":-75.393097,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1041 Broadway",
     "sg:city":"Fountain Hill",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85853139,
+        102191575,
+        404488067,
         85633793,
         101717913,
         102081327,
-        85853139
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"da9b8acf0239025a65935baf1a582c17",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081327,
+            "localadmin_id":404488067,
             "locality_id":101717913,
             "neighbourhood_id":85853139,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":404174893,
-    "wof:lastmodified":1449039171,
+    "wof:lastmodified":1454356493,
     "wof:name":"Kbr Tire & Car Care Center",
     "wof:parent_id":85853139,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "tire"
     ]
 },
-  "bbox": [-75.393097,40.6022,-75.393097,40.6022],
+  "bbox": [
+    -75.393097,
+    40.6022,
+    -75.393097,
+    40.6022
+],
   "geometry": {"coordinates":[-75.393097,40.6022],"type":"Point"}
 }

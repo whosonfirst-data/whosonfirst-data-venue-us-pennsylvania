@@ -2,13 +2,14 @@
   "id": 387968005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.92634,40.454369,-76.92634,40.454369",
     "geom:latitude":40.454369,
     "geom:longitude":-76.92634,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3771 Peters Mountain Rd",
     "sg:city":"Halifax",
     "sg:classifiers":[
@@ -42,8 +43,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85832885
+        85832885,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,17 +54,15 @@
     "wof:geomhash":"7643ecd82bcd0800a14319deb2feb99c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85832885,
             "region_id":85688481,
             "venue_id":387968005
         }
     ],
     "wof:id":387968005,
-    "wof:lastmodified":1449056355,
+    "wof:lastmodified":1454358280,
     "wof:name":"Drayer Physical Therapy",
     "wof:parent_id":85832885,
     "wof:placetype":"venue",
@@ -76,6 +75,11 @@
         "physical"
     ]
 },
-  "bbox": [-76.92634,40.454369,-76.92634,40.454369],
+  "bbox": [
+    -76.92634,
+    40.454369,
+    -76.92634,
+    40.454369
+],
   "geometry": {"coordinates":[-76.92634,40.454369],"type":"Point"}
 }

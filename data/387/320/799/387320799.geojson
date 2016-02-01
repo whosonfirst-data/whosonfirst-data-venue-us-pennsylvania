@@ -2,13 +2,14 @@
   "id": 387320799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.984001,40.4618,-79.984001,40.4618",
     "geom:latitude":40.4618,
     "geom:longitude":-79.984001,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1543 Hoff St",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85852705,
+        102191575,
+        404482523,
         85633793,
+        101718805,
         102080887,
-        85852705
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,17 +41,18 @@
     "wof:geomhash":"87b6682bb279a01e5d7736606d98c554",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
+            "localadmin_id":404482523,
+            "locality_id":101718805,
             "neighbourhood_id":85852705,
             "region_id":85688481,
             "venue_id":387320799
         }
     ],
     "wof:id":387320799,
-    "wof:lastmodified":1449057068,
+    "wof:lastmodified":1454358810,
     "wof:name":"Beck Thos J Inc",
     "wof:parent_id":85852705,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.984001,40.4618,-79.984001,40.4618],
-  "geometry": {"coordinates":[-79.984001,40.4618],"type":"Point"}
+  "bbox": [
+    -79.984001,
+    40.4618,
+    -79.984001,
+    40.4618
+],
+  "geometry": {"coordinates":[-79.98400100000001,40.4618],"type":"Point"}
 }

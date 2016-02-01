@@ -2,13 +2,14 @@
   "id": 387101467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.227017,40.648001,-80.227017,40.648001",
     "geom:latitude":40.648001,
     "geom:longitude":-80.227017,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"929 Rose St",
     "sg:city":"Baden",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85808703,
+        102191575,
+        404482583,
         85633793,
         101718403,
         102081323,
-        85808703
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"cf952411e2bc6399252086de82aa1e10",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081323,
+            "localadmin_id":404482583,
             "locality_id":101718403,
             "neighbourhood_id":85808703,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387101467,
-    "wof:lastmodified":1449058110,
+    "wof:lastmodified":1454360683,
     "wof:name":"Premier Designs",
     "wof:parent_id":85808703,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "producer"
     ]
 },
-  "bbox": [-80.227017,40.648001,-80.227017,40.648001],
+  "bbox": [
+    -80.227017,
+    40.648001,
+    -80.227017,
+    40.648001
+],
   "geometry": {"coordinates":[-80.227017,40.648001],"type":"Point"}
 }

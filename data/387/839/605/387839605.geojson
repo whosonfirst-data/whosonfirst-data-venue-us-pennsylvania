@@ -2,13 +2,14 @@
   "id": 387839605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.121372,42.091189,-80.121372,42.091189",
     "geom:latitude":42.091189,
     "geom:longitude":-80.121372,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2913 Pittsburgh Ave",
     "sg:city":"Erie",
     "sg:classifiers":[
@@ -40,11 +41,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85818215,
+        102191575,
+        404486673,
         85633793,
         101718253,
         102080955,
-        85818215
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,9 +57,10 @@
     "wof:geomhash":"611230b6142ed2aa9bdcde052b53db54",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080955,
+            "localadmin_id":404486673,
             "locality_id":101718253,
             "neighbourhood_id":85818215,
             "region_id":85688481,
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":387839605,
-    "wof:lastmodified":1449058389,
+    "wof:lastmodified":1454360768,
     "wof:name":"ZEWE Electric Inc",
     "wof:parent_id":85818215,
     "wof:placetype":"venue",
@@ -77,6 +81,11 @@
         "improvement"
     ]
 },
-  "bbox": [-80.121372,42.091189,-80.121372,42.091189],
-  "geometry": {"coordinates":[-80.121372,42.091189],"type":"Point"}
+  "bbox": [
+    -80.121372,
+    42.091189,
+    -80.121372,
+    42.091189
+],
+  "geometry": {"coordinates":[-80.12137199999999,42.091189],"type":"Point"}
 }

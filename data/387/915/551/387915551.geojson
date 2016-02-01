@@ -2,13 +2,14 @@
   "id": 387915551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.892194,40.22815,-76.892194,40.22815",
     "geom:latitude":40.22815,
     "geom:longitude":-76.892194,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1525 Cedar Cliff Dr Ste 100",
     "sg:city":"Camp Hill",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"www.neblettlaw.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85802785,
+        102191575,
+        404486419,
         85633793,
-        101719079,
+        101716757,
         102081359,
-        85802785
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"f97664511e220ad718368db482e6057e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081359,
-            "locality_id":101719079,
+            "localadmin_id":404486419,
+            "locality_id":101716757,
             "neighbourhood_id":85802785,
             "region_id":85688481,
             "venue_id":387915551
         }
     ],
     "wof:id":387915551,
-    "wof:lastmodified":1449059881,
+    "wof:lastmodified":1454361221,
     "wof:name":"Boyle Dennis",
     "wof:parent_id":85802785,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "bankruptcy"
     ]
 },
-  "bbox": [-76.892194,40.22815,-76.892194,40.22815],
+  "bbox": [
+    -76.892194,
+    40.22815,
+    -76.892194,
+    40.22815
+],
   "geometry": {"coordinates":[-76.892194,40.22815],"type":"Point"}
 }

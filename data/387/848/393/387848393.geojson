@@ -2,13 +2,14 @@
   "id": 387848393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.397673,40.521736,-78.397673,40.521736",
     "geom:latitude":40.521736,
     "geom:longitude":-78.397673,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"501 Howard Ave Building F 1",
     "sg:city":"Altoona",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     "sg:website":"http://www.alleghenybrainandspine.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85818685,
+        102191575,
+        404484619,
         85633793,
         101716595,
         102081325,
-        85818685
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"33e39ca95231fcad45071452911bc43c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081325,
+            "localadmin_id":404484619,
             "locality_id":101716595,
             "neighbourhood_id":85818685,
             "region_id":85688481,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":387848393,
-    "wof:lastmodified":1449056636,
+    "wof:lastmodified":1454358505,
     "wof:name":"Allegheny Brain And Spine Surgeons",
     "wof:parent_id":85818685,
     "wof:placetype":"venue",
@@ -72,6 +76,11 @@
         "medicine"
     ]
 },
-  "bbox": [-78.397673,40.521736,-78.397673,40.521736],
+  "bbox": [
+    -78.397673,
+    40.521736,
+    -78.397673,
+    40.521736
+],
   "geometry": {"coordinates":[-78.397673,40.521736],"type":"Point"}
 }

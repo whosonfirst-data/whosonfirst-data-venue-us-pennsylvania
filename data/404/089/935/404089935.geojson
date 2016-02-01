@@ -2,13 +2,14 @@
   "id": 404089935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.34137,40.038151,-76.34137,40.038151",
     "geom:latitude":40.038151,
     "geom:longitude":-76.34137,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1398 Columbia Ave",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -39,8 +40,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85858805
+        85858805,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,17 +51,15 @@
     "wof:geomhash":"e8f12ec092f3ab55926f85629226b2c5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85858805,
             "region_id":85688481,
             "venue_id":404089935
         }
     ],
     "wof:id":404089935,
-    "wof:lastmodified":1449039301,
+    "wof:lastmodified":1454356556,
     "wof:name":"Starbucks Coffee",
     "wof:parent_id":85858805,
     "wof:placetype":"venue",
@@ -74,6 +73,11 @@
         "restaurant"
     ]
 },
-  "bbox": [-76.34137,40.038151,-76.34137,40.038151],
+  "bbox": [
+    -76.34137,
+    40.038151,
+    -76.34137,
+    40.038151
+],
   "geometry": {"coordinates":[-76.34137,40.038151],"type":"Point"}
 }

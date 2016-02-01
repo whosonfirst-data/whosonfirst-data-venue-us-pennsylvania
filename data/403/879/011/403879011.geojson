@@ -2,13 +2,14 @@
   "id": 403879011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.860325,40.325224,-76.860325,40.325224",
     "geom:latitude":40.325224,
     "geom:longitude":-76.860325,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2428 Garrison Ave",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85805097
+        85805097,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"35bebd4b189d252ffc7871369b5ffb01",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85805097,
             "region_id":85688481,
             "venue_id":403879011
         }
     ],
     "wof:id":403879011,
-    "wof:lastmodified":1449054646,
+    "wof:lastmodified":1454357191,
     "wof:name":"The M T Johnson Group",
     "wof:parent_id":85805097,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "coach"
     ]
 },
-  "bbox": [-76.860325,40.325224,-76.860325,40.325224],
+  "bbox": [
+    -76.860325,
+    40.325224,
+    -76.860325,
+    40.325224
+],
   "geometry": {"coordinates":[-76.860325,40.325224],"type":"Point"}
 }

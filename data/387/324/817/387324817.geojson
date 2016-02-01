@@ -2,13 +2,14 @@
   "id": 387324817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.953742,40.431795,-79.953742,40.431795",
     "geom:latitude":40.431795,
     "geom:longitude":-79.953742,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3605 Swinburne St",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85873595,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85873595
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"ad04fe1abc1a7dac4320936abbec7b65",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85873595,
             "region_id":85688481,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":387324817,
-    "wof:lastmodified":1449058325,
+    "wof:lastmodified":1454360746,
     "wof:name":"Lp Express",
     "wof:parent_id":85873595,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "trucking"
     ]
 },
-  "bbox": [-79.953742,40.431795,-79.953742,40.431795],
-  "geometry": {"coordinates":[-79.953742,40.431795],"type":"Point"}
+  "bbox": [
+    -79.953742,
+    40.431795,
+    -79.953742,
+    40.431795
+],
+  "geometry": {"coordinates":[-79.95374200000001,40.431795],"type":"Point"}
 }

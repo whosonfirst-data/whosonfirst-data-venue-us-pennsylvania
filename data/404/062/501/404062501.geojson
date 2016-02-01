@@ -2,13 +2,14 @@
   "id": 404062501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.389259,40.15836,-76.389259,40.15836",
     "geom:latitude":40.15836,
     "geom:longitude":-76.389259,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"304 N Main St",
     "sg:city":"Manheim",
     "sg:classifiers":[
@@ -45,8 +46,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85853449
+        85853449,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,17 +57,15 @@
     "wof:geomhash":"9bba3208fa42362328f43c6eea4225b1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85853449,
             "region_id":85688481,
             "venue_id":404062501
         }
     ],
     "wof:id":404062501,
-    "wof:lastmodified":1449040261,
+    "wof:lastmodified":1454357095,
     "wof:name":"Electsys",
     "wof:parent_id":85853449,
     "wof:placetype":"venue",
@@ -82,6 +81,11 @@
         "equipment"
     ]
 },
-  "bbox": [-76.389259,40.15836,-76.389259,40.15836],
+  "bbox": [
+    -76.389259,
+    40.15836,
+    -76.389259,
+    40.15836
+],
   "geometry": {"coordinates":[-76.389259,40.15836],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387161949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.27848,40.69069,-80.27848,40.69069",
     "geom:latitude":40.69069,
     "geom:longitude":-80.27848,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1096 Pennsylvania Ave",
     "sg:city":"Monaca",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"http://www.jesains.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85814681,
+        102191575,
+        404484467,
         85633793,
         101718359,
         102081323,
-        85814681
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"78c77a21bbaaa83ab6ce00d90411d6fc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081323,
+            "localadmin_id":404484467,
             "locality_id":101718359,
             "neighbourhood_id":85814681,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387161949,
-    "wof:lastmodified":1449057615,
+    "wof:lastmodified":1454360530,
     "wof:name":"Joseph E Smith & Associates",
     "wof:parent_id":85814681,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "business"
     ]
 },
-  "bbox": [-80.27848,40.69069,-80.27848,40.69069],
+  "bbox": [
+    -80.27848,
+    40.69069,
+    -80.27848,
+    40.69069
+],
   "geometry": {"coordinates":[-80.27848,40.69069],"type":"Point"}
 }

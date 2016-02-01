@@ -2,13 +2,14 @@
   "id": 403938673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.162009,39.776424,-78.162009,39.776424",
     "geom:latitude":39.776424,
     "geom:longitude":-78.162009,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4014 Thompson Rd",
     "sg:city":"Needmore",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081273,
-        85814735
+        85814735,
+        102081273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"7e509eddc47f61c7dca19d4fe40db16b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081273,
-            "locality_id":-1,
             "neighbourhood_id":85814735,
             "region_id":85688481,
             "venue_id":403938673
         }
     ],
     "wof:id":403938673,
-    "wof:lastmodified":1449055609,
+    "wof:lastmodified":1454357778,
     "wof:name":"Needmore Full Gospel Church",
     "wof:parent_id":85814735,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "denomination"
     ]
 },
-  "bbox": [-78.162009,39.776424,-78.162009,39.776424],
+  "bbox": [
+    -78.162009,
+    39.776424,
+    -78.162009,
+    39.776424
+],
   "geometry": {"coordinates":[-78.162009,39.776424],"type":"Point"}
 }

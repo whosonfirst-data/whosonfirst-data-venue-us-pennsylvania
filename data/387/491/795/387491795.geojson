@@ -2,13 +2,14 @@
   "id": 387491795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.964658,40.340569,-79.964658,40.340569",
     "geom:latitude":40.340569,
     "geom:longitude":-79.964658,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4 Old Clairton Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85839661,
+        102191575,
+        404484247,
         85633793,
         101718705,
         102080887,
-        85839661
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"4dcdfaf748749d80a9190ea9cd7bed7c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484247,
             "locality_id":101718705,
             "neighbourhood_id":85839661,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387491795,
-    "wof:lastmodified":1449056052,
+    "wof:lastmodified":1454358044,
     "wof:name":"Pool City",
     "wof:parent_id":85839661,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.964658,40.340569,-79.964658,40.340569],
+  "bbox": [
+    -79.964658,
+    40.340569,
+    -79.964658,
+    40.340569
+],
   "geometry": {"coordinates":[-79.964658,40.340569],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404128331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.548831,40.864862,-76.548831,40.864862",
     "geom:latitude":40.864862,
     "geom:longitude":-76.548831,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"11 S Hickory St",
     "sg:city":"Elysburg",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85817501,
+        102191575,
+        404486113,
         85633793,
-        101719367,
+        101719303,
         102081349,
-        85817501
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"47ad58e7a994690ad32b14c60baa0c7d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081349,
-            "locality_id":101719367,
+            "localadmin_id":404486113,
+            "locality_id":101719303,
             "neighbourhood_id":85817501,
             "region_id":85688481,
             "venue_id":404128331
         }
     ],
     "wof:id":404128331,
-    "wof:lastmodified":1449039497,
+    "wof:lastmodified":1454356681,
     "wof:name":"Roadarmel's Chicken & Ribs",
     "wof:parent_id":85817501,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "caterer"
     ]
 },
-  "bbox": [-76.548831,40.864862,-76.548831,40.864862],
-  "geometry": {"coordinates":[-76.548831,40.864862],"type":"Point"}
+  "bbox": [
+    -76.548831,
+    40.864862,
+    -76.548831,
+    40.864862
+],
+  "geometry": {"coordinates":[-76.54883100000001,40.864862],"type":"Point"}
 }

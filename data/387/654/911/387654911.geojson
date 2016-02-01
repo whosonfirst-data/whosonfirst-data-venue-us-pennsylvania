@@ -2,13 +2,14 @@
   "id": 387654911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.208503,40.587803,-79.208503,40.587803",
     "geom:latitude":40.587803,
     "geom:longitude":-79.208503,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4464 Route 286 Hwy W",
     "sg:city":"Indiana",
     "sg:classifiers":[
@@ -46,8 +47,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081387,
-        85821437
+        85821437,
+        102081387
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,17 +58,15 @@
     "wof:geomhash":"c672c00441e077c28507e8116b3953c8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081387,
-            "locality_id":-1,
             "neighbourhood_id":85821437,
             "region_id":85688481,
             "venue_id":387654911
         }
     ],
     "wof:id":387654911,
-    "wof:lastmodified":1449057375,
+    "wof:lastmodified":1454359068,
     "wof:name":"Charles J Hegland - Nationwide Insurance",
     "wof:parent_id":85821437,
     "wof:placetype":"venue",
@@ -78,6 +77,11 @@
         "homeowner"
     ]
 },
-  "bbox": [-79.208503,40.587803,-79.208503,40.587803],
-  "geometry": {"coordinates":[-79.208503,40.587803],"type":"Point"}
+  "bbox": [
+    -79.208503,
+    40.587803,
+    -79.208503,
+    40.587803
+],
+  "geometry": {"coordinates":[-79.20850299999999,40.587803],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387749469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.480968,41.213057,-80.480968,41.213057",
     "geom:latitude":41.213057,
     "geom:longitude":-80.480968,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"823 Sharon New Castle Rd",
     "sg:city":"Farrell",
     "sg:classifiers":[
@@ -39,10 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420539011,
+        102191575,
+        404487969,
         85633793,
         101718115,
-        102080965
+        102080965,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,19 +56,20 @@
     "wof:geomhash":"a74abd4cc084d3f66d39672da8ad7804",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080965,
+            "localadmin_id":404487969,
             "locality_id":101718115,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420539011,
             "region_id":85688481,
             "venue_id":387749469
         }
     ],
     "wof:id":387749469,
-    "wof:lastmodified":1449057182,
+    "wof:lastmodified":1454358910,
     "wof:name":"Beauty Plus",
-    "wof:parent_id":-1,
+    "wof:parent_id":420539011,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -74,6 +79,11 @@
         "supply"
     ]
 },
-  "bbox": [-80.480968,41.213057,-80.480968,41.213057],
+  "bbox": [
+    -80.480968,
+    41.213057,
+    -80.480968,
+    41.213057
+],
   "geometry": {"coordinates":[-80.480968,41.213057],"type":"Point"}
 }

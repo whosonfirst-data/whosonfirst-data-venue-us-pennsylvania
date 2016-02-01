@@ -2,13 +2,14 @@
   "id": 403720285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.474342,40.308289,-76.474342,40.308289",
     "geom:latitude":40.308289,
     "geom:longitude":-76.474342,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"100 Forney Rd",
     "sg:city":"Lebanon",
     "sg:classifiers":[
@@ -39,7 +40,12 @@
     "sg:website":"http://www.gingrichsmennonite.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420538697,
+        102191575,
+        404483423,
         85633793,
+        101719373,
+        102081341,
         85688481
     ],
     "wof:breaches":[],
@@ -50,18 +56,20 @@
     "wof:geomhash":"e8e3f01833391279722c8eaa828cece2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081341,
+            "localadmin_id":404483423,
+            "locality_id":101719373,
+            "neighbourhood_id":420538697,
             "region_id":85688481,
             "venue_id":403720285
         }
     ],
     "wof:id":403720285,
-    "wof:lastmodified":1449054960,
+    "wof:lastmodified":1454357384,
     "wof:name":"Gingrichs Mennonite Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":420538697,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -70,6 +78,11 @@
         "churches-mennonite"
     ]
 },
-  "bbox": [-76.474342,40.308289,-76.474342,40.308289],
-  "geometry": {"coordinates":[-76.474342,40.308289],"type":"Point"}
+  "bbox": [
+    -76.474342,
+    40.308289,
+    -76.474342,
+    40.308289
+],
+  "geometry": {"coordinates":[-76.47434199999999,40.308289],"type":"Point"}
 }

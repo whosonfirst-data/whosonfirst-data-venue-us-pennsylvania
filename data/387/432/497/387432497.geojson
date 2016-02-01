@@ -2,13 +2,14 @@
   "id": 387432497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.944162,40.496431,-79.944162,40.496431",
     "geom:latitude":40.496431,
     "geom:longitude":-79.944162,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"353 Butler St",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[],
@@ -18,10 +19,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536351,
+        102191575,
+        404484899,
         85633793,
         101718687,
-        102080887
+        102080887,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -31,24 +35,30 @@
     "wof:geomhash":"bc96be526d9e08cc0d9564e54567b231",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484899,
             "locality_id":101718687,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420536351,
             "region_id":85688481,
             "venue_id":387432497
         }
     ],
     "wof:id":387432497,
-    "wof:lastmodified":1449056049,
+    "wof:lastmodified":1454358041,
     "wof:name":"The Best Little Hair House In Pittsburgh",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536351,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.944162,40.496431,-79.944162,40.496431],
-  "geometry": {"coordinates":[-79.944162,40.496431],"type":"Point"}
+  "bbox": [
+    -79.944162,
+    40.496431,
+    -79.944162,
+    40.496431
+],
+  "geometry": {"coordinates":[-79.94416200000001,40.496431],"type":"Point"}
 }

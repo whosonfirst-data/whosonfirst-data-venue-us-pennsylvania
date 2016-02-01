@@ -2,13 +2,14 @@
   "id": 387694527,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.829603,40.177445,-78.829603,40.177445",
     "geom:latitude":40.177445,
     "geom:longitude":-78.829603,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"15 Hagevo Rd",
     "sg:city":"Windber",
     "sg:classifiers":[
@@ -51,8 +52,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081361,
-        85806485
+        85806485,
+        102081361
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,17 +63,15 @@
     "wof:geomhash":"f5b445df77a6a7cac1ec6f1cdd90c235",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081361,
-            "locality_id":-1,
             "neighbourhood_id":85806485,
             "region_id":85688481,
             "venue_id":387694527
         }
     ],
     "wof:id":387694527,
-    "wof:lastmodified":1449057169,
+    "wof:lastmodified":1454358901,
     "wof:name":"Fluder True Value",
     "wof:parent_id":85806485,
     "wof:placetype":"venue",
@@ -88,6 +87,11 @@
         "store"
     ]
 },
-  "bbox": [-78.829603,40.177445,-78.829603,40.177445],
-  "geometry": {"coordinates":[-78.829603,40.177445],"type":"Point"}
+  "bbox": [
+    -78.829603,
+    40.177445,
+    -78.829603,
+    40.177445
+],
+  "geometry": {"coordinates":[-78.82960300000001,40.177445],"type":"Point"}
 }

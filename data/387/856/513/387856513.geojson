@@ -2,13 +2,14 @@
   "id": 387856513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.452898,40.282705,-78.452898,40.282705",
     "geom:latitude":40.282705,
     "geom:longitude":-78.452898,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"343 Bedford St PO Box 1",
     "sg:city":"Claysburg",
     "sg:classifiers":[
@@ -44,10 +45,13 @@
     "sg:website":"http://www.nationwide.com/agent/Claysburg-PENNSYLVANIA-insurance-agent/john-yingling/office.html",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536683,
+        102191575,
+        404484709,
         85633793,
         101718893,
-        102081325
+        102081325,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,19 +61,20 @@
     "wof:geomhash":"b9047b6c537a44fb8d62251831908f26",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081325,
+            "localadmin_id":404484709,
             "locality_id":101718893,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420536683,
             "region_id":85688481,
             "venue_id":387856513
         }
     ],
     "wof:id":387856513,
-    "wof:lastmodified":1449057176,
+    "wof:lastmodified":1454358906,
     "wof:name":"John W Yingling - Nationwide Insurance",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536683,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -78,6 +83,11 @@
         "homeowner"
     ]
 },
-  "bbox": [-78.452898,40.282705,-78.452898,40.282705],
+  "bbox": [
+    -78.452898,
+    40.282705,
+    -78.452898,
+    40.282705
+],
   "geometry": {"coordinates":[-78.452898,40.282705],"type":"Point"}
 }

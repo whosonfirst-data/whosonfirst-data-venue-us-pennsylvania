@@ -2,13 +2,14 @@
   "id": 387869465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.645265,41.960291,-78.645265,41.960291",
     "geom:latitude":41.960291,
     "geom:longitude":-78.645265,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"142 Davis St",
     "sg:city":"Bradford",
     "sg:classifiers":[
@@ -46,8 +47,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080951,
-        85824425
+        85824425,
+        102080951
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,17 +58,15 @@
     "wof:geomhash":"2e1c02a6f7ab066bce14014499cbb916",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080951,
-            "locality_id":-1,
             "neighbourhood_id":85824425,
             "region_id":85688481,
             "venue_id":387869465
         }
     ],
     "wof:id":387869465,
-    "wof:lastmodified":1449059613,
+    "wof:lastmodified":1454361136,
     "wof:name":"Budget Truck Rental",
     "wof:parent_id":85824425,
     "wof:placetype":"venue",
@@ -83,6 +82,11 @@
         "trailer"
     ]
 },
-  "bbox": [-78.645265,41.960291,-78.645265,41.960291],
-  "geometry": {"coordinates":[-78.645265,41.960291],"type":"Point"}
+  "bbox": [
+    -78.645265,
+    41.960291,
+    -78.645265,
+    41.960291
+],
+  "geometry": {"coordinates":[-78.64526499999999,41.960291],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404161815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.388253,40.58157,-75.388253,40.58157",
     "geom:latitude":40.58157,
     "geom:longitude":-75.388253,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3620 Route 378",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -42,8 +43,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081395,
-        85859207
+        85859207,
+        102081395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,17 +54,15 @@
     "wof:geomhash":"98245e0a140b8aee6948e1dbead396b9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081395,
-            "locality_id":-1,
             "neighbourhood_id":85859207,
             "region_id":85688481,
             "venue_id":404161815
         }
     ],
     "wof:id":404161815,
-    "wof:lastmodified":1449039509,
+    "wof:lastmodified":1454356689,
     "wof:name":"Ace Cleaners",
     "wof:parent_id":85859207,
     "wof:placetype":"venue",
@@ -76,6 +75,11 @@
         "supply"
     ]
 },
-  "bbox": [-75.388253,40.58157,-75.388253,40.58157],
-  "geometry": {"coordinates":[-75.388253,40.58157],"type":"Point"}
+  "bbox": [
+    -75.388253,
+    40.58157,
+    -75.388253,
+    40.58157
+],
+  "geometry": {"coordinates":[-75.38825300000001,40.58157],"type":"Point"}
 }

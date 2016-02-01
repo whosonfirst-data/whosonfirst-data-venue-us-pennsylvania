@@ -2,13 +2,14 @@
   "id": 387276331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.775784,40.442456,-79.775784,40.442456",
     "geom:latitude":40.442456,
     "geom:longitude":-79.775784,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4315 Old William Penn Hwy",
     "sg:city":"Monroeville",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85821019,
+        102191575,
+        404484135,
         85633793,
         101718841,
         102080887,
-        85821019
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"963d9d51b244e8846f8f78d4e4dedd82",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484135,
             "locality_id":101718841,
             "neighbourhood_id":85821019,
             "region_id":85688481,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":387276331,
-    "wof:lastmodified":1449056257,
+    "wof:lastmodified":1454358203,
     "wof:name":"Party Savvy",
     "wof:parent_id":85821019,
     "wof:placetype":"venue",
@@ -68,6 +72,11 @@
         "saw"
     ]
 },
-  "bbox": [-79.775784,40.442456,-79.775784,40.442456],
+  "bbox": [
+    -79.775784,
+    40.442456,
+    -79.775784,
+    40.442456
+],
   "geometry": {"coordinates":[-79.775784,40.442456],"type":"Point"}
 }

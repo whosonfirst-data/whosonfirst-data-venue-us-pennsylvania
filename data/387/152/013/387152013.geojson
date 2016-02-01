@@ -2,13 +2,14 @@
   "id": 387152013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.978,40.622011,-79.978,40.622011",
     "geom:latitude":40.622011,
     "geom:longitude":-79.978,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5353 Hardt Rd",
     "sg:city":"Gibsonia",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536325,
+        102191575,
+        404484173,
         85633793,
         101720497,
-        102080887
+        102080887,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"493e9671b318244ca3c715922f6f9073",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484173,
             "locality_id":101720497,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420536325,
             "region_id":85688481,
             "venue_id":387152013
         }
     ],
     "wof:id":387152013,
-    "wof:lastmodified":1449059033,
+    "wof:lastmodified":1454360963,
     "wof:name":"Testo Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536325,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.978,40.622011,-79.978,40.622011],
-  "geometry": {"coordinates":[-79.978,40.622011],"type":"Point"}
+  "bbox": [
+    -79.978,
+    40.622011,
+    -79.978,
+    40.622011
+],
+  "geometry": {"coordinates":[-79.97799999999999,40.622011],"type":"Point"}
 }

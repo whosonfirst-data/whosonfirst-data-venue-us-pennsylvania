@@ -2,13 +2,14 @@
   "id": 403901079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.833721,40.33634,-76.833721,40.33634",
     "geom:latitude":40.33634,
     "geom:longitude":-76.833721,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2215 Forest Hills Dr Ste 38",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85819927
+        85819927,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"54402836490be4bdd42f27c7006ce9d7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85819927,
             "region_id":85688481,
             "venue_id":403901079
         }
     ],
     "wof:id":403901079,
-    "wof:lastmodified":1449055186,
+    "wof:lastmodified":1454357521,
     "wof:name":"Commonwealth Affiliates Pc",
     "wof:parent_id":85819927,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "psychologist"
     ]
 },
-  "bbox": [-76.833721,40.33634,-76.833721,40.33634],
+  "bbox": [
+    -76.833721,
+    40.33634,
+    -76.833721,
+    40.33634
+],
   "geometry": {"coordinates":[-76.833721,40.33634],"type":"Point"}
 }

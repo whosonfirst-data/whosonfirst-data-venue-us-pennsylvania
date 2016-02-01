@@ -2,13 +2,14 @@
   "id": 387972615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.652496,40.277802,-76.652496,40.277802",
     "geom:latitude":40.277802,
     "geom:longitude":-76.652496,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1101 W Governor Rd",
     "sg:city":"Hershey",
     "sg:classifiers":[
@@ -25,11 +26,13 @@
     "sg:website":"www.texaco.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85850549,
+        102191575,
+        404483303,
         85633793,
         101719813,
         102081347,
-        85850549
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +42,10 @@
     "wof:geomhash":"0ab04dcfce7cd193329c3ec1ec0e34bb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
+            "localadmin_id":404483303,
             "locality_id":101719813,
             "neighbourhood_id":85850549,
             "region_id":85688481,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":387972615,
-    "wof:lastmodified":1449058014,
+    "wof:lastmodified":1454360653,
     "wof:name":"Texaco Foodmart",
     "wof:parent_id":85850549,
     "wof:placetype":"venue",
@@ -57,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.652496,40.277802,-76.652496,40.277802],
+  "bbox": [
+    -76.652496,
+    40.277802,
+    -76.652496,
+    40.277802
+],
   "geometry": {"coordinates":[-76.652496,40.277802],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387155239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.889526,40.322731,-79.889526,40.322731",
     "geom:latitude":40.322731,
     "geom:longitude":-79.889526,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"506 8th St",
     "sg:city":"Glassport",
     "sg:classifiers":[
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536347,
+        102191575,
+        404484873,
         85633793,
-        101718679,
-        102080887
+        101718753,
+        102080887,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,20 @@
     "wof:geomhash":"68c03e9e13a76dd160845b4ca0a38b47",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":101718679,
-            "neighbourhood_id":-1,
+            "localadmin_id":404484873,
+            "locality_id":101718753,
+            "neighbourhood_id":420536347,
             "region_id":85688481,
             "venue_id":387155239
         }
     ],
     "wof:id":387155239,
-    "wof:lastmodified":1449059255,
+    "wof:lastmodified":1454361026,
     "wof:name":"Sonny's Trucking",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536347,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -69,6 +74,11 @@
         "trucking"
     ]
 },
-  "bbox": [-79.889526,40.322731,-79.889526,40.322731],
+  "bbox": [
+    -79.889526,
+    40.322731,
+    -79.889526,
+    40.322731
+],
   "geometry": {"coordinates":[-79.889526,40.322731],"type":"Point"}
 }

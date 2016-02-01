@@ -2,13 +2,14 @@
   "id": 403902805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.805617,40.34031,-76.805617,40.34031",
     "geom:latitude":40.34031,
     "geom:longitude":-76.805617,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1301 Colonial Club Dr Ste 1",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420537733,
+        102191575,
+        404486185,
         85633793,
         101719817,
-        102081347
+        102081347,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,20 @@
     "wof:geomhash":"c19cb1d12ec1907b3bf99686e50320b1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
+            "localadmin_id":404486185,
             "locality_id":101719817,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420537733,
             "region_id":85688481,
             "venue_id":403902805
         }
     ],
     "wof:id":403902805,
-    "wof:lastmodified":1449055600,
+    "wof:lastmodified":1454357774,
     "wof:name":"Bastian Homes Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420537733,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -69,6 +74,11 @@
         "contractor"
     ]
 },
-  "bbox": [-76.805617,40.34031,-76.805617,40.34031],
+  "bbox": [
+    -76.805617,
+    40.34031,
+    -76.805617,
+    40.34031
+],
   "geometry": {"coordinates":[-76.805617,40.34031],"type":"Point"}
 }

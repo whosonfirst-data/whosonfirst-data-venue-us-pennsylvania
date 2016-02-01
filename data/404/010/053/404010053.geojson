@@ -2,13 +2,14 @@
   "id": 404010053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.681839,39.972099,-76.681839,39.972099",
     "geom:latitude":39.972099,
     "geom:longitude":-76.681839,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2300 Eastern Blvd",
     "sg:city":"York",
     "sg:classifiers":[
@@ -40,8 +41,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080953,
-        85817923
+        85817923,
+        102080953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,17 +52,15 @@
     "wof:geomhash":"c8788c653c4520e176a06b23d6485996",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
             "neighbourhood_id":85817923,
             "region_id":85688481,
             "venue_id":404010053
         }
     ],
     "wof:id":404010053,
-    "wof:lastmodified":1449039856,
+    "wof:lastmodified":1454356845,
     "wof:name":"Cullen, Veasey B Jr Dmd",
     "wof:parent_id":85817923,
     "wof:placetype":"venue",
@@ -77,6 +76,11 @@
         "oral"
     ]
 },
-  "bbox": [-76.681839,39.972099,-76.681839,39.972099],
+  "bbox": [
+    -76.681839,
+    39.972099,
+    -76.681839,
+    39.972099
+],
   "geometry": {"coordinates":[-76.681839,39.972099],"type":"Point"}
 }

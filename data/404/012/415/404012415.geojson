@@ -2,13 +2,14 @@
   "id": 404012415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.686539,39.977787,-76.686539,39.977787",
     "geom:latitude":39.977787,
     "geom:longitude":-76.686539,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2256 Industrial Hwy",
     "sg:city":"York",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080953,
-        85817923
+        85817923,
+        102080953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"a27b13260b9d07ca475bafb95be7ba88",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
             "neighbourhood_id":85817923,
             "region_id":85688481,
             "venue_id":404012415
         }
     ],
     "wof:id":404012415,
-    "wof:lastmodified":1449040213,
+    "wof:lastmodified":1454357066,
     "wof:name":"Barracuda's Seafood Pub",
     "wof:parent_id":85817923,
     "wof:placetype":"venue",
@@ -64,6 +63,11 @@
         "bar"
     ]
 },
-  "bbox": [-76.686539,39.977787,-76.686539,39.977787],
+  "bbox": [
+    -76.686539,
+    39.977787,
+    -76.686539,
+    39.977787
+],
   "geometry": {"coordinates":[-76.686539,39.977787],"type":"Point"}
 }

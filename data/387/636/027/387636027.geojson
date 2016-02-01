@@ -2,13 +2,14 @@
   "id": 387636027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.736195,40.329376,-79.736195,40.329376",
     "geom:latitude":40.329376,
     "geom:longitude":-79.736195,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"11659 Parkway Dr",
     "sg:city":"Irwin",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081383,
-        85804559
+        85804559,
+        102081383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"86e8f104e4bf0bc521e102afe5c8c8f0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":-1,
             "neighbourhood_id":85804559,
             "region_id":85688481,
             "venue_id":387636027
         }
     ],
     "wof:id":387636027,
-    "wof:lastmodified":1449057617,
+    "wof:lastmodified":1454360531,
     "wof:name":"Concept Food Sales",
     "wof:parent_id":85804559,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "grocers-wholesale"
     ]
 },
-  "bbox": [-79.736195,40.329376,-79.736195,40.329376],
+  "bbox": [
+    -79.736195,
+    40.329376,
+    -79.736195,
+    40.329376
+],
   "geometry": {"coordinates":[-79.736195,40.329376],"type":"Point"}
 }

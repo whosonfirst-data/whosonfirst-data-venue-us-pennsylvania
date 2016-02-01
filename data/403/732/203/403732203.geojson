@@ -2,13 +2,14 @@
   "id": 403732203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.423335,40.350181,-76.423335,40.350181",
     "geom:latitude":40.350181,
     "geom:longitude":-76.423335,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"710 Maple St Fl 2",
     "sg:city":"Lebanon",
     "sg:classifiers":[
@@ -41,10 +42,13 @@
     "sg:website":"http://www.lebanoneit.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420538695,
+        102191575,
+        404485699,
         85633793,
         101717093,
-        102081341
+        102081341,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,19 +58,20 @@
     "wof:geomhash":"2a8a5a9974373a49d9424a7da907efae",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081341,
+            "localadmin_id":404485699,
             "locality_id":101717093,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420538695,
             "region_id":85688481,
             "venue_id":403732203
         }
     ],
     "wof:id":403732203,
-    "wof:lastmodified":1449056016,
+    "wof:lastmodified":1454358013,
     "wof:name":"Office Of Aging",
-    "wof:parent_id":-1,
+    "wof:parent_id":420538695,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -77,6 +82,11 @@
         "parish"
     ]
 },
-  "bbox": [-76.423335,40.350181,-76.423335,40.350181],
-  "geometry": {"coordinates":[-76.423335,40.350181],"type":"Point"}
+  "bbox": [
+    -76.423335,
+    40.350181,
+    -76.423335,
+    40.350181
+],
+  "geometry": {"coordinates":[-76.42333499999999,40.350181],"type":"Point"}
 }

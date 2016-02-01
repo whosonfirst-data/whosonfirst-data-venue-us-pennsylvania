@@ -2,13 +2,14 @@
   "id": 404129285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.879502,40.995175,-76.879502,40.995175",
     "geom:latitude":40.995175,
     "geom:longitude":-76.879502,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6 Shelly Cir",
     "sg:city":"Lewisburg",
     "sg:classifiers":[
@@ -34,8 +35,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081335,
-        85810245
+        85810245,
+        102081335
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +46,15 @@
     "wof:geomhash":"3fe03d22be3e97a9434fac220fe23f6d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081335,
-            "locality_id":-1,
             "neighbourhood_id":85810245,
             "region_id":85688481,
             "venue_id":404129285
         }
     ],
     "wof:id":404129285,
-    "wof:lastmodified":1449040055,
+    "wof:lastmodified":1454356980,
     "wof:name":"Meadow View Town Homes",
     "wof:parent_id":85810245,
     "wof:placetype":"venue",
@@ -65,6 +64,11 @@
         "management"
     ]
 },
-  "bbox": [-76.879502,40.995175,-76.879502,40.995175],
+  "bbox": [
+    -76.879502,
+    40.995175,
+    -76.879502,
+    40.995175
+],
   "geometry": {"coordinates":[-76.879502,40.995175],"type":"Point"}
 }

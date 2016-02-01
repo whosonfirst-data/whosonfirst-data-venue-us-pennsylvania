@@ -2,13 +2,14 @@
   "id": 404169379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.415497,40.577999,-75.415497,40.577999",
     "geom:latitude":40.577999,
     "geom:longitude":-75.415497,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1520 Black River Rd",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081327,
-        85821253
+        85821253,
+        102081327
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"eaac7a6e372a9a3edc037db2c934c0a0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081327,
-            "locality_id":-1,
             "neighbourhood_id":85821253,
             "region_id":85688481,
             "venue_id":404169379
         }
     ],
     "wof:id":404169379,
-    "wof:lastmodified":1449039849,
+    "wof:lastmodified":1454356839,
     "wof:name":"Yundt Thos General Contractor",
     "wof:parent_id":85821253,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "contractor"
     ]
 },
-  "bbox": [-75.415497,40.577999,-75.415497,40.577999],
+  "bbox": [
+    -75.415497,
+    40.577999,
+    -75.415497,
+    40.577999
+],
   "geometry": {"coordinates":[-75.415497,40.577999],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387715273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.032731,40.695322,-80.032731,40.695322",
     "geom:latitude":40.695322,
     "geom:longitude":-80.032731,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"160 Scharberry Ln",
     "sg:city":"Seven Fields",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102083677,
-        85852141
+        85852141,
+        102083677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"81c4161534631dacf9709a999fe673cc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102083677,
-            "locality_id":-1,
             "neighbourhood_id":85852141,
             "region_id":85688481,
             "venue_id":387715273
         }
     ],
     "wof:id":387715273,
-    "wof:lastmodified":1449059150,
+    "wof:lastmodified":1454360998,
     "wof:name":"Twelve Oaks Mansion",
     "wof:parent_id":85852141,
     "wof:placetype":"venue",
@@ -68,6 +67,11 @@
         "caterer"
     ]
 },
-  "bbox": [-80.032731,40.695322,-80.032731,40.695322],
+  "bbox": [
+    -80.032731,
+    40.695322,
+    -80.032731,
+    40.695322
+],
   "geometry": {"coordinates":[-80.032731,40.695322],"type":"Point"}
 }

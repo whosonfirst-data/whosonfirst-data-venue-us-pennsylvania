@@ -2,13 +2,14 @@
   "id": 387859555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.394104,40.45355,-78.394104,40.45355",
     "geom:latitude":40.45355,
     "geom:longitude":-78.394104,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"106 Hawthorne St",
     "sg:city":"Hollidaysburg",
     "sg:classifiers":[
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85849795,
+        102191575,
+        404484717,
         85633793,
+        101718879,
         102081325,
-        85849795
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +51,18 @@
     "wof:geomhash":"57d4a6b878cbf7c32addf878863e3169",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081325,
-            "locality_id":-1,
+            "localadmin_id":404484717,
+            "locality_id":101718879,
             "neighbourhood_id":85849795,
             "region_id":85688481,
             "venue_id":387859555
         }
     ],
     "wof:id":387859555,
-    "wof:lastmodified":1449058833,
+    "wof:lastmodified":1454360898,
     "wof:name":"Bonnie Botteicher",
     "wof:parent_id":85849795,
     "wof:placetype":"venue",
@@ -69,6 +74,11 @@
         "reporters-court"
     ]
 },
-  "bbox": [-78.394104,40.45355,-78.394104,40.45355],
+  "bbox": [
+    -78.394104,
+    40.45355,
+    -78.394104,
+    40.45355
+],
   "geometry": {"coordinates":[-78.394104,40.45355],"type":"Point"}
 }

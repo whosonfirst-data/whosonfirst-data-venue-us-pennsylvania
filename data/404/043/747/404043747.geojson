@@ -2,13 +2,14 @@
   "id": 404043747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.203585,40.282643,-76.203585,40.282643",
     "geom:latitude":40.282643,
     "geom:longitude":-76.203585,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"225 S Cocalico Rd",
     "sg:city":"Denver",
     "sg:classifiers":[
@@ -41,8 +42,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85811603
+        85811603,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,17 +53,15 @@
     "wof:geomhash":"4d06ec5b8759a41166ed1a70aad4448a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85811603,
             "region_id":85688481,
             "venue_id":404043747
         }
     ],
     "wof:id":404043747,
-    "wof:lastmodified":1449040005,
+    "wof:lastmodified":1454356950,
     "wof:name":"Cocalico Church Of Brethren",
     "wof:parent_id":85811603,
     "wof:placetype":"venue",
@@ -74,6 +73,11 @@
         "churches-mennonite"
     ]
 },
-  "bbox": [-76.203585,40.282643,-76.203585,40.282643],
+  "bbox": [
+    -76.203585,
+    40.282643,
+    -76.203585,
+    40.282643
+],
   "geometry": {"coordinates":[-76.203585,40.282643],"type":"Point"}
 }

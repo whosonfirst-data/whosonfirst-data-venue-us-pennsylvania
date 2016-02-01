@@ -2,13 +2,14 @@
   "id": 387441961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.037757,40.357264,-80.037757,40.357264",
     "geom:latitude":40.357264,
     "geom:longitude":-80.037757,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"122 Stilwell Ct",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -38,8 +39,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85821223
+        85821223,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +50,15 @@
     "wof:geomhash":"349a05011730f782f78f1a1dc47226d7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85821223,
             "region_id":85688481,
             "venue_id":387441961
         }
     ],
     "wof:id":387441961,
-    "wof:lastmodified":1449056405,
+    "wof:lastmodified":1454358319,
     "wof:name":"Fetch! Pet Care",
     "wof:parent_id":85821223,
     "wof:placetype":"venue",
@@ -72,6 +71,11 @@
         "sitting"
     ]
 },
-  "bbox": [-80.037757,40.357264,-80.037757,40.357264],
+  "bbox": [
+    -80.037757,
+    40.357264,
+    -80.037757,
+    40.357264
+],
   "geometry": {"coordinates":[-80.037757,40.357264],"type":"Point"}
 }

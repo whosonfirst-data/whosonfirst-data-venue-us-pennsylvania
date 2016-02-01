@@ -2,13 +2,14 @@
   "id": 387616835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.491498,40.302869,-79.491498,40.302869",
     "geom:latitude":40.302869,
     "geom:longitude":-79.491498,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"827 Georges Station Rd",
     "sg:city":"Greensburg",
     "sg:classifiers":[
@@ -52,8 +53,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081383,
-        85851151
+        85851151,
+        102081383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,17 +64,15 @@
     "wof:geomhash":"799b94fa01d30c84f72e3961eb615e8d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":-1,
             "neighbourhood_id":85851151,
             "region_id":85688481,
             "venue_id":387616835
         }
     ],
     "wof:id":387616835,
-    "wof:lastmodified":1449058902,
+    "wof:lastmodified":1454360923,
     "wof:name":"Oak Hill Nursing and Rehabilitation Center",
     "wof:parent_id":85851151,
     "wof:placetype":"venue",
@@ -90,6 +89,11 @@
         "rehabilitation"
     ]
 },
-  "bbox": [-79.491498,40.302869,-79.491498,40.302869],
-  "geometry": {"coordinates":[-79.491498,40.302869],"type":"Point"}
+  "bbox": [
+    -79.491498,
+    40.302869,
+    -79.491498,
+    40.302869
+],
+  "geometry": {"coordinates":[-79.49149800000001,40.302869],"type":"Point"}
 }

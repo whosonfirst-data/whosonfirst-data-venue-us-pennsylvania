@@ -2,13 +2,14 @@
   "id": 387465425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.025431,40.451455,-80.025431,40.451455",
     "geom:latitude":40.451455,
     "geom:longitude":-80.025431,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1398 Page St",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     "sg:website":"www.pghboe.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85873557,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85873557
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"bbfe2a960c817d0c5109d677cd9217ad",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85873557,
             "region_id":85688481,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":387465425,
-    "wof:lastmodified":1449058665,
+    "wof:lastmodified":1454360845,
     "wof:name":"Pittsburgh School District",
     "wof:parent_id":85873557,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "elementary"
     ]
 },
-  "bbox": [-80.025431,40.451455,-80.025431,40.451455],
+  "bbox": [
+    -80.025431,
+    40.451455,
+    -80.025431,
+    40.451455
+],
   "geometry": {"coordinates":[-80.025431,40.451455],"type":"Point"}
 }

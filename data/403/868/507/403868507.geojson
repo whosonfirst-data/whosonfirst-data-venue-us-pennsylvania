@@ -2,13 +2,14 @@
   "id": 403868507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.822094,40.3036,-76.822094,40.3036",
     "geom:latitude":40.3036,
     "geom:longitude":-76.822094,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4322 Ethel St",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85824251,
+        102191575,
+        404486185,
         85633793,
+        101719811,
         102081347,
-        85824251
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +47,18 @@
     "wof:geomhash":"5e5fe429022306a33b4ae624c04013d2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
+            "localadmin_id":404486185,
+            "locality_id":101719811,
             "neighbourhood_id":85824251,
             "region_id":85688481,
             "venue_id":403868507
         }
     ],
     "wof:id":403868507,
-    "wof:lastmodified":1449054677,
+    "wof:lastmodified":1454357210,
     "wof:name":"Christopher's Painting",
     "wof:parent_id":85824251,
     "wof:placetype":"venue",
@@ -66,6 +71,11 @@
         "contractor"
     ]
 },
-  "bbox": [-76.822094,40.3036,-76.822094,40.3036],
-  "geometry": {"coordinates":[-76.822094,40.3036],"type":"Point"}
+  "bbox": [
+    -76.822094,
+    40.3036,
+    -76.822094,
+    40.3036
+],
+  "geometry": {"coordinates":[-76.82209400000001,40.3036],"type":"Point"}
 }

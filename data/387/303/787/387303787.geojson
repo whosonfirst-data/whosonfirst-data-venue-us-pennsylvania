@@ -2,13 +2,14 @@
   "id": 387303787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.988058,40.504066,-79.988058,40.504066",
     "geom:latitude":40.504066,
     "geom:longitude":-79.988058,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1909 Babcock Blvd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -43,8 +44,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85818343
+        85818343,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,17 +55,15 @@
     "wof:geomhash":"7046cd05c1f7d0128caf3bca31e8a1cd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85818343,
             "region_id":85688481,
             "venue_id":387303787
         }
     ],
     "wof:id":387303787,
-    "wof:lastmodified":1449056150,
+    "wof:lastmodified":1454358123,
     "wof:name":"Atlas Self Storage Centers",
     "wof:parent_id":85818343,
     "wof:placetype":"venue",
@@ -82,6 +81,11 @@
         "household"
     ]
 },
-  "bbox": [-79.988058,40.504066,-79.988058,40.504066],
+  "bbox": [
+    -79.988058,
+    40.504066,
+    -79.988058,
+    40.504066
+],
   "geometry": {"coordinates":[-79.988058,40.504066],"type":"Point"}
 }

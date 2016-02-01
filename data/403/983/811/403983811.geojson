@@ -2,13 +2,14 @@
   "id": 403983811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.170205,39.818084,-77.170205,39.818084",
     "geom:latitude":39.818084,
     "geom:longitude":-77.170205,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1990 Hanover Rd",
     "sg:city":"Gettysburg",
     "sg:classifiers":[
@@ -37,8 +38,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080899,
-        85865375
+        85865375,
+        102080899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +49,15 @@
     "wof:geomhash":"8c85aa8ebd742113325c4a69efaa1d25",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080899,
-            "locality_id":-1,
             "neighbourhood_id":85865375,
             "region_id":85688481,
             "venue_id":403983811
         }
     ],
     "wof:id":403983811,
-    "wof:lastmodified":1449055852,
+    "wof:lastmodified":1454357909,
     "wof:name":"Cavalry Field Mini Storage",
     "wof:parent_id":85865375,
     "wof:placetype":"venue",
@@ -71,6 +70,11 @@
         "household"
     ]
 },
-  "bbox": [-77.170205,39.818084,-77.170205,39.818084],
+  "bbox": [
+    -77.170205,
+    39.818084,
+    -77.170205,
+    39.818084
+],
   "geometry": {"coordinates":[-77.170205,39.818084],"type":"Point"}
 }

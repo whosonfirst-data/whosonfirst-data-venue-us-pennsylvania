@@ -2,13 +2,14 @@
   "id": 387433777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.102128,40.50214,-80.102128,40.50214",
     "geom:latitude":40.50214,
     "geom:longitude":-80.102128,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2901 Neville Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -39,8 +40,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85814623
+        85814623,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,17 +51,15 @@
     "wof:geomhash":"dce28eed672a8f0e899d07e49376f751",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85814623,
             "region_id":85688481,
             "venue_id":387433777
         }
     ],
     "wof:id":387433777,
-    "wof:lastmodified":1449056549,
+    "wof:lastmodified":1454358430,
     "wof:name":"Brayman Construction",
     "wof:parent_id":85814623,
     "wof:placetype":"venue",
@@ -75,6 +74,11 @@
         "home"
     ]
 },
-  "bbox": [-80.102128,40.50214,-80.102128,40.50214],
-  "geometry": {"coordinates":[-80.102128,40.50214],"type":"Point"}
+  "bbox": [
+    -80.102128,
+    40.50214,
+    -80.102128,
+    40.50214
+],
+  "geometry": {"coordinates":[-80.10212799999999,40.50214],"type":"Point"}
 }

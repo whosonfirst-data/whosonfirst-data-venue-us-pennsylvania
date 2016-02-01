@@ -2,13 +2,14 @@
   "id": 387418165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.992203,40.445801,-79.992203,40.445801",
     "geom:latitude":40.445801,
     "geom:longitude":-79.992203,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1200 Penn Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85873583,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85873583
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"f35e1d4834a9e0ba06d195580478a624",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85873583,
             "region_id":85688481,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":387418165,
-    "wof:lastmodified":1449059090,
+    "wof:lastmodified":1454360980,
     "wof:name":"Buncher Co the",
     "wof:parent_id":85873583,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.992203,40.445801,-79.992203,40.445801],
+  "bbox": [
+    -79.992203,
+    40.445801,
+    -79.992203,
+    40.445801
+],
   "geometry": {"coordinates":[-79.992203,40.445801],"type":"Point"}
 }

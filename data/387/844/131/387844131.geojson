@@ -2,13 +2,14 @@
   "id": 387844131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.015291,42.140225,-80.015291,42.140225",
     "geom:latitude":42.140225,
     "geom:longitude":-80.015291,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3210 Buffalo Rd",
     "sg:city":"Erie",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85807963,
+        102191575,
+        404486683,
         85633793,
         101720203,
         102080955,
-        85807963
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"c6ed472277ce76cbeedcba2efa24cbcd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080955,
+            "localadmin_id":404486683,
             "locality_id":101720203,
             "neighbourhood_id":85807963,
             "region_id":85688481,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":387844131,
-    "wof:lastmodified":1449057728,
+    "wof:lastmodified":1454360575,
     "wof:name":"A-1 Tax & Notary Service",
     "wof:parent_id":85807963,
     "wof:placetype":"venue",
@@ -72,6 +76,11 @@
         "preparation-business"
     ]
 },
-  "bbox": [-80.015291,42.140225,-80.015291,42.140225],
+  "bbox": [
+    -80.015291,
+    42.140225,
+    -80.015291,
+    42.140225
+],
   "geometry": {"coordinates":[-80.015291,42.140225],"type":"Point"}
 }

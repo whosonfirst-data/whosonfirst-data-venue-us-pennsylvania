@@ -2,13 +2,14 @@
   "id": 387584413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.103198,39.928657,-80.103198,39.928657",
     "geom:latitude":39.928657,
     "geom:longitude":-80.103198,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1044 Lippencott Rd",
     "sg:city":"Waynesburg",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080975,
-        85830833
+        85830833,
+        102080975
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"967b1ed0010d9c9a50df3ebab926d3be",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080975,
-            "locality_id":-1,
             "neighbourhood_id":85830833,
             "region_id":85688481,
             "venue_id":387584413
         }
     ],
     "wof:id":387584413,
-    "wof:lastmodified":1449056523,
+    "wof:lastmodified":1454358414,
     "wof:name":"Golf Shop",
     "wof:parent_id":85830833,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "supply"
     ]
 },
-  "bbox": [-80.103198,39.928657,-80.103198,39.928657],
-  "geometry": {"coordinates":[-80.103198,39.928657],"type":"Point"}
+  "bbox": [
+    -80.103198,
+    39.928657,
+    -80.103198,
+    39.928657
+],
+  "geometry": {"coordinates":[-80.10319800000001,39.928657],"type":"Point"}
 }

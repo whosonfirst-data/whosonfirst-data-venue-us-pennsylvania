@@ -2,13 +2,14 @@
   "id": 387483043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.02879,40.357651,-80.02879,40.357651",
     "geom:latitude":40.357651,
     "geom:longitude":-80.02879,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4146 Library Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536387,
+        102191575,
+        404484869,
         85633793,
         101718761,
-        102080887
+        102080887,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +49,20 @@
     "wof:geomhash":"99b5e6c32f55a2e6bd106b19e5669014",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484869,
             "locality_id":101718761,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420536387,
             "region_id":85688481,
             "venue_id":387483043
         }
     ],
     "wof:id":387483043,
-    "wof:lastmodified":1449059103,
+    "wof:lastmodified":1454360983,
     "wof:name":"Eisel Chiropractic",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536387,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -65,6 +70,11 @@
         "medical"
     ]
 },
-  "bbox": [-80.02879,40.357651,-80.02879,40.357651],
+  "bbox": [
+    -80.02879,
+    40.357651,
+    -80.02879,
+    40.357651
+],
   "geometry": {"coordinates":[-80.02879,40.357651],"type":"Point"}
 }

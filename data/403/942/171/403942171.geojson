@@ -2,13 +2,14 @@
   "id": 403942171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.901439,40.228508,-77.901439,40.228508",
     "geom:latitude":40.228508,
     "geom:longitude":-77.901439,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"11245 Pogue Rd",
     "sg:city":"Orbisonia",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080901,
-        85845467
+        85845467,
+        102080901
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"8be61bebc5dbaba5e592499d2152eff4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080901,
-            "locality_id":-1,
             "neighbourhood_id":85845467,
             "region_id":85688481,
             "venue_id":403942171
         }
     ],
     "wof:id":403942171,
-    "wof:lastmodified":1449055251,
+    "wof:lastmodified":1454357562,
     "wof:name":"McCartney's Contracting",
     "wof:parent_id":85845467,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "heater"
     ]
 },
-  "bbox": [-77.901439,40.228508,-77.901439,40.228508],
+  "bbox": [
+    -77.901439,
+    40.228508,
+    -77.901439,
+    40.228508
+],
   "geometry": {"coordinates":[-77.901439,40.228508],"type":"Point"}
 }

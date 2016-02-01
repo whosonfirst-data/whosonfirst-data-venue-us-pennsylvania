@@ -2,13 +2,14 @@
   "id": 387837317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.154444,42.080445,-80.154444,42.080445",
     "geom:latitude":42.080445,
     "geom:longitude":-80.154444,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2716 Caughey Rd",
     "sg:city":"Erie",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080955,
-        85810495
+        85810495,
+        102080955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"de3ce938fbfaed3c5d1fee4bae6b0043",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080955,
-            "locality_id":-1,
             "neighbourhood_id":85810495,
             "region_id":85688481,
             "venue_id":387837317
         }
     ],
     "wof:id":387837317,
-    "wof:lastmodified":1449056696,
+    "wof:lastmodified":1454358546,
     "wof:name":"Renewed Rentals",
     "wof:parent_id":85810495,
     "wof:placetype":"venue",
@@ -61,6 +60,11 @@
         "apartment"
     ]
 },
-  "bbox": [-80.154444,42.080445,-80.154444,42.080445],
+  "bbox": [
+    -80.154444,
+    42.080445,
+    -80.154444,
+    42.080445
+],
   "geometry": {"coordinates":[-80.154444,42.080445],"type":"Point"}
 }

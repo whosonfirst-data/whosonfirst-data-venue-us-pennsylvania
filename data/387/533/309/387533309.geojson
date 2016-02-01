@@ -2,13 +2,14 @@
   "id": 387533309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.178914,40.447803,-80.178914,40.447803",
     "geom:latitude":40.447803,
     "geom:longitude":-80.178914,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"225 Summit Park Dr",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85805237
+        85805237,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"c97c08c150bce3144546438c37989fcf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85805237,
             "region_id":85688481,
             "venue_id":387533309
         }
     ],
     "wof:id":387533309,
-    "wof:lastmodified":1449056070,
+    "wof:lastmodified":1454358057,
     "wof:name":"Uncle Sam's Sandwich Bar",
     "wof:parent_id":85805237,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "sandwich"
     ]
 },
-  "bbox": [-80.178914,40.447803,-80.178914,40.447803],
-  "geometry": {"coordinates":[-80.178914,40.447803],"type":"Point"}
+  "bbox": [
+    -80.178914,
+    40.447803,
+    -80.178914,
+    40.447803
+],
+  "geometry": {"coordinates":[-80.17891400000001,40.447803],"type":"Point"}
 }

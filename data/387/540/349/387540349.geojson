@@ -2,13 +2,14 @@
   "id": 387540349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.235467,40.180492,-80.235467,40.180492",
     "geom:latitude":40.180492,
     "geom:longitude":-80.235467,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"110 Murtland Ave",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     "sg:website":"http://www.enterprise.com/car_rental/deeplinkmap.do?gpbr=4028&bid=004&cnty=US&arc=YPTRL01&cm_mmc=Yellowpages.com-_-IYP-_-Tradelisting-_-branch",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85852963,
+        102191575,
+        404487917,
         85633793,
         101718569,
         102081343,
-        85852963
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"6cc4bc5934e492cbe93c896587c4df3b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081343,
+            "localadmin_id":404487917,
             "locality_id":101718569,
             "neighbourhood_id":85852963,
             "region_id":85688481,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":387540349,
-    "wof:lastmodified":1449057607,
+    "wof:lastmodified":1454360528,
     "wof:name":"Enterprise Rent-A-Car",
     "wof:parent_id":85852963,
     "wof:placetype":"venue",
@@ -71,6 +75,11 @@
         "car"
     ]
 },
-  "bbox": [-80.235467,40.180492,-80.235467,40.180492],
+  "bbox": [
+    -80.235467,
+    40.180492,
+    -80.235467,
+    40.180492
+],
   "geometry": {"coordinates":[-80.235467,40.180492],"type":"Point"}
 }

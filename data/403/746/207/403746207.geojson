@@ -2,13 +2,14 @@
   "id": 403746207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.999702,40.239101,-76.999702,40.239101",
     "geom:latitude":40.239101,
     "geom:longitude":-76.999702,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"141 Salem Church Rd",
     "sg:city":"Mechanicsburg",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081359,
-        85822223
+        85822223,
+        102081359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"35f579353ffe4878a53c04f4b83d794d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081359,
-            "locality_id":-1,
             "neighbourhood_id":85822223,
             "region_id":85688481,
             "venue_id":403746207
         }
     ],
     "wof:id":403746207,
-    "wof:lastmodified":1449054617,
+    "wof:lastmodified":1454357174,
     "wof:name":"Fetrow Electric Service Company",
     "wof:parent_id":85822223,
     "wof:placetype":"venue",
@@ -61,6 +60,11 @@
         "electrician"
     ]
 },
-  "bbox": [-76.999702,40.239101,-76.999702,40.239101],
+  "bbox": [
+    -76.999702,
+    40.239101,
+    -76.999702,
+    40.239101
+],
   "geometry": {"coordinates":[-76.999702,40.239101],"type":"Point"}
 }

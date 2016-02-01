@@ -2,13 +2,14 @@
   "id": 387966545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.667542,40.377339,-76.667542,40.377339",
     "geom:latitude":40.377339,
     "geom:longitude":-76.667542,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"216 Spring Rd",
     "sg:city":"Grantville",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85832031
+        85832031,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"e17e793503fa2f53258cd1287eb0628b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85832031,
             "region_id":85688481,
             "venue_id":387966545
         }
     ],
     "wof:id":387966545,
-    "wof:lastmodified":1449056138,
+    "wof:lastmodified":1454358113,
     "wof:name":"Geesaman Interiors",
     "wof:parent_id":85832031,
     "wof:placetype":"venue",
@@ -64,6 +63,11 @@
         "contractor"
     ]
 },
-  "bbox": [-76.667542,40.377339,-76.667542,40.377339],
+  "bbox": [
+    -76.667542,
+    40.377339,
+    -76.667542,
+    40.377339
+],
   "geometry": {"coordinates":[-76.667542,40.377339],"type":"Point"}
 }

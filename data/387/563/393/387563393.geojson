@@ -2,13 +2,14 @@
   "id": 387563393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.127815,40.270905,-80.127815,40.270905",
     "geom:latitude":40.270905,
     "geom:longitude":-80.127815,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3909 Washington Rd",
     "sg:city":"Canonsburg",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081343,
-        85814861
+        85814861,
+        102081343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"9cdef069a7636711f490c1d683919a09",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081343,
-            "locality_id":-1,
             "neighbourhood_id":85814861,
             "region_id":85688481,
             "venue_id":387563393
         }
     ],
     "wof:id":387563393,
-    "wof:lastmodified":1449056175,
+    "wof:lastmodified":1454358138,
     "wof:name":"Lifestyle Family Chiropractic",
     "wof:parent_id":85814861,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "chiropractic"
     ]
 },
-  "bbox": [-80.127815,40.270905,-80.127815,40.270905],
+  "bbox": [
+    -80.127815,
+    40.270905,
+    -80.127815,
+    40.270905
+],
   "geometry": {"coordinates":[-80.127815,40.270905],"type":"Point"}
 }

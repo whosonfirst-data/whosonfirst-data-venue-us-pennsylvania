@@ -2,13 +2,14 @@
   "id": 404098249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.003807,41.241853,-77.003807,41.241853",
     "geom:latitude":41.241853,
     "geom:longitude":-77.003807,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"416 Pine St",
     "sg:city":"Williamsport",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85802799,
+        102191575,
+        404485355,
         85633793,
-        101716811,
+        101716809,
         102081317,
-        85802799
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +41,18 @@
     "wof:geomhash":"7153870a02ee8c1a014ea932f9d51d03",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081317,
-            "locality_id":101716811,
+            "localadmin_id":404485355,
+            "locality_id":101716809,
             "neighbourhood_id":85802799,
             "region_id":85688481,
             "venue_id":404098249
         }
     ],
     "wof:id":404098249,
-    "wof:lastmodified":1449040199,
+    "wof:lastmodified":1454357058,
     "wof:name":"301 Pine Street Development Co",
     "wof:parent_id":85802799,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.003807,41.241853,-77.003807,41.241853],
-  "geometry": {"coordinates":[-77.003807,41.241853],"type":"Point"}
+  "bbox": [
+    -77.003807,
+    41.241853,
+    -77.003807,
+    41.241853
+],
+  "geometry": {"coordinates":[-77.00380699999999,41.241853],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403869495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.824384,40.278295,-76.824384,40.278295",
     "geom:latitude":40.278295,
     "geom:longitude":-76.824384,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3883 Union Deposit Rd",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85840955
+        85840955,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"86713c3fba78be1d8d2fbd82c144c18a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85840955,
             "region_id":85688481,
             "venue_id":403869495
         }
     ],
     "wof:id":403869495,
-    "wof:lastmodified":1449055857,
+    "wof:lastmodified":1454357913,
     "wof:name":"Chuck E. Cheese",
     "wof:parent_id":85840955,
     "wof:placetype":"venue",
@@ -63,6 +62,11 @@
         "american"
     ]
 },
-  "bbox": [-76.824384,40.278295,-76.824384,40.278295],
-  "geometry": {"coordinates":[-76.824384,40.278295],"type":"Point"}
+  "bbox": [
+    -76.824384,
+    40.278295,
+    -76.824384,
+    40.278295
+],
+  "geometry": {"coordinates":[-76.82438399999999,40.278295],"type":"Point"}
 }

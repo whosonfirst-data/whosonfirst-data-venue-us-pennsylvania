@@ -2,13 +2,14 @@
   "id": 387575113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.144551,40.200203,-80.144551,40.200203",
     "geom:latitude":40.200203,
     "geom:longitude":-80.144551,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"541 Christy Rd",
     "sg:city":"Eighty Four",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081343,
-        85830701
+        85830701,
+        102081343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"0a45ba1c3059892c588d1d5f948a2e87",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081343,
-            "locality_id":-1,
             "neighbourhood_id":85830701,
             "region_id":85688481,
             "venue_id":387575113
         }
     ],
     "wof:id":387575113,
-    "wof:lastmodified":1449057204,
+    "wof:lastmodified":1454358922,
     "wof:name":"Lerco Building Contractors",
     "wof:parent_id":85830701,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.144551,40.200203,-80.144551,40.200203],
-  "geometry": {"coordinates":[-80.144551,40.200203],"type":"Point"}
+  "bbox": [
+    -80.144551,
+    40.200203,
+    -80.144551,
+    40.200203
+],
+  "geometry": {"coordinates":[-80.14455100000001,40.200203],"type":"Point"}
 }

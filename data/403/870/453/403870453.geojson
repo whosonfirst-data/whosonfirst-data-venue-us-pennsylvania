@@ -2,13 +2,14 @@
   "id": 403870453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.821404,40.291199,-76.821404,40.291199",
     "geom:latitude":40.291199,
     "geom:longitude":-76.821404,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4200 Locust Ln",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85829485
+        85829485,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"009cd126b07b677a6b29ab436a963e67",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85829485,
             "region_id":85688481,
             "venue_id":403870453
         }
     ],
     "wof:id":403870453,
-    "wof:lastmodified":1449054995,
+    "wof:lastmodified":1454357408,
     "wof:name":"Davis Florist & Garden Center",
     "wof:parent_id":85829485,
     "wof:placetype":"venue",
@@ -68,6 +67,11 @@
         "gardening"
     ]
 },
-  "bbox": [-76.821404,40.291199,-76.821404,40.291199],
+  "bbox": [
+    -76.821404,
+    40.291199,
+    -76.821404,
+    40.291199
+],
   "geometry": {"coordinates":[-76.821404,40.291199],"type":"Point"}
 }

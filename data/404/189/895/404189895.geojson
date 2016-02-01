@@ -2,13 +2,14 @@
   "id": 404189895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.340103,40.64864,-75.340103,40.64864",
     "geom:latitude":40.64864,
     "geom:longitude":-75.340103,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2920 Easton Ave Ste 2",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     "sg:website":"http://www.hancockfabrics.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85834019,
+        102191575,
+        404485987,
         85633793,
-        101719937,
+        101717907,
         102081395,
-        85834019
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +47,18 @@
     "wof:geomhash":"f4656bdda79b7cb3594d7fc8d6282ffc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081395,
-            "locality_id":101719937,
+            "localadmin_id":404485987,
+            "locality_id":101717907,
             "neighbourhood_id":85834019,
             "region_id":85688481,
             "venue_id":404189895
         }
     ],
     "wof:id":404189895,
-    "wof:lastmodified":1449039970,
+    "wof:lastmodified":1454356925,
     "wof:name":"Hancock Fabrics",
     "wof:parent_id":85834019,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "drapery"
     ]
 },
-  "bbox": [-75.340103,40.64864,-75.340103,40.64864],
+  "bbox": [
+    -75.340103,
+    40.64864,
+    -75.340103,
+    40.64864
+],
   "geometry": {"coordinates":[-75.340103,40.64864],"type":"Point"}
 }

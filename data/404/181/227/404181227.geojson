@@ -2,13 +2,14 @@
   "id": 404181227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.408758,40.676718,-75.408758,40.676718",
     "geom:latitude":40.676718,
     "geom:longitude":-75.408758,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4220 Wellesley Rd",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -34,8 +35,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081395,
-        85814279
+        85814279,
+        102081395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +46,15 @@
     "wof:geomhash":"62f0590250ac15aabd27c2634d6b1fe9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081395,
-            "locality_id":-1,
             "neighbourhood_id":85814279,
             "region_id":85688481,
             "venue_id":404181227
         }
     ],
     "wof:id":404181227,
-    "wof:lastmodified":1449039840,
+    "wof:lastmodified":1454356835,
     "wof:name":"Rose Valley Partnership",
     "wof:parent_id":85814279,
     "wof:placetype":"venue",
@@ -65,6 +64,11 @@
         "management"
     ]
 },
-  "bbox": [-75.408758,40.676718,-75.408758,40.676718],
-  "geometry": {"coordinates":[-75.408758,40.676718],"type":"Point"}
+  "bbox": [
+    -75.408758,
+    40.676718,
+    -75.408758,
+    40.676718
+],
+  "geometry": {"coordinates":[-75.40875800000001,40.676718],"type":"Point"}
 }

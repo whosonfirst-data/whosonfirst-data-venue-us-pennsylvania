@@ -2,13 +2,14 @@
   "id": 404102093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.852675,41.647807,-76.852675,41.647807",
     "geom:latitude":41.647807,
     "geom:longitude":-76.852675,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"27 Carlton St",
     "sg:city":"Canton",
     "sg:classifiers":[
@@ -42,8 +43,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081319,
-        85868601
+        85868601,
+        102081319
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,17 +54,15 @@
     "wof:geomhash":"02fc12c6b14e8f8bc2a6219659c7efab",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081319,
-            "locality_id":-1,
             "neighbourhood_id":85868601,
             "region_id":85688481,
             "venue_id":404102093
         }
     ],
     "wof:id":404102093,
-    "wof:lastmodified":1449040249,
+    "wof:lastmodified":1454357088,
     "wof:name":"Canton Quality Builders",
     "wof:parent_id":85868601,
     "wof:placetype":"venue",
@@ -81,6 +80,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-76.852675,41.647807,-76.852675,41.647807],
+  "bbox": [
+    -76.852675,
+    41.647807,
+    -76.852675,
+    41.647807
+],
   "geometry": {"coordinates":[-76.852675,41.647807],"type":"Point"}
 }

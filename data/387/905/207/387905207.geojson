@@ -2,13 +2,14 @@
   "id": 387905207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.781705,40.571344,-77.781705,40.571344",
     "geom:latitude":40.571344,
     "geom:longitude":-77.781705,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"59 Diesel Dr",
     "sg:city":"Belleville",
     "sg:classifiers":[
@@ -34,7 +35,12 @@
     "sg:website":"http://www.davidpeachey.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420539079,
+        102191575,
+        404488183,
         85633793,
+        101719087,
+        102081333,
         85688481
     ],
     "wof:breaches":[],
@@ -45,18 +51,20 @@
     "wof:geomhash":"8079afe00c928a6dc28b25055aedcfa4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081333,
+            "localadmin_id":404488183,
+            "locality_id":101719087,
+            "neighbourhood_id":420539079,
             "region_id":85688481,
             "venue_id":387905207
         }
     ],
     "wof:id":387905207,
-    "wof:lastmodified":1449057595,
+    "wof:lastmodified":1454360524,
     "wof:name":"Peach Run Ag Service D Peachy",
-    "wof:parent_id":-1,
+    "wof:parent_id":420539079,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -65,6 +73,11 @@
         "product"
     ]
 },
-  "bbox": [-77.781705,40.571344,-77.781705,40.571344],
+  "bbox": [
+    -77.781705,
+    40.571344,
+    -77.781705,
+    40.571344
+],
   "geometry": {"coordinates":[-77.781705,40.571344],"type":"Point"}
 }

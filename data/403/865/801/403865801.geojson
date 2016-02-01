@@ -2,13 +2,14 @@
   "id": 403865801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.853104,40.250401,-76.853104,40.250401",
     "geom:latitude":40.250401,
     "geom:longitude":-76.853104,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3 Ivey Ln",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85868485
+        85868485,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"4f2e9607414cbceb74ad2e19c9437b33",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85868485,
             "region_id":85688481,
             "venue_id":403865801
         }
     ],
     "wof:id":403865801,
-    "wof:lastmodified":1449055636,
+    "wof:lastmodified":1454357792,
     "wof:name":"Ivey Lane Apartments",
     "wof:parent_id":85868485,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "apartment"
     ]
 },
-  "bbox": [-76.853104,40.250401,-76.853104,40.250401],
+  "bbox": [
+    -76.853104,
+    40.250401,
+    -76.853104,
+    40.250401
+],
   "geometry": {"coordinates":[-76.853104,40.250401],"type":"Point"}
 }

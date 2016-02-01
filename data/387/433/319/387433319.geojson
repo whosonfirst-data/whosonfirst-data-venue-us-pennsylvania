@@ -2,13 +2,14 @@
   "id": 387433319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.943617,40.45603,-79.943617,40.45603",
     "geom:latitude":40.45603,
     "geom:longitude":-79.943617,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5111 Woodworth St",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85865519,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85865519
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"61c064d33fbac2d707ef290b24495bec",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85865519,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387433319,
-    "wof:lastmodified":1449056549,
+    "wof:lastmodified":1454358429,
     "wof:name":"Lifetime Tune Up Center Baum Boulevard",
     "wof:parent_id":85865519,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "tune"
     ]
 },
-  "bbox": [-79.943617,40.45603,-79.943617,40.45603],
+  "bbox": [
+    -79.943617,
+    40.45603,
+    -79.943617,
+    40.45603
+],
   "geometry": {"coordinates":[-79.943617,40.45603],"type":"Point"}
 }

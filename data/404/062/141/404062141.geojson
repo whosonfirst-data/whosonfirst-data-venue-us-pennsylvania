@@ -2,13 +2,14 @@
   "id": 404062141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.386252,40.161651,-76.386252,40.161651",
     "geom:latitude":40.161651,
     "geom:longitude":-76.386252,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"208 Redwood Lane",
     "sg:city":"Manheim",
     "sg:classifiers":[
@@ -44,8 +45,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85836395
+        85836395,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,17 +56,15 @@
     "wof:geomhash":"368022aeb9e7b010ca29660ed7e0b522",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85836395,
             "region_id":85688481,
             "venue_id":404062141
         }
     ],
     "wof:id":404062141,
-    "wof:lastmodified":1449040256,
+    "wof:lastmodified":1454357093,
     "wof:name":"H&S PERFORMANCE, LLC",
     "wof:parent_id":85836395,
     "wof:placetype":"venue",
@@ -80,6 +79,11 @@
         "restoration-antique"
     ]
 },
-  "bbox": [-76.386252,40.161651,-76.386252,40.161651],
+  "bbox": [
+    -76.386252,
+    40.161651,
+    -76.386252,
+    40.161651
+],
   "geometry": {"coordinates":[-76.386252,40.161651],"type":"Point"}
 }

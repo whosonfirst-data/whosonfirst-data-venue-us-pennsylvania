@@ -2,13 +2,14 @@
   "id": 403899051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.774775,40.259579,-76.774775,40.259579",
     "geom:latitude":40.259579,
     "geom:longitude":-76.774775,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6823 Paxton St",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85846483,
+        102191575,
+        404486309,
         85633793,
         101719823,
         102081347,
-        85846483
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"417b1d6c1eb803bdfecf676d2c7f9c6f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
+            "localadmin_id":404486309,
             "locality_id":101719823,
             "neighbourhood_id":85846483,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":403899051,
-    "wof:lastmodified":1449055881,
+    "wof:lastmodified":1454357927,
     "wof:name":"Columbia Energy",
     "wof:parent_id":85846483,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "propane"
     ]
 },
-  "bbox": [-76.774775,40.259579,-76.774775,40.259579],
-  "geometry": {"coordinates":[-76.774775,40.259579],"type":"Point"}
+  "bbox": [
+    -76.774775,
+    40.259579,
+    -76.774775,
+    40.259579
+],
+  "geometry": {"coordinates":[-76.77477500000001,40.259579],"type":"Point"}
 }

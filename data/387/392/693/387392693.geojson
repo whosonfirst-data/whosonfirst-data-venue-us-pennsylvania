@@ -2,13 +2,14 @@
   "id": 387392693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.041822,40.451889,-80.041822,40.451889",
     "geom:latitude":40.451889,
     "geom:longitude":-80.041822,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"286 Corliss St",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"www.allied.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85873557,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85873557
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"cb37e6dea54ecf96d5f94500288f94a5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85873557,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387392693,
-    "wof:lastmodified":1449059158,
+    "wof:lastmodified":1454361000,
     "wof:name":"Allied Van Lines Agents",
     "wof:parent_id":85873557,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "mover"
     ]
 },
-  "bbox": [-80.041822,40.451889,-80.041822,40.451889],
+  "bbox": [
+    -80.041822,
+    40.451889,
+    -80.041822,
+    40.451889
+],
   "geometry": {"coordinates":[-80.041822,40.451889],"type":"Point"}
 }

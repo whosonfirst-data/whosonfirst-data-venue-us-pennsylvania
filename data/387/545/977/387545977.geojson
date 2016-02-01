@@ -2,13 +2,14 @@
   "id": 387545977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.278938,40.192131,-80.278938,40.192131",
     "geom:latitude":40.192131,
     "geom:longitude":-80.278938,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"205 Hilltop Ln",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85852963,
+        102191575,
+        404487917,
         85633793,
         101718569,
         102081343,
-        85852963
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"ec9785a7fa01a532883842b4b27188cb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081343,
+            "localadmin_id":404487917,
             "locality_id":101718569,
             "neighbourhood_id":85852963,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387545977,
-    "wof:lastmodified":1449057023,
+    "wof:lastmodified":1454358778,
     "wof:name":"Eileen Churchel Wedding Photograpy",
     "wof:parent_id":85852963,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "photographers-commercial"
     ]
 },
-  "bbox": [-80.278938,40.192131,-80.278938,40.192131],
+  "bbox": [
+    -80.278938,
+    40.192131,
+    -80.278938,
+    40.192131
+],
   "geometry": {"coordinates":[-80.278938,40.192131],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387428279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.976709,40.456108,-79.976709,40.456108",
     "geom:latitude":40.456108,
     "geom:longitude":-79.976709,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2722 Penn Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -36,11 +37,13 @@
     "sg:website":"http://www.ligasure-usa.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85851271,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85851271
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,9 +53,10 @@
     "wof:geomhash":"0f5f79c0b2c7440068abb178f83d7494",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85851271,
             "region_id":85688481,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":387428279,
-    "wof:lastmodified":1449059662,
+    "wof:lastmodified":1454361149,
     "wof:name":"Tyco Healthcare Group Lp",
     "wof:parent_id":85851271,
     "wof:placetype":"venue",
@@ -73,6 +77,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-79.976709,40.456108,-79.976709,40.456108],
+  "bbox": [
+    -79.976709,
+    40.456108,
+    -79.976709,
+    40.456108
+],
   "geometry": {"coordinates":[-79.976709,40.456108],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387540011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.220661,40.183247,-80.220661,40.183247",
     "geom:latitude":40.183247,
     "geom:longitude":-80.220661,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"92 Trinity Point Dr",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -48,8 +49,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081343,
-        85832105
+        85832105,
+        102081343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,17 +60,15 @@
     "wof:geomhash":"2f6211334a18af1189e81082ddd5fc73",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081343,
-            "locality_id":-1,
             "neighbourhood_id":85832105,
             "region_id":85688481,
             "venue_id":387540011
         }
     ],
     "wof:id":387540011,
-    "wof:lastmodified":1449057607,
+    "wof:lastmodified":1454360528,
     "wof:name":"H&R BLOCK",
     "wof:parent_id":85832105,
     "wof:placetype":"venue",
@@ -87,6 +86,11 @@
         "bookkeeping"
     ]
 },
-  "bbox": [-80.220661,40.183247,-80.220661,40.183247],
-  "geometry": {"coordinates":[-80.220661,40.183247],"type":"Point"}
+  "bbox": [
+    -80.220661,
+    40.183247,
+    -80.220661,
+    40.183247
+],
+  "geometry": {"coordinates":[-80.22066100000001,40.183247],"type":"Point"}
 }

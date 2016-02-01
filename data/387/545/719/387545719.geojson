@@ -2,13 +2,14 @@
   "id": 387545719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.251923,40.1716,-80.251923,40.1716",
     "geom:latitude":40.1716,
     "geom:longitude":-80.251923,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"99 Jefferson Ave",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -89,11 +90,13 @@
     "sg:website":"http://www.walgreens.com/default.jsp?ec=iyp_yellowpages_trademark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85852963,
+        102191575,
+        404487917,
         85633793,
         101718569,
         102081343,
-        85852963
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -103,9 +106,10 @@
     "wof:geomhash":"7449ccbeb5cd59c8096c43731a58efab",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081343,
+            "localadmin_id":404487917,
             "locality_id":101718569,
             "neighbourhood_id":85852963,
             "region_id":85688481,
@@ -113,7 +117,7 @@
         }
     ],
     "wof:id":387545719,
-    "wof:lastmodified":1449057018,
+    "wof:lastmodified":1454358774,
     "wof:name":"Walgreens Pharmacies",
     "wof:parent_id":85852963,
     "wof:placetype":"venue",
@@ -134,6 +138,11 @@
         "consumer"
     ]
 },
-  "bbox": [-80.251923,40.1716,-80.251923,40.1716],
-  "geometry": {"coordinates":[-80.251923,40.1716],"type":"Point"}
+  "bbox": [
+    -80.251923,
+    40.1716,
+    -80.251923,
+    40.1716
+],
+  "geometry": {"coordinates":[-80.25192300000001,40.1716],"type":"Point"}
 }

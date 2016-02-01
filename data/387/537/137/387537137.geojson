@@ -2,13 +2,14 @@
   "id": 387537137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.256699,40.187199,-80.256699,40.187199",
     "geom:latitude":40.187199,
     "geom:longitude":-80.256699,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1295 Donnan Ave",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"paradiseconfectionery.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85852963,
+        102191575,
+        404487917,
         85633793,
         101718569,
         102081343,
-        85852963
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"123fdf2a493a4222b406c2dd54be93d0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081343,
+            "localadmin_id":404487917,
             "locality_id":101718569,
             "neighbourhood_id":85852963,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387537137,
-    "wof:lastmodified":1449057038,
+    "wof:lastmodified":1454358792,
     "wof:name":"Paradise Candy",
     "wof:parent_id":85852963,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "store"
     ]
 },
-  "bbox": [-80.256699,40.187199,-80.256699,40.187199],
+  "bbox": [
+    -80.256699,
+    40.187199,
+    -80.256699,
+    40.187199
+],
   "geometry": {"coordinates":[-80.256699,40.187199],"type":"Point"}
 }

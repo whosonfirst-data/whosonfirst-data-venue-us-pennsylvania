@@ -2,13 +2,14 @@
   "id": 387301631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.89254,40.470605,-79.89254,40.470605",
     "geom:latitude":40.470605,
     "geom:longitude":-79.89254,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1621 Lincoln Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85830655,
+        102191575,
+        404484931,
         85633793,
+        101718683,
         102080887,
-        85830655
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +49,18 @@
     "wof:geomhash":"89eb6794c7e6ed875b23c3255bff4d8b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
+            "localadmin_id":404484931,
+            "locality_id":101718683,
             "neighbourhood_id":85830655,
             "region_id":85688481,
             "venue_id":387301631
         }
     ],
     "wof:id":387301631,
-    "wof:lastmodified":1449057072,
+    "wof:lastmodified":1454358817,
     "wof:name":"Eva P. Mitchell Housing Lp",
     "wof:parent_id":85830655,
     "wof:placetype":"venue",
@@ -65,6 +70,11 @@
         "management"
     ]
 },
-  "bbox": [-79.89254,40.470605,-79.89254,40.470605],
+  "bbox": [
+    -79.89254,
+    40.470605,
+    -79.89254,
+    40.470605
+],
   "geometry": {"coordinates":[-79.89254,40.470605],"type":"Point"}
 }

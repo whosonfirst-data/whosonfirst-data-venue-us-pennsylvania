@@ -2,13 +2,14 @@
   "id": 387492827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.002658,40.345402,-80.002658,40.345402",
     "geom:latitude":40.345402,
     "geom:longitude":-80.002658,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"613 Elaine Dr",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -25,11 +26,13 @@
     "sg:website":"www.mrrooter.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85857905,
+        102191575,
+        404484247,
         85633793,
         101718705,
         102080887,
-        85857905
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +42,10 @@
     "wof:geomhash":"f4e958fec011f75e966237b7ada35e0c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484247,
             "locality_id":101718705,
             "neighbourhood_id":85857905,
             "region_id":85688481,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":387492827,
-    "wof:lastmodified":1449056108,
+    "wof:lastmodified":1454358089,
     "wof:name":"Mr Rooter of Pittsburgh",
     "wof:parent_id":85857905,
     "wof:placetype":"venue",
@@ -57,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.002658,40.345402,-80.002658,40.345402],
+  "bbox": [
+    -80.002658,
+    40.345402,
+    -80.002658,
+    40.345402
+],
   "geometry": {"coordinates":[-80.002658,40.345402],"type":"Point"}
 }

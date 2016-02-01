@@ -2,13 +2,14 @@
   "id": 404084425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.211128,40.051361,-76.211128,40.051361",
     "geom:latitude":40.051361,
     "geom:longitude":-76.211128,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2319 Sue Ann Dr",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85823025
+        85823025,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"c6ea24cd6916543aa842557a1b290675",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85823025,
             "region_id":85688481,
             "venue_id":404084425
         }
     ],
     "wof:id":404084425,
-    "wof:lastmodified":1449039146,
+    "wof:lastmodified":1454356474,
     "wof:name":"The Kentucky Rifle Associa",
     "wof:parent_id":85823025,
     "wof:placetype":"venue",
@@ -64,6 +63,11 @@
         "safety"
     ]
 },
-  "bbox": [-76.211128,40.051361,-76.211128,40.051361],
+  "bbox": [
+    -76.211128,
+    40.051361,
+    -76.211128,
+    40.051361
+],
   "geometry": {"coordinates":[-76.211128,40.051361],"type":"Point"}
 }

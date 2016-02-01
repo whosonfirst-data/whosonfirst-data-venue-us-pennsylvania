@@ -2,13 +2,14 @@
   "id": 404008435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.722954,39.957481,-76.722954,39.957481",
     "geom:latitude":39.957481,
     "geom:longitude":-76.722954,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"400 S Duke St",
     "sg:city":"York",
     "sg:classifiers":[
@@ -39,10 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85850705,
+        102191575,
+        404488029,
         85633793,
+        101717279,
         102080953,
-        85850705
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,17 +56,18 @@
     "wof:geomhash":"2c907bd51fcfaf069a0b6d457ecf8c89",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
+            "localadmin_id":404488029,
+            "locality_id":101717279,
             "neighbourhood_id":85850705,
             "region_id":85688481,
             "venue_id":404008435
         }
     ],
     "wof:id":404008435,
-    "wof:lastmodified":1449039396,
+    "wof:lastmodified":1454356624,
     "wof:name":"Tabernacle Deliverance Ch",
     "wof:parent_id":85850705,
     "wof:placetype":"venue",
@@ -74,6 +79,11 @@
         "churches-pentecostal"
     ]
 },
-  "bbox": [-76.722954,39.957481,-76.722954,39.957481],
+  "bbox": [
+    -76.722954,
+    39.957481,
+    -76.722954,
+    39.957481
+],
   "geometry": {"coordinates":[-76.722954,39.957481],"type":"Point"}
 }

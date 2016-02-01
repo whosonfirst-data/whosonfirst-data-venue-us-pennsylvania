@@ -2,13 +2,14 @@
   "id": 387167339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.933734,40.205785,-79.933734,40.205785",
     "geom:latitude":40.205785,
     "geom:longitude":-79.933734,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"913 W Main St",
     "sg:city":"Monongahela",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420539901,
+        102191575,
+        404487805,
         85633793,
         101718465,
-        102081343
+        102081343,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"6e81c47db7c17653ad82534ebdde96cd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081343,
+            "localadmin_id":404487805,
             "locality_id":101718465,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420539901,
             "region_id":85688481,
             "venue_id":387167339
         }
     ],
     "wof:id":387167339,
-    "wof:lastmodified":1449058086,
+    "wof:lastmodified":1454360677,
     "wof:name":"Sun of A Beach Tanning",
-    "wof:parent_id":-1,
+    "wof:parent_id":420539901,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.933734,40.205785,-79.933734,40.205785],
+  "bbox": [
+    -79.933734,
+    40.205785,
+    -79.933734,
+    40.205785
+],
   "geometry": {"coordinates":[-79.933734,40.205785],"type":"Point"}
 }

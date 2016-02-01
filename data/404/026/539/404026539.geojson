@@ -2,13 +2,14 @@
   "id": 404026539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.740079,39.983609,-76.740079,39.983609",
     "geom:latitude":39.983609,
     "geom:longitude":-76.740079,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"351 Loucks Rd",
     "sg:city":"York",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     "sg:website":"http://www.cicispizza.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85819331,
+        102191575,
+        404488029,
         85633793,
+        101717279,
         102080953,
-        85819331
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +45,18 @@
     "wof:geomhash":"39d68c1a300e165a8336d5f27463c4e2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
+            "localadmin_id":404488029,
+            "locality_id":101717279,
             "neighbourhood_id":85819331,
             "region_id":85688481,
             "venue_id":404026539
         }
     ],
     "wof:id":404026539,
-    "wof:lastmodified":1449039828,
+    "wof:lastmodified":1454356828,
     "wof:name":"Pizza Cici's",
     "wof:parent_id":85819331,
     "wof:placetype":"venue",
@@ -61,6 +66,11 @@
         "pizza"
     ]
 },
-  "bbox": [-76.740079,39.983609,-76.740079,39.983609],
-  "geometry": {"coordinates":[-76.740079,39.983609],"type":"Point"}
+  "bbox": [
+    -76.740079,
+    39.983609,
+    -76.740079,
+    39.983609
+],
+  "geometry": {"coordinates":[-76.74007899999999,39.983609],"type":"Point"}
 }

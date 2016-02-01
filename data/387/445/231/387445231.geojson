@@ -2,13 +2,14 @@
   "id": 387445231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.053217,40.347957,-80.053217,40.347957",
     "geom:latitude":40.347957,
     "geom:longitude":-80.053217,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1500 Washington Rd Ste 1406",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"www.mimimaternity.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85805921,
+        102191575,
+        404484853,
         85633793,
         101718799,
         102080887,
-        85805921
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"6499830328f289b485a759f60d1b51d9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484853,
             "locality_id":101718799,
             "neighbourhood_id":85805921,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387445231,
-    "wof:lastmodified":1449056613,
+    "wof:lastmodified":1454358485,
     "wof:name":"Mimi Maternity",
     "wof:parent_id":85805921,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "wear"
     ]
 },
-  "bbox": [-80.053217,40.347957,-80.053217,40.347957],
+  "bbox": [
+    -80.053217,
+    40.347957,
+    -80.053217,
+    40.347957
+],
   "geometry": {"coordinates":[-80.053217,40.347957],"type":"Point"}
 }

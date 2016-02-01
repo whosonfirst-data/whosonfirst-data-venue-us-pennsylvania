@@ -2,13 +2,14 @@
   "id": 387674907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.91841,40.324481,-78.91841,40.324481",
     "geom:latitude":40.324481,
     "geom:longitude":-78.91841,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"225 Franklin St Fl 2",
     "sg:city":"Johnstown",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85828219,
+        102191575,
+        404485493,
         85633793,
-        101717809,
+        101717777,
         102080879,
-        85828219
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"ea171b7ff7310252068514f2bd6bd3f1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080879,
-            "locality_id":101717809,
+            "localadmin_id":404485493,
+            "locality_id":101717777,
             "neighbourhood_id":85828219,
             "region_id":85688481,
             "venue_id":387674907
         }
     ],
     "wof:id":387674907,
-    "wof:lastmodified":1449058953,
+    "wof:lastmodified":1454360938,
     "wof:name":"Tms Healthcare",
     "wof:parent_id":85828219,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "welfare"
     ]
 },
-  "bbox": [-78.91841,40.324481,-78.91841,40.324481],
-  "geometry": {"coordinates":[-78.91841,40.324481],"type":"Point"}
+  "bbox": [
+    -78.91841,
+    40.324481,
+    -78.91841,
+    40.324481
+],
+  "geometry": {"coordinates":[-78.91840999999999,40.324481],"type":"Point"}
 }

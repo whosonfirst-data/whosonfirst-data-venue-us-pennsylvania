@@ -2,13 +2,14 @@
   "id": 387516949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.058171,40.344427,-80.058171,40.344427",
     "geom:latitude":40.344427,
     "geom:longitude":-80.058171,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"300 S Hills Vlg",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     "sg:website":"www.bebe.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85805921,
+        102191575,
+        404484853,
         85633793,
         101718799,
         102080887,
-        85805921
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"b6b6af3b4a220a7d39d0f9e265286a6f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484853,
             "locality_id":101718799,
             "neighbourhood_id":85805921,
             "region_id":85688481,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":387516949,
-    "wof:lastmodified":1449056828,
+    "wof:lastmodified":1454358636,
     "wof:name":"Bebe",
     "wof:parent_id":85805921,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "women's"
     ]
 },
-  "bbox": [-80.058171,40.344427,-80.058171,40.344427],
+  "bbox": [
+    -80.058171,
+    40.344427,
+    -80.058171,
+    40.344427
+],
   "geometry": {"coordinates":[-80.058171,40.344427],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387247957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.914157,40.410905,-79.914157,40.410905",
     "geom:latitude":40.410905,
     "geom:longitude":-79.914157,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"240 Waterfront Dr E",
     "sg:city":"Homestead",
     "sg:classifiers":[
@@ -50,11 +51,13 @@
     "sg:website":"http://www.att.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85821717,
+        102191575,
+        404482523,
         85633793,
         101718719,
         102080887,
-        85821717
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,9 +67,10 @@
     "wof:geomhash":"536ad5aceaed6b401af979c6609c824d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718719,
             "neighbourhood_id":85821717,
             "region_id":85688481,
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":387247957,
-    "wof:lastmodified":1449058334,
+    "wof:lastmodified":1454360748,
     "wof:name":"AT&T",
     "wof:parent_id":85821717,
     "wof:placetype":"venue",
@@ -91,6 +95,11 @@
         "provider"
     ]
 },
-  "bbox": [-79.914157,40.410905,-79.914157,40.410905],
+  "bbox": [
+    -79.914157,
+    40.410905,
+    -79.914157,
+    40.410905
+],
   "geometry": {"coordinates":[-79.914157,40.410905],"type":"Point"}
 }

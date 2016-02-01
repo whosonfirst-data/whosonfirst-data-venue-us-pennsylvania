@@ -2,13 +2,14 @@
   "id": 387501179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.010545,40.503211,-80.010545,40.503211",
     "geom:latitude":40.503211,
     "geom:longitude":-80.010545,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4552 Mcknight Rd Ste 3",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -39,8 +40,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85827181
+        85827181,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,17 +51,15 @@
     "wof:geomhash":"fc1517ed36864a63564af9d34b20c60e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85827181,
             "region_id":85688481,
             "venue_id":387501179
         }
     ],
     "wof:id":387501179,
-    "wof:lastmodified":1449059951,
+    "wof:lastmodified":1454361242,
     "wof:name":"Merry Maids",
     "wof:parent_id":85827181,
     "wof:placetype":"venue",
@@ -74,6 +73,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.010545,40.503211,-80.010545,40.503211],
-  "geometry": {"coordinates":[-80.010545,40.503211],"type":"Point"}
+  "bbox": [
+    -80.010545,
+    40.503211,
+    -80.010545,
+    40.503211
+],
+  "geometry": {"coordinates":[-80.01054499999999,40.503211],"type":"Point"}
 }

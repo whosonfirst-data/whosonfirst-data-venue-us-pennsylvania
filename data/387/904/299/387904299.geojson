@@ -2,13 +2,14 @@
   "id": 387904299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.52029,40.328811,-76.52029,40.328811",
     "geom:latitude":40.328811,
     "geom:longitude":-76.52029,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"245 W Main St",
     "sg:city":"Annville",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     "sg:website":"www.batdorfrestaurant.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420538697,
+        102191575,
+        404483423,
         85633793,
         101719373,
-        102081341
+        102081341,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,24 +47,30 @@
     "wof:geomhash":"3a5f69df7cd54cb3a8e7b0acbe39a69e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081341,
+            "localadmin_id":404483423,
             "locality_id":101719373,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420538697,
             "region_id":85688481,
             "venue_id":387904299
         }
     ],
     "wof:id":387904299,
-    "wof:lastmodified":1449060004,
+    "wof:lastmodified":1454361258,
     "wof:name":"Batdorf Restaurant & Lounge",
-    "wof:parent_id":-1,
+    "wof:parent_id":420538697,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.52029,40.328811,-76.52029,40.328811],
+  "bbox": [
+    -76.52029,
+    40.328811,
+    -76.52029,
+    40.328811
+],
   "geometry": {"coordinates":[-76.52029,40.328811],"type":"Point"}
 }

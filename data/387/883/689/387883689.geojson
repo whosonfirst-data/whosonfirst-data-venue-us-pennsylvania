@@ -2,13 +2,14 @@
   "id": 387883689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.6772,40.8335,-77.6772,40.8335",
     "geom:latitude":40.8335,
     "geom:longitude":-77.6772,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2825 Earlystown Rd",
     "sg:city":"Centre Hall",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85839333,
+        102191575,
+        404483083,
         85633793,
         101718143,
         102081369,
-        85839333
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"9681b8fb82be0043c3866e0d7dfd081d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081369,
+            "localadmin_id":404483083,
             "locality_id":101718143,
             "neighbourhood_id":85839333,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387883689,
-    "wof:lastmodified":1449059016,
+    "wof:lastmodified":1454360959,
     "wof:name":"Procare Rehabilitation",
     "wof:parent_id":85839333,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "physical"
     ]
 },
-  "bbox": [-77.6772,40.8335,-77.6772,40.8335],
+  "bbox": [
+    -77.6772,
+    40.8335,
+    -77.6772,
+    40.8335
+],
   "geometry": {"coordinates":[-77.6772,40.8335],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404084227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.197337,40.023375,-76.197337,40.023375",
     "geom:latitude":40.023375,
     "geom:longitude":-76.197337,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2460 Lincoln Hwy E",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85868585
+        85868585,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"fc7e67a36e36eebdae3831984ce9efac",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85868585,
             "region_id":85688481,
             "venue_id":404084227
         }
     ],
     "wof:id":404084227,
-    "wof:lastmodified":1449039144,
+    "wof:lastmodified":1454356473,
     "wof:name":"Lenox Shop",
     "wof:parent_id":85868585,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "outlet"
     ]
 },
-  "bbox": [-76.197337,40.023375,-76.197337,40.023375],
+  "bbox": [
+    -76.197337,
+    40.023375,
+    -76.197337,
+    40.023375
+],
   "geometry": {"coordinates":[-76.197337,40.023375],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387137375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.237282,40.65715,-80.237282,40.65715",
     "geom:latitude":40.65715,
     "geom:longitude":-80.237282,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"800 1st Ave",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -78,10 +79,13 @@
     "sg:website":"http://pittsburgh.citysearch.com/profile/external/8573023/conway_pa/sherwin_williams.html?publisher=yellowpages&reference_id=1&placement=ypwebsitemip",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85851083,
+        102191575,
+        404482587,
         85633793,
+        101718393,
         102081323,
-        85851083
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,17 +95,18 @@
     "wof:geomhash":"6fa36becbaaa6141b46d98e23af3fdf1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081323,
-            "locality_id":-1,
+            "localadmin_id":404482587,
+            "locality_id":101718393,
             "neighbourhood_id":85851083,
             "region_id":85688481,
             "venue_id":387137375
         }
     ],
     "wof:id":387137375,
-    "wof:lastmodified":1449059399,
+    "wof:lastmodified":1454361069,
     "wof:name":"Sherwin-Williams",
     "wof:parent_id":85851083,
     "wof:placetype":"venue",
@@ -126,6 +131,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-80.237282,40.65715,-80.237282,40.65715],
-  "geometry": {"coordinates":[-80.237282,40.65715],"type":"Point"}
+  "bbox": [
+    -80.237282,
+    40.65715,
+    -80.237282,
+    40.65715
+],
+  "geometry": {"coordinates":[-80.23728199999999,40.65715],"type":"Point"}
 }

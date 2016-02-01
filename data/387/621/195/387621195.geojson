@@ -2,13 +2,14 @@
   "id": 387621195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.484161,40.339169,-79.484161,40.339169",
     "geom:latitude":40.339169,
     "geom:longitude":-79.484161,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"201 Tipple Row Rd.",
     "sg:city":"Greensburg",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081383,
-        85850381
+        85850381,
+        102081383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"dcf97c1e86798474d2b25cb19e06d57d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":-1,
             "neighbourhood_id":85850381,
             "region_id":85688481,
             "venue_id":387621195
         }
     ],
     "wof:id":387621195,
-    "wof:lastmodified":1449059465,
+    "wof:lastmodified":1454361091,
     "wof:name":"Five Points Veterinary Services",
     "wof:parent_id":85850381,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "veterinarian"
     ]
 },
-  "bbox": [-79.484161,40.339169,-79.484161,40.339169],
+  "bbox": [
+    -79.484161,
+    40.339169,
+    -79.484161,
+    40.339169
+],
   "geometry": {"coordinates":[-79.484161,40.339169],"type":"Point"}
 }

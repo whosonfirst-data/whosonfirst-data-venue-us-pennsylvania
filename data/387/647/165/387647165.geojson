@@ -2,13 +2,14 @@
   "id": 387647165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.659292,40.340882,-79.659292,40.340882",
     "geom:latitude":40.340882,
     "geom:longitude":-79.659292,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"306 Mount Manor Rd",
     "sg:city":"Manor",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081383,
-        85833221
+        85833221,
+        102081383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"3f21ce428d8ac25c01c38a02f556d270",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":-1,
             "neighbourhood_id":85833221,
             "region_id":85688481,
             "venue_id":387647165
         }
     ],
     "wof:id":387647165,
-    "wof:lastmodified":1449057906,
+    "wof:lastmodified":1454360630,
     "wof:name":"Grapper Construction",
     "wof:parent_id":85833221,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.659292,40.340882,-79.659292,40.340882],
-  "geometry": {"coordinates":[-79.659292,40.340882],"type":"Point"}
+  "bbox": [
+    -79.659292,
+    40.340882,
+    -79.659292,
+    40.340882
+],
+  "geometry": {"coordinates":[-79.65929199999999,40.340882],"type":"Point"}
 }

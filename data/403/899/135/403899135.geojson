@@ -2,13 +2,14 @@
   "id": 403899135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.831225,40.254034,-76.831225,40.254034",
     "geom:latitude":40.254034,
     "geom:longitude":-76.831225,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"Harrisburg East Mall 3401 Paxton Street",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -27,8 +28,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85868485
+        85868485,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +39,15 @@
     "wof:geomhash":"3190a133e9c6a52e77ea0fa9226d620d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85868485,
             "region_id":85688481,
             "venue_id":403899135
         }
     ],
     "wof:id":403899135,
-    "wof:lastmodified":1449055880,
+    "wof:lastmodified":1454357926,
     "wof:name":"Macy's",
     "wof:parent_id":85868485,
     "wof:placetype":"venue",
@@ -56,6 +55,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.831225,40.254034,-76.831225,40.254034],
+  "bbox": [
+    -76.831225,
+    40.254034,
+    -76.831225,
+    40.254034
+],
   "geometry": {"coordinates":[-76.831225,40.254034],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387966057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.421596,40.453242,-76.421596,40.453242",
     "geom:latitude":40.453242,
     "geom:longitude":-76.421596,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"200 Snow Dr",
     "sg:city":"Fredericksburg",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081341,
-        85848469
+        85848469,
+        102081341
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"6d8d4515098c047bb5ee252f280371f5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081341,
-            "locality_id":-1,
             "neighbourhood_id":85848469,
             "region_id":85688481,
             "venue_id":387966057
         }
     ],
     "wof:id":387966057,
-    "wof:lastmodified":1449056139,
+    "wof:lastmodified":1454358114,
     "wof:name":"Homestead Excavating Co",
     "wof:parent_id":85848469,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-76.421596,40.453242,-76.421596,40.453242],
-  "geometry": {"coordinates":[-76.421596,40.453242],"type":"Point"}
+  "bbox": [
+    -76.421596,
+    40.453242,
+    -76.421596,
+    40.453242
+],
+  "geometry": {"coordinates":[-76.42159599999999,40.453242],"type":"Point"}
 }

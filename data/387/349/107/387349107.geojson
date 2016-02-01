@@ -2,13 +2,14 @@
   "id": 387349107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.997849,40.437494,-79.997849,40.437494",
     "geom:latitude":40.437494,
     "geom:longitude":-79.997849,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"310 Grant St Ste 2630",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     "sg:website":"www.moyleslaw.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85853291,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85853291
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"33ae9dc6631e17b672d79e0484fac052",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85853291,
             "region_id":85688481,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":387349107,
-    "wof:lastmodified":1449057540,
+    "wof:lastmodified":1454360329,
     "wof:name":"Moyles James R",
     "wof:parent_id":85853291,
     "wof:placetype":"venue",
@@ -76,6 +80,11 @@
         "law"
     ]
 },
-  "bbox": [-79.997849,40.437494,-79.997849,40.437494],
+  "bbox": [
+    -79.997849,
+    40.437494,
+    -79.997849,
+    40.437494
+],
   "geometry": {"coordinates":[-79.997849,40.437494],"type":"Point"}
 }

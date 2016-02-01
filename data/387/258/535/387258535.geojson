@@ -2,13 +2,14 @@
   "id": 387258535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.065301,40.469308,-80.065301,40.469308",
     "geom:latitude":40.469308,
     "geom:longitude":-80.065301,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"901 Gray St",
     "sg:city":"Mc Kees Rocks",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85810503,
+        102191575,
+        404482511,
         85633793,
-        101718805,
+        101718845,
         102080887,
-        85810503
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"ee6dba011b0b614f21db7b6d69bb0d39",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":101718805,
+            "localadmin_id":404482511,
+            "locality_id":101718845,
             "neighbourhood_id":85810503,
             "region_id":85688481,
             "venue_id":387258535
         }
     ],
     "wof:id":387258535,
-    "wof:lastmodified":1449059132,
+    "wof:lastmodified":1454360994,
     "wof:name":"Community Builders",
     "wof:parent_id":85810503,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.065301,40.469308,-80.065301,40.469308],
-  "geometry": {"coordinates":[-80.065301,40.469308],"type":"Point"}
+  "bbox": [
+    -80.065301,
+    40.469308,
+    -80.065301,
+    40.469308
+],
+  "geometry": {"coordinates":[-80.06530100000001,40.469308],"type":"Point"}
 }

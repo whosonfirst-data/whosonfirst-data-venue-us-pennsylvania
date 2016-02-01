@@ -2,13 +2,14 @@
   "id": 404132579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.049903,40.917839,-77.049903,40.917839",
     "geom:latitude":40.917839,
     "geom:longitude":-77.049903,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"151 N 5th St",
     "sg:city":"Mifflinburg",
     "sg:classifiers":[
@@ -43,7 +44,6 @@
     "wof:geomhash":"8fdd5e088f0864d9316e6ece0eb0f217",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081335,
             "locality_id":101717293,
@@ -53,7 +53,7 @@
         }
     ],
     "wof:id":404132579,
-    "wof:lastmodified":1449039596,
+    "wof:lastmodified":1454356735,
     "wof:name":"EntoGuard",
     "wof:parent_id":85827561,
     "wof:placetype":"venue",
@@ -64,6 +64,11 @@
         "services-commercial"
     ]
 },
-  "bbox": [-77.049903,40.917839,-77.049903,40.917839],
+  "bbox": [
+    -77.049903,
+    40.917839,
+    -77.049903,
+    40.917839
+],
   "geometry": {"coordinates":[-77.049903,40.917839],"type":"Point"}
 }

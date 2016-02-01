@@ -2,13 +2,14 @@
   "id": 403868609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.840797,40.279202,-76.840797,40.279202",
     "geom:latitude":40.279202,
     "geom:longitude":-76.840797,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"302 Stuart Pl",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85850427,
+        102191575,
+        404486197,
         85633793,
-        101719811,
+        101717715,
         102081347,
-        85850427
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +41,18 @@
     "wof:geomhash":"9bead3e1c28f947e79d046530857cfb6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":101719811,
+            "localadmin_id":404486197,
+            "locality_id":101717715,
             "neighbourhood_id":85850427,
             "region_id":85688481,
             "venue_id":403868609
         }
     ],
     "wof:id":403868609,
-    "wof:lastmodified":1449054676,
+    "wof:lastmodified":1454357210,
     "wof:name":"Signor Charles Gary Architect",
     "wof:parent_id":85850427,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.840797,40.279202,-76.840797,40.279202],
-  "geometry": {"coordinates":[-76.840797,40.279202],"type":"Point"}
+  "bbox": [
+    -76.840797,
+    40.279202,
+    -76.840797,
+    40.279202
+],
+  "geometry": {"coordinates":[-76.84079699999999,40.279202],"type":"Point"}
 }

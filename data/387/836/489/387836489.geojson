@@ -2,13 +2,14 @@
   "id": 387836489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.137769,42.088106,-80.137769,42.088106",
     "geom:latitude":42.088106,
     "geom:longitude":-80.137769,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2895 W 26th St",
     "sg:city":"Erie",
     "sg:classifiers":[
@@ -51,8 +52,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080955,
-        85810495
+        85810495,
+        102080955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,17 +63,15 @@
     "wof:geomhash":"e1766a0f9a5591e760853090eb0d0366",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080955,
-            "locality_id":-1,
             "neighbourhood_id":85810495,
             "region_id":85688481,
             "venue_id":387836489
         }
     ],
     "wof:id":387836489,
-    "wof:lastmodified":1449058625,
+    "wof:lastmodified":1454360832,
     "wof:name":"T-Mobile",
     "wof:parent_id":85810495,
     "wof:placetype":"venue",
@@ -88,6 +87,11 @@
         "cellular"
     ]
 },
-  "bbox": [-80.137769,42.088106,-80.137769,42.088106],
-  "geometry": {"coordinates":[-80.137769,42.088106],"type":"Point"}
+  "bbox": [
+    -80.137769,
+    42.088106,
+    -80.137769,
+    42.088106
+],
+  "geometry": {"coordinates":[-80.13776900000001,42.088106],"type":"Point"}
 }

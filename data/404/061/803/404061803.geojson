@@ -2,13 +2,14 @@
   "id": 404061803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.312504,40.150841,-76.312504,40.150841",
     "geom:latitude":40.150841,
     "geom:longitude":-76.312504,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"405 W Marion St",
     "sg:city":"Lititz",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85834405
+        85834405,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"0e3379daf968dc0acae9947b91df2482",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85834405,
             "region_id":85688481,
             "venue_id":404061803
         }
     ],
     "wof:id":404061803,
-    "wof:lastmodified":1449039993,
+    "wof:lastmodified":1454356939,
     "wof:name":"Stoltzfus Tree Care",
     "wof:parent_id":85834405,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "tree"
     ]
 },
-  "bbox": [-76.312504,40.150841,-76.312504,40.150841],
+  "bbox": [
+    -76.312504,
+    40.150841,
+    -76.312504,
+    40.150841
+],
   "geometry": {"coordinates":[-76.312504,40.150841],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387268005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.181919,40.540899,-80.181919,40.540899",
     "geom:latitude":40.540899,
     "geom:longitude":-80.181919,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"438 Walnut St",
     "sg:city":"Sewickley",
     "sg:classifiers":[
@@ -49,8 +50,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85835111
+        85835111,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,17 +61,15 @@
     "wof:geomhash":"0c2080f4aab7776ad992cf137696941c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85835111,
             "region_id":85688481,
             "venue_id":387268005
         }
     ],
     "wof:id":387268005,
-    "wof:lastmodified":1449058271,
+    "wof:lastmodified":1454360732,
     "wof:name":"Allstate Insurance Company - Daniel Helkowski",
     "wof:parent_id":85835111,
     "wof:placetype":"venue",
@@ -85,6 +84,11 @@
         "renter"
     ]
 },
-  "bbox": [-80.181919,40.540899,-80.181919,40.540899],
-  "geometry": {"coordinates":[-80.181919,40.540899],"type":"Point"}
+  "bbox": [
+    -80.181919,
+    40.540899,
+    -80.181919,
+    40.540899
+],
+  "geometry": {"coordinates":[-80.18191899999999,40.540899],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387506085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.057353,40.553611,-80.057353,40.553611",
     "geom:latitude":40.553611,
     "geom:longitude":-80.057353,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1105 Rochester Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -33,8 +34,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85825003
+        85825003,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +45,15 @@
     "wof:geomhash":"fee35e6ee8338552a7cabbf2a24537b0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85825003,
             "region_id":85688481,
             "venue_id":387506085
         }
     ],
     "wof:id":387506085,
-    "wof:lastmodified":1449056204,
+    "wof:lastmodified":1454358158,
     "wof:name":"Fischer Landscaping",
     "wof:parent_id":85825003,
     "wof:placetype":"venue",
@@ -68,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.057353,40.553611,-80.057353,40.553611],
-  "geometry": {"coordinates":[-80.057353,40.553611],"type":"Point"}
+  "bbox": [
+    -80.057353,
+    40.553611,
+    -80.057353,
+    40.553611
+],
+  "geometry": {"coordinates":[-80.05735300000001,40.553611],"type":"Point"}
 }

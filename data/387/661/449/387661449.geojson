@@ -2,13 +2,14 @@
   "id": 387661449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.840463,40.985094,-78.840463,40.985094",
     "geom:latitude":40.985094,
     "geom:longitude":-78.840463,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"8 Maple Dr",
     "sg:city":"Punxsutawney",
     "sg:classifiers":[
@@ -34,7 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420538381,
+        102191575,
+        404486499,
         85633793,
+        101717849,
+        102083883,
         85688481
     ],
     "wof:breaches":[],
@@ -45,18 +51,20 @@
     "wof:geomhash":"75d4e12e8e1d69a4f854af07fb4a057c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102083883,
+            "localadmin_id":404486499,
+            "locality_id":101717849,
+            "neighbourhood_id":420538381,
             "region_id":85688481,
             "venue_id":387661449
         }
     ],
     "wof:id":387661449,
-    "wof:lastmodified":1449059504,
+    "wof:lastmodified":1454361102,
     "wof:name":"H Frank Host Association",
-    "wof:parent_id":-1,
+    "wof:parent_id":420538381,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -66,6 +74,11 @@
         "volunteer"
     ]
 },
-  "bbox": [-78.840463,40.985094,-78.840463,40.985094],
+  "bbox": [
+    -78.840463,
+    40.985094,
+    -78.840463,
+    40.985094
+],
   "geometry": {"coordinates":[-78.840463,40.985094],"type":"Point"}
 }

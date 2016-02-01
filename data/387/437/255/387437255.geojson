@@ -2,13 +2,14 @@
   "id": 387437255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.016151,40.409744,-80.016151,40.409744",
     "geom:latitude":40.409744,
     "geom:longitude":-80.016151,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1561 W Liberty Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"www.econocarrental-repair.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85805277,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85805277
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"b3f1fff82be2b38f431a010e20f5a5de",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85805277,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387437255,
-    "wof:lastmodified":1449058861,
+    "wof:lastmodified":1454360906,
     "wof:name":"Econo Car & Van Rental Systems",
     "wof:parent_id":85805277,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "car"
     ]
 },
-  "bbox": [-80.016151,40.409744,-80.016151,40.409744],
-  "geometry": {"coordinates":[-80.016151,40.409744],"type":"Point"}
+  "bbox": [
+    -80.016151,
+    40.409744,
+    -80.016151,
+    40.409744
+],
+  "geometry": {"coordinates":[-80.01615099999999,40.409744],"type":"Point"}
 }

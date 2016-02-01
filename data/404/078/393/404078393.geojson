@@ -2,13 +2,14 @@
   "id": 404078393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.305117,40.097483,-76.305117,40.097483",
     "geom:latitude":40.097483,
     "geom:longitude":-76.305117,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2600 Lititz Pike",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85806481
+        85806481,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"1fc589048cf710fb0c35c384fb0f2be5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85806481,
             "region_id":85688481,
             "venue_id":404078393
         }
     ],
     "wof:id":404078393,
-    "wof:lastmodified":1449040130,
+    "wof:lastmodified":1454357025,
     "wof:name":"Nightline Carpet Care",
     "wof:parent_id":85806481,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "carpet"
     ]
 },
-  "bbox": [-76.305117,40.097483,-76.305117,40.097483],
+  "bbox": [
+    -76.305117,
+    40.097483,
+    -76.305117,
+    40.097483
+],
   "geometry": {"coordinates":[-76.305117,40.097483],"type":"Point"}
 }

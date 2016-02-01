@@ -2,13 +2,14 @@
   "id": 404166809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.37715,40.573478,-75.37715,40.573478",
     "geom:latitude":40.573478,
     "geom:longitude":-75.37715,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2540 Black River Rd",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081395,
-        85859207
+        85859207,
+        102081395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"c0575668d19cc7c024ff2d11ca148687",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081395,
-            "locality_id":-1,
             "neighbourhood_id":85859207,
             "region_id":85688481,
             "venue_id":404166809
         }
     ],
     "wof:id":404166809,
-    "wof:lastmodified":1449039812,
+    "wof:lastmodified":1454356817,
     "wof:name":"Donald C Hagey Rev",
     "wof:parent_id":85859207,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "clergy"
     ]
 },
-  "bbox": [-75.37715,40.573478,-75.37715,40.573478],
+  "bbox": [
+    -75.37715,
+    40.573478,
+    -75.37715,
+    40.573478
+],
   "geometry": {"coordinates":[-75.37715,40.573478],"type":"Point"}
 }

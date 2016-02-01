@@ -2,13 +2,14 @@
   "id": 404139227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.577106,40.751888,-76.577106,40.751888",
     "geom:latitude":40.751888,
     "geom:longitude":-76.577106,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3575 Upper Rd",
     "sg:city":"Shamokin",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85817501,
+        102191575,
+        404486113,
         85633793,
-        101719367,
+        101719303,
         102081349,
-        85817501
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +41,18 @@
     "wof:geomhash":"3488a1ab2521c0b61ec1e8ed166f9df5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081349,
-            "locality_id":101719367,
+            "localadmin_id":404486113,
+            "locality_id":101719303,
             "neighbourhood_id":85817501,
             "region_id":85688481,
             "venue_id":404139227
         }
     ],
     "wof:id":404139227,
-    "wof:lastmodified":1449039132,
+    "wof:lastmodified":1454356461,
     "wof:name":"Libby' S Garage",
     "wof:parent_id":85817501,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.577106,40.751888,-76.577106,40.751888],
+  "bbox": [
+    -76.577106,
+    40.751888,
+    -76.577106,
+    40.751888
+],
   "geometry": {"coordinates":[-76.577106,40.751888],"type":"Point"}
 }

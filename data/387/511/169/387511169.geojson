@@ -2,13 +2,14 @@
   "id": 387511169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.761458,40.478327,-79.761458,40.478327",
     "geom:latitude":40.478327,
     "geom:longitude":-79.761458,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1049 Unity Center Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -37,11 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85810135,
+        102191575,
+        404484167,
         85633793,
         101718791,
         102080887,
-        85810135
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,9 +54,10 @@
     "wof:geomhash":"dfef3cc2e9d8136d093a255aa78555c6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484167,
             "locality_id":101718791,
             "neighbourhood_id":85810135,
             "region_id":85688481,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":387511169,
-    "wof:lastmodified":1449057856,
+    "wof:lastmodified":1454360616,
     "wof:name":"Prime Care Internal Medicine Associates, P.C.",
     "wof:parent_id":85810135,
     "wof:placetype":"venue",
@@ -76,6 +80,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-79.761458,40.478327,-79.761458,40.478327],
+  "bbox": [
+    -79.761458,
+    40.478327,
+    -79.761458,
+    40.478327
+],
   "geometry": {"coordinates":[-79.761458,40.478327],"type":"Point"}
 }

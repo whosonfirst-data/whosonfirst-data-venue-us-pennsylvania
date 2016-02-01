@@ -2,13 +2,14 @@
   "id": 387763637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.396587,41.22021,-80.396587,41.22021",
     "geom:latitude":41.22021,
     "geom:longitude":-80.396587,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"892 S Neshannock Rd",
     "sg:city":"Hermitage",
     "sg:classifiers":[
@@ -36,11 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85824773,
+        102191575,
+        404487983,
         85633793,
         101718107,
         102080965,
-        85824773
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,9 +53,10 @@
     "wof:geomhash":"81d285b1504533b6c8a56cb7886bf2d6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080965,
+            "localadmin_id":404487983,
             "locality_id":101718107,
             "neighbourhood_id":85824773,
             "region_id":85688481,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":387763637,
-    "wof:lastmodified":1449059905,
+    "wof:lastmodified":1454361228,
     "wof:name":"Rollinson Brothers",
     "wof:parent_id":85824773,
     "wof:placetype":"venue",
@@ -74,6 +78,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.396587,41.22021,-80.396587,41.22021],
+  "bbox": [
+    -80.396587,
+    41.22021,
+    -80.396587,
+    41.22021
+],
   "geometry": {"coordinates":[-80.396587,41.22021],"type":"Point"}
 }

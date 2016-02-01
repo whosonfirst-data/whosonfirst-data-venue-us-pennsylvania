@@ -2,13 +2,14 @@
   "id": 387277867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.811476,40.519596,-79.811476,40.519596",
     "geom:latitude":40.519596,
     "geom:longitude":-79.811476,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1967 Eastern Ave Ste 1",
     "sg:city":"Verona",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"http://www.affivalinc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85816637,
+        102191575,
+        404484167,
         85633793,
         101718791,
         102080887,
-        85816637
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"eb337195d13de5a4faae6c52858bc054",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484167,
             "locality_id":101718791,
             "neighbourhood_id":85816637,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387277867,
-    "wof:lastmodified":1449056542,
+    "wof:lastmodified":1454358425,
     "wof:name":"Affival Inc.",
     "wof:parent_id":85816637,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "wire"
     ]
 },
-  "bbox": [-79.811476,40.519596,-79.811476,40.519596],
+  "bbox": [
+    -79.811476,
+    40.519596,
+    -79.811476,
+    40.519596
+],
   "geometry": {"coordinates":[-79.811476,40.519596],"type":"Point"}
 }

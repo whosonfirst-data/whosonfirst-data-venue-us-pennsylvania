@@ -2,13 +2,14 @@
   "id": 404127197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.616347,40.964525,-76.616347,40.964525",
     "geom:latitude":40.964525,
     "geom:longitude":-76.616347,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"432 Mill St Ste 1",
     "sg:city":"Danville",
     "sg:classifiers":[
@@ -43,8 +44,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080931,
-        85833629
+        85833629,
+        102080931
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,17 +55,15 @@
     "wof:geomhash":"c81511263a9a83c9d9d706cdd92c63b6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080931,
-            "locality_id":-1,
             "neighbourhood_id":85833629,
             "region_id":85688481,
             "venue_id":404127197
         }
     ],
     "wof:id":404127197,
-    "wof:lastmodified":1449040233,
+    "wof:lastmodified":1454357080,
     "wof:name":"Wetzel Notary Service",
     "wof:parent_id":85833629,
     "wof:placetype":"venue",
@@ -78,6 +77,11 @@
         "courier"
     ]
 },
-  "bbox": [-76.616347,40.964525,-76.616347,40.964525],
+  "bbox": [
+    -76.616347,
+    40.964525,
+    -76.616347,
+    40.964525
+],
   "geometry": {"coordinates":[-76.616347,40.964525],"type":"Point"}
 }

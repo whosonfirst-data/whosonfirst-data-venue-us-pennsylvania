@@ -2,13 +2,14 @@
   "id": 403789669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.110293,40.478915,-77.110293,40.478915",
     "geom:latitude":40.478915,
     "geom:longitude":-77.110293,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"80 Juniata Pkwy E",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080963,
-        85827701
+        85827701,
+        102080963
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"673d7dc6659c4e88fa385d468137af5b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080963,
-            "locality_id":-1,
             "neighbourhood_id":85827701,
             "region_id":85688481,
             "venue_id":403789669
         }
     ],
     "wof:id":403789669,
-    "wof:lastmodified":1449055232,
+    "wof:lastmodified":1454357550,
     "wof:name":"Wrights Riverview Crafts",
     "wof:parent_id":85827701,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "supply"
     ]
 },
-  "bbox": [-77.110293,40.478915,-77.110293,40.478915],
+  "bbox": [
+    -77.110293,
+    40.478915,
+    -77.110293,
+    40.478915
+],
   "geometry": {"coordinates":[-77.110293,40.478915],"type":"Point"}
 }

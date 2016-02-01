@@ -2,13 +2,14 @@
   "id": 387491165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.986132,40.325697,-79.986132,40.325697",
     "geom:latitude":40.325697,
     "geom:longitude":-79.986132,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"909 Cochrans Mill Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85808185,
+        102191575,
+        404484315,
         85633793,
-        101718663,
+        101720491,
         102080887,
-        85808185
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +41,18 @@
     "wof:geomhash":"f4ee2e083fc3dca44703a2bd7a484975",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":101718663,
+            "localadmin_id":404484315,
+            "locality_id":101720491,
             "neighbourhood_id":85808185,
             "region_id":85688481,
             "venue_id":387491165
         }
     ],
     "wof:id":387491165,
-    "wof:lastmodified":1449056054,
+    "wof:lastmodified":1454358046,
     "wof:name":"Blue Moon Salon & Day Spa",
     "wof:parent_id":85808185,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.986132,40.325697,-79.986132,40.325697],
+  "bbox": [
+    -79.986132,
+    40.325697,
+    -79.986132,
+    40.325697
+],
   "geometry": {"coordinates":[-79.986132,40.325697],"type":"Point"}
 }

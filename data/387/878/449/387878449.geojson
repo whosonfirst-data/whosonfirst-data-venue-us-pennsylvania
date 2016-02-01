@@ -2,13 +2,14 @@
   "id": 387878449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.748459,40.914541,-77.748459,40.914541",
     "geom:latitude":40.914541,
     "geom:longitude":-77.748459,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1255 Zion Rd",
     "sg:city":"Bellefonte",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"www.imrtires.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85840619,
+        102191575,
+        404485871,
         85633793,
         101718145,
         102081369,
-        85840619
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"c9f190a1f00d42aaecca02b449439cde",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081369,
+            "localadmin_id":404485871,
             "locality_id":101718145,
             "neighbourhood_id":85840619,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387878449,
-    "wof:lastmodified":1449058099,
+    "wof:lastmodified":1454360680,
     "wof:name":"Lmr Tires",
     "wof:parent_id":85840619,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "tire"
     ]
 },
-  "bbox": [-77.748459,40.914541,-77.748459,40.914541],
+  "bbox": [
+    -77.748459,
+    40.914541,
+    -77.748459,
+    40.914541
+],
   "geometry": {"coordinates":[-77.748459,40.914541],"type":"Point"}
 }

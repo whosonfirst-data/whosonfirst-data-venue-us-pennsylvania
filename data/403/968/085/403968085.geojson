@@ -2,13 +2,14 @@
   "id": 403968085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.632175,39.751264,-77.632175,39.751264",
     "geom:latitude":39.751264,
     "geom:longitude":-77.632175,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4663 Salem Church Rd",
     "sg:city":"Waynesboro",
     "sg:classifiers":[
@@ -37,8 +38,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081365,
-        85858277
+        85858277,
+        102081365
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +49,15 @@
     "wof:geomhash":"2306c7d5b6c10e7862b9315fc0fa4a61",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081365,
-            "locality_id":-1,
             "neighbourhood_id":85858277,
             "region_id":85688481,
             "venue_id":403968085
         }
     ],
     "wof:id":403968085,
-    "wof:lastmodified":1449054715,
+    "wof:lastmodified":1454357236,
     "wof:name":"Nature S Barnyard Arts Crafts",
     "wof:parent_id":85858277,
     "wof:placetype":"venue",
@@ -71,6 +70,11 @@
         "supply"
     ]
 },
-  "bbox": [-77.632175,39.751264,-77.632175,39.751264],
+  "bbox": [
+    -77.632175,
+    39.751264,
+    -77.632175,
+    39.751264
+],
   "geometry": {"coordinates":[-77.632175,39.751264],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387818949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.499096,41.606549,-80.499096,41.606549",
     "geom:latitude":41.606549,
     "geom:longitude":-80.499096,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1255 Highway 285",
     "sg:city":"Linesville",
     "sg:classifiers":[],
@@ -18,10 +19,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420537603,
+        102191575,
+        404486159,
         85633793,
         101718903,
-        102080911
+        102080911,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -31,24 +35,30 @@
     "wof:geomhash":"aac18f0277b24edfbec982d65cca5ca7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080911,
+            "localadmin_id":404486159,
             "locality_id":101718903,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420537603,
             "region_id":85688481,
             "venue_id":387818949
         }
     ],
     "wof:id":387818949,
-    "wof:lastmodified":1449057949,
+    "wof:lastmodified":1454360640,
     "wof:name":"Lil-Bit, The",
-    "wof:parent_id":-1,
+    "wof:parent_id":420537603,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.499096,41.606549,-80.499096,41.606549],
-  "geometry": {"coordinates":[-80.499096,41.606549],"type":"Point"}
+  "bbox": [
+    -80.499096,
+    41.606549,
+    -80.499096,
+    41.606549
+],
+  "geometry": {"coordinates":[-80.49909599999999,41.606549],"type":"Point"}
 }

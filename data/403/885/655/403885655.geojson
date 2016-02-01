@@ -2,13 +2,14 @@
   "id": 403885655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.868896,40.306999,-76.868896,40.306999",
     "geom:latitude":40.306999,
     "geom:longitude":-76.868896,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"Beaufort Plz",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85858225
+        85858225,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"5a727fdca09de2494d8b7196c85c25a2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85858225,
             "region_id":85688481,
             "venue_id":403885655
         }
     ],
     "wof:id":403885655,
-    "wof:lastmodified":1449055348,
+    "wof:lastmodified":1454357618,
     "wof:name":"Rite Aid",
     "wof:parent_id":85858225,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "store"
     ]
 },
-  "bbox": [-76.868896,40.306999,-76.868896,40.306999],
-  "geometry": {"coordinates":[-76.868896,40.306999],"type":"Point"}
+  "bbox": [
+    -76.868896,
+    40.306999,
+    -76.868896,
+    40.306999
+],
+  "geometry": {"coordinates":[-76.86889600000001,40.306999],"type":"Point"}
 }

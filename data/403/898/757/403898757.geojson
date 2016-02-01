@@ -2,13 +2,14 @@
   "id": 403898757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.809957,40.251082,-76.809957,40.251082",
     "geom:latitude":40.251082,
     "geom:longitude":-76.809957,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4335 Lewis Rd",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85829991,
+        102191575,
+        404486309,
         85633793,
         101719815,
         102081347,
-        85829991
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"3501fca57d38801ec6ac128a025d643a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
+            "localadmin_id":404486309,
             "locality_id":101719815,
             "neighbourhood_id":85829991,
             "region_id":85688481,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":403898757,
-    "wof:lastmodified":1449054602,
+    "wof:lastmodified":1454357164,
     "wof:name":"Nolts Auto Parts",
     "wof:parent_id":85829991,
     "wof:placetype":"venue",
@@ -71,6 +75,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-76.809957,40.251082,-76.809957,40.251082],
+  "bbox": [
+    -76.809957,
+    40.251082,
+    -76.809957,
+    40.251082
+],
   "geometry": {"coordinates":[-76.809957,40.251082],"type":"Point"}
 }

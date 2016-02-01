@@ -2,13 +2,14 @@
   "id": 404179199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.428703,40.6497,-75.428703,40.6497",
     "geom:latitude":40.6497,
     "geom:longitude":-75.428703,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2360 Avenue A",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -25,10 +26,11 @@
     "sg:website":"www.et-t.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        102529131,
         85688481,
         85633793,
         102081327,
-        85838547
+        85824299
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,24 +40,28 @@
     "wof:geomhash":"98606c0cbd418b025ddadceb2e50f314",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102529131,
             "country_id":85633793,
             "county_id":102081327,
-            "locality_id":-1,
-            "neighbourhood_id":85838547,
+            "neighbourhood_id":85824299,
             "region_id":85688481,
             "venue_id":404179199
         }
     ],
     "wof:id":404179199,
-    "wof:lastmodified":1449040206,
+    "wof:lastmodified":1454357062,
     "wof:name":"E T & T Corp",
-    "wof:parent_id":85838547,
+    "wof:parent_id":102529131,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.428703,40.6497,-75.428703,40.6497],
+  "bbox": [
+    -75.428703,
+    40.6497,
+    -75.428703,
+    40.6497
+],
   "geometry": {"coordinates":[-75.428703,40.6497],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387241865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.222628,40.518325,-80.222628,40.518325",
     "geom:latitude":40.518325,
     "geom:longitude":-80.222628,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"925 Brodhead Rd",
     "sg:city":"Coraopolis",
     "sg:classifiers":[
@@ -78,11 +79,13 @@
     "sg:website":"http://national.citysearch.com/profile/external/8590840/coraopolis_pa/sherwin_williams.html?publisher=yellowpages&reference_id=1&placement=ypwebsitemip",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85809567,
+        102191575,
+        404484137,
         85633793,
         101720527,
         102080887,
-        85809567
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,9 +95,10 @@
     "wof:geomhash":"264a84c8efb1b2860d149e7a5de80013",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484137,
             "locality_id":101720527,
             "neighbourhood_id":85809567,
             "region_id":85688481,
@@ -102,7 +106,7 @@
         }
     ],
     "wof:id":387241865,
-    "wof:lastmodified":1449059821,
+    "wof:lastmodified":1454361201,
     "wof:name":"Sherwin-Williams",
     "wof:parent_id":85809567,
     "wof:placetype":"venue",
@@ -127,6 +131,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-80.222628,40.518325,-80.222628,40.518325],
+  "bbox": [
+    -80.222628,
+    40.518325,
+    -80.222628,
+    40.518325
+],
   "geometry": {"coordinates":[-80.222628,40.518325],"type":"Point"}
 }

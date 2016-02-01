@@ -2,13 +2,14 @@
   "id": 404061023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.304008,40.171371,-76.304008,40.171371",
     "geom:latitude":40.171371,
     "geom:longitude":-76.304008,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"43 Duffield Dr",
     "sg:city":"Lititz",
     "sg:classifiers":[
@@ -56,8 +57,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85834405
+        85834405,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,17 +68,15 @@
     "wof:geomhash":"d4fa80931ebfb7b3b22d640fff143172",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85834405,
             "region_id":85688481,
             "venue_id":404061023
         }
     ],
     "wof:id":404061023,
-    "wof:lastmodified":1449039992,
+    "wof:lastmodified":1454356939,
     "wof:name":"Bear Building & Remodeling Inc",
     "wof:parent_id":85834405,
     "wof:placetype":"venue",
@@ -98,6 +97,11 @@
         "kitchen"
     ]
 },
-  "bbox": [-76.304008,40.171371,-76.304008,40.171371],
+  "bbox": [
+    -76.304008,
+    40.171371,
+    -76.304008,
+    40.171371
+],
   "geometry": {"coordinates":[-76.304008,40.171371],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404179153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.412609,40.653557,-75.412609,40.653557",
     "geom:latitude":40.653557,
     "geom:longitude":-75.412609,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1655 Valley Center Pkwy Ste 100",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081395,
-        85814279
+        85814279,
+        102081395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"7722065533030416356af0fe19a928cb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081395,
-            "locality_id":-1,
             "neighbourhood_id":85814279,
             "region_id":85688481,
             "venue_id":404179153
         }
     ],
     "wof:id":404179153,
-    "wof:lastmodified":1449040207,
+    "wof:lastmodified":1454357064,
     "wof:name":"Debias Glenn A Dr",
     "wof:parent_id":85814279,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "laser"
     ]
 },
-  "bbox": [-75.412609,40.653557,-75.412609,40.653557],
+  "bbox": [
+    -75.412609,
+    40.653557,
+    -75.412609,
+    40.653557
+],
   "geometry": {"coordinates":[-75.412609,40.653557],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403774813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.794206,40.225622,-76.794206,40.225622",
     "geom:latitude":40.225622,
     "geom:longitude":-76.794206,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3146 Fulling Mill Rd",
     "sg:city":"Middletown",
     "sg:classifiers":[
@@ -43,8 +44,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85851671
+        85851671,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,17 +55,15 @@
     "wof:geomhash":"9cce10060ab31a46dfcd8ca6f930ad12",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85851671,
             "region_id":85688481,
             "venue_id":403774813
         }
     ],
     "wof:id":403774813,
-    "wof:lastmodified":1449055152,
+    "wof:lastmodified":1454357500,
     "wof:name":"Harrisburg Kitchen & Bath",
     "wof:parent_id":85851671,
     "wof:placetype":"venue",
@@ -82,6 +81,11 @@
         "kitchen"
     ]
 },
-  "bbox": [-76.794206,40.225622,-76.794206,40.225622],
+  "bbox": [
+    -76.794206,
+    40.225622,
+    -76.794206,
+    40.225622
+],
   "geometry": {"coordinates":[-76.794206,40.225622],"type":"Point"}
 }

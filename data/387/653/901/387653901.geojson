@@ -2,13 +2,14 @@
   "id": 387653901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.20125,40.636917,-79.20125,40.636917",
     "geom:latitude":40.636917,
     "geom:longitude":-79.20125,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"568 Ben Franklin Rd N",
     "sg:city":"Indiana",
     "sg:classifiers":[
@@ -48,8 +49,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081387,
-        85821437
+        85821437,
+        102081387
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,17 +60,15 @@
     "wof:geomhash":"a9cbe8af08f038c8b36c1ffc209b07bf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081387,
-            "locality_id":-1,
             "neighbourhood_id":85821437,
             "region_id":85688481,
             "venue_id":387653901
         }
     ],
     "wof:id":387653901,
-    "wof:lastmodified":1449056386,
+    "wof:lastmodified":1454358301,
     "wof:name":"Taylor Trucking And Rental, Inc",
     "wof:parent_id":85821437,
     "wof:placetype":"venue",
@@ -83,6 +82,11 @@
         "trucking"
     ]
 },
-  "bbox": [-79.20125,40.636917,-79.20125,40.636917],
+  "bbox": [
+    -79.20125,
+    40.636917,
+    -79.20125,
+    40.636917
+],
   "geometry": {"coordinates":[-79.20125,40.636917],"type":"Point"}
 }

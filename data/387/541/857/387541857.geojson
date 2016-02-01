@@ -2,13 +2,14 @@
   "id": 387541857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.202202,40.204201,-80.202202,40.204201",
     "geom:latitude":40.204201,
     "geom:longitude":-80.202202,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1050 Washington Rd",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -34,8 +35,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081343,
-        85832105
+        85832105,
+        102081343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +46,15 @@
     "wof:geomhash":"5907bda6a9dbf82e3a1acc4c65b43262",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081343,
-            "locality_id":-1,
             "neighbourhood_id":85832105,
             "region_id":85688481,
             "venue_id":387541857
         }
     ],
     "wof:id":387541857,
-    "wof:lastmodified":1449056532,
+    "wof:lastmodified":1454358421,
     "wof:name":"Curinga's Inn",
     "wof:parent_id":85832105,
     "wof:placetype":"venue",
@@ -65,6 +64,11 @@
         "nightlife"
     ]
 },
-  "bbox": [-80.202202,40.204201,-80.202202,40.204201],
+  "bbox": [
+    -80.202202,
+    40.204201,
+    -80.202202,
+    40.204201
+],
   "geometry": {"coordinates":[-80.202202,40.204201],"type":"Point"}
 }

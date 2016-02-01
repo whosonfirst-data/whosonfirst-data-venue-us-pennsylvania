@@ -2,13 +2,14 @@
   "id": 404195941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.343086,40.64642,-75.343086,40.64642",
     "geom:latitude":40.64642,
     "geom:longitude":-75.343086,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2800 Easton Ave",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -51,11 +52,13 @@
     "sg:website":"http://www.pavlishbev.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85834019,
+        102191575,
+        404485987,
         85633793,
-        101719937,
+        101717907,
         102081395,
-        85834019
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,17 +68,18 @@
     "wof:geomhash":"689b60a3db788262e2c83e42dee16f08",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081395,
-            "locality_id":101719937,
+            "localadmin_id":404485987,
+            "locality_id":101717907,
             "neighbourhood_id":85834019,
             "region_id":85688481,
             "venue_id":404195941
         }
     ],
     "wof:id":404195941,
-    "wof:lastmodified":1449039924,
+    "wof:lastmodified":1454356895,
     "wof:name":"Pavlish Ice Co",
     "wof:parent_id":85834019,
     "wof:placetype":"venue",
@@ -88,6 +92,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-75.343086,40.64642,-75.343086,40.64642],
+  "bbox": [
+    -75.343086,
+    40.64642,
+    -75.343086,
+    40.64642
+],
   "geometry": {"coordinates":[-75.343086,40.64642],"type":"Point"}
 }

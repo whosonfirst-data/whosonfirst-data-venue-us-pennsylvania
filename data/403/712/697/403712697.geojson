@@ -2,13 +2,14 @@
   "id": 403712697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.497565,40.414162,-76.497565,40.414162",
     "geom:latitude":40.414162,
     "geom:longitude":-76.497565,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3 Cloverleaf Dr",
     "sg:city":"Jonestown",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081341,
-        85830459
+        85830459,
+        102081341
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"eb134e5a6a03b1a4940ff8fbe15ca665",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081341,
-            "locality_id":-1,
             "neighbourhood_id":85830459,
             "region_id":85688481,
             "venue_id":403712697
         }
     ],
     "wof:id":403712697,
-    "wof:lastmodified":1449055206,
+    "wof:lastmodified":1454357535,
     "wof:name":"Quality Drive Away Inc",
     "wof:parent_id":85830459,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-76.497565,40.414162,-76.497565,40.414162],
-  "geometry": {"coordinates":[-76.497565,40.414162],"type":"Point"}
+  "bbox": [
+    -76.497565,
+    40.414162,
+    -76.497565,
+    40.414162
+],
+  "geometry": {"coordinates":[-76.49756499999999,40.414162],"type":"Point"}
 }

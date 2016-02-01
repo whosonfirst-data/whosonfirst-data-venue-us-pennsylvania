@@ -2,13 +2,14 @@
   "id": 387533741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.184173,40.44927,-80.184173,40.44927",
     "geom:latitude":40.44927,
     "geom:longitude":-80.184173,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"200 Chauvet Dr",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85805237
+        85805237,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"e7797e1f50c1aecc05539e20a9916e74",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85805237,
             "region_id":85688481,
             "venue_id":387533741
         }
     ],
     "wof:id":387533741,
-    "wof:lastmodified":1449056067,
+    "wof:lastmodified":1454358057,
     "wof:name":"Extended Stay Deluxe Pittsburgh - Airport",
     "wof:parent_id":85805237,
     "wof:placetype":"venue",
@@ -63,6 +62,11 @@
         "lodging"
     ]
 },
-  "bbox": [-80.184173,40.44927,-80.184173,40.44927],
+  "bbox": [
+    -80.184173,
+    40.44927,
+    -80.184173,
+    40.44927
+],
   "geometry": {"coordinates":[-80.184173,40.44927],"type":"Point"}
 }

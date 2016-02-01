@@ -2,13 +2,14 @@
   "id": 387844219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.957577,42.116472,-79.957577,42.116472",
     "geom:latitude":42.116472,
     "geom:longitude":-79.957577,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6310 Station Rd",
     "sg:city":"Erie",
     "sg:classifiers":[
@@ -46,8 +47,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080955,
-        85827775
+        85827775,
+        102080955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,17 +58,15 @@
     "wof:geomhash":"f66422d7d3a0542791f1b00b7c80d674",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080955,
-            "locality_id":-1,
             "neighbourhood_id":85827775,
             "region_id":85688481,
             "venue_id":387844219
         }
     ],
     "wof:id":387844219,
-    "wof:lastmodified":1449057730,
+    "wof:lastmodified":1454360576,
     "wof:name":"Holiday Express Inc",
     "wof:parent_id":85827775,
     "wof:placetype":"venue",
@@ -84,6 +83,11 @@
         "banquet"
     ]
 },
-  "bbox": [-79.957577,42.116472,-79.957577,42.116472],
+  "bbox": [
+    -79.957577,
+    42.116472,
+    -79.957577,
+    42.116472
+],
   "geometry": {"coordinates":[-79.957577,42.116472],"type":"Point"}
 }

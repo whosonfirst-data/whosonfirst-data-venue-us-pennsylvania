@@ -2,13 +2,14 @@
   "id": 387485821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.825417,40.462586,-79.825417,40.462586",
     "geom:latitude":40.462586,
     "geom:longitude":-79.825417,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"11630 Keleket Dr",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -51,8 +52,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85845623
+        85845623,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,17 +63,15 @@
     "wof:geomhash":"d0183e6837d8dc3a4d6ff72549f0f29e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85845623,
             "region_id":85688481,
             "venue_id":387485821
         }
     ],
     "wof:id":387485821,
-    "wof:lastmodified":1449058422,
+    "wof:lastmodified":1454360777,
     "wof:name":"T-Mobile",
     "wof:parent_id":85845623,
     "wof:placetype":"venue",
@@ -88,6 +87,11 @@
         "cellular"
     ]
 },
-  "bbox": [-79.825417,40.462586,-79.825417,40.462586],
+  "bbox": [
+    -79.825417,
+    40.462586,
+    -79.825417,
+    40.462586
+],
   "geometry": {"coordinates":[-79.825417,40.462586],"type":"Point"}
 }

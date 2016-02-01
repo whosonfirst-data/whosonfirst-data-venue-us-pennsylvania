@@ -2,13 +2,14 @@
   "id": 387523559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.070396,40.34,-80.070396,40.34",
     "geom:latitude":40.34,
     "geom:longitude":-80.070396,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2155 Hycroft Dr",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85811383,
+        102191575,
+        404484331,
         85633793,
         101720495,
         102080887,
-        85811383
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"a5cda38d736bc2d3ff9d8f2863403ab6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484331,
             "locality_id":101720495,
             "neighbourhood_id":85811383,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387523559,
-    "wof:lastmodified":1449058300,
+    "wof:lastmodified":1454360738,
     "wof:name":"Pine Creek Developement",
     "wof:parent_id":85811383,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.070396,40.34,-80.070396,40.34],
+  "bbox": [
+    -80.070396,
+    40.34,
+    -80.070396,
+    40.34
+],
   "geometry": {"coordinates":[-80.070396,40.34],"type":"Point"}
 }

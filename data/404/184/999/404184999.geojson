@@ -2,13 +2,14 @@
   "id": 404184999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.4089,40.6544,-75.4089,40.6544",
     "geom:latitude":40.6544,
     "geom:longitude":-75.4089,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1550 Valley Center Pkwy Ste 200",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -41,8 +42,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081395,
-        85814279
+        85814279,
+        102081395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,17 +53,15 @@
     "wof:geomhash":"4b200087e8fbb28f8fa8b42c931357dd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081395,
-            "locality_id":-1,
             "neighbourhood_id":85814279,
             "region_id":85688481,
             "venue_id":404184999
         }
     ],
     "wof:id":404184999,
-    "wof:lastmodified":1449039238,
+    "wof:lastmodified":1454356534,
     "wof:name":"Chesterbrook Academy",
     "wof:parent_id":85814279,
     "wof:placetype":"venue",
@@ -73,6 +72,11 @@
         "day"
     ]
 },
-  "bbox": [-75.4089,40.6544,-75.4089,40.6544],
+  "bbox": [
+    -75.4089,
+    40.6544,
+    -75.4089,
+    40.6544
+],
   "geometry": {"coordinates":[-75.4089,40.6544],"type":"Point"}
 }

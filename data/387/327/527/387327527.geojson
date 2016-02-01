@@ -2,13 +2,14 @@
   "id": 387327527,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.885971,40.498665,-79.885971,40.498665",
     "geom:latitude":40.498665,
     "geom:longitude":-79.885971,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"114 Eton Dr",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85830655,
+        102191575,
+        404484931,
         85633793,
+        101718683,
         102080887,
-        85830655
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +44,18 @@
     "wof:geomhash":"ace1ee406b32555f6a8c8cee81c29e0a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
+            "localadmin_id":404484931,
+            "locality_id":101718683,
             "neighbourhood_id":85830655,
             "region_id":85688481,
             "venue_id":387327527
         }
     ],
     "wof:id":387327527,
-    "wof:lastmodified":1449056398,
+    "wof:lastmodified":1454358315,
     "wof:name":"Susan Farber Collections",
     "wof:parent_id":85830655,
     "wof:placetype":"venue",
@@ -60,6 +65,11 @@
         "handbag"
     ]
 },
-  "bbox": [-79.885971,40.498665,-79.885971,40.498665],
+  "bbox": [
+    -79.885971,
+    40.498665,
+    -79.885971,
+    40.498665
+],
   "geometry": {"coordinates":[-79.885971,40.498665],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387327853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.905076,40.490385,-79.905076,40.490385",
     "geom:latitude":40.490385,
     "geom:longitude":-79.905076,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"223 Commercial Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85830655,
+        102191575,
+        404484931,
         85633793,
+        101718683,
         102080887,
-        85830655
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +51,18 @@
     "wof:geomhash":"0c513c961e182e4737a9dae1d1d3e3da",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
+            "localadmin_id":404484931,
+            "locality_id":101718683,
             "neighbourhood_id":85830655,
             "region_id":85688481,
             "venue_id":387327853
         }
     ],
     "wof:id":387327853,
-    "wof:lastmodified":1449056396,
+    "wof:lastmodified":1454358314,
     "wof:name":"Lynlott Miniatures",
     "wof:parent_id":85830655,
     "wof:placetype":"venue",
@@ -69,6 +74,11 @@
         "accessory"
     ]
 },
-  "bbox": [-79.905076,40.490385,-79.905076,40.490385],
-  "geometry": {"coordinates":[-79.905076,40.490385],"type":"Point"}
+  "bbox": [
+    -79.905076,
+    40.490385,
+    -79.905076,
+    40.490385
+],
+  "geometry": {"coordinates":[-79.90507599999999,40.490385],"type":"Point"}
 }

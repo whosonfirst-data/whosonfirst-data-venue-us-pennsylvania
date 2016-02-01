@@ -2,13 +2,14 @@
   "id": 387631987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.608627,40.404991,-79.608627,40.404991",
     "geom:latitude":40.404991,
     "geom:longitude":-79.608627,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2200 Cornerstone Ln",
     "sg:city":"Export",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420540097,
+        102191575,
+        404487539,
         85633793,
         101717149,
-        102081383
+        102081383,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"8e3b6426818c42a64f9568a6488e0557",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081383,
+            "localadmin_id":404487539,
             "locality_id":101717149,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420540097,
             "region_id":85688481,
             "venue_id":387631987
         }
     ],
     "wof:id":387631987,
-    "wof:lastmodified":1449057276,
+    "wof:lastmodified":1454358987,
     "wof:name":"Cornerstone Ministries",
-    "wof:parent_id":-1,
+    "wof:parent_id":420540097,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.608627,40.404991,-79.608627,40.404991],
+  "bbox": [
+    -79.608627,
+    40.404991,
+    -79.608627,
+    40.404991
+],
   "geometry": {"coordinates":[-79.608627,40.404991],"type":"Point"}
 }

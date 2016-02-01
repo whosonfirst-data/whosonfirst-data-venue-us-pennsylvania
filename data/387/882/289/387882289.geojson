@@ -2,13 +2,14 @@
   "id": 387882289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.702011,40.84664,-77.702011,40.84664",
     "geom:latitude":40.84664,
     "geom:longitude":-77.702011,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"559 N Pennsylvania Ave",
     "sg:city":"Centre Hall",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     "sg:website":"www.mountnittanyinn.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85839333,
+        102191575,
+        404483083,
         85633793,
         101718143,
         102081369,
-        85839333
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"4a01853b4e20dbb038cbdd66deb7436e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081369,
+            "localadmin_id":404483083,
             "locality_id":101718143,
             "neighbourhood_id":85839333,
             "region_id":85688481,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":387882289,
-    "wof:lastmodified":1449056781,
+    "wof:lastmodified":1454358605,
     "wof:name":"Mount Nittany Inn",
     "wof:parent_id":85839333,
     "wof:placetype":"venue",
@@ -71,6 +75,11 @@
         "caterer"
     ]
 },
-  "bbox": [-77.702011,40.84664,-77.702011,40.84664],
+  "bbox": [
+    -77.702011,
+    40.84664,
+    -77.702011,
+    40.84664
+],
   "geometry": {"coordinates":[-77.702011,40.84664],"type":"Point"}
 }

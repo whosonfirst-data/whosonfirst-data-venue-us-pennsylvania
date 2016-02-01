@@ -2,13 +2,14 @@
   "id": 404215985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.4049,40.625301,-75.4049,40.625301",
     "geom:latitude":40.625301,
     "geom:longitude":-75.4049,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1607 W Union Blvd",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -48,8 +49,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081327,
-        85897231
+        85897231,
+        102081327
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,17 +60,15 @@
     "wof:geomhash":"697162ce0a525ae90e97e51e6c7f4609",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081327,
-            "locality_id":-1,
             "neighbourhood_id":85897231,
             "region_id":85688481,
             "venue_id":404215985
         }
     ],
     "wof:id":404215985,
-    "wof:lastmodified":1449040091,
+    "wof:lastmodified":1454357000,
     "wof:name":"St Nicholas Greek Orthodox Church",
     "wof:parent_id":85897231,
     "wof:placetype":"venue",
@@ -82,6 +81,11 @@
         "orthodox"
     ]
 },
-  "bbox": [-75.4049,40.625301,-75.4049,40.625301],
+  "bbox": [
+    -75.4049,
+    40.625301,
+    -75.4049,
+    40.625301
+],
   "geometry": {"coordinates":[-75.4049,40.625301],"type":"Point"}
 }

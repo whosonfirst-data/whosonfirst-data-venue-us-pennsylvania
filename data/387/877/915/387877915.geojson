@@ -2,13 +2,14 @@
   "id": 387877915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.783699,40.910599,-77.783699,40.910599",
     "geom:latitude":40.910599,
     "geom:longitude":-77.783699,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"135 Saint Paul St",
     "sg:city":"Bellefonte",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85806075,
+        102191575,
+        404485871,
         85633793,
         101718145,
         102081369,
-        85806075
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"ab83178f13f2a4afae9bdefc87b28337",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081369,
+            "localadmin_id":404485871,
             "locality_id":101718145,
             "neighbourhood_id":85806075,
             "region_id":85688481,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":387877915,
-    "wof:lastmodified":1449058787,
+    "wof:lastmodified":1454360880,
     "wof:name":"Healthy Journey",
     "wof:parent_id":85806075,
     "wof:placetype":"venue",
@@ -68,6 +72,11 @@
         "market"
     ]
 },
-  "bbox": [-77.783699,40.910599,-77.783699,40.910599],
+  "bbox": [
+    -77.783699,
+    40.910599,
+    -77.783699,
+    40.910599
+],
   "geometry": {"coordinates":[-77.783699,40.910599],"type":"Point"}
 }

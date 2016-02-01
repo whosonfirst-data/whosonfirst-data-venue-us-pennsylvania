@@ -2,13 +2,14 @@
   "id": 403722343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.906197,40.2621,-76.906197,40.2621",
     "geom:latitude":40.2621,
     "geom:longitude":-76.906197,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"602 N Front St",
     "sg:city":"Lemoyne",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"www.smarilli.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85820443,
+        102191575,
+        404483169,
         85633793,
-        101717693,
-        102081347,
-        85820443
+        101716755,
+        102081359,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"a0a480540fd639a3f818a7ea9bc0646d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081347,
-            "locality_id":101717693,
+            "county_id":102081359,
+            "localadmin_id":404483169,
+            "locality_id":101716755,
             "neighbourhood_id":85820443,
             "region_id":85688481,
             "venue_id":403722343
         }
     ],
     "wof:id":403722343,
-    "wof:lastmodified":1449055094,
+    "wof:lastmodified":1454357468,
     "wof:name":"Smarilli Marketing Communications",
     "wof:parent_id":85820443,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "design"
     ]
 },
-  "bbox": [-76.906197,40.2621,-76.906197,40.2621],
-  "geometry": {"coordinates":[-76.906197,40.2621],"type":"Point"}
+  "bbox": [
+    -76.906197,
+    40.2621,
+    -76.906197,
+    40.2621
+],
+  "geometry": {"coordinates":[-76.90619700000001,40.2621],"type":"Point"}
 }

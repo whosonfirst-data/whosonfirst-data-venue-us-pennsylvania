@@ -2,13 +2,14 @@
   "id": 387319243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.01576,40.457885,-80.01576,40.457885",
     "geom:latitude":40.457885,
     "geom:longitude":-80.01576,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1534 Brighton Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85873561,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85873561
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"bbd6ae2b4f13318d50f30b993720b190",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85873561,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387319243,
-    "wof:lastmodified":1449057659,
+    "wof:lastmodified":1454360547,
     "wof:name":"Annette's Lasting Impression",
     "wof:parent_id":85873561,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-80.01576,40.457885,-80.01576,40.457885],
+  "bbox": [
+    -80.01576,
+    40.457885,
+    -80.01576,
+    40.457885
+],
   "geometry": {"coordinates":[-80.01576,40.457885],"type":"Point"}
 }

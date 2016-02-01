@@ -2,13 +2,14 @@
   "id": 387292097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.157709,40.454458,-80.157709,40.454458",
     "geom:latitude":40.454458,
     "geom:longitude":-80.157709,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"100 Robinson Center Dr",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -37,8 +38,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85821263
+        85821263,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +49,15 @@
     "wof:geomhash":"f630a79342b479f6cda47eea740df734",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85821263,
             "region_id":85688481,
             "venue_id":387292097
         }
     ],
     "wof:id":387292097,
-    "wof:lastmodified":1449056426,
+    "wof:lastmodified":1454358343,
     "wof:name":"Childrens Place the",
     "wof:parent_id":85821263,
     "wof:placetype":"venue",
@@ -70,6 +69,11 @@
         "day"
     ]
 },
-  "bbox": [-80.157709,40.454458,-80.157709,40.454458],
+  "bbox": [
+    -80.157709,
+    40.454458,
+    -80.157709,
+    40.454458
+],
   "geometry": {"coordinates":[-80.157709,40.454458],"type":"Point"}
 }

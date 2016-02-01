@@ -2,13 +2,14 @@
   "id": 404095305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.310892,40.037376,-76.310892,40.037376",
     "geom:latitude":40.037376,
     "geom:longitude":-76.310892,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"309 W King St",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -40,8 +41,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85858805
+        85858805,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,17 +52,15 @@
     "wof:geomhash":"14fcdb1ffec8f095d06ec898dd194f97",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85858805,
             "region_id":85688481,
             "venue_id":404095305
         }
     ],
     "wof:id":404095305,
-    "wof:lastmodified":1449039698,
+    "wof:lastmodified":1454356760,
     "wof:name":"Patricia's Bridal Elegance",
     "wof:parent_id":85858805,
     "wof:placetype":"venue",
@@ -72,6 +71,11 @@
         "wedding"
     ]
 },
-  "bbox": [-76.310892,40.037376,-76.310892,40.037376],
+  "bbox": [
+    -76.310892,
+    40.037376,
+    -76.310892,
+    40.037376
+],
   "geometry": {"coordinates":[-76.310892,40.037376],"type":"Point"}
 }

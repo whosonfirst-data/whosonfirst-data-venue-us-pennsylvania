@@ -2,13 +2,14 @@
   "id": 387620795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.554714,40.299481,-79.554714,40.299481",
     "geom:latitude":40.299481,
     "geom:longitude":-79.554714,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"530 South St",
     "sg:city":"Greensburg",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85809439,
+        102191575,
+        404487487,
         85633793,
-        101717119,
+        101717177,
         102081383,
-        85809439
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"365924beb706f19cadb2b490b8b57a18",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":101717119,
+            "localadmin_id":404487487,
+            "locality_id":101717177,
             "neighbourhood_id":85809439,
             "region_id":85688481,
             "venue_id":387620795
         }
     ],
     "wof:id":387620795,
-    "wof:lastmodified":1449059589,
+    "wof:lastmodified":1454361129,
     "wof:name":"Jacobson Michele",
     "wof:parent_id":85809439,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "osteopathic"
     ]
 },
-  "bbox": [-79.554714,40.299481,-79.554714,40.299481],
+  "bbox": [
+    -79.554714,
+    40.299481,
+    -79.554714,
+    40.299481
+],
   "geometry": {"coordinates":[-79.554714,40.299481],"type":"Point"}
 }

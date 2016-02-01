@@ -2,13 +2,14 @@
   "id": 404104439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.214647,41.047976,-77.214647,41.047976",
     "geom:latitude":41.047976,
     "geom:longitude":-77.214647,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2550 E Valley Rd",
     "sg:city":"Loganton",
     "sg:classifiers":[
@@ -38,8 +39,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080917,
-        85809637
+        85809637,
+        102080917
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +50,15 @@
     "wof:geomhash":"ecb8d60c2659705214a66e23db32dcfb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080917,
-            "locality_id":-1,
             "neighbourhood_id":85809637,
             "region_id":85688481,
             "venue_id":404104439
         }
     ],
     "wof:id":404104439,
-    "wof:lastmodified":1449039524,
+    "wof:lastmodified":1454356697,
     "wof:name":"Scaffs Enterprises",
     "wof:parent_id":85809637,
     "wof:placetype":"venue",
@@ -72,6 +71,11 @@
         "hunting"
     ]
 },
-  "bbox": [-77.214647,41.047976,-77.214647,41.047976],
+  "bbox": [
+    -77.214647,
+    41.047976,
+    -77.214647,
+    41.047976
+],
   "geometry": {"coordinates":[-77.214647,41.047976],"type":"Point"}
 }

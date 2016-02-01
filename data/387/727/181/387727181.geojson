@@ -2,13 +2,14 @@
   "id": 387727181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.937599,40.690701,-79.937599,40.690701",
     "geom:latitude":40.690701,
     "geom:longitude":-79.937599,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1310 Pittsburgh Rd",
     "sg:city":"Valencia",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102083677,
-        85815109
+        85815109,
+        102083677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"d8c7e6af88f15604046444dddaf3d980",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102083677,
-            "locality_id":-1,
             "neighbourhood_id":85815109,
             "region_id":85688481,
             "venue_id":387727181
         }
     ],
     "wof:id":387727181,
-    "wof:lastmodified":1449056677,
+    "wof:lastmodified":1454358532,
     "wof:name":"Bulldog Garage Builders Llc",
     "wof:parent_id":85815109,
     "wof:placetype":"venue",
@@ -61,6 +60,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.937599,40.690701,-79.937599,40.690701],
-  "geometry": {"coordinates":[-79.937599,40.690701],"type":"Point"}
+  "bbox": [
+    -79.937599,
+    40.690701,
+    -79.937599,
+    40.690701
+],
+  "geometry": {"coordinates":[-79.93759900000001,40.690701],"type":"Point"}
 }

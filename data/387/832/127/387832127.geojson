@@ -2,13 +2,14 @@
   "id": 387832127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.15592,42.111296,-80.15592,42.111296",
     "geom:latitude":42.111296,
     "geom:longitude":-80.15592,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"83 Peninsula Dr",
     "sg:city":"Erie",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080955,
-        85815773
+        85815773,
+        102080955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"93edcb6d2ea16e129e6bac80c0760d65",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080955,
-            "locality_id":-1,
             "neighbourhood_id":85815773,
             "region_id":85688481,
             "venue_id":387832127
         }
     ],
     "wof:id":387832127,
-    "wof:lastmodified":1449056131,
+    "wof:lastmodified":1454358108,
     "wof:name":"Beach Zero",
     "wof:parent_id":85815773,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "shop"
     ]
 },
-  "bbox": [-80.15592,42.111296,-80.15592,42.111296],
-  "geometry": {"coordinates":[-80.15592,42.111296],"type":"Point"}
+  "bbox": [
+    -80.15592,
+    42.111296,
+    -80.15592,
+    42.111296
+],
+  "geometry": {"coordinates":[-80.15591999999999,42.111296],"type":"Point"}
 }

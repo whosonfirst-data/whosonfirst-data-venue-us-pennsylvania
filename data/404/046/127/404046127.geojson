@@ -2,13 +2,14 @@
   "id": 404046127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.221543,40.161862,-76.221543,40.161862",
     "geom:latitude":40.161862,
     "geom:longitude":-76.221543,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3001 Rothsville Rd",
     "sg:city":"Ephrata",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85834405
+        85834405,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"fea4d1365441419dec22ac2b23faaa66",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85834405,
             "region_id":85688481,
             "venue_id":404046127
         }
     ],
     "wof:id":404046127,
-    "wof:lastmodified":1449039805,
+    "wof:lastmodified":1454356815,
     "wof:name":"U-Gro Learning Centres",
     "wof:parent_id":85834405,
     "wof:placetype":"venue",
@@ -63,6 +62,11 @@
         "day"
     ]
 },
-  "bbox": [-76.221543,40.161862,-76.221543,40.161862],
+  "bbox": [
+    -76.221543,
+    40.161862,
+    -76.221543,
+    40.161862
+],
   "geometry": {"coordinates":[-76.221543,40.161862],"type":"Point"}
 }

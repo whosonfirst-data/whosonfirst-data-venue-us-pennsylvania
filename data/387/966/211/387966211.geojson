@@ -2,13 +2,14 @@
   "id": 387966211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.376813,40.453315,-76.376813,40.453315",
     "geom:latitude":40.453315,
     "geom:longitude":-76.376813,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"27 Bachman Ln",
     "sg:city":"Fredericksburg",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081341,
-        85848469
+        85848469,
+        102081341
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"2535006b1ed07bb78d6a9fde7a9a5642",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081341,
-            "locality_id":-1,
             "neighbourhood_id":85848469,
             "region_id":85688481,
             "venue_id":387966211
         }
     ],
     "wof:id":387966211,
-    "wof:lastmodified":1449056139,
+    "wof:lastmodified":1454358113,
     "wof:name":"Ribeye Ranch",
     "wof:parent_id":85848469,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "livestock"
     ]
 },
-  "bbox": [-76.376813,40.453315,-76.376813,40.453315],
+  "bbox": [
+    -76.376813,
+    40.453315,
+    -76.376813,
+    40.453315
+],
   "geometry": {"coordinates":[-76.376813,40.453315],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387658423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.308358,40.566548,-79.308358,40.566548",
     "geom:latitude":40.566548,
     "geom:longitude":-79.308358,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1324 Coal Run Rd",
     "sg:city":"Clarksburg",
     "sg:classifiers":[
@@ -40,8 +41,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081387,
-        85821437
+        85821437,
+        102081387
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,17 +52,15 @@
     "wof:geomhash":"06f54e26768c1f0d9c9ede0aff05a3eb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081387,
-            "locality_id":-1,
             "neighbourhood_id":85821437,
             "region_id":85688481,
             "venue_id":387658423
         }
     ],
     "wof:id":387658423,
-    "wof:lastmodified":1449056027,
+    "wof:lastmodified":1454358023,
     "wof:name":"Drakes Run Nurseries",
     "wof:parent_id":85821437,
     "wof:placetype":"venue",
@@ -76,6 +75,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-79.308358,40.566548,-79.308358,40.566548],
+  "bbox": [
+    -79.308358,
+    40.566548,
+    -79.308358,
+    40.566548
+],
   "geometry": {"coordinates":[-79.308358,40.566548],"type":"Point"}
 }

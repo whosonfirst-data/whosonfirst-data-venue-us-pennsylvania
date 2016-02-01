@@ -2,13 +2,14 @@
   "id": 403908229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.792652,40.32027,-76.792652,40.32027",
     "geom:latitude":40.32027,
     "geom:longitude":-76.792652,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5630 Allentown Blvd",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -35,10 +36,13 @@
     "sg:website":"http://www.syicopies.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420537733,
+        102191575,
+        404486185,
         85633793,
-        101719819,
-        102081347
+        101719817,
+        102081347,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +52,20 @@
     "wof:geomhash":"dcc39634c84d4d32e6a96fa4df91ca8c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":101719819,
-            "neighbourhood_id":-1,
+            "localadmin_id":404486185,
+            "locality_id":101719817,
+            "neighbourhood_id":420537733,
             "region_id":85688481,
             "venue_id":403908229
         }
     ],
     "wof:id":403908229,
-    "wof:lastmodified":1449055394,
+    "wof:lastmodified":1454357648,
     "wof:name":"Print Works On Demand Inc.",
-    "wof:parent_id":-1,
+    "wof:parent_id":420537733,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -70,6 +75,11 @@
         "copying"
     ]
 },
-  "bbox": [-76.792652,40.32027,-76.792652,40.32027],
+  "bbox": [
+    -76.792652,
+    40.32027,
+    -76.792652,
+    40.32027
+],
   "geometry": {"coordinates":[-76.792652,40.32027],"type":"Point"}
 }

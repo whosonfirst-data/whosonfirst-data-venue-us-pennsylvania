@@ -2,13 +2,14 @@
   "id": 387292263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.067016,40.421602,-80.067016,40.421602",
     "geom:latitude":40.421602,
     "geom:longitude":-80.067016,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2749 Noblestown Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -40,11 +41,13 @@
     "sg:website":"www.thehophouse.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85816087,
+        102191575,
+        404484941,
         85633793,
         101718673,
         102080887,
-        85816087
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,9 +57,10 @@
     "wof:geomhash":"88df83500b332d0cc65ad5b2f3d1e997",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484941,
             "locality_id":101718673,
             "neighbourhood_id":85816087,
             "region_id":85688481,
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":387292263,
-    "wof:lastmodified":1449056429,
+    "wof:lastmodified":1454358345,
     "wof:name":"The Hop House",
     "wof:parent_id":85816087,
     "wof:placetype":"venue",
@@ -76,6 +80,11 @@
         "venue"
     ]
 },
-  "bbox": [-80.067016,40.421602,-80.067016,40.421602],
+  "bbox": [
+    -80.067016,
+    40.421602,
+    -80.067016,
+    40.421602
+],
   "geometry": {"coordinates":[-80.067016,40.421602],"type":"Point"}
 }

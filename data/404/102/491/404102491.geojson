@@ -2,13 +2,14 @@
   "id": 404102491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.851608,41.65411,-76.851608,41.65411",
     "geom:latitude":41.65411,
     "geom:longitude":-76.851608,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2 E Main St",
     "sg:city":"Canton",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081319,
-        85868601
+        85868601,
+        102081319
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"cd81524ec478333a437c651fc159fbd0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081319,
-            "locality_id":-1,
             "neighbourhood_id":85868601,
             "region_id":85688481,
             "venue_id":404102491
         }
     ],
     "wof:id":404102491,
-    "wof:lastmodified":1449040251,
+    "wof:lastmodified":1454357088,
     "wof:name":"Carol K Welch Agency",
     "wof:parent_id":85868601,
     "wof:placetype":"venue",
@@ -61,6 +60,11 @@
         "auto"
     ]
 },
-  "bbox": [-76.851608,41.65411,-76.851608,41.65411],
+  "bbox": [
+    -76.851608,
+    41.65411,
+    -76.851608,
+    41.65411
+],
   "geometry": {"coordinates":[-76.851608,41.65411],"type":"Point"}
 }

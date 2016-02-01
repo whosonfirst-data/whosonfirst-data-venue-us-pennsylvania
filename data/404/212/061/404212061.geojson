@@ -2,13 +2,14 @@
   "id": 404212061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.422705,40.643372,-75.422705,40.643372",
     "geom:latitude":40.643372,
     "geom:longitude":-75.422705,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2224 Aster Rd",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -26,8 +27,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081327,
-        85838547
+        85838547,
+        102081327
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,17 +38,15 @@
     "wof:geomhash":"75f8a765829e350964193a82e5c527ef",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081327,
-            "locality_id":-1,
             "neighbourhood_id":85838547,
             "region_id":85688481,
             "venue_id":404212061
         }
     ],
     "wof:id":404212061,
-    "wof:lastmodified":1449039912,
+    "wof:lastmodified":1454356884,
     "wof:name":"Corp Regis",
     "wof:parent_id":85838547,
     "wof:placetype":"venue",
@@ -55,6 +54,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.422705,40.643372,-75.422705,40.643372],
-  "geometry": {"coordinates":[-75.422705,40.643372],"type":"Point"}
+  "bbox": [
+    -75.422705,
+    40.643372,
+    -75.422705,
+    40.643372
+],
+  "geometry": {"coordinates":[-75.42270499999999,40.643372],"type":"Point"}
 }

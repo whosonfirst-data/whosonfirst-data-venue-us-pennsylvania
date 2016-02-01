@@ -2,13 +2,14 @@
   "id": 404064167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.387627,40.158445,-76.387627,40.158445",
     "geom:latitude":40.158445,
     "geom:longitude":-76.387627,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"100 Fruitville Pike Apt 1",
     "sg:city":"Manheim",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85853449
+        85853449,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"16640eb86c4fc53332d73f6f651d1bc6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85853449,
             "region_id":85688481,
             "venue_id":404064167
         }
     ],
     "wof:id":404064167,
-    "wof:lastmodified":1449039445,
+    "wof:lastmodified":1454356654,
     "wof:name":"Candles By Dale",
     "wof:parent_id":85853449,
     "wof:placetype":"venue",
@@ -63,6 +62,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-76.387627,40.158445,-76.387627,40.158445],
-  "geometry": {"coordinates":[-76.387627,40.158445],"type":"Point"}
+  "bbox": [
+    -76.387627,
+    40.158445,
+    -76.387627,
+    40.158445
+],
+  "geometry": {"coordinates":[-76.38762699999999,40.158445],"type":"Point"}
 }

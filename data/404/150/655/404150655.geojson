@@ -2,13 +2,14 @@
   "id": 404150655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.200899,40.819319,-76.200899,40.819319",
     "geom:latitude":40.819319,
     "geom:longitude":-76.200899,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"121 S Main St",
     "sg:city":"Shenandoah",
     "sg:classifiers":[
@@ -41,7 +42,6 @@
     "wof:geomhash":"f56583c9d69300d3d2e7275622f13913",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081271,
             "locality_id":101717567,
@@ -51,7 +51,7 @@
         }
     ],
     "wof:id":404150655,
-    "wof:lastmodified":1449039104,
+    "wof:lastmodified":1454356433,
     "wof:name":"The Pizza Shop",
     "wof:parent_id":85868565,
     "wof:placetype":"venue",
@@ -61,6 +61,11 @@
         "pizza"
     ]
 },
-  "bbox": [-76.200899,40.819319,-76.200899,40.819319],
-  "geometry": {"coordinates":[-76.200899,40.819319],"type":"Point"}
+  "bbox": [
+    -76.200899,
+    40.819319,
+    -76.200899,
+    40.819319
+],
+  "geometry": {"coordinates":[-76.20089900000001,40.819319],"type":"Point"}
 }

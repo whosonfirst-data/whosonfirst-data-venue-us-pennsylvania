@@ -2,13 +2,14 @@
   "id": 403870953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.8312,40.292198,-76.8312,40.292198",
     "geom:latitude":40.292198,
     "geom:longitude":-76.8312,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3890 Walnut St",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -42,11 +43,13 @@
     "sg:website":"http://www.dairyqueen.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85843183,
+        102191575,
+        404486305,
         85633793,
         101719821,
         102081347,
-        85843183
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,9 +59,10 @@
     "wof:geomhash":"70a0cf56ce320ea1c142e48d230ce12a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
+            "localadmin_id":404486305,
             "locality_id":101719821,
             "neighbourhood_id":85843183,
             "region_id":85688481,
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":403870953,
-    "wof:lastmodified":1449054995,
+    "wof:lastmodified":1454357408,
     "wof:name":"Dairy Queen",
     "wof:parent_id":85843183,
     "wof:placetype":"venue",
@@ -80,6 +84,11 @@
         "yogurt"
     ]
 },
-  "bbox": [-76.8312,40.292198,-76.8312,40.292198],
+  "bbox": [
+    -76.8312,
+    40.292198,
+    -76.8312,
+    40.292198
+],
   "geometry": {"coordinates":[-76.8312,40.292198],"type":"Point"}
 }

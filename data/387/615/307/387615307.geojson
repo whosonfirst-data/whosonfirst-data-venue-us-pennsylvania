@@ -2,13 +2,14 @@
   "id": 387615307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.742027,42.27289,-79.742027,42.27289",
     "geom:latitude":42.27289,
     "geom:longitude":-79.742027,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"10475 W Lake Rd",
     "sg:city":"Ripley",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080955,
-        85850957
+        85850957,
+        102080955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"d822d2806b4d82e321d97e228568fb7d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080955,
-            "locality_id":-1,
             "neighbourhood_id":85850957,
             "region_id":85688481,
             "venue_id":387615307
         }
     ],
     "wof:id":387615307,
-    "wof:lastmodified":1449057300,
+    "wof:lastmodified":1454358999,
     "wof:name":"Hotdog Hut and Put",
     "wof:parent_id":85850957,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "eating"
     ]
 },
-  "bbox": [-79.742027,42.27289,-79.742027,42.27289],
-  "geometry": {"coordinates":[-79.742027,42.27289],"type":"Point"}
+  "bbox": [
+    -79.742027,
+    42.27289,
+    -79.742027,
+    42.27289
+],
+  "geometry": {"coordinates":[-79.74202699999999,42.27289],"type":"Point"}
 }

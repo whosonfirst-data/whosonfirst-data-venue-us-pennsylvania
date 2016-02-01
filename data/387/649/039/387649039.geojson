@@ -2,13 +2,14 @@
   "id": 387649039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.6995,40.427731,-79.6995,40.427731",
     "geom:latitude":40.427731,
     "geom:longitude":-79.6995,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3840 Beatty Ct",
     "sg:city":"Murrysville",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     "sg:website":"http://www.hair-dynamics.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85836835,
+        102191575,
+        404487539,
         85633793,
         101717149,
         102081383,
-        85836835
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"dedcae876a10658c65284a8e58e18a41",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081383,
+            "localadmin_id":404487539,
             "locality_id":101717149,
             "neighbourhood_id":85836835,
             "region_id":85688481,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":387649039,
-    "wof:lastmodified":1449058704,
+    "wof:lastmodified":1454360858,
     "wof:name":"Hair Dynamics",
     "wof:parent_id":85836835,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.6995,40.427731,-79.6995,40.427731],
+  "bbox": [
+    -79.6995,
+    40.427731,
+    -79.6995,
+    40.427731
+],
   "geometry": {"coordinates":[-79.6995,40.427731],"type":"Point"}
 }

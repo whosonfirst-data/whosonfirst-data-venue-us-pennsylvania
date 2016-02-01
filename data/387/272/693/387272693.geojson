@@ -2,13 +2,14 @@
   "id": 387272693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.793233,40.397191,-79.793233,40.397191",
     "geom:latitude":40.397191,
     "geom:longitude":-79.793233,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2828 Broadway Blvd",
     "sg:city":"Monroeville",
     "sg:classifiers":[
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85856615,
+        102191575,
+        404482543,
         85633793,
+        101718699,
         102080887,
-        85856615
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +50,18 @@
     "wof:geomhash":"c29dab87db0385c3c65756952f20f713",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
+            "localadmin_id":404482543,
+            "locality_id":101718699,
             "neighbourhood_id":85856615,
             "region_id":85688481,
             "venue_id":387272693
         }
     ],
     "wof:id":387272693,
-    "wof:lastmodified":1449059655,
+    "wof:lastmodified":1454361147,
     "wof:name":"Hatch Group",
     "wof:parent_id":85856615,
     "wof:placetype":"venue",
@@ -67,6 +72,11 @@
         "liquidator"
     ]
 },
-  "bbox": [-79.793233,40.397191,-79.793233,40.397191],
+  "bbox": [
+    -79.793233,
+    40.397191,
+    -79.793233,
+    40.397191
+],
   "geometry": {"coordinates":[-79.793233,40.397191],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387897505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.439229,41.957096,-77.439229,41.957096",
     "geom:latitude":41.957096,
     "geom:longitude":-77.439229,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"105 E Main St",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -25,10 +26,13 @@
     "sg:website":"http://www.usps.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420539793,
+        102191575,
+        404483891,
         85633793,
         101717069,
-        102080937
+        102080937,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,24 +42,30 @@
     "wof:geomhash":"bd90e6490cb853ee227f44de764af659",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080937,
+            "localadmin_id":404483891,
             "locality_id":101717069,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420539793,
             "region_id":85688481,
             "venue_id":387897505
         }
     ],
     "wof:id":387897505,
-    "wof:lastmodified":1449059309,
+    "wof:lastmodified":1454361039,
     "wof:name":"USPS - United States Post Office",
-    "wof:parent_id":-1,
+    "wof:parent_id":420539793,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.439229,41.957096,-77.439229,41.957096],
+  "bbox": [
+    -77.439229,
+    41.957096,
+    -77.439229,
+    41.957096
+],
   "geometry": {"coordinates":[-77.439229,41.957096],"type":"Point"}
 }

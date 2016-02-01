@@ -2,13 +2,14 @@
   "id": 387884253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.420925,41.024818,-78.420925,41.024818",
     "geom:latitude":41.024818,
     "geom:longitude":-78.420925,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1452 Woodland Rd",
     "sg:city":"Clearfield",
     "sg:classifiers":[
@@ -42,8 +43,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080967,
-        85830317
+        85830317,
+        102080967
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,17 +54,15 @@
     "wof:geomhash":"1880ebc24f0bcd7f54550eba10fcd822",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080967,
-            "locality_id":-1,
             "neighbourhood_id":85830317,
             "region_id":85688481,
             "venue_id":387884253
         }
     ],
     "wof:id":387884253,
-    "wof:lastmodified":1449059177,
+    "wof:lastmodified":1454361006,
     "wof:name":"Denny's Beer Barrel Pub",
     "wof:parent_id":85830317,
     "wof:placetype":"venue",
@@ -75,6 +74,11 @@
         "caterer"
     ]
 },
-  "bbox": [-78.420925,41.024818,-78.420925,41.024818],
+  "bbox": [
+    -78.420925,
+    41.024818,
+    -78.420925,
+    41.024818
+],
   "geometry": {"coordinates":[-78.420925,41.024818],"type":"Point"}
 }

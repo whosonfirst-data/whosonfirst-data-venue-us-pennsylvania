@@ -2,13 +2,14 @@
   "id": 387662485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.332126,40.649079,-79.332126,40.649079",
     "geom:latitude":40.649079,
     "geom:longitude":-79.332126,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"313 Keystone Ln",
     "sg:city":"Shelocta",
     "sg:classifiers":[
@@ -34,8 +35,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081387,
-        85821437
+        85821437,
+        102081387
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +46,15 @@
     "wof:geomhash":"97ae57d4ed46b7de3a6e111ed377d665",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081387,
-            "locality_id":-1,
             "neighbourhood_id":85821437,
             "region_id":85688481,
             "venue_id":387662485
         }
     ],
     "wof:id":387662485,
-    "wof:lastmodified":1449058678,
+    "wof:lastmodified":1454360849,
     "wof:name":"Keystone Generating Station",
     "wof:parent_id":85821437,
     "wof:placetype":"venue",
@@ -65,6 +64,11 @@
         "equipment-testing"
     ]
 },
-  "bbox": [-79.332126,40.649079,-79.332126,40.649079],
+  "bbox": [
+    -79.332126,
+    40.649079,
+    -79.332126,
+    40.649079
+],
   "geometry": {"coordinates":[-79.332126,40.649079],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404090965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.393251,40.048312,-76.393251,40.048312",
     "geom:latitude":40.048312,
     "geom:longitude":-76.393251,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"245 Centerville Rd Ste 9A",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -43,8 +44,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85810207
+        85810207,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,17 +55,15 @@
     "wof:geomhash":"15d7c4956fabf3aad8f4f7918ba5ec44",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85810207,
             "region_id":85688481,
             "venue_id":404090965
         }
     ],
     "wof:id":404090965,
-    "wof:lastmodified":1449040039,
+    "wof:lastmodified":1454356974,
     "wof:name":"Subway",
     "wof:parent_id":85810207,
     "wof:placetype":"venue",
@@ -77,6 +76,11 @@
         "take"
     ]
 },
-  "bbox": [-76.393251,40.048312,-76.393251,40.048312],
-  "geometry": {"coordinates":[-76.393251,40.048312],"type":"Point"}
+  "bbox": [
+    -76.393251,
+    40.048312,
+    -76.393251,
+    40.048312
+],
+  "geometry": {"coordinates":[-76.39325100000001,40.048312],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387321419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.988688,40.467566,-79.988688,40.467566",
     "geom:latitude":40.467566,
     "geom:longitude":-79.988688,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1521 Hetzel St",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85850571,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85850571
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"3103fc29d72734752fa019bb5f77997d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85850571,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387321419,
-    "wof:lastmodified":1449056210,
+    "wof:lastmodified":1454358165,
     "wof:name":"Xm2 Design",
     "wof:parent_id":85850571,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "producer"
     ]
 },
-  "bbox": [-79.988688,40.467566,-79.988688,40.467566],
+  "bbox": [
+    -79.988688,
+    40.467566,
+    -79.988688,
+    40.467566
+],
   "geometry": {"coordinates":[-79.988688,40.467566],"type":"Point"}
 }

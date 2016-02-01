@@ -2,13 +2,14 @@
   "id": 403706293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.656303,40.269501,-76.656303,40.269501",
     "geom:latitude":40.269501,
     "geom:longitude":-76.656303,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"731 Cherry Dr",
     "sg:city":"Hershey",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85821955,
+        102191575,
+        404483303,
         85633793,
         101719813,
         102081347,
-        85821955
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"b9b533fded10c2abd16494a713316b08",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
+            "localadmin_id":404483303,
             "locality_id":101719813,
             "neighbourhood_id":85821955,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":403706293,
-    "wof:lastmodified":1449054729,
+    "wof:lastmodified":1454357246,
     "wof:name":"Keplers Seafood",
     "wof:parent_id":85821955,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "market"
     ]
 },
-  "bbox": [-76.656303,40.269501,-76.656303,40.269501],
-  "geometry": {"coordinates":[-76.656303,40.269501],"type":"Point"}
+  "bbox": [
+    -76.656303,
+    40.269501,
+    -76.656303,
+    40.269501
+],
+  "geometry": {"coordinates":[-76.65630299999999,40.269501],"type":"Point"}
 }

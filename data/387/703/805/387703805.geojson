@@ -2,13 +2,14 @@
   "id": 387703805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.927551,40.814011,-79.927551,40.814011",
     "geom:latitude":40.814011,
     "geom:longitude":-79.927551,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"273 Pittsburgh Rd",
     "sg:city":"Butler",
     "sg:classifiers":[
@@ -37,8 +38,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102083677,
-        85833131
+        85833131,
+        102083677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +49,15 @@
     "wof:geomhash":"dbd6ed68c470b67f3573cdf64f18a954",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102083677,
-            "locality_id":-1,
             "neighbourhood_id":85833131,
             "region_id":85688481,
             "venue_id":387703805
         }
     ],
     "wof:id":387703805,
-    "wof:lastmodified":1449057254,
+    "wof:lastmodified":1454358967,
     "wof:name":"Enterprise Rent-A-Car",
     "wof:parent_id":85833131,
     "wof:placetype":"venue",
@@ -70,6 +69,11 @@
         "car"
     ]
 },
-  "bbox": [-79.927551,40.814011,-79.927551,40.814011],
-  "geometry": {"coordinates":[-79.927551,40.814011],"type":"Point"}
+  "bbox": [
+    -79.927551,
+    40.814011,
+    -79.927551,
+    40.814011
+],
+  "geometry": {"coordinates":[-79.92755099999999,40.814011],"type":"Point"}
 }

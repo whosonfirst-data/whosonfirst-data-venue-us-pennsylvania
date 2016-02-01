@@ -2,13 +2,14 @@
   "id": 387445199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.046128,40.371726,-80.046128,40.371726",
     "geom:latitude":40.371726,
     "geom:longitude":-80.046128,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"195 Main Entrance Dr",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -34,8 +35,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85805039
+        85805039,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +46,15 @@
     "wof:geomhash":"3a34b65e6172c7585beb7a874f0644db",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85805039,
             "region_id":85688481,
             "venue_id":387445199
         }
     ],
     "wof:id":387445199,
-    "wof:lastmodified":1449056612,
+    "wof:lastmodified":1454358484,
     "wof:name":"Catherine M Bissel",
     "wof:parent_id":85805039,
     "wof:placetype":"venue",
@@ -65,6 +64,11 @@
         "management"
     ]
 },
-  "bbox": [-80.046128,40.371726,-80.046128,40.371726],
+  "bbox": [
+    -80.046128,
+    40.371726,
+    -80.046128,
+    40.371726
+],
   "geometry": {"coordinates":[-80.046128,40.371726],"type":"Point"}
 }

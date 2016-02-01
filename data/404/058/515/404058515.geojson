@@ -2,13 +2,14 @@
   "id": 404058515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.252279,40.151405,-76.252279,40.151405",
     "geom:latitude":40.151405,
     "geom:longitude":-76.252279,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2036 Main St",
     "sg:city":"Lititz",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85834405
+        85834405,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"85d0f92258c1e7374501026d943b0b0d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85834405,
             "region_id":85688481,
             "venue_id":404058515
         }
     ],
     "wof:id":404058515,
-    "wof:lastmodified":1449039188,
+    "wof:lastmodified":1454356507,
     "wof:name":"Caruso's Family Restaurant",
     "wof:parent_id":85834405,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "italian"
     ]
 },
-  "bbox": [-76.252279,40.151405,-76.252279,40.151405],
+  "bbox": [
+    -76.252279,
+    40.151405,
+    -76.252279,
+    40.151405
+],
   "geometry": {"coordinates":[-76.252279,40.151405],"type":"Point"}
 }

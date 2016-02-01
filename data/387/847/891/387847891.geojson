@@ -2,13 +2,14 @@
   "id": 387847891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.386353,40.53356,-78.386353,40.53356",
     "geom:latitude":40.53356,
     "geom:longitude":-78.386353,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"419 N 2nd St",
     "sg:city":"Altoona",
     "sg:classifiers":[
@@ -43,8 +44,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081325,
-        85854977
+        85854977,
+        102081325
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,17 +55,15 @@
     "wof:geomhash":"79f46b090fc396f5d05c73d4add26d0f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081325,
-            "locality_id":-1,
             "neighbourhood_id":85854977,
             "region_id":85688481,
             "venue_id":387847891
         }
     ],
     "wof:id":387847891,
-    "wof:lastmodified":1449057482,
+    "wof:lastmodified":1454359156,
     "wof:name":"Mccloskey Builders",
     "wof:parent_id":85854977,
     "wof:placetype":"venue",
@@ -82,6 +81,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-78.386353,40.53356,-78.386353,40.53356],
+  "bbox": [
+    -78.386353,
+    40.53356,
+    -78.386353,
+    40.53356
+],
   "geometry": {"coordinates":[-78.386353,40.53356],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387136751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.401765,40.521438,-80.401765,40.521438",
     "geom:latitude":40.521438,
     "geom:longitude":-80.401765,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"198 Mckenzie Rd",
     "sg:city":"Clinton",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85836049
+        85836049,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"01284ed72daa630cc09c147bee90f312",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85836049,
             "region_id":85688481,
             "venue_id":387136751
         }
     ],
     "wof:id":387136751,
-    "wof:lastmodified":1449059861,
+    "wof:lastmodified":1454361213,
     "wof:name":"Jda Enterprises Inc",
     "wof:parent_id":85836049,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "appliance"
     ]
 },
-  "bbox": [-80.401765,40.521438,-80.401765,40.521438],
+  "bbox": [
+    -80.401765,
+    40.521438,
+    -80.401765,
+    40.521438
+],
   "geometry": {"coordinates":[-80.401765,40.521438],"type":"Point"}
 }

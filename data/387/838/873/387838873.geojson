@@ -2,13 +2,14 @@
   "id": 387838873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.085771,42.1054,-80.085771,42.1054",
     "geom:latitude":42.1054,
     "geom:longitude":-80.085771,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2666 Cherry St",
     "sg:city":"Erie",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85822031,
+        102191575,
+        404486673,
         85633793,
         101718253,
         102080955,
-        85822031
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"3beb5cba0e3ee0807ce482871546f2ab",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080955,
+            "localadmin_id":404486673,
             "locality_id":101718253,
             "neighbourhood_id":85822031,
             "region_id":85688481,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":387838873,
-    "wof:lastmodified":1449056570,
+    "wof:lastmodified":1454358442,
     "wof:name":"Ambrose Painting",
     "wof:parent_id":85822031,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.085771,42.1054,-80.085771,42.1054],
-  "geometry": {"coordinates":[-80.085771,42.1054],"type":"Point"}
+  "bbox": [
+    -80.085771,
+    42.1054,
+    -80.085771,
+    42.1054
+],
+  "geometry": {"coordinates":[-80.08577099999999,42.1054],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387850785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.414107,40.488376,-78.414107,40.488376",
     "geom:latitude":40.488376,
     "geom:longitude":-78.414107,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3709 6th Ave",
     "sg:city":"Altoona",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85849385,
+        102191575,
+        404484619,
         85633793,
         101716595,
         102081325,
-        85849385
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"44a419ea6d4b7edb91ac0c1914dfc561",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081325,
+            "localadmin_id":404484619,
             "locality_id":101716595,
             "neighbourhood_id":85849385,
             "region_id":85688481,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":387850785,
-    "wof:lastmodified":1449058308,
+    "wof:lastmodified":1454360740,
     "wof:name":"Curve Painting",
     "wof:parent_id":85849385,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "contractor"
     ]
 },
-  "bbox": [-78.414107,40.488376,-78.414107,40.488376],
+  "bbox": [
+    -78.414107,
+    40.488376,
+    -78.414107,
+    40.488376
+],
   "geometry": {"coordinates":[-78.414107,40.488376],"type":"Point"}
 }

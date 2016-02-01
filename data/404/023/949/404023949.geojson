@@ -2,13 +2,14 @@
   "id": 404023949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.703019,39.971958,-76.703019,39.971958",
     "geom:latitude":39.971958,
     "geom:longitude":-76.703019,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1305 E Market St Ste A",
     "sg:city":"York",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080953,
-        85817923
+        85817923,
+        102080953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"2ba996d762b2270a864ff98dddb46182",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
             "neighbourhood_id":85817923,
             "region_id":85688481,
             "venue_id":404023949
         }
     ],
     "wof:id":404023949,
-    "wof:lastmodified":1449040217,
+    "wof:lastmodified":1454357069,
     "wof:name":"Litten Financial Group",
     "wof:parent_id":85817923,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "business"
     ]
 },
-  "bbox": [-76.703019,39.971958,-76.703019,39.971958],
+  "bbox": [
+    -76.703019,
+    39.971958,
+    -76.703019,
+    39.971958
+],
   "geometry": {"coordinates":[-76.703019,39.971958],"type":"Point"}
 }

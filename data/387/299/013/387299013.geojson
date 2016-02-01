@@ -2,13 +2,14 @@
   "id": 387299013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.083632,40.432941,-80.083632,40.432941",
     "geom:latitude":40.432941,
     "geom:longitude":-80.083632,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1142 Dartmouth Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85826735,
+        102191575,
+        404484879,
         85633793,
-        101718743,
+        101718739,
         102080887,
-        85826735
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +41,18 @@
     "wof:geomhash":"32b06540924409cb50dfd0d48a3c6d5d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":101718743,
+            "localadmin_id":404484879,
+            "locality_id":101718739,
             "neighbourhood_id":85826735,
             "region_id":85688481,
             "venue_id":387299013
         }
     ],
     "wof:id":387299013,
-    "wof:lastmodified":1449057070,
+    "wof:lastmodified":1454358812,
     "wof:name":"Thompson Thomas",
     "wof:parent_id":85826735,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.083632,40.432941,-80.083632,40.432941],
-  "geometry": {"coordinates":[-80.083632,40.432941],"type":"Point"}
+  "bbox": [
+    -80.083632,
+    40.432941,
+    -80.083632,
+    40.432941
+],
+  "geometry": {"coordinates":[-80.08363199999999,40.432941],"type":"Point"}
 }

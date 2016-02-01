@@ -2,13 +2,14 @@
   "id": 387849099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.391762,40.525311,-78.391762,40.525311",
     "geom:latitude":40.525311,
     "geom:longitude":-78.391762,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"100 Chestnut Ave",
     "sg:city":"Altoona",
     "sg:classifiers":[
@@ -40,11 +41,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85818685,
+        102191575,
+        404484619,
         85633793,
         101716595,
         102081325,
-        85818685
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,9 +57,10 @@
     "wof:geomhash":"4961de3ade1be48493e5080dc5ab5c40",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081325,
+            "localadmin_id":404484619,
             "locality_id":101716595,
             "neighbourhood_id":85818685,
             "region_id":85688481,
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":387849099,
-    "wof:lastmodified":1449056799,
+    "wof:lastmodified":1454358621,
     "wof:name":"Elias M Rifkh Md",
     "wof:parent_id":85818685,
     "wof:placetype":"venue",
@@ -82,6 +86,11 @@
         "disorders-information"
     ]
 },
-  "bbox": [-78.391762,40.525311,-78.391762,40.525311],
+  "bbox": [
+    -78.391762,
+    40.525311,
+    -78.391762,
+    40.525311
+],
   "geometry": {"coordinates":[-78.391762,40.525311],"type":"Point"}
 }

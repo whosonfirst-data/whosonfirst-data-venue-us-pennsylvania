@@ -2,13 +2,14 @@
   "id": 387558613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.126297,40.274399,-80.126297,40.274399",
     "geom:latitude":40.274399,
     "geom:longitude":-80.126297,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"110 Jones Dr",
     "sg:city":"Canonsburg",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081343,
-        85814861
+        85814861,
+        102081343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"d547b0257287e8d839c66c45b07a0c39",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081343,
-            "locality_id":-1,
             "neighbourhood_id":85814861,
             "region_id":85688481,
             "venue_id":387558613
         }
     ],
     "wof:id":387558613,
-    "wof:lastmodified":1449057134,
+    "wof:lastmodified":1454358868,
     "wof:name":"Goosebumps",
     "wof:parent_id":85814861,
     "wof:placetype":"venue",
@@ -68,6 +67,11 @@
         "installation"
     ]
 },
-  "bbox": [-80.126297,40.274399,-80.126297,40.274399],
-  "geometry": {"coordinates":[-80.126297,40.274399],"type":"Point"}
+  "bbox": [
+    -80.126297,
+    40.274399,
+    -80.126297,
+    40.274399
+],
+  "geometry": {"coordinates":[-80.12629699999999,40.274399],"type":"Point"}
 }

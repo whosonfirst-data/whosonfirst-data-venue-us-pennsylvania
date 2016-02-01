@@ -2,13 +2,14 @@
   "id": 387877629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.764603,40.913601,-77.764603,40.913601",
     "geom:latitude":40.913601,
     "geom:longitude":-77.764603,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"819 E Bishop St",
     "sg:city":"Bellefonte",
     "sg:classifiers":[
@@ -31,11 +32,13 @@
     "sg:website":"www.geisinger.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85840619,
+        102191575,
+        404485871,
         85633793,
         101718145,
         102081369,
-        85840619
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,9 +48,10 @@
     "wof:geomhash":"bd6a57ab61b3cd428e43ba01a2cdf4ee",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081369,
+            "localadmin_id":404485871,
             "locality_id":101718145,
             "neighbourhood_id":85840619,
             "region_id":85688481,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":387877629,
-    "wof:lastmodified":1449058788,
+    "wof:lastmodified":1454360880,
     "wof:name":"Rozick Mark MD",
     "wof:parent_id":85840619,
     "wof:placetype":"venue",
@@ -68,6 +72,11 @@
         "family"
     ]
 },
-  "bbox": [-77.764603,40.913601,-77.764603,40.913601],
-  "geometry": {"coordinates":[-77.764603,40.913601],"type":"Point"}
+  "bbox": [
+    -77.764603,
+    40.913601,
+    -77.764603,
+    40.913601
+],
+  "geometry": {"coordinates":[-77.76460299999999,40.913601],"type":"Point"}
 }

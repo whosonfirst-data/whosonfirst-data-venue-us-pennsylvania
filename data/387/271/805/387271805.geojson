@@ -2,13 +2,14 @@
   "id": 387271805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.782544,40.541977,-79.782544,40.541977",
     "geom:latitude":40.541977,
     "geom:longitude":-79.782544,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"352 Murtland St",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85839857,
+        102191575,
+        404484317,
         85633793,
         101718751,
         102080887,
-        85839857
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"6834052e9e257b01c47f9724f3c86cae",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484317,
             "locality_id":101718751,
             "neighbourhood_id":85839857,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387271805,
-    "wof:lastmodified":1449058099,
+    "wof:lastmodified":1454360680,
     "wof:name":"John R Palovcak",
     "wof:parent_id":85839857,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-79.782544,40.541977,-79.782544,40.541977],
+  "bbox": [
+    -79.782544,
+    40.541977,
+    -79.782544,
+    40.541977
+],
   "geometry": {"coordinates":[-79.782544,40.541977],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404158895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.420303,40.703499,-75.420303,40.703499",
     "geom:latitude":40.703499,
     "geom:longitude":-75.420303,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5958 Nor Bath Blvd",
     "sg:city":"Bath",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081395,
-        85830333
+        85830333,
+        102081395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"b78a2e1714f6a0b99e95e7f2c40027b0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081395,
-            "locality_id":-1,
             "neighbourhood_id":85830333,
             "region_id":85688481,
             "venue_id":404158895
         }
     ],
     "wof:id":404158895,
-    "wof:lastmodified":1449039932,
+    "wof:lastmodified":1454356899,
     "wof:name":"Pizza Village III",
     "wof:parent_id":85830333,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "pizza"
     ]
 },
-  "bbox": [-75.420303,40.703499,-75.420303,40.703499],
+  "bbox": [
+    -75.420303,
+    40.703499,
+    -75.420303,
+    40.703499
+],
   "geometry": {"coordinates":[-75.420303,40.703499],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387432989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.942306,40.496723,-79.942306,40.496723",
     "geom:latitude":40.496723,
     "geom:longitude":-79.942306,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"54 Freeport St",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -42,10 +43,13 @@
     "sg:website":"http://www.coopertire.com/html/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536351,
+        102191575,
+        404484899,
         85633793,
         101718687,
-        102080887
+        102080887,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,19 +59,20 @@
     "wof:geomhash":"83f143f97c5720501abb8bdba3ae9700",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484899,
             "locality_id":101718687,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420536351,
             "region_id":85688481,
             "venue_id":387432989
         }
     ],
     "wof:id":387432989,
-    "wof:lastmodified":1449056046,
+    "wof:lastmodified":1454358040,
     "wof:name":"Gene Fink's Pennzoil",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536351,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -79,6 +84,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-79.942306,40.496723,-79.942306,40.496723],
+  "bbox": [
+    -79.942306,
+    40.496723,
+    -79.942306,
+    40.496723
+],
   "geometry": {"coordinates":[-79.942306,40.496723],"type":"Point"}
 }

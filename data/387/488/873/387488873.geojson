@@ -2,13 +2,14 @@
   "id": 387488873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.977722,40.316081,-79.977722,40.316081",
     "geom:latitude":40.316081,
     "geom:longitude":-79.977722,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1216 Cochrans Mill Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85808185,
+        102191575,
+        404484315,
         85633793,
-        101718663,
+        101720491,
         102080887,
-        85808185
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +51,18 @@
     "wof:geomhash":"aed7f8305d32c9a056df2811264001bf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":101718663,
+            "localadmin_id":404484315,
+            "locality_id":101720491,
             "neighbourhood_id":85808185,
             "region_id":85688481,
             "venue_id":387488873
         }
     ],
     "wof:id":387488873,
-    "wof:lastmodified":1449059822,
+    "wof:lastmodified":1454361202,
     "wof:name":"Del Greco's Pizzeria",
     "wof:parent_id":85808185,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "italian"
     ]
 },
-  "bbox": [-79.977722,40.316081,-79.977722,40.316081],
+  "bbox": [
+    -79.977722,
+    40.316081,
+    -79.977722,
+    40.316081
+],
   "geometry": {"coordinates":[-79.977722,40.316081],"type":"Point"}
 }

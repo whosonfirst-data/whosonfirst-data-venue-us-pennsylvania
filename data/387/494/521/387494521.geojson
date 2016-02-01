@@ -2,13 +2,14 @@
   "id": 387494521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.036263,40.537579,-80.036263,40.537579",
     "geom:latitude":40.537579,
     "geom:longitude":-80.036263,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"968 Perry Hwy",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85841395
+        85841395,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"41af9748666bb78359092735f98356fd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85841395,
             "region_id":85688481,
             "venue_id":387494521
         }
     ],
     "wof:id":387494521,
-    "wof:lastmodified":1449059499,
+    "wof:lastmodified":1454361100,
     "wof:name":"Phsi",
     "wof:parent_id":85841395,
     "wof:placetype":"venue",
@@ -66,6 +65,11 @@
         "consultant"
     ]
 },
-  "bbox": [-80.036263,40.537579,-80.036263,40.537579],
-  "geometry": {"coordinates":[-80.036263,40.537579],"type":"Point"}
+  "bbox": [
+    -80.036263,
+    40.537579,
+    -80.036263,
+    40.537579
+],
+  "geometry": {"coordinates":[-80.03626300000001,40.537579],"type":"Point"}
 }

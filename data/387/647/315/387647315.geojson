@@ -2,13 +2,14 @@
   "id": 387647315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.670128,40.334332,-79.670128,40.334332",
     "geom:latitude":40.334332,
     "geom:longitude":-79.670128,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"45 Race St",
     "sg:city":"Manor",
     "sg:classifiers":[
@@ -27,8 +28,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081383,
-        85841171
+        85841171,
+        102081383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +39,15 @@
     "wof:geomhash":"5018e1d67515eef2148f7737f36455a1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":-1,
             "neighbourhood_id":85841171,
             "region_id":85688481,
             "venue_id":387647315
         }
     ],
     "wof:id":387647315,
-    "wof:lastmodified":1449057905,
+    "wof:lastmodified":1454360630,
     "wof:name":"Manor Tax Office",
     "wof:parent_id":85841171,
     "wof:placetype":"venue",
@@ -56,6 +55,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.670128,40.334332,-79.670128,40.334332],
-  "geometry": {"coordinates":[-79.670128,40.334332],"type":"Point"}
+  "bbox": [
+    -79.670128,
+    40.334332,
+    -79.670128,
+    40.334332
+],
+  "geometry": {"coordinates":[-79.67012800000001,40.334332],"type":"Point"}
 }

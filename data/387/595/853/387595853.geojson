@@ -2,13 +2,14 @@
   "id": 387595853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.865791,39.974411,-79.865791,39.974411",
     "geom:latitude":39.974411,
     "geom:longitude":-79.865791,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"460 Twin Hills Rd",
     "sg:city":"Grindstone",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080959,
-        85868877
+        85868877,
+        102080959
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"0ea0a670198d094de0d7bc31196768a8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080959,
-            "locality_id":-1,
             "neighbourhood_id":85868877,
             "region_id":85688481,
             "venue_id":387595853
         }
     ],
     "wof:id":387595853,
-    "wof:lastmodified":1449059548,
+    "wof:lastmodified":1454361112,
     "wof:name":"Brian King",
     "wof:parent_id":85868877,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "mason"
     ]
 },
-  "bbox": [-79.865791,39.974411,-79.865791,39.974411],
+  "bbox": [
+    -79.865791,
+    39.974411,
+    -79.865791,
+    39.974411
+],
   "geometry": {"coordinates":[-79.865791,39.974411],"type":"Point"}
 }

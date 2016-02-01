@@ -2,13 +2,14 @@
   "id": 387493075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.051324,40.549285,-80.051324,40.549285",
     "geom:latitude":40.549285,
     "geom:longitude":-80.051324,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"120 Point Vue Dr",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85825003
+        85825003,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"4333355294da28cf7387f20ce6323ec9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85825003,
             "region_id":85688481,
             "venue_id":387493075
         }
     ],
     "wof:id":387493075,
-    "wof:lastmodified":1449057305,
+    "wof:lastmodified":1454359004,
     "wof:name":"Dr Helsel P Marsh",
     "wof:parent_id":85825003,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-80.051324,40.549285,-80.051324,40.549285],
-  "geometry": {"coordinates":[-80.051324,40.549285],"type":"Point"}
+  "bbox": [
+    -80.051324,
+    40.549285,
+    -80.051324,
+    40.549285
+],
+  "geometry": {"coordinates":[-80.05132399999999,40.549285],"type":"Point"}
 }

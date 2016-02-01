@@ -2,13 +2,14 @@
   "id": 387148305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.861484,40.625423,-79.861484,40.625423",
     "geom:latitude":40.625423,
     "geom:longitude":-79.861484,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2056 Saxonburg Blvd",
     "sg:city":"Gibsonia",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85831915,
+        102191575,
+        404484337,
         85633793,
+        101720513,
         102080887,
-        85831915
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +44,18 @@
     "wof:geomhash":"983a974456f90623c95786886cb547c3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
+            "localadmin_id":404484337,
+            "locality_id":101720513,
             "neighbourhood_id":85831915,
             "region_id":85688481,
             "venue_id":387148305
         }
     ],
     "wof:id":387148305,
-    "wof:lastmodified":1449059331,
+    "wof:lastmodified":1454361043,
     "wof:name":"Sisters Corner Shoppe",
     "wof:parent_id":85831915,
     "wof:placetype":"venue",
@@ -60,6 +65,11 @@
         "pizza"
     ]
 },
-  "bbox": [-79.861484,40.625423,-79.861484,40.625423],
+  "bbox": [
+    -79.861484,
+    40.625423,
+    -79.861484,
+    40.625423
+],
   "geometry": {"coordinates":[-79.861484,40.625423],"type":"Point"}
 }

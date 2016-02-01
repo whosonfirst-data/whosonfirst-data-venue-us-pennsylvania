@@ -2,13 +2,14 @@
   "id": 403757185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.994976,40.178404,-76.994976,40.178404",
     "geom:latitude":40.178404,
     "geom:longitude":-76.994976,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"317 E Meadow Dr",
     "sg:city":"Mechanicsburg",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081359,
-        85825925
+        85825925,
+        102081359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"01c385db7d2037fbf0a21240021f9e49",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081359,
-            "locality_id":-1,
             "neighbourhood_id":85825925,
             "region_id":85688481,
             "venue_id":403757185
         }
     ],
     "wof:id":403757185,
-    "wof:lastmodified":1449055381,
+    "wof:lastmodified":1454357640,
     "wof:name":"Gerald P Minnich",
     "wof:parent_id":85825925,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "apartment"
     ]
 },
-  "bbox": [-76.994976,40.178404,-76.994976,40.178404],
-  "geometry": {"coordinates":[-76.994976,40.178404],"type":"Point"}
+  "bbox": [
+    -76.994976,
+    40.178404,
+    -76.994976,
+    40.178404
+],
+  "geometry": {"coordinates":[-76.99497599999999,40.178404],"type":"Point"}
 }

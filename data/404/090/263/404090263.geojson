@@ -2,13 +2,14 @@
   "id": 404090263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.311893,40.051823,-76.311893,40.051823",
     "geom:latitude":40.051823,
     "geom:longitude":-76.311893,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"202 W Liberty St",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85821747,
+        102191575,
+        404487183,
         85633793,
+        101718643,
         102081377,
-        85821747
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +44,18 @@
     "wof:geomhash":"d7c0689cc70bed9b9b5936d63dc18070",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
+            "localadmin_id":404487183,
+            "locality_id":101718643,
             "neighbourhood_id":85821747,
             "region_id":85688481,
             "venue_id":404090263
         }
     ],
     "wof:id":404090263,
-    "wof:lastmodified":1449040044,
+    "wof:lastmodified":1454356975,
     "wof:name":"Nytyme Enterprises Inc",
     "wof:parent_id":85821747,
     "wof:placetype":"venue",
@@ -60,6 +65,11 @@
         "inspection"
     ]
 },
-  "bbox": [-76.311893,40.051823,-76.311893,40.051823],
+  "bbox": [
+    -76.311893,
+    40.051823,
+    -76.311893,
+    40.051823
+],
   "geometry": {"coordinates":[-76.311893,40.051823],"type":"Point"}
 }

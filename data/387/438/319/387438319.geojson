@@ -2,13 +2,14 @@
   "id": 387438319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.963866,40.392799,-79.963866,40.392799",
     "geom:latitude":40.392799,
     "geom:longitude":-79.963866,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1132 Edward Dr",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -38,11 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85824379,
+        102191575,
+        404484861,
         85633793,
         101718815,
         102080887,
-        85824379
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,9 +55,10 @@
     "wof:geomhash":"16e1c6f5803dff2d4cdac7d594fe4c5b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484861,
             "locality_id":101718815,
             "neighbourhood_id":85824379,
             "region_id":85688481,
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":387438319,
-    "wof:lastmodified":1449057386,
+    "wof:lastmodified":1454359081,
     "wof:name":"Shiloh Village Dairy",
     "wof:parent_id":85824379,
     "wof:placetype":"venue",
@@ -73,6 +77,11 @@
         "grocers-specialty"
     ]
 },
-  "bbox": [-79.963866,40.392799,-79.963866,40.392799],
+  "bbox": [
+    -79.963866,
+    40.392799,
+    -79.963866,
+    40.392799
+],
   "geometry": {"coordinates":[-79.963866,40.392799],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387240865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.222878,40.506351,-80.222878,40.506351",
     "geom:latitude":40.506351,
     "geom:longitude":-80.222878,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"107 Patton Dr 300",
     "sg:city":"Coraopolis",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85809567,
+        102191575,
+        404484137,
         85633793,
         101720527,
         102080887,
-        85809567
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"b3567bd060feb172a2df1d30191d93cd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484137,
             "locality_id":101720527,
             "neighbourhood_id":85809567,
             "region_id":85688481,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":387240865,
-    "wof:lastmodified":1449056506,
+    "wof:lastmodified":1454358402,
     "wof:name":"William I & Patricia S Snyder Foundation",
     "wof:parent_id":85809567,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "research"
     ]
 },
-  "bbox": [-80.222878,40.506351,-80.222878,40.506351],
-  "geometry": {"coordinates":[-80.222878,40.506351],"type":"Point"}
+  "bbox": [
+    -80.222878,
+    40.506351,
+    -80.222878,
+    40.506351
+],
+  "geometry": {"coordinates":[-80.22287799999999,40.506351],"type":"Point"}
 }

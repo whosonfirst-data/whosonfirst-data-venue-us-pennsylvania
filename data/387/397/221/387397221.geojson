@@ -2,13 +2,14 @@
   "id": 387397221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.847945,40.415509,-79.847945,40.415509",
     "geom:latitude":40.415509,
     "geom:longitude":-79.847945,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"23 Yost Blvd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -72,10 +73,13 @@
     "sg:website":"http://www.riteaid.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536333,
+        102191575,
+        404484859,
         85633793,
-        101718685,
-        102080887
+        101718785,
+        102080887,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,19 +89,20 @@
     "wof:geomhash":"ea5e08ed6805f1e3ccecb1a6eaea4d87",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":101718685,
-            "neighbourhood_id":-1,
+            "localadmin_id":404484859,
+            "locality_id":101718785,
+            "neighbourhood_id":420536333,
             "region_id":85688481,
             "venue_id":387397221
         }
     ],
     "wof:id":387397221,
-    "wof:lastmodified":1449057626,
+    "wof:lastmodified":1454360534,
     "wof:name":"Rite Aid",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536333,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -119,6 +124,11 @@
         "greeting"
     ]
 },
-  "bbox": [-79.847945,40.415509,-79.847945,40.415509],
+  "bbox": [
+    -79.847945,
+    40.415509,
+    -79.847945,
+    40.415509
+],
   "geometry": {"coordinates":[-79.847945,40.415509],"type":"Point"}
 }

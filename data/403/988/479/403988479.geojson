@@ -2,13 +2,14 @@
   "id": 403988479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.967669,39.758419,-76.967669,39.758419",
     "geom:latitude":39.758419,
     "geom:longitude":-76.967669,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1034 Bear Xing",
     "sg:city":"Hanover",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080953,
-        85843817
+        85843817,
+        102080953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"9b471bc928601d9dafbe8dac2254abe0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
             "neighbourhood_id":85843817,
             "region_id":85688481,
             "venue_id":403988479
         }
     ],
     "wof:id":403988479,
-    "wof:lastmodified":1449055086,
+    "wof:lastmodified":1454357461,
     "wof:name":"Dr Cl Roark",
     "wof:parent_id":85843817,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-76.967669,39.758419,-76.967669,39.758419],
+  "bbox": [
+    -76.967669,
+    39.758419,
+    -76.967669,
+    39.758419
+],
   "geometry": {"coordinates":[-76.967669,39.758419],"type":"Point"}
 }

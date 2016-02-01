@@ -2,13 +2,14 @@
   "id": 387542921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.225481,40.136334,-80.225481,40.136334",
     "geom:latitude":40.136334,
     "geom:longitude":-80.225481,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"89 Craft Rd",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -38,8 +39,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081343,
-        85820871
+        85820871,
+        102081343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +50,15 @@
     "wof:geomhash":"9cc8718fd72cf00a943c5bf82ec43556",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081343,
-            "locality_id":-1,
             "neighbourhood_id":85820871,
             "region_id":85688481,
             "venue_id":387542921
         }
     ],
     "wof:id":387542921,
-    "wof:lastmodified":1449059059,
+    "wof:lastmodified":1454360971,
     "wof:name":"Amenican Nabonal Insurance Ame",
     "wof:parent_id":85820871,
     "wof:placetype":"venue",
@@ -73,6 +72,11 @@
         "bond"
     ]
 },
-  "bbox": [-80.225481,40.136334,-80.225481,40.136334],
+  "bbox": [
+    -80.225481,
+    40.136334,
+    -80.225481,
+    40.136334
+],
   "geometry": {"coordinates":[-80.225481,40.136334],"type":"Point"}
 }

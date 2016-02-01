@@ -2,13 +2,14 @@
   "id": 387627953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.734415,40.35624,-79.734415,40.35624",
     "geom:latitude":40.35624,
     "geom:longitude":-79.734415,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3020 Annette St",
     "sg:city":"Ardara",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081383,
-        85804559
+        85804559,
+        102081383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"cb72bb2a2576eb2a6518af20aa3756db",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":-1,
             "neighbourhood_id":85804559,
             "region_id":85688481,
             "venue_id":387627953
         }
     ],
     "wof:id":387627953,
-    "wof:lastmodified":1449060002,
+    "wof:lastmodified":1454361257,
     "wof:name":"Joe Webber Concrete",
     "wof:parent_id":85804559,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.734415,40.35624,-79.734415,40.35624],
+  "bbox": [
+    -79.734415,
+    40.35624,
+    -79.734415,
+    40.35624
+],
   "geometry": {"coordinates":[-79.734415,40.35624],"type":"Point"}
 }

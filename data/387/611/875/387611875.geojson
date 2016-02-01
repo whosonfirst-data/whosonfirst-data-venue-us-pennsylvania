@@ -2,13 +2,14 @@
   "id": 387611875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.339244,40.051818,-78.339244,40.051818",
     "geom:latitude":40.051818,
     "geom:longitude":-78.339244,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1330 Bunker Hill Rd",
     "sg:city":"Everett",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85815813,
+        102191575,
+        404484499,
         85633793,
         101716769,
         102080939,
-        85815813
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"73cb24c58d5daa1ddc3c8565d9b2b36d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080939,
+            "localadmin_id":404484499,
             "locality_id":101716769,
             "neighbourhood_id":85815813,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387611875,
-    "wof:lastmodified":1449059108,
+    "wof:lastmodified":1454360985,
     "wof:name":"White Historic Art",
     "wof:parent_id":85815813,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "bureau"
     ]
 },
-  "bbox": [-78.339244,40.051818,-78.339244,40.051818],
-  "geometry": {"coordinates":[-78.339244,40.051818],"type":"Point"}
+  "bbox": [
+    -78.339244,
+    40.051818,
+    -78.339244,
+    40.051818
+],
+  "geometry": {"coordinates":[-78.33924399999999,40.051818],"type":"Point"}
 }

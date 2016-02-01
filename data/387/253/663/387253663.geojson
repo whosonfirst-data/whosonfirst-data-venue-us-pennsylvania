@@ -2,13 +2,14 @@
   "id": 387253663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.838779,40.334983,-79.838779,40.334983",
     "geom:latitude":40.334983,
     "geom:longitude":-79.838779,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3212 Orchard St",
     "sg:city":"Mckeesport",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85845081,
+        102191575,
+        404484971,
         85633793,
         101718847,
         102080887,
-        85845081
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"5d1eea392f2c27d0997a8c6743d0fc9c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484971,
             "locality_id":101718847,
             "neighbourhood_id":85845081,
             "region_id":85688481,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":387253663,
-    "wof:lastmodified":1449059449,
+    "wof:lastmodified":1454361083,
     "wof:name":"Mid Coast Designs",
     "wof:parent_id":85845081,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "embroidery"
     ]
 },
-  "bbox": [-79.838779,40.334983,-79.838779,40.334983],
+  "bbox": [
+    -79.838779,
+    40.334983,
+    -79.838779,
+    40.334983
+],
   "geometry": {"coordinates":[-79.838779,40.334983],"type":"Point"}
 }

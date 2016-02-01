@@ -2,13 +2,14 @@
   "id": 403903133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.811501,40.345799,-76.811501,40.345799",
     "geom:latitude":40.345799,
     "geom:longitude":-76.811501,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1605 Parkway W",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -37,8 +38,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85819927
+        85819927,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +49,15 @@
     "wof:geomhash":"27d6bd0e12c0426b6dfd6dedc79a538c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85819927,
             "region_id":85688481,
             "venue_id":403903133
         }
     ],
     "wof:id":403903133,
-    "wof:lastmodified":1449054706,
+    "wof:lastmodified":1454357231,
     "wof:name":"Harrisburg Bethany Ch Nazarene",
     "wof:parent_id":85819927,
     "wof:placetype":"venue",
@@ -70,6 +69,11 @@
         "churches-nazarene"
     ]
 },
-  "bbox": [-76.811501,40.345799,-76.811501,40.345799],
-  "geometry": {"coordinates":[-76.811501,40.345799],"type":"Point"}
+  "bbox": [
+    -76.811501,
+    40.345799,
+    -76.811501,
+    40.345799
+],
+  "geometry": {"coordinates":[-76.81150100000001,40.345799],"type":"Point"}
 }

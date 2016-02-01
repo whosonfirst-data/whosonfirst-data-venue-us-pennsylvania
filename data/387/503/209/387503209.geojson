@@ -2,13 +2,14 @@
   "id": 387503209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.099274,40.519151,-80.099274,40.519151",
     "geom:latitude":40.519151,
     "geom:longitude":-80.099274,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"137 Hivue Ln",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85814623
+        85814623,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"8d543c131bbd78657e323eecf2a2189b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85814623,
             "region_id":85688481,
             "venue_id":387503209
         }
     ],
     "wof:id":387503209,
-    "wof:lastmodified":1449059931,
+    "wof:lastmodified":1454361236,
     "wof:name":"Drummond Brothers Plumbing Inc",
     "wof:parent_id":85814623,
     "wof:placetype":"venue",
@@ -64,6 +63,11 @@
         "contractors-commercial"
     ]
 },
-  "bbox": [-80.099274,40.519151,-80.099274,40.519151],
-  "geometry": {"coordinates":[-80.099274,40.519151],"type":"Point"}
+  "bbox": [
+    -80.099274,
+    40.519151,
+    -80.099274,
+    40.519151
+],
+  "geometry": {"coordinates":[-80.09927399999999,40.519151],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387255395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.848624,40.347299,-79.848624,40.347299",
     "geom:latitude":40.347299,
     "geom:longitude":-79.848624,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1015 Soles St",
     "sg:city":"Mckeesport",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85845081,
+        102191575,
+        404484971,
         85633793,
         101718847,
         102080887,
-        85845081
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"e20ce79b2b1967e1c874c3d8e88c7d6c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484971,
             "locality_id":101718847,
             "neighbourhood_id":85845081,
             "region_id":85688481,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":387255395,
-    "wof:lastmodified":1449057833,
+    "wof:lastmodified":1454360609,
     "wof:name":"Cleaner Solutions",
     "wof:parent_id":85845081,
     "wof:placetype":"venue",
@@ -68,6 +72,11 @@
         "house"
     ]
 },
-  "bbox": [-79.848624,40.347299,-79.848624,40.347299],
+  "bbox": [
+    -79.848624,
+    40.347299,
+    -79.848624,
+    40.347299
+],
   "geometry": {"coordinates":[-79.848624,40.347299],"type":"Point"}
 }

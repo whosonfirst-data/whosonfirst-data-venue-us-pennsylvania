@@ -2,13 +2,14 @@
   "id": 404094953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.308318,40.040912,-76.308318,40.040912",
     "geom:latitude":40.040912,
     "geom:longitude":-76.308318,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"202 N Prince St",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85858805
+        85858805,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"013461060af2910182ee67629f0173d8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85858805,
             "region_id":85688481,
             "venue_id":404094953
         }
     ],
     "wof:id":404094953,
-    "wof:lastmodified":1449039869,
+    "wof:lastmodified":1454356855,
     "wof:name":"Educators Health Partners",
     "wof:parent_id":85858805,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "business"
     ]
 },
-  "bbox": [-76.308318,40.040912,-76.308318,40.040912],
+  "bbox": [
+    -76.308318,
+    40.040912,
+    -76.308318,
+    40.040912
+],
   "geometry": {"coordinates":[-76.308318,40.040912],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387290451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.155403,40.447498,-80.155403,40.447498",
     "geom:latitude":40.447498,
     "geom:longitude":-80.155403,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"810 Vista Park Dr",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85821263
+        85821263,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"09fa3c11cca992d2301d0f49c989b6ac",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85821263,
             "region_id":85688481,
             "venue_id":387290451
         }
     ],
     "wof:id":387290451,
-    "wof:lastmodified":1449057741,
+    "wof:lastmodified":1454360579,
     "wof:name":"Richards S P",
     "wof:parent_id":85821263,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "equipment"
     ]
 },
-  "bbox": [-80.155403,40.447498,-80.155403,40.447498],
-  "geometry": {"coordinates":[-80.155403,40.447498],"type":"Point"}
+  "bbox": [
+    -80.155403,
+    40.447498,
+    -80.155403,
+    40.447498
+],
+  "geometry": {"coordinates":[-80.15540300000001,40.447498],"type":"Point"}
 }

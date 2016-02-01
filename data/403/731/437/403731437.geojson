@@ -2,13 +2,14 @@
   "id": 403731437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.423519,40.340688,-76.423519,40.340688",
     "geom:latitude":40.340688,
     "geom:longitude":-76.423519,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"752 Willow St",
     "sg:city":"Lebanon",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85842249,
+        102191575,
+        404485699,
         85633793,
         101717093,
         102081341,
-        85842249
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"9dffbc3541ddfe3825c91f0db2691d2c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081341,
+            "localadmin_id":404485699,
             "locality_id":101717093,
             "neighbourhood_id":85842249,
             "region_id":85688481,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":403731437,
-    "wof:lastmodified":1449055820,
+    "wof:lastmodified":1454357891,
     "wof:name":"The Shae Foundation",
     "wof:parent_id":85842249,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "volunteer"
     ]
 },
-  "bbox": [-76.423519,40.340688,-76.423519,40.340688],
+  "bbox": [
+    -76.423519,
+    40.340688,
+    -76.423519,
+    40.340688
+],
   "geometry": {"coordinates":[-76.423519,40.340688],"type":"Point"}
 }

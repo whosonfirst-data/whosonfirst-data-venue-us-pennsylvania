@@ -2,13 +2,14 @@
   "id": 370322315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.980628,39.71981,-75.980628,39.71981",
     "geom:latitude":39.71981,
     "geom:longitude":-75.980628,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"560 Chrome Rd",
     "sg:city":"Rising Sun",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081275,
-        85810983
+        85810983,
+        102081275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"5f28f3c193c93eb4decf59c96cbaf58d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081275,
-            "locality_id":-1,
             "neighbourhood_id":85810983,
             "region_id":85688481,
             "venue_id":370322315
         }
     ],
     "wof:id":370322315,
-    "wof:lastmodified":1449029032,
+    "wof:lastmodified":1454356389,
     "wof:name":"State Line Baptist Church",
     "wof:parent_id":85810983,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "church"
     ]
 },
-  "bbox": [-75.980628,39.71981,-75.980628,39.71981],
+  "bbox": [
+    -75.980628,
+    39.71981,
+    -75.980628,
+    39.71981
+],
   "geometry": {"coordinates":[-75.980628,39.71981],"type":"Point"}
 }

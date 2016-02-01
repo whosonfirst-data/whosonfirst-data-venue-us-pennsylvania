@@ -2,13 +2,14 @@
   "id": 387446521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.043998,40.385706,-80.043998,40.385706",
     "geom:latitude":40.385706,
     "geom:longitude":-80.043998,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"439 Washington Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -34,7 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420536353,
+        102191575,
+        404484881,
         85633793,
+        101718733,
+        102080887,
         85688481
     ],
     "wof:breaches":[],
@@ -45,18 +51,20 @@
     "wof:geomhash":"d149a67bb0ff1d97f0f215e207619c3d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102080887,
+            "localadmin_id":404484881,
+            "locality_id":101718733,
+            "neighbourhood_id":420536353,
             "region_id":85688481,
             "venue_id":387446521
         }
     ],
     "wof:id":387446521,
-    "wof:lastmodified":1449059592,
+    "wof:lastmodified":1454361131,
     "wof:name":"Dyke Auto Parts, Inc.",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536353,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -66,6 +74,11 @@
         "accessory"
     ]
 },
-  "bbox": [-80.043998,40.385706,-80.043998,40.385706],
+  "bbox": [
+    -80.043998,
+    40.385706,
+    -80.043998,
+    40.385706
+],
   "geometry": {"coordinates":[-80.043998,40.385706],"type":"Point"}
 }

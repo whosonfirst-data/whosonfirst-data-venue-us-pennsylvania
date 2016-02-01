@@ -2,13 +2,14 @@
   "id": 387849865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.415233,40.491813,-78.415233,40.491813",
     "geom:latitude":40.491813,
     "geom:longitude":-78.415233,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3366 Lynwood Dr",
     "sg:city":"Altoona",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"http://www.andrewsbeard.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85849385,
+        102191575,
+        404484619,
         85633793,
         101716595,
         102081325,
-        85849385
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"d8058d1f89efef7da69ff4297712707b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081325,
+            "localadmin_id":404484619,
             "locality_id":101716595,
             "neighbourhood_id":85849385,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387849865,
-    "wof:lastmodified":1449056801,
+    "wof:lastmodified":1454358621,
     "wof:name":"Andrews Beard Law Offices",
     "wof:parent_id":85849385,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "practice"
     ]
 },
-  "bbox": [-78.415233,40.491813,-78.415233,40.491813],
+  "bbox": [
+    -78.415233,
+    40.491813,
+    -78.415233,
+    40.491813
+],
   "geometry": {"coordinates":[-78.415233,40.491813],"type":"Point"}
 }

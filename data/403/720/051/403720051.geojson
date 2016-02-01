@@ -2,13 +2,14 @@
   "id": 403720051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.420356,40.333229,-76.420356,40.333229",
     "geom:latitude":40.333229,
     "geom:longitude":-76.420356,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"439 S 6th St",
     "sg:city":"Lebanon",
     "sg:classifiers":[],
@@ -18,11 +19,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85842249,
+        102191575,
+        404485699,
         85633793,
         101717093,
         102081341,
-        85842249
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -32,9 +35,10 @@
     "wof:geomhash":"279f84fc338035bdc50ab6efce0f9bf4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081341,
+            "localadmin_id":404485699,
             "locality_id":101717093,
             "neighbourhood_id":85842249,
             "region_id":85688481,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":403720051,
-    "wof:lastmodified":1449054960,
+    "wof:lastmodified":1454357386,
     "wof:name":"Lebanon Rescue Mission",
     "wof:parent_id":85842249,
     "wof:placetype":"venue",
@@ -50,6 +54,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.420356,40.333229,-76.420356,40.333229],
+  "bbox": [
+    -76.420356,
+    40.333229,
+    -76.420356,
+    40.333229
+],
   "geometry": {"coordinates":[-76.420356,40.333229],"type":"Point"}
 }

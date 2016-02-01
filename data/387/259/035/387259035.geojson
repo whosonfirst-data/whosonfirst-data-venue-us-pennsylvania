@@ -2,13 +2,14 @@
   "id": 387259035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.0737,40.463799,-80.0737,40.463799",
     "geom:latitude":40.463799,
     "geom:longitude":-80.0737,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2 Singer Ave",
     "sg:city":"Mc Kees Rocks",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85810503,
+        102191575,
+        404482511,
         85633793,
-        101718805,
+        101718845,
         102080887,
-        85810503
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +41,18 @@
     "wof:geomhash":"acf4aeeaad3d26b8df3629efd87403b5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":101718805,
+            "localadmin_id":404482511,
+            "locality_id":101718845,
             "neighbourhood_id":85810503,
             "region_id":85688481,
             "venue_id":387259035
         }
     ],
     "wof:id":387259035,
-    "wof:lastmodified":1449056977,
+    "wof:lastmodified":1454358740,
     "wof:name":"Traveling Lube and Care Mobile Maintenance",
     "wof:parent_id":85810503,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.0737,40.463799,-80.0737,40.463799],
+  "bbox": [
+    -80.0737,
+    40.463799,
+    -80.0737,
+    40.463799
+],
   "geometry": {"coordinates":[-80.0737,40.463799],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403871487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.82267,40.282878,-76.82267,40.282878",
     "geom:latitude":40.282878,
     "geom:longitude":-76.82267,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"830 SIR Thomas Ct Ste 200",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -37,8 +38,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85829485
+        85829485,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +49,15 @@
     "wof:geomhash":"c5061dd1b73b5650f4450eed01133223",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85829485,
             "region_id":85688481,
             "venue_id":403871487
         }
     ],
     "wof:id":403871487,
-    "wof:lastmodified":1449055059,
+    "wof:lastmodified":1454357446,
     "wof:name":"2K Networking Inc",
     "wof:parent_id":85829485,
     "wof:placetype":"venue",
@@ -70,6 +69,11 @@
         "web"
     ]
 },
-  "bbox": [-76.82267,40.282878,-76.82267,40.282878],
+  "bbox": [
+    -76.82267,
+    40.282878,
+    -76.82267,
+    40.282878
+],
   "geometry": {"coordinates":[-76.82267,40.282878],"type":"Point"}
 }

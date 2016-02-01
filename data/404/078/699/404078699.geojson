@@ -2,13 +2,14 @@
   "id": 404078699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.387958,40.077166,-76.387958,40.077166",
     "geom:latitude":40.077166,
     "geom:longitude":-76.387958,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1108 Centerville Rd",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85810207
+        85810207,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"dee81308745812915173cf51325514de",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85810207,
             "region_id":85688481,
             "venue_id":404078699
         }
     ],
     "wof:id":404078699,
-    "wof:lastmodified":1449040128,
+    "wof:lastmodified":1454357024,
     "wof:name":"Mon Pere",
     "wof:parent_id":85810207,
     "wof:placetype":"venue",
@@ -65,6 +64,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.387958,40.077166,-76.387958,40.077166],
+  "bbox": [
+    -76.387958,
+    40.077166,
+    -76.387958,
+    40.077166
+],
   "geometry": {"coordinates":[-76.387958,40.077166],"type":"Point"}
 }

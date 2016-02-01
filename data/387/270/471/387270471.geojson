@@ -2,13 +2,14 @@
   "id": 387270471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.103683,40.611602,-80.103683,40.611602",
     "geom:latitude":40.611602,
     "geom:longitude":-80.103683,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2591 Wexford Bayne Rd Ste 206",
     "sg:city":"Sewickley",
     "sg:classifiers":[
@@ -31,11 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85815367,
+        102191575,
+        404484933,
         85633793,
         101718681,
         102080887,
-        85815367
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,9 +48,10 @@
     "wof:geomhash":"d509b9a138db525148296cc1fc03f1a5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484933,
             "locality_id":101718681,
             "neighbourhood_id":85815367,
             "region_id":85688481,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":387270471,
-    "wof:lastmodified":1449056778,
+    "wof:lastmodified":1454358601,
     "wof:name":"Sarah B Shinn & Assoc",
     "wof:parent_id":85815367,
     "wof:placetype":"venue",
@@ -69,6 +73,11 @@
         "surgeons"
     ]
 },
-  "bbox": [-80.103683,40.611602,-80.103683,40.611602],
+  "bbox": [
+    -80.103683,
+    40.611602,
+    -80.103683,
+    40.611602
+],
   "geometry": {"coordinates":[-80.103683,40.611602],"type":"Point"}
 }

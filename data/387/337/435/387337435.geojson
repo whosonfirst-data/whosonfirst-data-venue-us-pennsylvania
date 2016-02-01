@@ -2,13 +2,14 @@
   "id": 387337435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.919782,40.438082,-79.919782,40.438082",
     "geom:latitude":40.438082,
     "geom:longitude":-79.919782,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5887 Forbes Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85873579,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85873579
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"a8e1989b1f5216b89887f51005ce1c77",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85873579,
             "region_id":85688481,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":387337435,
-    "wof:lastmodified":1449057888,
+    "wof:lastmodified":1454360626,
     "wof:name":"Tamara Skirboll",
     "wof:parent_id":85873579,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.919782,40.438082,-79.919782,40.438082],
+  "bbox": [
+    -79.919782,
+    40.438082,
+    -79.919782,
+    40.438082
+],
   "geometry": {"coordinates":[-79.919782,40.438082],"type":"Point"}
 }

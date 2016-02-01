@@ -2,13 +2,14 @@
   "id": 387404261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.999517,40.444581,-79.999517,40.444581",
     "geom:latitude":40.444581,
     "geom:longitude":-79.999517,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"800 Fort Duquesne Blvd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     "sg:website":"www.geminicarcare.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85873585,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85873585
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"4b8d8e99852423556ac9b08eeb875336",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85873585,
             "region_id":85688481,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":387404261,
-    "wof:lastmodified":1449058636,
+    "wof:lastmodified":1454360835,
     "wof:name":"Goodyear Auto Service Centers",
     "wof:parent_id":85873585,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "tire"
     ]
 },
-  "bbox": [-79.999517,40.444581,-79.999517,40.444581],
+  "bbox": [
+    -79.999517,
+    40.444581,
+    -79.999517,
+    40.444581
+],
   "geometry": {"coordinates":[-79.999517,40.444581],"type":"Point"}
 }

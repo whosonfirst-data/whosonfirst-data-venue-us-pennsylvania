@@ -2,13 +2,14 @@
   "id": 387317469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.007776,40.458826,-80.007776,40.458826",
     "geom:latitude":40.458826,
     "geom:longitude":-80.007776,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1529 Federal St",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85873561,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85873561
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"ca7cb19ba7df822a6d6391a51d2e3e10",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85873561,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387317469,
-    "wof:lastmodified":1449057843,
+    "wof:lastmodified":1454360612,
     "wof:name":"Team Construction & Development Inc",
     "wof:parent_id":85873561,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.007776,40.458826,-80.007776,40.458826],
-  "geometry": {"coordinates":[-80.007776,40.458826],"type":"Point"}
+  "bbox": [
+    -80.007776,
+    40.458826,
+    -80.007776,
+    40.458826
+],
+  "geometry": {"coordinates":[-80.00777600000001,40.458826],"type":"Point"}
 }

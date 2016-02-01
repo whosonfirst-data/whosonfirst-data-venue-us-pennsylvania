@@ -2,13 +2,14 @@
   "id": 403736829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.961128,40.229152,-76.961128,40.229152",
     "geom:latitude":40.229152,
     "geom:longitude":-76.961128,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4705 E Trindle Rd",
     "sg:city":"Mechanicsburg",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081359,
-        85850501
+        85850501,
+        102081359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"4a16d7f0ad0ecaa43a31fb2f29adced2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081359,
-            "locality_id":-1,
             "neighbourhood_id":85850501,
             "region_id":85688481,
             "venue_id":403736829
         }
     ],
     "wof:id":403736829,
-    "wof:lastmodified":1449055935,
+    "wof:lastmodified":1454357960,
     "wof:name":"Heritage Settlement Services",
     "wof:parent_id":85850501,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "broker"
     ]
 },
-  "bbox": [-76.961128,40.229152,-76.961128,40.229152],
+  "bbox": [
+    -76.961128,
+    40.229152,
+    -76.961128,
+    40.229152
+],
   "geometry": {"coordinates":[-76.961128,40.229152],"type":"Point"}
 }

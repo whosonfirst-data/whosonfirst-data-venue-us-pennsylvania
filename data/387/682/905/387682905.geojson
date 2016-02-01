@@ -2,13 +2,14 @@
   "id": 387682905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.940804,40.308564,-78.940804,40.308564",
     "geom:latitude":40.308564,
     "geom:longitude":-78.940804,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"307 State St Ste 1",
     "sg:city":"Johnstown",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"http://www.catanesegroup.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85828219,
+        102191575,
+        404485493,
         85633793,
-        101717809,
+        101717777,
         102080879,
-        85828219
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"25f0a748849167fd744c638a7392aa6c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080879,
-            "locality_id":101717809,
+            "localadmin_id":404485493,
+            "locality_id":101717777,
             "neighbourhood_id":85828219,
             "region_id":85688481,
             "venue_id":387682905
         }
     ],
     "wof:id":387682905,
-    "wof:lastmodified":1449056762,
+    "wof:lastmodified":1454358591,
     "wof:name":"Catanese & Vulcan",
     "wof:parent_id":85828219,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "accountants-certified"
     ]
 },
-  "bbox": [-78.940804,40.308564,-78.940804,40.308564],
+  "bbox": [
+    -78.940804,
+    40.308564,
+    -78.940804,
+    40.308564
+],
   "geometry": {"coordinates":[-78.940804,40.308564],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404184649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.355989,40.656264,-75.355989,40.656264",
     "geom:latitude":40.656264,
     "geom:longitude":-75.355989,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2980 Linden St",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420539383,
+        102191575,
+        404485987,
         85633793,
         101717907,
-        102081395
+        102081395,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,20 @@
     "wof:geomhash":"7618411db1ec49ab3ba372f98e46d393",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081395,
+            "localadmin_id":404485987,
             "locality_id":101717907,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420539383,
             "region_id":85688481,
             "venue_id":404184649
         }
     ],
     "wof:id":404184649,
-    "wof:lastmodified":1449039237,
+    "wof:lastmodified":1454356533,
     "wof:name":"Lehigh Valley Accounting",
-    "wof:parent_id":-1,
+    "wof:parent_id":420539383,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -66,6 +71,11 @@
         "preparation-business"
     ]
 },
-  "bbox": [-75.355989,40.656264,-75.355989,40.656264],
-  "geometry": {"coordinates":[-75.355989,40.656264],"type":"Point"}
+  "bbox": [
+    -75.355989,
+    40.656264,
+    -75.355989,
+    40.656264
+],
+  "geometry": {"coordinates":[-75.35598899999999,40.656264],"type":"Point"}
 }

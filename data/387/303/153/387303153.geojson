@@ -2,13 +2,14 @@
   "id": 387303153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.899824,40.450848,-79.899824,40.450848",
     "geom:latitude":40.450848,
     "geom:longitude":-79.899824,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"7217 Thomas Blvd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85873571,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85873571
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"d4041e12270cce26444f8bc717e5ef21",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85873571,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387303153,
-    "wof:lastmodified":1449056156,
+    "wof:lastmodified":1454358124,
     "wof:name":"Third River Partners",
     "wof:parent_id":85873571,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "consultant"
     ]
 },
-  "bbox": [-79.899824,40.450848,-79.899824,40.450848],
+  "bbox": [
+    -79.899824,
+    40.450848,
+    -79.899824,
+    40.450848
+],
   "geometry": {"coordinates":[-79.899824,40.450848],"type":"Point"}
 }

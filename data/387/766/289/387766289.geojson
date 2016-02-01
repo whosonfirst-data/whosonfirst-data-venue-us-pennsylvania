@@ -2,13 +2,14 @@
   "id": 387766289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.456049,41.191571,-80.456049,41.191571",
     "geom:latitude":41.191571,
     "geom:longitude":-80.456049,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3200 S Hermitage Rd",
     "sg:city":"Hermitage",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85824773,
+        102191575,
+        404487983,
         85633793,
         101718107,
         102080965,
-        85824773
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"b3053ab48e2320f0b0bbd339c1c4fc25",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080965,
+            "localadmin_id":404487983,
             "locality_id":101718107,
             "neighbourhood_id":85824773,
             "region_id":85688481,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":387766289,
-    "wof:lastmodified":1449056067,
+    "wof:lastmodified":1454358055,
     "wof:name":"Sghetti's",
     "wof:parent_id":85824773,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.456049,41.191571,-80.456049,41.191571],
-  "geometry": {"coordinates":[-80.456049,41.191571],"type":"Point"}
+  "bbox": [
+    -80.456049,
+    41.191571,
+    -80.456049,
+    41.191571
+],
+  "geometry": {"coordinates":[-80.45604899999999,41.191571],"type":"Point"}
 }

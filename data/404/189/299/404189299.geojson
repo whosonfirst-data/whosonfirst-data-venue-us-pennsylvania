@@ -2,13 +2,14 @@
   "id": 404189299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.3671,40.645444,-75.3671,40.645444",
     "geom:latitude":40.645444,
     "geom:longitude":-75.3671,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"530 Vera Cir",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85897241,
+        102191575,
+        404485987,
         85633793,
         101717907,
         102081395,
-        85897241
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"3f61d944d45b356aa98acbdee20998e8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081395,
+            "localadmin_id":404485987,
             "locality_id":101717907,
             "neighbourhood_id":85897241,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":404189299,
-    "wof:lastmodified":1449039970,
+    "wof:lastmodified":1454356924,
     "wof:name":"M Power Martial Arts",
     "wof:parent_id":85897241,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "instruction"
     ]
 },
-  "bbox": [-75.3671,40.645444,-75.3671,40.645444],
-  "geometry": {"coordinates":[-75.3671,40.645444],"type":"Point"}
+  "bbox": [
+    -75.3671,
+    40.645444,
+    -75.3671,
+    40.645444
+],
+  "geometry": {"coordinates":[-75.36709999999999,40.645444],"type":"Point"}
 }

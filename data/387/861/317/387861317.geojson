@@ -2,13 +2,14 @@
   "id": 387861317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.090978,40.442711,-78.090978,40.442711",
     "geom:latitude":40.442711,
     "geom:longitude":-78.090978,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"11797 Turkey Farm Rd",
     "sg:city":"Huntingdon",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080901,
-        85849235
+        85849235,
+        102080901
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"a2da6e4ec9a23d1e6ad78b56bee64e3e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080901,
-            "locality_id":-1,
             "neighbourhood_id":85849235,
             "region_id":85688481,
             "venue_id":387861317
         }
     ],
     "wof:id":387861317,
-    "wof:lastmodified":1449059897,
+    "wof:lastmodified":1454361225,
     "wof:name":"Kyper Agronomics",
     "wof:parent_id":85849235,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "consultant"
     ]
 },
-  "bbox": [-78.090978,40.442711,-78.090978,40.442711],
-  "geometry": {"coordinates":[-78.090978,40.442711],"type":"Point"}
+  "bbox": [
+    -78.090978,
+    40.442711,
+    -78.090978,
+    40.442711
+],
+  "geometry": {"coordinates":[-78.09097800000001,40.442711],"type":"Point"}
 }

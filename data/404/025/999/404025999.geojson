@@ -2,13 +2,14 @@
   "id": 404025999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.734489,39.98233,-76.734489,39.98233",
     "geom:latitude":39.98233,
     "geom:longitude":-76.734489,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1501 N George St",
     "sg:city":"York",
     "sg:classifiers":[
@@ -43,10 +44,13 @@
     "sg:website":"http://www.audiovisionsinc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85819331,
+        102191575,
+        404488029,
         85633793,
+        101717279,
         102080953,
-        85819331
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,17 +60,18 @@
     "wof:geomhash":"dbdb5fef6ba84ef870dc307757cd76c1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
+            "localadmin_id":404488029,
+            "locality_id":101717279,
             "neighbourhood_id":85819331,
             "region_id":85688481,
             "venue_id":404025999
         }
     ],
     "wof:id":404025999,
-    "wof:lastmodified":1449040118,
+    "wof:lastmodified":1454357019,
     "wof:name":"Audio Visions Inc",
     "wof:parent_id":85819331,
     "wof:placetype":"venue",
@@ -81,6 +86,11 @@
         "audio-visual"
     ]
 },
-  "bbox": [-76.734489,39.98233,-76.734489,39.98233],
+  "bbox": [
+    -76.734489,
+    39.98233,
+    -76.734489,
+    39.98233
+],
   "geometry": {"coordinates":[-76.734489,39.98233],"type":"Point"}
 }

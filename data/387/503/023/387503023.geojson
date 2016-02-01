@@ -2,13 +2,14 @@
   "id": 387503023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.004584,40.517064,-80.004584,40.517064",
     "geom:latitude":40.517064,
     "geom:longitude":-80.004584,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4725 Mcknight Rd Ste 117",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -41,8 +42,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85805835
+        85805835,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,17 +53,15 @@
     "wof:geomhash":"934a323f77239746490f618228b4df4c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85805835,
             "region_id":85688481,
             "venue_id":387503023
         }
     ],
     "wof:id":387503023,
-    "wof:lastmodified":1449059932,
+    "wof:lastmodified":1454361236,
     "wof:name":"Gempel Machinery Corp",
     "wof:parent_id":85805835,
     "wof:placetype":"venue",
@@ -78,6 +77,11 @@
         "supplies-wholesale"
     ]
 },
-  "bbox": [-80.004584,40.517064,-80.004584,40.517064],
-  "geometry": {"coordinates":[-80.004584,40.517064],"type":"Point"}
+  "bbox": [
+    -80.004584,
+    40.517064,
+    -80.004584,
+    40.517064
+],
+  "geometry": {"coordinates":[-80.00458399999999,40.517064],"type":"Point"}
 }

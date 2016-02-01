@@ -2,13 +2,14 @@
   "id": 387543229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.189903,40.2192,-80.189903,40.2192",
     "geom:latitude":40.2192,
     "geom:longitude":-80.189903,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1720 Washington Rd",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081343,
-        85833251
+        85833251,
+        102081343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"bb2f03b5cf2b322173fa4a8a3b3087cb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081343,
-            "locality_id":-1,
             "neighbourhood_id":85833251,
             "region_id":85688481,
             "venue_id":387543229
         }
     ],
     "wof:id":387543229,
-    "wof:lastmodified":1449056845,
+    "wof:lastmodified":1454358648,
     "wof:name":"United Financial Technologies",
     "wof:parent_id":85833251,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-80.189903,40.2192,-80.189903,40.2192],
+  "bbox": [
+    -80.189903,
+    40.2192,
+    -80.189903,
+    40.2192
+],
   "geometry": {"coordinates":[-80.189903,40.2192],"type":"Point"}
 }

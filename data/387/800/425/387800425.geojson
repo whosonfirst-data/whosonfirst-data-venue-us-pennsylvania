@@ -2,13 +2,14 @@
   "id": 387800425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.154957,41.86498,-79.154957,41.86498",
     "geom:latitude":41.86498,
     "geom:longitude":-79.154957,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1751 Market St",
     "sg:city":"Warren",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"http://www.foxspizza.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85853597,
+        102191575,
+        404487619,
         85633793,
         101719505,
         102081337,
-        85853597
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"de806cb9d133b3f2f81564b411acaacc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081337,
+            "localadmin_id":404487619,
             "locality_id":101719505,
             "neighbourhood_id":85853597,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387800425,
-    "wof:lastmodified":1449056413,
+    "wof:lastmodified":1454358326,
     "wof:name":"Fox's Pizza Den Warren",
     "wof:parent_id":85853597,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "pizza"
     ]
 },
-  "bbox": [-79.154957,41.86498,-79.154957,41.86498],
+  "bbox": [
+    -79.154957,
+    41.86498,
+    -79.154957,
+    41.86498
+],
   "geometry": {"coordinates":[-79.154957,41.86498],"type":"Point"}
 }

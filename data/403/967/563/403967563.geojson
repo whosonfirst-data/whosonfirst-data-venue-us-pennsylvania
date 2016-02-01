@@ -2,13 +2,14 @@
   "id": 403967563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.654502,39.745447,-77.654502,39.745447",
     "geom:latitude":39.745447,
     "geom:longitude":-77.654502,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3219 Mcdowell Rd",
     "sg:city":"Waynesboro",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081365,
-        85858277
+        85858277,
+        102081365
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"b51ca0b279d556802cc6f06cab45cc57",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081365,
-            "locality_id":-1,
             "neighbourhood_id":85858277,
             "region_id":85688481,
             "venue_id":403967563
         }
     ],
     "wof:id":403967563,
-    "wof:lastmodified":1449055863,
+    "wof:lastmodified":1454357918,
     "wof:name":"April's Doggie Spa & Training Center",
     "wof:parent_id":85858277,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "educational"
     ]
 },
-  "bbox": [-77.654502,39.745447,-77.654502,39.745447],
-  "geometry": {"coordinates":[-77.654502,39.745447],"type":"Point"}
+  "bbox": [
+    -77.654502,
+    39.745447,
+    -77.654502,
+    39.745447
+],
+  "geometry": {"coordinates":[-77.65450199999999,39.745447],"type":"Point"}
 }

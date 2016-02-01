@@ -2,13 +2,14 @@
   "id": 404020919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.690648,39.958454,-76.690648,39.958454",
     "geom:latitude":39.958454,
     "geom:longitude":-76.690648,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1666 Mount Rose Ave",
     "sg:city":"York",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     "sg:website":"http://www.salonoxygen.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85822751,
+        102191575,
+        404487939,
         85633793,
         101719469,
         102080953,
-        85822751
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"fb793d37efd568552675d5b3541b22b2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080953,
+            "localadmin_id":404487939,
             "locality_id":101719469,
             "neighbourhood_id":85822751,
             "region_id":85688481,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":404020919,
-    "wof:lastmodified":1449039573,
+    "wof:lastmodified":1454356721,
     "wof:name":"Salon Oxygen",
     "wof:parent_id":85822751,
     "wof:placetype":"venue",
@@ -69,6 +73,11 @@
         "stylist"
     ]
 },
-  "bbox": [-76.690648,39.958454,-76.690648,39.958454],
+  "bbox": [
+    -76.690648,
+    39.958454,
+    -76.690648,
+    39.958454
+],
   "geometry": {"coordinates":[-76.690648,39.958454],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387497199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.036462,40.547072,-80.036462,40.547072",
     "geom:latitude":40.547072,
     "geom:longitude":-80.036462,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1125 Perry Hwy Pittsburgh Pa",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -42,8 +43,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85841395
+        85841395,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,17 +54,15 @@
     "wof:geomhash":"cd1a38d180eae306432a1dc628bdf9c4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85841395,
             "region_id":85688481,
             "venue_id":387497199
         }
     ],
     "wof:id":387497199,
-    "wof:lastmodified":1449059867,
+    "wof:lastmodified":1454361214,
     "wof:name":"Arden Courts of North Hills",
     "wof:parent_id":85841395,
     "wof:placetype":"venue",
@@ -80,6 +79,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-80.036462,40.547072,-80.036462,40.547072],
+  "bbox": [
+    -80.036462,
+    40.547072,
+    -80.036462,
+    40.547072
+],
   "geometry": {"coordinates":[-80.036462,40.547072],"type":"Point"}
 }

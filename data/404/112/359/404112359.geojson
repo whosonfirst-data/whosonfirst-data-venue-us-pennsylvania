@@ -2,13 +2,14 @@
   "id": 404112359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.850377,41.112998,-76.850377,41.112998",
     "geom:latitude":41.112998,
     "geom:longitude":-76.850377,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3720 Springtown Rd",
     "sg:city":"Watsontown",
     "sg:classifiers":[
@@ -58,8 +59,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081349,
-        85837713
+        85837713,
+        102081349
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,17 +70,15 @@
     "wof:geomhash":"0e7a56a18b154fc474168398bed8ab09",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081349,
-            "locality_id":-1,
             "neighbourhood_id":85837713,
             "region_id":85688481,
             "venue_id":404112359
         }
     ],
     "wof:id":404112359,
-    "wof:lastmodified":1449039557,
+    "wof:lastmodified":1454356713,
     "wof:name":"Kurtz Kawasaki & Ski-Doo",
     "wof:parent_id":85837713,
     "wof:placetype":"venue",
@@ -92,6 +91,11 @@
         "snowmobile"
     ]
 },
-  "bbox": [-76.850377,41.112998,-76.850377,41.112998],
-  "geometry": {"coordinates":[-76.850377,41.112998],"type":"Point"}
+  "bbox": [
+    -76.850377,
+    41.112998,
+    -76.850377,
+    41.112998
+],
+  "geometry": {"coordinates":[-76.85037699999999,41.112998],"type":"Point"}
 }

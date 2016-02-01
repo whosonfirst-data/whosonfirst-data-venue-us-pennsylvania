@@ -2,13 +2,14 @@
   "id": 404147001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.232332,40.787143,-76.232332,40.787143",
     "geom:latitude":40.787143,
     "geom:longitude":-76.232332,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"124 N Lehigh Ave",
     "sg:city":"Frackville",
     "sg:classifiers":[
@@ -44,11 +45,13 @@
     "sg:website":"http://www.nationwide.com/agent/Frackville-PENNSYLVANIA-insurance-agent/john-malinchok/office.html",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85820509,
+        102191575,
+        404483819,
         85633793,
         101717629,
         102081271,
-        85820509
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,9 +61,10 @@
     "wof:geomhash":"2c000da37b62724fea6962041749d12d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081271,
+            "localadmin_id":404483819,
             "locality_id":101717629,
             "neighbourhood_id":85820509,
             "region_id":85688481,
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":404147001,
-    "wof:lastmodified":1449040193,
+    "wof:lastmodified":1454357054,
     "wof:name":"John Malinchok - Nationwide Insurance",
     "wof:parent_id":85820509,
     "wof:placetype":"venue",
@@ -79,6 +83,11 @@
         "homeowner"
     ]
 },
-  "bbox": [-76.232332,40.787143,-76.232332,40.787143],
+  "bbox": [
+    -76.232332,
+    40.787143,
+    -76.232332,
+    40.787143
+],
   "geometry": {"coordinates":[-76.232332,40.787143],"type":"Point"}
 }

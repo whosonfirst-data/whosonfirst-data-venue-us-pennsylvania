@@ -2,13 +2,14 @@
   "id": 387505781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.990878,40.516777,-79.990878,40.516777",
     "geom:latitude":40.516777,
     "geom:longitude":-79.990878,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"228 Woodbridge Dr",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -32,8 +33,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85818343
+        85818343,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +44,15 @@
     "wof:geomhash":"99495390651e768aa8a1ac0b7be72a9f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85818343,
             "region_id":85688481,
             "venue_id":387505781
         }
     ],
     "wof:id":387505781,
-    "wof:lastmodified":1449059299,
+    "wof:lastmodified":1454361035,
     "wof:name":"Knapp Painting",
     "wof:parent_id":85818343,
     "wof:placetype":"venue",
@@ -66,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-79.990878,40.516777,-79.990878,40.516777],
+  "bbox": [
+    -79.990878,
+    40.516777,
+    -79.990878,
+    40.516777
+],
   "geometry": {"coordinates":[-79.990878,40.516777],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403889375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.874707,40.334159,-76.874707,40.334159",
     "geom:latitude":40.334159,
     "geom:longitude":-76.874707,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4712 Maple Shade Dr",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -39,8 +40,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85805097
+        85805097,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,17 +51,15 @@
     "wof:geomhash":"89bdc63c5ffb8a3c5271a1b42c7c29d2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85805097,
             "region_id":85688481,
             "venue_id":403889375
         }
     ],
     "wof:id":403889375,
-    "wof:lastmodified":1449054604,
+    "wof:lastmodified":1454357166,
     "wof:name":"Carmela Masciulli",
     "wof:parent_id":85805097,
     "wof:placetype":"venue",
@@ -75,6 +74,11 @@
         "shows"
     ]
 },
-  "bbox": [-76.874707,40.334159,-76.874707,40.334159],
+  "bbox": [
+    -76.874707,
+    40.334159,
+    -76.874707,
+    40.334159
+],
   "geometry": {"coordinates":[-76.874707,40.334159],"type":"Point"}
 }

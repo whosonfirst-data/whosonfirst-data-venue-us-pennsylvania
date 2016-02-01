@@ -2,13 +2,14 @@
   "id": 387159113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.242599,40.3787,-80.242599,40.3787",
     "geom:latitude":40.3787,
     "geom:longitude":-80.242599,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"529 Valley St",
     "sg:city":"Mc Donald",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85829929,
+        102191575,
+        404483973,
         85633793,
-        101720523,
-        102080887,
-        85829929
+        101718557,
+        102081343,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"1ad836c84c3036e677c1cba8be794803",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102080887,
-            "locality_id":101720523,
+            "county_id":102081343,
+            "localadmin_id":404483973,
+            "locality_id":101718557,
             "neighbourhood_id":85829929,
             "region_id":85688481,
             "venue_id":387159113
         }
     ],
     "wof:id":387159113,
-    "wof:lastmodified":1449056569,
+    "wof:lastmodified":1454358441,
     "wof:name":"Kovach Body Shop",
     "wof:parent_id":85829929,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "shop"
     ]
 },
-  "bbox": [-80.242599,40.3787,-80.242599,40.3787],
+  "bbox": [
+    -80.242599,
+    40.3787,
+    -80.242599,
+    40.3787
+],
   "geometry": {"coordinates":[-80.242599,40.3787],"type":"Point"}
 }

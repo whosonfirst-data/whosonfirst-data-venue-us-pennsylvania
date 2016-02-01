@@ -2,13 +2,14 @@
   "id": 404128673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.552146,40.864566,-76.552146,40.864566",
     "geom:latitude":40.864566,
     "geom:longitude":-76.552146,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"14 S Market St",
     "sg:city":"Elysburg",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85817501,
+        102191575,
+        404486113,
         85633793,
-        101719367,
+        101719303,
         102081349,
-        85817501
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +41,18 @@
     "wof:geomhash":"f6f801935af62bb4bbc58dd3f4d74314",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081349,
-            "locality_id":101719367,
+            "localadmin_id":404486113,
+            "locality_id":101719303,
             "neighbourhood_id":85817501,
             "region_id":85688481,
             "venue_id":404128673
         }
     ],
     "wof:id":404128673,
-    "wof:lastmodified":1449039497,
+    "wof:lastmodified":1454356680,
     "wof:name":"Garden Terrace Inc",
     "wof:parent_id":85817501,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.552146,40.864566,-76.552146,40.864566],
-  "geometry": {"coordinates":[-76.552146,40.864566],"type":"Point"}
+  "bbox": [
+    -76.552146,
+    40.864566,
+    -76.552146,
+    40.864566
+],
+  "geometry": {"coordinates":[-76.55214599999999,40.864566],"type":"Point"}
 }

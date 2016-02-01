@@ -2,13 +2,14 @@
   "id": 404026885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.732358,39.983565,-76.732358,39.983565",
     "geom:latitude":39.983565,
     "geom:longitude":-76.732358,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1595 N Queen St",
     "sg:city":"York",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     "sg:website":"http://www.york-ins.com?utm_source=yp&utm_medium=cpc&utm_campaign=ck_yp",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85819331,
+        102191575,
+        404488029,
         85633793,
+        101717279,
         102080953,
-        85819331
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +45,18 @@
     "wof:geomhash":"8f255b973ad687ba7ca69f666cff8c49",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
+            "localadmin_id":404488029,
+            "locality_id":101717279,
             "neighbourhood_id":85819331,
             "region_id":85688481,
             "venue_id":404026885
         }
     ],
     "wof:id":404026885,
-    "wof:lastmodified":1449039825,
+    "wof:lastmodified":1454356826,
     "wof:name":"ROHRBAUGH INSURANCE AGENCY",
     "wof:parent_id":85819331,
     "wof:placetype":"venue",
@@ -61,6 +66,11 @@
         "auto"
     ]
 },
-  "bbox": [-76.732358,39.983565,-76.732358,39.983565],
+  "bbox": [
+    -76.732358,
+    39.983565,
+    -76.732358,
+    39.983565
+],
   "geometry": {"coordinates":[-76.732358,39.983565],"type":"Point"}
 }

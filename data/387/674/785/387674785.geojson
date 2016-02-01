@@ -2,13 +2,14 @@
   "id": 387674785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.556602,41.28053,-78.556602,41.28053",
     "geom:latitude":41.28053,
     "geom:longitude":-78.556602,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2808 Gardner Hill Rd",
     "sg:city":"Weedville",
     "sg:classifiers":[
@@ -33,7 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420537853,
+        102191575,
+        404486717,
         85633793,
+        101716717,
+        102081265,
         85688481
     ],
     "wof:breaches":[],
@@ -44,18 +50,20 @@
     "wof:geomhash":"a9b82d960bdf6229b1603e18150e0342",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081265,
+            "localadmin_id":404486717,
+            "locality_id":101716717,
+            "neighbourhood_id":420537853,
             "region_id":85688481,
             "venue_id":387674785
         }
     ],
     "wof:id":387674785,
-    "wof:lastmodified":1449058954,
+    "wof:lastmodified":1454360938,
     "wof:name":"Garden Hill Community Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":420537853,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +72,11 @@
         "churches-community"
     ]
 },
-  "bbox": [-78.556602,41.28053,-78.556602,41.28053],
+  "bbox": [
+    -78.556602,
+    41.28053,
+    -78.556602,
+    41.28053
+],
   "geometry": {"coordinates":[-78.556602,41.28053],"type":"Point"}
 }

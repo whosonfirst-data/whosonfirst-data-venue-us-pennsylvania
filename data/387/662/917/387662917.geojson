@@ -2,13 +2,14 @@
   "id": 387662917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.266413,40.598157,-79.266413,40.598157",
     "geom:latitude":40.598157,
     "geom:longitude":-79.266413,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1606 Laurel Rd",
     "sg:city":"Shelocta",
     "sg:classifiers":[
@@ -32,8 +33,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081387,
-        85821437
+        85821437,
+        102081387
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +44,15 @@
     "wof:geomhash":"3773626f43fb314ef7d4cae47bcdda50",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081387,
-            "locality_id":-1,
             "neighbourhood_id":85821437,
             "region_id":85688481,
             "venue_id":387662917
         }
     ],
     "wof:id":387662917,
-    "wof:lastmodified":1449058681,
+    "wof:lastmodified":1454360849,
     "wof:name":"Watson's Greenhouse",
     "wof:parent_id":85821437,
     "wof:placetype":"venue",
@@ -66,6 +65,11 @@
         "nurseries-plants"
     ]
 },
-  "bbox": [-79.266413,40.598157,-79.266413,40.598157],
+  "bbox": [
+    -79.266413,
+    40.598157,
+    -79.266413,
+    40.598157
+],
   "geometry": {"coordinates":[-79.266413,40.598157],"type":"Point"}
 }

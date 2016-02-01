@@ -2,13 +2,14 @@
   "id": 387573431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.195511,40.317615,-80.195511,40.317615",
     "geom:latitude":40.317615,
     "geom:longitude":-80.195511,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"27 Meadowcrest Dr",
     "sg:city":"Cecil",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     "sg:website":"www.Kowalskihvac.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420539939,
+        102191575,
+        404487735,
         85633793,
         101720321,
-        102081343
+        102081343,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,20 @@
     "wof:geomhash":"9653c282b4929ffb3e22375d361b1be9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081343,
+            "localadmin_id":404487735,
             "locality_id":101720321,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420539939,
             "region_id":85688481,
             "venue_id":387573431
         }
     ],
     "wof:id":387573431,
-    "wof:lastmodified":1449058912,
+    "wof:lastmodified":1454360926,
     "wof:name":"Kowalski Heating and Cooling",
-    "wof:parent_id":-1,
+    "wof:parent_id":420539939,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -65,6 +70,11 @@
         "conditioning/hvac"
     ]
 },
-  "bbox": [-80.195511,40.317615,-80.195511,40.317615],
+  "bbox": [
+    -80.195511,
+    40.317615,
+    -80.195511,
+    40.317615
+],
   "geometry": {"coordinates":[-80.195511,40.317615],"type":"Point"}
 }

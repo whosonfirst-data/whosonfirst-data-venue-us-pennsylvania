@@ -2,13 +2,14 @@
   "id": 387397021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.867193,40.45546,-79.867193,40.45546",
     "geom:latitude":40.45546,
     "geom:longitude":-79.867193,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2360 Bracey Dr",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -32,8 +33,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85812851
+        85812851,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +44,15 @@
     "wof:geomhash":"425c57d57c39593a6174f6c2ad028b77",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85812851,
             "region_id":85688481,
             "venue_id":387397021
         }
     ],
     "wof:id":387397021,
-    "wof:lastmodified":1449057625,
+    "wof:lastmodified":1454360535,
     "wof:name":"Titan Wrecking",
     "wof:parent_id":85812851,
     "wof:placetype":"venue",
@@ -66,6 +65,11 @@
         "supplies-used"
     ]
 },
-  "bbox": [-79.867193,40.45546,-79.867193,40.45546],
+  "bbox": [
+    -79.867193,
+    40.45546,
+    -79.867193,
+    40.45546
+],
   "geometry": {"coordinates":[-79.867193,40.45546],"type":"Point"}
 }

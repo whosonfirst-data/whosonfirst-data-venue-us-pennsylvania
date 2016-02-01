@@ -2,13 +2,14 @@
   "id": 404210797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.390953,40.617193,-75.390953,40.617193",
     "geom:latitude":40.617193,
     "geom:longitude":-75.390953,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"610 Leibert St",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85897247,
+        102191575,
+        404485987,
         85633793,
         101717907,
-        102081327,
-        85897247
+        102081395,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"76c74aa3fb27f7b3e698a6d8fed16f20",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081327,
+            "county_id":102081395,
+            "localadmin_id":404485987,
             "locality_id":101717907,
             "neighbourhood_id":85897247,
             "region_id":85688481,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":404210797,
-    "wof:lastmodified":1449039420,
+    "wof:lastmodified":1454356638,
     "wof:name":"Macungie Real Estate",
     "wof:parent_id":85897247,
     "wof:placetype":"venue",
@@ -68,6 +72,11 @@
         "broker"
     ]
 },
-  "bbox": [-75.390953,40.617193,-75.390953,40.617193],
+  "bbox": [
+    -75.390953,
+    40.617193,
+    -75.390953,
+    40.617193
+],
   "geometry": {"coordinates":[-75.390953,40.617193],"type":"Point"}
 }

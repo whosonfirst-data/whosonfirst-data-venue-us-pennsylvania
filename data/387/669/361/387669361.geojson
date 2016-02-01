@@ -2,13 +2,14 @@
   "id": 387669361,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.598551,41.356298,-78.598551,41.356298",
     "geom:latitude":41.356298,
     "geom:longitude":-78.598551,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"122 Chicken Hill Rd",
     "sg:city":"Kersey",
     "sg:classifiers":[
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420537853,
+        102191575,
+        404486717,
         85633793,
-        101719009,
-        102081265
+        101716717,
+        102081265,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,20 @@
     "wof:geomhash":"9713d79d24805ba26c75fa314e4048dd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081265,
-            "locality_id":101719009,
-            "neighbourhood_id":-1,
+            "localadmin_id":404486717,
+            "locality_id":101716717,
+            "neighbourhood_id":420537853,
             "region_id":85688481,
             "venue_id":387669361
         }
     ],
     "wof:id":387669361,
-    "wof:lastmodified":1449056546,
+    "wof:lastmodified":1454358428,
     "wof:name":"Krishart Construction",
-    "wof:parent_id":-1,
+    "wof:parent_id":420537853,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -69,6 +74,11 @@
         "contractor"
     ]
 },
-  "bbox": [-78.598551,41.356298,-78.598551,41.356298],
+  "bbox": [
+    -78.598551,
+    41.356298,
+    -78.598551,
+    41.356298
+],
   "geometry": {"coordinates":[-78.598551,41.356298],"type":"Point"}
 }

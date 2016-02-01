@@ -2,13 +2,14 @@
   "id": 387493271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.054513,40.581601,-80.054513,40.581601",
     "geom:latitude":40.581601,
     "geom:longitude":-80.054513,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"722 W Ingomar Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85828191
+        85828191,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"536135da43a31c2a76ba704d028a7bd1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85828191,
             "region_id":85688481,
             "venue_id":387493271
         }
     ],
     "wof:id":387493271,
-    "wof:lastmodified":1449057304,
+    "wof:lastmodified":1454359004,
     "wof:name":"Acierno Family Chiropractic",
     "wof:parent_id":85828191,
     "wof:placetype":"venue",
@@ -68,6 +67,11 @@
         "sport"
     ]
 },
-  "bbox": [-80.054513,40.581601,-80.054513,40.581601],
+  "bbox": [
+    -80.054513,
+    40.581601,
+    -80.054513,
+    40.581601
+],
   "geometry": {"coordinates":[-80.054513,40.581601],"type":"Point"}
 }

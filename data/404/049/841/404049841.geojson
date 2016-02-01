@@ -2,13 +2,14 @@
   "id": 404049841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.194427,40.13126,-76.194427,40.13126",
     "geom:latitude":40.13126,
     "geom:longitude":-76.194427,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"221 Turtle Hill Rd",
     "sg:city":"Ephrata",
     "sg:classifiers":[
@@ -24,7 +25,12 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420538511,
+        102191575,
+        404485437,
         85633793,
+        101720397,
+        102081377,
         85688481
     ],
     "wof:breaches":[],
@@ -35,23 +41,30 @@
     "wof:geomhash":"29275b8fd45e69addaa32a427e710e49",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081377,
+            "localadmin_id":404485437,
+            "locality_id":101720397,
+            "neighbourhood_id":420538511,
             "region_id":85688481,
             "venue_id":404049841
         }
     ],
     "wof:id":404049841,
-    "wof:lastmodified":1449039658,
+    "wof:lastmodified":1454356750,
     "wof:name":"Howard M Gebhard Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420538511,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.194427,40.13126,-76.194427,40.13126],
+  "bbox": [
+    -76.194427,
+    40.13126,
+    -76.194427,
+    40.13126
+],
   "geometry": {"coordinates":[-76.194427,40.13126],"type":"Point"}
 }

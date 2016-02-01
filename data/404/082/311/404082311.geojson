@@ -2,13 +2,14 @@
   "id": 404082311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.398099,40.05486,-76.398099,40.05486",
     "geom:latitude":40.05486,
     "geom:longitude":-76.398099,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"570 Centerville Rd",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -51,8 +52,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85810207
+        85810207,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,17 +63,15 @@
     "wof:geomhash":"900dbf1900209e18c26bdcaf43ade3e1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85810207,
             "region_id":85688481,
             "venue_id":404082311
         }
     ],
     "wof:id":404082311,
-    "wof:lastmodified":1449039111,
+    "wof:lastmodified":1454356440,
     "wof:name":"T-Mobile",
     "wof:parent_id":85810207,
     "wof:placetype":"venue",
@@ -88,6 +87,11 @@
         "cellular"
     ]
 },
-  "bbox": [-76.398099,40.05486,-76.398099,40.05486],
+  "bbox": [
+    -76.398099,
+    40.05486,
+    -76.398099,
+    40.05486
+],
   "geometry": {"coordinates":[-76.398099,40.05486],"type":"Point"}
 }

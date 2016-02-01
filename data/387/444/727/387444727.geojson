@@ -2,13 +2,14 @@
   "id": 387444727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.0439,40.3829,-80.0439,40.3829",
     "geom:latitude":40.3829,
     "geom:longitude":-80.0439,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"603 Washington Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85804395,
+        102191575,
+        404482523,
         85633793,
+        101718805,
         102080887,
-        85804395
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +45,18 @@
     "wof:geomhash":"cdc7c9dc2059cc11a766ec5804830479",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
+            "localadmin_id":404482523,
+            "locality_id":101718805,
             "neighbourhood_id":85804395,
             "region_id":85688481,
             "venue_id":387444727
         }
     ],
     "wof:id":387444727,
-    "wof:lastmodified":1449059403,
+    "wof:lastmodified":1454361070,
     "wof:name":"Pgh Obstetrics & Gynecology Assocs",
     "wof:parent_id":85804395,
     "wof:placetype":"venue",
@@ -62,6 +67,11 @@
         "gynecologist"
     ]
 },
-  "bbox": [-80.0439,40.3829,-80.0439,40.3829],
-  "geometry": {"coordinates":[-80.0439,40.3829],"type":"Point"}
+  "bbox": [
+    -80.0439,
+    40.3829,
+    -80.0439,
+    40.3829
+],
+  "geometry": {"coordinates":[-80.04389999999999,40.3829],"type":"Point"}
 }

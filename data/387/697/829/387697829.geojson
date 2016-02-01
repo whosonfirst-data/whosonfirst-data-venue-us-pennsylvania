@@ -2,13 +2,14 @@
   "id": 387697829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.927538,40.817217,-79.927538,40.817217",
     "geom:latitude":40.817217,
     "geom:longitude":-79.927538,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"245 Pittsburgh Rd Ste 600",
     "sg:city":"Butler",
     "sg:classifiers":[
@@ -37,8 +38,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102083677,
-        85833131
+        85833131,
+        102083677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +49,15 @@
     "wof:geomhash":"7c6b43d48f65652f4bbe1ba2110c8525",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102083677,
-            "locality_id":-1,
             "neighbourhood_id":85833131,
             "region_id":85688481,
             "venue_id":387697829
         }
     ],
     "wof:id":387697829,
-    "wof:lastmodified":1449058510,
+    "wof:lastmodified":1454360801,
     "wof:name":"Citizen Transport",
     "wof:parent_id":85833131,
     "wof:placetype":"venue",
@@ -71,6 +70,11 @@
         "courier"
     ]
 },
-  "bbox": [-79.927538,40.817217,-79.927538,40.817217],
+  "bbox": [
+    -79.927538,
+    40.817217,
+    -79.927538,
+    40.817217
+],
   "geometry": {"coordinates":[-79.927538,40.817217],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403703033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.658907,40.28233,-76.658907,40.28233",
     "geom:latitude":40.28233,
     "geom:longitude":-76.658907,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"431 W Chocolate Ave",
     "sg:city":"Hershey",
     "sg:classifiers":[
@@ -36,11 +37,13 @@
     "sg:website":"http://www.everlastingimagesphoto.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85850549,
+        102191575,
+        404483303,
         85633793,
         101719813,
         102081347,
-        85850549
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,9 +53,10 @@
     "wof:geomhash":"ab60af7d9bbd74e1a433d3f7e4b3b72b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
+            "localadmin_id":404483303,
             "locality_id":101719813,
             "neighbourhood_id":85850549,
             "region_id":85688481,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":403703033,
-    "wof:lastmodified":1449055048,
+    "wof:lastmodified":1454357436,
     "wof:name":"Everlasting Images",
     "wof:parent_id":85850549,
     "wof:placetype":"venue",
@@ -73,6 +77,11 @@
         "wedding"
     ]
 },
-  "bbox": [-76.658907,40.28233,-76.658907,40.28233],
+  "bbox": [
+    -76.658907,
+    40.28233,
+    -76.658907,
+    40.28233
+],
   "geometry": {"coordinates":[-76.658907,40.28233],"type":"Point"}
 }

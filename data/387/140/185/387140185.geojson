@@ -2,13 +2,14 @@
   "id": 387140185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.854367,40.169763,-79.854367,40.169763",
     "geom:latitude":40.169763,
     "geom:longitude":-79.854367,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"95 Washington St",
     "sg:city":"Donora",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     "sg:website":"http://www.piburners.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420539995,
+        102191575,
+        404487505,
         85633793,
-        101718525,
-        102081343
+        101717153,
+        102081383,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"ba1991414b332ea704847e6daf9281e0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081343,
-            "locality_id":101718525,
-            "neighbourhood_id":-1,
+            "county_id":102081383,
+            "localadmin_id":404487505,
+            "locality_id":101717153,
+            "neighbourhood_id":420539995,
             "region_id":85688481,
             "venue_id":387140185
         }
     ],
     "wof:id":387140185,
-    "wof:lastmodified":1449056653,
+    "wof:lastmodified":1454358519,
     "wof:name":"Power & Industrial Services Corporation",
-    "wof:parent_id":-1,
+    "wof:parent_id":420539995,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -63,6 +68,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-79.854367,40.169763,-79.854367,40.169763],
+  "bbox": [
+    -79.854367,
+    40.169763,
+    -79.854367,
+    40.169763
+],
   "geometry": {"coordinates":[-79.854367,40.169763],"type":"Point"}
 }

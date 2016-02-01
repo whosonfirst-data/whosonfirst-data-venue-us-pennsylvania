@@ -2,13 +2,14 @@
   "id": 387388849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.06142,40.421844,-80.06142,40.421844",
     "geom:latitude":40.421844,
     "geom:longitude":-80.06142,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"651 Holiday Dr",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536243,
+        102191575,
+        404482523,
         85633793,
-        101718673,
-        102080887
+        101718805,
+        102080887,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"6586d8d3238a2a7b175af02e86ec143d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":101718673,
-            "neighbourhood_id":-1,
+            "localadmin_id":404482523,
+            "locality_id":101718805,
+            "neighbourhood_id":420536243,
             "region_id":85688481,
             "venue_id":387388849
         }
     ],
     "wof:id":387388849,
-    "wof:lastmodified":1449056259,
+    "wof:lastmodified":1454358207,
     "wof:name":"Kyle John Law Office of",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536243,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.06142,40.421844,-80.06142,40.421844],
+  "bbox": [
+    -80.06142,
+    40.421844,
+    -80.06142,
+    40.421844
+],
   "geometry": {"coordinates":[-80.06142,40.421844],"type":"Point"}
 }

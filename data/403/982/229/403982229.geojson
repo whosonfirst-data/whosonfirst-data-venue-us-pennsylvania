@@ -2,13 +2,14 @@
   "id": 403982229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.213128,39.896734,-77.213128,39.896734",
     "geom:latitude":39.896734,
     "geom:longitude":-77.213128,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"151 Goldenville Rd",
     "sg:city":"Gettysburg",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080899,
-        85822177
+        85822177,
+        102080899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"4f2c508271916c53b8ba7fc9ccccfb52",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080899,
-            "locality_id":-1,
             "neighbourhood_id":85822177,
             "region_id":85688481,
             "venue_id":403982229
         }
     ],
     "wof:id":403982229,
-    "wof:lastmodified":1449054861,
+    "wof:lastmodified":1454357332,
     "wof:name":"Shrivers Super Sharpening",
     "wof:parent_id":85822177,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "saws-sharpen"
     ]
 },
-  "bbox": [-77.213128,39.896734,-77.213128,39.896734],
+  "bbox": [
+    -77.213128,
+    39.896734,
+    -77.213128,
+    39.896734
+],
   "geometry": {"coordinates":[-77.213128,39.896734],"type":"Point"}
 }

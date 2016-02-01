@@ -2,13 +2,14 @@
   "id": 403715165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.382657,40.340566,-76.382657,40.340566",
     "geom:latitude":40.340566,
     "geom:longitude":-76.382657,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"637 Meadow Dr",
     "sg:city":"Lebanon",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85824511,
+        102191575,
+        404485817,
         85633793,
-        101719403,
+        101719375,
         102081341,
-        85824511
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"86b1f798e7d90be2622639982262b000",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081341,
-            "locality_id":101719403,
+            "localadmin_id":404485817,
+            "locality_id":101719375,
             "neighbourhood_id":85824511,
             "region_id":85688481,
             "venue_id":403715165
         }
     ],
     "wof:id":403715165,
-    "wof:lastmodified":1449055691,
+    "wof:lastmodified":1454357824,
     "wof:name":"Ratcliffe Suzanne Beauty Salon",
     "wof:parent_id":85824511,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "stylist"
     ]
 },
-  "bbox": [-76.382657,40.340566,-76.382657,40.340566],
-  "geometry": {"coordinates":[-76.382657,40.340566],"type":"Point"}
+  "bbox": [
+    -76.382657,
+    40.340566,
+    -76.382657,
+    40.340566
+],
+  "geometry": {"coordinates":[-76.38265699999999,40.340566],"type":"Point"}
 }

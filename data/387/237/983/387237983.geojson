@@ -2,13 +2,14 @@
   "id": 387237983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.094597,40.403301,-80.094597,40.403301",
     "geom:latitude":40.403301,
     "geom:longitude":-80.094597,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"600 Logan St Ste 2",
     "sg:city":"Carnegie",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85821875,
+        102191575,
+        404484865,
         85633793,
         101718775,
         102080887,
-        85821875
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"426d49f1474010270703f7a2729b9aa7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484865,
             "locality_id":101718775,
             "neighbourhood_id":85821875,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387237983,
-    "wof:lastmodified":1449056213,
+    "wof:lastmodified":1454358169,
     "wof:name":"Vision Business Products",
     "wof:parent_id":85821875,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "equipment"
     ]
 },
-  "bbox": [-80.094597,40.403301,-80.094597,40.403301],
-  "geometry": {"coordinates":[-80.094597,40.403301],"type":"Point"}
+  "bbox": [
+    -80.094597,
+    40.403301,
+    -80.094597,
+    40.403301
+],
+  "geometry": {"coordinates":[-80.09459699999999,40.403301],"type":"Point"}
 }

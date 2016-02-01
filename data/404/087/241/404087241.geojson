@@ -2,13 +2,14 @@
   "id": 404087241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.228088,40.029259,-76.228088,40.029259",
     "geom:latitude":40.029259,
     "geom:longitude":-76.228088,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2160 Lincoln Hwy E Ste 5",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -40,8 +41,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85823025
+        85823025,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,17 +52,15 @@
     "wof:geomhash":"c1fd99b68669e745d74136e4b0e2b9e3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85823025,
             "region_id":85688481,
             "venue_id":404087241
         }
     ],
     "wof:id":404087241,
-    "wof:lastmodified":1449039569,
+    "wof:lastmodified":1454356719,
     "wof:name":"Lancaster Mennonite Conference",
     "wof:parent_id":85823025,
     "wof:placetype":"venue",
@@ -72,6 +71,11 @@
         "churches-mennonite"
     ]
 },
-  "bbox": [-76.228088,40.029259,-76.228088,40.029259],
+  "bbox": [
+    -76.228088,
+    40.029259,
+    -76.228088,
+    40.029259
+],
   "geometry": {"coordinates":[-76.228088,40.029259],"type":"Point"}
 }

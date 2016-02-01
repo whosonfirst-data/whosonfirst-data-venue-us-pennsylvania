@@ -2,13 +2,14 @@
   "id": 403738595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.988602,40.241798,-76.988602,40.241798",
     "geom:latitude":40.241798,
     "geom:longitude":-76.988602,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6029 Carlisle Pike",
     "sg:city":"Mechanicsburg",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081359,
-        85850501
+        85850501,
+        102081359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"67715e8f290533030f2f0c54d651e8f8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081359,
-            "locality_id":-1,
             "neighbourhood_id":85850501,
             "region_id":85688481,
             "venue_id":403738595
         }
     ],
     "wof:id":403738595,
-    "wof:lastmodified":1449055587,
+    "wof:lastmodified":1454357760,
     "wof:name":"M & Z Carpets Inc",
     "wof:parent_id":85850501,
     "wof:placetype":"venue",
@@ -66,6 +65,11 @@
         "carpeting"
     ]
 },
-  "bbox": [-76.988602,40.241798,-76.988602,40.241798],
+  "bbox": [
+    -76.988602,
+    40.241798,
+    -76.988602,
+    40.241798
+],
   "geometry": {"coordinates":[-76.988602,40.241798],"type":"Point"}
 }

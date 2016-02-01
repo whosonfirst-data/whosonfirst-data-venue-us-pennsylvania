@@ -2,13 +2,14 @@
   "id": 387701097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.926788,40.908556,-79.926788,40.908556",
     "geom:latitude":40.908556,
     "geom:longitude":-79.926788,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1763 N Main Street Ext",
     "sg:city":"Butler",
     "sg:classifiers":[
@@ -35,10 +36,13 @@
     "sg:website":"http://www.butlerfloor.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536957,
+        102191575,
+        404485061,
         85633793,
         101720155,
-        102083677
+        102083677,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +52,20 @@
     "wof:geomhash":"fb9344a442ec8b5466ad1b029dbb9433",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083677,
+            "localadmin_id":404485061,
             "locality_id":101720155,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420536957,
             "region_id":85688481,
             "venue_id":387701097
         }
     ],
     "wof:id":387701097,
-    "wof:lastmodified":1449059117,
+    "wof:lastmodified":1454360989,
     "wof:name":"Butler Floor & Carpet Co Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536957,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -70,6 +75,11 @@
         "tile-contractors"
     ]
 },
-  "bbox": [-79.926788,40.908556,-79.926788,40.908556],
+  "bbox": [
+    -79.926788,
+    40.908556,
+    -79.926788,
+    40.908556
+],
   "geometry": {"coordinates":[-79.926788,40.908556],"type":"Point"}
 }

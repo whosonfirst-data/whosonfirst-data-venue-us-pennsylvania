@@ -2,13 +2,14 @@
   "id": 387098777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.967751,39.693132,-75.967751,39.693132",
     "geom:latitude":39.693132,
     "geom:longitude":-75.967751,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"210 N Fieldcrest Dr",
     "sg:city":"North East",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081275,
-        85810983
+        85810983,
+        102081275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"f233c063d20c923857424db42eecf0d8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081275,
-            "locality_id":-1,
             "neighbourhood_id":85810983,
             "region_id":85688481,
             "venue_id":387098777
         }
     ],
     "wof:id":387098777,
-    "wof:lastmodified":1449059513,
+    "wof:lastmodified":1454361104,
     "wof:name":"Honeywell",
     "wof:parent_id":85810983,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "control"
     ]
 },
-  "bbox": [-75.967751,39.693132,-75.967751,39.693132],
-  "geometry": {"coordinates":[-75.967751,39.693132],"type":"Point"}
+  "bbox": [
+    -75.967751,
+    39.693132,
+    -75.967751,
+    39.693132
+],
+  "geometry": {"coordinates":[-75.96775100000001,39.693132],"type":"Point"}
 }

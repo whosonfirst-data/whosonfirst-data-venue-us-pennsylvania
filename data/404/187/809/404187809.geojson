@@ -2,13 +2,14 @@
   "id": 404187809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.34381,40.628785,-75.34381,40.628785",
     "geom:latitude":40.628785,
     "geom:longitude":-75.34381,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"434 Clearfield St # 3",
     "sg:city":"Freemansburg",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85805935,
+        102191575,
+        404485987,
         85633793,
         101717907,
         102081395,
-        85805935
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"de3440d8ed4485b6d78bc61dbe7cb471",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081395,
+            "localadmin_id":404485987,
             "locality_id":101717907,
             "neighbourhood_id":85805935,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":404187809,
-    "wof:lastmodified":1449039199,
+    "wof:lastmodified":1454356515,
     "wof:name":"American Detective",
     "wof:parent_id":85805935,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "investigator"
     ]
 },
-  "bbox": [-75.34381,40.628785,-75.34381,40.628785],
+  "bbox": [
+    -75.34381,
+    40.628785,
+    -75.34381,
+    40.628785
+],
   "geometry": {"coordinates":[-75.34381,40.628785],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403868945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.842853,40.289263,-76.842853,40.289263",
     "geom:latitude":40.289263,
     "geom:longitude":-76.842853,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"251 N Progress Ave Suite 2",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -50,11 +51,13 @@
     "sg:website":"http://edwardjones.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85843183,
+        102191575,
+        404486305,
         85633793,
         101719821,
         102081347,
-        85843183
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,9 +67,10 @@
     "wof:geomhash":"9856a05acf3a2abd7724ccb5296a37da",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
+            "localadmin_id":404486305,
             "locality_id":101719821,
             "neighbourhood_id":85843183,
             "region_id":85688481,
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":403868945,
-    "wof:lastmodified":1449054675,
+    "wof:lastmodified":1454357208,
     "wof:name":"Edward Jones - JEFF GOLDSMITH",
     "wof:parent_id":85843183,
     "wof:placetype":"venue",
@@ -96,6 +100,11 @@
         "stock"
     ]
 },
-  "bbox": [-76.842853,40.289263,-76.842853,40.289263],
-  "geometry": {"coordinates":[-76.842853,40.289263],"type":"Point"}
+  "bbox": [
+    -76.842853,
+    40.289263,
+    -76.842853,
+    40.289263
+],
+  "geometry": {"coordinates":[-76.84285300000001,40.289263],"type":"Point"}
 }

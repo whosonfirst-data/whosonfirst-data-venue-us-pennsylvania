@@ -2,13 +2,14 @@
   "id": 387617009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.545311,40.302471,-79.545311,40.302471",
     "geom:latitude":40.302471,
     "geom:longitude":-79.545311,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"20 N Pennsylvania Ave # 101",
     "sg:city":"Greensburg",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85809439,
+        102191575,
+        404487487,
         85633793,
-        101717119,
+        101717177,
         102081383,
-        85809439
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"4ceb8a670d7075a3462c5a8323897ac2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":101717119,
+            "localadmin_id":404487487,
+            "locality_id":101717177,
             "neighbourhood_id":85809439,
             "region_id":85688481,
             "venue_id":387617009
         }
     ],
     "wof:id":387617009,
-    "wof:lastmodified":1449056249,
+    "wof:lastmodified":1454358197,
     "wof:name":"Hacker Donald R Attorney",
     "wof:parent_id":85809439,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "plan"
     ]
 },
-  "bbox": [-79.545311,40.302471,-79.545311,40.302471],
+  "bbox": [
+    -79.545311,
+    40.302471,
+    -79.545311,
+    40.302471
+],
   "geometry": {"coordinates":[-79.545311,40.302471],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387814281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.265518,42.02372,-80.265518,42.02372",
     "geom:latitude":42.02372,
     "geom:longitude":-80.265518,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"7900 W Ridge Rd",
     "sg:city":"Fairview",
     "sg:classifiers":[
@@ -25,10 +26,13 @@
     "sg:website":"http://www.uswa.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420537927,
+        102191575,
+        404486677,
         85633793,
-        101720207,
-        102080955
+        101718251,
+        102080955,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,24 +42,30 @@
     "wof:geomhash":"edc15591f11e6e2012f8f29d1ed0f8dc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080955,
-            "locality_id":101720207,
-            "neighbourhood_id":-1,
+            "localadmin_id":404486677,
+            "locality_id":101718251,
+            "neighbourhood_id":420537927,
             "region_id":85688481,
             "venue_id":387814281
         }
     ],
     "wof:id":387814281,
-    "wof:lastmodified":1449056797,
+    "wof:lastmodified":1454358618,
     "wof:name":"United Steel Workers",
-    "wof:parent_id":-1,
+    "wof:parent_id":420537927,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.265518,42.02372,-80.265518,42.02372],
+  "bbox": [
+    -80.265518,
+    42.02372,
+    -80.265518,
+    42.02372
+],
   "geometry": {"coordinates":[-80.265518,42.02372],"type":"Point"}
 }

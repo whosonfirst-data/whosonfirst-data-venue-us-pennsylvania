@@ -2,13 +2,14 @@
   "id": 387272595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.791237,40.431789,-79.791237,40.431789",
     "geom:latitude":40.431789,
     "geom:longitude":-79.791237,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"145 Mall Blvd",
     "sg:city":"Monroeville",
     "sg:classifiers":[
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85838743,
+        102191575,
+        404484135,
         85633793,
         101718841,
         102080887,
-        85838743
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"332cd1e1d1ffd07cb31bac8b988dca9c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484135,
             "locality_id":101718841,
             "neighbourhood_id":85838743,
             "region_id":85688481,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":387272595,
-    "wof:lastmodified":1449059658,
+    "wof:lastmodified":1454361147,
     "wof:name":"Slammers",
     "wof:parent_id":85838743,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "take"
     ]
 },
-  "bbox": [-79.791237,40.431789,-79.791237,40.431789],
+  "bbox": [
+    -79.791237,
+    40.431789,
+    -79.791237,
+    40.431789
+],
   "geometry": {"coordinates":[-79.791237,40.431789],"type":"Point"}
 }

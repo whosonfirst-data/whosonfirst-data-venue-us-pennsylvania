@@ -2,13 +2,14 @@
   "id": 353822233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.798585,39.717352,-75.798585,39.717352",
     "geom:latitude":39.717352,
     "geom:longitude":-75.798585,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1405 Fair Hill Ln",
     "sg:city":"Elkton",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081275,
-        85851265
+        85851265,
+        102081275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"7a2ddcf5a46053efaa4fc36806c9ee5e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081275,
-            "locality_id":-1,
             "neighbourhood_id":85851265,
             "region_id":85688481,
             "venue_id":353822233
         }
     ],
     "wof:id":353822233,
-    "wof:lastmodified":1449020701,
+    "wof:lastmodified":1454356384,
     "wof:name":"Clayton E Moorman",
     "wof:parent_id":85851265,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "clergy"
     ]
 },
-  "bbox": [-75.798585,39.717352,-75.798585,39.717352],
+  "bbox": [
+    -75.798585,
+    39.717352,
+    -75.798585,
+    39.717352
+],
   "geometry": {"coordinates":[-75.798585,39.717352],"type":"Point"}
 }

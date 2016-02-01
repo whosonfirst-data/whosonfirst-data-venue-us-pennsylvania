@@ -2,13 +2,14 @@
   "id": 387488975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.992104,40.337399,-79.992104,40.337399",
     "geom:latitude":40.337399,
     "geom:longitude":-79.992104,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5681 Horning Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     "sg:website":"www.danielsdiscount.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536253,
+        102191575,
+        404484861,
         85633793,
         101718815,
-        102080887
+        102080887,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"ab3fd11f4fcc90115f1a34937589bbd6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484861,
             "locality_id":101718815,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420536253,
             "region_id":85688481,
             "venue_id":387488975
         }
     ],
     "wof:id":387488975,
-    "wof:lastmodified":1449059825,
+    "wof:lastmodified":1454361203,
     "wof:name":"Bardan Appliance Outlet",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536253,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -61,6 +66,11 @@
         "repair"
     ]
 },
-  "bbox": [-79.992104,40.337399,-79.992104,40.337399],
+  "bbox": [
+    -79.992104,
+    40.337399,
+    -79.992104,
+    40.337399
+],
   "geometry": {"coordinates":[-79.992104,40.337399],"type":"Point"}
 }

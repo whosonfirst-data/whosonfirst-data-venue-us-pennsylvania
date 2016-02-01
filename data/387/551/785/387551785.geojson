@@ -2,13 +2,14 @@
   "id": 387551785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.083801,40.278999,-80.083801,40.278999",
     "geom:latitude":40.278999,
     "geom:longitude":-80.083801,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"501 Valley Brook Rd",
     "sg:city":"Canonsburg",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081343,
-        85852193
+        85852193,
+        102081343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"ada6e72432468654574ebd8a8f98f9f0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081343,
-            "locality_id":-1,
             "neighbourhood_id":85852193,
             "region_id":85688481,
             "venue_id":387551785
         }
     ],
     "wof:id":387551785,
-    "wof:lastmodified":1449056864,
+    "wof:lastmodified":1454358662,
     "wof:name":"Angela's",
     "wof:parent_id":85852193,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.083801,40.278999,-80.083801,40.278999],
-  "geometry": {"coordinates":[-80.083801,40.278999],"type":"Point"}
+  "bbox": [
+    -80.083801,
+    40.278999,
+    -80.083801,
+    40.278999
+],
+  "geometry": {"coordinates":[-80.08380099999999,40.278999],"type":"Point"}
 }

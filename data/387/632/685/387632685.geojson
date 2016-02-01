@@ -2,13 +2,14 @@
   "id": 387632685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.772952,40.345767,-79.772952,40.345767",
     "geom:latitude":40.345767,
     "geom:longitude":-79.772952,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"421 Sherrick Dr",
     "sg:city":"Irwin",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081383,
-        85851055
+        85851055,
+        102081383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"fe48803401baec8aafbb1a08d19e9ffc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":-1,
             "neighbourhood_id":85851055,
             "region_id":85688481,
             "venue_id":387632685
         }
     ],
     "wof:id":387632685,
-    "wof:lastmodified":1449058538,
+    "wof:lastmodified":1454360808,
     "wof:name":"Szekely Inc",
     "wof:parent_id":85851055,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-79.772952,40.345767,-79.772952,40.345767],
+  "bbox": [
+    -79.772952,
+    40.345767,
+    -79.772952,
+    40.345767
+],
   "geometry": {"coordinates":[-79.772952,40.345767],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387646387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.239758,40.24135,-79.239758,40.24135",
     "geom:latitude":40.24135,
     "geom:longitude":-79.239758,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"508 N Market St",
     "sg:city":"Ligonier",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081383,
-        85834295
+        85834295,
+        102081383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"3e72fd29b96cfb739f79c6dd60533af4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":-1,
             "neighbourhood_id":85834295,
             "region_id":85688481,
             "venue_id":387646387
         }
     ],
     "wof:id":387646387,
-    "wof:lastmodified":1449056023,
+    "wof:lastmodified":1454358017,
     "wof:name":"Town & Country Chrysler Dodge",
     "wof:parent_id":85834295,
     "wof:placetype":"venue",
@@ -63,6 +62,11 @@
         "car"
     ]
 },
-  "bbox": [-79.239758,40.24135,-79.239758,40.24135],
-  "geometry": {"coordinates":[-79.239758,40.24135],"type":"Point"}
+  "bbox": [
+    -79.239758,
+    40.24135,
+    -79.239758,
+    40.24135
+],
+  "geometry": {"coordinates":[-79.23975799999999,40.24135],"type":"Point"}
 }

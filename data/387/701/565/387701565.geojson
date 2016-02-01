@@ -2,13 +2,14 @@
   "id": 387701565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.893009,40.850749,-79.893009,40.850749",
     "geom:latitude":40.850749,
     "geom:longitude":-79.893009,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"200 Cottage Hill Ave",
     "sg:city":"Butler",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85865387,
+        102191575,
+        404485059,
         85633793,
         101720139,
         102083677,
-        85865387
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"fde6d01c46299ed471ab871f1db7ab30",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083677,
+            "localadmin_id":404485059,
             "locality_id":101720139,
             "neighbourhood_id":85865387,
             "region_id":85688481,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":387701565,
-    "wof:lastmodified":1449059116,
+    "wof:lastmodified":1454360990,
     "wof:name":"Cooper Machining",
     "wof:parent_id":85865387,
     "wof:placetype":"venue",
@@ -68,6 +72,11 @@
         "machinery-rebuild"
     ]
 },
-  "bbox": [-79.893009,40.850749,-79.893009,40.850749],
-  "geometry": {"coordinates":[-79.893009,40.850749],"type":"Point"}
+  "bbox": [
+    -79.893009,
+    40.850749,
+    -79.893009,
+    40.850749
+],
+  "geometry": {"coordinates":[-79.89300900000001,40.850749],"type":"Point"}
 }

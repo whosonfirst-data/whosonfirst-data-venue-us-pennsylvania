@@ -2,13 +2,14 @@
   "id": 403899447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.820339,40.257744,-76.820339,40.257744",
     "geom:latitude":40.257744,
     "geom:longitude":-76.820339,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3869 Derry St",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -41,8 +42,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85868485
+        85868485,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,17 +53,15 @@
     "wof:geomhash":"8dd2ada81a93b4e19820e5d73d4a465b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85868485,
             "region_id":85688481,
             "venue_id":403899447
         }
     ],
     "wof:id":403899447,
-    "wof:lastmodified":1449055880,
+    "wof:lastmodified":1454357927,
     "wof:name":"Kids World Early Learning Center",
     "wof:parent_id":85868485,
     "wof:placetype":"venue",
@@ -73,6 +72,11 @@
         "day"
     ]
 },
-  "bbox": [-76.820339,40.257744,-76.820339,40.257744],
+  "bbox": [
+    -76.820339,
+    40.257744,
+    -76.820339,
+    40.257744
+],
   "geometry": {"coordinates":[-76.820339,40.257744],"type":"Point"}
 }

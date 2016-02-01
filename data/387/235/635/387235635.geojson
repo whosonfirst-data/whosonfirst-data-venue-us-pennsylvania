@@ -2,13 +2,14 @@
   "id": 387235635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.087419,40.407023,-80.087419,40.407023",
     "geom:latitude":40.407023,
     "geom:longitude":-80.087419,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"31 E Main St",
     "sg:city":"Carnegie",
     "sg:classifiers":[
@@ -36,11 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85821875,
+        102191575,
+        404484865,
         85633793,
         101718775,
         102080887,
-        85821875
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,9 +53,10 @@
     "wof:geomhash":"45a4ab23ed525b7057beed463b1bea28",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484865,
             "locality_id":101718775,
             "neighbourhood_id":85821875,
             "region_id":85688481,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":387235635,
-    "wof:lastmodified":1449056756,
+    "wof:lastmodified":1454358587,
     "wof:name":"Limar Galleries Inc",
     "wof:parent_id":85821875,
     "wof:placetype":"venue",
@@ -74,6 +78,11 @@
         "upholsterer"
     ]
 },
-  "bbox": [-80.087419,40.407023,-80.087419,40.407023],
+  "bbox": [
+    -80.087419,
+    40.407023,
+    -80.087419,
+    40.407023
+],
   "geometry": {"coordinates":[-80.087419,40.407023],"type":"Point"}
 }

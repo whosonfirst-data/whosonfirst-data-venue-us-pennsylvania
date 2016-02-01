@@ -2,13 +2,14 @@
   "id": 404031739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.743967,40.028762,-76.743967,40.028762",
     "geom:latitude":40.028762,
     "geom:longitude":-76.743967,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"51 E Crone Rd",
     "sg:city":"York",
     "sg:classifiers":[
@@ -59,8 +60,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080953,
-        85846231
+        85846231,
+        102080953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,17 +71,15 @@
     "wof:geomhash":"a7ddc07af16f3096ecacf35aa87af7db",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
             "neighbourhood_id":85846231,
             "region_id":85688481,
             "venue_id":404031739
         }
     ],
     "wof:id":404031739,
-    "wof:lastmodified":1449039480,
+    "wof:lastmodified":1454356671,
     "wof:name":"Eisenhart Crane",
     "wof:parent_id":85846231,
     "wof:placetype":"venue",
@@ -100,6 +99,11 @@
         "crane"
     ]
 },
-  "bbox": [-76.743967,40.028762,-76.743967,40.028762],
+  "bbox": [
+    -76.743967,
+    40.028762,
+    -76.743967,
+    40.028762
+],
   "geometry": {"coordinates":[-76.743967,40.028762],"type":"Point"}
 }

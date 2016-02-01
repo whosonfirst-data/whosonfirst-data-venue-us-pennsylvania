@@ -2,13 +2,14 @@
   "id": 404085643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.304565,40.038082,-76.304565,40.038082",
     "geom:latitude":40.038082,
     "geom:longitude":-76.304565,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"28 E King St",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -42,11 +43,13 @@
     "sg:website":"http://www.anniebaileysirishpub.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85818111,
+        102191575,
+        404487183,
         85633793,
         101718643,
         102081377,
-        85818111
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,9 +59,10 @@
     "wof:geomhash":"8e32ac656b6baf1db6b9eef9f2867d80",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081377,
+            "localadmin_id":404487183,
             "locality_id":101718643,
             "neighbourhood_id":85818111,
             "region_id":85688481,
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":404085643,
-    "wof:lastmodified":1449039345,
+    "wof:lastmodified":1454356584,
     "wof:name":"Annie Baileys Irish Pub & Restaurant",
     "wof:parent_id":85818111,
     "wof:placetype":"venue",
@@ -80,6 +84,11 @@
         "wedding"
     ]
 },
-  "bbox": [-76.304565,40.038082,-76.304565,40.038082],
+  "bbox": [
+    -76.304565,
+    40.038082,
+    -76.304565,
+    40.038082
+],
   "geometry": {"coordinates":[-76.304565,40.038082],"type":"Point"}
 }

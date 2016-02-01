@@ -2,13 +2,14 @@
   "id": 404087129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.290211,40.027097,-76.290211,40.027097",
     "geom:latitude":40.027097,
     "geom:longitude":-76.290211,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1131 S Duke St",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85851485
+        85851485,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"5abd32ae9ee1c43a62c98a5ce72e378c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85851485,
             "region_id":85688481,
             "venue_id":404087129
         }
     ],
     "wof:id":404087129,
-    "wof:lastmodified":1449039569,
+    "wof:lastmodified":1454356719,
     "wof:name":"Docsis Test Headend",
     "wof:parent_id":85851485,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "inspection"
     ]
 },
-  "bbox": [-76.290211,40.027097,-76.290211,40.027097],
+  "bbox": [
+    -76.290211,
+    40.027097,
+    -76.290211,
+    40.027097
+],
   "geometry": {"coordinates":[-76.290211,40.027097],"type":"Point"}
 }

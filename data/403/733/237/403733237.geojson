@@ -2,13 +2,14 @@
   "id": 403733237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.416893,40.342856,-76.416893,40.342856",
     "geom:latitude":40.342856,
     "geom:longitude":-76.416893,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"243 Schneider Dr",
     "sg:city":"Lebanon",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85824511,
+        102191575,
+        404485817,
         85633793,
-        101719403,
+        101719375,
         102081341,
-        85824511
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +41,18 @@
     "wof:geomhash":"8e994a4b8c79de0c8b7bb3c0714c5821",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081341,
-            "locality_id":101719403,
+            "localadmin_id":404485817,
+            "locality_id":101719375,
             "neighbourhood_id":85824511,
             "region_id":85688481,
             "venue_id":403733237
         }
     ],
     "wof:id":403733237,
-    "wof:lastmodified":1449054803,
+    "wof:lastmodified":1454357293,
     "wof:name":"Setco",
     "wof:parent_id":85824511,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.416893,40.342856,-76.416893,40.342856],
+  "bbox": [
+    -76.416893,
+    40.342856,
+    -76.416893,
+    40.342856
+],
   "geometry": {"coordinates":[-76.416893,40.342856],"type":"Point"}
 }

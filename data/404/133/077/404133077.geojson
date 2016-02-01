@@ -2,13 +2,14 @@
   "id": 404133077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.014431,40.958024,-77.014431,40.958024",
     "geom:latitude":40.958024,
     "geom:longitude":-77.014431,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6611 Buffalo Rd",
     "sg:city":"Mifflinburg",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081335,
-        85851813
+        85851813,
+        102081335
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"15e57d8ac8f39ace703b66bc2dfed170",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081335,
-            "locality_id":-1,
             "neighbourhood_id":85851813,
             "region_id":85688481,
             "venue_id":404133077
         }
     ],
     "wof:id":404133077,
-    "wof:lastmodified":1449040095,
+    "wof:lastmodified":1454357001,
     "wof:name":"Hartmans Junk & Auto Wrecking",
     "wof:parent_id":85851813,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "junk"
     ]
 },
-  "bbox": [-77.014431,40.958024,-77.014431,40.958024],
+  "bbox": [
+    -77.014431,
+    40.958024,
+    -77.014431,
+    40.958024
+],
   "geometry": {"coordinates":[-77.014431,40.958024],"type":"Point"}
 }

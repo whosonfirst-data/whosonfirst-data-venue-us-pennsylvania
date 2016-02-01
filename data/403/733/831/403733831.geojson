@@ -2,13 +2,14 @@
   "id": 403733831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.445557,40.344912,-76.445557,40.344912",
     "geom:latitude":40.344912,
     "geom:longitude":-76.445557,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1920 Lehman St",
     "sg:city":"Lebanon",
     "sg:classifiers":[
@@ -24,7 +25,12 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420538695,
+        102191575,
+        404485699,
         85633793,
+        101717093,
+        102081341,
         85688481
     ],
     "wof:breaches":[],
@@ -35,23 +41,30 @@
     "wof:geomhash":"2d02c4419308a80e8390f3d9394aa96e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081341,
+            "localadmin_id":404485699,
+            "locality_id":101717093,
+            "neighbourhood_id":420538695,
             "region_id":85688481,
             "venue_id":403733831
         }
     ],
     "wof:id":403733831,
-    "wof:lastmodified":1449054806,
+    "wof:lastmodified":1454357295,
     "wof:name":"Rescue Social Club Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420538695,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.445557,40.344912,-76.445557,40.344912],
-  "geometry": {"coordinates":[-76.445557,40.344912],"type":"Point"}
+  "bbox": [
+    -76.445557,
+    40.344912,
+    -76.445557,
+    40.344912
+],
+  "geometry": {"coordinates":[-76.44555699999999,40.344912],"type":"Point"}
 }

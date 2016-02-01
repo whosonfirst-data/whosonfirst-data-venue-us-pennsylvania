@@ -2,13 +2,14 @@
   "id": 404052797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.113314,39.823273,-76.113314,39.823273",
     "geom:latitude":39.823273,
     "geom:longitude":-76.113314,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2530 Noble Rd",
     "sg:city":"Kirkwood",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85857465
+        85857465,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"b5f9d9cd1248e2b164e3ce3712f4a4ce",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85857465,
             "region_id":85688481,
             "venue_id":404052797
         }
     ],
     "wof:id":404052797,
-    "wof:lastmodified":1449039557,
+    "wof:lastmodified":1454356713,
     "wof:name":"Fairmount Woodworking",
     "wof:parent_id":85857465,
     "wof:placetype":"venue",
@@ -64,6 +63,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-76.113314,39.823273,-76.113314,39.823273],
+  "bbox": [
+    -76.113314,
+    39.823273,
+    -76.113314,
+    39.823273
+],
   "geometry": {"coordinates":[-76.113314,39.823273],"type":"Point"}
 }

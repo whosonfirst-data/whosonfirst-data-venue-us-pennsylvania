@@ -2,13 +2,14 @@
   "id": 403899081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.830822,40.260793,-76.830822,40.260793",
     "geom:latitude":40.260793,
     "geom:longitude":-76.830822,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3530 Rutherford St",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85868485
+        85868485,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"c5ce5891eea42bce977bc9588158653f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85868485,
             "region_id":85688481,
             "venue_id":403899081
         }
     ],
     "wof:id":403899081,
-    "wof:lastmodified":1449055880,
+    "wof:lastmodified":1454357926,
     "wof:name":"Central Dauphin School District",
     "wof:parent_id":85868485,
     "wof:placetype":"venue",
@@ -64,6 +63,11 @@
         "elementary"
     ]
 },
-  "bbox": [-76.830822,40.260793,-76.830822,40.260793],
+  "bbox": [
+    -76.830822,
+    40.260793,
+    -76.830822,
+    40.260793
+],
   "geometry": {"coordinates":[-76.830822,40.260793],"type":"Point"}
 }

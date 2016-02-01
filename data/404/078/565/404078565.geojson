@@ -2,13 +2,14 @@
   "id": 404078565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.30239,40.066426,-76.30239,40.066426",
     "geom:latitude":40.066426,
     "geom:longitude":-76.30239,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"204 Butler Ave Ste 101",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85811259
+        85811259,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"5fb983280af370526745a0d9c1e395e4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85811259,
             "region_id":85688481,
             "venue_id":404078565
         }
     ],
     "wof:id":404078565,
-    "wof:lastmodified":1449040137,
+    "wof:lastmodified":1454357026,
     "wof:name":"Lynn L Roth Attorney",
     "wof:parent_id":85811259,
     "wof:placetype":"venue",
@@ -72,6 +71,11 @@
         "trust"
     ]
 },
-  "bbox": [-76.30239,40.066426,-76.30239,40.066426],
+  "bbox": [
+    -76.30239,
+    40.066426,
+    -76.30239,
+    40.066426
+],
   "geometry": {"coordinates":[-76.30239,40.066426],"type":"Point"}
 }

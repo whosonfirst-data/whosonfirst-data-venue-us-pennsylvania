@@ -2,13 +2,14 @@
   "id": 387235997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.077414,40.402018,-80.077414,40.402018",
     "geom:latitude":40.402018,
     "geom:longitude":-80.077414,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"24 Carol Dr",
     "sg:city":"Carnegie",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85816087,
+        102191575,
+        404484941,
         85633793,
         101718673,
         102080887,
-        85816087
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"9ff7824f6a8f47b599ecb45898f3420b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484941,
             "locality_id":101718673,
             "neighbourhood_id":85816087,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387235997,
-    "wof:lastmodified":1449056759,
+    "wof:lastmodified":1454358588,
     "wof:name":"Barnett Insurance, Inc.",
     "wof:parent_id":85816087,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "business"
     ]
 },
-  "bbox": [-80.077414,40.402018,-80.077414,40.402018],
+  "bbox": [
+    -80.077414,
+    40.402018,
+    -80.077414,
+    40.402018
+],
   "geometry": {"coordinates":[-80.077414,40.402018],"type":"Point"}
 }

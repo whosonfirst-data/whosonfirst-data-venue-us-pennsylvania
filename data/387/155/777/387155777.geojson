@@ -2,13 +2,14 @@
   "id": 387155777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.803421,40.549003,-79.803421,40.549003",
     "geom:latitude":40.549003,
     "geom:longitude":-79.803421,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"831 Parkway Dr",
     "sg:city":"Harwick",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85839857,
+        102191575,
+        404484317,
         85633793,
         101718751,
         102080887,
-        85839857
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"4d8afa26a1fb6737cf369d9b066258df",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484317,
             "locality_id":101718751,
             "neighbourhood_id":85839857,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387155777,
-    "wof:lastmodified":1449059255,
+    "wof:lastmodified":1454361027,
     "wof:name":"K & M Industries",
     "wof:parent_id":85839857,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "carpenter"
     ]
 },
-  "bbox": [-79.803421,40.549003,-79.803421,40.549003],
+  "bbox": [
+    -79.803421,
+    40.549003,
+    -79.803421,
+    40.549003
+],
   "geometry": {"coordinates":[-79.803421,40.549003],"type":"Point"}
 }

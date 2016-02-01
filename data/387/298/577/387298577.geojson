@@ -2,13 +2,14 @@
   "id": 387298577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.113503,40.451,-80.113503,40.451",
     "geom:latitude":40.451,
     "geom:longitude":-80.113503,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5676 Steubenville Pike",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85835117
+        85835117,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"f17619a05de7819bfebe735c11c77c50",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85835117,
             "region_id":85688481,
             "venue_id":387298577
         }
     ],
     "wof:id":387298577,
-    "wof:lastmodified":1449057132,
+    "wof:lastmodified":1454358865,
     "wof:name":"Pittsburgh Financial Network",
     "wof:parent_id":85835117,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-80.113503,40.451,-80.113503,40.451],
-  "geometry": {"coordinates":[-80.113503,40.451],"type":"Point"}
+  "bbox": [
+    -80.113503,
+    40.451,
+    -80.113503,
+    40.451
+],
+  "geometry": {"coordinates":[-80.11350299999999,40.451],"type":"Point"}
 }

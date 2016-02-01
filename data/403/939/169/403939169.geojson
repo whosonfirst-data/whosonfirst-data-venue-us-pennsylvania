@@ -2,13 +2,14 @@
   "id": 403939169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.570805,40.132671,-77.570805,40.132671",
     "geom:latitude":40.132671,
     "geom:longitude":-77.570805,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"311 Newburg Rd",
     "sg:city":"Newburg",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081365,
-        85833285
+        85833285,
+        102081365
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"60786e50d66dc8d4f3b91b3fa16ac82f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081365,
-            "locality_id":-1,
             "neighbourhood_id":85833285,
             "region_id":85688481,
             "venue_id":403939169
         }
     ],
     "wof:id":403939169,
-    "wof:lastmodified":1449055040,
+    "wof:lastmodified":1454357431,
     "wof:name":"Paul G Weist Jr Masonry",
     "wof:parent_id":85833285,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-77.570805,40.132671,-77.570805,40.132671],
-  "geometry": {"coordinates":[-77.570805,40.132671],"type":"Point"}
+  "bbox": [
+    -77.570805,
+    40.132671,
+    -77.570805,
+    40.132671
+],
+  "geometry": {"coordinates":[-77.57080499999999,40.132671],"type":"Point"}
 }

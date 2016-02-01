@@ -2,13 +2,14 @@
   "id": 387509739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.882163,40.487608,-79.882163,40.487608",
     "geom:latitude":40.487608,
     "geom:longitude":-79.882163,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1124 Freeport Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -41,8 +42,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85836241
+        85836241,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,17 +53,15 @@
     "wof:geomhash":"5da5666d46dbec29b0a2c5eb73a092f9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85836241,
             "region_id":85688481,
             "venue_id":387509739
         }
     ],
     "wof:id":387509739,
-    "wof:lastmodified":1449056271,
+    "wof:lastmodified":1454358213,
     "wof:name":"Tai Pei Chinese Restaurant",
     "wof:parent_id":85836241,
     "wof:placetype":"venue",
@@ -78,6 +77,11 @@
         "fine"
     ]
 },
-  "bbox": [-79.882163,40.487608,-79.882163,40.487608],
-  "geometry": {"coordinates":[-79.882163,40.487608],"type":"Point"}
+  "bbox": [
+    -79.882163,
+    40.487608,
+    -79.882163,
+    40.487608
+],
+  "geometry": {"coordinates":[-79.88216300000001,40.487608],"type":"Point"}
 }

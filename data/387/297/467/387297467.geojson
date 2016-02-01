@@ -2,13 +2,14 @@
   "id": 387297467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.066309,40.435561,-80.066309,40.435561",
     "geom:latitude":40.435561,
     "geom:longitude":-80.066309,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"26 E Crafton Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536243,
+        102191575,
+        404482523,
         85633793,
-        101718739,
-        102080887
+        101718805,
+        102080887,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,24 +46,30 @@
     "wof:geomhash":"187b6a4dd54d356e8fa2c92fe29ed2f3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":101718739,
-            "neighbourhood_id":-1,
+            "localadmin_id":404482523,
+            "locality_id":101718805,
+            "neighbourhood_id":420536243,
             "region_id":85688481,
             "venue_id":387297467
         }
     ],
     "wof:id":387297467,
-    "wof:lastmodified":1449058528,
+    "wof:lastmodified":1454360805,
     "wof:name":"Sun Rays Tanning & Nails",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536243,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.066309,40.435561,-80.066309,40.435561],
+  "bbox": [
+    -80.066309,
+    40.435561,
+    -80.066309,
+    40.435561
+],
   "geometry": {"coordinates":[-80.066309,40.435561],"type":"Point"}
 }

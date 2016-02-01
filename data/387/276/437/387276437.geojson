@@ -2,13 +2,14 @@
   "id": 387276437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.762871,40.4585,-79.762871,40.4585",
     "geom:latitude":40.4585,
     "geom:longitude":-79.762871,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"200 Starr Dr",
     "sg:city":"Monroeville",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     "sg:website":"http://www.mvfd5.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85821019,
+        102191575,
+        404484135,
         85633793,
         101718841,
         102080887,
-        85821019
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"3456f4dcbcafa16d048f57f4d51b8e46",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484135,
             "locality_id":101718841,
             "neighbourhood_id":85821019,
             "region_id":85688481,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":387276437,
-    "wof:lastmodified":1449056257,
+    "wof:lastmodified":1454358204,
     "wof:name":"Monroeville Public Works",
     "wof:parent_id":85821019,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "village"
     ]
 },
-  "bbox": [-79.762871,40.4585,-79.762871,40.4585],
+  "bbox": [
+    -79.762871,
+    40.4585,
+    -79.762871,
+    40.4585
+],
   "geometry": {"coordinates":[-79.762871,40.4585],"type":"Point"}
 }

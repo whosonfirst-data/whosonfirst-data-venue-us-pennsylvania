@@ -2,13 +2,14 @@
   "id": 387302417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.924019,40.47073,-79.924019,40.47073",
     "geom:latitude":40.47073,
     "geom:longitude":-79.924019,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5701 Stanton Ave Apt 11",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85816533,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85816533
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"fadfb1a07771130f4523c5c6de7bb4f9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85816533,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387302417,
-    "wof:lastmodified":1449057382,
+    "wof:lastmodified":1454359075,
     "wof:name":"Waltzing Bear Music The Folk Music Source",
     "wof:parent_id":85816533,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "distribution"
     ]
 },
-  "bbox": [-79.924019,40.47073,-79.924019,40.47073],
+  "bbox": [
+    -79.924019,
+    40.47073,
+    -79.924019,
+    40.47073
+],
   "geometry": {"coordinates":[-79.924019,40.47073],"type":"Point"}
 }

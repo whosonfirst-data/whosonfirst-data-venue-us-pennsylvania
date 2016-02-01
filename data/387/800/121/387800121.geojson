@@ -2,13 +2,14 @@
   "id": 387800121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.153231,41.842088,-79.153231,41.842088",
     "geom:latitude":41.842088,
     "geom:longitude":-79.153231,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"117 Main Ave",
     "sg:city":"Warren",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85853597,
+        102191575,
+        404487619,
         85633793,
         101719505,
         102081337,
-        85853597
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"a91a9cf0542ec09db22278a30de86f99",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081337,
+            "localadmin_id":404487619,
             "locality_id":101719505,
             "neighbourhood_id":85853597,
             "region_id":85688481,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":387800121,
-    "wof:lastmodified":1449056412,
+    "wof:lastmodified":1454358327,
     "wof:name":"McKinney Funeral Homes and Cremation Services Inc",
     "wof:parent_id":85853597,
     "wof:placetype":"venue",
@@ -72,6 +76,11 @@
         "crematory"
     ]
 },
-  "bbox": [-79.153231,41.842088,-79.153231,41.842088],
-  "geometry": {"coordinates":[-79.153231,41.842088],"type":"Point"}
+  "bbox": [
+    -79.153231,
+    41.842088,
+    -79.153231,
+    41.842088
+],
+  "geometry": {"coordinates":[-79.15323100000001,41.842088],"type":"Point"}
 }

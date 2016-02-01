@@ -2,13 +2,14 @@
   "id": 403894005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.848198,40.254601,-76.848198,40.254601",
     "geom:latitude":40.254601,
     "geom:longitude":-76.848198,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2201 Sycamore St",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85868485
+        85868485,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"48882352a5fe7c7f8abb89430a43a361",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85868485,
             "region_id":85688481,
             "venue_id":403894005
         }
     ],
     "wof:id":403894005,
-    "wof:lastmodified":1449055174,
+    "wof:lastmodified":1454357512,
     "wof:name":"Faulkner Suzuki",
     "wof:parent_id":85868485,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "car"
     ]
 },
-  "bbox": [-76.848198,40.254601,-76.848198,40.254601],
+  "bbox": [
+    -76.848198,
+    40.254601,
+    -76.848198,
+    40.254601
+],
   "geometry": {"coordinates":[-76.848198,40.254601],"type":"Point"}
 }

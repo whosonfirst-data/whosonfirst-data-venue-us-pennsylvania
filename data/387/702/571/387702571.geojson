@@ -2,13 +2,14 @@
   "id": 387702571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.886784,40.852348,-79.886784,40.852348",
     "geom:latitude":40.852348,
     "geom:longitude":-79.886784,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"143 Sherman Ave",
     "sg:city":"Butler",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85865387,
+        102191575,
+        404485059,
         85633793,
         101720139,
         102083677,
-        85865387
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"6c9f0dc56d3927513b9c053bcf469aea",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083677,
+            "localadmin_id":404485059,
             "locality_id":101720139,
             "neighbourhood_id":85865387,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387702571,
-    "wof:lastmodified":1449058007,
+    "wof:lastmodified":1454360650,
     "wof:name":"All Junk Be Gone",
     "wof:parent_id":85865387,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "garbage"
     ]
 },
-  "bbox": [-79.886784,40.852348,-79.886784,40.852348],
-  "geometry": {"coordinates":[-79.886784,40.852348],"type":"Point"}
+  "bbox": [
+    -79.886784,
+    40.852348,
+    -79.886784,
+    40.852348
+],
+  "geometry": {"coordinates":[-79.88678400000001,40.852348],"type":"Point"}
 }

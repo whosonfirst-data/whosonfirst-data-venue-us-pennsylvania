@@ -2,13 +2,14 @@
   "id": 403989749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.960501,39.771774,-76.960501,39.771774",
     "geom:latitude":39.771774,
     "geom:longitude":-76.960501,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1424 Baltimore St",
     "sg:city":"Hanover",
     "sg:classifiers":[
@@ -45,8 +46,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080953,
-        85806445
+        85806445,
+        102080953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,17 +57,15 @@
     "wof:geomhash":"428ba8be3f64c3070fac9639a407c593",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
             "neighbourhood_id":85806445,
             "region_id":85688481,
             "venue_id":403989749
         }
     ],
     "wof:id":403989749,
-    "wof:lastmodified":1449055588,
+    "wof:lastmodified":1454357762,
     "wof:name":"Nell's Shurfine Market",
     "wof:parent_id":85806445,
     "wof:placetype":"venue",
@@ -76,6 +75,11 @@
         "super"
     ]
 },
-  "bbox": [-76.960501,39.771774,-76.960501,39.771774],
-  "geometry": {"coordinates":[-76.960501,39.771774],"type":"Point"}
+  "bbox": [
+    -76.960501,
+    39.771774,
+    -76.960501,
+    39.771774
+],
+  "geometry": {"coordinates":[-76.96050099999999,39.771774],"type":"Point"}
 }

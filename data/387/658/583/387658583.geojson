@@ -2,13 +2,14 @@
   "id": 387658583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.218609,40.443378,-79.218609,40.443378",
     "geom:latitude":40.443378,
     "geom:longitude":-79.218609,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"62 Pine Ridge Rd",
     "sg:city":"Blairsville",
     "sg:classifiers":[
@@ -28,7 +29,12 @@
     "sg:website":"http://www.blairsvillesuites.hamptoninn.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420538361,
+        102191575,
+        404486345,
         85633793,
+        101718953,
+        102081387,
         85688481
     ],
     "wof:breaches":[],
@@ -39,18 +45,20 @@
     "wof:geomhash":"68cc5e405c0213b72a548b590a97c3e9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081387,
+            "localadmin_id":404486345,
+            "locality_id":101718953,
+            "neighbourhood_id":420538361,
             "region_id":85688481,
             "venue_id":387658583
         }
     ],
     "wof:id":387658583,
-    "wof:lastmodified":1449056032,
+    "wof:lastmodified":1454358025,
     "wof:name":"Hampton Inn and Suites",
-    "wof:parent_id":-1,
+    "wof:parent_id":420538361,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -58,6 +66,11 @@
         "lodging"
     ]
 },
-  "bbox": [-79.218609,40.443378,-79.218609,40.443378],
+  "bbox": [
+    -79.218609,
+    40.443378,
+    -79.218609,
+    40.443378
+],
   "geometry": {"coordinates":[-79.218609,40.443378],"type":"Point"}
 }

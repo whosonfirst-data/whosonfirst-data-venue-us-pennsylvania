@@ -2,13 +2,14 @@
   "id": 387271833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.763894,40.438919,-79.763894,40.438919",
     "geom:latitude":40.438919,
     "geom:longitude":-79.763894,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4184 William Penn Hwy",
     "sg:city":"Monroeville",
     "sg:classifiers":[
@@ -40,11 +41,13 @@
     "sg:website":"http://www.rolypoly.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85821019,
+        102191575,
+        404484135,
         85633793,
         101718841,
         102080887,
-        85821019
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,9 +57,10 @@
     "wof:geomhash":"e61c1ca69fa12193485b70cb25abbbbd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484135,
             "locality_id":101718841,
             "neighbourhood_id":85821019,
             "region_id":85688481,
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":387271833,
-    "wof:lastmodified":1449058099,
+    "wof:lastmodified":1454360680,
     "wof:name":"Roly Poly",
     "wof:parent_id":85821019,
     "wof:placetype":"venue",
@@ -76,6 +80,11 @@
         "take"
     ]
 },
-  "bbox": [-79.763894,40.438919,-79.763894,40.438919],
-  "geometry": {"coordinates":[-79.763894,40.438919],"type":"Point"}
+  "bbox": [
+    -79.763894,
+    40.438919,
+    -79.763894,
+    40.438919
+],
+  "geometry": {"coordinates":[-79.76389399999999,40.438919],"type":"Point"}
 }

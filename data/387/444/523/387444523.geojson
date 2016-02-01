@@ -2,13 +2,14 @@
   "id": 387444523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.044476,40.369898,-80.044476,40.369898",
     "geom:latitude":40.369898,
     "geom:longitude":-80.044476,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"215 Main Entrance Dr",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85805039
+        85805039,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"cc4414bcd7e47b6170843ea474083f8a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85805039,
             "region_id":85688481,
             "venue_id":387444523
         }
     ],
     "wof:id":387444523,
-    "wof:lastmodified":1449059403,
+    "wof:lastmodified":1454361071,
     "wof:name":"Wells Properties",
     "wof:parent_id":85805039,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "apartment"
     ]
 },
-  "bbox": [-80.044476,40.369898,-80.044476,40.369898],
+  "bbox": [
+    -80.044476,
+    40.369898,
+    -80.044476,
+    40.369898
+],
   "geometry": {"coordinates":[-80.044476,40.369898],"type":"Point"}
 }

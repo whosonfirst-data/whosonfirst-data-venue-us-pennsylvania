@@ -2,13 +2,14 @@
   "id": 387271507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.787815,40.545344,-79.787815,40.545344",
     "geom:latitude":40.545344,
     "geom:longitude":-79.787815,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"522 Maple Ave",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85839857,
+        102191575,
+        404484317,
         85633793,
         101718751,
         102080887,
-        85839857
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"89889dbf328d9b2c05c8f606c6a7aed5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484317,
             "locality_id":101718751,
             "neighbourhood_id":85839857,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387271507,
-    "wof:lastmodified":1449058102,
+    "wof:lastmodified":1454360680,
     "wof:name":"Matisko Insur Consultanting",
     "wof:parent_id":85839857,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "business"
     ]
 },
-  "bbox": [-79.787815,40.545344,-79.787815,40.545344],
-  "geometry": {"coordinates":[-79.787815,40.545344],"type":"Point"}
+  "bbox": [
+    -79.787815,
+    40.545344,
+    -79.787815,
+    40.545344
+],
+  "geometry": {"coordinates":[-79.78781499999999,40.545344],"type":"Point"}
 }

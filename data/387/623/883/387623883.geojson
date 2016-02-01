@@ -2,13 +2,14 @@
   "id": 387623883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.530474,40.302856,-79.530474,40.302856",
     "geom:latitude":40.302856,
     "geom:longitude":-79.530474,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"640 E Pittsburgh St",
     "sg:city":"Greensburg",
     "sg:classifiers":[
@@ -54,8 +55,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081383,
-        85851151
+        85851151,
+        102081383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,17 +66,15 @@
     "wof:geomhash":"6eec6af9184643bfb34e7e3dfce12b03",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":-1,
             "neighbourhood_id":85851151,
             "region_id":85688481,
             "venue_id":387623883
         }
     ],
     "wof:id":387623883,
-    "wof:lastmodified":1449058781,
+    "wof:lastmodified":1454360879,
     "wof:name":"Advance Auto Parts",
     "wof:parent_id":85851151,
     "wof:placetype":"venue",
@@ -94,6 +93,11 @@
         "batteries-storage"
     ]
 },
-  "bbox": [-79.530474,40.302856,-79.530474,40.302856],
+  "bbox": [
+    -79.530474,
+    40.302856,
+    -79.530474,
+    40.302856
+],
   "geometry": {"coordinates":[-79.530474,40.302856],"type":"Point"}
 }

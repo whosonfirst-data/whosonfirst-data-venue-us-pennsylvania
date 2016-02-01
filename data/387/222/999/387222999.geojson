@@ -2,13 +2,14 @@
   "id": 387222999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.034809,40.343246,-80.034809,40.343246",
     "geom:latitude":40.343246,
     "geom:longitude":-80.034809,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2518 Bethel Church Rd",
     "sg:city":"Bethel Park",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"www.compudok.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85807579,
+        102191575,
+        404484853,
         85633793,
         101718799,
         102080887,
-        85807579
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"c2db307c583edf366e0aac49731b6d6a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484853,
             "locality_id":101718799,
             "neighbourhood_id":85807579,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387222999,
-    "wof:lastmodified":1449058656,
+    "wof:lastmodified":1454360842,
     "wof:name":"Compudok",
     "wof:parent_id":85807579,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "repair"
     ]
 },
-  "bbox": [-80.034809,40.343246,-80.034809,40.343246],
+  "bbox": [
+    -80.034809,
+    40.343246,
+    -80.034809,
+    40.343246
+],
   "geometry": {"coordinates":[-80.034809,40.343246],"type":"Point"}
 }

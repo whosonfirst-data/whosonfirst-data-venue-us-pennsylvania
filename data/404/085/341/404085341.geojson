@@ -2,13 +2,14 @@
   "id": 404085341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.237848,40.035065,-76.237848,40.035065",
     "geom:latitude":40.035065,
     "geom:longitude":-76.237848,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"247 Black Oak Dr",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85823025
+        85823025,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"d4011ba84c39df8207f4abb2108bc9a0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85823025,
             "region_id":85688481,
             "venue_id":404085341
         }
     ],
     "wof:id":404085341,
-    "wof:lastmodified":1449039347,
+    "wof:lastmodified":1454356584,
     "wof:name":"Nichols Insurance Service",
     "wof:parent_id":85823025,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "business"
     ]
 },
-  "bbox": [-76.237848,40.035065,-76.237848,40.035065],
+  "bbox": [
+    -76.237848,
+    40.035065,
+    -76.237848,
+    40.035065
+],
   "geometry": {"coordinates":[-76.237848,40.035065],"type":"Point"}
 }

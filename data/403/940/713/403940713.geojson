@@ -2,13 +2,14 @@
   "id": 403940713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.341884,40.119463,-77.341884,40.119463",
     "geom:latitude":40.119463,
     "geom:longitude":-77.341884,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"950 Centerville Rd",
     "sg:city":"Newville",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081359,
-        85813235
+        85813235,
+        102081359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"92babe6f2ac94e854778513fecd3d68c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081359,
-            "locality_id":-1,
             "neighbourhood_id":85813235,
             "region_id":85688481,
             "venue_id":403940713
         }
     ],
     "wof:id":403940713,
-    "wof:lastmodified":1449054977,
+    "wof:lastmodified":1454357398,
     "wof:name":"Cardinal Logistics",
     "wof:parent_id":85813235,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-77.341884,40.119463,-77.341884,40.119463],
-  "geometry": {"coordinates":[-77.341884,40.119463],"type":"Point"}
+  "bbox": [
+    -77.341884,
+    40.119463,
+    -77.341884,
+    40.119463
+],
+  "geometry": {"coordinates":[-77.34188399999999,40.119463],"type":"Point"}
 }

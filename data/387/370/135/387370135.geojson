@@ -2,13 +2,14 @@
   "id": 387370135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.988602,40.440498,-79.988602,40.440498",
     "geom:latitude":40.440498,
     "geom:longitude":-79.988602,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1420 Centre Ave Ste 2",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85873583,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85873583
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"e5b7dcd8ae57369a05f87d20c5c2e8a2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85873583,
             "region_id":85688481,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":387370135,
-    "wof:lastmodified":1449058187,
+    "wof:lastmodified":1454360704,
     "wof:name":"Class Act II Cleaners and Tuxedo Rental",
     "wof:parent_id":85873583,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.988602,40.440498,-79.988602,40.440498],
+  "bbox": [
+    -79.988602,
+    40.440498,
+    -79.988602,
+    40.440498
+],
   "geometry": {"coordinates":[-79.988602,40.440498],"type":"Point"}
 }

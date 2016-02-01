@@ -2,13 +2,14 @@
   "id": 404126239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.596443,40.965363,-76.596443,40.965363",
     "geom:latitude":40.965363,
     "geom:longitude":-76.596443,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1217 Bloom St",
     "sg:city":"Danville",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080931,
-        85833629
+        85833629,
+        102080931
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"12640e12f668aef378309affe276d01e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080931,
-            "locality_id":-1,
             "neighbourhood_id":85833629,
             "region_id":85688481,
             "venue_id":404126239
         }
     ],
     "wof:id":404126239,
-    "wof:lastmodified":1449039472,
+    "wof:lastmodified":1454356667,
     "wof:name":"Erie Insurance",
     "wof:parent_id":85833629,
     "wof:placetype":"venue",
@@ -63,6 +62,11 @@
         "business"
     ]
 },
-  "bbox": [-76.596443,40.965363,-76.596443,40.965363],
-  "geometry": {"coordinates":[-76.596443,40.965363],"type":"Point"}
+  "bbox": [
+    -76.596443,
+    40.965363,
+    -76.596443,
+    40.965363
+],
+  "geometry": {"coordinates":[-76.59644299999999,40.965363],"type":"Point"}
 }

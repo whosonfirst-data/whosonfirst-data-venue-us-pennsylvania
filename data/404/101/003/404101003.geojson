@@ -2,13 +2,14 @@
   "id": 404101003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.052473,41.235055,-77.052473,41.235055",
     "geom:latitude":41.235055,
     "geom:longitude":-77.052473,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2134 W 3rd St",
     "sg:city":"Williamsport",
     "sg:classifiers":[
@@ -43,7 +44,6 @@
     "wof:geomhash":"dfb5b34b25a7d8a77bd9c7440167e27d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081317,
             "locality_id":101719105,
@@ -53,7 +53,7 @@
         }
     ],
     "wof:id":404101003,
-    "wof:lastmodified":1449039766,
+    "wof:lastmodified":1454356782,
     "wof:name":"Kings Rental",
     "wof:parent_id":85821053,
     "wof:placetype":"venue",
@@ -65,6 +65,11 @@
         "store"
     ]
 },
-  "bbox": [-77.052473,41.235055,-77.052473,41.235055],
-  "geometry": {"coordinates":[-77.052473,41.235055],"type":"Point"}
+  "bbox": [
+    -77.052473,
+    41.235055,
+    -77.052473,
+    41.235055
+],
+  "geometry": {"coordinates":[-77.05247300000001,41.235055],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387595167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.665398,39.9818,-79.665398,39.9818",
     "geom:latitude":39.9818,
     "geom:longitude":-79.665398,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"537 Monarch Rd",
     "sg:city":"Dunbar",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080959,
-        85831959
+        85831959,
+        102080959
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"35615c47d04d36149c10c7f4ce341d51",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080959,
-            "locality_id":-1,
             "neighbourhood_id":85831959,
             "region_id":85688481,
             "venue_id":387595167
         }
     ],
     "wof:id":387595167,
-    "wof:lastmodified":1449059548,
+    "wof:lastmodified":1454361112,
     "wof:name":"Brown's Auto Service",
     "wof:parent_id":85831959,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "towing"
     ]
 },
-  "bbox": [-79.665398,39.9818,-79.665398,39.9818],
+  "bbox": [
+    -79.665398,
+    39.9818,
+    -79.665398,
+    39.9818
+],
   "geometry": {"coordinates":[-79.665398,39.9818],"type":"Point"}
 }

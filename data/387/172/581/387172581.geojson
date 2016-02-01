@@ -2,13 +2,14 @@
   "id": 387172581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.940002,40.206699,-79.940002,40.206699",
     "geom:latitude":40.206699,
     "geom:longitude":-79.940002,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"200 Dry Run Rd",
     "sg:city":"Monongahela",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     "sg:website":"http://www.primamarketing.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420539901,
+        102191575,
+        404487805,
         85633793,
         101718465,
-        102081343
+        102081343,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,24 +47,30 @@
     "wof:geomhash":"713688b98eb627918d3b923a443281d6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081343,
+            "localadmin_id":404487805,
             "locality_id":101718465,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420539901,
             "region_id":85688481,
             "venue_id":387172581
         }
     ],
     "wof:id":387172581,
-    "wof:lastmodified":1449057638,
+    "wof:lastmodified":1454360539,
     "wof:name":"Pennzmart",
-    "wof:parent_id":-1,
+    "wof:parent_id":420539901,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.940002,40.206699,-79.940002,40.206699],
-  "geometry": {"coordinates":[-79.940002,40.206699],"type":"Point"}
+  "bbox": [
+    -79.940002,
+    40.206699,
+    -79.940002,
+    40.206699
+],
+  "geometry": {"coordinates":[-79.94000200000001,40.206699],"type":"Point"}
 }

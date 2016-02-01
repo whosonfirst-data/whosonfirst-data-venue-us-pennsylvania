@@ -2,13 +2,14 @@
   "id": 403784391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.862539,40.213669,-76.862539,40.213669",
     "geom:latitude":40.213669,
     "geom:longitude":-76.862539,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"208 Fairview Plz",
     "sg:city":"New Cumberland",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080953,
-        85844213
+        85844213,
+        102080953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"68e1dbd60e79dd6c7ec5d3b3af24110b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
             "neighbourhood_id":85844213,
             "region_id":85688481,
             "venue_id":403784391
         }
     ],
     "wof:id":403784391,
-    "wof:lastmodified":1449055501,
+    "wof:lastmodified":1454357708,
     "wof:name":"Pizza Land and Sandwiches",
     "wof:parent_id":85844213,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "sandwich"
     ]
 },
-  "bbox": [-76.862539,40.213669,-76.862539,40.213669],
+  "bbox": [
+    -76.862539,
+    40.213669,
+    -76.862539,
+    40.213669
+],
   "geometry": {"coordinates":[-76.862539,40.213669],"type":"Point"}
 }

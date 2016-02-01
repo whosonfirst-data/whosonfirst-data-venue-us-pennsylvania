@@ -2,13 +2,14 @@
   "id": 404080411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.316147,40.068291,-76.316147,40.068291",
     "geom:latitude":40.068291,
     "geom:longitude":-76.316147,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1700 Fruitville Pike #K",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -31,10 +32,13 @@
     "sg:website":"http://www.banfield.net/ypoffer/?source=yp",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85821747,
+        102191575,
+        404487183,
         85633793,
+        101718643,
         102081377,
-        85821747
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +48,18 @@
     "wof:geomhash":"157cd28ea3ac1a0f761f36a1b5b3f59a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
+            "localadmin_id":404487183,
+            "locality_id":101718643,
             "neighbourhood_id":85821747,
             "region_id":85688481,
             "venue_id":404080411
         }
     ],
     "wof:id":404080411,
-    "wof:lastmodified":1449040298,
+    "wof:lastmodified":1454357116,
     "wof:name":"Banfield the Pet Hospital",
     "wof:parent_id":85821747,
     "wof:placetype":"venue",
@@ -67,6 +72,11 @@
         "specialty"
     ]
 },
-  "bbox": [-76.316147,40.068291,-76.316147,40.068291],
+  "bbox": [
+    -76.316147,
+    40.068291,
+    -76.316147,
+    40.068291
+],
   "geometry": {"coordinates":[-76.316147,40.068291],"type":"Point"}
 }

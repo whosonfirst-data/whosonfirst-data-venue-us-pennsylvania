@@ -2,13 +2,14 @@
   "id": 387618289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.529079,40.320841,-79.529079,40.320841",
     "geom:latitude":40.320841,
     "geom:longitude":-79.529079,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"WESTMORELAND MALL",
     "sg:city":"Greensburg",
     "sg:classifiers":[
@@ -37,8 +38,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081383,
-        85851151
+        85851151,
+        102081383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +49,15 @@
     "wof:geomhash":"9e2039fee6f667b25614b8353996a7d4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":-1,
             "neighbourhood_id":85851151,
             "region_id":85688481,
             "venue_id":387618289
         }
     ],
     "wof:id":387618289,
-    "wof:lastmodified":1449058476,
+    "wof:lastmodified":1454360793,
     "wof:name":"Hat World Incorporated",
     "wof:parent_id":85851151,
     "wof:placetype":"venue",
@@ -70,6 +69,11 @@
         "hat"
     ]
 },
-  "bbox": [-79.529079,40.320841,-79.529079,40.320841],
+  "bbox": [
+    -79.529079,
+    40.320841,
+    -79.529079,
+    40.320841
+],
   "geometry": {"coordinates":[-79.529079,40.320841],"type":"Point"}
 }

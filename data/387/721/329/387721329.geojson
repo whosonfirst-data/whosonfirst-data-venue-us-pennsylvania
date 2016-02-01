@@ -2,13 +2,14 @@
   "id": 387721329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.997157,40.840181,-79.997157,40.840181",
     "geom:latitude":40.840181,
     "geom:longitude":-79.997157,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1020 Evans City Rd",
     "sg:city":"Renfrew",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102083677,
-        85841463
+        85841463,
+        102083677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"e9051f569999eceed7536eb4ca653ae5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102083677,
-            "locality_id":-1,
             "neighbourhood_id":85841463,
             "region_id":85688481,
             "venue_id":387721329
         }
     ],
     "wof:id":387721329,
-    "wof:lastmodified":1449059910,
+    "wof:lastmodified":1454361230,
     "wof:name":"Magill Truck & Trailer Repair",
     "wof:parent_id":85841463,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-79.997157,40.840181,-79.997157,40.840181],
+  "bbox": [
+    -79.997157,
+    40.840181,
+    -79.997157,
+    40.840181
+],
   "geometry": {"coordinates":[-79.997157,40.840181],"type":"Point"}
 }

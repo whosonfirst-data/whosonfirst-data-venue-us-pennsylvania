@@ -2,13 +2,14 @@
   "id": 387324089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.004501,40.448502,-80.004501,40.448502",
     "geom:latitude":40.448502,
     "geom:longitude":-80.004501,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"223 Federal",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -25,11 +26,13 @@
     "sg:website":"marriott.com/property/propertypa...",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85838047,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85838047
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +42,10 @@
     "wof:geomhash":"d7e7649954efa9f1d0a3d2e30621634e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85838047,
             "region_id":85688481,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":387324089,
-    "wof:lastmodified":1449058321,
+    "wof:lastmodified":1454360745,
     "wof:name":"SpringHill Suites Marriott",
     "wof:parent_id":85838047,
     "wof:placetype":"venue",
@@ -57,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.004501,40.448502,-80.004501,40.448502],
+  "bbox": [
+    -80.004501,
+    40.448502,
+    -80.004501,
+    40.448502
+],
   "geometry": {"coordinates":[-80.004501,40.448502],"type":"Point"}
 }

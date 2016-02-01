@@ -2,13 +2,14 @@
   "id": 403875521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.856563,40.331204,-76.856563,40.331204",
     "geom:latitude":40.331204,
     "geom:longitude":-76.856563,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2625 Ailanthus Ln Harrisburg Pa",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -42,8 +43,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85805097
+        85805097,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,17 +54,15 @@
     "wof:geomhash":"d54640487382307d1cd5f7207f20a6ed",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85805097,
             "region_id":85688481,
             "venue_id":403875521
         }
     ],
     "wof:id":403875521,
-    "wof:lastmodified":1449055609,
+    "wof:lastmodified":1454357777,
     "wof:name":"Arden Courts of Susquehanna",
     "wof:parent_id":85805097,
     "wof:placetype":"venue",
@@ -80,6 +79,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-76.856563,40.331204,-76.856563,40.331204],
-  "geometry": {"coordinates":[-76.856563,40.331204],"type":"Point"}
+  "bbox": [
+    -76.856563,
+    40.331204,
+    -76.856563,
+    40.331204
+],
+  "geometry": {"coordinates":[-76.85656299999999,40.331204],"type":"Point"}
 }

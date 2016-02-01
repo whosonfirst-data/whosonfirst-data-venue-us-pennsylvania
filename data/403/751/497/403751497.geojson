@@ -2,13 +2,14 @@
   "id": 403751497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.970213,40.237181,-76.970213,40.237181",
     "geom:latitude":40.237181,
     "geom:longitude":-76.970213,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"Hampden Centre 4900 Carlisle Pike Ste B-1",
     "sg:city":"Mechanicsburg",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081359,
-        85850501
+        85850501,
+        102081359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"e58134b446f0ac560e7bb16e8ee6c1fe",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081359,
-            "locality_id":-1,
             "neighbourhood_id":85850501,
             "region_id":85688481,
             "venue_id":403751497
         }
     ],
     "wof:id":403751497,
-    "wof:lastmodified":1449054703,
+    "wof:lastmodified":1454357229,
     "wof:name":"Ashley Stevens Salon",
     "wof:parent_id":85850501,
     "wof:placetype":"venue",
@@ -66,6 +65,11 @@
         "hair"
     ]
 },
-  "bbox": [-76.970213,40.237181,-76.970213,40.237181],
+  "bbox": [
+    -76.970213,
+    40.237181,
+    -76.970213,
+    40.237181
+],
   "geometry": {"coordinates":[-76.970213,40.237181],"type":"Point"}
 }

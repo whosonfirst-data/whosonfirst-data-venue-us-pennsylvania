@@ -2,13 +2,14 @@
   "id": 387573447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.186699,40.330002,-80.186699,40.330002",
     "geom:latitude":40.330002,
     "geom:longitude":-80.186699,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"20 Creedmore Rd",
     "sg:city":"Cecil",
     "sg:classifiers":[
@@ -45,7 +46,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420539939,
+        102191575,
+        404487735,
         85633793,
+        101720321,
+        102081343,
         85688481
     ],
     "wof:breaches":[],
@@ -56,18 +62,20 @@
     "wof:geomhash":"1dd51cbeb7dc3d7f68ec863a1e8b6929",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081343,
+            "localadmin_id":404487735,
+            "locality_id":101720321,
+            "neighbourhood_id":420539939,
             "region_id":85688481,
             "venue_id":387573447
         }
     ],
     "wof:id":387573447,
-    "wof:lastmodified":1449058915,
+    "wof:lastmodified":1454360926,
     "wof:name":"Sales Phoenix Equipment",
-    "wof:parent_id":-1,
+    "wof:parent_id":420539939,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -78,6 +86,11 @@
         "supply"
     ]
 },
-  "bbox": [-80.186699,40.330002,-80.186699,40.330002],
+  "bbox": [
+    -80.186699,
+    40.330002,
+    -80.186699,
+    40.330002
+],
   "geometry": {"coordinates":[-80.186699,40.330002],"type":"Point"}
 }

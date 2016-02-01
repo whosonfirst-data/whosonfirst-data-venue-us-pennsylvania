@@ -2,13 +2,14 @@
   "id": 404070185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.068092,39.925079,-76.068092,39.925079",
     "geom:latitude":39.925079,
     "geom:longitude":-76.068092,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1298 Georgetown Rd",
     "sg:city":"Quarryville",
     "sg:classifiers":[
@@ -25,11 +26,13 @@
     "sg:website":"http://www.linkfinancial.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85821311,
+        102191575,
+        404483375,
         85633793,
         101720423,
         102081377,
-        85821311
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +42,10 @@
     "wof:geomhash":"4f6aff68eb831858857d19fda6856d08",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081377,
+            "localadmin_id":404483375,
             "locality_id":101720423,
             "neighbourhood_id":85821311,
             "region_id":85688481,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":404070185,
-    "wof:lastmodified":1449039587,
+    "wof:lastmodified":1454356730,
     "wof:name":"National Penn Bank",
     "wof:parent_id":85821311,
     "wof:placetype":"venue",
@@ -57,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.068092,39.925079,-76.068092,39.925079],
-  "geometry": {"coordinates":[-76.068092,39.925079],"type":"Point"}
+  "bbox": [
+    -76.068092,
+    39.925079,
+    -76.068092,
+    39.925079
+],
+  "geometry": {"coordinates":[-76.06809199999999,39.925079],"type":"Point"}
 }

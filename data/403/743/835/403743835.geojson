@@ -2,13 +2,14 @@
   "id": 403743835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.987297,40.241402,-76.987297,40.241402",
     "geom:latitude":40.241402,
     "geom:longitude":-76.987297,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5600 Carlisle Pike",
     "sg:city":"Mechanicsburg",
     "sg:classifiers":[
@@ -40,8 +41,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081359,
-        85850501
+        85850501,
+        102081359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,17 +52,15 @@
     "wof:geomhash":"fc761b27bbb9f0d22d2d0d3f657198b3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081359,
-            "locality_id":-1,
             "neighbourhood_id":85850501,
             "region_id":85688481,
             "venue_id":403743835
         }
     ],
     "wof:id":403743835,
-    "wof:lastmodified":1449055951,
+    "wof:lastmodified":1454357972,
     "wof:name":"Olan Mills Portrait Studios",
     "wof:parent_id":85850501,
     "wof:placetype":"venue",
@@ -72,6 +71,11 @@
         "photography"
     ]
 },
-  "bbox": [-76.987297,40.241402,-76.987297,40.241402],
+  "bbox": [
+    -76.987297,
+    40.241402,
+    -76.987297,
+    40.241402
+],
   "geometry": {"coordinates":[-76.987297,40.241402],"type":"Point"}
 }

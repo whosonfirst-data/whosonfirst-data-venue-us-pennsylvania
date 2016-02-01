@@ -2,13 +2,14 @@
   "id": 404028343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.766596,39.963593,-76.766596,39.963593",
     "geom:latitude":39.963593,
     "geom:longitude":-76.766596,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1101 Carlisle Rd",
     "sg:city":"York",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     "sg:website":"http://www.aspendental.com/?utm_source=Yellowpages.com&utm_medium=fixed%2Bplacement&utm_campaign=trade%2Blistings",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85819331,
+        102191575,
+        404488029,
         85633793,
+        101717279,
         102080953,
-        85819331
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +47,18 @@
     "wof:geomhash":"783c69de78d99b2d12081f2c8b6752fa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
+            "localadmin_id":404488029,
+            "locality_id":101717279,
             "neighbourhood_id":85819331,
             "region_id":85688481,
             "venue_id":404028343
         }
     ],
     "wof:id":404028343,
-    "wof:lastmodified":1449039787,
+    "wof:lastmodified":1454356800,
     "wof:name":"Aspen Dental",
     "wof:parent_id":85819331,
     "wof:placetype":"venue",
@@ -65,6 +70,11 @@
         "hygienist"
     ]
 },
-  "bbox": [-76.766596,39.963593,-76.766596,39.963593],
-  "geometry": {"coordinates":[-76.766596,39.963593],"type":"Point"}
+  "bbox": [
+    -76.766596,
+    39.963593,
+    -76.766596,
+    39.963593
+],
+  "geometry": {"coordinates":[-76.76659600000001,39.963593],"type":"Point"}
 }

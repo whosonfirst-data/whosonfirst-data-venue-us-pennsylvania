@@ -2,13 +2,14 @@
   "id": 387836719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.115285,42.068461,-80.115285,42.068461",
     "geom:latitude":42.068461,
     "geom:longitude":-80.115285,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5473 Village Common Dr Ste 205",
     "sg:city":"Erie",
     "sg:classifiers":[
@@ -49,8 +50,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080955,
-        85827851
+        85827851,
+        102080955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,17 +61,15 @@
     "wof:geomhash":"756ae195523be4b6ff29fcbe0e5f24c6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080955,
-            "locality_id":-1,
             "neighbourhood_id":85827851,
             "region_id":85688481,
             "venue_id":387836719
         }
     ],
     "wof:id":387836719,
-    "wof:lastmodified":1449058623,
+    "wof:lastmodified":1454360832,
     "wof:name":"Waddell & Reed Office 8850-00",
     "wof:parent_id":85827851,
     "wof:placetype":"venue",
@@ -89,6 +88,11 @@
         "insurance"
     ]
 },
-  "bbox": [-80.115285,42.068461,-80.115285,42.068461],
+  "bbox": [
+    -80.115285,
+    42.068461,
+    -80.115285,
+    42.068461
+],
   "geometry": {"coordinates":[-80.115285,42.068461],"type":"Point"}
 }

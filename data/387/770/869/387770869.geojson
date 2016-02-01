@@ -2,13 +2,14 @@
   "id": 387770869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.341048,40.890364,-80.341048,40.890364",
     "geom:latitude":40.890364,
     "geom:longitude":-80.341048,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"347 Main St",
     "sg:city":"Wampum",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85810809,
+        102191575,
+        404485681,
         85633793,
-        101716733,
+        101719031,
         102080929,
-        85810809
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"7792322bfd13e0085068857a8c40fc97",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080929,
-            "locality_id":101716733,
+            "localadmin_id":404485681,
+            "locality_id":101719031,
             "neighbourhood_id":85810809,
             "region_id":85688481,
             "venue_id":387770869
         }
     ],
     "wof:id":387770869,
-    "wof:lastmodified":1449059995,
+    "wof:lastmodified":1454361255,
     "wof:name":"Ron' S Hair Styling",
     "wof:parent_id":85810809,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.341048,40.890364,-80.341048,40.890364],
+  "bbox": [
+    -80.341048,
+    40.890364,
+    -80.341048,
+    40.890364
+],
   "geometry": {"coordinates":[-80.341048,40.890364],"type":"Point"}
 }

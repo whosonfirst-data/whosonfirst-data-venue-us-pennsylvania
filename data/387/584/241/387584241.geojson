@@ -2,13 +2,14 @@
   "id": 387584241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.164891,39.896381,-80.164891,39.896381",
     "geom:latitude":39.896381,
     "geom:longitude":-80.164891,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1665 E High St",
     "sg:city":"Waynesburg",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080975,
-        85835337
+        85835337,
+        102080975
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"1568bad5a2e2be96144cdfccf71592a6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080975,
-            "locality_id":-1,
             "neighbourhood_id":85835337,
             "region_id":85688481,
             "venue_id":387584241
         }
     ],
     "wof:id":387584241,
-    "wof:lastmodified":1449056526,
+    "wof:lastmodified":1454358417,
     "wof:name":"Scotty's Pizza",
     "wof:parent_id":85835337,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "pizza"
     ]
 },
-  "bbox": [-80.164891,39.896381,-80.164891,39.896381],
+  "bbox": [
+    -80.164891,
+    39.896381,
+    -80.164891,
+    39.896381
+],
   "geometry": {"coordinates":[-80.164891,39.896381],"type":"Point"}
 }

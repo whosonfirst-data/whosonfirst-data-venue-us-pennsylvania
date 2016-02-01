@@ -2,13 +2,14 @@
   "id": 387396925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.851471,40.42062,-79.851471,40.42062",
     "geom:latitude":40.42062,
     "geom:longitude":-79.851471,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2030 Ardmore Blvd Ste 251",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536333,
+        102191575,
+        404484859,
         85633793,
-        101718685,
-        102080887
+        101718785,
+        102080887,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,20 @@
     "wof:geomhash":"012e1c535400f40e377d75ec09351580",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":101718685,
-            "neighbourhood_id":-1,
+            "localadmin_id":404484859,
+            "locality_id":101718785,
+            "neighbourhood_id":420536333,
             "region_id":85688481,
             "venue_id":387396925
         }
     ],
     "wof:id":387396925,
-    "wof:lastmodified":1449058606,
+    "wof:lastmodified":1454360827,
     "wof:name":"Lifeline Specialty Outpatient",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536333,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -67,6 +72,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-79.851471,40.42062,-79.851471,40.42062],
+  "bbox": [
+    -79.851471,
+    40.42062,
+    -79.851471,
+    40.42062
+],
   "geometry": {"coordinates":[-79.851471,40.42062],"type":"Point"}
 }

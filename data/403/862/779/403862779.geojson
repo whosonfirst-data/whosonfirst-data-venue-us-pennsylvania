@@ -2,13 +2,14 @@
   "id": 403862779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.85462,40.240941,-76.85462,40.240941",
     "geom:latitude":40.240941,
     "geom:longitude":-76.85462,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1707 S Cameron St Ste B",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -32,8 +33,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85868485
+        85868485,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +44,15 @@
     "wof:geomhash":"dcb851c260b6996fb0f3c85bda4a1547",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85868485,
             "region_id":85688481,
             "venue_id":403862779
         }
     ],
     "wof:id":403862779,
-    "wof:lastmodified":1449056011,
+    "wof:lastmodified":1454358010,
     "wof:name":"Psi",
     "wof:parent_id":85868485,
     "wof:placetype":"venue",
@@ -66,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-76.85462,40.240941,-76.85462,40.240941],
+  "bbox": [
+    -76.85462,
+    40.240941,
+    -76.85462,
+    40.240941
+],
   "geometry": {"coordinates":[-76.85462,40.240941],"type":"Point"}
 }

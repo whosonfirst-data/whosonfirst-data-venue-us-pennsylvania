@@ -2,13 +2,14 @@
   "id": 387544393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.254555,40.174279,-80.254555,40.174279",
     "geom:latitude":40.174279,
     "geom:longitude":-80.254555,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"315 Jefferson Ave",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -40,11 +41,13 @@
     "sg:website":"http://www.dominospizza.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85852963,
+        102191575,
+        404487917,
         85633793,
         101718569,
         102081343,
-        85852963
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,9 +57,10 @@
     "wof:geomhash":"8a570c67e26468a16ef04d029ba7527e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081343,
+            "localadmin_id":404487917,
             "locality_id":101718569,
             "neighbourhood_id":85852963,
             "region_id":85688481,
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":387544393,
-    "wof:lastmodified":1449059914,
+    "wof:lastmodified":1454361231,
     "wof:name":"Domino's Pizza",
     "wof:parent_id":85852963,
     "wof:placetype":"venue",
@@ -76,6 +80,11 @@
         "pizza"
     ]
 },
-  "bbox": [-80.254555,40.174279,-80.254555,40.174279],
+  "bbox": [
+    -80.254555,
+    40.174279,
+    -80.254555,
+    40.174279
+],
   "geometry": {"coordinates":[-80.254555,40.174279],"type":"Point"}
 }

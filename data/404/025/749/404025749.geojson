@@ -2,13 +2,14 @@
   "id": 404025749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.794729,40.015148,-76.794729,40.015148",
     "geom:latitude":40.015148,
     "geom:longitude":-76.794729,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"10 Bentzel Mill Rd",
     "sg:city":"York",
     "sg:classifiers":[
@@ -34,8 +35,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080953,
-        85820401
+        85820401,
+        102080953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +46,15 @@
     "wof:geomhash":"26656a8d51b986b2a0b104d03ed217a0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
             "neighbourhood_id":85820401,
             "region_id":85688481,
             "venue_id":404025749
         }
     ],
     "wof:id":404025749,
-    "wof:lastmodified":1449040116,
+    "wof:lastmodified":1454357014,
     "wof:name":"Storage Asset Management",
     "wof:parent_id":85820401,
     "wof:placetype":"venue",
@@ -65,6 +64,11 @@
         "management"
     ]
 },
-  "bbox": [-76.794729,40.015148,-76.794729,40.015148],
+  "bbox": [
+    -76.794729,
+    40.015148,
+    -76.794729,
+    40.015148
+],
   "geometry": {"coordinates":[-76.794729,40.015148],"type":"Point"}
 }

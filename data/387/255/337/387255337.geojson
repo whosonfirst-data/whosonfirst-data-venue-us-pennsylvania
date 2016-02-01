@@ -2,13 +2,14 @@
   "id": 387255337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.871566,40.3499,-79.871566,40.3499",
     "geom:latitude":40.3499,
     "geom:longitude":-79.871566,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"521 Romine Ave",
     "sg:city":"Mckeesport",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85845081,
+        102191575,
+        404484971,
         85633793,
         101718847,
         102080887,
-        85845081
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"3bd7d2638c6717e6ad13d926e1b42305",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484971,
             "locality_id":101718847,
             "neighbourhood_id":85845081,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387255337,
-    "wof:lastmodified":1449057831,
+    "wof:lastmodified":1454360608,
     "wof:name":"Seastorm Sports & Entertainment Group Inc",
     "wof:parent_id":85845081,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "entertainment"
     ]
 },
-  "bbox": [-79.871566,40.3499,-79.871566,40.3499],
+  "bbox": [
+    -79.871566,
+    40.3499,
+    -79.871566,
+    40.3499
+],
   "geometry": {"coordinates":[-79.871566,40.3499],"type":"Point"}
 }

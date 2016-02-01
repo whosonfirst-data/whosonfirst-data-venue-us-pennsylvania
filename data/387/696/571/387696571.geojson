@@ -2,13 +2,14 @@
   "id": 387696571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.895279,40.859852,-79.895279,40.859852",
     "geom:latitude":40.859852,
     "geom:longitude":-79.895279,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"201 S Main St Ste 102",
     "sg:city":"Butler",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85824973,
+        102191575,
+        404485057,
         85633793,
-        101720149,
+        101718197,
         102083677,
-        85824973
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,18 @@
     "wof:geomhash":"39422bcd7ae2dd05844c2413db67dfe9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083677,
-            "locality_id":101720149,
+            "localadmin_id":404485057,
+            "locality_id":101718197,
             "neighbourhood_id":85824973,
             "region_id":85688481,
             "venue_id":387696571
         }
     ],
     "wof:id":387696571,
-    "wof:lastmodified":1449056395,
+    "wof:lastmodified":1454358311,
     "wof:name":"Butler Transit Authority",
     "wof:parent_id":85824973,
     "wof:placetype":"venue",
@@ -68,6 +72,11 @@
         "public"
     ]
 },
-  "bbox": [-79.895279,40.859852,-79.895279,40.859852],
+  "bbox": [
+    -79.895279,
+    40.859852,
+    -79.895279,
+    40.859852
+],
   "geometry": {"coordinates":[-79.895279,40.859852],"type":"Point"}
 }

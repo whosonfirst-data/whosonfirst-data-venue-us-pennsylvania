@@ -2,13 +2,14 @@
   "id": 404068171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.329763,39.884516,-76.329763,39.884516",
     "geom:latitude":39.884516,
     "geom:longitude":-76.329763,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"673 Martic Heights Dr",
     "sg:city":"Pequea",
     "sg:classifiers":[
@@ -34,8 +35,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85818203
+        85818203,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +46,15 @@
     "wof:geomhash":"a32553a0d907676b3ed88594285b8ea2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85818203,
             "region_id":85688481,
             "venue_id":404068171
         }
     ],
     "wof:id":404068171,
-    "wof:lastmodified":1449039723,
+    "wof:lastmodified":1454356768,
     "wof:name":"Mount Nebo United Methodist Church",
     "wof:parent_id":85818203,
     "wof:placetype":"venue",
@@ -65,6 +64,11 @@
         "churches-methodist"
     ]
 },
-  "bbox": [-76.329763,39.884516,-76.329763,39.884516],
+  "bbox": [
+    -76.329763,
+    39.884516,
+    -76.329763,
+    39.884516
+],
   "geometry": {"coordinates":[-76.329763,39.884516],"type":"Point"}
 }

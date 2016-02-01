@@ -2,13 +2,14 @@
   "id": 387604511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.066867,40.061563,-79.066867,40.061563",
     "geom:latitude":40.061563,
     "geom:longitude":-79.066867,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"320 Walker Grove Rd",
     "sg:city":"Somerset",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081361,
-        85868875
+        85868875,
+        102081361
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"2056f9cc9e2cf93557a2e3b99f38c9ee",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081361,
-            "locality_id":-1,
             "neighbourhood_id":85868875,
             "region_id":85688481,
             "venue_id":387604511
         }
     ],
     "wof:id":387604511,
-    "wof:lastmodified":1449059475,
+    "wof:lastmodified":1454361094,
     "wof:name":"Carl Kahl",
     "wof:parent_id":85868875,
     "wof:placetype":"venue",
@@ -61,6 +60,11 @@
         "ranch"
     ]
 },
-  "bbox": [-79.066867,40.061563,-79.066867,40.061563],
+  "bbox": [
+    -79.066867,
+    40.061563,
+    -79.066867,
+    40.061563
+],
   "geometry": {"coordinates":[-79.066867,40.061563],"type":"Point"}
 }

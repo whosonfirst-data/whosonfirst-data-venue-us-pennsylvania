@@ -2,13 +2,14 @@
   "id": 403703885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.653732,40.263729,-76.653732,40.263729",
     "geom:latitude":40.263729,
     "geom:longitude":-76.653732,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"107 Highland Rd",
     "sg:city":"Hershey",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85821955,
+        102191575,
+        404483303,
         85633793,
         101719813,
         102081347,
-        85821955
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"9714e07072fb421199358d56c2c223de",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
+            "localadmin_id":404483303,
             "locality_id":101719813,
             "neighbourhood_id":85821955,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":403703885,
-    "wof:lastmodified":1449055048,
+    "wof:lastmodified":1454357437,
     "wof:name":"John Madeira Insurance Agency",
     "wof:parent_id":85821955,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "business"
     ]
 },
-  "bbox": [-76.653732,40.263729,-76.653732,40.263729],
-  "geometry": {"coordinates":[-76.653732,40.263729],"type":"Point"}
+  "bbox": [
+    -76.653732,
+    40.263729,
+    -76.653732,
+    40.263729
+],
+  "geometry": {"coordinates":[-76.65373200000001,40.263729],"type":"Point"}
 }

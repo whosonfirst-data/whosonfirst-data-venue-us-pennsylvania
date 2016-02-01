@@ -2,13 +2,14 @@
   "id": 404000251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.384008,39.921476,-77.384008,39.921476",
     "geom:latitude":39.921476,
     "geom:longitude":-77.384008,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"274 Bottom Rd",
     "sg:city":"Orrtanna",
     "sg:classifiers":[
@@ -34,8 +35,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080899,
-        85825673
+        85825673,
+        102080899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +46,15 @@
     "wof:geomhash":"158f5be090ffc294523c50589c82d47b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080899,
-            "locality_id":-1,
             "neighbourhood_id":85825673,
             "region_id":85688481,
             "venue_id":404000251
         }
     ],
     "wof:id":404000251,
-    "wof:lastmodified":1449039207,
+    "wof:lastmodified":1454356521,
     "wof:name":"Reva Rarig",
     "wof:parent_id":85825673,
     "wof:placetype":"venue",
@@ -65,6 +64,11 @@
         "hay"
     ]
 },
-  "bbox": [-77.384008,39.921476,-77.384008,39.921476],
-  "geometry": {"coordinates":[-77.384008,39.921476],"type":"Point"}
+  "bbox": [
+    -77.384008,
+    39.921476,
+    -77.384008,
+    39.921476
+],
+  "geometry": {"coordinates":[-77.38400799999999,39.921476],"type":"Point"}
 }

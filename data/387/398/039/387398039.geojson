@@ -2,13 +2,14 @@
   "id": 387398039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.858661,40.42543,-79.858661,40.42543",
     "geom:latitude":40.42543,
     "geom:longitude":-79.858661,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"518 Braddock Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536333,
+        102191575,
+        404484859,
         85633793,
-        101718685,
-        102080887
+        101718785,
+        102080887,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"35b973724069e56b823b74ecc0fed175",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":101718685,
-            "neighbourhood_id":-1,
+            "localadmin_id":404484859,
+            "locality_id":101718785,
+            "neighbourhood_id":420536333,
             "region_id":85688481,
             "venue_id":387398039
         }
     ],
     "wof:id":387398039,
-    "wof:lastmodified":1449056416,
+    "wof:lastmodified":1454358332,
     "wof:name":"Impellizzeri Investing",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536333,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "advisory"
     ]
 },
-  "bbox": [-79.858661,40.42543,-79.858661,40.42543],
+  "bbox": [
+    -79.858661,
+    40.42543,
+    -79.858661,
+    40.42543
+],
   "geometry": {"coordinates":[-79.858661,40.42543],"type":"Point"}
 }

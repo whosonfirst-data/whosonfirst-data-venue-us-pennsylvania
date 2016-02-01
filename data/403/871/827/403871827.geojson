@@ -2,13 +2,14 @@
   "id": 403871827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.818703,40.2803,-76.818703,40.2803",
     "geom:latitude":40.2803,
     "geom:longitude":-76.818703,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1008 Eaglecrest Ct",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85829485
+        85829485,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"e6e91c32e62b650a9a00fae70daf4bbc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85829485,
             "region_id":85688481,
             "venue_id":403871827
         }
     ],
     "wof:id":403871827,
-    "wof:lastmodified":1449055058,
+    "wof:lastmodified":1454357446,
     "wof:name":"Eagle's Crest Apartments",
     "wof:parent_id":85829485,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "apartment"
     ]
 },
-  "bbox": [-76.818703,40.2803,-76.818703,40.2803],
+  "bbox": [
+    -76.818703,
+    40.2803,
+    -76.818703,
+    40.2803
+],
   "geometry": {"coordinates":[-76.818703,40.2803],"type":"Point"}
 }

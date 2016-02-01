@@ -2,13 +2,14 @@
   "id": 387486941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.827409,40.464417,-79.827409,40.464417",
     "geom:latitude":40.464417,
     "geom:longitude":-79.827409,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"11639 Penn Hills Dr",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85845623
+        85845623,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"30aa1c576a1dc83204be990afdfd50e9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85845623,
             "region_id":85688481,
             "venue_id":387486941
         }
     ],
     "wof:id":387486941,
-    "wof:lastmodified":1449058233,
+    "wof:lastmodified":1454360716,
     "wof:name":"Acceptance Auto Insurance- Pittsburg",
     "wof:parent_id":85845623,
     "wof:placetype":"venue",
@@ -68,6 +67,11 @@
         "motorcycle"
     ]
 },
-  "bbox": [-79.827409,40.464417,-79.827409,40.464417],
+  "bbox": [
+    -79.827409,
+    40.464417,
+    -79.827409,
+    40.464417
+],
   "geometry": {"coordinates":[-79.827409,40.464417],"type":"Point"}
 }

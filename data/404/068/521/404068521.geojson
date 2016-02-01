@@ -2,13 +2,14 @@
   "id": 404068521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.152405,39.894724,-76.152405,39.894724",
     "geom:latitude":39.894724,
     "geom:longitude":-76.152405,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"184 S Lime St",
     "sg:city":"Quarryville",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85824293
+        85824293,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"7fa586d94a5117088304e68f55808447",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85824293,
             "region_id":85688481,
             "venue_id":404068521
         }
     ],
     "wof:id":404068521,
-    "wof:lastmodified":1449039724,
+    "wof:lastmodified":1454356768,
     "wof:name":"Solanco Area Senior Center Inc",
     "wof:parent_id":85824293,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "citizen"
     ]
 },
-  "bbox": [-76.152405,39.894724,-76.152405,39.894724],
+  "bbox": [
+    -76.152405,
+    39.894724,
+    -76.152405,
+    39.894724
+],
   "geometry": {"coordinates":[-76.152405,39.894724],"type":"Point"}
 }

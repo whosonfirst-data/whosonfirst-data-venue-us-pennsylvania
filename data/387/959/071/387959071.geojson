@@ -2,13 +2,14 @@
   "id": 387959071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.696133,40.143771,-76.696133,40.143771",
     "geom:latitude":40.143771,
     "geom:longitude":-76.696133,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"104 Saw Mill Rd",
     "sg:city":"Elizabethtown",
     "sg:classifiers":[
@@ -34,7 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420538543,
+        102191575,
+        404486963,
         85633793,
+        101720463,
+        102081377,
         85688481
     ],
     "wof:breaches":[],
@@ -45,18 +51,20 @@
     "wof:geomhash":"595a68fc7dbfe1c0bdd3eb102bd1db30",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081377,
+            "localadmin_id":404486963,
+            "locality_id":101720463,
+            "neighbourhood_id":420538543,
             "region_id":85688481,
             "venue_id":387959071
         }
     ],
     "wof:id":387959071,
-    "wof:lastmodified":1449059537,
+    "wof:lastmodified":1454361110,
     "wof:name":"Hess Home Enhancements",
-    "wof:parent_id":-1,
+    "wof:parent_id":420538543,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -66,6 +74,11 @@
         "contractor"
     ]
 },
-  "bbox": [-76.696133,40.143771,-76.696133,40.143771],
+  "bbox": [
+    -76.696133,
+    40.143771,
+    -76.696133,
+    40.143771
+],
   "geometry": {"coordinates":[-76.696133,40.143771],"type":"Point"}
 }

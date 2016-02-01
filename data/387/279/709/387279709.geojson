@@ -2,13 +2,14 @@
   "id": 387279709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.951344,40.478284,-79.951344,40.478284",
     "geom:latitude":40.478284,
     "geom:longitude":-79.951344,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5202 Duncan St",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85873553,
+        102191575,
+        404482523,
         85633793,
-        101718687,
+        101718805,
         102080887,
-        85873553
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +47,18 @@
     "wof:geomhash":"54a94973086742e0d4e2f0aa3cff74dc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":101718687,
+            "localadmin_id":404482523,
+            "locality_id":101718805,
             "neighbourhood_id":85873553,
             "region_id":85688481,
             "venue_id":387279709
         }
     ],
     "wof:id":387279709,
-    "wof:lastmodified":1449057848,
+    "wof:lastmodified":1454360614,
     "wof:name":"Omega Alpha Safety Co",
     "wof:parent_id":85873553,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "first"
     ]
 },
-  "bbox": [-79.951344,40.478284,-79.951344,40.478284],
-  "geometry": {"coordinates":[-79.951344,40.478284],"type":"Point"}
+  "bbox": [
+    -79.951344,
+    40.478284,
+    -79.951344,
+    40.478284
+],
+  "geometry": {"coordinates":[-79.95134400000001,40.478284],"type":"Point"}
 }

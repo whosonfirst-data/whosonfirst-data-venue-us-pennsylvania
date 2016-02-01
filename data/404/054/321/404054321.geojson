@@ -2,13 +2,14 @@
   "id": 404054321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.227687,40.087109,-76.227687,40.087109",
     "geom:latitude":40.087109,
     "geom:longitude":-76.227687,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"442 Myer Ter",
     "sg:city":"Leola",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85826289
+        85826289,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"65c33caba311f0985141090f1deb52ee",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85826289,
             "region_id":85688481,
             "venue_id":404054321
         }
     ],
     "wof:id":404054321,
-    "wof:lastmodified":1449039574,
+    "wof:lastmodified":1454356721,
     "wof:name":"Robin Renzetti Co",
     "wof:parent_id":85826289,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "machine"
     ]
 },
-  "bbox": [-76.227687,40.087109,-76.227687,40.087109],
+  "bbox": [
+    -76.227687,
+    40.087109,
+    -76.227687,
+    40.087109
+],
   "geometry": {"coordinates":[-76.227687,40.087109],"type":"Point"}
 }

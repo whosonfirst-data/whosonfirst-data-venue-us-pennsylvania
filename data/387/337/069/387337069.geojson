@@ -2,13 +2,14 @@
   "id": 387337069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.026927,40.398085,-80.026927,40.398085",
     "geom:latitude":40.398085,
     "geom:longitude":-80.026927,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2615 W Liberty Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85807877,
+        102191575,
+        404482523,
         85633793,
+        101718805,
         102080887,
-        85807877
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +45,18 @@
     "wof:geomhash":"cf7e47e12d59f65b2978c8729ca2cb36",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
+            "localadmin_id":404482523,
+            "locality_id":101718805,
             "neighbourhood_id":85807877,
             "region_id":85688481,
             "venue_id":387337069
         }
     ],
     "wof:id":387337069,
-    "wof:lastmodified":1449057888,
+    "wof:lastmodified":1454360626,
     "wof:name":"George Uniform Company",
     "wof:parent_id":85807877,
     "wof:placetype":"venue",
@@ -62,6 +67,11 @@
         "uniform"
     ]
 },
-  "bbox": [-80.026927,40.398085,-80.026927,40.398085],
+  "bbox": [
+    -80.026927,
+    40.398085,
+    -80.026927,
+    40.398085
+],
   "geometry": {"coordinates":[-80.026927,40.398085],"type":"Point"}
 }

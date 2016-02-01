@@ -2,13 +2,14 @@
   "id": 387161319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.313313,40.673248,-80.313313,40.673248",
     "geom:latitude":40.673248,
     "geom:longitude":-80.313313,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"504 Beaver Valley Mall",
     "sg:city":"Monaca",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081323,
-        85827637
+        85827637,
+        102081323
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"597110d1612ed267e4100809315a3c4d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081323,
-            "locality_id":-1,
             "neighbourhood_id":85827637,
             "region_id":85688481,
             "venue_id":387161319
         }
     ],
     "wof:id":387161319,
-    "wof:lastmodified":1449057614,
+    "wof:lastmodified":1454360530,
     "wof:name":"Foot Locker",
     "wof:parent_id":85827637,
     "wof:placetype":"venue",
@@ -68,6 +67,11 @@
         "store"
     ]
 },
-  "bbox": [-80.313313,40.673248,-80.313313,40.673248],
-  "geometry": {"coordinates":[-80.313313,40.673248],"type":"Point"}
+  "bbox": [
+    -80.313313,
+    40.673248,
+    -80.313313,
+    40.673248
+],
+  "geometry": {"coordinates":[-80.31331299999999,40.673248],"type":"Point"}
 }

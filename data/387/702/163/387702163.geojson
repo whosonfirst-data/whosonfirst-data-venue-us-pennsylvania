@@ -2,13 +2,14 @@
   "id": 387702163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.893652,40.875311,-79.893652,40.875311",
     "geom:latitude":40.875311,
     "geom:longitude":-79.893652,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"120 Haverford Dr",
     "sg:city":"Butler",
     "sg:classifiers":[
@@ -88,7 +89,6 @@
     "wof:geomhash":"3ab366069d60393fb59d11a11715cf4c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102083677,
             "locality_id":101720149,
@@ -98,7 +98,7 @@
         }
     ],
     "wof:id":387702163,
-    "wof:lastmodified":1449058012,
+    "wof:lastmodified":1454360650,
     "wof:name":"Kerr Electric",
     "wof:parent_id":85837425,
     "wof:placetype":"venue",
@@ -125,6 +125,11 @@
         "lightning"
     ]
 },
-  "bbox": [-79.893652,40.875311,-79.893652,40.875311],
+  "bbox": [
+    -79.893652,
+    40.875311,
+    -79.893652,
+    40.875311
+],
   "geometry": {"coordinates":[-79.893652,40.875311],"type":"Point"}
 }

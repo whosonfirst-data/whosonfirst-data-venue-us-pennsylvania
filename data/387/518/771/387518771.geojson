@@ -2,13 +2,14 @@
   "id": 387518771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.064301,40.340401,-80.064301,40.340401",
     "geom:latitude":40.340401,
     "geom:longitude":-80.064301,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2040 Washington Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85811383,
+        102191575,
+        404484331,
         85633793,
         101720495,
         102080887,
-        85811383
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"6ac6e2e2d6a7ece1341bc235070d1333",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484331,
             "locality_id":101720495,
             "neighbourhood_id":85811383,
             "region_id":85688481,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":387518771,
-    "wof:lastmodified":1449058256,
+    "wof:lastmodified":1454360727,
     "wof:name":"Westminster Presbyterian Church-Day Care Center",
     "wof:parent_id":85811383,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "elementary"
     ]
 },
-  "bbox": [-80.064301,40.340401,-80.064301,40.340401],
+  "bbox": [
+    -80.064301,
+    40.340401,
+    -80.064301,
+    40.340401
+],
   "geometry": {"coordinates":[-80.064301,40.340401],"type":"Point"}
 }

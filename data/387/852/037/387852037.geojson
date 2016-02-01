@@ -2,13 +2,14 @@
   "id": 387852037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.393031,40.517349,-78.393031,40.517349",
     "geom:latitude":40.517349,
     "geom:longitude":-78.393031,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"711 7th Ave",
     "sg:city":"Altoona",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85818685,
+        102191575,
+        404484619,
         85633793,
         101716595,
         102081325,
-        85818685
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"a0d9342bf761b6c0aeff45ebe2d78f99",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081325,
+            "localadmin_id":404484619,
             "locality_id":101716595,
             "neighbourhood_id":85818685,
             "region_id":85688481,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":387852037,
-    "wof:lastmodified":1449059277,
+    "wof:lastmodified":1454361031,
     "wof:name":"Faith United Church Of Christ Of Altoona",
     "wof:parent_id":85818685,
     "wof:placetype":"venue",
@@ -72,6 +76,11 @@
         "christ"
     ]
 },
-  "bbox": [-78.393031,40.517349,-78.393031,40.517349],
-  "geometry": {"coordinates":[-78.393031,40.517349],"type":"Point"}
+  "bbox": [
+    -78.393031,
+    40.517349,
+    -78.393031,
+    40.517349
+],
+  "geometry": {"coordinates":[-78.39303099999999,40.517349],"type":"Point"}
 }

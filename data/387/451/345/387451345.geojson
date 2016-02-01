@@ -2,13 +2,14 @@
   "id": 387451345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.929291,40.457142,-79.929291,40.457142",
     "geom:latitude":40.457142,
     "geom:longitude":-79.929291,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5850 Ellsworth Ave # 303",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85847925,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85847925
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"9f1b278d11ae67632897f962a3e95ffb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85847925,
             "region_id":85688481,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":387451345,
-    "wof:lastmodified":1449057772,
+    "wof:lastmodified":1454360588,
     "wof:name":"Davis Real Estate",
     "wof:parent_id":85847925,
     "wof:placetype":"venue",
@@ -68,6 +72,11 @@
         "broker"
     ]
 },
-  "bbox": [-79.929291,40.457142,-79.929291,40.457142],
-  "geometry": {"coordinates":[-79.929291,40.457142],"type":"Point"}
+  "bbox": [
+    -79.929291,
+    40.457142,
+    -79.929291,
+    40.457142
+],
+  "geometry": {"coordinates":[-79.92929100000001,40.457142],"type":"Point"}
 }

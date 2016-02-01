@@ -2,13 +2,14 @@
   "id": 404152383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.609098,40.491354,-75.609098,40.491354",
     "geom:latitude":40.491354,
     "geom:longitude":-75.609098,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"24 Michael Ln",
     "sg:city":"Alburtis",
     "sg:classifiers":[
@@ -26,8 +27,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080991,
-        85844063
+        85844063,
+        102080991
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,17 +38,15 @@
     "wof:geomhash":"54e3441c198de7db398df13e7fb42b51",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080991,
-            "locality_id":-1,
             "neighbourhood_id":85844063,
             "region_id":85688481,
             "venue_id":404152383
         }
     ],
     "wof:id":404152383,
-    "wof:lastmodified":1449040014,
+    "wof:lastmodified":1454356957,
     "wof:name":"Eric Fenstemaker",
     "wof:parent_id":85844063,
     "wof:placetype":"venue",
@@ -55,6 +54,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.609098,40.491354,-75.609098,40.491354],
+  "bbox": [
+    -75.609098,
+    40.491354,
+    -75.609098,
+    40.491354
+],
   "geometry": {"coordinates":[-75.609098,40.491354],"type":"Point"}
 }

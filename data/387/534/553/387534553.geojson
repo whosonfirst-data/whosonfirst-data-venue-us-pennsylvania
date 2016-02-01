@@ -2,13 +2,14 @@
   "id": 387534553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.176226,40.447902,-80.176226,40.447902",
     "geom:latitude":40.447902,
     "geom:longitude":-80.176226,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"Pointe",
     "sg:city":"North Fayette",
     "sg:classifiers":[
@@ -34,8 +35,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85805237
+        85805237,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +46,15 @@
     "wof:geomhash":"de225cbac5af2ccaf70626d9c94e9661",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85805237,
             "region_id":85688481,
             "venue_id":387534553
         }
     ],
     "wof:id":387534553,
-    "wof:lastmodified":1449057088,
+    "wof:lastmodified":1454358826,
     "wof:name":"Roomful Express Furniture",
     "wof:parent_id":85805237,
     "wof:placetype":"venue",
@@ -65,6 +64,11 @@
         "store"
     ]
 },
-  "bbox": [-80.176226,40.447902,-80.176226,40.447902],
+  "bbox": [
+    -80.176226,
+    40.447902,
+    -80.176226,
+    40.447902
+],
   "geometry": {"coordinates":[-80.176226,40.447902],"type":"Point"}
 }

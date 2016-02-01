@@ -2,13 +2,14 @@
   "id": 404047295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.193589,40.22646,-76.193589,40.22646",
     "geom:latitude":40.22646,
     "geom:longitude":-76.193589,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"382 Indiantown Rd",
     "sg:city":"Ephrata",
     "sg:classifiers":[
@@ -37,8 +38,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85811603
+        85811603,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +49,15 @@
     "wof:geomhash":"657d86c9a48d0d1ceb2404f4eb8b99d9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85811603,
             "region_id":85688481,
             "venue_id":404047295
         }
     ],
     "wof:id":404047295,
-    "wof:lastmodified":1449039906,
+    "wof:lastmodified":1454356878,
     "wof:name":"Dutch Country Transport Inc",
     "wof:parent_id":85811603,
     "wof:placetype":"venue",
@@ -70,6 +69,11 @@
         "trucking"
     ]
 },
-  "bbox": [-76.193589,40.22646,-76.193589,40.22646],
+  "bbox": [
+    -76.193589,
+    40.22646,
+    -76.193589,
+    40.22646
+],
   "geometry": {"coordinates":[-76.193589,40.22646],"type":"Point"}
 }

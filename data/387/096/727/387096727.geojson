@@ -2,13 +2,14 @@
   "id": 387096727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.323231,40.64199,-80.323231,40.64199",
     "geom:latitude":40.64199,
     "geom:longitude":-80.323231,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"319 Pleasant Dr",
     "sg:city":"Aliquippa",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081323,
-        85827637
+        85827637,
+        102081323
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"22bb1a1636acc5af716281facf22018b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081323,
-            "locality_id":-1,
             "neighbourhood_id":85827637,
             "region_id":85688481,
             "venue_id":387096727
         }
     ],
     "wof:id":387096727,
-    "wof:lastmodified":1449057330,
+    "wof:lastmodified":1454359030,
     "wof:name":"Karlheim Trucking",
     "wof:parent_id":85827637,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "trucking"
     ]
 },
-  "bbox": [-80.323231,40.64199,-80.323231,40.64199],
-  "geometry": {"coordinates":[-80.323231,40.64199],"type":"Point"}
+  "bbox": [
+    -80.323231,
+    40.64199,
+    -80.323231,
+    40.64199
+],
+  "geometry": {"coordinates":[-80.32323100000001,40.64199],"type":"Point"}
 }

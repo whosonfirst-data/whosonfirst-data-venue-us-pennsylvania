@@ -2,13 +2,14 @@
   "id": 387055889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.705449,42.268887,-79.705449,42.268887",
     "geom:latitude":42.268887,
     "geom:longitude":-79.705449,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"66 E Main St",
     "sg:city":"Ripley",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080955,
-        85850957
+        85850957,
+        102080955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"2b3a3147aa49468b56a6a9c4a3d1c87d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080955,
-            "locality_id":-1,
             "neighbourhood_id":85850957,
             "region_id":85688481,
             "venue_id":387055889
         }
     ],
     "wof:id":387055889,
-    "wof:lastmodified":1449056958,
+    "wof:lastmodified":1454358735,
     "wof:name":"Chess' Pizza",
     "wof:parent_id":85850957,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "pizza"
     ]
 },
-  "bbox": [-79.705449,42.268887,-79.705449,42.268887],
+  "bbox": [
+    -79.705449,
+    42.268887,
+    -79.705449,
+    42.268887
+],
   "geometry": {"coordinates":[-79.705449,42.268887],"type":"Point"}
 }

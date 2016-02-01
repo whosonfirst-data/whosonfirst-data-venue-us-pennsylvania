@@ -2,13 +2,14 @@
   "id": 387248209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.902081,40.384327,-79.902081,40.384327",
     "geom:latitude":40.384327,
     "geom:longitude":-79.902081,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"228 Rose Way",
     "sg:city":"Homestead",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85851951,
+        102191575,
+        404482541,
         85633793,
         101718713,
         102080887,
-        85851951
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"d4efcfc780f7dcf230ebf4935edd4167",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482541,
             "locality_id":101718713,
             "neighbourhood_id":85851951,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387248209,
-    "wof:lastmodified":1449058200,
+    "wof:lastmodified":1454360709,
     "wof:name":"Lstels Wedding Design",
     "wof:parent_id":85851951,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "wedding"
     ]
 },
-  "bbox": [-79.902081,40.384327,-79.902081,40.384327],
+  "bbox": [
+    -79.902081,
+    40.384327,
+    -79.902081,
+    40.384327
+],
   "geometry": {"coordinates":[-79.902081,40.384327],"type":"Point"}
 }

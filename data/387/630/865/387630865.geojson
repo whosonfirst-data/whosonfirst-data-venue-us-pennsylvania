@@ -2,13 +2,14 @@
   "id": 387630865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.628455,40.418881,-79.628455,40.418881",
     "geom:latitude":40.418881,
     "geom:longitude":-79.628455,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5748 Kennedy Ave",
     "sg:city":"Export",
     "sg:classifiers":[
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420540097,
+        102191575,
+        404487539,
         85633793,
-        101717179,
-        102081383
+        101717149,
+        102081383,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,20 @@
     "wof:geomhash":"4bf8c332990b8c525ef87a07454f4573",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":101717179,
-            "neighbourhood_id":-1,
+            "localadmin_id":404487539,
+            "locality_id":101717149,
+            "neighbourhood_id":420540097,
             "region_id":85688481,
             "venue_id":387630865
         }
     ],
     "wof:id":387630865,
-    "wof:lastmodified":1449057459,
+    "wof:lastmodified":1454359141,
     "wof:name":"Fisher Automotive Service",
-    "wof:parent_id":-1,
+    "wof:parent_id":420540097,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -69,6 +74,11 @@
         "accessory"
     ]
 },
-  "bbox": [-79.628455,40.418881,-79.628455,40.418881],
+  "bbox": [
+    -79.628455,
+    40.418881,
+    -79.628455,
+    40.418881
+],
   "geometry": {"coordinates":[-79.628455,40.418881],"type":"Point"}
 }

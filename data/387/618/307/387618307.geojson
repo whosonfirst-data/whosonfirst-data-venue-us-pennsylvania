@@ -2,13 +2,14 @@
   "id": 387618307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.554871,40.30114,-79.554871,40.30114",
     "geom:latitude":40.30114,
     "geom:longitude":-79.554871,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"532 W Pittsburgh St",
     "sg:city":"Greensburg",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"http://www.excelahealth.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85809439,
+        102191575,
+        404487487,
         85633793,
-        101717119,
+        101717177,
         102081383,
-        85809439
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"c3d5015fddd236a4368deaf4cfaece02",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":101717119,
+            "localadmin_id":404487487,
+            "locality_id":101717177,
             "neighbourhood_id":85809439,
             "region_id":85688481,
             "venue_id":387618307
         }
     ],
     "wof:id":387618307,
-    "wof:lastmodified":1449058473,
+    "wof:lastmodified":1454360793,
     "wof:name":"Excela Health",
     "wof:parent_id":85809439,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "mental"
     ]
 },
-  "bbox": [-79.554871,40.30114,-79.554871,40.30114],
-  "geometry": {"coordinates":[-79.554871,40.30114],"type":"Point"}
+  "bbox": [
+    -79.554871,
+    40.30114,
+    -79.554871,
+    40.30114
+],
+  "geometry": {"coordinates":[-79.55487100000001,40.30114],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404165231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.337,40.5936,-75.337,40.5936",
     "geom:latitude":40.5936,
     "geom:longitude":-75.337,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2301 Cherry Lane",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85849465,
+        102191575,
+        404483645,
         85633793,
-        101717907,
+        101717885,
         102081395,
-        85849465
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"ec29f1eeed87e2da6fe84956a00292bb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081395,
-            "locality_id":101717907,
+            "localadmin_id":404483645,
+            "locality_id":101717885,
             "neighbourhood_id":85849465,
             "region_id":85688481,
             "venue_id":404165231
         }
     ],
     "wof:id":404165231,
-    "wof:lastmodified":1449040330,
+    "wof:lastmodified":1454357139,
     "wof:name":"St. Luke's Physical Therapy",
     "wof:parent_id":85849465,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "medical"
     ]
 },
-  "bbox": [-75.337,40.5936,-75.337,40.5936],
+  "bbox": [
+    -75.337,
+    40.5936,
+    -75.337,
+    40.5936
+],
   "geometry": {"coordinates":[-75.337,40.5936],"type":"Point"}
 }

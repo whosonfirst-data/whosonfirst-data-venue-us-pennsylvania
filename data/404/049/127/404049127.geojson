@@ -2,13 +2,14 @@
   "id": 404049127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.186787,40.18503,-76.186787,40.18503",
     "geom:latitude":40.18503,
     "geom:longitude":-76.186787,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1716 W Main St",
     "sg:city":"Ephrata",
     "sg:classifiers":[
@@ -44,7 +45,6 @@
     "wof:geomhash":"d5d2c8fb3c2d10d8206ec6419642323e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
             "locality_id":101718645,
@@ -54,7 +54,7 @@
         }
     ],
     "wof:id":404049127,
-    "wof:lastmodified":1449039663,
+    "wof:lastmodified":1454356754,
     "wof:name":"Bob's American Used Cars",
     "wof:parent_id":85830575,
     "wof:placetype":"venue",
@@ -67,6 +67,11 @@
         "car"
     ]
 },
-  "bbox": [-76.186787,40.18503,-76.186787,40.18503],
+  "bbox": [
+    -76.186787,
+    40.18503,
+    -76.186787,
+    40.18503
+],
   "geometry": {"coordinates":[-76.186787,40.18503],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387894021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.378227,41.74839,-77.378227,41.74839",
     "geom:latitude":41.74839,
     "geom:longitude":-77.378227,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"729 Dutch Hill Rd",
     "sg:city":"Wellsboro",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080937,
-        85814457
+        85814457,
+        102080937
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"e6110a5d690182aeac97d34779b906f1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080937,
-            "locality_id":-1,
             "neighbourhood_id":85814457,
             "region_id":85688481,
             "venue_id":387894021
         }
     ],
     "wof:id":387894021,
-    "wof:lastmodified":1449057675,
+    "wof:lastmodified":1454360557,
     "wof:name":"Hillstone Farms",
     "wof:parent_id":85814457,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "feeding"
     ]
 },
-  "bbox": [-77.378227,41.74839,-77.378227,41.74839],
+  "bbox": [
+    -77.378227,
+    41.74839,
+    -77.378227,
+    41.74839
+],
   "geometry": {"coordinates":[-77.378227,41.74839],"type":"Point"}
 }

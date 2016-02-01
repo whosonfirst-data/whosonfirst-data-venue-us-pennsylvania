@@ -2,13 +2,14 @@
   "id": 387303537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.969005,40.477628,-79.969005,40.477628",
     "geom:latitude":40.477628,
     "geom:longitude":-79.969005,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"329 Ohio St",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -41,11 +42,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85873555,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85873555
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,9 +58,10 @@
     "wof:geomhash":"d2d807ed10b1aeea2a47574e24263cc9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85873555,
             "region_id":85688481,
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":387303537,
-    "wof:lastmodified":1449056151,
+    "wof:lastmodified":1454358123,
     "wof:name":"Daniels' Electric Service",
     "wof:parent_id":85873555,
     "wof:placetype":"venue",
@@ -79,6 +83,11 @@
         "motors-used"
     ]
 },
-  "bbox": [-79.969005,40.477628,-79.969005,40.477628],
+  "bbox": [
+    -79.969005,
+    40.477628,
+    -79.969005,
+    40.477628
+],
   "geometry": {"coordinates":[-79.969005,40.477628],"type":"Point"}
 }

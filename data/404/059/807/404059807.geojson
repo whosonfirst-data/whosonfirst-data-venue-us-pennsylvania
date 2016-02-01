@@ -2,13 +2,14 @@
   "id": 404059807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.321381,40.137009,-76.321381,40.137009",
     "geom:latitude":40.137009,
     "geom:longitude":-76.321381,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"729 Buckwood Ln 3",
     "sg:city":"Lititz",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85806481
+        85806481,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"5cb1a843a0fb8d747d2837aae3cdea12",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85806481,
             "region_id":85688481,
             "venue_id":404059807
         }
     ],
     "wof:id":404059807,
-    "wof:lastmodified":1449039352,
+    "wof:lastmodified":1454356586,
     "wof:name":"Sample Inc",
     "wof:parent_id":85806481,
     "wof:placetype":"venue",
@@ -61,6 +60,11 @@
         "furniture"
     ]
 },
-  "bbox": [-76.321381,40.137009,-76.321381,40.137009],
+  "bbox": [
+    -76.321381,
+    40.137009,
+    -76.321381,
+    40.137009
+],
   "geometry": {"coordinates":[-76.321381,40.137009],"type":"Point"}
 }

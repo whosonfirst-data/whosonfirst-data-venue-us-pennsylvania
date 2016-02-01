@@ -2,13 +2,14 @@
   "id": 404035295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.838956,39.911893,-76.838956,39.911893",
     "geom:latitude":39.911893,
     "geom:longitude":-76.838956,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"18 Pine Springs Blvd",
     "sg:city":"York",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080953,
-        85804225
+        85804225,
+        102080953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"e5495a31989a6dba5818c9b1d933a16d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
             "neighbourhood_id":85804225,
             "region_id":85688481,
             "venue_id":404035295
         }
     ],
     "wof:id":404035295,
-    "wof:lastmodified":1449040060,
+    "wof:lastmodified":1454356985,
     "wof:name":"ROBIN GREER - LONGABERGER SALES ASSOCIATE",
     "wof:parent_id":85804225,
     "wof:placetype":"venue",
@@ -68,6 +67,11 @@
         "house"
     ]
 },
-  "bbox": [-76.838956,39.911893,-76.838956,39.911893],
+  "bbox": [
+    -76.838956,
+    39.911893,
+    -76.838956,
+    39.911893
+],
   "geometry": {"coordinates":[-76.838956,39.911893],"type":"Point"}
 }

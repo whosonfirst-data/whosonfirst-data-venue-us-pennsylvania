@@ -2,13 +2,14 @@
   "id": 404115241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.924003,41.115966,-76.924003,41.115966",
     "geom:latitude":41.115966,
     "geom:longitude":-76.924003,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"572 White Deer Baptist Church Rd",
     "sg:city":"Allenwood",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081335,
-        85810245
+        85810245,
+        102081335
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"6cfd202378021628842d8271f9427c3c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081335,
-            "locality_id":-1,
             "neighbourhood_id":85810245,
             "region_id":85688481,
             "venue_id":404115241
         }
     ],
     "wof:id":404115241,
-    "wof:lastmodified":1449039081,
+    "wof:lastmodified":1454356408,
     "wof:name":"White Deer Valley Baptist Church",
     "wof:parent_id":85810245,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "churches-baptist"
     ]
 },
-  "bbox": [-76.924003,41.115966,-76.924003,41.115966],
+  "bbox": [
+    -76.924003,
+    41.115966,
+    -76.924003,
+    41.115966
+],
   "geometry": {"coordinates":[-76.924003,41.115966],"type":"Point"}
 }

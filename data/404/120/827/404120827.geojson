@@ -2,13 +2,14 @@
   "id": 404120827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.317131,40.97524,-76.317131,40.97524",
     "geom:latitude":40.97524,
     "geom:longitude":-76.317131,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"742 Mifflin X Rd",
     "sg:city":"Bloomsburg",
     "sg:classifiers":[
@@ -34,8 +35,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080973,
-        85857999
+        85857999,
+        102080973
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +46,15 @@
     "wof:geomhash":"8fa47019daad5465cd9c2a152369b5ea",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080973,
-            "locality_id":-1,
             "neighbourhood_id":85857999,
             "region_id":85688481,
             "venue_id":404120827
         }
     ],
     "wof:id":404120827,
-    "wof:lastmodified":1449040146,
+    "wof:lastmodified":1454357032,
     "wof:name":"D & L Farms",
     "wof:parent_id":85857999,
     "wof:placetype":"venue",
@@ -65,6 +64,11 @@
         "breeder"
     ]
 },
-  "bbox": [-76.317131,40.97524,-76.317131,40.97524],
+  "bbox": [
+    -76.317131,
+    40.97524,
+    -76.317131,
+    40.97524
+],
   "geometry": {"coordinates":[-76.317131,40.97524],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404030767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.726644,39.998276,-76.726644,39.998276",
     "geom:latitude":39.998276,
     "geom:longitude":-76.726644,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"170 Greenleaf Rd",
     "sg:city":"York",
     "sg:classifiers":[
@@ -27,7 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420540365,
+        102191575,
+        404487823,
         85633793,
+        101719471,
+        102080953,
         85688481
     ],
     "wof:breaches":[],
@@ -38,18 +44,20 @@
     "wof:geomhash":"f8767fd5e91b6735ec68f06e2138117f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102080953,
+            "localadmin_id":404487823,
+            "locality_id":101719471,
+            "neighbourhood_id":420540365,
             "region_id":85688481,
             "venue_id":404030767
         }
     ],
     "wof:id":404030767,
-    "wof:lastmodified":1449039467,
+    "wof:lastmodified":1454356664,
     "wof:name":"Print Xcel",
-    "wof:parent_id":-1,
+    "wof:parent_id":420540365,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +65,11 @@
         "lithographer"
     ]
 },
-  "bbox": [-76.726644,39.998276,-76.726644,39.998276],
-  "geometry": {"coordinates":[-76.726644,39.998276],"type":"Point"}
+  "bbox": [
+    -76.726644,
+    39.998276,
+    -76.726644,
+    39.998276
+],
+  "geometry": {"coordinates":[-76.72664399999999,39.998276],"type":"Point"}
 }

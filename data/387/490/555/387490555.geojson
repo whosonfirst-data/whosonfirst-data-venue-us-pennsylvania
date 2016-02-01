@@ -2,13 +2,14 @@
   "id": 387490555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.944534,40.326997,-79.944534,40.326997",
     "geom:latitude":40.326997,
     "geom:longitude":-79.944534,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"720 Clairton Blvd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -44,11 +45,13 @@
     "sg:website":"http://www.olanmills.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85834159,
+        102191575,
+        404484243,
         85633793,
         101718717,
         102080887,
-        85834159
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,9 +61,10 @@
     "wof:geomhash":"9f2d576225916db0e65f56eb6578e737",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484243,
             "locality_id":101718717,
             "neighbourhood_id":85834159,
             "region_id":85688481,
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":387490555,
-    "wof:lastmodified":1449059529,
+    "wof:lastmodified":1454361109,
     "wof:name":"Olan Mills",
     "wof:parent_id":85834159,
     "wof:placetype":"venue",
@@ -84,6 +88,11 @@
         "photographic"
     ]
 },
-  "bbox": [-79.944534,40.326997,-79.944534,40.326997],
+  "bbox": [
+    -79.944534,
+    40.326997,
+    -79.944534,
+    40.326997
+],
   "geometry": {"coordinates":[-79.944534,40.326997],"type":"Point"}
 }

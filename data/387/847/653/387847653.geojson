@@ -2,13 +2,14 @@
   "id": 387847653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.403575,40.514203,-78.403575,40.514203",
     "geom:latitude":40.514203,
     "geom:longitude":-78.403575,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1408 11th Ave",
     "sg:city":"Altoona",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85808899,
+        102191575,
+        404484619,
         85633793,
         101716595,
         102081325,
-        85808899
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"5ebd7082445f0601106a33d4da4b802a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081325,
+            "localadmin_id":404484619,
             "locality_id":101716595,
             "neighbourhood_id":85808899,
             "region_id":85688481,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":387847653,
-    "wof:lastmodified":1449057478,
+    "wof:lastmodified":1454359154,
     "wof:name":"Spilltech Industries Inc",
     "wof:parent_id":85808899,
     "wof:placetype":"venue",
@@ -72,6 +76,11 @@
         "house"
     ]
 },
-  "bbox": [-78.403575,40.514203,-78.403575,40.514203],
+  "bbox": [
+    -78.403575,
+    40.514203,
+    -78.403575,
+    40.514203
+],
   "geometry": {"coordinates":[-78.403575,40.514203],"type":"Point"}
 }

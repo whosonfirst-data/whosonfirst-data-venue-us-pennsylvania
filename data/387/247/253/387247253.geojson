@@ -2,13 +2,14 @@
   "id": 387247253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.922005,40.55953,-79.922005,40.55953",
     "geom:latitude":40.55953,
     "geom:longitude":-79.922005,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3284 Harts Run Rd",
     "sg:city":"Glenshaw",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85808227,
+        102191575,
+        404484943,
         85633793,
         101720509,
         102080887,
-        85808227
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"5154ad1213f1de0101ae70f816d23439",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484943,
             "locality_id":101720509,
             "neighbourhood_id":85808227,
             "region_id":85688481,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":387247253,
-    "wof:lastmodified":1449058334,
+    "wof:lastmodified":1454360748,
     "wof:name":"Hartwood Equestrian Center",
     "wof:parent_id":85808227,
     "wof:placetype":"venue",
@@ -72,6 +76,11 @@
         "academy"
     ]
 },
-  "bbox": [-79.922005,40.55953,-79.922005,40.55953],
+  "bbox": [
+    -79.922005,
+    40.55953,
+    -79.922005,
+    40.55953
+],
   "geometry": {"coordinates":[-79.922005,40.55953],"type":"Point"}
 }

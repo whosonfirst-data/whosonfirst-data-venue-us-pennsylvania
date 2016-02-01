@@ -2,13 +2,14 @@
   "id": 404115175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.945513,41.103513,-76.945513,41.103513",
     "geom:latitude":41.103513,
     "geom:longitude":-76.945513,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1457 Southcreek Rd",
     "sg:city":"Allenwood",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081335,
-        85810245
+        85810245,
+        102081335
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"e55a57dc9edd79657aed5cbb47ebaab8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081335,
-            "locality_id":-1,
             "neighbourhood_id":85810245,
             "region_id":85688481,
             "venue_id":404115175
         }
     ],
     "wof:id":404115175,
-    "wof:lastmodified":1449039078,
+    "wof:lastmodified":1454356407,
     "wof:name":"Staggert Construction",
     "wof:parent_id":85810245,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-76.945513,41.103513,-76.945513,41.103513],
-  "geometry": {"coordinates":[-76.945513,41.103513],"type":"Point"}
+  "bbox": [
+    -76.945513,
+    41.103513,
+    -76.945513,
+    41.103513
+],
+  "geometry": {"coordinates":[-76.94551300000001,41.103513],"type":"Point"}
 }

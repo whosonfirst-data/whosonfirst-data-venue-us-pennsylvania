@@ -2,13 +2,14 @@
   "id": 403714691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.416222,40.316071,-76.416222,40.316071",
     "geom:latitude":40.316071,
     "geom:longitude":-76.416222,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"860 Norman Dr",
     "sg:city":"Lebanon",
     "sg:classifiers":[
@@ -57,8 +58,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081341,
-        85868587
+        85868587,
+        102081341
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,17 +69,15 @@
     "wof:geomhash":"e5c89989b3f46c665c950f2172fa3f66",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081341,
-            "locality_id":-1,
             "neighbourhood_id":85868587,
             "region_id":85688481,
             "venue_id":403714691
         }
     ],
     "wof:id":403714691,
-    "wof:lastmodified":1449055281,
+    "wof:lastmodified":1454357580,
     "wof:name":"Elmcroft Of Lebanon",
     "wof:parent_id":85868587,
     "wof:placetype":"venue",
@@ -100,6 +99,11 @@
         "day"
     ]
 },
-  "bbox": [-76.416222,40.316071,-76.416222,40.316071],
+  "bbox": [
+    -76.416222,
+    40.316071,
+    -76.416222,
+    40.316071
+],
   "geometry": {"coordinates":[-76.416222,40.316071],"type":"Point"}
 }

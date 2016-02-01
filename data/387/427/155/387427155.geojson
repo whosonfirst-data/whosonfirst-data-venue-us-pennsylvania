@@ -2,13 +2,14 @@
   "id": 387427155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.993231,40.445243,-79.993231,40.445243",
     "geom:latitude":40.445243,
     "geom:longitude":-79.993231,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1121 Penn Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     "sg:website":"www.eides.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85873585,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85873585
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"6b0d3800ac61051de585f7146a5930ed",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85873585,
             "region_id":85688481,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":387427155,
-    "wof:lastmodified":1449057242,
+    "wof:lastmodified":1454358958,
     "wof:name":"Eide's Entertainment",
     "wof:parent_id":85873585,
     "wof:placetype":"venue",
@@ -71,6 +75,11 @@
         "dvd's"
     ]
 },
-  "bbox": [-79.993231,40.445243,-79.993231,40.445243],
-  "geometry": {"coordinates":[-79.993231,40.445243],"type":"Point"}
+  "bbox": [
+    -79.993231,
+    40.445243,
+    -79.993231,
+    40.445243
+],
+  "geometry": {"coordinates":[-79.99323099999999,40.445243],"type":"Point"}
 }

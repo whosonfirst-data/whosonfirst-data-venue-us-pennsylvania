@@ -2,13 +2,14 @@
   "id": 387290105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.059097,40.419701,-80.059097,40.419701",
     "geom:latitude":40.419701,
     "geom:longitude":-80.059097,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"615 Iron City Dr",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536243,
+        102191575,
+        404482523,
         85633793,
-        101718673,
-        102080887
+        101718805,
+        102080887,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"e037a9cf673a98e510859a57c6f850bb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":101718673,
-            "neighbourhood_id":-1,
+            "localadmin_id":404482523,
+            "locality_id":101718805,
+            "neighbourhood_id":420536243,
             "region_id":85688481,
             "venue_id":387290105
         }
     ],
     "wof:id":387290105,
-    "wof:lastmodified":1449057742,
+    "wof:lastmodified":1454360579,
     "wof:name":"Veltum Harry R Jr CPA",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536243,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "accountant"
     ]
 },
-  "bbox": [-80.059097,40.419701,-80.059097,40.419701],
-  "geometry": {"coordinates":[-80.059097,40.419701],"type":"Point"}
+  "bbox": [
+    -80.059097,
+    40.419701,
+    -80.059097,
+    40.419701
+],
+  "geometry": {"coordinates":[-80.05909699999999,40.419701],"type":"Point"}
 }

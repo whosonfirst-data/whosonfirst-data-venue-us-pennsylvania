@@ -2,13 +2,14 @@
   "id": 403763827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.980301,40.1926,-76.980301,40.1926",
     "geom:latitude":40.1926,
     "geom:longitude":-76.980301,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"385 Cumberland Pkwy",
     "sg:city":"Mechanicsburg",
     "sg:classifiers":[
@@ -27,8 +28,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081359,
-        85825925
+        85825925,
+        102081359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +39,15 @@
     "wof:geomhash":"f708c2140cb07e8a13e880a0767d5827",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081359,
-            "locality_id":-1,
             "neighbourhood_id":85825925,
             "region_id":85688481,
             "venue_id":403763827
         }
     ],
     "wof:id":403763827,
-    "wof:lastmodified":1449055955,
+    "wof:lastmodified":1454357975,
     "wof:name":"Wingate Inn",
     "wof:parent_id":85825925,
     "wof:placetype":"venue",
@@ -56,6 +55,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.980301,40.1926,-76.980301,40.1926],
+  "bbox": [
+    -76.980301,
+    40.1926,
+    -76.980301,
+    40.1926
+],
   "geometry": {"coordinates":[-76.980301,40.1926],"type":"Point"}
 }

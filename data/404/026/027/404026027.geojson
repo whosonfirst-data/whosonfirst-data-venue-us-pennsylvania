@@ -2,13 +2,14 @@
   "id": 404026027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.780267,40.006679,-76.780267,40.006679",
     "geom:latitude":40.006679,
     "geom:longitude":-76.780267,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2510 Primrose Ln",
     "sg:city":"York",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080953,
-        85820401
+        85820401,
+        102080953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"9c30e73ac1e60af279c834a7ae5f5709",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
             "neighbourhood_id":85820401,
             "region_id":85688481,
             "venue_id":404026027
         }
     ],
     "wof:id":404026027,
-    "wof:lastmodified":1449039825,
+    "wof:lastmodified":1454356825,
     "wof:name":"Father Dunn's Jewelry",
     "wof:parent_id":85820401,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "jeweler"
     ]
 },
-  "bbox": [-76.780267,40.006679,-76.780267,40.006679],
-  "geometry": {"coordinates":[-76.780267,40.006679],"type":"Point"}
+  "bbox": [
+    -76.780267,
+    40.006679,
+    -76.780267,
+    40.006679
+],
+  "geometry": {"coordinates":[-76.78026699999999,40.006679],"type":"Point"}
 }

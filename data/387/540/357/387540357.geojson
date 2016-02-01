@@ -2,13 +2,14 @@
   "id": 387540357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.213501,40.190102,-80.213501,40.190102",
     "geom:latitude":40.190102,
     "geom:longitude":-80.213501,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"481 Washington Rd",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -39,8 +40,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081343,
-        85832105
+        85832105,
+        102081343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,17 +51,15 @@
     "wof:geomhash":"0482fc1c2dd99749f34d6993c2997726",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081343,
-            "locality_id":-1,
             "neighbourhood_id":85832105,
             "region_id":85688481,
             "venue_id":387540357
         }
     ],
     "wof:id":387540357,
-    "wof:lastmodified":1449057609,
+    "wof:lastmodified":1454360528,
     "wof:name":"Rusty's Towing Service",
     "wof:parent_id":85832105,
     "wof:placetype":"venue",
@@ -70,6 +69,11 @@
         "towing"
     ]
 },
-  "bbox": [-80.213501,40.190102,-80.213501,40.190102],
-  "geometry": {"coordinates":[-80.213501,40.190102],"type":"Point"}
+  "bbox": [
+    -80.213501,
+    40.190102,
+    -80.213501,
+    40.190102
+],
+  "geometry": {"coordinates":[-80.21350099999999,40.190102],"type":"Point"}
 }

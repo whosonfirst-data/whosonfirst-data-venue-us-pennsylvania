@@ -2,13 +2,14 @@
   "id": 387231911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.077567,40.401946,-80.077567,40.401946",
     "geom:latitude":40.401946,
     "geom:longitude":-80.077567,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"18 Carol Dr",
     "sg:city":"Carnegie",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85821875,
+        102191575,
+        404484865,
         85633793,
         101718775,
         102080887,
-        85821875
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"22f56ecbec7eed9831fd637976183215",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484865,
             "locality_id":101718775,
             "neighbourhood_id":85821875,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387231911,
-    "wof:lastmodified":1449058053,
+    "wof:lastmodified":1454360670,
     "wof:name":"Pastorok Upholstery",
     "wof:parent_id":85821875,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "furniture"
     ]
 },
-  "bbox": [-80.077567,40.401946,-80.077567,40.401946],
+  "bbox": [
+    -80.077567,
+    40.401946,
+    -80.077567,
+    40.401946
+],
   "geometry": {"coordinates":[-80.077567,40.401946],"type":"Point"}
 }

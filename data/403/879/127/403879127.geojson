@@ -2,13 +2,14 @@
   "id": 403879127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.856473,40.316888,-76.856473,40.316888",
     "geom:latitude":40.316888,
     "geom:longitude":-76.856473,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3601 N Progress Ave # 200",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     "sg:website":"http://www.gowebhealth.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85824251,
+        102191575,
+        404486185,
         85633793,
+        101719811,
         102081347,
-        85824251
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +47,18 @@
     "wof:geomhash":"0c211079fa3c5af5b00c577d324a335b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
+            "localadmin_id":404486185,
+            "locality_id":101719811,
             "neighbourhood_id":85824251,
             "region_id":85688481,
             "venue_id":403879127
         }
     ],
     "wof:id":403879127,
-    "wof:lastmodified":1449054645,
+    "wof:lastmodified":1454357191,
     "wof:name":"Genesis Systems Inc",
     "wof:parent_id":85824251,
     "wof:placetype":"venue",
@@ -65,6 +70,11 @@
         "software"
     ]
 },
-  "bbox": [-76.856473,40.316888,-76.856473,40.316888],
-  "geometry": {"coordinates":[-76.856473,40.316888],"type":"Point"}
+  "bbox": [
+    -76.856473,
+    40.316888,
+    -76.856473,
+    40.316888
+],
+  "geometry": {"coordinates":[-76.85647299999999,40.316888],"type":"Point"}
 }

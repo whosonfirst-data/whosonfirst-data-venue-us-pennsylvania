@@ -2,13 +2,14 @@
   "id": 404090619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.372566,40.016425,-76.372566,40.016425",
     "geom:latitude":40.016425,
     "geom:longitude":-76.372566,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1051 Tom Paine Dr",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85856227
+        85856227,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"ba38d91a3047e3453b4e2f6e7a2cd52a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85856227,
             "region_id":85688481,
             "venue_id":404090619
         }
     ],
     "wof:id":404090619,
-    "wof:lastmodified":1449040038,
+    "wof:lastmodified":1454356973,
     "wof:name":"Francis Tree & Landscape Servi",
     "wof:parent_id":85856227,
     "wof:placetype":"venue",
@@ -64,6 +63,11 @@
         "contractor"
     ]
 },
-  "bbox": [-76.372566,40.016425,-76.372566,40.016425],
-  "geometry": {"coordinates":[-76.372566,40.016425],"type":"Point"}
+  "bbox": [
+    -76.372566,
+    40.016425,
+    -76.372566,
+    40.016425
+],
+  "geometry": {"coordinates":[-76.37256600000001,40.016425],"type":"Point"}
 }

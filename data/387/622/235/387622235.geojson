@@ -2,13 +2,14 @@
   "id": 387622235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.522188,40.293777,-79.522188,40.293777",
     "geom:latitude":40.293777,
     "geom:longitude":-79.522188,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"530 Pellis Rd Ste 5000",
     "sg:city":"Greensburg",
     "sg:classifiers":[
@@ -42,8 +43,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081383,
-        85851151
+        85851151,
+        102081383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,17 +54,15 @@
     "wof:geomhash":"bb4ab221022aa29bbac5e71d76bddc53",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":-1,
             "neighbourhood_id":85851151,
             "region_id":85688481,
             "venue_id":387622235
         }
     ],
     "wof:id":387622235,
-    "wof:lastmodified":1449059235,
+    "wof:lastmodified":1454361016,
     "wof:name":"A G Edwards 475",
     "wof:parent_id":85851151,
     "wof:placetype":"venue",
@@ -76,6 +75,11 @@
         "security"
     ]
 },
-  "bbox": [-79.522188,40.293777,-79.522188,40.293777],
+  "bbox": [
+    -79.522188,
+    40.293777,
+    -79.522188,
+    40.293777
+],
   "geometry": {"coordinates":[-79.522188,40.293777],"type":"Point"}
 }

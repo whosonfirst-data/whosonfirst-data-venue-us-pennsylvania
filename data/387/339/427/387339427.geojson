@@ -2,13 +2,14 @@
   "id": 387339427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.890429,40.423187,-79.890429,40.423187",
     "geom:latitude":40.423187,
     "geom:longitude":-79.890429,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"7419 Mcclure Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85844235,
+        102191575,
+        404484253,
         85633793,
         101718701,
         102080887,
-        85844235
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"d87488e02915cde99af37041823baefa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484253,
             "locality_id":101718701,
             "neighbourhood_id":85844235,
             "region_id":85688481,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":387339427,
-    "wof:lastmodified":1449057803,
+    "wof:lastmodified":1454360601,
     "wof:name":"New Covenant Christian Fellowship",
     "wof:parent_id":85844235,
     "wof:placetype":"venue",
@@ -72,6 +76,11 @@
         "denomination"
     ]
 },
-  "bbox": [-79.890429,40.423187,-79.890429,40.423187],
+  "bbox": [
+    -79.890429,
+    40.423187,
+    -79.890429,
+    40.423187
+],
   "geometry": {"coordinates":[-79.890429,40.423187],"type":"Point"}
 }

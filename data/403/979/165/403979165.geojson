@@ -2,13 +2,14 @@
   "id": 403979165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.412255,39.745879,-77.412255,39.745879",
     "geom:latitude":39.745879,
     "geom:longitude":-77.412255,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"85 Taylor Ln",
     "sg:city":"Fairfield",
     "sg:classifiers":[
@@ -39,11 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85827223,
+        102191575,
+        404484791,
         85633793,
         101718869,
         102080899,
-        85827223
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,9 +56,10 @@
     "wof:geomhash":"faa455495a501d1fe3f40abb5b391246",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080899,
+            "localadmin_id":404484791,
             "locality_id":101718869,
             "neighbourhood_id":85827223,
             "region_id":85688481,
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":403979165,
-    "wof:lastmodified":1449055555,
+    "wof:lastmodified":1454357743,
     "wof:name":"Jason R. Bobbett Masonry",
     "wof:parent_id":85827223,
     "wof:placetype":"venue",
@@ -80,6 +84,11 @@
         "mason"
     ]
 },
-  "bbox": [-77.412255,39.745879,-77.412255,39.745879],
+  "bbox": [
+    -77.412255,
+    39.745879,
+    -77.412255,
+    39.745879
+],
   "geometry": {"coordinates":[-77.412255,39.745879],"type":"Point"}
 }

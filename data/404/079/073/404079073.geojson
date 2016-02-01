@@ -2,13 +2,14 @@
   "id": 404079073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.38915,40.065105,-76.38915,40.065105",
     "geom:latitude":40.065105,
     "geom:longitude":-76.38915,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"869 Westminster Dr",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85810207
+        85810207,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"0ad143fdcab31df0f43a1d9118385d2b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85810207,
             "region_id":85688481,
             "venue_id":404079073
         }
     ],
     "wof:id":404079073,
-    "wof:lastmodified":1449040108,
+    "wof:lastmodified":1454357011,
     "wof:name":"Mike Valentini Promotions",
     "wof:parent_id":85810207,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "sale"
     ]
 },
-  "bbox": [-76.38915,40.065105,-76.38915,40.065105],
+  "bbox": [
+    -76.38915,
+    40.065105,
+    -76.38915,
+    40.065105
+],
   "geometry": {"coordinates":[-76.38915,40.065105],"type":"Point"}
 }

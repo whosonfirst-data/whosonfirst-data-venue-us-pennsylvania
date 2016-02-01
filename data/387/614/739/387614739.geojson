@@ -2,13 +2,14 @@
   "id": 387614739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.17567,39.927031,-79.17567,39.927031",
     "geom:latitude":39.927031,
     "geom:longitude":-79.17567,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"181 Hickory Dr",
     "sg:city":"Rockwood",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081361,
-        85845559
+        85845559,
+        102081361
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"e4318f6d31f4baa01b2c067aadc796c8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081361,
-            "locality_id":-1,
             "neighbourhood_id":85845559,
             "region_id":85688481,
             "venue_id":387614739
         }
     ],
     "wof:id":387614739,
-    "wof:lastmodified":1449060022,
+    "wof:lastmodified":1454361264,
     "wof:name":"Creekside Designs",
     "wof:parent_id":85845559,
     "wof:placetype":"venue",
@@ -64,6 +63,11 @@
         "producer"
     ]
 },
-  "bbox": [-79.17567,39.927031,-79.17567,39.927031],
+  "bbox": [
+    -79.17567,
+    39.927031,
+    -79.17567,
+    39.927031
+],
   "geometry": {"coordinates":[-79.17567,39.927031],"type":"Point"}
 }

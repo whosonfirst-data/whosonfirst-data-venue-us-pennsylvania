@@ -2,13 +2,14 @@
   "id": 387247911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.952709,40.523383,-79.952709,40.523383",
     "geom:latitude":40.523383,
     "geom:longitude":-79.952709,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1006 Glenn Ave",
     "sg:city":"Glenshaw",
     "sg:classifiers":[
@@ -44,10 +45,13 @@
     "sg:website":"http://www.pittsburghwatercooler.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536361,
+        102191575,
+        404484307,
         85633793,
         101720515,
-        102080887
+        102080887,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,19 +61,20 @@
     "wof:geomhash":"52490beffae95e555649aa2462c02398",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484307,
             "locality_id":101720515,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420536361,
             "region_id":85688481,
             "venue_id":387247911
         }
     ],
     "wof:id":387247911,
-    "wof:lastmodified":1449058335,
+    "wof:lastmodified":1454360748,
     "wof:name":"Pittsburgh Water Cooler Service Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536361,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -83,6 +88,11 @@
         "coolers"
     ]
 },
-  "bbox": [-79.952709,40.523383,-79.952709,40.523383],
+  "bbox": [
+    -79.952709,
+    40.523383,
+    -79.952709,
+    40.523383
+],
   "geometry": {"coordinates":[-79.952709,40.523383],"type":"Point"}
 }

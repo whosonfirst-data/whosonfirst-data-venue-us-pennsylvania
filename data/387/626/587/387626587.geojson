@@ -2,13 +2,14 @@
   "id": 387626587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.598671,40.494339,-79.598671,40.494339",
     "geom:latitude":40.494339,
     "geom:longitude":-79.598671,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1091 Poke Run Church Rd",
     "sg:city":"Apollo",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081383,
-        85852577
+        85852577,
+        102081383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"bed759eb8dcf213bd21f098cc708ce70",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":-1,
             "neighbourhood_id":85852577,
             "region_id":85688481,
             "venue_id":387626587
         }
     ],
     "wof:id":387626587,
-    "wof:lastmodified":1449059923,
+    "wof:lastmodified":1454361234,
     "wof:name":"Poke Run Presbyterian Church",
     "wof:parent_id":85852577,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "churches-presbyterian"
     ]
 },
-  "bbox": [-79.598671,40.494339,-79.598671,40.494339],
+  "bbox": [
+    -79.598671,
+    40.494339,
+    -79.598671,
+    40.494339
+],
   "geometry": {"coordinates":[-79.598671,40.494339],"type":"Point"}
 }

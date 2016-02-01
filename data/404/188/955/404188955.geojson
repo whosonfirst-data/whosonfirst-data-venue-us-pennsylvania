@@ -2,13 +2,14 @@
   "id": 404188955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.340768,40.654558,-75.340768,40.654558",
     "geom:latitude":40.654558,
     "geom:longitude":-75.340768,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1957 Woodbury Rd",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -35,10 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85857809,
+        102191575,
+        404485989,
         85633793,
+        101719937,
         102081395,
-        85857809
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +52,18 @@
     "wof:geomhash":"5241dd28b2693d2c9933627b7f958307",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081395,
-            "locality_id":-1,
+            "localadmin_id":404485989,
+            "locality_id":101719937,
             "neighbourhood_id":85857809,
             "region_id":85688481,
             "venue_id":404188955
         }
     ],
     "wof:id":404188955,
-    "wof:lastmodified":1449039667,
+    "wof:lastmodified":1454356757,
     "wof:name":"Bob S Valley Wide Carpet Care",
     "wof:parent_id":85857809,
     "wof:placetype":"venue",
@@ -71,6 +76,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-75.340768,40.654558,-75.340768,40.654558],
+  "bbox": [
+    -75.340768,
+    40.654558,
+    -75.340768,
+    40.654558
+],
   "geometry": {"coordinates":[-75.340768,40.654558],"type":"Point"}
 }

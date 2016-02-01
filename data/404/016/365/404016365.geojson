@@ -2,13 +2,14 @@
   "id": 404016365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.67276,39.987862,-76.67276,39.987862",
     "geom:latitude":39.987862,
     "geom:longitude":-76.67276,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2899 Whiteford Rd",
     "sg:city":"York",
     "sg:classifiers":[
@@ -52,8 +53,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080953,
-        85817923
+        85817923,
+        102080953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,17 +64,15 @@
     "wof:geomhash":"e8efc832f5907a7b3586635e96ba876c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
             "neighbourhood_id":85817923,
             "region_id":85688481,
             "venue_id":404016365
         }
     ],
     "wof:id":404016365,
-    "wof:lastmodified":1449039239,
+    "wof:lastmodified":1454356535,
     "wof:name":"AT&T",
     "wof:parent_id":85817923,
     "wof:placetype":"venue",
@@ -90,6 +89,11 @@
         "provider"
     ]
 },
-  "bbox": [-76.67276,39.987862,-76.67276,39.987862],
+  "bbox": [
+    -76.67276,
+    39.987862,
+    -76.67276,
+    39.987862
+],
   "geometry": {"coordinates":[-76.67276,39.987862],"type":"Point"}
 }

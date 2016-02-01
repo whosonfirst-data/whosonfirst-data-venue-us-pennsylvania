@@ -2,13 +2,14 @@
   "id": 387628773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.572216,40.410375,-79.572216,40.410375",
     "geom:latitude":40.410375,
     "geom:longitude":-79.572216,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"76 Greensburg St",
     "sg:city":"Delmont",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081383,
-        85852577
+        85852577,
+        102081383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"b9521fd3ce42a1fbebae2b59c06117c7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":-1,
             "neighbourhood_id":85852577,
             "region_id":85688481,
             "venue_id":387628773
         }
     ],
     "wof:id":387628773,
-    "wof:lastmodified":1449059198,
+    "wof:lastmodified":1454361009,
     "wof:name":"Edwards Family Chiropractic",
     "wof:parent_id":85852577,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "chiropractic"
     ]
 },
-  "bbox": [-79.572216,40.410375,-79.572216,40.410375],
+  "bbox": [
+    -79.572216,
+    40.410375,
+    -79.572216,
+    40.410375
+],
   "geometry": {"coordinates":[-79.572216,40.410375],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387253247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.866753,40.35133,-79.866753,40.35133",
     "geom:latitude":40.35133,
     "geom:longitude":-79.866753,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"201 Lysle Blvd",
     "sg:city":"Mckeesport",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85845081,
+        102191575,
+        404484971,
         85633793,
         101718847,
         102080887,
-        85845081
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"a3821d04124f4a36f98d6f7a217dd84b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484971,
             "locality_id":101718847,
             "neighbourhood_id":85845081,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387253247,
-    "wof:lastmodified":1449059449,
+    "wof:lastmodified":1454361083,
     "wof:name":"Chamber Of Commerce",
     "wof:parent_id":85845081,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "commerce"
     ]
 },
-  "bbox": [-79.866753,40.35133,-79.866753,40.35133],
+  "bbox": [
+    -79.866753,
+    40.35133,
+    -79.866753,
+    40.35133
+],
   "geometry": {"coordinates":[-79.866753,40.35133],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387520243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.052041,40.352498,-80.052041,40.352498",
     "geom:latitude":40.352498,
     "geom:longitude":-80.052041,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1790 n highland rd. pittsburgh",
     "sg:city":"Upper St Clair",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"www.pizzaparma.us",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85805921,
+        102191575,
+        404484853,
         85633793,
         101718799,
         102080887,
-        85805921
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"831b5ee9c44c065ba392edde678dc1af",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484853,
             "locality_id":101718799,
             "neighbourhood_id":85805921,
             "region_id":85688481,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387520243,
-    "wof:lastmodified":1449057353,
+    "wof:lastmodified":1454359051,
     "wof:name":"pizza parma",
     "wof:parent_id":85805921,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "pizza"
     ]
 },
-  "bbox": [-80.052041,40.352498,-80.052041,40.352498],
+  "bbox": [
+    -80.052041,
+    40.352498,
+    -80.052041,
+    40.352498
+],
   "geometry": {"coordinates":[-80.052041,40.352498],"type":"Point"}
 }

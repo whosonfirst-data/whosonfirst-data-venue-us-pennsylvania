@@ -2,13 +2,14 @@
   "id": 403945167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.52227,40.057659,-77.52227,40.057659",
     "geom:latitude":40.057659,
     "geom:longitude":-77.52227,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1871 Old Main Dr",
     "sg:city":"Shippensburg",
     "sg:classifiers":[
@@ -51,7 +52,6 @@
     "wof:geomhash":"d17c7f1feb095e1022aa1dc1d41bef1d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081359,
             "locality_id":101716737,
@@ -61,7 +61,7 @@
         }
     ],
     "wof:id":403945167,
-    "wof:lastmodified":1449054746,
+    "wof:lastmodified":1454357254,
     "wof:name":"Starbucks Coffee",
     "wof:parent_id":85815695,
     "wof:placetype":"venue",
@@ -75,6 +75,11 @@
         "restaurant"
     ]
 },
-  "bbox": [-77.52227,40.057659,-77.52227,40.057659],
-  "geometry": {"coordinates":[-77.52227,40.057659],"type":"Point"}
+  "bbox": [
+    -77.52227,
+    40.057659,
+    -77.52227,
+    40.057659
+],
+  "geometry": {"coordinates":[-77.52227000000001,40.057659],"type":"Point"}
 }

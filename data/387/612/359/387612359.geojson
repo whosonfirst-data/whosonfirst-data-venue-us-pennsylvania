@@ -2,13 +2,14 @@
   "id": 387612359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.373043,40.010994,-78.373043,40.010994",
     "geom:latitude":40.010994,
     "geom:longitude":-78.373043,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"15 S Spring St",
     "sg:city":"Everett",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85815813,
+        102191575,
+        404484499,
         85633793,
         101716769,
         102080939,
-        85815813
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"3a63093cff3b1c7039b9267c61a780b8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080939,
+            "localadmin_id":404484499,
             "locality_id":101716769,
             "neighbourhood_id":85815813,
             "region_id":85688481,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":387612359,
-    "wof:lastmodified":1449057786,
+    "wof:lastmodified":1454360596,
     "wof:name":"New Paris Um Christian Center",
     "wof:parent_id":85815813,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "denomination"
     ]
 },
-  "bbox": [-78.373043,40.010994,-78.373043,40.010994],
+  "bbox": [
+    -78.373043,
+    40.010994,
+    -78.373043,
+    40.010994
+],
   "geometry": {"coordinates":[-78.373043,40.010994],"type":"Point"}
 }

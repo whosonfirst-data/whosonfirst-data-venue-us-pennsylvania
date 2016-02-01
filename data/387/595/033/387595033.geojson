@@ -2,13 +2,14 @@
   "id": 387595033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.615784,39.975724,-79.615784,39.975724",
     "geom:latitude":39.975724,
     "geom:longitude":-79.615784,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"82 Connellsville St",
     "sg:city":"Dunbar",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080959,
-        85841099
+        85841099,
+        102080959
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"28ad469bd1d39ec2e0635e6f5342e0da",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080959,
-            "locality_id":-1,
             "neighbourhood_id":85841099,
             "region_id":85688481,
             "venue_id":387595033
         }
     ],
     "wof:id":387595033,
-    "wof:lastmodified":1449059548,
+    "wof:lastmodified":1454361112,
     "wof:name":"Graft Oil Company",
     "wof:parent_id":85841099,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "oils-petroleum"
     ]
 },
-  "bbox": [-79.615784,39.975724,-79.615784,39.975724],
+  "bbox": [
+    -79.615784,
+    39.975724,
+    -79.615784,
+    39.975724
+],
   "geometry": {"coordinates":[-79.615784,39.975724],"type":"Point"}
 }

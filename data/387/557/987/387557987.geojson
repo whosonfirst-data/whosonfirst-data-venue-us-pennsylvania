@@ -2,13 +2,14 @@
   "id": 387557987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.15658,40.27212,-80.15658,40.27212",
     "geom:latitude":40.27212,
     "geom:longitude":-80.15658,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"156 Ahepa Dr",
     "sg:city":"Canonsburg",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081343,
-        85836101
+        85836101,
+        102081343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"f34debfc6c56a2efcfd3259e0de4ce1b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081343,
-            "locality_id":-1,
             "neighbourhood_id":85836101,
             "region_id":85688481,
             "venue_id":387557987
         }
     ],
     "wof:id":387557987,
-    "wof:lastmodified":1449058821,
+    "wof:lastmodified":1454360894,
     "wof:name":"Ahepa Apartments",
     "wof:parent_id":85836101,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "apartment"
     ]
 },
-  "bbox": [-80.15658,40.27212,-80.15658,40.27212],
-  "geometry": {"coordinates":[-80.15658,40.27212],"type":"Point"}
+  "bbox": [
+    -80.15658,
+    40.27212,
+    -80.15658,
+    40.27212
+],
+  "geometry": {"coordinates":[-80.15658000000001,40.27212],"type":"Point"}
 }

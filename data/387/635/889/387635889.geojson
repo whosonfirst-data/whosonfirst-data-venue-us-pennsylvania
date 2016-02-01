@@ -2,13 +2,14 @@
   "id": 387635889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.661079,40.372215,-79.661079,40.372215",
     "geom:latitude":40.372215,
     "geom:longitude":-79.661079,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3008 Hyland Rd Ste 100",
     "sg:city":"Irwin",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081383,
-        85833221
+        85833221,
+        102081383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"0a1cdd71155918d6e11783a3bce40be7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":-1,
             "neighbourhood_id":85833221,
             "region_id":85688481,
             "venue_id":387635889
         }
     ],
     "wof:id":387635889,
-    "wof:lastmodified":1449057756,
+    "wof:lastmodified":1454360582,
     "wof:name":"Tripoint Medical Management",
     "wof:parent_id":85833221,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "consultant"
     ]
 },
-  "bbox": [-79.661079,40.372215,-79.661079,40.372215],
+  "bbox": [
+    -79.661079,
+    40.372215,
+    -79.661079,
+    40.372215
+],
   "geometry": {"coordinates":[-79.661079,40.372215],"type":"Point"}
 }

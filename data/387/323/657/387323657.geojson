@@ -2,13 +2,14 @@
   "id": 387323657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.039664,40.480294,-80.039664,40.480294",
     "geom:latitude":40.480294,
     "geom:longitude":-80.039664,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1611 Davis Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -25,11 +26,13 @@
     "sg:website":"www.pghboe.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85807553,
+        102191575,
+        404484847,
         85633793,
-        101718805,
+        101718811,
         102080887,
-        85807553
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +42,18 @@
     "wof:geomhash":"f842f389ab98d2906926959da0fde6ef",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":101718805,
+            "localadmin_id":404484847,
+            "locality_id":101718811,
             "neighbourhood_id":85807553,
             "region_id":85688481,
             "venue_id":387323657
         }
     ],
     "wof:id":387323657,
-    "wof:lastmodified":1449056434,
+    "wof:lastmodified":1454358351,
     "wof:name":"Pittsburgh Public Schools",
     "wof:parent_id":85807553,
     "wof:placetype":"venue",
@@ -57,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.039664,40.480294,-80.039664,40.480294],
+  "bbox": [
+    -80.039664,
+    40.480294,
+    -80.039664,
+    40.480294
+],
   "geometry": {"coordinates":[-80.039664,40.480294],"type":"Point"}
 }

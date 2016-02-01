@@ -2,13 +2,14 @@
   "id": 387146693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.167297,40.6861,-80.167297,40.6861",
     "geom:latitude":40.6861,
     "geom:longitude":-80.167297,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"500 Franklin Blvd",
     "sg:city":"Freedom",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081323,
-        85831529
+        85831529,
+        102081323
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"241e40d5639c5977a102c5dd808cf9c9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081323,
-            "locality_id":-1,
             "neighbourhood_id":85831529,
             "region_id":85688481,
             "venue_id":387146693
         }
     ],
     "wof:id":387146693,
-    "wof:lastmodified":1449057679,
+    "wof:lastmodified":1454360558,
     "wof:name":"Freedom Crossing Apartments",
     "wof:parent_id":85831529,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "apartment"
     ]
 },
-  "bbox": [-80.167297,40.6861,-80.167297,40.6861],
+  "bbox": [
+    -80.167297,
+    40.6861,
+    -80.167297,
+    40.6861
+],
   "geometry": {"coordinates":[-80.167297,40.6861],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403706697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.647518,40.2955,-76.647518,40.2955",
     "geom:latitude":40.2955,
     "geom:longitude":-76.647518,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"46 Outlet Square",
     "sg:city":"Hershey",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85850549,
+        102191575,
+        404483303,
         85633793,
         101719813,
         102081347,
-        85850549
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"caff588c182ca98a131f7d4661a41032",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
+            "localadmin_id":404483303,
             "locality_id":101719813,
             "neighbourhood_id":85850549,
             "region_id":85688481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":403706697,
-    "wof:lastmodified":1449054730,
+    "wof:lastmodified":1454357248,
     "wof:name":"Springmaid Wamsutta Factory Outlet",
     "wof:parent_id":85850549,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "outlet"
     ]
 },
-  "bbox": [-76.647518,40.2955,-76.647518,40.2955],
-  "geometry": {"coordinates":[-76.647518,40.2955],"type":"Point"}
+  "bbox": [
+    -76.647518,
+    40.2955,
+    -76.647518,
+    40.2955
+],
+  "geometry": {"coordinates":[-76.64751800000001,40.2955],"type":"Point"}
 }

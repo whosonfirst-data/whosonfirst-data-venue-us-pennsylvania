@@ -2,13 +2,14 @@
   "id": 387595743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.550079,39.80003,-79.550079,39.80003",
     "geom:latitude":39.80003,
     "geom:longitude":-79.550079,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3953 National Pike",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080959,
-        85835791
+        85835791,
+        102080959
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"0af83fc63271254d066510b8762a0d5e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080959,
-            "locality_id":-1,
             "neighbourhood_id":85835791,
             "region_id":85688481,
             "venue_id":387595743
         }
     ],
     "wof:id":387595743,
-    "wof:lastmodified":1449059549,
+    "wof:lastmodified":1454361113,
     "wof:name":"Woodlands Animal Care Center",
     "wof:parent_id":85835791,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "specialty"
     ]
 },
-  "bbox": [-79.550079,39.80003,-79.550079,39.80003],
+  "bbox": [
+    -79.550079,
+    39.80003,
+    -79.550079,
+    39.80003
+],
   "geometry": {"coordinates":[-79.550079,39.80003],"type":"Point"}
 }

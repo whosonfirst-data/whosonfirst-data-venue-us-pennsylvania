@@ -2,13 +2,14 @@
   "id": 404091263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.358618,40.038829,-76.358618,40.038829",
     "geom:latitude":40.038829,
     "geom:longitude":-76.358618,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2010 Columbia Ave",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -37,8 +38,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85810789
+        85810789,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +49,15 @@
     "wof:geomhash":"1918c74e7fe45885a89ff355af583e94",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85810789,
             "region_id":85688481,
             "venue_id":404091263
         }
     ],
     "wof:id":404091263,
-    "wof:lastmodified":1449039140,
+    "wof:lastmodified":1454356469,
     "wof:name":"Enterprise Rent-A-Car",
     "wof:parent_id":85810789,
     "wof:placetype":"venue",
@@ -70,6 +69,11 @@
         "car"
     ]
 },
-  "bbox": [-76.358618,40.038829,-76.358618,40.038829],
-  "geometry": {"coordinates":[-76.358618,40.038829],"type":"Point"}
+  "bbox": [
+    -76.358618,
+    40.038829,
+    -76.358618,
+    40.038829
+],
+  "geometry": {"coordinates":[-76.35861800000001,40.038829],"type":"Point"}
 }

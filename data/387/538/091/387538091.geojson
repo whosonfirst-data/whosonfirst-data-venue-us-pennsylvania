@@ -2,13 +2,14 @@
   "id": 387538091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.23558,40.183479,-80.23558,40.183479",
     "geom:latitude":40.183479,
     "geom:longitude":-80.23558,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"301 Oak Spring Rd Ste 9",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85852963,
+        102191575,
+        404487917,
         85633793,
         101718569,
         102081343,
-        85852963
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"65c711ff06eebc09b3994105b9b90286",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081343,
+            "localadmin_id":404487917,
             "locality_id":101718569,
             "neighbourhood_id":85852963,
             "region_id":85688481,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":387538091,
-    "wof:lastmodified":1449056586,
+    "wof:lastmodified":1454358460,
     "wof:name":"Dfw Furniture Warehouse",
     "wof:parent_id":85852963,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-80.23558,40.183479,-80.23558,40.183479],
+  "bbox": [
+    -80.23558,
+    40.183479,
+    -80.23558,
+    40.183479
+],
   "geometry": {"coordinates":[-80.23558,40.183479],"type":"Point"}
 }

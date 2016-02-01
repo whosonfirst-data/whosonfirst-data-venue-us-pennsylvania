@@ -2,13 +2,14 @@
   "id": 387836693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.136124,42.08865,-80.136124,42.08865",
     "geom:latitude":42.08865,
     "geom:longitude":-80.136124,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2819 W 26th St",
     "sg:city":"Erie",
     "sg:classifiers":[
@@ -43,8 +44,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080955,
-        85810495
+        85810495,
+        102080955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,17 +55,15 @@
     "wof:geomhash":"32ab5cfee2170c484fecc9eb8af1f680",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080955,
-            "locality_id":-1,
             "neighbourhood_id":85810495,
             "region_id":85688481,
             "venue_id":387836693
         }
     ],
     "wof:id":387836693,
-    "wof:lastmodified":1449058621,
+    "wof:lastmodified":1454360832,
     "wof:name":"Mancino Academy Martial Arts",
     "wof:parent_id":85810495,
     "wof:placetype":"venue",
@@ -78,6 +77,11 @@
         "martial art"
     ]
 },
-  "bbox": [-80.136124,42.08865,-80.136124,42.08865],
+  "bbox": [
+    -80.136124,
+    42.08865,
+    -80.136124,
+    42.08865
+],
   "geometry": {"coordinates":[-80.136124,42.08865],"type":"Point"}
 }

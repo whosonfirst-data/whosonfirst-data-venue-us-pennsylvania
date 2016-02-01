@@ -2,13 +2,14 @@
   "id": 387612251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.300243,40.014055,-78.300243,40.014055",
     "geom:latitude":40.014055,
     "geom:longitude":-78.300243,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"944 Woy Bridge Rd",
     "sg:city":"Everett",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85815813,
+        102191575,
+        404484499,
         85633793,
         101716769,
         102080939,
-        85815813
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"c2d1185098bbab805acacb55cfaa353d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080939,
+            "localadmin_id":404484499,
             "locality_id":101716769,
             "neighbourhood_id":85815813,
             "region_id":85688481,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387612251,
-    "wof:lastmodified":1449057788,
+    "wof:lastmodified":1454360596,
     "wof:name":"Barry And Brian Woy",
     "wof:parent_id":85815813,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.300243,40.014055,-78.300243,40.014055],
-  "geometry": {"coordinates":[-78.300243,40.014055],"type":"Point"}
+  "bbox": [
+    -78.300243,
+    40.014055,
+    -78.300243,
+    40.014055
+],
+  "geometry": {"coordinates":[-78.30024299999999,40.014055],"type":"Point"}
 }

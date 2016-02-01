@@ -2,13 +2,14 @@
   "id": 387896279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.642133,41.732988,-77.642133,41.732988",
     "geom:latitude":41.732988,
     "geom:longitude":-77.642133,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"17 Germania St",
     "sg:city":"Galeton",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081299,
-        85821383
+        85821383,
+        102081299
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"7d870f27e342050a5a532e3537d16aa6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081299,
-            "locality_id":-1,
             "neighbourhood_id":85821383,
             "region_id":85688481,
             "venue_id":387896279
         }
     ],
     "wof:id":387896279,
-    "wof:lastmodified":1449057485,
+    "wof:lastmodified":1454359232,
     "wof:name":"Runser Karl",
     "wof:parent_id":85821383,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "churches-presbyterian"
     ]
 },
-  "bbox": [-77.642133,41.732988,-77.642133,41.732988],
+  "bbox": [
+    -77.642133,
+    41.732988,
+    -77.642133,
+    41.732988
+],
   "geometry": {"coordinates":[-77.642133,41.732988],"type":"Point"}
 }

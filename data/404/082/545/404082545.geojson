@@ -2,13 +2,14 @@
   "id": 404082545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.286506,40.099953,-76.286506,40.099953",
     "geom:latitude":40.099953,
     "geom:longitude":-76.286506,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2947 Brookfield Rd",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -46,8 +47,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85829687
+        85829687,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,17 +58,15 @@
     "wof:geomhash":"7f5ba605576a4ea3b23ec4ca3ef1a96b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85829687,
             "region_id":85688481,
             "venue_id":404082545
         }
     ],
     "wof:id":404082545,
-    "wof:lastmodified":1449039111,
+    "wof:lastmodified":1454356440,
     "wof:name":"Chever Disc Jockey Service",
     "wof:parent_id":85829687,
     "wof:placetype":"venue",
@@ -84,6 +83,11 @@
         "banquet"
     ]
 },
-  "bbox": [-76.286506,40.099953,-76.286506,40.099953],
+  "bbox": [
+    -76.286506,
+    40.099953,
+    -76.286506,
+    40.099953
+],
   "geometry": {"coordinates":[-76.286506,40.099953],"type":"Point"}
 }

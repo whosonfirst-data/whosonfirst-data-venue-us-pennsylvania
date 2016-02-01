@@ -2,13 +2,14 @@
   "id": 387391423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.046097,40.412201,-80.046097,40.412201",
     "geom:latitude":40.412201,
     "geom:longitude":-80.046097,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1076 Greentree Rd # 1",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85804395,
+        102191575,
+        404482523,
         85633793,
+        101718805,
         102080887,
-        85804395
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +45,18 @@
     "wof:geomhash":"1c7f3963676cb98f8bf434d67bac3d9d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
+            "localadmin_id":404482523,
+            "locality_id":101718805,
             "neighbourhood_id":85804395,
             "region_id":85688481,
             "venue_id":387391423
         }
     ],
     "wof:id":387391423,
-    "wof:lastmodified":1449058542,
+    "wof:lastmodified":1454360808,
     "wof:name":"Rothrock Richard DDS",
     "wof:parent_id":85804395,
     "wof:placetype":"venue",
@@ -62,6 +67,11 @@
         "oral"
     ]
 },
-  "bbox": [-80.046097,40.412201,-80.046097,40.412201],
+  "bbox": [
+    -80.046097,
+    40.412201,
+    -80.046097,
+    40.412201
+],
   "geometry": {"coordinates":[-80.046097,40.412201],"type":"Point"}
 }

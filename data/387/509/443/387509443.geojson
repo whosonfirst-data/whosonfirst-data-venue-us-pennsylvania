@@ -2,13 +2,14 @@
   "id": 387509443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.832491,40.538262,-79.832491,40.538262",
     "geom:latitude":40.538262,
     "geom:longitude":-79.832491,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2801 Freeport Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -34,8 +35,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85844787
+        85844787,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +46,15 @@
     "wof:geomhash":"93b69341094ad8339bf1977bba62de9a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85844787,
             "region_id":85688481,
             "venue_id":387509443
         }
     ],
     "wof:id":387509443,
-    "wof:lastmodified":1449056273,
+    "wof:lastmodified":1454358214,
     "wof:name":"Joey D's Bar & Grille",
     "wof:parent_id":85844787,
     "wof:placetype":"venue",
@@ -65,6 +64,11 @@
         "brew"
     ]
 },
-  "bbox": [-79.832491,40.538262,-79.832491,40.538262],
+  "bbox": [
+    -79.832491,
+    40.538262,
+    -79.832491,
+    40.538262
+],
   "geometry": {"coordinates":[-79.832491,40.538262],"type":"Point"}
 }

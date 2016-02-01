@@ -2,13 +2,14 @@
   "id": 387842573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.94631,42.065848,-79.94631,42.065848",
     "geom:latitude":42.065848,
     "geom:longitude":-79.94631,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"9866 Wattsburg Rd",
     "sg:city":"Erie",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080955,
-        85827775
+        85827775,
+        102080955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"be9732b0e130ab38a56e0c8c9826638c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080955,
-            "locality_id":-1,
             "neighbourhood_id":85827775,
             "region_id":85688481,
             "venue_id":387842573
         }
     ],
     "wof:id":387842573,
-    "wof:lastmodified":1449056389,
+    "wof:lastmodified":1454358307,
     "wof:name":"Beechwood Inn",
     "wof:parent_id":85827775,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "american"
     ]
 },
-  "bbox": [-79.94631,42.065848,-79.94631,42.065848],
+  "bbox": [
+    -79.94631,
+    42.065848,
+    -79.94631,
+    42.065848
+],
   "geometry": {"coordinates":[-79.94631,42.065848],"type":"Point"}
 }

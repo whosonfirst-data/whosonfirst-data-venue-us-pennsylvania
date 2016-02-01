@@ -2,13 +2,14 @@
   "id": 387915447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.928398,40.2388,-76.928398,40.2388",
     "geom:latitude":40.2388,
     "geom:longitude":-76.928398,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4242 Carlisle Pike",
     "sg:city":"Camp Hill",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85857441,
+        102191575,
+        404486405,
         85633793,
         101719079,
         102081359,
-        85857441
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"1cd482e94a7275ac13a592ce47e632ce",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081359,
+            "localadmin_id":404486405,
             "locality_id":101719079,
             "neighbourhood_id":85857441,
             "region_id":85688481,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":387915447,
-    "wof:lastmodified":1449059885,
+    "wof:lastmodified":1454361222,
     "wof:name":"Pnc Mortgage Corp of America",
     "wof:parent_id":85857441,
     "wof:placetype":"venue",
@@ -68,6 +72,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-76.928398,40.2388,-76.928398,40.2388],
+  "bbox": [
+    -76.928398,
+    40.2388,
+    -76.928398,
+    40.2388
+],
   "geometry": {"coordinates":[-76.928398,40.2388],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387608029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.508839,40.046972,-78.508839,40.046972",
     "geom:latitude":40.046972,
     "geom:longitude":-78.508839,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4189 Business 220",
     "sg:city":"Bedford",
     "sg:classifiers":[
@@ -38,8 +39,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080939,
-        85858457
+        85858457,
+        102080939
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +50,15 @@
     "wof:geomhash":"d07117cb2cf0c18baaa4ac94df6f2c8d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080939,
-            "locality_id":-1,
             "neighbourhood_id":85858457,
             "region_id":85688481,
             "venue_id":387608029
         }
     ],
     "wof:id":387608029,
-    "wof:lastmodified":1449057735,
+    "wof:lastmodified":1454360577,
     "wof:name":"Safelite AutoGlass",
     "wof:parent_id":85858457,
     "wof:placetype":"venue",
@@ -72,6 +71,11 @@
         "glass-auto"
     ]
 },
-  "bbox": [-78.508839,40.046972,-78.508839,40.046972],
-  "geometry": {"coordinates":[-78.508839,40.046972],"type":"Point"}
+  "bbox": [
+    -78.508839,
+    40.046972,
+    -78.508839,
+    40.046972
+],
+  "geometry": {"coordinates":[-78.50883899999999,40.046972],"type":"Point"}
 }

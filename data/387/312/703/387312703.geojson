@@ -2,13 +2,14 @@
   "id": 387312703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.041555,40.481099,-80.041555,40.481099",
     "geom:latitude":40.481099,
     "geom:longitude":-80.041555,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3629 California Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85807553,
+        102191575,
+        404484847,
         85633793,
-        101718805,
+        101718811,
         102080887,
-        85807553
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"50082bbe580f00035146714147b13eb1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":101718805,
+            "localadmin_id":404484847,
+            "locality_id":101718811,
             "neighbourhood_id":85807553,
             "region_id":85688481,
             "venue_id":387312703
         }
     ],
     "wof:id":387312703,
-    "wof:lastmodified":1449058026,
+    "wof:lastmodified":1454360659,
     "wof:name":"D Michelle Salon & Beauty Supply",
     "wof:parent_id":85807553,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-80.041555,40.481099,-80.041555,40.481099],
+  "bbox": [
+    -80.041555,
+    40.481099,
+    -80.041555,
+    40.481099
+],
   "geometry": {"coordinates":[-80.041555,40.481099],"type":"Point"}
 }

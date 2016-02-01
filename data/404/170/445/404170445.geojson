@@ -2,13 +2,14 @@
   "id": 404170445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.387813,40.58307,-75.387813,40.58307",
     "geom:latitude":40.58307,
     "geom:longitude":-75.387813,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3646 Route 378",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081395,
-        85859207
+        85859207,
+        102081395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"0d0bf449b04286d944af40f8de024d2a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081395,
-            "locality_id":-1,
             "neighbourhood_id":85859207,
             "region_id":85688481,
             "venue_id":404170445
         }
     ],
     "wof:id":404170445,
-    "wof:lastmodified":1449039130,
+    "wof:lastmodified":1454356457,
     "wof:name":"John's Autoworks",
     "wof:parent_id":85859207,
     "wof:placetype":"venue",
@@ -63,6 +62,11 @@
         "tune"
     ]
 },
-  "bbox": [-75.387813,40.58307,-75.387813,40.58307],
-  "geometry": {"coordinates":[-75.387813,40.58307],"type":"Point"}
+  "bbox": [
+    -75.387813,
+    40.58307,
+    -75.387813,
+    40.58307
+],
+  "geometry": {"coordinates":[-75.38781299999999,40.58307],"type":"Point"}
 }

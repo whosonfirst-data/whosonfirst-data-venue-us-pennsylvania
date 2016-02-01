@@ -2,13 +2,14 @@
   "id": 403734263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.332136,40.370098,-77.332136,40.370098",
     "geom:latitude":40.370098,
     "geom:longitude":-77.332136,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3266 Shermans Valley Rd",
     "sg:city":"Loysville",
     "sg:classifiers":[
@@ -26,8 +27,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080963,
-        85854111
+        85854111,
+        102080963
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,17 +38,15 @@
     "wof:geomhash":"6e16b174ae2a216962ca335af891ba31",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080963,
-            "locality_id":-1,
             "neighbourhood_id":85854111,
             "region_id":85688481,
             "venue_id":403734263
         }
     ],
     "wof:id":403734263,
-    "wof:lastmodified":1449055803,
+    "wof:lastmodified":1454357886,
     "wof:name":"John W Dougherty",
     "wof:parent_id":85854111,
     "wof:placetype":"venue",
@@ -55,6 +54,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.332136,40.370098,-77.332136,40.370098],
-  "geometry": {"coordinates":[-77.332136,40.370098],"type":"Point"}
+  "bbox": [
+    -77.332136,
+    40.370098,
+    -77.332136,
+    40.370098
+],
+  "geometry": {"coordinates":[-77.33213600000001,40.370098],"type":"Point"}
 }

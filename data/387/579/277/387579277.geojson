@@ -2,13 +2,14 @@
   "id": 387579277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.032051,40.035567,-80.032051,40.035567",
     "geom:latitude":40.035567,
     "geom:longitude":-80.032051,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1522 Morey Rd",
     "sg:city":"Fredericktown",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420540013,
+        102191575,
+        404483953,
         85633793,
-        101718527,
-        102081343
+        101718553,
+        102081343,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,20 @@
     "wof:geomhash":"54cfc56cbad5cf7c0aaf653fea948a5e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081343,
-            "locality_id":101718527,
-            "neighbourhood_id":-1,
+            "localadmin_id":404483953,
+            "locality_id":101718553,
+            "neighbourhood_id":420540013,
             "region_id":85688481,
             "venue_id":387579277
         }
     ],
     "wof:id":387579277,
-    "wof:lastmodified":1449057308,
+    "wof:lastmodified":1454359006,
     "wof:name":"Nichols & Sons",
-    "wof:parent_id":-1,
+    "wof:parent_id":420540013,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -66,6 +71,11 @@
         "automobile"
     ]
 },
-  "bbox": [-80.032051,40.035567,-80.032051,40.035567],
+  "bbox": [
+    -80.032051,
+    40.035567,
+    -80.032051,
+    40.035567
+],
   "geometry": {"coordinates":[-80.032051,40.035567],"type":"Point"}
 }

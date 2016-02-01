@@ -2,13 +2,14 @@
   "id": 387840133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.119509,42.08892,-80.119509,42.08892",
     "geom:latitude":42.08892,
     "geom:longitude":-80.119509,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2176 W 32nd St",
     "sg:city":"Erie",
     "sg:classifiers":[
@@ -37,11 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85818215,
+        102191575,
+        404486673,
         85633793,
         101718253,
         102080955,
-        85818215
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,9 +54,10 @@
     "wof:geomhash":"f772cb29336469da0541341583026e5e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080955,
+            "localadmin_id":404486673,
             "locality_id":101718253,
             "neighbourhood_id":85818215,
             "region_id":85688481,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":387840133,
-    "wof:lastmodified":1449059051,
+    "wof:lastmodified":1454360969,
     "wof:name":"Bel-Mart Foods",
     "wof:parent_id":85818215,
     "wof:placetype":"venue",
@@ -71,6 +75,11 @@
         "super"
     ]
 },
-  "bbox": [-80.119509,42.08892,-80.119509,42.08892],
-  "geometry": {"coordinates":[-80.119509,42.08892],"type":"Point"}
+  "bbox": [
+    -80.119509,
+    42.08892,
+    -80.119509,
+    42.08892
+],
+  "geometry": {"coordinates":[-80.11950899999999,42.08892],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387629113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.571022,40.413277,-79.571022,40.413277",
     "geom:latitude":40.413277,
     "geom:longitude":-79.571022,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"10 W Pittsburgh St",
     "sg:city":"Delmont",
     "sg:classifiers":[
@@ -43,8 +44,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081383,
-        85852577
+        85852577,
+        102081383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,17 +55,15 @@
     "wof:geomhash":"c5e599877658067ae88e698289baf3bb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081383,
-            "locality_id":-1,
             "neighbourhood_id":85852577,
             "region_id":85688481,
             "venue_id":387629113
         }
     ],
     "wof:id":387629113,
-    "wof:lastmodified":1449059022,
+    "wof:lastmodified":1454360960,
     "wof:name":"First National Insurance Agency",
     "wof:parent_id":85852577,
     "wof:placetype":"venue",
@@ -78,6 +77,11 @@
         "resume"
     ]
 },
-  "bbox": [-79.571022,40.413277,-79.571022,40.413277],
+  "bbox": [
+    -79.571022,
+    40.413277,
+    -79.571022,
+    40.413277
+],
   "geometry": {"coordinates":[-79.571022,40.413277],"type":"Point"}
 }

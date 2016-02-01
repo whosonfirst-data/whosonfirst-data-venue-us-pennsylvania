@@ -2,13 +2,14 @@
   "id": 387098881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.226325,40.611726,-80.226325,40.611726",
     "geom:latitude":40.611726,
     "geom:longitude":-80.226325,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2910 Duss Ave",
     "sg:city":"Ambridge",
     "sg:classifiers":[
@@ -37,11 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85808703,
+        102191575,
+        404482583,
         85633793,
         101718403,
         102081323,
-        85808703
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,9 +54,10 @@
     "wof:geomhash":"849873b1d62c1fa89731b0edcc28695c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081323,
+            "localadmin_id":404482583,
             "locality_id":101718403,
             "neighbourhood_id":85808703,
             "region_id":85688481,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":387098881,
-    "wof:lastmodified":1449059512,
+    "wof:lastmodified":1454361104,
     "wof:name":"Ambridge Shop N Save",
     "wof:parent_id":85808703,
     "wof:placetype":"venue",
@@ -71,6 +75,11 @@
         "bakers-wholesale"
     ]
 },
-  "bbox": [-80.226325,40.611726,-80.226325,40.611726],
+  "bbox": [
+    -80.226325,
+    40.611726,
+    -80.226325,
+    40.611726
+],
   "geometry": {"coordinates":[-80.226325,40.611726],"type":"Point"}
 }

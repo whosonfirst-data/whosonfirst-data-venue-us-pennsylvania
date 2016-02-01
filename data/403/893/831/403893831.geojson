@@ -2,13 +2,14 @@
   "id": 403893831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.848503,40.254799,-76.848503,40.254799",
     "geom:latitude":40.254799,
     "geom:longitude":-76.848503,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2222 Paxton St",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -34,8 +35,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85868485
+        85868485,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +46,15 @@
     "wof:geomhash":"76dc46afa0755604e913488662f7f926",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85868485,
             "region_id":85688481,
             "venue_id":403893831
         }
     ],
     "wof:id":403893831,
-    "wof:lastmodified":1449055715,
+    "wof:lastmodified":1454357837,
     "wof:name":"Brenner Cadillac-Oldsmobile Inc",
     "wof:parent_id":85868485,
     "wof:placetype":"venue",
@@ -65,6 +64,11 @@
         "car"
     ]
 },
-  "bbox": [-76.848503,40.254799,-76.848503,40.254799],
-  "geometry": {"coordinates":[-76.848503,40.254799],"type":"Point"}
+  "bbox": [
+    -76.848503,
+    40.254799,
+    -76.848503,
+    40.254799
+],
+  "geometry": {"coordinates":[-76.84850299999999,40.254799],"type":"Point"}
 }

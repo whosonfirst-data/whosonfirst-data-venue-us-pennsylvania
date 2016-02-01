@@ -2,13 +2,14 @@
   "id": 387479805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.036431,40.367809,-80.036431,40.367809",
     "geom:latitude":40.367809,
     "geom:longitude":-80.036431,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"250 Mt. Lebanon Blvd. Ste 201",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -25,11 +26,13 @@
     "sg:website":"www.pittsburghaestheticsmiles.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85830717,
+        102191575,
+        404484869,
         85633793,
         101718761,
         102080887,
-        85830717
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +42,10 @@
     "wof:geomhash":"9e50e75d37c3b5d1e574f6c83e5394cd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484869,
             "locality_id":101718761,
             "neighbourhood_id":85830717,
             "region_id":85688481,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":387479805,
-    "wof:lastmodified":1449058711,
+    "wof:lastmodified":1454360859,
     "wof:name":"Babak Firouzi, DMD",
     "wof:parent_id":85830717,
     "wof:placetype":"venue",
@@ -57,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.036431,40.367809,-80.036431,40.367809],
-  "geometry": {"coordinates":[-80.036431,40.367809],"type":"Point"}
+  "bbox": [
+    -80.036431,
+    40.367809,
+    -80.036431,
+    40.367809
+],
+  "geometry": {"coordinates":[-80.03643099999999,40.367809],"type":"Point"}
 }

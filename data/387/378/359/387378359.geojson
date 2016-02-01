@@ -2,13 +2,14 @@
   "id": 387378359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.990997,40.4394,-79.990997,40.4394",
     "geom:latitude":40.4394,
     "geom:longitude":-79.990997,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2 Chatham Ctr",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85853291,
+        102191575,
+        404482523,
         85633793,
         101718805,
         102080887,
-        85853291
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"248e107bb1cc49b8fc13ba26e29e7ff2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85853291,
             "region_id":85688481,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":387378359,
-    "wof:lastmodified":1449058673,
+    "wof:lastmodified":1454360847,
     "wof:name":"Demarck John Attorney",
     "wof:parent_id":85853291,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.990997,40.4394,-79.990997,40.4394],
-  "geometry": {"coordinates":[-79.990997,40.4394],"type":"Point"}
+  "bbox": [
+    -79.990997,
+    40.4394,
+    -79.990997,
+    40.4394
+],
+  "geometry": {"coordinates":[-79.99099699999999,40.4394],"type":"Point"}
 }

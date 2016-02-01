@@ -2,13 +2,14 @@
   "id": 387303743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.972642,40.486336,-79.972642,40.486336",
     "geom:latitude":40.486336,
     "geom:longitude":-79.972642,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"651 Evergreen Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85804759,
+        102191575,
+        404484241,
         85633793,
+        101718843,
         102080887,
-        85804759
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +45,18 @@
     "wof:geomhash":"ffeba85d42ca12f8205742f525274682",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
+            "localadmin_id":404484241,
+            "locality_id":101718843,
             "neighbourhood_id":85804759,
             "region_id":85688481,
             "venue_id":387303743
         }
     ],
     "wof:id":387303743,
-    "wof:lastmodified":1449056156,
+    "wof:lastmodified":1454358125,
     "wof:name":"Abel T V",
     "wof:parent_id":85804759,
     "wof:placetype":"venue",
@@ -62,6 +67,11 @@
         "radio-service"
     ]
 },
-  "bbox": [-79.972642,40.486336,-79.972642,40.486336],
-  "geometry": {"coordinates":[-79.972642,40.486336],"type":"Point"}
+  "bbox": [
+    -79.972642,
+    40.486336,
+    -79.972642,
+    40.486336
+],
+  "geometry": {"coordinates":[-79.97264199999999,40.486336],"type":"Point"}
 }

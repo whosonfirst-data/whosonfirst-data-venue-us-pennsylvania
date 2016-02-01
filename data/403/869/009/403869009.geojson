@@ -2,13 +2,14 @@
   "id": 403869009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.83384,40.295005,-76.83384,40.295005",
     "geom:latitude":40.295005,
     "geom:longitude":-76.83384,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"Colonial Rd",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     "sg:website":"www.gap.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85843183,
+        102191575,
+        404486305,
         85633793,
         101719821,
         102081347,
-        85843183
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"6df32128517fe0c0501131eae0470f51",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
+            "localadmin_id":404486305,
             "locality_id":101719821,
             "neighbourhood_id":85843183,
             "region_id":85688481,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":403869009,
-    "wof:lastmodified":1449055857,
+    "wof:lastmodified":1454357915,
     "wof:name":"The Gap",
     "wof:parent_id":85843183,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "women's"
     ]
 },
-  "bbox": [-76.83384,40.295005,-76.83384,40.295005],
+  "bbox": [
+    -76.83384,
+    40.295005,
+    -76.83384,
+    40.295005
+],
   "geometry": {"coordinates":[-76.83384,40.295005],"type":"Point"}
 }

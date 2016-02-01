@@ -2,13 +2,14 @@
   "id": 404162899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.413447,40.596328,-75.413447,40.596328",
     "geom:latitude":40.596328,
     "geom:longitude":-75.413447,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1756 Elinor St",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85815889,
+        102191575,
+        404485941,
         85633793,
         101717925,
         102081327,
-        85815889
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"9ab52ff17a351d84bd67926ef07d5634",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081327,
+            "localadmin_id":404485941,
             "locality_id":101717925,
             "neighbourhood_id":85815889,
             "region_id":85688481,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":404162899,
-    "wof:lastmodified":1449040140,
+    "wof:lastmodified":1454357029,
     "wof:name":"A B E Medical Billing",
     "wof:parent_id":85815889,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.413447,40.596328,-75.413447,40.596328],
-  "geometry": {"coordinates":[-75.413447,40.596328],"type":"Point"}
+  "bbox": [
+    -75.413447,
+    40.596328,
+    -75.413447,
+    40.596328
+],
+  "geometry": {"coordinates":[-75.41344700000001,40.596328],"type":"Point"}
 }

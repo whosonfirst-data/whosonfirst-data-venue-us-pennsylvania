@@ -2,13 +2,14 @@
   "id": 387589019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.377053,39.775231,-79.377053,39.775231",
     "geom:latitude":39.775231,
     "geom:longitude":-79.377053,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"844 Newberry Rd",
     "sg:city":"Addison",
     "sg:classifiers":[
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081361,
-        85849277
+        85849277,
+        102081361
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"08ca54d898dd0b4bb9d40a562880c794",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081361,
-            "locality_id":-1,
             "neighbourhood_id":85849277,
             "region_id":85688481,
             "venue_id":387589019
         }
     ],
     "wof:id":387589019,
-    "wof:lastmodified":1449058141,
+    "wof:lastmodified":1454360693,
     "wof:name":"Paul And Micheal Peary",
     "wof:parent_id":85849277,
     "wof:placetype":"venue",
@@ -67,6 +66,11 @@
         "product"
     ]
 },
-  "bbox": [-79.377053,39.775231,-79.377053,39.775231],
+  "bbox": [
+    -79.377053,
+    39.775231,
+    -79.377053,
+    39.775231
+],
   "geometry": {"coordinates":[-79.377053,39.775231],"type":"Point"}
 }

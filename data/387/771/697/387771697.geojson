@@ -2,13 +2,14 @@
   "id": 387771697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.502913,40.786387,-79.502913,40.786387",
     "geom:latitude":40.786387,
     "geom:longitude":-79.502913,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"123 Hawk Hollow Rd",
     "sg:city":"Kittanning",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081371,
-        85816487
+        85816487,
+        102081371
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"6eff9c4bb828a00f949ec4ae5185df30",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081371,
-            "locality_id":-1,
             "neighbourhood_id":85816487,
             "region_id":85688481,
             "venue_id":387771697
         }
     ],
     "wof:id":387771697,
-    "wof:lastmodified":1449058179,
+    "wof:lastmodified":1454360702,
     "wof:name":"Manor Metals Inc",
     "wof:parent_id":85816487,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-79.502913,40.786387,-79.502913,40.786387],
-  "geometry": {"coordinates":[-79.502913,40.786387],"type":"Point"}
+  "bbox": [
+    -79.502913,
+    40.786387,
+    -79.502913,
+    40.786387
+],
+  "geometry": {"coordinates":[-79.50291300000001,40.786387],"type":"Point"}
 }

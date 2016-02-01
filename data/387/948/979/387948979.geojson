@@ -2,13 +2,14 @@
   "id": 387948979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.094455,40.232196,-77.094455,40.232196",
     "geom:latitude":40.232196,
     "geom:longitude":-77.094455,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"7018 Carlisle Pike",
     "sg:city":"Carlisle",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081359,
-        85826667
+        85826667,
+        102081359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"7149989851c02a02052e38618f26ceef",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081359,
-            "locality_id":-1,
             "neighbourhood_id":85826667,
             "region_id":85688481,
             "venue_id":387948979
         }
     ],
     "wof:id":387948979,
-    "wof:lastmodified":1449059125,
+    "wof:lastmodified":1454360992,
     "wof:name":"Loysville Structures",
     "wof:parent_id":85826667,
     "wof:placetype":"venue",
@@ -61,6 +60,11 @@
         "contractor"
     ]
 },
-  "bbox": [-77.094455,40.232196,-77.094455,40.232196],
+  "bbox": [
+    -77.094455,
+    40.232196,
+    -77.094455,
+    40.232196
+],
   "geometry": {"coordinates":[-77.094455,40.232196],"type":"Point"}
 }

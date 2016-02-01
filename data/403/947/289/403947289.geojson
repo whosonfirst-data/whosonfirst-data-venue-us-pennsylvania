@@ -2,13 +2,14 @@
   "id": 403947289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.502472,40.05885,-77.502472,40.05885",
     "geom:latitude":40.05885,
     "geom:longitude":-77.502472,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"46 Walnut Bottom Rd",
     "sg:city":"Shippensburg",
     "sg:classifiers":[
@@ -75,7 +76,6 @@
     "wof:geomhash":"e5f231175360ccb57d1e409f9dbbc40c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081359,
             "locality_id":101716737,
@@ -85,7 +85,7 @@
         }
     ],
     "wof:id":403947289,
-    "wof:lastmodified":1449055574,
+    "wof:lastmodified":1454357755,
     "wof:name":"Shippensburg Health Services",
     "wof:parent_id":85815695,
     "wof:placetype":"venue",
@@ -108,6 +108,11 @@
         "x-ray"
     ]
 },
-  "bbox": [-77.502472,40.05885,-77.502472,40.05885],
+  "bbox": [
+    -77.502472,
+    40.05885,
+    -77.502472,
+    40.05885
+],
   "geometry": {"coordinates":[-77.502472,40.05885],"type":"Point"}
 }

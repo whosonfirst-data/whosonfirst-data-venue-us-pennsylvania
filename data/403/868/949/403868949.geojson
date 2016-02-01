@@ -2,13 +2,14 @@
   "id": 403868949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.819397,40.2738,-76.819397,40.2738",
     "geom:latitude":40.2738,
     "geom:longitude":-76.819397,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4000 Fenton Ave",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85829485
+        85829485,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"63e9d13ab18f5eb9cbc2173df9962e31",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85829485,
             "region_id":85688481,
             "venue_id":403868949
         }
     ],
     "wof:id":403868949,
-    "wof:lastmodified":1449054678,
+    "wof:lastmodified":1454357211,
     "wof:name":"Service Tire Truck Center",
     "wof:parent_id":85829485,
     "wof:placetype":"venue",
@@ -61,6 +60,11 @@
         "tire"
     ]
 },
-  "bbox": [-76.819397,40.2738,-76.819397,40.2738],
+  "bbox": [
+    -76.819397,
+    40.2738,
+    -76.819397,
+    40.2738
+],
   "geometry": {"coordinates":[-76.819397,40.2738],"type":"Point"}
 }

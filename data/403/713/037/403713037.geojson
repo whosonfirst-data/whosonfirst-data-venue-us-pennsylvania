@@ -2,13 +2,14 @@
   "id": 403713037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.566365,40.4848,-76.566365,40.4848",
     "geom:latitude":40.4848,
     "geom:longitude":-76.566365,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"502 Hemlock Hill Ln",
     "sg:city":"Jonestown",
     "sg:classifiers":[
@@ -37,8 +38,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081341,
-        85826993
+        85826993,
+        102081341
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +49,15 @@
     "wof:geomhash":"e6e362722bdbffc646708b75b4929beb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081341,
-            "locality_id":-1,
             "neighbourhood_id":85826993,
             "region_id":85688481,
             "venue_id":403713037
         }
     ],
     "wof:id":403713037,
-    "wof:lastmodified":1449055847,
+    "wof:lastmodified":1454357905,
     "wof:name":"Mel's Creative Wood Crafts",
     "wof:parent_id":85826993,
     "wof:placetype":"venue",
@@ -71,6 +70,11 @@
         "supply"
     ]
 },
-  "bbox": [-76.566365,40.4848,-76.566365,40.4848],
+  "bbox": [
+    -76.566365,
+    40.4848,
+    -76.566365,
+    40.4848
+],
   "geometry": {"coordinates":[-76.566365,40.4848],"type":"Point"}
 }

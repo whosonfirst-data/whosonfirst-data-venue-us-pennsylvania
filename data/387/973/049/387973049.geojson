@@ -2,13 +2,14 @@
   "id": 387973049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.651343,40.28537,-76.651343,40.28537",
     "geom:latitude":40.28537,
     "geom:longitude":-76.651343,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"27 West Chocolate Ave",
     "sg:city":"Hershey",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     "sg:website":"www.devonseafood.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85850549,
+        102191575,
+        404483303,
         85633793,
         101719813,
         102081347,
-        85850549
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"a69527b3beecb41dcb377f72fcd450af",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081347,
+            "localadmin_id":404483303,
             "locality_id":101719813,
             "neighbourhood_id":85850549,
             "region_id":85688481,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":387973049,
-    "wof:lastmodified":1449058389,
+    "wof:lastmodified":1454360767,
     "wof:name":"Devon Seafood Grill",
     "wof:parent_id":85850549,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "seafood"
     ]
 },
-  "bbox": [-76.651343,40.28537,-76.651343,40.28537],
+  "bbox": [
+    -76.651343,
+    40.28537,
+    -76.651343,
+    40.28537
+],
   "geometry": {"coordinates":[-76.651343,40.28537],"type":"Point"}
 }

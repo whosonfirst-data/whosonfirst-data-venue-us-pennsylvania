@@ -2,13 +2,14 @@
   "id": 387450575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.030121,40.513859,-80.030121,40.513859",
     "geom:latitude":40.513859,
     "geom:longitude":-80.030121,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"101 Bellevue Rd Ste 1",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85827181
+        85827181,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"8f1d26f4ab53d47675dc9d0d7930ac31",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85827181,
             "region_id":85688481,
             "venue_id":387450575
         }
     ],
     "wof:id":387450575,
-    "wof:lastmodified":1449059342,
+    "wof:lastmodified":1454361045,
     "wof:name":"Dice, Wayne",
     "wof:parent_id":85827181,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "chiropractic"
     ]
 },
-  "bbox": [-80.030121,40.513859,-80.030121,40.513859],
-  "geometry": {"coordinates":[-80.030121,40.513859],"type":"Point"}
+  "bbox": [
+    -80.030121,
+    40.513859,
+    -80.030121,
+    40.513859
+],
+  "geometry": {"coordinates":[-80.03012099999999,40.513859],"type":"Point"}
 }

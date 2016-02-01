@@ -2,13 +2,14 @@
   "id": 387851909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.396957,40.51458,-78.396957,40.51458",
     "geom:latitude":40.51458,
     "geom:longitude":-78.396957,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1101 8th Ave",
     "sg:city":"Altoona",
     "sg:classifiers":[
@@ -45,11 +46,13 @@
     "sg:website":"http://www.jomarlabs.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85818685,
+        102191575,
+        404484619,
         85633793,
         101716595,
         102081325,
-        85818685
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,9 +62,10 @@
     "wof:geomhash":"067339cab17564e57f705c326448f10c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081325,
+            "localadmin_id":404484619,
             "locality_id":101716595,
             "neighbourhood_id":85818685,
             "region_id":85688481,
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":387851909,
-    "wof:lastmodified":1449058618,
+    "wof:lastmodified":1454360829,
     "wof:name":"Lajo Genuine Italian Sausage",
     "wof:parent_id":85818685,
     "wof:placetype":"venue",
@@ -81,6 +85,11 @@
         "market"
     ]
 },
-  "bbox": [-78.396957,40.51458,-78.396957,40.51458],
+  "bbox": [
+    -78.396957,
+    40.51458,
+    -78.396957,
+    40.51458
+],
   "geometry": {"coordinates":[-78.396957,40.51458],"type":"Point"}
 }

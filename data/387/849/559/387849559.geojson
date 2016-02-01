@@ -2,13 +2,14 @@
   "id": 387849559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.409166,40.526376,-78.409166,40.526376",
     "geom:latitude":40.526376,
     "geom:longitude":-78.409166,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"920 25th Ave",
     "sg:city":"Altoona",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85818685,
+        102191575,
+        404484619,
         85633793,
         101716595,
         102081325,
-        85818685
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"b05052382a495578a21fbd49126e6018",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081325,
+            "localadmin_id":404484619,
             "locality_id":101716595,
             "neighbourhood_id":85818685,
             "region_id":85688481,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":387849559,
-    "wof:lastmodified":1449056800,
+    "wof:lastmodified":1454358621,
     "wof:name":"Blair Coroner",
     "wof:parent_id":85818685,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.409166,40.526376,-78.409166,40.526376],
+  "bbox": [
+    -78.409166,
+    40.526376,
+    -78.409166,
+    40.526376
+],
   "geometry": {"coordinates":[-78.409166,40.526376],"type":"Point"}
 }

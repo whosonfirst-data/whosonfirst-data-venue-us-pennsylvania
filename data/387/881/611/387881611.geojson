@@ -2,13 +2,14 @@
   "id": 387881611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.788803,40.777199,-77.788803,40.777199",
     "geom:latitude":40.777199,
     "geom:longitude":-77.788803,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"420 Boal Ave",
     "sg:city":"Boalsburg",
     "sg:classifiers":[
@@ -32,8 +33,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081369,
-        85838721
+        85838721,
+        102081369
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +44,15 @@
     "wof:geomhash":"2c8fed15a0ee39bdc68ea222e9e5e01d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081369,
-            "locality_id":-1,
             "neighbourhood_id":85838721,
             "region_id":85688481,
             "venue_id":387881611
         }
     ],
     "wof:id":387881611,
-    "wof:lastmodified":1449058313,
+    "wof:lastmodified":1454360742,
     "wof:name":"Happy Valley Refreshment",
     "wof:parent_id":85838721,
     "wof:placetype":"venue",
@@ -65,6 +64,11 @@
         "wine"
     ]
 },
-  "bbox": [-77.788803,40.777199,-77.788803,40.777199],
+  "bbox": [
+    -77.788803,
+    40.777199,
+    -77.788803,
+    40.777199
+],
   "geometry": {"coordinates":[-77.788803,40.777199],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404060079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.326731,40.107178,-76.326731,40.107178",
     "geom:latitude":40.107178,
     "geom:longitude":-76.326731,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"523 Ashton Pl",
     "sg:city":"Lititz",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85806481
+        85806481,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"bd3594254d17b654cc4d6c52825dd38d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85806481,
             "region_id":85688481,
             "venue_id":404060079
         }
     ],
     "wof:id":404060079,
-    "wof:lastmodified":1449040226,
+    "wof:lastmodified":1454357073,
     "wof:name":"Northridge Consulting",
     "wof:parent_id":85806481,
     "wof:placetype":"venue",
@@ -62,6 +61,11 @@
         "coach"
     ]
 },
-  "bbox": [-76.326731,40.107178,-76.326731,40.107178],
+  "bbox": [
+    -76.326731,
+    40.107178,
+    -76.326731,
+    40.107178
+],
   "geometry": {"coordinates":[-76.326731,40.107178],"type":"Point"}
 }

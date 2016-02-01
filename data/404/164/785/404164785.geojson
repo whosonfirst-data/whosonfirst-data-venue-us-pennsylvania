@@ -2,13 +2,14 @@
   "id": 404164785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.387863,40.582902,-75.387863,40.582902",
     "geom:latitude":40.582902,
     "geom:longitude":-75.387863,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3644 Route 378 Unit B",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081395,
-        85859207
+        85859207,
+        102081395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"72922cb31f831848f6c68684cc7ea9c3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081395,
-            "locality_id":-1,
             "neighbourhood_id":85859207,
             "region_id":85688481,
             "venue_id":404164785
         }
     ],
     "wof:id":404164785,
-    "wof:lastmodified":1449039162,
+    "wof:lastmodified":1454356487,
     "wof:name":"Breezy Ridge Instruments Limited",
     "wof:parent_id":85859207,
     "wof:placetype":"venue",
@@ -64,6 +63,11 @@
         "musical"
     ]
 },
-  "bbox": [-75.387863,40.582902,-75.387863,40.582902],
+  "bbox": [
+    -75.387863,
+    40.582902,
+    -75.387863,
+    40.582902
+],
   "geometry": {"coordinates":[-75.387863,40.582902],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404075803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.417253,40.070121,-76.417253,40.070121",
     "geom:latitude":40.070121,
     "geom:longitude":-76.417253,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1195 Ivy Dr",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85824591
+        85824591,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"8f0bfa7753636a10cd5bc9d6f5bad27f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85824591,
             "region_id":85688481,
             "venue_id":404075803
         }
     ],
     "wof:id":404075803,
-    "wof:lastmodified":1449039793,
+    "wof:lastmodified":1454356806,
     "wof:name":"American Transportation Inc",
     "wof:parent_id":85824591,
     "wof:placetype":"venue",
@@ -64,6 +63,11 @@
         "equipment"
     ]
 },
-  "bbox": [-76.417253,40.070121,-76.417253,40.070121],
+  "bbox": [
+    -76.417253,
+    40.070121,
+    -76.417253,
+    40.070121
+],
   "geometry": {"coordinates":[-76.417253,40.070121],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387817627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.314422,42.00237,-80.314422,42.00237",
     "geom:latitude":42.00237,
     "geom:longitude":-80.314422,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"225 Main St E",
     "sg:city":"Girard",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     "sg:website":"http://www.erieinsurance.com/?utm_source=yp&utm_medium=cpc&utm_campaign=ck_yp",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420537927,
+        102191575,
+        404486677,
         85633793,
         101718251,
-        102080955
+        102080955,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"fc15969eae2b0399d767629588d203e6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080955,
+            "localadmin_id":404486677,
             "locality_id":101718251,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420537927,
             "region_id":85688481,
             "venue_id":387817627
         }
     ],
     "wof:id":387817627,
-    "wof:lastmodified":1449059175,
+    "wof:lastmodified":1454361005,
     "wof:name":"PRATT INSURANCE AGENCY LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":420537927,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -61,6 +66,11 @@
         "auto"
     ]
 },
-  "bbox": [-80.314422,42.00237,-80.314422,42.00237],
-  "geometry": {"coordinates":[-80.314422,42.00237],"type":"Point"}
+  "bbox": [
+    -80.314422,
+    42.00237,
+    -80.314422,
+    42.00237
+],
+  "geometry": {"coordinates":[-80.31442199999999,42.00237],"type":"Point"}
 }

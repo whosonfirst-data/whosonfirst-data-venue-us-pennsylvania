@@ -2,13 +2,14 @@
   "id": 387934951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.139702,40.253399,-77.139702,40.253399",
     "geom:latitude":40.253399,
     "geom:longitude":-77.139702,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"217 N Middlesex Rd",
     "sg:city":"Carlisle",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85865395,
+        102191575,
+        404486423,
         85633793,
         101719085,
         102081359,
-        85865395
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"6849108cefd68d36dfd19fd0b3dcb510",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081359,
+            "localadmin_id":404486423,
             "locality_id":101719085,
             "neighbourhood_id":85865395,
             "region_id":85688481,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":387934951,
-    "wof:lastmodified":1449056301,
+    "wof:lastmodified":1454358236,
     "wof:name":"Cook Janet M Certified Electrologist",
     "wof:parent_id":85865395,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.139702,40.253399,-77.139702,40.253399],
+  "bbox": [
+    -77.139702,
+    40.253399,
+    -77.139702,
+    40.253399
+],
   "geometry": {"coordinates":[-77.139702,40.253399],"type":"Point"}
 }

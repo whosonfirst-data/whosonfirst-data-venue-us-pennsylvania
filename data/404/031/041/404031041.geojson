@@ -2,13 +2,14 @@
   "id": 404031041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.746292,40.048801,-76.746292,40.048801",
     "geom:latitude":40.048801,
     "geom:longitude":-76.746292,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"625 Willow Springs Ln A",
     "sg:city":"York",
     "sg:classifiers":[
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080953,
-        85846231
+        85846231,
+        102080953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"31e72051fa9cc39a417b9f2c9d14a0c6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080953,
-            "locality_id":-1,
             "neighbourhood_id":85846231,
             "region_id":85688481,
             "venue_id":404031041
         }
     ],
     "wof:id":404031041,
-    "wof:lastmodified":1449039481,
+    "wof:lastmodified":1454356671,
     "wof:name":"Assurant Solutions",
     "wof:parent_id":85846231,
     "wof:placetype":"venue",
@@ -69,6 +68,11 @@
         "casualty"
     ]
 },
-  "bbox": [-76.746292,40.048801,-76.746292,40.048801],
+  "bbox": [
+    -76.746292,
+    40.048801,
+    -76.746292,
+    40.048801
+],
   "geometry": {"coordinates":[-76.746292,40.048801],"type":"Point"}
 }

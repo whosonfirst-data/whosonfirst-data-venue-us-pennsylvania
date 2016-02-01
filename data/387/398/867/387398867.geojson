@@ -2,13 +2,14 @@
   "id": 387398867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.875231,40.445832,-79.875231,40.445832",
     "geom:latitude":40.445832,
     "geom:longitude":-79.875231,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1530 Swissvale Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -37,10 +38,13 @@
     "sg:website":"http://www.maicaproducts.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536233,
+        102191575,
+        404484253,
         85633793,
         101718701,
-        102080887
+        102080887,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,19 +54,20 @@
     "wof:geomhash":"a4293c2409e0d5bb572338a0c6ed6d4c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484253,
             "locality_id":101718701,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420536233,
             "region_id":85688481,
             "venue_id":387398867
         }
     ],
     "wof:id":387398867,
-    "wof:lastmodified":1449056416,
+    "wof:lastmodified":1454358331,
     "wof:name":"Maica Products Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536233,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -74,6 +79,11 @@
         "supply"
     ]
 },
-  "bbox": [-79.875231,40.445832,-79.875231,40.445832],
+  "bbox": [
+    -79.875231,
+    40.445832,
+    -79.875231,
+    40.445832
+],
   "geometry": {"coordinates":[-79.875231,40.445832],"type":"Point"}
 }

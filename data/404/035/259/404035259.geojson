@@ -2,13 +2,14 @@
   "id": 404035259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.786929,39.976666,-76.786929,39.976666",
     "geom:latitude":39.976666,
     "geom:longitude":-76.786929,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1910 Trolley Rd",
     "sg:city":"York",
     "sg:classifiers":[
@@ -36,10 +37,13 @@
     "sg:website":"http://www.countrymeadows.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420540379,
+        102191575,
+        404487953,
         85633793,
         101719479,
-        102080953
+        102080953,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,19 +53,20 @@
     "wof:geomhash":"fb6c4a182c7fbd368506e52d4f1ccf38",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080953,
+            "localadmin_id":404487953,
             "locality_id":101719479,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420540379,
             "region_id":85688481,
             "venue_id":404035259
         }
     ],
     "wof:id":404035259,
-    "wof:lastmodified":1449040059,
+    "wof:lastmodified":1454356985,
     "wof:name":"George M. Leader Family Corp.",
-    "wof:parent_id":-1,
+    "wof:parent_id":420540379,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -72,6 +77,11 @@
         "homes-institutional"
     ]
 },
-  "bbox": [-76.786929,39.976666,-76.786929,39.976666],
+  "bbox": [
+    -76.786929,
+    39.976666,
+    -76.786929,
+    39.976666
+],
   "geometry": {"coordinates":[-76.786929,39.976666],"type":"Point"}
 }

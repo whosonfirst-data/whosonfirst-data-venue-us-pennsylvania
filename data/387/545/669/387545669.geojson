@@ -2,13 +2,14 @@
   "id": 387545669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.196278,40.211496,-80.196278,40.211496",
     "geom:latitude":40.211496,
     "geom:longitude":-80.196278,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1340 Washington Rd",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -48,8 +49,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081343,
-        85833251
+        85833251,
+        102081343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,17 +60,15 @@
     "wof:geomhash":"d17fef5dca43fbcc3be2630930ae60c3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081343,
-            "locality_id":-1,
             "neighbourhood_id":85833251,
             "region_id":85688481,
             "venue_id":387545669
         }
     ],
     "wof:id":387545669,
-    "wof:lastmodified":1449057019,
+    "wof:lastmodified":1454358774,
     "wof:name":"B & W INSURANCE AGENCY INC",
     "wof:parent_id":85833251,
     "wof:placetype":"venue",
@@ -87,6 +86,11 @@
         "boat"
     ]
 },
-  "bbox": [-80.196278,40.211496,-80.196278,40.211496],
-  "geometry": {"coordinates":[-80.196278,40.211496],"type":"Point"}
+  "bbox": [
+    -80.196278,
+    40.211496,
+    -80.196278,
+    40.211496
+],
+  "geometry": {"coordinates":[-80.19627800000001,40.211496],"type":"Point"}
 }

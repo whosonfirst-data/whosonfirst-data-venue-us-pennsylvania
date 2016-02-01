@@ -2,13 +2,14 @@
   "id": 403896149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.761263,40.265149,-76.761263,40.265149",
     "geom:latitude":40.265149,
     "geom:longitude":-76.761263,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"7446 Derry St",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -30,8 +31,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081347,
-        85824943
+        85824943,
+        102081347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +42,15 @@
     "wof:geomhash":"7236a63d610a4676b022ffc36e5b9c4a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081347,
-            "locality_id":-1,
             "neighbourhood_id":85824943,
             "region_id":85688481,
             "venue_id":403896149
         }
     ],
     "wof:id":403896149,
-    "wof:lastmodified":1449055116,
+    "wof:lastmodified":1454357479,
     "wof:name":"Marino's Pizza",
     "wof:parent_id":85824943,
     "wof:placetype":"venue",
@@ -61,6 +60,11 @@
         "pizza"
     ]
 },
-  "bbox": [-76.761263,40.265149,-76.761263,40.265149],
+  "bbox": [
+    -76.761263,
+    40.265149,
+    -76.761263,
+    40.265149
+],
   "geometry": {"coordinates":[-76.761263,40.265149],"type":"Point"}
 }

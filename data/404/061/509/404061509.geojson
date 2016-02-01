@@ -2,13 +2,14 @@
   "id": 404061509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.312898,40.19397,-76.312898,40.19397",
     "geom:latitude":40.19397,
     "geom:longitude":-76.312898,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"91 Bomberger Rd",
     "sg:city":"Lititz",
     "sg:classifiers":[
@@ -38,8 +39,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081377,
-        85834405
+        85834405,
+        102081377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +50,15 @@
     "wof:geomhash":"45849a455c3e6276d7b69826fe95d088",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081377,
-            "locality_id":-1,
             "neighbourhood_id":85834405,
             "region_id":85688481,
             "venue_id":404061509
         }
     ],
     "wof:id":404061509,
-    "wof:lastmodified":1449039990,
+    "wof:lastmodified":1454356935,
     "wof:name":"Hurst Trenching",
     "wof:parent_id":85834405,
     "wof:placetype":"venue",
@@ -73,6 +72,11 @@
         "grading"
     ]
 },
-  "bbox": [-76.312898,40.19397,-76.312898,40.19397],
+  "bbox": [
+    -76.312898,
+    40.19397,
+    -76.312898,
+    40.19397
+],
   "geometry": {"coordinates":[-76.312898,40.19397],"type":"Point"}
 }

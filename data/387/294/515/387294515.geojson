@@ -2,13 +2,14 @@
   "id": 387294515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.063904,40.435001,-80.063904,40.435001",
     "geom:latitude":40.435001,
     "geom:longitude":-80.063904,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"200 Dinsmore Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420536243,
+        102191575,
+        404482523,
         85633793,
-        101718739,
-        102080887
+        101718805,
+        102080887,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"6a5ef63b21409d7d5fcf730b56e5f40e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":101718739,
-            "neighbourhood_id":-1,
+            "localadmin_id":404482523,
+            "locality_id":101718805,
+            "neighbourhood_id":420536243,
             "region_id":85688481,
             "venue_id":387294515
         }
     ],
     "wof:id":387294515,
-    "wof:lastmodified":1449058818,
+    "wof:lastmodified":1454360892,
     "wof:name":"Breen Rose Llc Accountants",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536243,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "accountant"
     ]
 },
-  "bbox": [-80.063904,40.435001,-80.063904,40.435001],
-  "geometry": {"coordinates":[-80.063904,40.435001],"type":"Point"}
+  "bbox": [
+    -80.063904,
+    40.435001,
+    -80.063904,
+    40.435001
+],
+  "geometry": {"coordinates":[-80.06390399999999,40.435001],"type":"Point"}
 }

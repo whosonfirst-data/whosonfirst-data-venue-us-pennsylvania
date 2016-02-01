@@ -2,13 +2,14 @@
   "id": 387143149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.881157,40.269569,-79.881157,40.269569",
     "geom:latitude":40.269569,
     "geom:longitude":-79.881157,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"400 Rothey Dr",
     "sg:city":"Elizabeth",
     "sg:classifiers":[
@@ -29,8 +30,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102080887,
-        85806339
+        85806339,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +41,15 @@
     "wof:geomhash":"7b64a6ecd0bf523b9d52681d41fe1f5b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102080887,
-            "locality_id":-1,
             "neighbourhood_id":85806339,
             "region_id":85688481,
             "venue_id":387143149
         }
     ],
     "wof:id":387143149,
-    "wof:lastmodified":1449059277,
+    "wof:lastmodified":1454361031,
     "wof:name":"Original Pizza Works",
     "wof:parent_id":85806339,
     "wof:placetype":"venue",
@@ -60,6 +59,11 @@
         "pizza"
     ]
 },
-  "bbox": [-79.881157,40.269569,-79.881157,40.269569],
+  "bbox": [
+    -79.881157,
+    40.269569,
+    -79.881157,
+    40.269569
+],
   "geometry": {"coordinates":[-79.881157,40.269569],"type":"Point"}
 }

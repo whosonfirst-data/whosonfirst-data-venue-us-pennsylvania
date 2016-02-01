@@ -2,13 +2,14 @@
   "id": 387544209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.19479,40.213618,-80.19479,40.213618",
     "geom:latitude":40.213618,
     "geom:longitude":-80.19479,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1445 Washington Rd # 400",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081343,
-        85833251
+        85833251,
+        102081343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"39101b7ca960033191387a104a8e28e6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081343,
-            "locality_id":-1,
             "neighbourhood_id":85833251,
             "region_id":85688481,
             "venue_id":387544209
         }
     ],
     "wof:id":387544209,
-    "wof:lastmodified":1449059915,
+    "wof:lastmodified":1454361231,
     "wof:name":"Thermal Spray Depot",
     "wof:parent_id":85833251,
     "wof:placetype":"venue",
@@ -63,6 +62,11 @@
         "welding"
     ]
 },
-  "bbox": [-80.19479,40.213618,-80.19479,40.213618],
+  "bbox": [
+    -80.19479,
+    40.213618,
+    -80.19479,
+    40.213618
+],
   "geometry": {"coordinates":[-80.19479,40.213618],"type":"Point"}
 }
