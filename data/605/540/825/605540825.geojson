@@ -2,9 +2,14 @@
   "id": 605540825,
   "type": "Feature",
   "properties": {
+    "addr:full":"3601 Decatur St Philadelphia PA 19136",
+    "addr:housenumber":"3601",
+    "addr:postcode":"19136",
+    "addr:street":"Decatur St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.02998,40.040735,-75.02998,40.040735",
     "geom:latitude":40.040735,
     "geom:longitude":-75.02998,
@@ -24,18 +29,39 @@
     "sg:postcode":"19136",
     "sg:province":"PA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2zzZ9Fl4DglcTqWD1bs0WE_40.040735_-75.029980@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"185fd9df040208b3b01a4b1ed6079d5c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":605540825
+        }
+    ],
     "wof:id":605540825,
-    "wof:lastmodified":1467081560,
+    "wof:lastmodified":1489036101,
     "wof:name":"De Palma Bakery Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

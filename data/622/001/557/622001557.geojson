@@ -2,9 +2,14 @@
   "id": 622001557,
   "type": "Feature",
   "properties": {
+    "addr:full":"7032 Jackson St Philadelphia PA 19135",
+    "addr:housenumber":"7032",
+    "addr:postcode":"19135",
+    "addr:street":"Jackson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.041312,40.029982,-75.041312,40.029982",
     "geom:latitude":40.029982,
     "geom:longitude":-75.041312,
@@ -24,18 +29,39 @@
     "sg:postcode":"19135",
     "sg:province":"PA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85851751,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6SN7ElLLB1FlME1vzZz3Ap_40.029982_-75.041312@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"0dde8045b03f53f1e2fc4fa2acfd8771",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85851751,
+            "region_id":85688481,
+            "venue_id":622001557
+        }
+    ],
     "wof:id":622001557,
-    "wof:lastmodified":1466776224,
+    "wof:lastmodified":1489037246,
     "wof:name":"Davis Bros Construction",
-    "wof:parent_id":-1,
+    "wof:parent_id":85851751,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

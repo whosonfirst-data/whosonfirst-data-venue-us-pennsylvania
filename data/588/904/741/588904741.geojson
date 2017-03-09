@@ -2,9 +2,14 @@
   "id": 588904741,
   "type": "Feature",
   "properties": {
+    "addr:full":"5900 Elmwood Ave Philadelphia PA 19143",
+    "addr:housenumber":"5900",
+    "addr:postcode":"19143",
+    "addr:street":"Elmwood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.223247,39.927178,-75.223247,39.927178",
     "geom:latitude":39.927178,
     "geom:longitude":-75.223247,
@@ -28,13 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85817921,
+        420539491,
         102191575,
+        1108721803,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481
+        85688481,
+        85817921
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +56,27 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721803,
+            "neighbourhood_id":420539491,
+            "region_id":85688481,
+            "venue_id":588904741
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721803,
             "neighbourhood_id":85817921,
             "region_id":85688481,
             "venue_id":588904741
         }
     ],
     "wof:id":588904741,
-    "wof:lastmodified":1466783435,
+    "wof:lastmodified":1489032856,
     "wof:name":"Police Athletic League South W",
-    "wof:parent_id":85817921,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

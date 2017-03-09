@@ -2,9 +2,14 @@
   "id": 622493141,
   "type": "Feature",
   "properties": {
+    "addr:full":"4501 Sheffield St Philadelphia PA 19136",
+    "addr:housenumber":"4501",
+    "addr:postcode":"19136",
+    "addr:street":"Sheffield St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.030823,40.035198,-75.030823,40.035198",
     "geom:latitude":40.035198,
     "geom:longitude":-75.030823,
@@ -18,18 +23,39 @@
     "sg:postcode":"19136",
     "sg:province":"PA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_19LLSI2uA78RVbT8EPpCT1_40.035198_-75.030823@1303262458"
     },
     "wof:country":"US",
     "wof:geomhash":"0e17dbe7385bc0716d1df67a681165ac",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":622493141
+        }
+    ],
     "wof:id":622493141,
-    "wof:lastmodified":1467081930,
+    "wof:lastmodified":1489036104,
     "wof:name":"Sheffield Tavern",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 605075647,
   "type": "Feature",
   "properties": {
+    "addr:full":"7369 Melrose St Philadelphia PA 19136",
+    "addr:housenumber":"7369",
+    "addr:postcode":"19136",
+    "addr:street":"Melrose St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.029858,40.025697,-75.029858,40.025697",
     "geom:latitude":40.025697,
     "geom:longitude":-75.029858,
@@ -29,18 +34,39 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5oJCpAGCpnwF8N8RzNcsyS_40.025697_-75.029858@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"a0eb80a07b52b84665a9f3e47aa63231",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":605075647
+        }
+    ],
     "wof:id":605075647,
-    "wof:lastmodified":1466780529,
+    "wof:lastmodified":1489036104,
     "wof:name":"Jack Connelly Autobody",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

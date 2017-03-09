@@ -2,9 +2,14 @@
   "id": 605979517,
   "type": "Feature",
   "properties": {
+    "addr:full":"4318 Oakmont St Philadelphia PA 19136",
+    "addr:housenumber":"4318",
+    "addr:postcode":"19136",
+    "addr:street":"Oakmont St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.033228,40.035899,-75.033228,40.035899",
     "geom:latitude":40.035899,
     "geom:longitude":-75.033228,
@@ -38,18 +43,39 @@
         "safety"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7feshSibuVghdnHav1IGiq_40.035899_-75.033228@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"1f56b2014040c35e3995a641e2ff2ef2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":605979517
+        }
+    ],
     "wof:id":605979517,
-    "wof:lastmodified":1467081840,
+    "wof:lastmodified":1489036124,
     "wof:name":"Liberty Safe & Lock Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

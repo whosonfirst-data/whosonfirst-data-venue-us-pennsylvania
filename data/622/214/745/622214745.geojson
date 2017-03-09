@@ -2,9 +2,14 @@
   "id": 622214745,
   "type": "Feature",
   "properties": {
+    "addr:full":"4031 Sheffield St Philadelphia PA 19136",
+    "addr:housenumber":"4031",
+    "addr:postcode":"19136",
+    "addr:street":"Sheffield St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.032937,40.038683,-75.032937,40.038683",
     "geom:latitude":40.038683,
     "geom:longitude":-75.032937,
@@ -32,18 +37,39 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5grhR6EO2Mzl5CtSmLwizq_40.039008_-75.033023@1293134755"
     },
     "wof:country":"US",
     "wof:geomhash":"68e7cc810f591d0ea9edcf123253affb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":622214745
+        }
+    ],
     "wof:id":622214745,
-    "wof:lastmodified":1466788000,
+    "wof:lastmodified":1489036087,
     "wof:name":"Crawford John A DO",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

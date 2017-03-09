@@ -2,9 +2,14 @@
   "id": 622493095,
   "type": "Feature",
   "properties": {
+    "addr:full":"4432 Ashburner St Philadelphia PA 19136",
+    "addr:housenumber":"4432",
+    "addr:postcode":"19136",
+    "addr:street":"Ashburner St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.017616,40.042086,-75.017616,40.042086",
     "geom:latitude":40.042086,
     "geom:longitude":-75.017616,
@@ -29,18 +34,41 @@
         "collection"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108722091,
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_60WU2TPfdeibPNRd6omlBv_40.042086_-75.017616@1303262458"
     },
     "wof:country":"US",
     "wof:geomhash":"8a84c42f7f444cd0f35659adf70e7148",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "microhood_id":1108722091,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":622493095
+        }
+    ],
     "wof:id":622493095,
-    "wof:lastmodified":1467081930,
+    "wof:lastmodified":1489039516,
     "wof:name":"Global Assoc.",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108722091,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

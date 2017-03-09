@@ -2,9 +2,14 @@
   "id": 622264125,
   "type": "Feature",
   "properties": {
+    "addr:full":"432 N 62nd St Philadelphia PA 19151",
+    "addr:housenumber":"432",
+    "addr:postcode":"19151",
+    "addr:street":"N 62Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.243301,39.969326,-75.243301,39.969326",
     "geom:latitude":39.969326,
     "geom:longitude":-75.243301,
@@ -32,6 +37,7 @@
     "wof:belongsto":[
         420539515,
         102191575,
+        1108721805,
         404483701,
         85633793,
         101718083,
@@ -51,13 +57,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721805,
             "neighbourhood_id":420539515,
             "region_id":85688481,
             "venue_id":622264125
         }
     ],
     "wof:id":622264125,
-    "wof:lastmodified":1466789423,
+    "wof:lastmodified":1489033056,
     "wof:name":"Jim's Steaks",
     "wof:parent_id":420539515,
     "wof:placetype":"venue",

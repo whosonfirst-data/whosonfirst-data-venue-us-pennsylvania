@@ -2,9 +2,14 @@
   "id": 588814397,
   "type": "Feature",
   "properties": {
+    "addr:full":"2491 Grant Ave Philadelphia PA 19114",
+    "addr:housenumber":"2491",
+    "addr:postcode":"19114",
+    "addr:street":"Grant Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.024837,40.078925,-75.024837,40.078925",
     "geom:latitude":40.078925,
     "geom:longitude":-75.024837,
@@ -30,12 +35,12 @@
     "wof:belongsto":[
         420539457,
         102191575,
+        1108721807,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85824951
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,25 +55,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721807,
             "neighbourhood_id":420539457,
-            "region_id":85688481,
-            "venue_id":588814397
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
-            "neighbourhood_id":85824951,
             "region_id":85688481,
             "venue_id":588814397
         }
     ],
     "wof:id":588814397,
-    "wof:lastmodified":1466776425,
+    "wof:lastmodified":1489033436,
     "wof:name":"Uneek Enterprises",
-    "wof:parent_id":-1,
+    "wof:parent_id":420539457,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

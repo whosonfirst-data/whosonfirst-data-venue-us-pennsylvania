@@ -2,9 +2,14 @@
   "id": 622437477,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Dock St Philadelphia PA 19106",
+    "addr:housenumber":"1",
+    "addr:postcode":"19106",
+    "addr:street":"Dock St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.143097,39.945301,-75.143097,39.945301",
     "geom:latitude":39.945301,
     "geom:longitude":-75.143097,
@@ -40,14 +45,14 @@
     "sg:website":"http://clk.atdmt.com/NYC/go/249187267/direct/01/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871405,
+        85849249,
         102191575,
+        1108721797,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85849249
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,25 +67,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85871405,
-            "region_id":85688481,
-            "venue_id":622437477
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721797,
             "neighbourhood_id":85849249,
             "region_id":85688481,
             "venue_id":622437477
         }
     ],
     "wof:id":622437477,
-    "wof:lastmodified":1467081890,
+    "wof:lastmodified":1489031165,
     "wof:name":"Sheraton Society Hill Hotel",
-    "wof:parent_id":-1,
+    "wof:parent_id":85849249,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

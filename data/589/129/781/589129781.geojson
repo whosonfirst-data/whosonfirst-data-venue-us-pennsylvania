@@ -2,9 +2,14 @@
   "id": 589129781,
   "type": "Feature",
   "properties": {
+    "addr:full":"5300 Whitaker Ave Philadelphia PA 19124",
+    "addr:housenumber":"5300",
+    "addr:postcode":"19124",
+    "addr:street":"Whitaker Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.102379,40.032118,-75.102379,40.032118",
     "geom:latitude":40.032118,
     "geom:longitude":-75.102379,
@@ -30,12 +35,13 @@
     "wof:belongsto":[
         420539475,
         102191575,
+        1108721807,
         404483701,
         85633793,
         101718083,
         102081353,
         85688481,
-        85809945
+        420539477
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,6 +56,7 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721807,
             "neighbourhood_id":420539475,
             "region_id":85688481,
             "venue_id":589129781
@@ -60,15 +67,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85809945,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":420539477,
             "region_id":85688481,
             "venue_id":589129781
         }
     ],
     "wof:id":589129781,
-    "wof:lastmodified":1466784949,
+    "wof:lastmodified":1489033656,
     "wof:name":"Jomar",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

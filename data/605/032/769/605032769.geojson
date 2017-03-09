@@ -2,9 +2,14 @@
   "id": 605032769,
   "type": "Feature",
   "properties": {
+    "addr:full":"259 W Johnson St Philadelphia PA 19144",
+    "addr:housenumber":"259",
+    "addr:postcode":"19144",
+    "addr:street":"W Johnson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.186583,40.041979,-75.186583,40.041979",
     "geom:latitude":40.041979,
     "geom:longitude":-75.186583,
@@ -28,14 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85835357,
+        85855969,
         102191575,
+        1108721809,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85855969
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,25 +55,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85835357,
-            "region_id":85688481,
-            "venue_id":605032769
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721809,
             "neighbourhood_id":85855969,
             "region_id":85688481,
             "venue_id":605032769
         }
     ],
     "wof:id":605032769,
-    "wof:lastmodified":1466776586,
+    "wof:lastmodified":1489037428,
     "wof:name":"Klathacom",
-    "wof:parent_id":-1,
+    "wof:parent_id":85855969,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

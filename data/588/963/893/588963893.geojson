@@ -2,9 +2,14 @@
   "id": 588963893,
   "type": "Feature",
   "properties": {
+    "addr:full":"6822 Mower St Philadelphia PA 19119",
+    "addr:housenumber":"6822",
+    "addr:postcode":"19119",
+    "addr:street":"Mower St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.187869,40.053563,-75.187869,40.053563",
     "geom:latitude":40.053563,
     "geom:longitude":-75.187869,
@@ -28,14 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85835449,
+        85855969,
         102191575,
+        1108721809,
         404483701,
         85633793,
         101718083,
         102081353,
         85688481,
-        85855969
+        85835449
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,7 +56,8 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85835449,
+            "macrohood_id":1108721809,
+            "neighbourhood_id":85855969,
             "region_id":85688481,
             "venue_id":588963893
         },
@@ -60,15 +67,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85855969,
+            "macrohood_id":1108721809,
+            "neighbourhood_id":85835449,
             "region_id":85688481,
             "venue_id":588963893
         }
     ],
     "wof:id":588963893,
-    "wof:lastmodified":1466786383,
+    "wof:lastmodified":1489034422,
     "wof:name":"Mount Airy Investment Partners",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

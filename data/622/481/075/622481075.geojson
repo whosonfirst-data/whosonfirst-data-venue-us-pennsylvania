@@ -2,9 +2,14 @@
   "id": 622481075,
   "type": "Feature",
   "properties": {
+    "addr:full":"1502 Fairmount Ave Philadelphia PA 19130",
+    "addr:housenumber":"1502",
+    "addr:postcode":"19130",
+    "addr:street":"Fairmount Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.162142,39.967121,-75.162142,39.967121",
     "geom:latitude":39.967121,
     "geom:longitude":-75.162142,
@@ -32,14 +37,15 @@
     "sg:website":"http://www.yext.com/p/superpages/long-s-refrigeration-philadelphia-pennsylvania.html",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871447,
+        1108721789,
+        85820539,
         102191575,
+        1108721811,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85820539
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,25 +60,17 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85871447,
-            "region_id":85688481,
-            "venue_id":622481075
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721811,
+            "microhood_id":1108721789,
             "neighbourhood_id":85820539,
             "region_id":85688481,
             "venue_id":622481075
         }
     ],
     "wof:id":622481075,
-    "wof:lastmodified":1467081921,
+    "wof:lastmodified":1489039115,
     "wof:name":"Long's Refrigeration",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108721789,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

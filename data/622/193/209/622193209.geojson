@@ -2,9 +2,14 @@
   "id": 622193209,
   "type": "Feature",
   "properties": {
+    "addr:full":"1624 S Marston St Philadelphia PA 19145",
+    "addr:housenumber":"1624",
+    "addr:postcode":"19145",
+    "addr:street":"S Marston St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.190766,39.933051,-75.190766,39.933051",
     "geom:latitude":39.933051,
     "geom:longitude":-75.190766,
@@ -31,6 +36,7 @@
     "wof:belongsto":[
         85822663,
         102191575,
+        1108721801,
         404483701,
         85633793,
         101718083,
@@ -50,13 +56,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721801,
             "neighbourhood_id":85822663,
             "region_id":85688481,
             "venue_id":622193209
         }
     ],
     "wof:id":622193209,
-    "wof:lastmodified":1466787256,
+    "wof:lastmodified":1489032295,
     "wof:name":"Union Auto Sales",
     "wof:parent_id":85822663,
     "wof:placetype":"venue",

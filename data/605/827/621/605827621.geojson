@@ -2,9 +2,14 @@
   "id": 605827621,
   "type": "Feature",
   "properties": {
+    "addr:full":"6547 Edmund St Philadelphia PA 19135",
+    "addr:housenumber":"6547",
+    "addr:postcode":"19135",
+    "addr:street":"Edmund St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.047604,40.021323,-75.047604,40.021323",
     "geom:latitude":40.021323,
     "geom:longitude":-75.047604,
@@ -28,18 +33,39 @@
         "driving"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85851751,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5o9gRlrVJWlqp075RfP7ss_40.021323_-75.047604@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"2332c5c25525ba466ca4eb00a8f0e2d4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85851751,
+            "region_id":85688481,
+            "venue_id":605827621
+        }
+    ],
     "wof:id":605827621,
-    "wof:lastmodified":1467081740,
+    "wof:lastmodified":1489037260,
     "wof:name":"Ed Lewis Driving School",
-    "wof:parent_id":-1,
+    "wof:parent_id":85851751,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

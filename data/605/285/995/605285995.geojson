@@ -2,9 +2,14 @@
   "id": 605285995,
   "type": "Feature",
   "properties": {
+    "addr:full":"6101 Tacony St Philadelphia PA 19135",
+    "addr:housenumber":"6101",
+    "addr:postcode":"19135",
+    "addr:street":"Tacony St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.054049,40.014675,-75.054049,40.014675",
     "geom:latitude":40.014675,
     "geom:longitude":-75.054049,
@@ -31,18 +36,39 @@
         "long"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85851751,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6IrUqboGjgOkD7uKBFauMF_40.014675_-75.054049@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"5b49ad43b0a561ebf661a23b7f9f2254",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85851751,
+            "region_id":85688481,
+            "venue_id":605285995
+        }
+    ],
     "wof:id":605285995,
-    "wof:lastmodified":1466789835,
+    "wof:lastmodified":1489037230,
     "wof:name":"Mill Corporation",
-    "wof:parent_id":-1,
+    "wof:parent_id":85851751,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

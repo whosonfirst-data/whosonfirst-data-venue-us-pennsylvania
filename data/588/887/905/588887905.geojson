@@ -2,9 +2,14 @@
   "id": 588887905,
   "type": "Feature",
   "properties": {
+    "addr:full":"8027 Frankford Ave Philadelphia PA 19136",
+    "addr:housenumber":"8027",
+    "addr:postcode":"19136",
+    "addr:street":"Frankford Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.026123,40.042,-75.026123,40.042",
     "geom:latitude":40.042,
     "geom:longitude":-75.026123,
@@ -24,18 +29,39 @@
     "sg:postcode":"19136",
     "sg:province":"PA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6UkdImvgXdsV9pFcXtrE1r_40.042000_-75.026123@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"c3504d1d8c5f665f29a9932de2a0552f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":588887905
+        }
+    ],
     "wof:id":588887905,
-    "wof:lastmodified":1466782117,
+    "wof:lastmodified":1489036115,
     "wof:name":"Ceramic Supply Wholesalers",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 622029639,
   "type": "Feature",
   "properties": {
+    "addr:full":"8012 Frankford Ave Philadelphia PA 19136",
+    "addr:housenumber":"8012",
+    "addr:postcode":"19136",
+    "addr:street":"Frankford Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.025899,40.042272,-75.025899,40.042272",
     "geom:latitude":40.042272,
     "geom:longitude":-75.025899,
@@ -24,18 +29,39 @@
     "sg:postcode":"19136",
     "sg:province":"PA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3uUlvoJtaNJlcz46Ra74t1_40.042272_-75.025899@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"b69a367ca7e54ac2594567aa12b16ff0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":622029639
+        }
+    ],
     "wof:id":622029639,
-    "wof:lastmodified":1466779265,
+    "wof:lastmodified":1489036114,
     "wof:name":"Sandy Shoppe",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

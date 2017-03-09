@@ -2,9 +2,14 @@
   "id": 605842629,
   "type": "Feature",
   "properties": {
+    "addr:full":"151 Parker Ave Philadelphia PA 19128",
+    "addr:housenumber":"151",
+    "addr:postcode":"19128",
+    "addr:street":"Parker Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.23261,40.036469,-75.23261,40.036469",
     "geom:latitude":40.036469,
     "geom:longitude":-75.23261,
@@ -30,6 +35,7 @@
     "wof:belongsto":[
         420539523,
         102191575,
+        1108721809,
         404483701,
         85633793,
         101718083,
@@ -49,13 +55,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721809,
             "neighbourhood_id":420539523,
             "region_id":85688481,
             "venue_id":605842629
         }
     ],
     "wof:id":605842629,
-    "wof:lastmodified":1467081749,
+    "wof:lastmodified":1489038442,
     "wof:name":"Carroll Contractors",
     "wof:parent_id":420539523,
     "wof:placetype":"venue",

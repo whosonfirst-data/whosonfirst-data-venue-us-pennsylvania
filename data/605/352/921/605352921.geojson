@@ -2,9 +2,14 @@
   "id": 605352921,
   "type": "Feature",
   "properties": {
+    "addr:full":"4620 Unruh Ave Philadelphia PA 19135",
+    "addr:housenumber":"",
+    "addr:postcode":"4620;19135",
+    "addr:street":"Unruh Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.046638,40.024238,-75.046638,40.024238",
     "geom:latitude":40.024238,
     "geom:longitude":-75.046638,
@@ -32,18 +37,39 @@
         "delicatessen"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85851751,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3tgz8ZGuDga2r493z9AHwU_40.024238_-75.046638@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"4a5e043f33199d8bd5e0f2e186507b3e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85851751,
+            "region_id":85688481,
+            "venue_id":605352921
+        }
+    ],
     "wof:id":605352921,
-    "wof:lastmodified":1466791120,
+    "wof:lastmodified":1489037269,
     "wof:name":"Rye-Rye's Deli",
-    "wof:parent_id":-1,
+    "wof:parent_id":85851751,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

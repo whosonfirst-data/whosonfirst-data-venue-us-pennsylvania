@@ -2,9 +2,14 @@
   "id": 622204755,
   "type": "Feature",
   "properties": {
+    "addr:full":"3401 Moore St Philadelphia PA 19145",
+    "addr:housenumber":"3401",
+    "addr:postcode":"19145",
+    "addr:street":"Moore St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.201797,39.932301,-75.201797,39.932301",
     "geom:latitude":39.932301,
     "geom:longitude":-75.201797,
@@ -30,11 +35,13 @@
     "wof:belongsto":[
         420539487,
         102191575,
+        1108721801,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481
+        85688481,
+        85822663
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +56,27 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721801,
             "neighbourhood_id":420539487,
+            "region_id":85688481,
+            "venue_id":622204755
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721801,
+            "neighbourhood_id":85822663,
             "region_id":85688481,
             "venue_id":622204755
         }
     ],
     "wof:id":622204755,
-    "wof:lastmodified":1466787763,
+    "wof:lastmodified":1489036032,
     "wof:name":"Buckley & Co Inc",
-    "wof:parent_id":420539487,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

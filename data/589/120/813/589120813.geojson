@@ -2,9 +2,14 @@
   "id": 589120813,
   "type": "Feature",
   "properties": {
+    "addr:full":"7201 Torresdale Ave Philadelphia PA 19135",
+    "addr:housenumber":"7201",
+    "addr:postcode":"19135",
+    "addr:street":"Torresdale Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.03517,40.030116,-75.03517,40.030116",
     "geom:latitude":40.030116,
     "geom:longitude":-75.03517,
@@ -27,18 +32,39 @@
         "shoes"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85851751,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4agSmanKxyNJuSLPlPTrQZ_40.030116_-75.035170@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"d463df1a6bd7914aab55b67d16647737",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85851751,
+            "region_id":85688481,
+            "venue_id":589120813
+        }
+    ],
     "wof:id":589120813,
-    "wof:lastmodified":1466784299,
+    "wof:lastmodified":1489037241,
     "wof:name":"Wellens Hosiery",
-    "wof:parent_id":-1,
+    "wof:parent_id":85851751,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 622394939,
   "type": "Feature",
   "properties": {
+    "addr:full":"37 S 16th St Second Fl Philadelphia PA 19102",
+    "addr:housenumber":"37",
+    "addr:postcode":"19102",
+    "addr:street":"S 16Th St Second",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.167061,39.951822,-75.167061,39.951822",
     "geom:latitude":39.951822,
     "geom:longitude":-75.167061,
@@ -31,14 +36,14 @@
     "sg:website":"http://philadelphia.citysearch.com/profile/external/9045947/philadelphia_pa/american_male_salon.html?publisher=yellowpages&reference_id=1&placement=ypwebsitemip",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867157,
+        85844705,
         102191575,
+        1108721797,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85844705
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,25 +58,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85867157,
-            "region_id":85688481,
-            "venue_id":622394939
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721797,
             "neighbourhood_id":85844705,
             "region_id":85688481,
             "venue_id":622394939
         }
     ],
     "wof:id":622394939,
-    "wof:lastmodified":1467081858,
+    "wof:lastmodified":1489032131,
     "wof:name":"American Male Salon",
-    "wof:parent_id":-1,
+    "wof:parent_id":85844705,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

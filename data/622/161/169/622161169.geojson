@@ -2,9 +2,14 @@
   "id": 622161169,
   "type": "Feature",
   "properties": {
+    "addr:full":"750 Hill Rd Philadelphia PA 19128",
+    "addr:housenumber":"750",
+    "addr:postcode":"19128",
+    "addr:street":"Hill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.220189,40.045971,-75.220189,40.045971",
     "geom:latitude":40.045971,
     "geom:longitude":-75.220189,
@@ -33,13 +38,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420539479,
+        85853279,
         102191575,
+        1108721809,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481
+        85688481,
+        420539479
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,15 +61,27 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721809,
+            "neighbourhood_id":85853279,
+            "region_id":85688481,
+            "venue_id":622161169
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721809,
             "neighbourhood_id":420539479,
             "region_id":85688481,
             "venue_id":622161169
         }
     ],
     "wof:id":622161169,
-    "wof:lastmodified":1466785924,
+    "wof:lastmodified":1489037375,
     "wof:name":"Cd Products",
-    "wof:parent_id":420539479,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

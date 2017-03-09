@@ -2,9 +2,14 @@
   "id": 622215055,
   "type": "Feature",
   "properties": {
+    "addr:full":"308 S 52nd St Philadelphia PA 19143",
+    "addr:housenumber":"308",
+    "addr:postcode":"19143",
+    "addr:street":"S 52Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.226098,39.954282,-75.226098,39.954282",
     "geom:latitude":39.954282,
     "geom:longitude":-75.226098,
@@ -30,14 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85803155,
+        85811587,
         102191575,
+        1108721805,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85811587
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,25 +57,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85803155,
-            "region_id":85688481,
-            "venue_id":622215055
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721805,
             "neighbourhood_id":85811587,
             "region_id":85688481,
             "venue_id":622215055
         }
     ],
     "wof:id":622215055,
-    "wof:lastmodified":1466787873,
+    "wof:lastmodified":1489032900,
     "wof:name":"Claudines Curl Up & Dye Hair",
-    "wof:parent_id":-1,
+    "wof:parent_id":85811587,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

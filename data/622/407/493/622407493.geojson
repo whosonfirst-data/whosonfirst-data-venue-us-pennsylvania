@@ -2,9 +2,14 @@
   "id": 622407493,
   "type": "Feature",
   "properties": {
+    "addr:full":"17th Street and the Ben Franklin Parkway Philadelphia PA 19103",
+    "addr:housenumber":"",
+    "addr:postcode":"19103",
+    "addr:street":"17Th Street And The Ben Franklin Parkway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.167789,39.955937,-75.167789,39.955937",
     "geom:latitude":39.955937,
     "geom:longitude":-75.167789,
@@ -29,14 +34,15 @@
     "sg:website":"www.lccc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85893323,
+        1108721901,
+        85871427,
         102191575,
+        1108721797,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85871427
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,25 +57,17 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85893323,
-            "region_id":85688481,
-            "venue_id":622407493
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721797,
+            "microhood_id":1108721901,
             "neighbourhood_id":85871427,
             "region_id":85688481,
             "venue_id":622407493
         }
     ],
     "wof:id":622407493,
-    "wof:lastmodified":1467081867,
+    "wof:lastmodified":1489039265,
     "wof:name":"Lipton Corporate Child Care Center",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108721901,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

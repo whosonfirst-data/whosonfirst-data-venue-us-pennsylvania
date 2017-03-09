@@ -2,9 +2,14 @@
   "id": 622494903,
   "type": "Feature",
   "properties": {
+    "addr:full":"1340 E Washington Ln Philadelphia PA 19138",
+    "addr:housenumber":"1340",
+    "addr:postcode":"19138",
+    "addr:street":"E Washington Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.165512,40.058201,-75.165512,40.058201",
     "geom:latitude":40.058201,
     "geom:longitude":-75.165512,
@@ -50,11 +55,13 @@
     "wof:belongsto":[
         85893335,
         102191575,
+        1108721809,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481
+        85688481,
+        85871459
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,15 +76,27 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721809,
             "neighbourhood_id":85893335,
+            "region_id":85688481,
+            "venue_id":622494903
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721809,
+            "neighbourhood_id":85871459,
             "region_id":85688481,
             "venue_id":622494903
         }
     ],
     "wof:id":622494903,
-    "wof:lastmodified":1467081932,
+    "wof:lastmodified":1489038065,
     "wof:name":"R-Tern Building Incorporated",
-    "wof:parent_id":85893335,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

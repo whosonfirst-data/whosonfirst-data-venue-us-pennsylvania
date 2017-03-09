@@ -2,9 +2,14 @@
   "id": 622478253,
   "type": "Feature",
   "properties": {
+    "addr:full":"3300 Henry Ave Philadelphia PA 19129",
+    "addr:housenumber":"3300",
+    "addr:postcode":"19129",
+    "addr:street":"Henry Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.182297,40.011799,-75.182297,40.011799",
     "geom:latitude":40.011799,
     "geom:longitude":-75.182297,
@@ -27,11 +32,14 @@
     "wof:belongsto":[
         85816289,
         102191575,
+        1108721809,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481
+        85688481,
+        85802763,
+        1108721811
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +54,27 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721809,
             "neighbourhood_id":85816289,
+            "region_id":85688481,
+            "venue_id":622478253
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721811,
+            "neighbourhood_id":85802763,
             "region_id":85688481,
             "venue_id":622478253
         }
     ],
     "wof:id":622478253,
-    "wof:lastmodified":1467081919,
+    "wof:lastmodified":1489035610,
     "wof:name":"Krakovitz Mark R MD",
-    "wof:parent_id":85816289,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

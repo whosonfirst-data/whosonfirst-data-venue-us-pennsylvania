@@ -2,9 +2,14 @@
   "id": 621830807,
   "type": "Feature",
   "properties": {
+    "addr:full":"4343 Kelly Dr Philadelphia PA 19129",
+    "addr:housenumber":"4343",
+    "addr:postcode":"19129",
+    "addr:street":"Kelly Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.200927,40.010492,-75.200927,40.010492",
     "geom:latitude":40.010492,
     "geom:longitude":-75.200927,
@@ -32,6 +37,7 @@
     "wof:belongsto":[
         85816289,
         102191575,
+        1108721809,
         404483701,
         85633793,
         101718083,
@@ -51,13 +57,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721809,
             "neighbourhood_id":85816289,
             "region_id":85688481,
             "venue_id":621830807
         }
     ],
     "wof:id":621830807,
-    "wof:lastmodified":1466778902,
+    "wof:lastmodified":1489034600,
     "wof:name":"RHD-Visions",
     "wof:parent_id":85816289,
     "wof:placetype":"venue",

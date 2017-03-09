@@ -2,9 +2,14 @@
   "id": 622460415,
   "type": "Feature",
   "properties": {
+    "addr:full":"601 E Wyoming Ave Philadelphia PA 19120",
+    "addr:housenumber":"601",
+    "addr:postcode":"19120",
+    "addr:street":"E Wyoming Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.113998,40.020401,-75.113998,40.020401",
     "geom:latitude":40.020401,
     "geom:longitude":-75.113998,
@@ -28,13 +33,16 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420539471,
+        85819107,
         102191575,
+        1108721809,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481
+        85688481,
+        420539471,
+        1108721813
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +57,27 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721809,
+            "neighbourhood_id":85819107,
+            "region_id":85688481,
+            "venue_id":622460415
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721813,
             "neighbourhood_id":420539471,
             "region_id":85688481,
             "venue_id":622460415
         }
     ],
     "wof:id":622460415,
-    "wof:lastmodified":1467081907,
+    "wof:lastmodified":1489035892,
     "wof:name":"Wyoming Pizza",
-    "wof:parent_id":420539471,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

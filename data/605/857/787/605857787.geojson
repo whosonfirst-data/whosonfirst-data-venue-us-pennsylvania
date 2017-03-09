@@ -2,9 +2,14 @@
   "id": 605857787,
   "type": "Feature",
   "properties": {
+    "addr:full":"6721 Jackson St Philadelphia PA 19135",
+    "addr:housenumber":"6721",
+    "addr:postcode":"19135",
+    "addr:street":"Jackson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.046798,40.02701,-75.046798,40.02701",
     "geom:latitude":40.02701,
     "geom:longitude":-75.046798,
@@ -31,18 +36,39 @@
         "accessory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85851751,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Dydrvv9Ar2xw8rpJ9i1ob_40.027010_-75.046798@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"802250aeba5854f137d0a22eee44bdfa",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85851751,
+            "region_id":85688481,
+            "venue_id":605857787
+        }
+    ],
     "wof:id":605857787,
-    "wof:lastmodified":1467081758,
+    "wof:lastmodified":1489037271,
     "wof:name":"Mpg Hockey",
-    "wof:parent_id":-1,
+    "wof:parent_id":85851751,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 622004613,
   "type": "Feature",
   "properties": {
+    "addr:full":"7200 Edmund St Philadelphia PA 19135",
+    "addr:housenumber":"7200",
+    "addr:postcode":"19135",
+    "addr:street":"Edmund St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.03394,40.028561,-75.03394,40.028561",
     "geom:latitude":40.028561,
     "geom:longitude":-75.03394,
@@ -24,18 +29,39 @@
     "sg:postcode":"19135",
     "sg:province":"PA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3XLToK0to42qVPgMPsm7Ro_40.028561_-75.033940@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"cacb6dd8883bbebfa2b20debb08c68dd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":622004613
+        }
+    ],
     "wof:id":622004613,
-    "wof:lastmodified":1466776555,
+    "wof:lastmodified":1489036094,
     "wof:name":"Edmund Market",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 622198807,
   "type": "Feature",
   "properties": {
+    "addr:full":"811 Arnold St Philadelphia PA 19111",
+    "addr:housenumber":"811",
+    "addr:postcode":"19111",
+    "addr:street":"Arnold St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.071703,40.078946,-75.071703,40.078946",
     "geom:latitude":40.078946,
     "geom:longitude":-75.071703,
@@ -29,14 +34,14 @@
     "sg:website":"http://www.dialogic-fasteners.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853617,
+        85820411,
         102191575,
+        1108721807,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85820411
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,25 +56,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85853617,
-            "region_id":85688481,
-            "venue_id":622198807
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721807,
             "neighbourhood_id":85820411,
             "region_id":85688481,
             "venue_id":622198807
         }
     ],
     "wof:id":622198807,
-    "wof:lastmodified":1466787490,
+    "wof:lastmodified":1489033624,
     "wof:name":"The Bag Lady",
-    "wof:parent_id":-1,
+    "wof:parent_id":85820411,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

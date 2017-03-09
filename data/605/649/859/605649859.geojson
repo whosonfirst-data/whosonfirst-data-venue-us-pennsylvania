@@ -2,9 +2,14 @@
   "id": 605649859,
   "type": "Feature",
   "properties": {
+    "addr:full":"2625 Southampton Rd Philadelphia PA 19116",
+    "addr:housenumber":"2625",
+    "addr:postcode":"19116",
+    "addr:street":"Southampton Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.994359,40.119564,-74.994359,40.119564",
     "geom:latitude":40.119564,
     "geom:longitude":-74.994359,
@@ -27,6 +32,7 @@
     "wof:belongsto":[
         85849295,
         102191575,
+        1108721807,
         404483701,
         85633793,
         101718083,
@@ -46,13 +52,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721807,
             "neighbourhood_id":85849295,
             "region_id":85688481,
             "venue_id":605649859
         }
     ],
     "wof:id":605649859,
-    "wof:lastmodified":1467081628,
+    "wof:lastmodified":1489037172,
     "wof:name":"Tech World Inc",
     "wof:parent_id":85849295,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 622428735,
   "type": "Feature",
   "properties": {
+    "addr:full":"4321 Chestnut St Philadelphia PA 19104",
+    "addr:housenumber":"4321",
+    "addr:postcode":"19104",
+    "addr:street":"Chestnut St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.209323,39.956526,-75.209323,39.956526",
     "geom:latitude":39.956526,
     "geom:longitude":-75.209323,
@@ -36,6 +41,7 @@
     "wof:belongsto":[
         85850813,
         102191575,
+        1108721805,
         404483701,
         85633793,
         101718083,
@@ -55,13 +61,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721805,
             "neighbourhood_id":85850813,
             "region_id":85688481,
             "venue_id":622428735
         }
     ],
     "wof:id":622428735,
-    "wof:lastmodified":1467081883,
+    "wof:lastmodified":1489033241,
     "wof:name":"Philly Hookah Shop",
     "wof:parent_id":85850813,
     "wof:placetype":"venue",

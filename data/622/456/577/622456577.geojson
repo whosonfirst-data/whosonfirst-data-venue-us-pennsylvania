@@ -2,9 +2,14 @@
   "id": 622456577,
   "type": "Feature",
   "properties": {
+    "addr:full":"9940 Roosevelt Blvd Philadelphia PA 19115",
+    "addr:housenumber":"9940",
+    "addr:postcode":"19115",
+    "addr:street":"Roosevelt Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.01672,40.093632,-75.01672,40.093632",
     "geom:latitude":40.093632,
     "geom:longitude":-75.01672,
@@ -55,6 +60,7 @@
     "wof:belongsto":[
         420539457,
         102191575,
+        1108721807,
         404483701,
         85633793,
         101718083,
@@ -74,13 +80,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721807,
             "neighbourhood_id":420539457,
             "region_id":85688481,
             "venue_id":622456577
         }
     ],
     "wof:id":622456577,
-    "wof:lastmodified":1467081904,
+    "wof:lastmodified":1489038232,
     "wof:name":"Best Buy",
     "wof:parent_id":420539457,
     "wof:placetype":"venue",

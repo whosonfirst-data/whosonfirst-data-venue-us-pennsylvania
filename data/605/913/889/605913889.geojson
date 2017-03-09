@@ -2,9 +2,14 @@
   "id": 605913889,
   "type": "Feature",
   "properties": {
+    "addr:full":"9140 Academy Rd Philadelphia PA 19114",
+    "addr:housenumber":"9140",
+    "addr:postcode":"19114",
+    "addr:street":"Academy Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.008522,40.056371,-75.008522,40.056371",
     "geom:latitude":40.056371,
     "geom:longitude":-75.008522,
@@ -30,12 +35,12 @@
     "wof:belongsto":[
         420539507,
         102191575,
+        1108721807,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85853249
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,25 +55,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721807,
             "neighbourhood_id":420539507,
-            "region_id":85688481,
-            "venue_id":605913889
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
-            "neighbourhood_id":85853249,
             "region_id":85688481,
             "venue_id":605913889
         }
     ],
     "wof:id":605913889,
-    "wof:lastmodified":1467081794,
+    "wof:lastmodified":1489033554,
     "wof:name":"Jerry S Rosenbaum Do",
-    "wof:parent_id":-1,
+    "wof:parent_id":420539507,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

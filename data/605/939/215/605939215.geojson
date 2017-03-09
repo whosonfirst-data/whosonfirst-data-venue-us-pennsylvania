@@ -2,9 +2,14 @@
   "id": 605939215,
   "type": "Feature",
   "properties": {
+    "addr:full":"8950 Dewees St Philadelphia PA 19152",
+    "addr:housenumber":"8950",
+    "addr:postcode":"19152",
+    "addr:street":"Dewees St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.029739,40.068174,-75.029739,40.068174",
     "geom:latitude":40.068174,
     "geom:longitude":-75.029739,
@@ -30,14 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85824951,
+        85841257,
         102191575,
+        1108721807,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85841257
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,25 +57,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85824951,
-            "region_id":85688481,
-            "venue_id":605939215
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721807,
             "neighbourhood_id":85841257,
             "region_id":85688481,
             "venue_id":605939215
         }
     ],
     "wof:id":605939215,
-    "wof:lastmodified":1467081811,
+    "wof:lastmodified":1489033508,
     "wof:name":"Harmons Driving School",
-    "wof:parent_id":-1,
+    "wof:parent_id":85841257,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

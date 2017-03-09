@@ -2,9 +2,14 @@
   "id": 622213813,
   "type": "Feature",
   "properties": {
+    "addr:full":"5524 Germantown Ave Philadelphia PA 19144",
+    "addr:housenumber":"5524",
+    "addr:postcode":"19144",
+    "addr:street":"Germantown Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.172845,40.034448,-75.172845,40.034448",
     "geom:latitude":40.034448,
     "geom:longitude":-75.172845,
@@ -30,14 +35,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420558659,
+        85821407,
         102191575,
+        1108721809,
         404483701,
         85633793,
         101718083,
         102081353,
         85688481,
-        85821407
+        1108723467
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,7 +58,8 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":420558659,
+            "macrohood_id":1108721809,
+            "neighbourhood_id":85821407,
             "region_id":85688481,
             "venue_id":622213813
         },
@@ -62,15 +69,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85821407,
+            "macrohood_id":1108721809,
+            "neighbourhood_id":1108723467,
             "region_id":85688481,
             "venue_id":622213813
         }
     ],
     "wof:id":622213813,
-    "wof:lastmodified":1466788107,
+    "wof:lastmodified":1489038732,
     "wof:name":"Raisman's Baby Furniture Toys",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 605348755,
   "type": "Feature",
   "properties": {
+    "addr:full":"4505 Oakmont St Philadelphia PA 19136",
+    "addr:housenumber":"4505",
+    "addr:postcode":"19136",
+    "addr:street":"Oakmont St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.030966,40.033524,-75.030966,40.033524",
     "geom:latitude":40.033524,
     "geom:longitude":-75.030966,
@@ -30,18 +35,39 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_53LeOVN3UUBZba4W8ZOP2h_40.033524_-75.030966@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"846cdddcd59ed90265115a5d324df5ee",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":605348755
+        }
+    ],
     "wof:id":605348755,
-    "wof:lastmodified":1466791217,
+    "wof:lastmodified":1489036117,
     "wof:name":"Kelly Air Conditioning Heating",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 622497719,
   "type": "Feature",
   "properties": {
+    "addr:full":"5134 Irving St Philadelphia PA 19139",
+    "addr:housenumber":"5134",
+    "addr:postcode":"19139",
+    "addr:street":"Irving St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.224583,39.955066,-75.224583,39.955066",
     "geom:latitude":39.955066,
     "geom:longitude":-75.224583,
@@ -28,14 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85803155,
+        85854345,
         102191575,
+        1108721805,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85854345
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,25 +55,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85803155,
-            "region_id":85688481,
-            "venue_id":622497719
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721805,
             "neighbourhood_id":85854345,
             "region_id":85688481,
             "venue_id":622497719
         }
     ],
     "wof:id":622497719,
-    "wof:lastmodified":1467081934,
+    "wof:lastmodified":1489033365,
     "wof:name":"Vernel J Mcdonald Rev",
-    "wof:parent_id":-1,
+    "wof:parent_id":85854345,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 622208361,
   "type": "Feature",
   "properties": {
+    "addr:full":"3975 Germantown Ave Philadelphia PA 19140",
+    "addr:housenumber":"3975",
+    "addr:postcode":"19140",
+    "addr:street":"Germantown Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.152832,40.013996,-75.152832,40.013996",
     "geom:latitude":40.013996,
     "geom:longitude":-75.152832,
@@ -28,14 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85882379,
+        420782547,
         102191575,
+        1108721811,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        420559057
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,25 +55,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85882379,
-            "region_id":85688481,
-            "venue_id":622208361
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
-            "neighbourhood_id":420559057,
+            "macrohood_id":1108721811,
+            "neighbourhood_id":420782547,
             "region_id":85688481,
             "venue_id":622208361
         }
     ],
     "wof:id":622208361,
-    "wof:lastmodified":1466787931,
+    "wof:lastmodified":1489038613,
     "wof:name":"Nazarene Baptist Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":420782547,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 605695177,
   "type": "Feature",
   "properties": {
+    "addr:full":"201 Spring Ln Philadelphia PA 19128",
+    "addr:housenumber":"201",
+    "addr:postcode":"19128",
+    "addr:street":"Spring Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.251668,40.062275,-75.251668,40.062275",
     "geom:latitude":40.062275,
     "geom:longitude":-75.251668,
@@ -27,6 +32,7 @@
     "wof:belongsto":[
         85853279,
         102191575,
+        1108721809,
         404483701,
         85633793,
         101718083,
@@ -46,13 +52,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721809,
             "neighbourhood_id":85853279,
             "region_id":85688481,
             "venue_id":605695177
         }
     ],
     "wof:id":605695177,
-    "wof:lastmodified":1467081657,
+    "wof:lastmodified":1489034211,
     "wof:name":"Lankenau-Saul High School",
     "wof:parent_id":85853279,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 588826515,
   "type": "Feature",
   "properties": {
+    "addr:full":"5225 Greene St Philadelphia PA 19144",
+    "addr:housenumber":"5225",
+    "addr:postcode":"19144",
+    "addr:street":"Greene St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.169811,40.029995,-75.169811,40.029995",
     "geom:latitude":40.029995,
     "geom:longitude":-75.169811,
@@ -28,14 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420559163,
+        85821407,
         102191575,
+        1108721809,
         404483701,
         85633793,
         101718083,
         102081353,
         85688481,
-        85821407
+        1108723467
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,7 +56,8 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":420559163,
+            "macrohood_id":1108721809,
+            "neighbourhood_id":85821407,
             "region_id":85688481,
             "venue_id":588826515
         },
@@ -60,15 +67,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85821407,
+            "macrohood_id":1108721809,
+            "neighbourhood_id":1108723467,
             "region_id":85688481,
             "venue_id":588826515
         }
     ],
     "wof:id":588826515,
-    "wof:lastmodified":1466777697,
+    "wof:lastmodified":1489038733,
     "wof:name":"Livezey Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

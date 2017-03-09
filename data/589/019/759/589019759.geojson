@@ -2,9 +2,14 @@
   "id": 589019759,
   "type": "Feature",
   "properties": {
+    "addr:full":"3242 S Smedley St Philadelphia PA 19145",
+    "addr:housenumber":"3242",
+    "addr:postcode":"19145",
+    "addr:street":"S Smedley St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.176653,39.90899,-75.176653,39.90899",
     "geom:latitude":39.90899,
     "geom:longitude":-75.176653,
@@ -31,14 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85893371,
+        420782601,
         102191575,
+        1108721801,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        420558463
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,25 +58,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85893371,
-            "region_id":85688481,
-            "venue_id":589019759
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
-            "neighbourhood_id":420558463,
+            "macrohood_id":1108721801,
+            "neighbourhood_id":420782601,
             "region_id":85688481,
             "venue_id":589019759
         }
     ],
     "wof:id":589019759,
-    "wof:lastmodified":1466778188,
+    "wof:lastmodified":1489038687,
     "wof:name":"Restoration By Leuzzi Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420782601,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 622468387,
   "type": "Feature",
   "properties": {
+    "addr:full":"3900 G St Philadelphia PA 19124",
+    "addr:housenumber":"3900",
+    "addr:postcode":"19124",
+    "addr:street":"G St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.113148,40.007502,-75.113148,40.007502",
     "geom:latitude":40.007502,
     "geom:longitude":-75.113148,
@@ -36,13 +41,16 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420539527,
+        420539471,
         102191575,
+        1108721813,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481
+        85688481,
+        420539527,
+        1108721811
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,15 +65,27 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721813,
+            "neighbourhood_id":420539471,
+            "region_id":85688481,
+            "venue_id":622468387
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721811,
             "neighbourhood_id":420539527,
             "region_id":85688481,
             "venue_id":622468387
         }
     ],
     "wof:id":622468387,
-    "wof:lastmodified":1467081912,
+    "wof:lastmodified":1489038299,
     "wof:name":"A C Mcdaniel Storage",
-    "wof:parent_id":420539527,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

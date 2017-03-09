@@ -2,9 +2,14 @@
   "id": 589236571,
   "type": "Feature",
   "properties": {
+    "addr:full":"26 Country Lane Dr Philadelphia PA 19115",
+    "addr:housenumber":"26",
+    "addr:postcode":"19115",
+    "addr:street":"Country Lane Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.033786,40.095332,-75.033786,40.095332",
     "geom:latitude":40.095332,
     "geom:longitude":-75.033786,
@@ -31,6 +36,7 @@
     "wof:belongsto":[
         85808641,
         102191575,
+        1108721807,
         404483701,
         85633793,
         101718083,
@@ -50,13 +56,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721807,
             "neighbourhood_id":85808641,
             "region_id":85688481,
             "venue_id":589236571
         }
     ],
     "wof:id":589236571,
-    "wof:lastmodified":1466788869,
+    "wof:lastmodified":1489033537,
     "wof:name":"Family Computer Center",
     "wof:parent_id":85808641,
     "wof:placetype":"venue",

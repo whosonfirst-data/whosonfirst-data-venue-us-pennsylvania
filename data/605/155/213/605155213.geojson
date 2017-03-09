@@ -2,9 +2,14 @@
   "id": 605155213,
   "type": "Feature",
   "properties": {
+    "addr:full":"5101 Jackson St Philadelphia PA 19124",
+    "addr:housenumber":"5101",
+    "addr:postcode":"19124",
+    "addr:street":"Jackson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.072173,40.015758,-75.072173,40.015758",
     "geom:latitude":40.015758,
     "geom:longitude":-75.072173,
@@ -31,6 +36,7 @@
     "wof:belongsto":[
         85820547,
         102191575,
+        1108721807,
         404483701,
         85633793,
         101718083,
@@ -50,13 +56,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721807,
             "neighbourhood_id":85820547,
             "region_id":85688481,
             "venue_id":605155213
         }
     ],
     "wof:id":605155213,
-    "wof:lastmodified":1466785163,
+    "wof:lastmodified":1489033473,
     "wof:name":"Lucchese's Auto Repair",
     "wof:parent_id":85820547,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 589182857,
   "type": "Feature",
   "properties": {
+    "addr:full":"4952 National St Philadelphia PA 19135",
+    "addr:housenumber":"4952",
+    "addr:postcode":"19135",
+    "addr:street":"National St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.034136,40.024811,-75.034136,40.024811",
     "geom:latitude":40.024811,
     "geom:longitude":-75.034136,
@@ -29,18 +34,39 @@
         "clean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85851751,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4h1lojqW2BFNB6YBC82KkC_40.024811_-75.034136@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"2a88c8b969c345e3a9453fbbae47541b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85851751,
+            "region_id":85688481,
+            "venue_id":589182857
+        }
+    ],
     "wof:id":589182857,
-    "wof:lastmodified":1466787310,
+    "wof:lastmodified":1489037265,
     "wof:name":"Polish Palace",
-    "wof:parent_id":-1,
+    "wof:parent_id":85851751,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 605936231,
   "type": "Feature",
   "properties": {
+    "addr:full":"9300 Ashton Rd Philadelphia PA 19114",
+    "addr:housenumber":"9300",
+    "addr:postcode":"19114",
+    "addr:street":"Ashton Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.018721,40.06641,-75.018721,40.06641",
     "geom:latitude":40.06641,
     "geom:longitude":-75.018721,
@@ -28,13 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420539507,
+        85841257,
         102191575,
+        1108721807,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481
+        85688481,
+        420539507
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +56,27 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85841257,
+            "region_id":85688481,
+            "venue_id":605936231
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
             "neighbourhood_id":420539507,
             "region_id":85688481,
             "venue_id":605936231
         }
     ],
     "wof:id":605936231,
-    "wof:lastmodified":1467081808,
+    "wof:lastmodified":1489033891,
     "wof:name":"Books Corner",
-    "wof:parent_id":420539507,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

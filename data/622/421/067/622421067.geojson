@@ -2,9 +2,14 @@
   "id": 622421067,
   "type": "Feature",
   "properties": {
+    "addr:full":"1700 Race St 1st floor Philadelphia PA 19103",
+    "addr:housenumber":"1700;floor",
+    "addr:postcode":"19103",
+    "addr:street":"Race St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.167605,39.956844,-75.167605,39.956844",
     "geom:latitude":39.956844,
     "geom:longitude":-75.167605,
@@ -26,14 +31,15 @@
     "sg:website":"www.davidoh.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85893323,
+        1108721901,
+        85871427,
         102191575,
+        1108721797,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85871427
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,25 +54,17 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85893323,
-            "region_id":85688481,
-            "venue_id":622421067
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721797,
+            "microhood_id":1108721901,
             "neighbourhood_id":85871427,
             "region_id":85688481,
             "venue_id":622421067
         }
     ],
     "wof:id":622421067,
-    "wof:lastmodified":1467081878,
+    "wof:lastmodified":1489039237,
     "wof:name":"Law Firm of David Oh PC",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108721901,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

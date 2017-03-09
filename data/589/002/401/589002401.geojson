@@ -2,9 +2,14 @@
   "id": 589002401,
   "type": "Feature",
   "properties": {
+    "addr:full":"7756 Ditman St Philadelphia PA 19136",
+    "addr:housenumber":"7756",
+    "addr:postcode":"19136",
+    "addr:street":"Ditman St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.028823,40.034733,-75.028823,40.034733",
     "geom:latitude":40.034733,
     "geom:longitude":-75.028823,
@@ -24,18 +29,39 @@
     "sg:postcode":"19136",
     "sg:province":"PA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2D3nEQxgQn3JS3MhFAxM17_40.034733_-75.028823@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"6448d9a2aaf5e025376de4e6b5034b5c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":589002401
+        }
+    ],
     "wof:id":589002401,
-    "wof:lastmodified":1466776304,
+    "wof:lastmodified":1489036117,
     "wof:name":"Holmesburg Boys Club",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

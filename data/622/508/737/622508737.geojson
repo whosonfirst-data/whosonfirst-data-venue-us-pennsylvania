@@ -2,9 +2,14 @@
   "id": 622508737,
   "type": "Feature",
   "properties": {
+    "addr:full":"2000 Mifflin St Philadelphia PA 19145",
+    "addr:housenumber":"2000",
+    "addr:postcode":"19145",
+    "addr:street":"Mifflin St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.178703,39.928001,-75.178703,39.928001",
     "geom:latitude":39.928001,
     "geom:longitude":-75.178703,
@@ -56,6 +61,7 @@
     "wof:belongsto":[
         420539505,
         102191575,
+        1108721801,
         404483701,
         85633793,
         101718083,
@@ -75,13 +81,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721801,
             "neighbourhood_id":420539505,
             "region_id":85688481,
             "venue_id":622508737
         }
     ],
     "wof:id":622508737,
-    "wof:lastmodified":1467081942,
+    "wof:lastmodified":1489032700,
     "wof:name":"Ymca Headstart",
     "wof:parent_id":420539505,
     "wof:placetype":"venue",

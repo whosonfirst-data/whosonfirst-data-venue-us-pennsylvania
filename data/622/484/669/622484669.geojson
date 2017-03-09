@@ -2,9 +2,14 @@
   "id": 622484669,
   "type": "Feature",
   "properties": {
+    "addr:full":"2107 W Toronto St Philadelphia PA 19132",
+    "addr:housenumber":"2107",
+    "addr:postcode":"19132",
+    "addr:street":"W Toronto St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.164882,40.00086,-75.164882,40.00086",
     "geom:latitude":40.00086,
     "geom:longitude":-75.164882,
@@ -25,14 +30,14 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85882379,
+        85893347,
         102191575,
+        1108721811,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85893347
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,25 +52,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85882379,
-            "region_id":85688481,
-            "venue_id":622484669
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721811,
             "neighbourhood_id":85893347,
             "region_id":85688481,
             "venue_id":622484669
         }
     ],
     "wof:id":622484669,
-    "wof:lastmodified":1467081924,
+    "wof:lastmodified":1489035050,
     "wof:name":"Beloved Baptist",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893347,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

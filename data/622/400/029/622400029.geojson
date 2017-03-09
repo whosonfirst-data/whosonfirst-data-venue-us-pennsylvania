@@ -2,9 +2,14 @@
   "id": 622400029,
   "type": "Feature",
   "properties": {
+    "addr:full":"129 S 18th St Philadelphia PA 19103",
+    "addr:housenumber":"129",
+    "addr:postcode":"19103",
+    "addr:street":"S 18Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.170544,39.950729,-75.170544,39.950729",
     "geom:latitude":39.950729,
     "geom:longitude":-75.170544,
@@ -44,6 +49,7 @@
     "wof:belongsto":[
         85844705,
         102191575,
+        1108721797,
         404483701,
         85633793,
         101718083,
@@ -63,13 +69,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721797,
             "neighbourhood_id":85844705,
             "region_id":85688481,
             "venue_id":622400029
         }
     ],
     "wof:id":622400029,
-    "wof:lastmodified":1467081862,
+    "wof:lastmodified":1489031835,
     "wof:name":"LeBus",
     "wof:parent_id":85844705,
     "wof:placetype":"venue",

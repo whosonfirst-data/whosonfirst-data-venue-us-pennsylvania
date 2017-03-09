@@ -2,9 +2,14 @@
   "id": 589141789,
   "type": "Feature",
   "properties": {
+    "addr:full":"7339 State Rd Philadelphia PA 19136",
+    "addr:housenumber":"7339",
+    "addr:postcode":"19136",
+    "addr:street":"State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.029608,40.026634,-75.029608,40.026634",
     "geom:latitude":40.026634,
     "geom:longitude":-75.029608,
@@ -27,18 +32,39 @@
         "nonresidential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7jQG0vC9JWs2LhbclkQ1XR_40.026634_-75.029608@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"be5c9e628ff94173dca2a35ace5849e8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":589141789
+        }
+    ],
     "wof:id":589141789,
-    "wof:lastmodified":1466785450,
+    "wof:lastmodified":1489036112,
     "wof:name":"Delaware Valley Construction",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

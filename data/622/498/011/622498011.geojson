@@ -2,9 +2,14 @@
   "id": 622498011,
   "type": "Feature",
   "properties": {
+    "addr:full":"4601 Market St Fl 1 Philadelphia PA 19139",
+    "addr:housenumber":"4601;1",
+    "addr:postcode":"19139",
+    "addr:street":"Market St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.213997,39.958698,-75.213997,39.958698",
     "geom:latitude":39.958698,
     "geom:longitude":-75.213997,
@@ -28,13 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871455,
+        85834237,
         102191575,
+        1108721805,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481
+        85688481,
+        85871455
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +56,27 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721805,
+            "neighbourhood_id":85834237,
+            "region_id":85688481,
+            "venue_id":622498011
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721805,
             "neighbourhood_id":85871455,
             "region_id":85688481,
             "venue_id":622498011
         }
     ],
     "wof:id":622498011,
-    "wof:lastmodified":1467081934,
+    "wof:lastmodified":1489036232,
     "wof:name":"Urban Education Foundation of Phila Inc",
-    "wof:parent_id":85871455,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

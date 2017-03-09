@@ -2,9 +2,14 @@
   "id": 588911087,
   "type": "Feature",
   "properties": {
+    "addr:full":"1506 N 54th St Philadelphia PA 19131",
+    "addr:housenumber":"1506",
+    "addr:postcode":"19131",
+    "addr:street":"N 54Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.229915,39.976963,-75.229915,39.976963",
     "geom:latitude":39.976963,
     "geom:longitude":-75.229915,
@@ -28,14 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85882387,
+        420782491,
         102191575,
+        1108721805,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        420558313
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,25 +55,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85882387,
-            "region_id":85688481,
-            "venue_id":588911087
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
-            "neighbourhood_id":420558313,
+            "macrohood_id":1108721805,
+            "neighbourhood_id":420782491,
             "region_id":85688481,
             "venue_id":588911087
         }
     ],
     "wof:id":588911087,
-    "wof:lastmodified":1466783586,
+    "wof:lastmodified":1489038513,
     "wof:name":"Morgan's Tree Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420782491,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 605931193,
   "type": "Feature",
   "properties": {
+    "addr:full":"324 S 34th St Philadelphia PA 19104",
+    "addr:housenumber":"324",
+    "addr:postcode":"19104",
+    "addr:street":"S 34Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.192693,39.949918,-75.192693,39.949918",
     "geom:latitude":39.949918,
     "geom:longitude":-75.192693,
@@ -31,6 +36,7 @@
     "wof:belongsto":[
         85853125,
         102191575,
+        1108721805,
         404483701,
         85633793,
         101718083,
@@ -50,13 +56,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721805,
             "neighbourhood_id":85853125,
             "region_id":85688481,
             "venue_id":605931193
         }
     ],
     "wof:id":605931193,
-    "wof:lastmodified":1467081805,
+    "wof:lastmodified":1489032970,
     "wof:name":"Gastroenterology & Nutrition",
     "wof:parent_id":85853125,
     "wof:placetype":"venue",

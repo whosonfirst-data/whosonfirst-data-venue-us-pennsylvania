@@ -2,9 +2,14 @@
   "id": 605457649,
   "type": "Feature",
   "properties": {
+    "addr:full":"3000 Tasker St Philadelphia PA 19145",
+    "addr:housenumber":"",
+    "addr:postcode":"3000;19145",
+    "addr:street":"Tasker St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.194925,39.933903,-75.194925,39.933903",
     "geom:latitude":39.933903,
     "geom:longitude":-75.194925,
@@ -31,6 +36,7 @@
     "wof:belongsto":[
         85822663,
         102191575,
+        1108721801,
         404483701,
         85633793,
         101718083,
@@ -50,13 +56,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721801,
             "neighbourhood_id":85822663,
             "region_id":85688481,
             "venue_id":605457649
         }
     ],
     "wof:id":605457649,
-    "wof:lastmodified":1467081508,
+    "wof:lastmodified":1489032679,
     "wof:name":"Housing Police Headquaters",
     "wof:parent_id":85822663,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 622480871,
   "type": "Feature",
   "properties": {
+    "addr:full":"15 Boathouse Row Philadelphia PA 19130",
+    "addr:housenumber":"15",
+    "addr:postcode":"19130",
+    "addr:street":"Boathouse Row",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.184837,39.969394,-75.184837,39.969394",
     "geom:latitude":39.969394,
     "geom:longitude":-75.184837,
@@ -28,14 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85893337,
+        420539497,
         102191575,
+        1108721811,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        420539497
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,25 +55,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85893337,
-            "region_id":85688481,
-            "venue_id":622480871
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721811,
             "neighbourhood_id":420539497,
             "region_id":85688481,
             "venue_id":622480871
         }
     ],
     "wof:id":622480871,
-    "wof:lastmodified":1467081921,
+    "wof:lastmodified":1489035162,
     "wof:name":"Sedgley Club",
-    "wof:parent_id":-1,
+    "wof:parent_id":420539497,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

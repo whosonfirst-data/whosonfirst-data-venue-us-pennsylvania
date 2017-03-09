@@ -2,9 +2,14 @@
   "id": 622053193,
   "type": "Feature",
   "properties": {
+    "addr:full":"9699 Academy Rd Philadelphia PA 19114",
+    "addr:housenumber":"9699",
+    "addr:postcode":"19114",
+    "addr:street":"Academy Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.007269,40.069161,-75.007269,40.069161",
     "geom:latitude":40.069161,
     "geom:longitude":-75.007269,
@@ -24,18 +29,39 @@
     "sg:postcode":"19114",
     "sg:province":"PA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420782507,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1DtObmSnG0JnNPbBQbGeJa_40.069161_-75.007269@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"d6da378afed85593cf128d9617de8ade",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":420782507,
+            "region_id":85688481,
+            "venue_id":622053193
+        }
+    ],
     "wof:id":622053193,
-    "wof:lastmodified":1466780713,
+    "wof:lastmodified":1489038519,
     "wof:name":"USA Auto Parts Corporation",
-    "wof:parent_id":-1,
+    "wof:parent_id":420782507,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

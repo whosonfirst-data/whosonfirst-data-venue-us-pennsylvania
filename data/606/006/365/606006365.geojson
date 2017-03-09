@@ -2,9 +2,14 @@
   "id": 606006365,
   "type": "Feature",
   "properties": {
+    "addr:full":"1943 N 6th St Philadelphia PA 19122",
+    "addr:housenumber":"1943",
+    "addr:postcode":"19122",
+    "addr:street":"N 6Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.144468,39.980944,-75.144468,39.980944",
     "geom:latitude":39.980944,
     "geom:longitude":-75.144468,
@@ -25,14 +30,14 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871433,
+        85855755,
         102191575,
+        1108721813,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85855755
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,25 +52,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85871433,
-            "region_id":85688481,
-            "venue_id":606006365
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721813,
             "neighbourhood_id":85855755,
             "region_id":85688481,
             "venue_id":606006365
         }
     ],
     "wof:id":606006365,
-    "wof:lastmodified":1466776728,
+    "wof:lastmodified":1489035484,
     "wof:name":"Cousins Supermarket Inc No 3",
-    "wof:parent_id":-1,
+    "wof:parent_id":85855755,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

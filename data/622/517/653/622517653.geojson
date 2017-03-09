@@ -2,9 +2,14 @@
   "id": 622517653,
   "type": "Feature",
   "properties": {
+    "addr:full":"1198 S 5th St Philadelphia PA 19147",
+    "addr:housenumber":"1198",
+    "addr:postcode":"19147",
+    "addr:street":"S 5Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.152804,39.93345,-75.152804,39.93345",
     "geom:latitude":39.93345,
     "geom:longitude":-75.152804,
@@ -33,6 +38,7 @@
     "wof:belongsto":[
         85893333,
         102191575,
+        1108721801,
         404483701,
         85633793,
         101718083,
@@ -52,13 +58,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721801,
             "neighbourhood_id":85893333,
             "region_id":85688481,
             "venue_id":622517653
         }
     ],
     "wof:id":622517653,
-    "wof:lastmodified":1467081948,
+    "wof:lastmodified":1489038108,
     "wof:name":"Philadelphia School District",
     "wof:parent_id":85893333,
     "wof:placetype":"venue",

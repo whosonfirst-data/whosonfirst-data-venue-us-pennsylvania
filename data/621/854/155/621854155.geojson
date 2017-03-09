@@ -2,9 +2,14 @@
   "id": 621854155,
   "type": "Feature",
   "properties": {
+    "addr:full":"7313 Frankford Ave Philadelphia PA 19136",
+    "addr:housenumber":"7313",
+    "addr:postcode":"19136",
+    "addr:street":"Frankford Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.040317,40.036829,-75.040317,40.036829",
     "geom:latitude":40.036829,
     "geom:longitude":-75.040317,
@@ -27,18 +32,39 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2PZzOCYnnPDNgzLM5Fhyxu_40.036829_-75.040317@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"0acd861b221b2a2ccc6c303e5daeab36",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":621854155
+        }
+    ],
     "wof:id":621854155,
-    "wof:lastmodified":1466780814,
+    "wof:lastmodified":1489036109,
     "wof:name":"Mayfair-Madrid Restaurant",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

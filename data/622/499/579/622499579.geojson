@@ -2,9 +2,14 @@
   "id": 622499579,
   "type": "Feature",
   "properties": {
+    "addr:full":"4235 N 16th St Philadelphia PA 19140",
+    "addr:housenumber":"4235",
+    "addr:postcode":"19140",
+    "addr:street":"N 16Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.152355,40.018387,-75.152355,40.018387",
     "geom:latitude":40.018387,
     "geom:longitude":-75.152355,
@@ -28,14 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885405,
+        420782545,
         102191575,
+        1108721811,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        420560161
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,25 +55,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85885405,
-            "region_id":85688481,
-            "venue_id":622499579
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
-            "neighbourhood_id":420560161,
+            "macrohood_id":1108721811,
+            "neighbourhood_id":420782545,
             "region_id":85688481,
             "venue_id":622499579
         }
     ],
     "wof:id":622499579,
-    "wof:lastmodified":1467081935,
+    "wof:lastmodified":1489038605,
     "wof:name":"Unique Custom Builders",
-    "wof:parent_id":-1,
+    "wof:parent_id":420782545,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

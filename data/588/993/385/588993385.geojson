@@ -2,9 +2,14 @@
   "id": 588993385,
   "type": "Feature",
   "properties": {
+    "addr:full":"4260 Aramingo Ave Philadelphia PA 19124",
+    "addr:housenumber":"4260",
+    "addr:postcode":"19124",
+    "addr:street":"Aramingo Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.082046,40.001188,-75.082046,40.001188",
     "geom:latitude":40.001188,
     "geom:longitude":-75.082046,
@@ -27,11 +32,14 @@
     "wof:belongsto":[
         85820547,
         102191575,
+        1108721807,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481
+        85688481,
+        85807375,
+        1108721813
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +54,27 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721807,
             "neighbourhood_id":85820547,
+            "region_id":85688481,
+            "venue_id":588993385
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721813,
+            "neighbourhood_id":85807375,
             "region_id":85688481,
             "venue_id":588993385
         }
     ],
     "wof:id":588993385,
-    "wof:lastmodified":1466787449,
+    "wof:lastmodified":1489035662,
     "wof:name":"Aramingo Dollar LLC",
-    "wof:parent_id":85820547,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

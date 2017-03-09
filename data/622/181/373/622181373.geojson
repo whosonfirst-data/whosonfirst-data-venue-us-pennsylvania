@@ -2,9 +2,14 @@
   "id": 622181373,
   "type": "Feature",
   "properties": {
+    "addr:full":"8200 Enterprise Ave Philadelphia PA 19153",
+    "addr:housenumber":"8200",
+    "addr:postcode":"19153",
+    "addr:street":"Enterprise Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.218246,39.886131,-75.218246,39.886131",
     "geom:latitude":39.886131,
     "geom:longitude":-75.218246,
@@ -34,6 +39,7 @@
     "wof:belongsto":[
         420539489,
         102191575,
+        1108721803,
         404483701,
         85633793,
         101718083,
@@ -53,13 +59,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721803,
             "neighbourhood_id":420539489,
             "region_id":85688481,
             "venue_id":622181373
         }
     ],
     "wof:id":622181373,
-    "wof:lastmodified":1466786659,
+    "wof:lastmodified":1489032805,
     "wof:name":"Water Dept",
     "wof:parent_id":420539489,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 605670941,
   "type": "Feature",
   "properties": {
+    "addr:full":"4015 Sheffield St Philadelphia PA 19136",
+    "addr:housenumber":"4015",
+    "addr:postcode":"19136",
+    "addr:street":"Sheffield St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.032967,40.038891,-75.032967,40.038891",
     "geom:latitude":40.038891,
     "geom:longitude":-75.032967,
@@ -28,18 +33,39 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4uclrJ9PazhpJ3Rf5DOjxv_40.038891_-75.032967@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"0e6c761ebbfa320f1d948ca45efe9b20",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":605670941
+        }
+    ],
     "wof:id":605670941,
-    "wof:lastmodified":1467081641,
+    "wof:lastmodified":1489036111,
     "wof:name":"Lee J Rosenberg Electrical Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

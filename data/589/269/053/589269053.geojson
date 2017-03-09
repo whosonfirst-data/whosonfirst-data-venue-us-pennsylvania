@@ -2,9 +2,14 @@
   "id": 589269053,
   "type": "Feature",
   "properties": {
+    "addr:full":"10825 E Keswick Rd Philadelphia PA 19154",
+    "addr:housenumber":"10825",
+    "addr:postcode":"19154",
+    "addr:street":"E Keswick Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.984933,40.077997,-74.984933,40.077997",
     "geom:latitude":40.077997,
     "geom:longitude":-74.984933,
@@ -28,14 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420559171,
+        1108723463,
         102191575,
+        1108721807,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85882385
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,25 +55,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":420559171,
-            "region_id":85688481,
-            "venue_id":589269053
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
-            "neighbourhood_id":85882385,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":1108723463,
             "region_id":85688481,
             "venue_id":589269053
         }
     ],
     "wof:id":589269053,
-    "wof:lastmodified":1466789713,
+    "wof:lastmodified":1489038721,
     "wof:name":"Korman Suites Pool",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108723463,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

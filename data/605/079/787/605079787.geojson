@@ -2,9 +2,14 @@
   "id": 605079787,
   "type": "Feature",
   "properties": {
+    "addr:full":"7100 Ridge Ave Philadelphia PA 19128",
+    "addr:housenumber":"7100",
+    "addr:postcode":"19128",
+    "addr:street":"Ridge Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.232935,40.04593,-75.232935,40.04593",
     "geom:latitude":40.04593,
     "geom:longitude":-75.232935,
@@ -25,13 +30,15 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420539467,
+        85853279,
         102191575,
+        1108721809,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481
+        85688481,
+        420539467
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +53,27 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721809,
+            "neighbourhood_id":85853279,
+            "region_id":85688481,
+            "venue_id":605079787
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721809,
             "neighbourhood_id":420539467,
             "region_id":85688481,
             "venue_id":605079787
         }
     ],
     "wof:id":605079787,
-    "wof:lastmodified":1466780775,
+    "wof:lastmodified":1489034381,
     "wof:name":"Green Lane Flower Shoppe",
-    "wof:parent_id":420539467,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

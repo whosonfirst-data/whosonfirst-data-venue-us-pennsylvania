@@ -2,9 +2,14 @@
   "id": 606033849,
   "type": "Feature",
   "properties": {
+    "addr:full":"3883 Alberta Ter Philadelphia PA 19154",
+    "addr:housenumber":"3883",
+    "addr:postcode":"19154",
+    "addr:street":"Alberta Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.97636,40.086826,-74.97636,40.086826",
     "geom:latitude":40.086826,
     "geom:longitude":-74.97636,
@@ -29,14 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420559171,
+        1108723463,
         102191575,
+        1108721807,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85831329
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,25 +56,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":420559171,
-            "region_id":85688481,
-            "venue_id":606033849
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
-            "neighbourhood_id":85831329,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":1108723463,
             "region_id":85688481,
             "venue_id":606033849
         }
     ],
     "wof:id":606033849,
-    "wof:lastmodified":1466779628,
+    "wof:lastmodified":1489038728,
     "wof:name":"Comeg Corporation",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108723463,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

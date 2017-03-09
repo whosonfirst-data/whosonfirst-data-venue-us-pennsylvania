@@ -2,9 +2,14 @@
   "id": 622433395,
   "type": "Feature",
   "properties": {
+    "addr:full":"235 N 4th St Philadelphia PA 19106",
+    "addr:housenumber":"235",
+    "addr:postcode":"19106",
+    "addr:street":"N 4Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.1464,39.9548,-75.1464,39.9548",
     "geom:latitude":39.9548,
     "geom:longitude":-75.1464,
@@ -26,14 +31,14 @@
     "sg:website":"www.historicstgeorges.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85893355,
+        85839299,
         102191575,
+        1108721797,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85839299
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,25 +53,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85893355,
-            "region_id":85688481,
-            "venue_id":622433395
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721797,
             "neighbourhood_id":85839299,
             "region_id":85688481,
             "venue_id":622433395
         }
     ],
     "wof:id":622433395,
-    "wof:lastmodified":1467081887,
+    "wof:lastmodified":1489031390,
     "wof:name":"Historic St George's United Methodist Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":85839299,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

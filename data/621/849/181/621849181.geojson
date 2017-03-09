@@ -2,9 +2,14 @@
   "id": 621849181,
   "type": "Feature",
   "properties": {
+    "addr:full":"610 S 2nd St Philadelphia PA 19147",
+    "addr:housenumber":"610",
+    "addr:postcode":"19147",
+    "addr:street":"S 2Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.145908,39.940402,-75.145908,39.940402",
     "geom:latitude":39.940402,
     "geom:longitude":-75.145908,
@@ -32,12 +37,12 @@
     "wof:belongsto":[
         420539461,
         102191575,
+        1108721801,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85893307
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,25 +57,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721801,
             "neighbourhood_id":420539461,
-            "region_id":85688481,
-            "venue_id":621849181
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
-            "neighbourhood_id":85893307,
             "region_id":85688481,
             "venue_id":621849181
         }
     ],
     "wof:id":621849181,
-    "wof:lastmodified":1466780296,
+    "wof:lastmodified":1489032401,
     "wof:name":"Magnum Group Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420539461,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

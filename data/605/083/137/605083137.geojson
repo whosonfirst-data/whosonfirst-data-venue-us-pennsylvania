@@ -2,9 +2,14 @@
   "id": 605083137,
   "type": "Feature",
   "properties": {
+    "addr:full":"4015 Tyson Ave Philadelphia PA 19135",
+    "addr:housenumber":"4015",
+    "addr:postcode":"19135",
+    "addr:street":"Tyson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.046144,40.033074,-75.046144,40.033074",
     "geom:latitude":40.033074,
     "geom:longitude":-75.046144,
@@ -28,18 +33,39 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85851751,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6WxLtCekfbcXPxLdhEukk9_40.033074_-75.046144@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"8d9157afb71a2b5846cbb7ebc2e6da18",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85851751,
+            "region_id":85688481,
+            "venue_id":605083137
+        }
+    ],
     "wof:id":605083137,
-    "wof:lastmodified":1466780981,
+    "wof:lastmodified":1489037236,
     "wof:name":"Haro Cement & Concrete Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85851751,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

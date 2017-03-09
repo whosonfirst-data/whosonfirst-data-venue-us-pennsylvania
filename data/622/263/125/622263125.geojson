@@ -2,9 +2,14 @@
   "id": 622263125,
   "type": "Feature",
   "properties": {
+    "addr:full":"2314 N 29th St  Philadelphia PA 19132",
+    "addr:housenumber":"2314",
+    "addr:postcode":"19132",
+    "addr:street":"N 29Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.180008,39.991408,-75.180008,39.991408",
     "geom:latitude":39.991408,
     "geom:longitude":-75.180008,
@@ -33,6 +38,7 @@
     "wof:belongsto":[
         85851257,
         102191575,
+        1108721811,
         404483701,
         85633793,
         101718083,
@@ -52,13 +58,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721811,
             "neighbourhood_id":85851257,
             "region_id":85688481,
             "venue_id":622263125
         }
     ],
     "wof:id":622263125,
-    "wof:lastmodified":1466789230,
+    "wof:lastmodified":1489034894,
     "wof:name":"New Shang Hai",
     "wof:parent_id":85851257,
     "wof:placetype":"venue",

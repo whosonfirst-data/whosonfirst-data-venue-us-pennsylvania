@@ -2,9 +2,14 @@
   "id": 605041871,
   "type": "Feature",
   "properties": {
+    "addr:full":"7304 Elbow Ln Philadelphia PA 19119",
+    "addr:housenumber":"7304",
+    "addr:postcode":"19119",
+    "addr:street":"Elbow Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.200951,40.053463,-75.200951,40.053463",
     "geom:latitude":40.053463,
     "geom:longitude":-75.200951,
@@ -28,14 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802783,
+        85855969,
         102191575,
+        1108721809,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85855969
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,25 +55,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85802783,
-            "region_id":85688481,
-            "venue_id":605041871
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721809,
             "neighbourhood_id":85855969,
             "region_id":85688481,
             "venue_id":605041871
         }
     ],
     "wof:id":605041871,
-    "wof:lastmodified":1466777530,
+    "wof:lastmodified":1489037414,
     "wof:name":"Philadelphia Child & Family",
-    "wof:parent_id":-1,
+    "wof:parent_id":85855969,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

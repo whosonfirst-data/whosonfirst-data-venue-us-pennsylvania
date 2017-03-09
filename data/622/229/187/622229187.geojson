@@ -2,9 +2,14 @@
   "id": 622229187,
   "type": "Feature",
   "properties": {
+    "addr:full":"7928 State Rd Philadelphia PA 19136",
+    "addr:housenumber":"7928",
+    "addr:postcode":"19136",
+    "addr:street":"State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.022614,40.030806,-75.022614,40.030806",
     "geom:latitude":40.030806,
     "geom:longitude":-75.022614,
@@ -36,18 +41,39 @@
     ],
     "sg:website":"http://www.stihldealer.net/default-dealer-021527.aspx",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6PZo7N57EbPi6zRtidApcI_40.031009_-75.022215@1293134755"
     },
     "wof:country":"US",
     "wof:geomhash":"7404b85c4a9faa6791c83fadf033fa7d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":622229187
+        }
+    ],
     "wof:id":622229187,
-    "wof:lastmodified":1466788315,
+    "wof:lastmodified":1489036122,
     "wof:name":"Panther East",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 622211869,
   "type": "Feature",
   "properties": {
+    "addr:full":"1831 Bainbridge St Philadelphia PA 19146",
+    "addr:housenumber":"1831",
+    "addr:postcode":"19146",
+    "addr:street":"Bainbridge St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.17257,39.943631,-75.17257,39.943631",
     "geom:latitude":39.943631,
     "geom:longitude":-75.17257,
@@ -31,14 +36,14 @@
     "sg:website":"http://www.diopa.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850347,
+        85847359,
         102191575,
+        1108721801,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        420559177
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,25 +58,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85850347,
-            "region_id":85688481,
-            "venue_id":622211869
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
-            "neighbourhood_id":420559177,
+            "macrohood_id":1108721801,
+            "neighbourhood_id":85847359,
             "region_id":85688481,
             "venue_id":622211869
         }
     ],
     "wof:id":622211869,
-    "wof:lastmodified":1466787926,
+    "wof:lastmodified":1489037082,
     "wof:name":"St Mary's Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":85847359,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

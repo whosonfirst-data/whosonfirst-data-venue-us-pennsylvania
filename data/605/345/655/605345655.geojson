@@ -2,9 +2,14 @@
   "id": 605345655,
   "type": "Feature",
   "properties": {
+    "addr:full":"7001 Milnor St Philadelphia PA 19135",
+    "addr:housenumber":"7001",
+    "addr:postcode":"19135",
+    "addr:street":"Milnor St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.036645,40.022231,-75.036645,40.022231",
     "geom:latitude":40.022231,
     "geom:longitude":-75.036645,
@@ -24,18 +29,39 @@
     "sg:postcode":"19135",
     "sg:province":"PA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85851751,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ML58iAuyRefhaBTBsnuJw_40.022231_-75.036645@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"126d58d7138a1a3a9c2ab8d1a9cf2d8d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85851751,
+            "region_id":85688481,
+            "venue_id":605345655
+        }
+    ],
     "wof:id":605345655,
-    "wof:lastmodified":1466791112,
+    "wof:lastmodified":1489037235,
     "wof:name":"G E S Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85851751,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

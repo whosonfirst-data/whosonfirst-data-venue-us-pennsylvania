@@ -2,9 +2,14 @@
   "id": 622239187,
   "type": "Feature",
   "properties": {
+    "addr:full":"5506 N 5th St Philadelphia PA 19120",
+    "addr:housenumber":"5506",
+    "addr:postcode":"19120",
+    "addr:street":"N 5Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.13086,40.034834,-75.13086,40.034834",
     "geom:latitude":40.034834,
     "geom:longitude":-75.13086,
@@ -29,14 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851737,
+        420782533,
         102191575,
+        1108721809,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        420558413
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,25 +56,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85851737,
-            "region_id":85688481,
-            "venue_id":622239187
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
-            "neighbourhood_id":420558413,
+            "macrohood_id":1108721809,
+            "neighbourhood_id":420782533,
             "region_id":85688481,
             "venue_id":622239187
         }
     ],
     "wof:id":622239187,
-    "wof:lastmodified":1466788566,
+    "wof:lastmodified":1489038543,
     "wof:name":"Classic Floor Covering",
-    "wof:parent_id":-1,
+    "wof:parent_id":420782533,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

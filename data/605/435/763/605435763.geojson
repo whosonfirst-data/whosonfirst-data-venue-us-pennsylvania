@@ -2,9 +2,14 @@
   "id": 605435763,
   "type": "Feature",
   "properties": {
+    "addr:full":"7219 Frankford Ave Philadelphia PA 19135",
+    "addr:housenumber":"7219",
+    "addr:postcode":"19135",
+    "addr:street":"Frankford Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.042683,40.035691,-75.042683,40.035691",
     "geom:latitude":40.035691,
     "geom:longitude":-75.042683,
@@ -27,18 +32,39 @@
         "congressman"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85851751,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ZLMyCFuoxfwkToRhzBfid_40.035691_-75.042683@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"0f848b2d7437d947a5f3b83ae91dd19a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85851751,
+            "region_id":85688481,
+            "venue_id":605435763
+        }
+    ],
     "wof:id":605435763,
-    "wof:lastmodified":1467081494,
+    "wof:lastmodified":1489037232,
     "wof:name":"Representative Robert Aborski",
-    "wof:parent_id":-1,
+    "wof:parent_id":85851751,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

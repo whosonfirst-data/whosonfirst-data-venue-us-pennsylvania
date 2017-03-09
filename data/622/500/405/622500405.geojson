@@ -2,9 +2,14 @@
   "id": 622500405,
   "type": "Feature",
   "properties": {
+    "addr:full":"4102 Germantown Ave Philadelphia PA 19140",
+    "addr:housenumber":"4102",
+    "addr:postcode":"19140",
+    "addr:street":"Germantown Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.154025,40.015867,-75.154025,40.015867",
     "geom:latitude":40.015867,
     "geom:longitude":-75.154025,
@@ -28,14 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885405,
+        420782547,
         102191575,
+        1108721811,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        420560161
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,25 +55,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85885405,
-            "region_id":85688481,
-            "venue_id":622500405
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
-            "neighbourhood_id":420560161,
+            "macrohood_id":1108721811,
+            "neighbourhood_id":420782547,
             "region_id":85688481,
             "venue_id":622500405
         }
     ],
     "wof:id":622500405,
-    "wof:lastmodified":1467081936,
+    "wof:lastmodified":1489038630,
     "wof:name":"Anytime Emergency Locksmith",
-    "wof:parent_id":-1,
+    "wof:parent_id":420782547,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

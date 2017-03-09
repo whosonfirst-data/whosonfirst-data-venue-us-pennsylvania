@@ -2,9 +2,14 @@
   "id": 621873219,
   "type": "Feature",
   "properties": {
+    "addr:full":"1428 Tasker St Philadelphia PA 19145",
+    "addr:housenumber":"1428",
+    "addr:postcode":"19145",
+    "addr:street":"Tasker St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.170048,39.930693,-75.170048,39.930693",
     "geom:latitude":39.930693,
     "geom:longitude":-75.170048,
@@ -31,11 +36,13 @@
     "wof:belongsto":[
         85871443,
         102191575,
+        1108721801,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481
+        85688481,
+        85842525
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +57,27 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721801,
             "neighbourhood_id":85871443,
+            "region_id":85688481,
+            "venue_id":621873219
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721801,
+            "neighbourhood_id":85842525,
             "region_id":85688481,
             "venue_id":621873219
         }
     ],
     "wof:id":621873219,
-    "wof:lastmodified":1466781801,
+    "wof:lastmodified":1489036599,
     "wof:name":"Coffee Shop",
-    "wof:parent_id":85871443,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

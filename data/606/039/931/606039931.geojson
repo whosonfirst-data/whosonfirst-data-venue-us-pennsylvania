@@ -2,9 +2,14 @@
   "id": 606039931,
   "type": "Feature",
   "properties": {
+    "addr:full":"12001 Knights Rd Philadelphia PA 19154",
+    "addr:housenumber":"12001",
+    "addr:postcode":"19154",
+    "addr:street":"Knights Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.971944,40.086891,-74.971944,40.086891",
     "geom:latitude":40.086891,
     "geom:longitude":-74.971944,
@@ -37,14 +42,14 @@
     "sg:website":"www.mobilestations.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831329,
+        1108723463,
         102191575,
+        1108721807,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        420539529
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,25 +64,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85831329,
-            "region_id":85688481,
-            "venue_id":606039931
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
-            "neighbourhood_id":420539529,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":1108723463,
             "region_id":85688481,
             "venue_id":606039931
         }
     ],
     "wof:id":606039931,
-    "wof:lastmodified":1466780281,
+    "wof:lastmodified":1489038721,
     "wof:name":"Fairdale Mobile",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108723463,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

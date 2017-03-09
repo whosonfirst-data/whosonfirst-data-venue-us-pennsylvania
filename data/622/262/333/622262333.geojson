@@ -2,9 +2,14 @@
   "id": 622262333,
   "type": "Feature",
   "properties": {
+    "addr:full":"9745 Roosevelt Blvd Philadelphia PA 19114",
+    "addr:housenumber":"9745",
+    "addr:postcode":"19114",
+    "addr:street":"Roosevelt Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.023999,40.085257,-75.023999,40.085257",
     "geom:latitude":40.085257,
     "geom:longitude":-75.023999,
@@ -32,6 +37,7 @@
     "wof:belongsto":[
         420539457,
         102191575,
+        1108721807,
         404483701,
         85633793,
         101718083,
@@ -51,13 +57,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721807,
             "neighbourhood_id":420539457,
             "region_id":85688481,
             "venue_id":622262333
         }
     ],
     "wof:id":622262333,
-    "wof:lastmodified":1466789189,
+    "wof:lastmodified":1489038239,
     "wof:name":"Subway",
     "wof:parent_id":420539457,
     "wof:placetype":"venue",

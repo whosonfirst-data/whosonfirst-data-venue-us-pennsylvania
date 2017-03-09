@@ -2,9 +2,14 @@
   "id": 622229821,
   "type": "Feature",
   "properties": {
+    "addr:full":"233 Church St Philadelphia PA 19106",
+    "addr:housenumber":"233",
+    "addr:postcode":"19106",
+    "addr:street":"Church St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.145302,39.950699,-75.145302,39.950699",
     "geom:latitude":39.950699,
     "geom:longitude":-75.145302,
@@ -32,14 +37,14 @@
     "sg:website":"www.theactiveedge.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85893355,
+        85839299,
         102191575,
+        1108721797,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85839299
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,25 +59,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85893355,
-            "region_id":85688481,
-            "venue_id":622229821
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721797,
             "neighbourhood_id":85839299,
             "region_id":85688481,
             "venue_id":622229821
         }
     ],
     "wof:id":622229821,
-    "wof:lastmodified":1466788356,
+    "wof:lastmodified":1489031743,
     "wof:name":"Active Edge the",
-    "wof:parent_id":-1,
+    "wof:parent_id":85839299,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 605502325,
   "type": "Feature",
   "properties": {
+    "addr:full":"949 N Marshall St Philadelphia PA 19123",
+    "addr:housenumber":"949",
+    "addr:postcode":"19123",
+    "addr:street":"N Marshall St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.147557,39.968666,-75.147557,39.968666",
     "geom:latitude":39.968666,
     "geom:longitude":-75.147557,
@@ -31,6 +36,7 @@
     "wof:belongsto":[
         420539495,
         102191575,
+        1108721811,
         404483701,
         85633793,
         101718083,
@@ -50,13 +56,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721811,
             "neighbourhood_id":420539495,
             "region_id":85688481,
             "venue_id":605502325
         }
     ],
     "wof:id":605502325,
-    "wof:lastmodified":1467081536,
+    "wof:lastmodified":1489035074,
     "wof:name":"St Vincent De Paul Thrift",
     "wof:parent_id":420539495,
     "wof:placetype":"venue",

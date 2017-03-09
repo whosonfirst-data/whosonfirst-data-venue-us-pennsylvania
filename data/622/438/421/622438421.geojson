@@ -2,9 +2,14 @@
   "id": 622438421,
   "type": "Feature",
   "properties": {
+    "addr:full":"113 N Bread St Philadelphia PA 19106",
+    "addr:housenumber":"113",
+    "addr:postcode":"19106",
+    "addr:street":"N Bread St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.14366,39.952486,-75.14366,39.952486",
     "geom:latitude":39.952486,
     "geom:longitude":-75.14366,
@@ -44,14 +49,14 @@
     "sg:website":"www.level1fitness.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871417,
+        85839299,
         102191575,
+        1108721797,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85839299
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,25 +71,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85871417,
-            "region_id":85688481,
-            "venue_id":622438421
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721797,
             "neighbourhood_id":85839299,
             "region_id":85688481,
             "venue_id":622438421
         }
     ],
     "wof:id":622438421,
-    "wof:lastmodified":1467081891,
+    "wof:lastmodified":1489031930,
     "wof:name":"Level 1 Fitness",
-    "wof:parent_id":-1,
+    "wof:parent_id":85839299,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

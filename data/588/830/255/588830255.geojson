@@ -2,9 +2,14 @@
   "id": 588830255,
   "type": "Feature",
   "properties": {
+    "addr:full":"812 N 40th St Philadelphia PA 19104",
+    "addr:housenumber":"812",
+    "addr:postcode":"19104",
+    "addr:street":"N 40Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.203167,39.96746,-75.203167,39.96746",
     "geom:latitude":39.96746,
     "geom:longitude":-75.203167,
@@ -27,6 +32,7 @@
     "wof:belongsto":[
         85805623,
         102191575,
+        1108721805,
         404483701,
         85633793,
         101718083,
@@ -46,13 +52,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721805,
             "neighbourhood_id":85805623,
             "region_id":85688481,
             "venue_id":588830255
         }
     ],
     "wof:id":588830255,
-    "wof:lastmodified":1466778161,
+    "wof:lastmodified":1489033390,
     "wof:name":"Little World Market",
     "wof:parent_id":85805623,
     "wof:placetype":"venue",

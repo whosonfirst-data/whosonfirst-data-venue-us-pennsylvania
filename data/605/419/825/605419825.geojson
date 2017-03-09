@@ -2,9 +2,14 @@
   "id": 605419825,
   "type": "Feature",
   "properties": {
+    "addr:full":"8515 Frankford Ave Philadelphia PA 19136",
+    "addr:housenumber":"8515",
+    "addr:postcode":"19136",
+    "addr:street":"Frankford Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.016376,40.045671,-75.016376,40.045671",
     "geom:latitude":40.045671,
     "geom:longitude":-75.016376,
@@ -27,18 +32,41 @@
         "attorney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108722091,
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2erVyxAJs9vPofa9QOM4ux_40.045671_-75.016376@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"27e1ec9bb97a5bea126b353581f70e06",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "microhood_id":1108722091,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":605419825
+        }
+    ],
     "wof:id":605419825,
-    "wof:lastmodified":1467081484,
+    "wof:lastmodified":1489039517,
     "wof:name":"Gutman & Mettee Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108722091,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

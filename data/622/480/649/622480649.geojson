@@ -2,9 +2,14 @@
   "id": 622480649,
   "type": "Feature",
   "properties": {
+    "addr:full":"1806 Spring Garden St Philadelphia PA 19130",
+    "addr:housenumber":"1806",
+    "addr:postcode":"19130",
+    "addr:street":"Spring Garden St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.168404,39.963299,-75.168404,39.963299",
     "geom:latitude":39.963299,
     "geom:longitude":-75.168404,
@@ -27,12 +32,12 @@
     "wof:belongsto":[
         420539525,
         102191575,
+        1108721811,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85871423
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,25 +52,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721811,
             "neighbourhood_id":420539525,
-            "region_id":85688481,
-            "venue_id":622480649
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
-            "neighbourhood_id":85871423,
             "region_id":85688481,
             "venue_id":622480649
         }
     ],
     "wof:id":622480649,
-    "wof:lastmodified":1467081921,
+    "wof:lastmodified":1489034920,
     "wof:name":"Franklin Cleaners",
-    "wof:parent_id":-1,
+    "wof:parent_id":420539525,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

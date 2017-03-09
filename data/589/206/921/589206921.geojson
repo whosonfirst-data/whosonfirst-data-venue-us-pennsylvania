@@ -2,9 +2,14 @@
   "id": 589206921,
   "type": "Feature",
   "properties": {
+    "addr:full":"6411 Marsden St Philadelphia PA 19135",
+    "addr:housenumber":"6411",
+    "addr:postcode":"19135",
+    "addr:street":"Marsden St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.050584,40.022835,-75.050584,40.022835",
     "geom:latitude":40.022835,
     "geom:longitude":-75.050584,
@@ -28,18 +33,39 @@
         "cad"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85851751,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4uOEU5eJDf95aNpfIP6JUd_40.022835_-75.050584@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"ea65a07ad51bafd422488105ebb5ace0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85851751,
+            "region_id":85688481,
+            "venue_id":589206921
+        }
+    ],
     "wof:id":589206921,
-    "wof:lastmodified":1466788310,
+    "wof:lastmodified":1489037250,
     "wof:name":"Jeff Hutt Carpentry",
-    "wof:parent_id":-1,
+    "wof:parent_id":85851751,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

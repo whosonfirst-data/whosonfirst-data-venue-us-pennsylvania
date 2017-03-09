@@ -2,9 +2,14 @@
   "id": 589012521,
   "type": "Feature",
   "properties": {
+    "addr:full":"7330 Tulip St Philadelphia PA 19136",
+    "addr:housenumber":"7330",
+    "addr:postcode":"19136",
+    "addr:street":"Tulip St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.031482,40.029042,-75.031482,40.029042",
     "geom:latitude":40.029042,
     "geom:longitude":-75.031482,
@@ -29,18 +34,39 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Ivofph1Pf0QlIbN5Sjd8r_40.029042_-75.031482@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"53b661cfe71a719699d8a26b2ea87876",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":589012521
+        }
+    ],
     "wof:id":589012521,
-    "wof:lastmodified":1466777346,
+    "wof:lastmodified":1489036081,
     "wof:name":"Filterman",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

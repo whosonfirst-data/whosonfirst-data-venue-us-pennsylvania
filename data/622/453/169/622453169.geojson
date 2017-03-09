@@ -2,9 +2,14 @@
   "id": 622453169,
   "type": "Feature",
   "properties": {
+    "addr:full":"6901 Rising Sun Ave Philadelphia PA 19111",
+    "addr:housenumber":"6901",
+    "addr:postcode":"19111",
+    "addr:street":"Rising Sun Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.0896,40.055729,-75.0896,40.055729",
     "geom:latitude":40.055729,
     "geom:longitude":-75.0896,
@@ -29,13 +34,15 @@
     "sg:website":"http://www.phillypal.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420539477,
+        85808477,
         102191575,
+        1108721807,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481
+        85688481,
+        420539477
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +57,27 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85808477,
+            "region_id":85688481,
+            "venue_id":622453169
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
             "neighbourhood_id":420539477,
             "region_id":85688481,
             "venue_id":622453169
         }
     ],
     "wof:id":622453169,
-    "wof:lastmodified":1467081901,
+    "wof:lastmodified":1489035663,
     "wof:name":"Police Athletic League Of Philadelphia",
-    "wof:parent_id":420539477,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

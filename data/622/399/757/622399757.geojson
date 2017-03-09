@@ -2,9 +2,14 @@
   "id": 622399757,
   "type": "Feature",
   "properties": {
+    "addr:full":"1600 Market St Philadelphia PA 19103",
+    "addr:housenumber":"1600",
+    "addr:postcode":"19103",
+    "addr:street":"Market St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.16729,39.952831,-75.16729,39.952831",
     "geom:latitude":39.952831,
     "geom:longitude":-75.16729,
@@ -31,14 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871429,
+        85844705,
         102191575,
+        1108721797,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85844705
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,25 +58,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85871429,
-            "region_id":85688481,
-            "venue_id":622399757
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721797,
             "neighbourhood_id":85844705,
             "region_id":85688481,
             "venue_id":622399757
         }
     ],
     "wof:id":622399757,
-    "wof:lastmodified":1467081862,
+    "wof:lastmodified":1489031014,
     "wof:name":"Irene W Cramer Foundation",
-    "wof:parent_id":-1,
+    "wof:parent_id":85844705,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

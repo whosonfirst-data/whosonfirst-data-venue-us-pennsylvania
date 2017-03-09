@@ -2,9 +2,14 @@
   "id": 622073287,
   "type": "Feature",
   "properties": {
+    "addr:full":"2701 Holme Ave Philadelphia PA 19152",
+    "addr:housenumber":"2701",
+    "addr:postcode":"19152",
+    "addr:street":"Holme Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.038637,40.058631,-75.038637,40.058631",
     "geom:latitude":40.058631,
     "geom:longitude":-75.038637,
@@ -29,14 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85882385,
+        420782515,
         102191575,
+        1108721807,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        420558715
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,25 +56,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85882385,
-            "region_id":85688481,
-            "venue_id":622073287
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
-            "neighbourhood_id":420558715,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":420782515,
             "region_id":85688481,
             "venue_id":622073287
         }
     ],
     "wof:id":622073287,
-    "wof:lastmodified":1466781661,
+    "wof:lastmodified":1489038531,
     "wof:name":"Nazareth Anesthesia Assoc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420782515,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

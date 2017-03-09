@@ -2,9 +2,14 @@
   "id": 605157469,
   "type": "Feature",
   "properties": {
+    "addr:full":"4542 Cottman Ave Philadelphia PA 19135",
+    "addr:housenumber":"4542",
+    "addr:postcode":"19135",
+    "addr:street":"Cottman Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.035737,40.030823,-75.035737,40.030823",
     "geom:latitude":40.030823,
     "geom:longitude":-75.035737,
@@ -28,18 +33,39 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85851751,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4POc8DEphcbFUdb1V9eLO7_40.030823_-75.035737@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"b5e31c5d9e10a082d33d50b51edd8533",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85851751,
+            "region_id":85688481,
+            "venue_id":605157469
+        }
+    ],
     "wof:id":605157469,
-    "wof:lastmodified":1466785346,
+    "wof:lastmodified":1489037257,
     "wof:name":"Lous Quality Meats",
-    "wof:parent_id":-1,
+    "wof:parent_id":85851751,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

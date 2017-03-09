@@ -2,9 +2,14 @@
   "id": 605311333,
   "type": "Feature",
   "properties": {
+    "addr:full":"3333 Lansing St Philadelphia PA 19136",
+    "addr:housenumber":"3333",
+    "addr:postcode":"19136",
+    "addr:street":"Lansing St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.034388,40.043306,-75.034388,40.043306",
     "geom:latitude":40.043306,
     "geom:longitude":-75.034388,
@@ -27,18 +32,39 @@
         "television"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5DwijZhLKofAw5gNRC6YKl_40.043306_-75.034388@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"48e826b712734f3458a7f2000a761a17",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":605311333
+        }
+    ],
     "wof:id":605311333,
-    "wof:lastmodified":1466790483,
+    "wof:lastmodified":1489036105,
     "wof:name":"Nelu Cable Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

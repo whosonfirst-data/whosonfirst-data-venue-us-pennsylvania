@@ -2,9 +2,14 @@
   "id": 622459451,
   "type": "Feature",
   "properties": {
+    "addr:full":"7203 Germantown Ave Philadelphia PA 19119",
+    "addr:housenumber":"7203",
+    "addr:postcode":"19119",
+    "addr:street":"Germantown Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.191151,40.060335,-75.191151,40.060335",
     "geom:latitude":40.060335,
     "geom:longitude":-75.191151,
@@ -40,14 +45,15 @@
     "sg:website":"http://www.littleherbanspa.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85835449,
+        85893335,
         102191575,
+        1108721809,
         404483701,
         85633793,
         101718083,
         102081353,
         85688481,
-        85893335
+        85835449
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,7 +68,8 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85835449,
+            "macrohood_id":1108721809,
+            "neighbourhood_id":85893335,
             "region_id":85688481,
             "venue_id":622459451
         },
@@ -72,15 +79,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85893335,
+            "macrohood_id":1108721809,
+            "neighbourhood_id":85835449,
             "region_id":85688481,
             "venue_id":622459451
         }
     ],
     "wof:id":622459451,
-    "wof:lastmodified":1467081906,
+    "wof:lastmodified":1489034259,
     "wof:name":"Little Herban Spa",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

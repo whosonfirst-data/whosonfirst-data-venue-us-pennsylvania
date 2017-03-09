@@ -2,9 +2,14 @@
   "id": 622501357,
   "type": "Feature",
   "properties": {
+    "addr:full":"6201 N 10th St Apt 432 Philadelphia PA 19141",
+    "addr:housenumber":"6201;432",
+    "addr:postcode":"19141",
+    "addr:street":"N 10Th St Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.136337,40.04657,-75.136337,40.04657",
     "geom:latitude":40.04657,
     "geom:longitude":-75.136337,
@@ -30,6 +35,7 @@
     "wof:belongsto":[
         85816633,
         102191575,
+        1108721809,
         404483701,
         85633793,
         101718083,
@@ -49,13 +55,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721809,
             "neighbourhood_id":85816633,
             "region_id":85688481,
             "venue_id":622501357
         }
     ],
     "wof:id":622501357,
-    "wof:lastmodified":1467081936,
+    "wof:lastmodified":1489035855,
     "wof:name":"Home Depot C O Martin Thoms",
     "wof:parent_id":85816633,
     "wof:placetype":"venue",

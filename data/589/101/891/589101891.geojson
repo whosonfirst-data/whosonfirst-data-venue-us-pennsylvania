@@ -2,9 +2,14 @@
   "id": 589101891,
   "type": "Feature",
   "properties": {
+    "addr:full":"3 N Columbus Blvd Philadelphia PA 19106",
+    "addr:housenumber":"3",
+    "addr:postcode":"19106",
+    "addr:street":"N Columbus Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.140013,39.953508,-75.140013,39.953508",
     "geom:latitude":39.953508,
     "geom:longitude":-75.140013,
@@ -28,14 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871417,
+        1108721905,
+        85893367,
         102191575,
+        1108721801,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85893367
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,25 +56,17 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85871417,
-            "region_id":85688481,
-            "venue_id":589101891
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721801,
+            "microhood_id":1108721905,
             "neighbourhood_id":85893367,
             "region_id":85688481,
             "venue_id":589101891
         }
     ],
     "wof:id":589101891,
-    "wof:lastmodified":1466783926,
+    "wof:lastmodified":1489039460,
     "wof:name":"Stephen L Axelrod Esquire",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108721905,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

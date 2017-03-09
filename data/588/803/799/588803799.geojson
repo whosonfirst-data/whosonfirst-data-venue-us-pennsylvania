@@ -2,9 +2,14 @@
   "id": 588803799,
   "type": "Feature",
   "properties": {
+    "addr:full":"12901 Townsend Rd Philadelphia PA 19154",
+    "addr:housenumber":"12901",
+    "addr:postcode":"19154",
+    "addr:street":"Townsend Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.981506,40.104226,-74.981506,40.104226",
     "geom:latitude":40.104226,
     "geom:longitude":-74.981506,
@@ -32,6 +37,7 @@
     "wof:belongsto":[
         85840807,
         102191575,
+        1108721807,
         404483701,
         85633793,
         101718083,
@@ -51,13 +57,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721807,
             "neighbourhood_id":85840807,
             "region_id":85688481,
             "venue_id":588803799
         }
     ],
     "wof:id":588803799,
-    "wof:lastmodified":1466779208,
+    "wof:lastmodified":1489036530,
     "wof:name":"Northeast Regional Center",
     "wof:parent_id":85840807,
     "wof:placetype":"venue",

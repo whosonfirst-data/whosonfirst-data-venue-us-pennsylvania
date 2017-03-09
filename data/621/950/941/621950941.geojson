@@ -2,9 +2,14 @@
   "id": 621950941,
   "type": "Feature",
   "properties": {
+    "addr:full":"434 N 17th St Philadelphia PA 19130",
+    "addr:housenumber":"434",
+    "addr:postcode":"19130",
+    "addr:street":"N 17Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.166869,39.96043,-75.166869,39.96043",
     "geom:latitude":39.96043,
     "geom:longitude":-75.166869,
@@ -28,14 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871423,
+        85871427,
         102191575,
+        1108721797,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85871427
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,25 +55,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85871423,
-            "region_id":85688481,
-            "venue_id":621950941
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721797,
             "neighbourhood_id":85871427,
             "region_id":85688481,
             "venue_id":621950941
         }
     ],
     "wof:id":621950941,
-    "wof:lastmodified":1466785839,
+    "wof:lastmodified":1489030991,
     "wof:name":"Community Cllege Phldlphia Gar",
-    "wof:parent_id":-1,
+    "wof:parent_id":85871427,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 589240823,
   "type": "Feature",
   "properties": {
+    "addr:full":"5002 Wellington St Philadelphia PA 19135",
+    "addr:housenumber":"5002",
+    "addr:postcode":"19135",
+    "addr:street":"Wellington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.032448,40.024157,-75.032448,40.024157",
     "geom:latitude":40.024157,
     "geom:longitude":-75.032448,
@@ -24,18 +29,39 @@
     "sg:postcode":"19135",
     "sg:province":"PA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85851751,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5vqyK8H5X5pTOHC798XEjv_40.024157_-75.032448@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"5419a1a367daf34fa23c53f6d84d6a8b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85851751,
+            "region_id":85688481,
+            "venue_id":589240823
+        }
+    ],
     "wof:id":589240823,
-    "wof:lastmodified":1466789057,
+    "wof:lastmodified":1489037270,
     "wof:name":"Quality Craft Sign Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":85851751,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

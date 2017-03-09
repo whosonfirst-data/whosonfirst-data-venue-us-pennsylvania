@@ -2,9 +2,14 @@
   "id": 622078627,
   "type": "Feature",
   "properties": {
+    "addr:full":"1315 Spruce St Philadelphia PA 19107",
+    "addr:housenumber":"1315",
+    "addr:postcode":"19107",
+    "addr:street":"Spruce St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.163027,39.946814,-75.163027,39.946814",
     "geom:latitude":39.946814,
     "geom:longitude":-75.163027,
@@ -29,14 +34,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85893343,
+        1108721883,
+        85871431,
         102191575,
+        1108721797,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85871431
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,25 +57,17 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85893343,
-            "region_id":85688481,
-            "venue_id":622078627
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721797,
+            "microhood_id":1108721883,
             "neighbourhood_id":85871431,
             "region_id":85688481,
             "venue_id":622078627
         }
     ],
     "wof:id":622078627,
-    "wof:lastmodified":1466782061,
+    "wof:lastmodified":1489039166,
     "wof:name":"Philly Pride Presents",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108721883,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 622502525,
   "type": "Feature",
   "properties": {
+    "addr:full":"2011 S Larry St Philadelphia PA 19142",
+    "addr:housenumber":"2011",
+    "addr:postcode":"19142",
+    "addr:street":"S Larry St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.243945,39.923255,-75.243945,39.923255",
     "geom:latitude":39.923255,
     "geom:longitude":-75.243945,
@@ -27,6 +32,7 @@
     "wof:belongsto":[
         85840859,
         102191575,
+        1108721803,
         404483701,
         85633793,
         101718083,
@@ -46,13 +52,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721803,
             "neighbourhood_id":85840859,
             "region_id":85688481,
             "venue_id":622502525
         }
     ],
     "wof:id":622502525,
-    "wof:lastmodified":1467081937,
+    "wof:lastmodified":1489032866,
     "wof:name":"Four Ace",
     "wof:parent_id":85840859,
     "wof:placetype":"venue",

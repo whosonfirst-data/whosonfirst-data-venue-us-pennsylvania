@@ -2,9 +2,14 @@
   "id": 622514409,
   "type": "Feature",
   "properties": {
+    "addr:full":"1543 S. Mole Street Philadelphia PA 19146",
+    "addr:housenumber":"1543",
+    "addr:postcode":"19146",
+    "addr:street":"S. Mole Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.170866,39.931136,-75.170866,39.931136",
     "geom:latitude":39.931136,
     "geom:longitude":-75.170866,
@@ -36,6 +41,7 @@
     "wof:belongsto":[
         85842525,
         102191575,
+        1108721801,
         404483701,
         85633793,
         101718083,
@@ -55,13 +61,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721801,
             "neighbourhood_id":85842525,
             "region_id":85688481,
             "venue_id":622514409
         }
     ],
     "wof:id":622514409,
-    "wof:lastmodified":1467081946,
+    "wof:lastmodified":1489032712,
     "wof:name":"Brio Vim",
     "wof:parent_id":85842525,
     "wof:placetype":"venue",

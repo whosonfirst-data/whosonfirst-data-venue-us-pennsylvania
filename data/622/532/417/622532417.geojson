@@ -2,9 +2,14 @@
   "id": 622532417,
   "type": "Feature",
   "properties": {
+    "addr:full":"11082 Knights Rd Philadelphia PA 19154",
+    "addr:housenumber":"11082",
+    "addr:postcode":"19154",
+    "addr:street":"Knights Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.974988,40.082954,-74.974988,40.082954",
     "geom:latitude":40.082954,
     "geom:longitude":-74.974988,
@@ -43,14 +48,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831329,
+        1108723463,
         102191575,
+        1108721807,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        420539529
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,25 +70,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85831329,
-            "region_id":85688481,
-            "venue_id":622532417
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
-            "neighbourhood_id":420539529,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":1108723463,
             "region_id":85688481,
             "venue_id":622532417
         }
     ],
     "wof:id":622532417,
-    "wof:lastmodified":1467081959,
+    "wof:lastmodified":1489038725,
     "wof:name":"Northwestern Human Services, Inc.",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108723463,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

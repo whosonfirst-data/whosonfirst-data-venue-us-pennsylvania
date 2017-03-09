@@ -2,9 +2,14 @@
   "id": 622501021,
   "type": "Feature",
   "properties": {
+    "addr:full":"1436 Belfield Ave Philadelphia PA 19140",
+    "addr:housenumber":"1436",
+    "addr:postcode":"19140",
+    "addr:street":"Belfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.149232,40.023858,-75.149232,40.023858",
     "geom:latitude":40.023858,
     "geom:longitude":-75.149232,
@@ -39,14 +44,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885405,
+        85831205,
         102191575,
+        1108721809,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85831205
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,25 +66,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85885405,
-            "region_id":85688481,
-            "venue_id":622501021
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721809,
             "neighbourhood_id":85831205,
             "region_id":85688481,
             "venue_id":622501021
         }
     ],
     "wof:id":622501021,
-    "wof:lastmodified":1467081936,
+    "wof:lastmodified":1489034317,
     "wof:name":"Porter Family Day Care Educational Center",
-    "wof:parent_id":-1,
+    "wof:parent_id":85831205,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

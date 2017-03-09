@@ -2,9 +2,14 @@
   "id": 605658427,
   "type": "Feature",
   "properties": {
+    "addr:full":"7330 State Rd Philadelphia PA 19136",
+    "addr:housenumber":"7330",
+    "addr:postcode":"19136",
+    "addr:street":"State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.029524,40.026889,-75.029524,40.026889",
     "geom:latitude":40.026889,
     "geom:longitude":-75.029524,
@@ -24,18 +29,39 @@
     "sg:postcode":"19136",
     "sg:province":"PA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4XeuuBANecUFLtbmfDEAcu_40.026889_-75.029524@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"3c53acd4b9f486bac538dd0851046aa1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":605658427
+        }
+    ],
     "wof:id":605658427,
-    "wof:lastmodified":1467081633,
+    "wof:lastmodified":1489036093,
     "wof:name":"Modern Office Equipment Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

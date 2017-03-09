@@ -2,9 +2,14 @@
   "id": 589145075,
   "type": "Feature",
   "properties": {
+    "addr:full":"8421 Hegerman St Philadelphia PA 19136",
+    "addr:housenumber":"8421",
+    "addr:postcode":"19136",
+    "addr:street":"Hegerman St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.012426,40.040289,-75.012426,40.040289",
     "geom:latitude":40.040289,
     "geom:longitude":-75.012426,
@@ -29,18 +34,41 @@
         "carpet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108722091,
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3lSgBSdpBoT1y4fplffgE5_40.040289_-75.012426@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"18208f2a075415b5e19b4b7751b38896",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "microhood_id":1108722091,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":589145075
+        }
+    ],
     "wof:id":589145075,
-    "wof:lastmodified":1466785529,
+    "wof:lastmodified":1489039513,
     "wof:name":"CPR Restoration & Cleaning",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108722091,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

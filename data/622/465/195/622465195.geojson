@@ -2,9 +2,14 @@
   "id": 622465195,
   "type": "Feature",
   "properties": {
+    "addr:full":"623 N 2nd St Philadelphia PA 19123",
+    "addr:housenumber":"623",
+    "addr:postcode":"19123",
+    "addr:street":"N 2Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.141251,39.961503,-75.141251,39.961503",
     "geom:latitude":39.961503,
     "geom:longitude":-75.141251,
@@ -38,6 +43,7 @@
     "wof:belongsto":[
         85838255,
         102191575,
+        1108721811,
         404483701,
         85633793,
         101718083,
@@ -57,13 +63,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721811,
             "neighbourhood_id":85838255,
             "region_id":85688481,
             "venue_id":622465195
         }
     ],
     "wof:id":622465195,
-    "wof:lastmodified":1467081910,
+    "wof:lastmodified":1489034931,
     "wof:name":"Art Star",
     "wof:parent_id":85838255,
     "wof:placetype":"venue",

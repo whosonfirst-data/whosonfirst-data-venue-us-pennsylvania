@@ -2,9 +2,14 @@
   "id": 621919761,
   "type": "Feature",
   "properties": {
+    "addr:full":"3 W Girard Ave Philadelphia PA 19123",
+    "addr:housenumber":"3",
+    "addr:postcode":"19123",
+    "addr:street":"W Girard Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.13502,39.968786,-75.13502,39.968786",
     "geom:latitude":39.968786,
     "geom:longitude":-75.13502,
@@ -28,14 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420559181,
+        85819391,
         102191575,
+        1108721813,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85819391
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,25 +55,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":420559181,
-            "region_id":85688481,
-            "venue_id":621919761
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721813,
             "neighbourhood_id":85819391,
             "region_id":85688481,
             "venue_id":621919761
         }
     ],
     "wof:id":621919761,
-    "wof:lastmodified":1466784597,
+    "wof:lastmodified":1489035251,
     "wof:name":"Continental III Bank",
-    "wof:parent_id":-1,
+    "wof:parent_id":85819391,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

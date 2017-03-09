@@ -2,9 +2,14 @@
   "id": 622160843,
   "type": "Feature",
   "properties": {
+    "addr:full":"3000 N 24th St Philadelphia PA 19132",
+    "addr:housenumber":"3000",
+    "addr:postcode":"19132",
+    "addr:street":"N 24Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.169601,40.000702,-75.169601,40.000702",
     "geom:latitude":40.000702,
     "geom:longitude":-75.169601,
@@ -27,6 +32,7 @@
     "wof:belongsto":[
         85802763,
         102191575,
+        1108721811,
         404483701,
         85633793,
         101718083,
@@ -46,13 +52,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721811,
             "neighbourhood_id":85802763,
             "region_id":85688481,
             "venue_id":622160843
         }
     ],
     "wof:id":622160843,
-    "wof:lastmodified":1466786065,
+    "wof:lastmodified":1489034912,
     "wof:name":"Indiana Grocery Store",
     "wof:parent_id":85802763,
     "wof:placetype":"venue",

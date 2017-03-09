@@ -2,9 +2,14 @@
   "id": 606060089,
   "type": "Feature",
   "properties": {
+    "addr:full":"551 W Walnut Ln Philadelphia PA 19128",
+    "addr:housenumber":"551",
+    "addr:postcode":"19128",
+    "addr:street":"W Walnut Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.208136,40.027372,-75.208136,40.027372",
     "geom:latitude":40.027372,
     "geom:longitude":-75.208136,
@@ -27,6 +32,7 @@
     "wof:belongsto":[
         85846269,
         102191575,
+        1108721809,
         404483701,
         85633793,
         101718083,
@@ -46,13 +52,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721809,
             "neighbourhood_id":85846269,
             "region_id":85688481,
             "venue_id":606060089
         }
     ],
     "wof:id":606060089,
-    "wof:lastmodified":1466781478,
+    "wof:lastmodified":1489034279,
     "wof:name":"Blind Relief Fund of Phila",
     "wof:parent_id":85846269,
     "wof:placetype":"venue",

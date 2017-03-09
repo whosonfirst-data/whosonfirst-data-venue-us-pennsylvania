@@ -2,9 +2,14 @@
   "id": 605088119,
   "type": "Feature",
   "properties": {
+    "addr:full":"11550 Roosevelt Blvd Philadelphia PA 19116",
+    "addr:housenumber":"11550",
+    "addr:postcode":"19116",
+    "addr:street":"Roosevelt Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.003664,40.103638,-75.003664,40.103638",
     "geom:latitude":40.103638,
     "geom:longitude":-75.003664,
@@ -25,14 +30,14 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837097,
+        420539457,
         102191575,
+        1108721807,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        420539457
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,25 +52,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85837097,
-            "region_id":85688481,
-            "venue_id":605088119
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721807,
             "neighbourhood_id":420539457,
             "region_id":85688481,
             "venue_id":605088119
         }
     ],
     "wof:id":605088119,
-    "wof:lastmodified":1466781396,
+    "wof:lastmodified":1489038234,
     "wof:name":"Everything Chocolate",
-    "wof:parent_id":-1,
+    "wof:parent_id":420539457,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

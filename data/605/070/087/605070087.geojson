@@ -2,9 +2,14 @@
   "id": 605070087,
   "type": "Feature",
   "properties": {
+    "addr:full":"4516 Oakmont St Philadelphia PA 19136",
+    "addr:housenumber":"4516",
+    "addr:postcode":"19136",
+    "addr:street":"Oakmont St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.031197,40.033599,-75.031197,40.033599",
     "geom:latitude":40.033599,
     "geom:longitude":-75.031197,
@@ -24,18 +29,39 @@
     "sg:postcode":"19136",
     "sg:province":"PA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1up81Qq0oQevYFk7KRpFji_40.033599_-75.031197@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"6b5a3909fbef0cb5988cabbc8f6b9e80",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":605070087
+        }
+    ],
     "wof:id":605070087,
-    "wof:lastmodified":1466780062,
+    "wof:lastmodified":1489036102,
     "wof:name":"M T Drains",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

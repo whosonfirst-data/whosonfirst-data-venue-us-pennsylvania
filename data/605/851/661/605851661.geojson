@@ -2,9 +2,14 @@
   "id": 605851661,
   "type": "Feature",
   "properties": {
+    "addr:full":"1915 S 6th St Philadelphia PA 19148",
+    "addr:housenumber":"1915",
+    "addr:postcode":"19148",
+    "addr:street":"S 6Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.156095,39.925103,-75.156095,39.925103",
     "geom:latitude":39.925103,
     "geom:longitude":-75.156095,
@@ -31,11 +36,13 @@
     "wof:belongsto":[
         420539485,
         102191575,
+        1108721801,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481
+        85688481,
+        85893333
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +57,27 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721801,
             "neighbourhood_id":420539485,
+            "region_id":85688481,
+            "venue_id":605851661
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721801,
+            "neighbourhood_id":85893333,
             "region_id":85688481,
             "venue_id":605851661
         }
     ],
     "wof:id":605851661,
-    "wof:lastmodified":1467081755,
+    "wof:lastmodified":1489038107,
     "wof:name":"T & L Auto",
-    "wof:parent_id":420539485,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 622431165,
   "type": "Feature",
   "properties": {
+    "addr:full":"4145 Chestnut St Philadelphia PA 19104",
+    "addr:housenumber":"4145",
+    "addr:postcode":"19104",
+    "addr:street":"Chestnut St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.206101,39.956126,-75.206101,39.956126",
     "geom:latitude":39.956126,
     "geom:longitude":-75.206101,
@@ -31,6 +36,7 @@
     "wof:belongsto":[
         85850813,
         102191575,
+        1108721805,
         404483701,
         85633793,
         101718083,
@@ -50,13 +56,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721805,
             "neighbourhood_id":85850813,
             "region_id":85688481,
             "venue_id":622431165
         }
     ],
     "wof:id":622431165,
-    "wof:lastmodified":1467081885,
+    "wof:lastmodified":1489032954,
     "wof:name":"Weekly Press",
     "wof:parent_id":85850813,
     "wof:placetype":"venue",

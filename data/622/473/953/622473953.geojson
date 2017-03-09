@@ -2,9 +2,14 @@
   "id": 622473953,
   "type": "Feature",
   "properties": {
+    "addr:full":"636 Belgrade St Philadelphia PA 19125",
+    "addr:housenumber":"636",
+    "addr:postcode":"19125",
+    "addr:street":"Belgrade St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.127548,39.974548,-75.127548,39.974548",
     "geom:latitude":39.974548,
     "geom:longitude":-75.127548,
@@ -34,14 +39,14 @@
     "sg:website":"www.whippedbakeshop.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420559181,
+        85819391,
         102191575,
+        1108721813,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85828097
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,25 +61,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":420559181,
-            "region_id":85688481,
-            "venue_id":622473953
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
-            "neighbourhood_id":85828097,
+            "macrohood_id":1108721813,
+            "neighbourhood_id":85819391,
             "region_id":85688481,
             "venue_id":622473953
         }
     ],
     "wof:id":622473953,
-    "wof:lastmodified":1467081916,
+    "wof:lastmodified":1489035919,
     "wof:name":"Whipped Bakeshop",
-    "wof:parent_id":-1,
+    "wof:parent_id":85819391,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

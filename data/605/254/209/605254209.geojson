@@ -2,9 +2,14 @@
   "id": 605254209,
   "type": "Feature",
   "properties": {
+    "addr:full":"1924 Arch St Philadelphia PA 19103",
+    "addr:housenumber":"1924",
+    "addr:postcode":"19103",
+    "addr:street":"Arch St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.172486,39.955479,-75.172486,39.955479",
     "geom:latitude":39.955479,
     "geom:longitude":-75.172486,
@@ -28,14 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85893359,
+        85871427,
         102191575,
+        1108721797,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85871427
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,25 +55,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85893359,
-            "region_id":85688481,
-            "venue_id":605254209
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721797,
             "neighbourhood_id":85871427,
             "region_id":85688481,
             "venue_id":605254209
         }
     ],
     "wof:id":605254209,
-    "wof:lastmodified":1466789053,
+    "wof:lastmodified":1489031681,
     "wof:name":"Philadelphia Millions Solar",
-    "wof:parent_id":-1,
+    "wof:parent_id":85871427,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 622274039,
   "type": "Feature",
   "properties": {
+    "addr:full":"5601 W Girard Ave Philadelphia PA 19131",
+    "addr:housenumber":"5601",
+    "addr:postcode":"19131",
+    "addr:street":"W Girard Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.232703,39.970738,-75.232703,39.970738",
     "geom:latitude":39.970738,
     "geom:longitude":-75.232703,
@@ -30,14 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85882387,
+        420782491,
         102191575,
+        1108721805,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        420558313
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,25 +57,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85882387,
-            "region_id":85688481,
-            "venue_id":622274039
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
-            "neighbourhood_id":420558313,
+            "macrohood_id":1108721805,
+            "neighbourhood_id":420782491,
             "region_id":85688481,
             "venue_id":622274039
         }
     ],
     "wof:id":622274039,
-    "wof:lastmodified":1466789648,
+    "wof:lastmodified":1489038508,
     "wof:name":"Lebel Pizza Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420782491,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

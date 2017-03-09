@@ -2,9 +2,14 @@
   "id": 605198991,
   "type": "Feature",
   "properties": {
+    "addr:full":"4501 Cottman Ave Philadelphia PA 19135",
+    "addr:housenumber":"4501",
+    "addr:postcode":"19135",
+    "addr:street":"Cottman Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.036478,40.031732,-75.036478,40.031732",
     "geom:latitude":40.031732,
     "geom:longitude":-75.036478,
@@ -24,18 +29,39 @@
     "sg:postcode":"19135",
     "sg:province":"PA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6QSMjQ7vpODCosOX0KNXX3_40.031732_-75.036478@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"4629d6da1809697e8e1c747c6d56547e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":605198991
+        }
+    ],
     "wof:id":605198991,
-    "wof:lastmodified":1466787600,
+    "wof:lastmodified":1489036081,
     "wof:name":"Fred Beck",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

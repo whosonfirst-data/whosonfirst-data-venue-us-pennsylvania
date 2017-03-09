@@ -2,9 +2,14 @@
   "id": 588856287,
   "type": "Feature",
   "properties": {
+    "addr:full":"2051 Byberry Rd Philadelphia PA 19116",
+    "addr:housenumber":"2051",
+    "addr:postcode":"19116",
+    "addr:street":"Byberry Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.003421,40.110757,-75.003421,40.110757",
     "geom:latitude":40.110757,
     "geom:longitude":-75.003421,
@@ -31,12 +36,12 @@
     "wof:belongsto":[
         85849295,
         102191575,
+        1108721807,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85837097
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,25 +56,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721807,
             "neighbourhood_id":85849295,
-            "region_id":85688481,
-            "venue_id":588856287
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
-            "neighbourhood_id":85837097,
             "region_id":85688481,
             "venue_id":588856287
         }
     ],
     "wof:id":588856287,
-    "wof:lastmodified":1466780533,
+    "wof:lastmodified":1489037163,
     "wof:name":"Innovation Printing",
-    "wof:parent_id":-1,
+    "wof:parent_id":85849295,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

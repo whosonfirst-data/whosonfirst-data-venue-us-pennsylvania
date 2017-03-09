@@ -2,9 +2,14 @@
   "id": 622454563,
   "type": "Feature",
   "properties": {
+    "addr:full":"9350 Ashton Rd Rm 202 Philadelphia PA 19114",
+    "addr:housenumber":"9350;202",
+    "addr:postcode":"19114",
+    "addr:street":"Ashton Rd Rm",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.018172,40.066958,-75.018172,40.066958",
     "geom:latitude":40.066958,
     "geom:longitude":-75.018172,
@@ -30,13 +35,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420539507,
+        85841257,
         102191575,
+        1108721807,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481
+        85688481,
+        420539507
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +58,27 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85841257,
+            "region_id":85688481,
+            "venue_id":622454563
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
             "neighbourhood_id":420539507,
             "region_id":85688481,
             "venue_id":622454563
         }
     ],
     "wof:id":622454563,
-    "wof:lastmodified":1467081902,
+    "wof:lastmodified":1489036570,
     "wof:name":"1-2-1 Direct Response, Inc.",
-    "wof:parent_id":420539507,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

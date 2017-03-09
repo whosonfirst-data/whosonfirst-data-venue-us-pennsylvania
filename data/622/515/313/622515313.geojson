@@ -2,9 +2,14 @@
   "id": 622515313,
   "type": "Feature",
   "properties": {
+    "addr:full":"401 S 2nd St Philadelphia PA 19147",
+    "addr:housenumber":"401",
+    "addr:postcode":"19147",
+    "addr:street":"S 2Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.145203,39.9431,-75.145203,39.9431",
     "geom:latitude":39.9431,
     "geom:longitude":-75.145203,
@@ -43,6 +48,7 @@
     "wof:belongsto":[
         85849249,
         102191575,
+        1108721797,
         404483701,
         85633793,
         101718083,
@@ -62,13 +68,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721797,
             "neighbourhood_id":85849249,
             "region_id":85688481,
             "venue_id":622515313
         }
     ],
     "wof:id":622515313,
-    "wof:lastmodified":1467081947,
+    "wof:lastmodified":1489031233,
     "wof:name":"Society Hill Dance Academy",
     "wof:parent_id":85849249,
     "wof:placetype":"venue",

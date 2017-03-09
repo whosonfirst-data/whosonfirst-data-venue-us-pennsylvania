@@ -2,9 +2,14 @@
   "id": 605212801,
   "type": "Feature",
   "properties": {
+    "addr:full":"405 N 64th St Philadelphia PA 19151",
+    "addr:housenumber":"405",
+    "addr:postcode":"19151",
+    "addr:street":"N 64Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.247136,39.970534,-75.247136,39.970534",
     "geom:latitude":39.970534,
     "geom:longitude":-75.247136,
@@ -27,6 +32,7 @@
     "wof:belongsto":[
         420539515,
         102191575,
+        1108721805,
         404483701,
         85633793,
         101718083,
@@ -46,13 +52,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721805,
             "neighbourhood_id":420539515,
             "region_id":85688481,
             "venue_id":605212801
         }
     ],
     "wof:id":605212801,
-    "wof:lastmodified":1466787976,
+    "wof:lastmodified":1489038428,
     "wof:name":"Ward 34th",
     "wof:parent_id":420539515,
     "wof:placetype":"venue",

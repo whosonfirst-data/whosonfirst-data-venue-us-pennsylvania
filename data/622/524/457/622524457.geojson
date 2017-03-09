@@ -2,9 +2,14 @@
   "id": 622524457,
   "type": "Feature",
   "properties": {
+    "addr:full":"203 Moore Street Philadelphia PA 19148",
+    "addr:housenumber":"203",
+    "addr:postcode":"19148",
+    "addr:street":"Moore Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.149883,39.925505,-75.149883,39.925505",
     "geom:latitude":39.925505,
     "geom:longitude":-75.149883,
@@ -33,6 +38,7 @@
     "wof:belongsto":[
         85841231,
         102191575,
+        1108721801,
         404483701,
         85633793,
         101718083,
@@ -52,13 +58,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721801,
             "neighbourhood_id":85841231,
             "region_id":85688481,
             "venue_id":622524457
         }
     ],
     "wof:id":622524457,
-    "wof:lastmodified":1467081953,
+    "wof:lastmodified":1489036564,
     "wof:name":"Bob Newman Auto Repair",
     "wof:parent_id":85841231,
     "wof:placetype":"venue",

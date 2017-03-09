@@ -2,9 +2,14 @@
   "id": 605310169,
   "type": "Feature",
   "properties": {
+    "addr:full":"7540 Torresdale Ave Philadelphia PA 19136",
+    "addr:housenumber":"",
+    "addr:postcode":"7540;19136",
+    "addr:street":"Torresdale Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.029916,40.032902,-75.029916,40.032902",
     "geom:latitude":40.032902,
     "geom:longitude":-75.029916,
@@ -27,18 +32,39 @@
         "use"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_19qCbkYEubFRZr3TQq2ol3_40.032902_-75.029916@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"fd480cc70b848d97eeddb767f7861da7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":605310169
+        }
+    ],
     "wof:id":605310169,
-    "wof:lastmodified":1466790465,
+    "wof:lastmodified":1489036091,
     "wof:name":"Auto Maxx Motors Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

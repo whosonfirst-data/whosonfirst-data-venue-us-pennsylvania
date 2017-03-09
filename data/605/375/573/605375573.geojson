@@ -2,9 +2,14 @@
   "id": 605375573,
   "type": "Feature",
   "properties": {
+    "addr:full":"7320 Torresdale Ave Philadelphia PA 19136",
+    "addr:housenumber":"",
+    "addr:postcode":"7320;19136",
+    "addr:street":"Torresdale Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.034274,40.030561,-75.034274,40.030561",
     "geom:latitude":40.030561,
     "geom:longitude":-75.034274,
@@ -25,18 +30,39 @@
     "sg:province":"PA",
     "sg:website":"www.huberts.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_78rGou6td202usv9FlAxHo_40.030561_-75.034274@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"c32a566c6c6fef23e34a6789df77f4e2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":605375573
+        }
+    ],
     "wof:id":605375573,
-    "wof:lastmodified":1466791736,
+    "wof:lastmodified":1489036085,
     "wof:name":"St Hubert Catholic High School",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

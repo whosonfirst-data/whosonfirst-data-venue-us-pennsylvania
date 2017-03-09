@@ -2,9 +2,14 @@
   "id": 605862305,
   "type": "Feature",
   "properties": {
+    "addr:full":"800 Spring Garden St Philadelphia PA 19123",
+    "addr:housenumber":"800",
+    "addr:postcode":"19123",
+    "addr:street":"Spring Garden St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.152947,39.961503,-75.152947,39.961503",
     "geom:latitude":39.961503,
     "geom:longitude":-75.152947,
@@ -30,11 +35,13 @@
     "wof:belongsto":[
         85871415,
         102191575,
+        1108721811,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481
+        85688481,
+        420539495
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +56,27 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721811,
             "neighbourhood_id":85871415,
+            "region_id":85688481,
+            "venue_id":605862305
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721811,
+            "neighbourhood_id":420539495,
             "region_id":85688481,
             "venue_id":605862305
         }
     ],
     "wof:id":605862305,
-    "wof:lastmodified":1467081761,
+    "wof:lastmodified":1489037601,
     "wof:name":"Finance Dept",
-    "wof:parent_id":85871415,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

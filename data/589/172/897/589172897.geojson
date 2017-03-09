@@ -2,9 +2,14 @@
   "id": 589172897,
   "type": "Feature",
   "properties": {
+    "addr:full":"1436 Snyder Ave Philadelphia PA 19145",
+    "addr:housenumber":"1436",
+    "addr:postcode":"19145",
+    "addr:street":"Snyder Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.171339,39.924511,-75.171339,39.924511",
     "geom:latitude":39.924511,
     "geom:longitude":-75.171339,
@@ -25,14 +30,14 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85893361,
+        85871443,
         102191575,
+        1108721801,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85871443
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,25 +52,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85893361,
-            "region_id":85688481,
-            "venue_id":589172897
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721801,
             "neighbourhood_id":85871443,
             "region_id":85688481,
             "venue_id":589172897
         }
     ],
     "wof:id":589172897,
-    "wof:lastmodified":1466786916,
+    "wof:lastmodified":1489038039,
     "wof:name":"Eddie's Place",
-    "wof:parent_id":-1,
+    "wof:parent_id":85871443,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 588792313,
   "type": "Feature",
   "properties": {
+    "addr:full":"1740 Saint Paul St Philadelphia PA 19140",
+    "addr:housenumber":"1740",
+    "addr:postcode":"19140",
+    "addr:street":"Saint Paul St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.154864,40.019392,-75.154864,40.019392",
     "geom:latitude":40.019392,
     "geom:longitude":-75.154864,
@@ -28,14 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885405,
+        420782545,
         102191575,
+        1108721811,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        420560161
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,25 +55,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85885405,
-            "region_id":85688481,
-            "venue_id":588792313
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
-            "neighbourhood_id":420560161,
+            "macrohood_id":1108721811,
+            "neighbourhood_id":420782545,
             "region_id":85688481,
             "venue_id":588792313
         }
     ],
     "wof:id":588792313,
-    "wof:lastmodified":1466778774,
+    "wof:lastmodified":1489038603,
     "wof:name":"Greenstin Nrogy Assoc Multiple",
-    "wof:parent_id":-1,
+    "wof:parent_id":420782545,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 588861419,
   "type": "Feature",
   "properties": {
+    "addr:full":"2632 W Thompson St Philadelphia PA 19121",
+    "addr:housenumber":"2632",
+    "addr:postcode":"19121",
+    "addr:street":"W Thompson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.179361,39.975748,-75.179361,39.975748",
     "geom:latitude":39.975748,
     "geom:longitude":-75.179361,
@@ -31,6 +36,7 @@
     "wof:belongsto":[
         85807281,
         102191575,
+        1108721811,
         404483701,
         85633793,
         101718083,
@@ -50,13 +56,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721811,
             "neighbourhood_id":85807281,
             "region_id":85688481,
             "venue_id":588861419
         }
     ],
     "wof:id":588861419,
-    "wof:lastmodified":1466780533,
+    "wof:lastmodified":1489034871,
     "wof:name":"Philadelphia Housing Authority",
     "wof:parent_id":85807281,
     "wof:placetype":"venue",

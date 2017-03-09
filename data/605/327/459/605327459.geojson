@@ -2,9 +2,14 @@
   "id": 605327459,
   "type": "Feature",
   "properties": {
+    "addr:full":"8629 Ferndale St Philadelphia PA 19115",
+    "addr:housenumber":"8629",
+    "addr:postcode":"19115",
+    "addr:street":"Ferndale St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.057532,40.091056,-75.057532,40.091056",
     "geom:latitude":40.091056,
     "geom:longitude":-75.057532,
@@ -28,14 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853617,
+        85808641,
         102191575,
+        1108721807,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85808641
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,25 +55,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85853617,
-            "region_id":85688481,
-            "venue_id":605327459
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721807,
             "neighbourhood_id":85808641,
             "region_id":85688481,
             "venue_id":605327459
         }
     ],
     "wof:id":605327459,
-    "wof:lastmodified":1466790898,
+    "wof:lastmodified":1489035702,
     "wof:name":"Petra Fashions Lingerie",
-    "wof:parent_id":-1,
+    "wof:parent_id":85808641,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

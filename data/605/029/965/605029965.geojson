@@ -2,9 +2,14 @@
   "id": 605029965,
   "type": "Feature",
   "properties": {
+    "addr:full":"9257 Roosevelt Blvd Philadelphia PA 19114",
+    "addr:housenumber":"9257",
+    "addr:postcode":"19114",
+    "addr:street":"Roosevelt Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.03214,40.076762,-75.03214,40.076762",
     "geom:latitude":40.076762,
     "geom:longitude":-75.03214,
@@ -28,14 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85824951,
+        85841257,
         102191575,
+        1108721807,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85841257
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,25 +55,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85824951,
-            "region_id":85688481,
-            "venue_id":605029965
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721807,
             "neighbourhood_id":85841257,
             "region_id":85688481,
             "venue_id":605029965
         }
     ],
     "wof:id":605029965,
-    "wof:lastmodified":1466776291,
+    "wof:lastmodified":1489036577,
     "wof:name":"Spice of India",
-    "wof:parent_id":-1,
+    "wof:parent_id":85841257,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

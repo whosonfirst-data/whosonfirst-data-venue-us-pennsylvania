@@ -2,9 +2,14 @@
   "id": 588945005,
   "type": "Feature",
   "properties": {
+    "addr:full":"4342 Waln St Philadelphia PA 19124",
+    "addr:housenumber":"",
+    "addr:postcode":"4342;19124",
+    "addr:street":"Waln St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.084681,40.011295,-75.084681,40.011295",
     "geom:latitude":40.011295,
     "geom:longitude":-75.084681,
@@ -31,6 +36,7 @@
     "wof:belongsto":[
         85820547,
         102191575,
+        1108721807,
         404483701,
         85633793,
         101718083,
@@ -50,13 +56,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721807,
             "neighbourhood_id":85820547,
             "region_id":85688481,
             "venue_id":588945005
         }
     ],
     "wof:id":588945005,
-    "wof:lastmodified":1466785770,
+    "wof:lastmodified":1489033933,
     "wof:name":"Blue Water Coffee",
     "wof:parent_id":85820547,
     "wof:placetype":"venue",

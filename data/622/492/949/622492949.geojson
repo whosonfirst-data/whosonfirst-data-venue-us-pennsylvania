@@ -2,9 +2,14 @@
   "id": 622492949,
   "type": "Feature",
   "properties": {
+    "addr:full":"4900 Longshore Ave Fl 2 Philadelphia PA 19135",
+    "addr:housenumber":"4900;2",
+    "addr:postcode":"19135",
+    "addr:street":"Longshore Ave Fl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.041634,40.02383,-75.041634,40.02383",
     "geom:latitude":40.02383,
     "geom:longitude":-75.041634,
@@ -36,18 +41,39 @@
     ],
     "sg:website":"http://www.peiritschimaging.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85851751,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0NEmtrZbUlGugWXGzy4dfI_40.023830_-75.041634@1303262458"
     },
     "wof:country":"US",
     "wof:geomhash":"8780a0904542b9beeb8fcc95abd126cf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85851751,
+            "region_id":85688481,
+            "venue_id":622492949
+        }
+    ],
     "wof:id":622492949,
-    "wof:lastmodified":1467081930,
+    "wof:lastmodified":1489037252,
     "wof:name":"Peiritsch Custom Photo",
-    "wof:parent_id":-1,
+    "wof:parent_id":85851751,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

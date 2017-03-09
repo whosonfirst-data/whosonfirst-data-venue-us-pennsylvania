@@ -2,9 +2,14 @@
   "id": 605073795,
   "type": "Feature",
   "properties": {
+    "addr:full":"104 S 5th St Philadelphia PA 19106",
+    "addr:housenumber":"104",
+    "addr:postcode":"19106",
+    "addr:street":"S 5Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.149577,39.947585,-75.149577,39.947585",
     "geom:latitude":39.947585,
     "geom:longitude":-75.149577,
@@ -32,6 +37,7 @@
     "wof:belongsto":[
         85839299,
         102191575,
+        1108721797,
         404483701,
         85633793,
         101718083,
@@ -51,13 +57,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721797,
             "neighbourhood_id":85839299,
             "region_id":85688481,
             "venue_id":605073795
         }
     ],
     "wof:id":605073795,
-    "wof:lastmodified":1466780459,
+    "wof:lastmodified":1489031554,
     "wof:name":"American Philosophical Soc",
     "wof:parent_id":85839299,
     "wof:placetype":"venue",

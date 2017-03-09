@@ -2,9 +2,14 @@
   "id": 622393841,
   "type": "Feature",
   "properties": {
+    "addr:full":"1001 Market St Gallery 2 Lower Level Philadelphia PA 19102",
+    "addr:housenumber":"1001;2;level",
+    "addr:postcode":"19102",
+    "addr:street":"Market St;Lower",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.157237,39.952006,-75.157237,39.952006",
     "geom:latitude":39.952006,
     "geom:longitude":-75.157237,
@@ -33,14 +38,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871425,
+        1108721891,
+        85893325,
         102191575,
+        1108721797,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85893325
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,25 +61,17 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85871425,
-            "region_id":85688481,
-            "venue_id":622393841
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721797,
+            "microhood_id":1108721891,
             "neighbourhood_id":85893325,
             "region_id":85688481,
             "venue_id":622393841
         }
     ],
     "wof:id":622393841,
-    "wof:lastmodified":1467081857,
+    "wof:lastmodified":1489039207,
     "wof:name":"Creative Silver",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108721891,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

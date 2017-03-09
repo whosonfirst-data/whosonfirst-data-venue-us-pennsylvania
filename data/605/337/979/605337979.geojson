@@ -2,9 +2,14 @@
   "id": 605337979,
   "type": "Feature",
   "properties": {
+    "addr:full":"1001 E Venango St Philadelphia PA 19134",
+    "addr:housenumber":"1001",
+    "addr:postcode":"19134",
+    "addr:street":"E Venango St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.10615,40.001779,-75.10615,40.001779",
     "geom:latitude":40.001779,
     "geom:longitude":-75.10615,
@@ -25,13 +30,15 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871399,
+        420539471,
         102191575,
+        1108721813,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481
+        85688481,
+        85871399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +53,27 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721813,
+            "neighbourhood_id":420539471,
+            "region_id":85688481,
+            "venue_id":605337979
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721813,
             "neighbourhood_id":85871399,
             "region_id":85688481,
             "venue_id":605337979
         }
     ],
     "wof:id":605337979,
-    "wof:lastmodified":1466790847,
+    "wof:lastmodified":1489035539,
     "wof:name":"Budget Express Inc",
-    "wof:parent_id":85871399,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

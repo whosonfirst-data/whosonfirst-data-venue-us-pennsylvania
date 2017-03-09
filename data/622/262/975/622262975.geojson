@@ -2,9 +2,14 @@
   "id": 622262975,
   "type": "Feature",
   "properties": {
+    "addr:full":"4268 Ridge Ave Philadelphia PA 19129",
+    "addr:housenumber":"4268",
+    "addr:postcode":"19129",
+    "addr:street":"Ridge Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.196096,40.009751,-75.196096,40.009751",
     "geom:latitude":40.009751,
     "geom:longitude":-75.196096,
@@ -48,6 +53,7 @@
     "wof:belongsto":[
         85816289,
         102191575,
+        1108721809,
         404483701,
         85633793,
         101718083,
@@ -67,13 +73,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721809,
             "neighbourhood_id":85816289,
             "region_id":85688481,
             "venue_id":622262975
         }
     ],
     "wof:id":622262975,
-    "wof:lastmodified":1466789222,
+    "wof:lastmodified":1489034291,
     "wof:name":"Dunkin' Donuts",
     "wof:parent_id":85816289,
     "wof:placetype":"venue",

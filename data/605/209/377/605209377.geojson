@@ -2,9 +2,14 @@
   "id": 605209377,
   "type": "Feature",
   "properties": {
+    "addr:full":"1337 Cottman Ave Philadelphia PA 19111",
+    "addr:housenumber":"1337",
+    "addr:postcode":"19111",
+    "addr:street":"Cottman Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.076837,40.057517,-75.076837,40.057517",
     "geom:latitude":40.057517,
     "geom:longitude":-75.076837,
@@ -31,6 +36,7 @@
     "wof:belongsto":[
         85820411,
         102191575,
+        1108721807,
         404483701,
         85633793,
         101718083,
@@ -50,13 +56,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721807,
             "neighbourhood_id":85820411,
             "region_id":85688481,
             "venue_id":605209377
         }
     ],
     "wof:id":605209377,
-    "wof:lastmodified":1466787720,
+    "wof:lastmodified":1489033811,
     "wof:name":"Primary Home Care",
     "wof:parent_id":85820411,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 621986131,
   "type": "Feature",
   "properties": {
+    "addr:full":"5200 Unruh Ave Philadelphia PA 19135",
+    "addr:housenumber":"",
+    "addr:postcode":"5200;19135",
+    "addr:street":"Unruh Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.041333,40.018369,-75.041333,40.018369",
     "geom:latitude":40.018369,
     "geom:longitude":-75.041333,
@@ -29,18 +34,39 @@
     ],
     "sg:website":"www.baysales.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85851751,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0A8Tkj2t0agQoNnaA69ktc_40.018369_-75.041333@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"be72aca3aaf9471143d69e8fde37ced0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85851751,
+            "region_id":85688481,
+            "venue_id":621986131
+        }
+    ],
     "wof:id":621986131,
-    "wof:lastmodified":1466787140,
+    "wof:lastmodified":1489037253,
     "wof:name":"Bay Sales",
-    "wof:parent_id":-1,
+    "wof:parent_id":85851751,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

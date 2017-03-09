@@ -2,9 +2,14 @@
   "id": 622274555,
   "type": "Feature",
   "properties": {
+    "addr:full":"1245 S 3rd St Philadelphia PA 19147",
+    "addr:housenumber":"1245",
+    "addr:postcode":"19147",
+    "addr:street":"S 3Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.149628,39.932147,-75.149628,39.932147",
     "geom:latitude":39.932147,
     "geom:longitude":-75.149628,
@@ -31,6 +36,7 @@
     "wof:belongsto":[
         85841231,
         102191575,
+        1108721801,
         404483701,
         85633793,
         101718083,
@@ -50,13 +56,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721801,
             "neighbourhood_id":85841231,
             "region_id":85688481,
             "venue_id":622274555
         }
     ],
     "wof:id":622274555,
-    "wof:lastmodified":1466789476,
+    "wof:lastmodified":1489036563,
     "wof:name":"Caffe Valentino",
     "wof:parent_id":85841231,
     "wof:placetype":"venue",

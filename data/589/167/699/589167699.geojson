@@ -2,9 +2,14 @@
   "id": 589167699,
   "type": "Feature",
   "properties": {
+    "addr:full":"5711 W Jefferson St Philadelphia PA 19131",
+    "addr:housenumber":"5711",
+    "addr:postcode":"19131",
+    "addr:street":"W Jefferson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.239008,39.97916,-75.239008,39.97916",
     "geom:latitude":39.97916,
     "geom:longitude":-75.239008,
@@ -28,14 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85882387,
+        85839965,
         102191575,
+        1108721805,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85839965
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,25 +55,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85882387,
-            "region_id":85688481,
-            "venue_id":589167699
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721805,
             "neighbourhood_id":85839965,
             "region_id":85688481,
             "venue_id":589167699
         }
     ],
     "wof:id":589167699,
-    "wof:lastmodified":1466786621,
+    "wof:lastmodified":1489033285,
     "wof:name":"Ozro T Jones",
-    "wof:parent_id":-1,
+    "wof:parent_id":85839965,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

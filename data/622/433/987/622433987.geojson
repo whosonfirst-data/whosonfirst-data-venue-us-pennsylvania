@@ -2,9 +2,14 @@
   "id": 622433987,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 N Columbus Blvd Philadelphia PA 19106",
+    "addr:housenumber":"100",
+    "addr:postcode":"19106",
+    "addr:street":"N Columbus Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.140393,39.952286,-75.140393,39.952286",
     "geom:latitude":39.952286,
     "geom:longitude":-75.140393,
@@ -20,14 +25,15 @@
     "sg:website":"http://www.comfortinn.com/hotel-philadelphia-pennsylvania-PA405?promo=yplocal",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871417,
+        1108721905,
+        85893367,
         102191575,
+        1108721801,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85893367
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,25 +48,17 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85871417,
-            "region_id":85688481,
-            "venue_id":622433987
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721801,
+            "microhood_id":1108721905,
             "neighbourhood_id":85893367,
             "region_id":85688481,
             "venue_id":622433987
         }
     ],
     "wof:id":622433987,
-    "wof:lastmodified":1467081887,
+    "wof:lastmodified":1489039454,
     "wof:name":"Comfort Inn Downtown/Historic Area Philadelphia",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108721905,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

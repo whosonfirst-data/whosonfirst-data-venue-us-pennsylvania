@@ -2,9 +2,14 @@
   "id": 622455911,
   "type": "Feature",
   "properties": {
+    "addr:full":"500 Red Lion Rd Philadelphia PA 19115",
+    "addr:housenumber":"500",
+    "addr:postcode":"19115",
+    "addr:street":"Red Lion Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.041229,40.108391,-75.041229,40.108391",
     "geom:latitude":40.108391,
     "geom:longitude":-75.041229,
@@ -44,11 +49,13 @@
     "wof:belongsto":[
         85849295,
         102191575,
+        1108721807,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481
+        85688481,
+        85808641
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,15 +70,27 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721807,
             "neighbourhood_id":85849295,
+            "region_id":85688481,
+            "venue_id":622455911
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85808641,
             "region_id":85688481,
             "venue_id":622455911
         }
     ],
     "wof:id":622455911,
-    "wof:lastmodified":1467081903,
+    "wof:lastmodified":1489035688,
     "wof:name":"Bambi Educational Day Care Center",
-    "wof:parent_id":85849295,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

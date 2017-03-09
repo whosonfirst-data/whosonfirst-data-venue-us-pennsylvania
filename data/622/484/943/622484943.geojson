@@ -2,9 +2,14 @@
   "id": 622484943,
   "type": "Feature",
   "properties": {
+    "addr:full":"2015 W Allegheny Ave Philadelphia PA 19132",
+    "addr:housenumber":"2015",
+    "addr:postcode":"19132",
+    "addr:street":"W Allegheny Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.162636,40.002869,-75.162636,40.002869",
     "geom:latitude":40.002869,
     "geom:longitude":-75.162636,
@@ -19,14 +24,14 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420559057,
+        420782547,
         102191575,
+        1108721811,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85882379
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,25 +46,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":420559057,
-            "region_id":85688481,
-            "venue_id":622484943
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
-            "neighbourhood_id":85882379,
+            "macrohood_id":1108721811,
+            "neighbourhood_id":420782547,
             "region_id":85688481,
             "venue_id":622484943
         }
     ],
     "wof:id":622484943,
-    "wof:lastmodified":1467081924,
+    "wof:lastmodified":1489038629,
     "wof:name":"Quality Penn Products",
-    "wof:parent_id":-1,
+    "wof:parent_id":420782547,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

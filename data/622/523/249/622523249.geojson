@@ -2,9 +2,14 @@
   "id": 622523249,
   "type": "Feature",
   "properties": {
+    "addr:full":"600 Washington Ave. Philadelphia PA 19148",
+    "addr:housenumber":"600",
+    "addr:postcode":"19148",
+    "addr:street":"Washington Ave.",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.153881,39.935134,-75.153881,39.935134",
     "geom:latitude":39.935134,
     "geom:longitude":-75.153881,
@@ -27,6 +32,7 @@
     "wof:belongsto":[
         85805405,
         102191575,
+        1108721801,
         404483701,
         85633793,
         101718083,
@@ -46,13 +52,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721801,
             "neighbourhood_id":85805405,
             "region_id":85688481,
             "venue_id":622523249
         }
     ],
     "wof:id":622523249,
-    "wof:lastmodified":1467081953,
+    "wof:lastmodified":1489032742,
     "wof:name":"Hello Cafe",
     "wof:parent_id":85805405,
     "wof:placetype":"venue",

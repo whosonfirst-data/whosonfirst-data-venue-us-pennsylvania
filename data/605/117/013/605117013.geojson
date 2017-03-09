@@ -2,9 +2,14 @@
   "id": 605117013,
   "type": "Feature",
   "properties": {
+    "addr:full":"7601 State Rd Philadelphia PA 19136",
+    "addr:housenumber":"7601",
+    "addr:postcode":"19136",
+    "addr:street":"State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.023979,40.029677,-75.023979,40.029677",
     "geom:latitude":40.029677,
     "geom:longitude":-75.023979,
@@ -31,18 +36,39 @@
     ],
     "sg:website":"www.standex.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0qOnuiXMsPqbFWAu1cWzBw_40.029677_-75.023979@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"19ac2357e489c5fe17632a177c2ce930",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":605117013
+        }
+    ],
     "wof:id":605117013,
-    "wof:lastmodified":1466782989,
+    "wof:lastmodified":1489036090,
     "wof:name":"Acme Manufacturing Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

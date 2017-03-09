@@ -2,9 +2,14 @@
   "id": 622483795,
   "type": "Feature",
   "properties": {
+    "addr:full":"5600 Arlington St Philadelphia PA 19131",
+    "addr:housenumber":"5600",
+    "addr:postcode":"19131",
+    "addr:street":"Arlington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.234741,39.986099,-75.234741,39.986099",
     "geom:latitude":39.986099,
     "geom:longitude":-75.234741,
@@ -34,14 +39,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85882387,
+        85859223,
         102191575,
+        1108721805,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85859223
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,25 +61,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85882387,
-            "region_id":85688481,
-            "venue_id":622483795
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721805,
             "neighbourhood_id":85859223,
             "region_id":85688481,
             "venue_id":622483795
         }
     ],
     "wof:id":622483795,
-    "wof:lastmodified":1467081924,
+    "wof:lastmodified":1489033162,
     "wof:name":"Bethel Holiness Pentecostal Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":85859223,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

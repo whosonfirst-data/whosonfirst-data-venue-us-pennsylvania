@@ -2,9 +2,14 @@
   "id": 622263309,
   "type": "Feature",
   "properties": {
+    "addr:full":"3613 Rhawn St Philadelphia PA 19136",
+    "addr:housenumber":"3613",
+    "addr:postcode":"19136",
+    "addr:street":"Rhawn St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.028816,40.042169,-75.028816,40.042169",
     "geom:latitude":40.042169,
     "geom:longitude":-75.028816,
@@ -38,18 +43,39 @@
         "italian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0YdzQW9WRUCYxHkIOQjhnW_40.042169_-75.028816@1299784598"
     },
     "wof:country":"US",
     "wof:geomhash":"dfcaf8097ce39a39cda80053709be308",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":622263309
+        }
+    ],
     "wof:id":622263309,
-    "wof:lastmodified":1466789325,
+    "wof:lastmodified":1489036105,
     "wof:name":"Superior Pizza",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

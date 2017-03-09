@@ -2,9 +2,14 @@
   "id": 589253789,
   "type": "Feature",
   "properties": {
+    "addr:full":"4401 N Philip St Philadelphia PA 19140",
+    "addr:housenumber":"4401",
+    "addr:postcode":"19140",
+    "addr:street":"N Philip St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.129556,40.019028,-75.129556,40.019028",
     "geom:latitude":40.019028,
     "geom:longitude":-75.129556,
@@ -31,6 +36,7 @@
     "wof:belongsto":[
         85819107,
         102191575,
+        1108721809,
         404483701,
         85633793,
         101718083,
@@ -50,13 +56,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721809,
             "neighbourhood_id":85819107,
             "region_id":85688481,
             "venue_id":589253789
         }
     ],
     "wof:id":589253789,
-    "wof:lastmodified":1466789502,
+    "wof:lastmodified":1489034400,
     "wof:name":"Brown Machine Works",
     "wof:parent_id":85819107,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 589159775,
   "type": "Feature",
   "properties": {
+    "addr:full":"2200 Michener St Philadelphia PA 19115",
+    "addr:housenumber":"2200",
+    "addr:postcode":"19115",
+    "addr:street":"Michener St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.030805,40.079035,-75.030805,40.079035",
     "geom:latitude":40.079035,
     "geom:longitude":-75.030805,
@@ -29,14 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85824951,
+        85841257,
         102191575,
+        1108721807,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85841257
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,25 +56,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85824951,
-            "region_id":85688481,
-            "venue_id":589159775
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721807,
             "neighbourhood_id":85841257,
             "region_id":85688481,
             "venue_id":589159775
         }
     ],
     "wof:id":589159775,
-    "wof:lastmodified":1466786227,
+    "wof:lastmodified":1489033566,
     "wof:name":"Westford Financial Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85841257,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 622178787,
   "type": "Feature",
   "properties": {
+    "addr:full":"4011 Cottman Ave Philadelphia PA 19135",
+    "addr:housenumber":"4011",
+    "addr:postcode":"19135",
+    "addr:street":"Cottman Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.040296,40.036384,-75.040296,40.036384",
     "geom:latitude":40.036384,
     "geom:longitude":-75.040296,
@@ -30,18 +35,39 @@
     ],
     "sg:website":"http://www.riteaid.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Bb5hsyq1XzeapLaUxvZp5_40.036172_-75.039993@1293134755"
     },
     "wof:country":"US",
     "wof:geomhash":"70ff042b72f620ca7d2378886e3bbf1c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":622178787
+        }
+    ],
     "wof:id":622178787,
-    "wof:lastmodified":1466786625,
+    "wof:lastmodified":1489036099,
     "wof:name":"Rite Aid",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

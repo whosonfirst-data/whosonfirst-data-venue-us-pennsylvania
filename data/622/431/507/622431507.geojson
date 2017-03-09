@@ -2,9 +2,14 @@
   "id": 622431507,
   "type": "Feature",
   "properties": {
+    "addr:full":"220 S 33rd St Rm 297 Philadelphia PA 19104",
+    "addr:housenumber":"220;297",
+    "addr:postcode":"19104",
+    "addr:street":"S 33Rd St Rm",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.190272,39.951527,-75.190272,39.951527",
     "geom:latitude":39.951527,
     "geom:longitude":-75.190272,
@@ -32,6 +37,7 @@
     "wof:belongsto":[
         85853125,
         102191575,
+        1108721805,
         404483701,
         85633793,
         101718083,
@@ -51,13 +57,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721805,
             "neighbourhood_id":85853125,
             "region_id":85688481,
             "venue_id":622431507
         }
     ],
     "wof:id":622431507,
-    "wof:lastmodified":1467081885,
+    "wof:lastmodified":1489033081,
     "wof:name":"Penn Rgnal Nntechnology Fcilty",
     "wof:parent_id":85853125,
     "wof:placetype":"venue",

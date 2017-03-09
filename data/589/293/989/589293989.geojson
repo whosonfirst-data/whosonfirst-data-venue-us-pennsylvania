@@ -2,9 +2,14 @@
   "id": 589293989,
   "type": "Feature",
   "properties": {
+    "addr:full":"5040 Robbins Ave Philadelphia PA 19135",
+    "addr:housenumber":"5040",
+    "addr:postcode":"19135",
+    "addr:street":"Robbins Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.049519,40.015728,-75.049519,40.015728",
     "geom:latitude":40.015728,
     "geom:longitude":-75.049519,
@@ -33,18 +38,39 @@
         "industrial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85851751,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5qpMdcYL14sYRgzEVxD8iQ_40.015728_-75.049519@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"2bcb64da1b9d8a9984fe21f8a2bbde06",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85851751,
+            "region_id":85688481,
+            "venue_id":589293989
+        }
+    ],
     "wof:id":589293989,
-    "wof:lastmodified":1466790544,
+    "wof:lastmodified":1489037257,
     "wof:name":"L & R Shipping Supply Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":85851751,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

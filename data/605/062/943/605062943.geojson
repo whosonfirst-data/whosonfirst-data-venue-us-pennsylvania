@@ -2,9 +2,14 @@
   "id": 605062943,
   "type": "Feature",
   "properties": {
+    "addr:full":"4203 Bleigh Ave Philadelphia PA 19136",
+    "addr:housenumber":"4203",
+    "addr:postcode":"19136",
+    "addr:street":"Bleigh Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.036053,40.03572,-75.036053,40.03572",
     "geom:latitude":40.03572,
     "geom:longitude":-75.036053,
@@ -28,18 +33,39 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ryDf1UoXrLIAoAwrVe2hW_40.035720_-75.036053@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"70121c4fe3453b71090a9dfb23844478",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":605062943
+        }
+    ],
     "wof:id":605062943,
-    "wof:lastmodified":1466779794,
+    "wof:lastmodified":1489036099,
     "wof:name":"Conway Brothers Roofing",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 589093295,
   "type": "Feature",
   "properties": {
+    "addr:full":"403 N 60th St Philadelphia PA 19151",
+    "addr:housenumber":"403",
+    "addr:postcode":"19151",
+    "addr:street":"N 60Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.239058,39.969857,-75.239058,39.969857",
     "geom:latitude":39.969857,
     "geom:longitude":-75.239058,
@@ -28,14 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85882387,
+        420539515,
         102191575,
+        1108721805,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        420539515
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,25 +55,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85882387,
-            "region_id":85688481,
-            "venue_id":589093295
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721805,
             "neighbourhood_id":420539515,
             "region_id":85688481,
             "venue_id":589093295
         }
     ],
     "wof:id":589093295,
-    "wof:lastmodified":1466783240,
+    "wof:lastmodified":1489032912,
     "wof:name":"Christ Evangelical Baptist Chr",
-    "wof:parent_id":-1,
+    "wof:parent_id":420539515,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

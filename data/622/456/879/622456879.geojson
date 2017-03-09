@@ -2,9 +2,14 @@
   "id": 622456879,
   "type": "Feature",
   "properties": {
+    "addr:full":"617 Maple Ave Philadelphia PA 19116",
+    "addr:housenumber":"617",
+    "addr:postcode":"19116",
+    "addr:street":"Maple Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.012331,40.129835,-75.012331,40.129835",
     "geom:latitude":40.129835,
     "geom:longitude":-75.012331,
@@ -42,6 +47,7 @@
     "wof:belongsto":[
         85849295,
         102191575,
+        1108721807,
         404483701,
         85633793,
         101718083,
@@ -61,13 +67,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721807,
             "neighbourhood_id":85849295,
             "region_id":85688481,
             "venue_id":622456879
         }
     ],
     "wof:id":622456879,
-    "wof:lastmodified":1467081904,
+    "wof:lastmodified":1489033700,
     "wof:name":"Mike & Mary's Mechanical Inc",
     "wof:parent_id":85849295,
     "wof:placetype":"venue",

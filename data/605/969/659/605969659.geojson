@@ -2,9 +2,14 @@
   "id": 605969659,
   "type": "Feature",
   "properties": {
+    "addr:full":"5130 Market St Philadelphia PA 19139",
+    "addr:housenumber":"5130",
+    "addr:postcode":"19139",
+    "addr:street":"Market St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.224868,39.960004,-75.224868,39.960004",
     "geom:latitude":39.960004,
     "geom:longitude":-75.224868,
@@ -30,14 +35,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108721785,
         85854345,
         102191575,
+        1108721805,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85893313
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,25 +58,17 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721805,
+            "microhood_id":1108721785,
             "neighbourhood_id":85854345,
-            "region_id":85688481,
-            "venue_id":605969659
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
-            "neighbourhood_id":85893313,
             "region_id":85688481,
             "venue_id":605969659
         }
     ],
     "wof:id":605969659,
-    "wof:lastmodified":1467081832,
+    "wof:lastmodified":1489038907,
     "wof:name":"Pageone Communications",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108721785,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

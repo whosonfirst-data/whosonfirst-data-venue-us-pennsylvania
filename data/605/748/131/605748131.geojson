@@ -2,9 +2,14 @@
   "id": 605748131,
   "type": "Feature",
   "properties": {
+    "addr:full":"1249 E Sydney St Philadelphia PA 19150",
+    "addr:housenumber":"1249",
+    "addr:postcode":"19150",
+    "addr:street":"E Sydney St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.175386,40.07399,-75.175386,40.07399",
     "geom:latitude":40.07399,
     "geom:longitude":-75.175386,
@@ -32,6 +37,7 @@
     "wof:belongsto":[
         85810045,
         102191575,
+        1108721809,
         404483701,
         85633793,
         101718083,
@@ -51,13 +57,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721809,
             "neighbourhood_id":85810045,
             "region_id":85688481,
             "venue_id":605748131
         }
     ],
     "wof:id":605748131,
-    "wof:lastmodified":1467081690,
+    "wof:lastmodified":1489034441,
     "wof:name":"A Bit of Whimsy",
     "wof:parent_id":85810045,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 622074797,
   "type": "Feature",
   "properties": {
+    "addr:full":"5231 Frankford Ave Philadelphia PA 19124",
+    "addr:housenumber":"5231",
+    "addr:postcode":"19124",
+    "addr:street":"Frankford Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.076839,40.023257,-75.076839,40.023257",
     "geom:latitude":40.023257,
     "geom:longitude":-75.076839,
@@ -36,11 +41,13 @@
     "wof:belongsto":[
         85820547,
         102191575,
+        1108721807,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481
+        85688481,
+        85858409
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,15 +62,27 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721807,
             "neighbourhood_id":85820547,
+            "region_id":85688481,
+            "venue_id":622074797
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85858409,
             "region_id":85688481,
             "venue_id":622074797
         }
     ],
     "wof:id":622074797,
-    "wof:lastmodified":1466781928,
+    "wof:lastmodified":1489035986,
     "wof:name":"Continental Inn",
-    "wof:parent_id":85820547,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

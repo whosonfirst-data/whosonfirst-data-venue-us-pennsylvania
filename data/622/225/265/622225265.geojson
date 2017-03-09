@@ -2,9 +2,14 @@
   "id": 622225265,
   "type": "Feature",
   "properties": {
+    "addr:full":"4923 National St Philadelphia PA 19135",
+    "addr:housenumber":"4923",
+    "addr:postcode":"19135",
+    "addr:street":"National St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.034584,40.0255,-75.034584,40.0255",
     "geom:latitude":40.0255,
     "geom:longitude":-75.034584,
@@ -32,18 +37,39 @@
         "carpet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85851751,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6fgOtUHWz5oh7T6tEIG0xm_40.025552_-75.034551@1293134755"
     },
     "wof:country":"US",
     "wof:geomhash":"db4ed06d1c0079571da13d07a476eaed",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85851751,
+            "region_id":85688481,
+            "venue_id":622225265
+        }
+    ],
     "wof:id":622225265,
-    "wof:lastmodified":1466788216,
+    "wof:lastmodified":1489037256,
     "wof:name":"Piccari Construction Co Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85851751,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

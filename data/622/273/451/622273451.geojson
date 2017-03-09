@@ -2,9 +2,14 @@
   "id": 622273451,
   "type": "Feature",
   "properties": {
+    "addr:full":"108 N 10th St Philadelphia PA 19107",
+    "addr:housenumber":"108",
+    "addr:postcode":"19107",
+    "addr:street":"N 10Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.156225,39.953801,-75.156225,39.953801",
     "geom:latitude":39.953801,
     "geom:longitude":-75.156225,
@@ -32,12 +37,12 @@
     "wof:belongsto":[
         85810893,
         102191575,
+        1108721797,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85871425
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,25 +57,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721797,
             "neighbourhood_id":85810893,
-            "region_id":85688481,
-            "venue_id":622273451
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
-            "neighbourhood_id":85871425,
             "region_id":85688481,
             "venue_id":622273451
         }
     ],
     "wof:id":622273451,
-    "wof:lastmodified":1466789666,
+    "wof:lastmodified":1489031497,
     "wof:name":"Empress Garden",
-    "wof:parent_id":-1,
+    "wof:parent_id":85810893,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

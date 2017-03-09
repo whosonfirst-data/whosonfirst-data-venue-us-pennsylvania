@@ -2,9 +2,14 @@
   "id": 622262831,
   "type": "Feature",
   "properties": {
+    "addr:full":"5543 Torresdale Ave Philadelphia PA 19124",
+    "addr:housenumber":"5543",
+    "addr:postcode":"19124",
+    "addr:street":"Torresdale Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.063849,40.015299,-75.063849,40.015299",
     "geom:latitude":40.015299,
     "geom:longitude":-75.063849,
@@ -32,6 +37,7 @@
     "wof:belongsto":[
         85858409,
         102191575,
+        1108721807,
         404483701,
         85633793,
         101718083,
@@ -51,13 +57,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721807,
             "neighbourhood_id":85858409,
             "region_id":85688481,
             "venue_id":622262831
         }
     ],
     "wof:id":622262831,
-    "wof:lastmodified":1466789312,
+    "wof:lastmodified":1489033769,
     "wof:name":"Lucky House",
     "wof:parent_id":85858409,
     "wof:placetype":"venue",

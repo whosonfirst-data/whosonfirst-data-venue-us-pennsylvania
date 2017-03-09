@@ -2,9 +2,14 @@
   "id": 589225439,
   "type": "Feature",
   "properties": {
+    "addr:full":"6834 Marsden St Philadelphia PA 19135",
+    "addr:housenumber":"",
+    "addr:postcode":"6834;19135",
+    "addr:street":"Marsden St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.044131,40.026303,-75.044131,40.026303",
     "geom:latitude":40.026303,
     "geom:longitude":-75.044131,
@@ -28,18 +33,39 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85851751,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_69FYjIb7OK6Unk9EC4Rlvw_40.026303_-75.044131@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"72af68dfd5139df8693021f15fa805fc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85851751,
+            "region_id":85688481,
+            "venue_id":589225439
+        }
+    ],
     "wof:id":589225439,
-    "wof:lastmodified":1466788808,
+    "wof:lastmodified":1489037232,
     "wof:name":"William E Grau Cooling and Htg",
-    "wof:parent_id":-1,
+    "wof:parent_id":85851751,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 622219675,
   "type": "Feature",
   "properties": {
+    "addr:full":"612 Washington Ave Philadelphia PA 19147",
+    "addr:housenumber":"612",
+    "addr:postcode":"19147",
+    "addr:street":"Washington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.155391,39.935547,-75.155391,39.935547",
     "geom:latitude":39.935547,
     "geom:longitude":-75.155391,
@@ -22,18 +27,39 @@
         "facsimile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85893365,
+        102191575,
+        1108721801,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5UZt0T1FCL8jlk34Weuq51_39.935547_-75.155391@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"154e17c996069bd662e91236e86291ea",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721801,
+            "neighbourhood_id":85893365,
+            "region_id":85688481,
+            "venue_id":622219675
+        }
+    ],
     "wof:id":622219675,
-    "wof:lastmodified":1466788089,
+    "wof:lastmodified":1489038165,
     "wof:name":"Vietnam Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893365,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

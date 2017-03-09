@@ -2,9 +2,14 @@
   "id": 622505693,
   "type": "Feature",
   "properties": {
+    "addr:full":"601 S 52nd St Philadelphia PA 19143",
+    "addr:housenumber":"601",
+    "addr:postcode":"19143",
+    "addr:street":"S 52Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.226868,39.950451,-75.226868,39.950451",
     "geom:latitude":39.950451,
     "geom:longitude":-75.226868,
@@ -28,14 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420539465,
+        85811587,
         102191575,
+        1108721805,
         404483701,
         85633793,
         101718083,
         102081353,
         85688481,
-        85803155
+        420539465
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,7 +56,8 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":420539465,
+            "macrohood_id":1108721805,
+            "neighbourhood_id":85811587,
             "region_id":85688481,
             "venue_id":622505693
         },
@@ -60,15 +67,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85803155,
+            "macrohood_id":1108721805,
+            "neighbourhood_id":420539465,
             "region_id":85688481,
             "venue_id":622505693
         }
     ],
     "wof:id":622505693,
-    "wof:lastmodified":1467081940,
+    "wof:lastmodified":1489035796,
     "wof:name":"Cash Management Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 622145381,
   "type": "Feature",
   "properties": {
+    "addr:full":"5128 Market St Philadelphia PA 19139",
+    "addr:housenumber":"5128",
+    "addr:postcode":"19139",
+    "addr:street":"Market St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.2229,39.959745,-75.2229,39.959745",
     "geom:latitude":39.959745,
     "geom:longitude":-75.2229,
@@ -30,11 +35,13 @@
     "wof:belongsto":[
         85854345,
         102191575,
+        1108721805,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481
+        85688481,
+        85871409
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +56,27 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721805,
             "neighbourhood_id":85854345,
+            "region_id":85688481,
+            "venue_id":622145381
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721805,
+            "neighbourhood_id":85871409,
             "region_id":85688481,
             "venue_id":622145381
         }
     ],
     "wof:id":622145381,
-    "wof:lastmodified":1466785148,
+    "wof:lastmodified":1489033032,
     "wof:name":"Ralph's Salon",
-    "wof:parent_id":85854345,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

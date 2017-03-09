@@ -2,9 +2,14 @@
   "id": 622200981,
   "type": "Feature",
   "properties": {
+    "addr:full":"3405 Welsh Rd Philadelphia PA 19136",
+    "addr:housenumber":"3405",
+    "addr:postcode":"19136",
+    "addr:street":"Welsh Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.026572,40.045641,-75.026572,40.045641",
     "geom:latitude":40.045641,
     "geom:longitude":-75.026572,
@@ -29,18 +34,39 @@
         "fraternal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4A4sCNldMXvG9SnbWebTFj_40.045289_-75.026440@1293134755"
     },
     "wof:country":"US",
     "wof:geomhash":"439e804371f26541402f7191cf718a67",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":622200981
+        }
+    ],
     "wof:id":622200981,
-    "wof:lastmodified":1466787607,
+    "wof:lastmodified":1489036121,
     "wof:name":"Lourdes Home Association",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

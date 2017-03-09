@@ -2,9 +2,14 @@
   "id": 622207219,
   "type": "Feature",
   "properties": {
+    "addr:full":"7930 State Rd Philadelphia PA 19136",
+    "addr:housenumber":"7930",
+    "addr:postcode":"19136",
+    "addr:street":"State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.02259,40.030819,-75.02259,40.030819",
     "geom:latitude":40.030819,
     "geom:longitude":-75.02259,
@@ -28,18 +33,39 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Q1vzHnOMTQkELrkvtYyew_40.031006_-75.022220@1293134755"
     },
     "wof:country":"US",
     "wof:geomhash":"7dd4a210ee58eaf21ff5633ae39f5e6f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":622207219
+        }
+    ],
     "wof:id":622207219,
-    "wof:lastmodified":1466787710,
+    "wof:lastmodified":1489036119,
     "wof:name":"Frankford Umbrellas",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

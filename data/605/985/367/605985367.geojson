@@ -2,9 +2,14 @@
   "id": 605985367,
   "type": "Feature",
   "properties": {
+    "addr:full":"6225 Lansdowne Ave Philadelphia PA 19151",
+    "addr:housenumber":"6225",
+    "addr:postcode":"19151",
+    "addr:street":"Lansdowne Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.245539,39.97533,-75.245539,39.97533",
     "geom:latitude":39.97533,
     "geom:longitude":-75.245539,
@@ -28,18 +33,41 @@
         "check"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108723393,
+        85839965,
+        102191575,
+        1108721805,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_13h2ABhd9byUi8ngQopfZX_39.975330_-75.245539@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"0985ca5efd7ff95545d24d57a908c715",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721805,
+            "microhood_id":1108723393,
+            "neighbourhood_id":85839965,
+            "region_id":85688481,
+            "venue_id":605985367
+        }
+    ],
     "wof:id":605985367,
-    "wof:lastmodified":1467081844,
+    "wof:lastmodified":1489039678,
     "wof:name":"Lucky Cash LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108723393,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

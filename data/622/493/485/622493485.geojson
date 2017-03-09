@@ -2,9 +2,14 @@
   "id": 622493485,
   "type": "Feature",
   "properties": {
+    "addr:full":"3600 Stanwood St Philadelphia PA 19136",
+    "addr:housenumber":"3600",
+    "addr:postcode":"19136",
+    "addr:street":"Stanwood St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.024529,40.043968,-75.024529,40.043968",
     "geom:latitude":40.043968,
     "geom:longitude":-75.024529,
@@ -40,18 +45,39 @@
     ],
     "sg:website":"http://phila.k12.pa.us",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5TZ1YLPy7hDUAMb7AMsxu4_40.043968_-75.024529@1303262458"
     },
     "wof:country":"US",
     "wof:geomhash":"1c5e43876e334fbedb03b2ec007d79bf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":622493485
+        }
+    ],
     "wof:id":622493485,
-    "wof:lastmodified":1467081931,
+    "wof:lastmodified":1489036112,
     "wof:name":"J H Brown School",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

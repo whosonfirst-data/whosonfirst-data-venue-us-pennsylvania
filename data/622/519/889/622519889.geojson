@@ -2,9 +2,14 @@
   "id": 622519889,
   "type": "Feature",
   "properties": {
+    "addr:full":"601 Carpenter St Philadelphia PA 19147",
+    "addr:housenumber":"601",
+    "addr:postcode":"19147",
+    "addr:street":"Carpenter St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.153534,39.936512,-75.153534,39.936512",
     "geom:latitude":39.936512,
     "geom:longitude":-75.153534,
@@ -32,6 +37,7 @@
     "wof:belongsto":[
         420539461,
         102191575,
+        1108721801,
         404483701,
         85633793,
         101718083,
@@ -51,13 +57,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721801,
             "neighbourhood_id":420539461,
             "region_id":85688481,
             "venue_id":622519889
         }
     ],
     "wof:id":622519889,
-    "wof:lastmodified":1467081950,
+    "wof:lastmodified":1489032742,
     "wof:name":"Philadelphia School District",
     "wof:parent_id":420539461,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 622485595,
   "type": "Feature",
   "properties": {
+    "addr:full":"3411 Ridge Ave Philadelphia PA 19132",
+    "addr:housenumber":"3411",
+    "addr:postcode":"19132",
+    "addr:street":"Ridge Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.187293,39.995026,-75.187293,39.995026",
     "geom:latitude":39.995026,
     "geom:longitude":-75.187293,
@@ -37,13 +42,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420539497,
+        85851257,
         102191575,
+        1108721811,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481
+        85688481,
+        420539497
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,15 +65,27 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721811,
+            "neighbourhood_id":85851257,
+            "region_id":85688481,
+            "venue_id":622485595
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721811,
             "neighbourhood_id":420539497,
             "region_id":85688481,
             "venue_id":622485595
         }
     ],
     "wof:id":622485595,
-    "wof:lastmodified":1467081925,
+    "wof:lastmodified":1489037217,
     "wof:name":"Cecil B Moore Community Foundation",
-    "wof:parent_id":420539497,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

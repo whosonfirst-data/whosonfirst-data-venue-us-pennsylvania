@@ -2,9 +2,14 @@
   "id": 622399971,
   "type": "Feature",
   "properties": {
+    "addr:full":"222 N 17th St Fl 11 Philadelphia PA 19103",
+    "addr:housenumber":"222;11",
+    "addr:postcode":"19103",
+    "addr:street":"N 17Th St Fl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.167405,39.957694,-75.167405,39.957694",
     "geom:latitude":39.957694,
     "geom:longitude":-75.167405,
@@ -25,14 +30,14 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871423,
+        85871427,
         102191575,
+        1108721797,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85871427
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,25 +52,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85871423,
-            "region_id":85688481,
-            "venue_id":622399971
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721797,
             "neighbourhood_id":85871427,
             "region_id":85688481,
             "venue_id":622399971
         }
     ],
     "wof:id":622399971,
-    "wof:lastmodified":1467081862,
+    "wof:lastmodified":1489031135,
     "wof:name":"Parish Financial Services",
-    "wof:parent_id":-1,
+    "wof:parent_id":85871427,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

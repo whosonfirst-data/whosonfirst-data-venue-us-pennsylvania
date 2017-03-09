@@ -2,9 +2,14 @@
   "id": 605974003,
   "type": "Feature",
   "properties": {
+    "addr:full":"7309 State Rd Philadelphia PA 19136",
+    "addr:housenumber":"7309",
+    "addr:postcode":"19136",
+    "addr:street":"State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.028948,40.027143,-75.028948,40.027143",
     "geom:latitude":40.027143,
     "geom:longitude":-75.028948,
@@ -29,18 +34,39 @@
         "painting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0T5WGKUyNL8hhuVkbyfoWD_40.027143_-75.028948@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"18f41f52a9d48c10a1313ee50c0f363e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":605974003
+        }
+    ],
     "wof:id":605974003,
-    "wof:lastmodified":1467081835,
+    "wof:lastmodified":1489036110,
     "wof:name":"Patrick's Auto Body",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

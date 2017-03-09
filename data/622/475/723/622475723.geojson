@@ -2,9 +2,14 @@
   "id": 622475723,
   "type": "Feature",
   "properties": {
+    "addr:full":"4200 Mitchell St Philadelphia PA 19128",
+    "addr:housenumber":"4200",
+    "addr:postcode":"19128",
+    "addr:street":"Mitchell St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.2123,40.027699,-75.2123,40.027699",
     "geom:latitude":40.027699,
     "geom:longitude":-75.2123,
@@ -30,6 +35,7 @@
     "wof:belongsto":[
         85846269,
         102191575,
+        1108721809,
         404483701,
         85633793,
         101718083,
@@ -49,13 +55,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721809,
             "neighbourhood_id":85846269,
             "region_id":85688481,
             "venue_id":622475723
         }
     ],
     "wof:id":622475723,
-    "wof:lastmodified":1467081918,
+    "wof:lastmodified":1489034286,
     "wof:name":"Computer Expressions",
     "wof:parent_id":85846269,
     "wof:placetype":"venue",

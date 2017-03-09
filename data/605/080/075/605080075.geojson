@@ -2,9 +2,14 @@
   "id": 605080075,
   "type": "Feature",
   "properties": {
+    "addr:full":"4819 Cottman Ave Philadelphia PA 19135",
+    "addr:housenumber":"4819",
+    "addr:postcode":"19135",
+    "addr:street":"Cottman Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.033519,40.028167,-75.033519,40.028167",
     "geom:latitude":40.028167,
     "geom:longitude":-75.033519,
@@ -27,18 +32,39 @@
         "body"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5oGgwH9QlJGjaoGVfqUPT6_40.028167_-75.033519@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"5b51611638583d1b9c7750d20b1aab24",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":605080075
+        }
+    ],
     "wof:id":605080075,
-    "wof:lastmodified":1466780593,
+    "wof:lastmodified":1489036094,
     "wof:name":"Lens Auto Body",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

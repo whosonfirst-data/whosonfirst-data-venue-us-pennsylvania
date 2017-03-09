@@ -2,9 +2,14 @@
   "id": 588796095,
   "type": "Feature",
   "properties": {
+    "addr:full":"2021 Arch St Philadelphia PA 19103",
+    "addr:housenumber":"2021",
+    "addr:postcode":"19103",
+    "addr:street":"Arch St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.174329,39.955869,-75.174329,39.955869",
     "geom:latitude":39.955869,
     "geom:longitude":-75.174329,
@@ -31,12 +36,12 @@
     "wof:belongsto":[
         85871427,
         102191575,
+        1108721797,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85866793
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,25 +56,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721797,
             "neighbourhood_id":85871427,
-            "region_id":85688481,
-            "venue_id":588796095
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
-            "neighbourhood_id":85866793,
             "region_id":85688481,
             "venue_id":588796095
         }
     ],
     "wof:id":588796095,
-    "wof:lastmodified":1466778908,
+    "wof:lastmodified":1489031493,
     "wof:name":"103 Township Line Associates",
-    "wof:parent_id":-1,
+    "wof:parent_id":85871427,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

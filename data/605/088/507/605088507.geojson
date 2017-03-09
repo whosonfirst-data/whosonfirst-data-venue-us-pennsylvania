@@ -2,9 +2,14 @@
   "id": 605088507,
   "type": "Feature",
   "properties": {
+    "addr:full":"2310 W Glenwood Ave Philadelphia PA 19121",
+    "addr:housenumber":"2310",
+    "addr:postcode":"19121",
+    "addr:street":"W Glenwood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.173882,39.988032,-75.173882,39.988032",
     "geom:latitude":39.988032,
     "geom:longitude":-75.173882,
@@ -28,14 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420559133,
+        1108723483,
         102191575,
+        1108721811,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85851003
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,25 +55,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":420559133,
-            "region_id":85688481,
-            "venue_id":605088507
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
-            "neighbourhood_id":85851003,
+            "macrohood_id":1108721811,
+            "neighbourhood_id":1108723483,
             "region_id":85688481,
             "venue_id":605088507
         }
     ],
     "wof:id":605088507,
-    "wof:lastmodified":1466781431,
+    "wof:lastmodified":1489038863,
     "wof:name":"Aroma ME Candles",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108723483,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

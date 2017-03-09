@@ -2,9 +2,14 @@
   "id": 622223479,
   "type": "Feature",
   "properties": {
+    "addr:full":"7920 State Rd Philadelphia PA 19136",
+    "addr:housenumber":"7920",
+    "addr:postcode":"19136",
+    "addr:street":"State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.022708,40.030754,-75.022708,40.030754",
     "geom:latitude":40.030754,
     "geom:longitude":-75.022708,
@@ -39,18 +44,39 @@
     ],
     "sg:website":"http://www.completefinishings.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Ahb11d0dKTxoK14vnDWH2_40.031023_-75.022197@1293134755"
     },
     "wof:country":"US",
     "wof:geomhash":"622cf1b0e06840cd6e5f3fa3fafa55f5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":622223479
+        }
+    ],
     "wof:id":622223479,
-    "wof:lastmodified":1466788173,
+    "wof:lastmodified":1489036084,
     "wof:name":"Complete Finishings",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

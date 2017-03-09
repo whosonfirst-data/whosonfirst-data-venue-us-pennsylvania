@@ -2,9 +2,14 @@
   "id": 589295345,
   "type": "Feature",
   "properties": {
+    "addr:full":"5138 Walnut St Philadelphia PA 19139",
+    "addr:housenumber":"5138",
+    "addr:postcode":"19139",
+    "addr:street":"Walnut St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.224939,39.956784,-75.224939,39.956784",
     "geom:latitude":39.956784,
     "geom:longitude":-75.224939,
@@ -29,14 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85803155,
+        85854345,
         102191575,
+        1108721805,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85854345
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,25 +56,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85803155,
-            "region_id":85688481,
-            "venue_id":589295345
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721805,
             "neighbourhood_id":85854345,
             "region_id":85688481,
             "venue_id":589295345
         }
     ],
     "wof:id":589295345,
-    "wof:lastmodified":1466790395,
+    "wof:lastmodified":1489037386,
     "wof:name":"Art & Johns Printing Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85854345,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

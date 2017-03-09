@@ -2,9 +2,14 @@
   "id": 605915719,
   "type": "Feature",
   "properties": {
+    "addr:full":"5200 Comly St Philadelphia PA 19135",
+    "addr:housenumber":"5200",
+    "addr:postcode":"19135",
+    "addr:street":"Comly St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.053986,40.01161,-75.053986,40.01161",
     "geom:latitude":40.01161,
     "geom:longitude":-75.053986,
@@ -28,18 +33,39 @@
         "fitting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85851751,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3kyNq6QtD9RB8WsUDRcVbJ_40.011610_-75.053986@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"045c5ebf2c00a6c165aa962c17dc7107",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85851751,
+            "region_id":85688481,
+            "venue_id":605915719
+        }
+    ],
     "wof:id":605915719,
-    "wof:lastmodified":1467081795,
+    "wof:lastmodified":1489037233,
     "wof:name":"Midstates Spiral",
-    "wof:parent_id":-1,
+    "wof:parent_id":85851751,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 622435271,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 S 2nd Street Philadelphia PA 19106",
+    "addr:housenumber":"10",
+    "addr:postcode":"19106",
+    "addr:street":"S 2Nd Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.143776,39.949712,-75.143776,39.949712",
     "geom:latitude":39.949712,
     "geom:longitude":-75.143776,
@@ -26,14 +31,14 @@
     "sg:website":"www.32lounge.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871417,
+        85839299,
         102191575,
+        1108721797,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85839299
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,25 +53,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85871417,
-            "region_id":85688481,
-            "venue_id":622435271
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721797,
             "neighbourhood_id":85839299,
             "region_id":85688481,
             "venue_id":622435271
         }
     ],
     "wof:id":622435271,
-    "wof:lastmodified":1467081888,
+    "wof:lastmodified":1489031878,
     "wof:name":"32 Degrees Lounge",
-    "wof:parent_id":-1,
+    "wof:parent_id":85839299,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

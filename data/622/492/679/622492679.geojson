@@ -2,9 +2,14 @@
   "id": 622492679,
   "type": "Feature",
   "properties": {
+    "addr:full":"6420 Frankford Ave Philadelphia PA 19135",
+    "addr:housenumber":"6420",
+    "addr:postcode":"19135",
+    "addr:street":"Frankford Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.057266,40.028809,-75.057266,40.028809",
     "geom:latitude":40.028809,
     "geom:longitude":-75.057266,
@@ -61,6 +66,7 @@
     "wof:belongsto":[
         85832953,
         102191575,
+        1108721807,
         404483701,
         85633793,
         101718083,
@@ -80,13 +86,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721807,
             "neighbourhood_id":85832953,
             "region_id":85688481,
             "venue_id":622492679
         }
     ],
     "wof:id":622492679,
-    "wof:lastmodified":1467081930,
+    "wof:lastmodified":1489033919,
     "wof:name":"RadioShack",
     "wof:parent_id":85832953,
     "wof:placetype":"venue",

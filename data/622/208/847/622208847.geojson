@@ -2,9 +2,14 @@
   "id": 622208847,
   "type": "Feature",
   "properties": {
+    "addr:full":"6713 Hegerman St Philadelphia PA 19135",
+    "addr:housenumber":"6713",
+    "addr:postcode":"19135",
+    "addr:street":"Hegerman St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.045455,40.023376,-75.045455,40.023376",
     "geom:latitude":40.023376,
     "geom:longitude":-75.045455,
@@ -30,18 +35,39 @@
         "social"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85851751,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4v8e9FiE1CB6UwrD2wHxSq_40.023525_-75.044931@1293134755"
     },
     "wof:country":"US",
     "wof:geomhash":"19608b9c2e2a338a3df8769f85ee5c50",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85851751,
+            "region_id":85688481,
+            "venue_id":622208847
+        }
+    ],
     "wof:id":622208847,
-    "wof:lastmodified":1466787884,
+    "wof:lastmodified":1489037239,
     "wof:name":"Radio Security System Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85851751,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

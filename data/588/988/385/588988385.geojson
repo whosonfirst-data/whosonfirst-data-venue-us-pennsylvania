@@ -2,9 +2,14 @@
   "id": 588988385,
   "type": "Feature",
   "properties": {
+    "addr:full":"1501 Stenton Ave Philadelphia PA 19141",
+    "addr:housenumber":"1501",
+    "addr:postcode":"19141",
+    "addr:street":"Stenton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.144959,40.04868,-75.144959,40.04868",
     "geom:latitude":40.04868,
     "geom:longitude":-75.144959,
@@ -28,13 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871397,
+        85856037,
         102191575,
+        1108721809,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481
+        85688481,
+        85871397
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +56,27 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721809,
+            "neighbourhood_id":85856037,
+            "region_id":85688481,
+            "venue_id":588988385
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721809,
             "neighbourhood_id":85871397,
             "region_id":85688481,
             "venue_id":588988385
         }
     ],
     "wof:id":588988385,
-    "wof:lastmodified":1466787367,
+    "wof:lastmodified":1489034252,
     "wof:name":"Owen W Williamson MD",
-    "wof:parent_id":85871397,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

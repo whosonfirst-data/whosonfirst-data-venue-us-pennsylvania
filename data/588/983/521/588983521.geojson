@@ -2,9 +2,14 @@
   "id": 588983521,
   "type": "Feature",
   "properties": {
+    "addr:full":"2001 W Moyamensing Ave Philadelphia PA 19145",
+    "addr:housenumber":"2001",
+    "addr:postcode":"19145",
+    "addr:street":"W Moyamensing Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.18486,39.912901,-75.18486,39.912901",
     "geom:latitude":39.912901,
     "geom:longitude":-75.18486,
@@ -29,14 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865521,
+        420782601,
         102191575,
+        1108721801,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        420558463
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,25 +56,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85865521,
-            "region_id":85688481,
-            "venue_id":588983521
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
-            "neighbourhood_id":420558463,
+            "macrohood_id":1108721801,
+            "neighbourhood_id":420782601,
             "region_id":85688481,
             "venue_id":588983521
         }
     ],
     "wof:id":588983521,
-    "wof:lastmodified":1466787276,
+    "wof:lastmodified":1489038685,
     "wof:name":"Opera House",
-    "wof:parent_id":-1,
+    "wof:parent_id":420782601,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

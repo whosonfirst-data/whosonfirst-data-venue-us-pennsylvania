@@ -2,9 +2,14 @@
   "id": 622455603,
   "type": "Feature",
   "properties": {
+    "addr:full":"1903 Grant Ave Philadelphia PA 19115",
+    "addr:housenumber":"1903",
+    "addr:postcode":"19115",
+    "addr:street":"Grant Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.035343,40.084474,-75.035343,40.084474",
     "geom:latitude":40.084474,
     "geom:longitude":-75.035343,
@@ -37,6 +42,7 @@
     "wof:belongsto":[
         85808641,
         102191575,
+        1108721807,
         404483701,
         85633793,
         101718083,
@@ -56,13 +62,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721807,
             "neighbourhood_id":85808641,
             "region_id":85688481,
             "venue_id":622455603
         }
     ],
     "wof:id":622455603,
-    "wof:lastmodified":1467081903,
+    "wof:lastmodified":1489033457,
     "wof:name":"Cruise Agency",
     "wof:parent_id":85808641,
     "wof:placetype":"venue",

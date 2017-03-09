@@ -2,9 +2,14 @@
   "id": 622222663,
   "type": "Feature",
   "properties": {
+    "addr:full":"2004 Fairmount Ave Philadelphia PA 19130",
+    "addr:housenumber":"2004",
+    "addr:postcode":"19130",
+    "addr:street":"Fairmount Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.170461,39.967155,-75.170461,39.967155",
     "geom:latitude":39.967155,
     "geom:longitude":-75.170461,
@@ -35,6 +40,7 @@
     "wof:belongsto":[
         420539525,
         102191575,
+        1108721811,
         404483701,
         85633793,
         101718083,
@@ -54,13 +60,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721811,
             "neighbourhood_id":420539525,
             "region_id":85688481,
             "venue_id":622222663
         }
     ],
     "wof:id":622222663,
-    "wof:lastmodified":1466788089,
+    "wof:lastmodified":1489034892,
     "wof:name":"Philly Flavors",
     "wof:parent_id":420539525,
     "wof:placetype":"venue",

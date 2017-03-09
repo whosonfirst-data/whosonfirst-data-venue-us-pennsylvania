@@ -2,9 +2,14 @@
   "id": 605900801,
   "type": "Feature",
   "properties": {
+    "addr:full":"5892 Henry Ave Philadelphia PA 19128",
+    "addr:housenumber":"5892",
+    "addr:postcode":"19128",
+    "addr:street":"Henry Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.207302,40.03065,-75.207302,40.03065",
     "geom:latitude":40.03065,
     "geom:longitude":-75.207302,
@@ -31,6 +36,7 @@
     "wof:belongsto":[
         85846269,
         102191575,
+        1108721809,
         404483701,
         85633793,
         101718083,
@@ -50,13 +56,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721809,
             "neighbourhood_id":85846269,
             "region_id":85688481,
             "venue_id":605900801
         }
     ],
     "wof:id":605900801,
-    "wof:lastmodified":1467081785,
+    "wof:lastmodified":1489037055,
     "wof:name":"Murphy's Tavern",
     "wof:parent_id":85846269,
     "wof:placetype":"venue",

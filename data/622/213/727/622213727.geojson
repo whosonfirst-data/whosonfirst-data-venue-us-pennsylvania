@@ -2,9 +2,14 @@
   "id": 622213727,
   "type": "Feature",
   "properties": {
+    "addr:full":"2532 S Broad St Philadelphia PA 19145",
+    "addr:housenumber":"2532",
+    "addr:postcode":"19145",
+    "addr:street":"S Broad St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.171097,39.918598,-75.171097,39.918598",
     "geom:latitude":39.918598,
     "geom:longitude":-75.171097,
@@ -31,14 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867159,
+        420782599,
         102191575,
+        1108721801,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        420559179
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,25 +58,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85867159,
-            "region_id":85688481,
-            "venue_id":622213727
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
-            "neighbourhood_id":420559179,
+            "macrohood_id":1108721801,
+            "neighbourhood_id":420782599,
             "region_id":85688481,
             "venue_id":622213727
         }
     ],
     "wof:id":622213727,
-    "wof:lastmodified":1466788106,
+    "wof:lastmodified":1489038648,
     "wof:name":"Caffe Chicco",
-    "wof:parent_id":-1,
+    "wof:parent_id":420782599,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

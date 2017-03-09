@@ -2,9 +2,14 @@
   "id": 622389109,
   "type": "Feature",
   "properties": {
+    "addr:full":"428 S 13th Street Philadelphia PA 19102",
+    "addr:housenumber":"428",
+    "addr:postcode":"19102",
+    "addr:street":"S 13Th Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.163279,39.944582,-75.163279,39.944582",
     "geom:latitude":39.944582,
     "geom:longitude":-75.163279,
@@ -35,14 +40,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867161,
+        85871431,
         102191575,
+        1108721797,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85871431
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,25 +62,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85867161,
-            "region_id":85688481,
-            "venue_id":622389109
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721797,
             "neighbourhood_id":85871431,
             "region_id":85688481,
             "venue_id":622389109
         }
     ],
     "wof:id":622389109,
-    "wof:lastmodified":1466791855,
+    "wof:lastmodified":1489037951,
     "wof:name":"Town Food Market",
-    "wof:parent_id":-1,
+    "wof:parent_id":85871431,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 605679083,
   "type": "Feature",
   "properties": {
+    "addr:full":"5934 Haverford Ave Philadelphia PA 19151",
+    "addr:housenumber":"5934",
+    "addr:postcode":"19151",
+    "addr:street":"Haverford Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.239144,39.969791,-75.239144,39.969791",
     "geom:latitude":39.969791,
     "geom:longitude":-75.239144,
@@ -25,14 +30,14 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85882387,
+        420539515,
         102191575,
+        1108721805,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        420539515
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,25 +52,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85882387,
-            "region_id":85688481,
-            "venue_id":605679083
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721805,
             "neighbourhood_id":420539515,
             "region_id":85688481,
             "venue_id":605679083
         }
     ],
     "wof:id":605679083,
-    "wof:lastmodified":1467081646,
+    "wof:lastmodified":1489033307,
     "wof:name":"Ho Un Soo",
-    "wof:parent_id":-1,
+    "wof:parent_id":420539515,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

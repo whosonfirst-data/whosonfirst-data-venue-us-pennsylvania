@@ -2,9 +2,14 @@
   "id": 621934455,
   "type": "Feature",
   "properties": {
+    "addr:full":"14420 Townsend Rd Philadelphia PA 19154",
+    "addr:housenumber":"14420",
+    "addr:postcode":"19154",
+    "addr:street":"Townsend Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.966957,40.117576,-74.966957,40.117576",
     "geom:latitude":40.117576,
     "geom:longitude":-74.966957,
@@ -32,11 +37,13 @@
     "wof:belongsto":[
         85840807,
         102191575,
+        1108721807,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481
+        85688481,
+        85808697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +58,27 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721807,
             "neighbourhood_id":85840807,
+            "region_id":85688481,
+            "venue_id":621934455
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85808697,
             "region_id":85688481,
             "venue_id":621934455
         }
     ],
     "wof:id":621934455,
-    "wof:lastmodified":1466785095,
+    "wof:lastmodified":1489035721,
     "wof:name":"Joint Pipefitting",
-    "wof:parent_id":85840807,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

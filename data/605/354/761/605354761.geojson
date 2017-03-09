@@ -2,9 +2,14 @@
   "id": 605354761,
   "type": "Feature",
   "properties": {
+    "addr:full":"6555 Greene St Philadelphia PA 19119",
+    "addr:housenumber":"6555",
+    "addr:postcode":"19119",
+    "addr:street":"Greene St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.190347,40.042901,-75.190347,40.042901",
     "geom:latitude":40.042901,
     "geom:longitude":-75.190347,
@@ -28,14 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85835357,
+        85855969,
         102191575,
+        1108721809,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85855969
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,25 +55,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85835357,
-            "region_id":85688481,
-            "venue_id":605354761
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721809,
             "neighbourhood_id":85855969,
             "region_id":85688481,
             "venue_id":605354761
         }
     ],
     "wof:id":605354761,
-    "wof:lastmodified":1466791276,
+    "wof:lastmodified":1489037415,
     "wof:name":"Toto's Pizzeria",
-    "wof:parent_id":-1,
+    "wof:parent_id":85855969,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

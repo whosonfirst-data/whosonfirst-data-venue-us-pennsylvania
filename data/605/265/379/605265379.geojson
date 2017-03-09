@@ -2,9 +2,14 @@
   "id": 605265379,
   "type": "Feature",
   "properties": {
+    "addr:full":"7400 Torresdale Ave Philadelphia PA 19136",
+    "addr:housenumber":"",
+    "addr:postcode":"7400;19136",
+    "addr:street":"Torresdale Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.031931,40.031796,-75.031931,40.031796",
     "geom:latitude":40.031796,
     "geom:longitude":-75.031931,
@@ -24,18 +29,39 @@
     "sg:postcode":"19136",
     "sg:province":"PA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0q7Wx86WXFxE34ZNcRHrnq_40.031796_-75.031931@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"253f044f4516076d6b9e398d68199449",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":605265379
+        }
+    ],
     "wof:id":605265379,
-    "wof:lastmodified":1466789260,
+    "wof:lastmodified":1489036104,
     "wof:name":"Hair Expression",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 621876901,
   "type": "Feature",
   "properties": {
+    "addr:full":"7701 Lindbergh Blvd Philadelphia PA 19153",
+    "addr:housenumber":"7701",
+    "addr:postcode":"19153",
+    "addr:street":"Lindbergh Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.240003,39.904181,-75.240003,39.904181",
     "geom:latitude":39.904181,
     "geom:longitude":-75.240003,
@@ -30,11 +35,13 @@
     "wof:belongsto":[
         85817131,
         102191575,
+        1108721803,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481
+        85688481,
+        420539519
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +56,27 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721803,
             "neighbourhood_id":85817131,
+            "region_id":85688481,
+            "venue_id":621876901
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721803,
+            "neighbourhood_id":420539519,
             "region_id":85688481,
             "venue_id":621876901
         }
     ],
     "wof:id":621876901,
-    "wof:lastmodified":1466782071,
+    "wof:lastmodified":1489032889,
     "wof:name":"Ronald Kimball MD",
-    "wof:parent_id":85817131,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

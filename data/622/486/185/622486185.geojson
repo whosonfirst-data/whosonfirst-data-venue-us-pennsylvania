@@ -2,9 +2,14 @@
   "id": 622486185,
   "type": "Feature",
   "properties": {
+    "addr:full":"2101 W Lehigh Ave Philadelphia PA 19132",
+    "addr:housenumber":"2101",
+    "addr:postcode":"19132",
+    "addr:street":"W Lehigh Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.165947,39.99543,-75.165947,39.99543",
     "geom:latitude":39.99543,
     "geom:longitude":-75.165947,
@@ -31,14 +36,15 @@
     "sg:website":"http://www.locksmithpa.biz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85893347,
+        85851257,
         102191575,
+        1108721811,
         404483701,
         85633793,
         101718083,
         102081353,
         85688481,
-        85851003
+        85893347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,7 +59,8 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85893347,
+            "macrohood_id":1108721811,
+            "neighbourhood_id":85851257,
             "region_id":85688481,
             "venue_id":622486185
         },
@@ -63,15 +70,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85851003,
+            "macrohood_id":1108721811,
+            "neighbourhood_id":85893347,
             "region_id":85688481,
             "venue_id":622486185
         }
     ],
     "wof:id":622486185,
-    "wof:lastmodified":1467081925,
+    "wof:lastmodified":1489037213,
     "wof:name":"On Time 24/7Locksmith",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

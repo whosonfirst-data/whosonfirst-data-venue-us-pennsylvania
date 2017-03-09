@@ -2,9 +2,14 @@
   "id": 622011317,
   "type": "Feature",
   "properties": {
+    "addr:full":"3715 Avalon St Philadelphia PA 19114",
+    "addr:housenumber":"3715",
+    "addr:postcode":"19114",
+    "addr:street":"Avalon St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.995936,40.07319,-74.995936,40.07319",
     "geom:latitude":40.07319,
     "geom:longitude":-74.995936,
@@ -25,14 +30,14 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85882385,
+        420782485,
         102191575,
+        1108721807,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        420560143
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,25 +52,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85882385,
-            "region_id":85688481,
-            "venue_id":622011317
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
-            "neighbourhood_id":420560143,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":420782485,
             "region_id":85688481,
             "venue_id":622011317
         }
     ],
     "wof:id":622011317,
-    "wof:lastmodified":1466777234,
+    "wof:lastmodified":1489038490,
     "wof:name":"Tailor Made Travel Agency",
-    "wof:parent_id":-1,
+    "wof:parent_id":420782485,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

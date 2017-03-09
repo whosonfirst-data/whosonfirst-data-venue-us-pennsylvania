@@ -2,9 +2,14 @@
   "id": 622192323,
   "type": "Feature",
   "properties": {
+    "addr:full":"5123 Linden Ave Philadelphia PA 19114",
+    "addr:housenumber":"5123",
+    "addr:postcode":"19114",
+    "addr:street":"Linden Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.992799,40.044181,-74.992799,40.044181",
     "geom:latitude":40.044181,
     "geom:longitude":-74.992799,
@@ -32,6 +37,7 @@
     "wof:belongsto":[
         85852367,
         102191575,
+        1108721807,
         404483701,
         85633793,
         101718083,
@@ -51,13 +57,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721807,
             "neighbourhood_id":85852367,
             "region_id":85688481,
             "venue_id":622192323
         }
     ],
     "wof:id":622192323,
-    "wof:lastmodified":1466787216,
+    "wof:lastmodified":1489033926,
     "wof:name":"Concrete Technology Medina Inc",
     "wof:parent_id":85852367,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 622492005,
   "type": "Feature",
   "properties": {
+    "addr:full":"6300 Torresdale Ave Philadelphia PA 19135",
+    "addr:housenumber":"",
+    "addr:postcode":"6300;19135",
+    "addr:street":"Torresdale Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.053726,40.020519,-75.053726,40.020519",
     "geom:latitude":40.020519,
     "geom:longitude":-75.053726,
@@ -35,6 +40,7 @@
     "wof:belongsto":[
         85858409,
         102191575,
+        1108721807,
         404483701,
         85633793,
         101718083,
@@ -54,13 +60,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721807,
             "neighbourhood_id":85858409,
             "region_id":85688481,
             "venue_id":622492005
         }
     ],
     "wof:id":622492005,
-    "wof:lastmodified":1467081929,
+    "wof:lastmodified":1489033915,
     "wof:name":"Produce City",
     "wof:parent_id":85858409,
     "wof:placetype":"venue",

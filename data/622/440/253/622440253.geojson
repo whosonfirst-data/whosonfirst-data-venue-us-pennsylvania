@@ -2,9 +2,14 @@
   "id": 622440253,
   "type": "Feature",
   "properties": {
+    "addr:full":"319 N. 11th Str. 2nd Floor Philadelphia PA 19107",
+    "addr:housenumber":"319;floor",
+    "addr:postcode":"19107",
+    "addr:street":"N. 11Th Str. 2Nd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.156601,39.958302,-75.156601,39.958302",
     "geom:latitude":39.958302,
     "geom:longitude":-75.156601,
@@ -27,6 +32,7 @@
     "wof:belongsto":[
         85871415,
         102191575,
+        1108721811,
         404483701,
         85633793,
         101718083,
@@ -46,13 +52,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721811,
             "neighbourhood_id":85871415,
             "region_id":85688481,
             "venue_id":622440253
         }
     ],
     "wof:id":622440253,
-    "wof:lastmodified":1467081892,
+    "wof:lastmodified":1489035206,
     "wof:name":"Grizzly Grizzly",
     "wof:parent_id":85871415,
     "wof:placetype":"venue",

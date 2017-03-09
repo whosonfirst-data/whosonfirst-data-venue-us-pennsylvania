@@ -2,9 +2,14 @@
   "id": 605075783,
   "type": "Feature",
   "properties": {
+    "addr:full":"9200 Ashton Rd Philadelphia PA 19114",
+    "addr:housenumber":"9200",
+    "addr:postcode":"19114",
+    "addr:street":"Ashton Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.019532,40.065584,-75.019532,40.065584",
     "geom:latitude":40.065584,
     "geom:longitude":-75.019532,
@@ -30,13 +35,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420539507,
+        85841257,
         102191575,
+        1108721807,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481
+        85688481,
+        420539507
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +58,27 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85841257,
+            "region_id":85688481,
+            "venue_id":605075783
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
             "neighbourhood_id":420539507,
             "region_id":85688481,
             "venue_id":605075783
         }
     ],
     "wof:id":605075783,
-    "wof:lastmodified":1466780542,
+    "wof:lastmodified":1489034040,
     "wof:name":"A Plus Mini Market",
-    "wof:parent_id":420539507,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

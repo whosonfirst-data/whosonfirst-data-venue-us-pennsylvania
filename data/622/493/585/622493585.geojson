@@ -2,9 +2,14 @@
   "id": 622493585,
   "type": "Feature",
   "properties": {
+    "addr:full":"4411 Rhawn St Philadelphia PA 19136",
+    "addr:housenumber":"4411",
+    "addr:postcode":"19136",
+    "addr:street":"Rhawn St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.026579,40.037763,-75.026579,40.037763",
     "geom:latitude":40.037763,
     "geom:longitude":-75.026579,
@@ -30,18 +35,39 @@
         "first"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2P4p8RZr3WKV8nQgE2tpuq_40.037763_-75.026579@1303262458"
     },
     "wof:country":"US",
     "wof:geomhash":"071c3259449628738c6337889d8cbdc4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":622493585
+        }
+    ],
     "wof:id":622493585,
-    "wof:lastmodified":1467081931,
+    "wof:lastmodified":1489036121,
     "wof:name":"Northeast First Aid Corps Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

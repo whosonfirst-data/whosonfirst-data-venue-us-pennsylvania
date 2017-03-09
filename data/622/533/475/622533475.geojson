@@ -2,9 +2,14 @@
   "id": 622533475,
   "type": "Feature",
   "properties": {
+    "addr:full":"52 N. 2nd Street Philadelphia PA 19176",
+    "addr:housenumber":"52",
+    "addr:postcode":"19176",
+    "addr:street":"N. 2Nd Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.143419,39.951304,-75.143419,39.951304",
     "geom:latitude":39.951304,
     "geom:longitude":-75.143419,
@@ -25,14 +30,14 @@
     "sg:website":"www.freejade.com/gallery/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871417,
+        85839299,
         102191575,
+        1108721797,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85839299
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,25 +52,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85871417,
-            "region_id":85688481,
-            "venue_id":622533475
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721797,
             "neighbourhood_id":85839299,
             "region_id":85688481,
             "venue_id":622533475
         }
     ],
     "wof:id":622533475,
-    "wof:lastmodified":1467081960,
+    "wof:lastmodified":1489031532,
     "wof:name":"Freejade Art Gallery",
-    "wof:parent_id":-1,
+    "wof:parent_id":85839299,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

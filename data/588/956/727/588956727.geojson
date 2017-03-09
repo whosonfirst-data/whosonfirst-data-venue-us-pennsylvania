@@ -2,9 +2,14 @@
   "id": 588956727,
   "type": "Feature",
   "properties": {
+    "addr:full":"4708 Blakiston St Philadelphia PA 19136",
+    "addr:housenumber":"4708",
+    "addr:postcode":"19136",
+    "addr:street":"Blakiston St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.012249,40.040604,-75.012249,40.040604",
     "geom:latitude":40.040604,
     "geom:longitude":-75.012249,
@@ -27,18 +32,41 @@
         "carpenter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108722091,
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0relQFy6HIM7LthglX0N3e_40.040604_-75.012249@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"8399b3d53d70e7223951d44c42ab362e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "microhood_id":1108722091,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":588956727
+        }
+    ],
     "wof:id":588956727,
-    "wof:lastmodified":1466786045,
+    "wof:lastmodified":1489039518,
     "wof:name":"Liberty Custom Carpentry",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108722091,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

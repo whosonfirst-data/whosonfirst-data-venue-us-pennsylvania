@@ -2,9 +2,14 @@
   "id": 588839233,
   "type": "Feature",
   "properties": {
+    "addr:full":"5618 Germantown Ave Philadelphia PA 19144",
+    "addr:housenumber":"5618",
+    "addr:postcode":"19144",
+    "addr:street":"Germantown Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.173871,40.03502,-75.173871,40.03502",
     "geom:latitude":40.03502,
     "geom:longitude":-75.173871,
@@ -25,14 +30,15 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420559163,
+        85821407,
         102191575,
+        1108721809,
         404483701,
         85633793,
         101718083,
         102081353,
         85688481,
-        85821407
+        1108723467
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +53,8 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":420559163,
+            "macrohood_id":1108721809,
+            "neighbourhood_id":85821407,
             "region_id":85688481,
             "venue_id":588839233
         },
@@ -57,15 +64,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85821407,
+            "macrohood_id":1108721809,
+            "neighbourhood_id":1108723467,
             "region_id":85688481,
             "venue_id":588839233
         }
     ],
     "wof:id":588839233,
-    "wof:lastmodified":1466779169,
+    "wof:lastmodified":1489038739,
     "wof:name":"Philly Communications",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

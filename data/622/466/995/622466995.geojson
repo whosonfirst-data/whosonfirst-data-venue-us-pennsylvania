@@ -2,9 +2,14 @@
   "id": 622466995,
   "type": "Feature",
   "properties": {
+    "addr:full":"700 Spring Garden St Philadelphia PA 19123",
+    "addr:housenumber":"700",
+    "addr:postcode":"19123",
+    "addr:street":"Spring Garden St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.149834,39.961449,-75.149834,39.961449",
     "geom:latitude":39.961449,
     "geom:longitude":-75.149834,
@@ -27,6 +32,7 @@
     "wof:belongsto":[
         420539495,
         102191575,
+        1108721811,
         404483701,
         85633793,
         101718083,
@@ -46,13 +52,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721811,
             "neighbourhood_id":420539495,
             "region_id":85688481,
             "venue_id":622466995
         }
     ],
     "wof:id":622466995,
-    "wof:lastmodified":1467081911,
+    "wof:lastmodified":1489034866,
     "wof:name":"Northeast District",
     "wof:parent_id":420539495,
     "wof:placetype":"venue",

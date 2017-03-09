@@ -2,9 +2,14 @@
   "id": 621921139,
   "type": "Feature",
   "properties": {
+    "addr:full":"7123 Hegerman St Philadelphia PA 19135",
+    "addr:housenumber":"7123",
+    "addr:postcode":"19135",
+    "addr:street":"Hegerman St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.037389,40.027355,-75.037389,40.027355",
     "geom:latitude":40.027355,
     "geom:longitude":-75.037389,
@@ -24,18 +29,39 @@
     "sg:postcode":"19135",
     "sg:province":"PA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85851751,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3wyuz26VmvGRuESn5Nab7b_40.027355_-75.037389@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"227210c39fa7a4496fac05940b6b73b8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85851751,
+            "region_id":85688481,
+            "venue_id":621921139
+        }
+    ],
     "wof:id":621921139,
-    "wof:lastmodified":1466784209,
+    "wof:lastmodified":1489037271,
     "wof:name":"Lawn Boyz",
-    "wof:parent_id":-1,
+    "wof:parent_id":85851751,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

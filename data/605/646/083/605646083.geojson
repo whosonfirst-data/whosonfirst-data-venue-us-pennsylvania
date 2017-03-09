@@ -2,9 +2,14 @@
   "id": 605646083,
   "type": "Feature",
   "properties": {
+    "addr:full":"468 W Lehigh Ave Philadelphia PA 19133",
+    "addr:housenumber":"468",
+    "addr:postcode":"19133",
+    "addr:street":"W Lehigh Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.14013,39.992,-75.14013,39.992",
     "geom:latitude":39.992,
     "geom:longitude":-75.14013,
@@ -29,14 +34,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85893373,
+        1108723363,
+        85855755,
         102191575,
+        1108721813,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85855755
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,25 +57,17 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85893373,
-            "region_id":85688481,
-            "venue_id":605646083
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721813,
+            "microhood_id":1108723363,
             "neighbourhood_id":85855755,
             "region_id":85688481,
             "venue_id":605646083
         }
     ],
     "wof:id":605646083,
-    "wof:lastmodified":1467081625,
+    "wof:lastmodified":1489039549,
     "wof:name":"Currency One",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108723363,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

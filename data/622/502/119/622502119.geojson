@@ -2,9 +2,14 @@
   "id": 622502119,
   "type": "Feature",
   "properties": {
+    "addr:full":"5331 N 10th St 7 Philadelphia PA 19141",
+    "addr:housenumber":"5331;7",
+    "addr:postcode":"19141",
+    "addr:street":"N 10Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.139311,40.033314,-75.139311,40.033314",
     "geom:latitude":40.033314,
     "geom:longitude":-75.139311,
@@ -30,14 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420558413,
+        85831205,
         102191575,
+        1108721809,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85851737
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,25 +57,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":420558413,
-            "region_id":85688481,
-            "venue_id":622502119
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
-            "neighbourhood_id":85851737,
+            "macrohood_id":1108721809,
+            "neighbourhood_id":85831205,
             "region_id":85688481,
             "venue_id":622502119
         }
     ],
     "wof:id":622502119,
-    "wof:lastmodified":1467081937,
+    "wof:lastmodified":1489036168,
     "wof:name":"Kpd International Wholesale, Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85831205,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

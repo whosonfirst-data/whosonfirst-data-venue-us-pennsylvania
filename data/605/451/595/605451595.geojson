@@ -2,9 +2,14 @@
   "id": 605451595,
   "type": "Feature",
   "properties": {
+    "addr:full":"4522 McMenamy St Philadelphia PA 19136",
+    "addr:housenumber":"4522",
+    "addr:postcode":"19136",
+    "addr:street":"Mcmenamy St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.029213,40.034743,-75.029213,40.034743",
     "geom:latitude":40.034743,
     "geom:longitude":-75.029213,
@@ -28,18 +33,39 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_70yc8gg4mE7bmwPYzo9oCl_40.034743_-75.029213@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"ef4546b6c363119c7c16a623dc89dbd4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":605451595
+        }
+    ],
     "wof:id":605451595,
-    "wof:lastmodified":1467081504,
+    "wof:lastmodified":1489036118,
     "wof:name":"R T Piro",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 588757793,
   "type": "Feature",
   "properties": {
+    "addr:full":"2500 Grant Ave Philadelphia PA 19114",
+    "addr:housenumber":"2500",
+    "addr:postcode":"19114",
+    "addr:street":"Grant Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.021346,40.076727,-75.021346,40.076727",
     "geom:latitude":40.076727,
     "geom:longitude":-75.021346,
@@ -30,14 +35,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85824951,
+        85841257,
         102191575,
+        1108721807,
         404483701,
         85633793,
         101718083,
         102081353,
         85688481,
-        85841257
+        420539457
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,7 +58,8 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85824951,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85841257,
             "region_id":85688481,
             "venue_id":588757793
         },
@@ -62,15 +69,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85841257,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":420539457,
             "region_id":85688481,
             "venue_id":588757793
         }
     ],
     "wof:id":588757793,
-    "wof:lastmodified":1466778142,
+    "wof:lastmodified":1489034041,
     "wof:name":"U-Haul Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

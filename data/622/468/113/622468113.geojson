@@ -2,9 +2,14 @@
   "id": 622468113,
   "type": "Feature",
   "properties": {
+    "addr:full":"1234 Hamilton St Unit 301 Philadelphia PA 19123",
+    "addr:housenumber":"1234;301",
+    "addr:postcode":"19123",
+    "addr:street":"Hamilton St Unit",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.158545,39.960522,-75.158545,39.960522",
     "geom:latitude":39.960522,
     "geom:longitude":-75.158545,
@@ -27,6 +32,7 @@
     "wof:belongsto":[
         85871415,
         102191575,
+        1108721811,
         404483701,
         85633793,
         101718083,
@@ -46,13 +52,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721811,
             "neighbourhood_id":85871415,
             "region_id":85688481,
             "venue_id":622468113
         }
     ],
     "wof:id":622468113,
-    "wof:lastmodified":1467081912,
+    "wof:lastmodified":1489035192,
     "wof:name":"Stuzo, Inc.",
     "wof:parent_id":85871415,
     "wof:placetype":"venue",

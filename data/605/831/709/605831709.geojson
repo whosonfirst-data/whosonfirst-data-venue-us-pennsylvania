@@ -2,9 +2,14 @@
   "id": 605831709,
   "type": "Feature",
   "properties": {
+    "addr:full":"3526 Lansing St Philadelphia PA 19136",
+    "addr:housenumber":"3526",
+    "addr:postcode":"19136",
+    "addr:street":"Lansing St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.032907,40.041135,-75.032907,40.041135",
     "geom:latitude":40.041135,
     "geom:longitude":-75.032907,
@@ -24,18 +29,39 @@
     "sg:postcode":"19136",
     "sg:province":"PA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6QMO4W7ef0cqrFbTWWO0gG_40.041135_-75.032907@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"659d604798dde5fd8f4bbb0b40b4e6b6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":605831709
+        }
+    ],
     "wof:id":605831709,
-    "wof:lastmodified":1467081742,
+    "wof:lastmodified":1489036100,
     "wof:name":"Bogarts Exterminating",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

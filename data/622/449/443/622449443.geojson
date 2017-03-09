@@ -2,9 +2,14 @@
   "id": 622449443,
   "type": "Feature",
   "properties": {
+    "addr:full":"230 N. 13th St Philadelphia PA 19107",
+    "addr:housenumber":"230",
+    "addr:postcode":"19107",
+    "addr:street":"N. 13Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.160492,39.956902,-75.160492,39.956902",
     "geom:latitude":39.956902,
     "geom:longitude":-75.160492,
@@ -30,14 +35,14 @@
     "sg:website":"www.bbbs.org/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85866791,
+        85893325,
         102191575,
+        1108721797,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85893325
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,25 +57,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85866791,
-            "region_id":85688481,
-            "venue_id":622449443
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721797,
             "neighbourhood_id":85893325,
             "region_id":85688481,
             "venue_id":622449443
         }
     ],
     "wof:id":622449443,
-    "wof:lastmodified":1467081899,
+    "wof:lastmodified":1489032188,
     "wof:name":"Big Brothers Big Sisters of America",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893325,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

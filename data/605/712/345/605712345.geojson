@@ -2,9 +2,14 @@
   "id": 605712345,
   "type": "Feature",
   "properties": {
+    "addr:full":"1708 Marlton Ave Philadelphia PA 19104",
+    "addr:housenumber":"1708",
+    "addr:postcode":"19104",
+    "addr:street":"Marlton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.207985,39.975695,-75.207985,39.975695",
     "geom:latitude":39.975695,
     "geom:longitude":-75.207985,
@@ -27,6 +32,7 @@
     "wof:belongsto":[
         85871413,
         102191575,
+        1108721805,
         404483701,
         85633793,
         101718083,
@@ -46,13 +52,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721805,
             "neighbourhood_id":85871413,
             "region_id":85688481,
             "venue_id":605712345
         }
     ],
     "wof:id":605712345,
-    "wof:lastmodified":1467081667,
+    "wof:lastmodified":1489033004,
     "wof:name":"Cherry Hill Dodge",
     "wof:parent_id":85871413,
     "wof:placetype":"venue",

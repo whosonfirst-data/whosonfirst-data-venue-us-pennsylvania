@@ -2,9 +2,14 @@
   "id": 622507469,
   "type": "Feature",
   "properties": {
+    "addr:full":"335 E Price St Philadelphia PA 19144",
+    "addr:housenumber":"335",
+    "addr:postcode":"19144",
+    "addr:street":"E Price St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.171914,40.040127,-75.171914,40.040127",
     "geom:latitude":40.040127,
     "geom:longitude":-75.171914,
@@ -32,14 +37,15 @@
     "sg:website":"http://philadelphia.citysearch.com/profile/external/604189402/philadelphia_pa/simply_germantown.html?publisher=yellowpages&reference_id=1&placement=ypwebsitemip",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85821407,
+        85835357,
         102191575,
+        1108721809,
         404483701,
         85633793,
         101718083,
         102081353,
         85688481,
-        420559145
+        85821407
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,7 +60,8 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85821407,
+            "macrohood_id":1108721809,
+            "neighbourhood_id":85835357,
             "region_id":85688481,
             "venue_id":622507469
         },
@@ -64,15 +71,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":420559145,
+            "macrohood_id":1108721809,
+            "neighbourhood_id":85821407,
             "region_id":85688481,
             "venue_id":622507469
         }
     ],
     "wof:id":622507469,
-    "wof:lastmodified":1467081941,
+    "wof:lastmodified":1489036239,
     "wof:name":"Simply - Germantown",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

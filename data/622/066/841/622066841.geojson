@@ -2,9 +2,14 @@
   "id": 622066841,
   "type": "Feature",
   "properties": {
+    "addr:full":"1801 Market St Philadelphia PA 19103",
+    "addr:housenumber":"1801",
+    "addr:postcode":"19103",
+    "addr:street":"Market St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.171593,39.953368,-75.171593,39.953368",
     "geom:latitude":39.953368,
     "geom:longitude":-75.171593,
@@ -26,14 +31,15 @@
     "sg:website":"www.sunocoinc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85893339,
+        85844705,
         102191575,
+        1108721797,
         404483701,
         85633793,
         101718083,
         102081353,
         85688481,
-        85844705
+        85871427
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,7 +54,8 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85893339,
+            "macrohood_id":1108721797,
+            "neighbourhood_id":85844705,
             "region_id":85688481,
             "venue_id":622066841
         },
@@ -58,15 +65,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85844705,
+            "macrohood_id":1108721797,
+            "neighbourhood_id":85871427,
             "region_id":85688481,
             "venue_id":622066841
         }
     ],
     "wof:id":622066841,
-    "wof:lastmodified":1466781499,
+    "wof:lastmodified":1489036839,
     "wof:name":"Sunoco Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

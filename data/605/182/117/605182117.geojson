@@ -2,9 +2,14 @@
   "id": 605182117,
   "type": "Feature",
   "properties": {
+    "addr:full":"6401 Frankford Ave Philadelphia PA 19135",
+    "addr:housenumber":"6401",
+    "addr:postcode":"19135",
+    "addr:street":"Frankford Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.05725,40.028785,-75.05725,40.028785",
     "geom:latitude":40.028785,
     "geom:longitude":-75.05725,
@@ -24,18 +29,39 @@
     "sg:postcode":"19135",
     "sg:province":"PA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85832953,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7bZtsx02knaa8gQUpqboeA_40.028785_-75.057250@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"28ae1aa83ff8708f5b7a6189e12a63cc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85832953,
+            "region_id":85688481,
+            "venue_id":605182117
+        }
+    ],
     "wof:id":605182117,
-    "wof:lastmodified":1466786555,
+    "wof:lastmodified":1489034049,
     "wof:name":"7-Eleven",
-    "wof:parent_id":-1,
+    "wof:parent_id":85832953,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

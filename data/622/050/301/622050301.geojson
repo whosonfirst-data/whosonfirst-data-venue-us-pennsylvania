@@ -2,9 +2,14 @@
   "id": 622050301,
   "type": "Feature",
   "properties": {
+    "addr:full":"3600 Rhawn St Philadelphia PA 19136",
+    "addr:housenumber":"3600",
+    "addr:postcode":"19136",
+    "addr:street":"Rhawn St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.028257,40.041363,-75.028257,40.041363",
     "geom:latitude":40.041363,
     "geom:longitude":-75.028257,
@@ -27,18 +32,39 @@
         "automotive"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7BDPPXWcrtoR3gn2JhZ8o7_40.041363_-75.028257@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"a3faed56acf902380dbbc5c4ce09db23",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":622050301
+        }
+    ],
     "wof:id":622050301,
-    "wof:lastmodified":1466780739,
+    "wof:lastmodified":1489036114,
     "wof:name":"Charles Repaires",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 605491513,
   "type": "Feature",
   "properties": {
+    "addr:full":"1515 E Wadsworth Ave Philadelphia PA 19150",
+    "addr:housenumber":"1515",
+    "addr:postcode":"19150",
+    "addr:street":"E Wadsworth Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.173223,40.079932,-75.173223,40.079932",
     "geom:latitude":40.079932,
     "geom:longitude":-75.173223,
@@ -27,6 +32,7 @@
     "wof:belongsto":[
         85810045,
         102191575,
+        1108721809,
         404483701,
         85633793,
         101718083,
@@ -46,13 +52,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721809,
             "neighbourhood_id":85810045,
             "region_id":85688481,
             "venue_id":605491513
         }
     ],
     "wof:id":605491513,
-    "wof:lastmodified":1467081529,
+    "wof:lastmodified":1489034698,
     "wof:name":"London Hardware",
     "wof:parent_id":85810045,
     "wof:placetype":"venue",

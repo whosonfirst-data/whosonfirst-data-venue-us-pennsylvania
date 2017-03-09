@@ -2,9 +2,14 @@
   "id": 622500739,
   "type": "Feature",
   "properties": {
+    "addr:full":"4401 N 6th St Philadelphia PA 19140",
+    "addr:housenumber":"4401",
+    "addr:postcode":"19140",
+    "addr:street":"N 6Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.136803,40.018398,-75.136803,40.018398",
     "geom:latitude":40.018398,
     "geom:longitude":-75.136803,
@@ -35,6 +40,7 @@
     "wof:belongsto":[
         420539527,
         102191575,
+        1108721811,
         404483701,
         85633793,
         101718083,
@@ -54,13 +60,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721811,
             "neighbourhood_id":420539527,
             "region_id":85688481,
             "venue_id":622500739
         }
     ],
     "wof:id":622500739,
-    "wof:lastmodified":1467081936,
+    "wof:lastmodified":1489034937,
     "wof:name":"Philadelphia Instruments & Controls Inc",
     "wof:parent_id":420539527,
     "wof:placetype":"venue",

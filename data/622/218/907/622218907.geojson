@@ -2,9 +2,14 @@
   "id": 622218907,
   "type": "Feature",
   "properties": {
+    "addr:full":"3528 Hartel Ave Philadelphia PA 19136",
+    "addr:housenumber":"",
+    "addr:postcode":"3528;19136",
+    "addr:street":"Hartel Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.032487,40.041924,-75.032487,40.041924",
     "geom:latitude":40.041924,
     "geom:longitude":-75.032487,
@@ -25,18 +30,39 @@
     "sg:province":"PA",
     "sg:website":"http://www.aardvarkpestmgmt.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5S5d8dfZF751sQ7d2jqhza_40.041449_-75.032154@1293134755"
     },
     "wof:country":"US",
     "wof:geomhash":"835316626b4e843574f0ce494b21c53c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":622218907
+        }
+    ],
     "wof:id":622218907,
-    "wof:lastmodified":1466788146,
+    "wof:lastmodified":1489036123,
     "wof:name":"Ardvark Pest Mngmt",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

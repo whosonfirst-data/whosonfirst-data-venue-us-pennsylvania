@@ -2,9 +2,14 @@
   "id": 588761041,
   "type": "Feature",
   "properties": {
+    "addr:full":"6938 Hegerman St Philadelphia PA 19135",
+    "addr:housenumber":"6938",
+    "addr:postcode":"19135",
+    "addr:street":"Hegerman St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.040388,40.026039,-75.040388,40.026039",
     "geom:latitude":40.026039,
     "geom:longitude":-75.040388,
@@ -27,18 +32,39 @@
         "car"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85851751,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Z0s3MBt0urOT9rZ0GAC5G_40.026039_-75.040388@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"a0d7334ce12cc8dbaed0e2639ec0503e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85851751,
+            "region_id":85688481,
+            "venue_id":588761041
+        }
+    ],
     "wof:id":588761041,
-    "wof:lastmodified":1466778190,
+    "wof:lastmodified":1489037273,
     "wof:name":"Tacony Town Watch Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85851751,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 622493287,
   "type": "Feature",
   "properties": {
+    "addr:full":"5247 Bleigh Ave Philadelphia PA 19136",
+    "addr:housenumber":"5247",
+    "addr:postcode":"19136",
+    "addr:street":"Bleigh Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.027199,40.02546,-75.027199,40.02546",
     "geom:latitude":40.02546,
     "geom:longitude":-75.027199,
@@ -27,18 +32,39 @@
         "welder"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7IOqyEbcdqlTMb56zzgXKG_40.025460_-75.027199@1303262458"
     },
     "wof:country":"US",
     "wof:geomhash":"fe055697a146186fcc83d3f9a9181a85",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":622493287
+        }
+    ],
     "wof:id":622493287,
-    "wof:lastmodified":1467081930,
+    "wof:lastmodified":1489036125,
     "wof:name":"Excess Welding Alloys, Inc.",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

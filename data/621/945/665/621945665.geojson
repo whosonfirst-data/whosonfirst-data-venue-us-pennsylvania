@@ -2,9 +2,14 @@
   "id": 621945665,
   "type": "Feature",
   "properties": {
+    "addr:full":"2603 S Broad St Philadelphia PA 19148",
+    "addr:housenumber":"2603",
+    "addr:postcode":"19148",
+    "addr:street":"S Broad St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.171044,39.917484,-75.171044,39.917484",
     "geom:latitude":39.917484,
     "geom:longitude":-75.171044,
@@ -29,14 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420559139,
+        1108723485,
         102191575,
+        1108721801,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85867159
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,25 +56,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":420559139,
-            "region_id":85688481,
-            "venue_id":621945665
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
-            "neighbourhood_id":85867159,
+            "macrohood_id":1108721801,
+            "neighbourhood_id":1108723485,
             "region_id":85688481,
             "venue_id":621945665
         }
     ],
     "wof:id":621945665,
-    "wof:lastmodified":1466785608,
+    "wof:lastmodified":1489038880,
     "wof:name":"William Duffy MD",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108723485,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

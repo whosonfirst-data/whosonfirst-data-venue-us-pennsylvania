@@ -2,9 +2,14 @@
   "id": 622500493,
   "type": "Feature",
   "properties": {
+    "addr:full":"3401 N Broad St Ste 501 Philadelphia PA 19140",
+    "addr:housenumber":"3401",
+    "addr:postcode":"19140",
+    "addr:street":"N Broad St Ste 501",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.152237,40.004681,-75.152237,40.004681",
     "geom:latitude":40.004681,
     "geom:longitude":-75.152237,
@@ -33,14 +38,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420558573,
+        1108723477,
         102191575,
+        1108721811,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85882379
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,25 +60,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":420558573,
-            "region_id":85688481,
-            "venue_id":622500493
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
-            "neighbourhood_id":85882379,
+            "macrohood_id":1108721811,
+            "neighbourhood_id":1108723477,
             "region_id":85688481,
             "venue_id":622500493
         }
     ],
     "wof:id":622500493,
-    "wof:lastmodified":1467081936,
+    "wof:lastmodified":1489038796,
     "wof:name":"Bettiker, Robert L, Md - Bryn Mawr Medical Specialists",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108723477,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

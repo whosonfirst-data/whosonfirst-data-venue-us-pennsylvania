@@ -2,9 +2,14 @@
   "id": 622470701,
   "type": "Feature",
   "properties": {
+    "addr:full":"4125 Paul St Philadelphia PA 19124",
+    "addr:housenumber":"4125",
+    "addr:postcode":"19124",
+    "addr:street":"Paul St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.0896,40.006802,-75.0896,40.006802",
     "geom:latitude":40.006802,
     "geom:longitude":-75.0896,
@@ -27,6 +32,7 @@
     "wof:belongsto":[
         85820547,
         102191575,
+        1108721807,
         404483701,
         85633793,
         101718083,
@@ -46,13 +52,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721807,
             "neighbourhood_id":85820547,
             "region_id":85688481,
             "venue_id":622470701
         }
     ],
     "wof:id":622470701,
-    "wof:lastmodified":1467081914,
+    "wof:lastmodified":1489033902,
     "wof:name":"Eastside Auto Radiator Shop",
     "wof:parent_id":85820547,
     "wof:placetype":"venue",

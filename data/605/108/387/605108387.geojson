@@ -2,9 +2,14 @@
   "id": 605108387,
   "type": "Feature",
   "properties": {
+    "addr:full":"144 N Bread St Philadelphia PA 19106",
+    "addr:housenumber":"144",
+    "addr:postcode":"19106",
+    "addr:street":"N Bread St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.143941,39.953874,-75.143941,39.953874",
     "geom:latitude":39.953874,
     "geom:longitude":-75.143941,
@@ -29,14 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871417,
+        85839299,
         102191575,
+        1108721797,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85839299
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,25 +56,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85871417,
-            "region_id":85688481,
-            "venue_id":605108387
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721797,
             "neighbourhood_id":85839299,
             "region_id":85688481,
             "venue_id":605108387
         }
     ],
     "wof:id":605108387,
-    "wof:lastmodified":1466782664,
+    "wof:lastmodified":1489031042,
     "wof:name":"Fosters Urban Homeware",
-    "wof:parent_id":-1,
+    "wof:parent_id":85839299,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

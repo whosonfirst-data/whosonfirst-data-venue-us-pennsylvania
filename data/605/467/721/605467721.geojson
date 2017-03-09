@@ -2,9 +2,14 @@
   "id": 605467721,
   "type": "Feature",
   "properties": {
+    "addr:full":"3000 Cottman Ave Philadelphia PA 19149",
+    "addr:housenumber":"3000",
+    "addr:postcode":"19149",
+    "addr:street":"Cottman Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.049027,40.041412,-75.049027,40.041412",
     "geom:latitude":40.041412,
     "geom:longitude":-75.049027,
@@ -28,14 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85882385,
+        85832953,
         102191575,
+        1108721807,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85832953
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,25 +55,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85882385,
-            "region_id":85688481,
-            "venue_id":605467721
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721807,
             "neighbourhood_id":85832953,
             "region_id":85688481,
             "venue_id":605467721
         }
     ],
     "wof:id":605467721,
-    "wof:lastmodified":1467081514,
+    "wof:lastmodified":1489034047,
     "wof:name":"Saint Matthew's RC Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":85832953,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

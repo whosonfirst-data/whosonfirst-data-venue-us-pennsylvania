@@ -2,9 +2,14 @@
   "id": 605388635,
   "type": "Feature",
   "properties": {
+    "addr:full":"851 E Thompson St Philadelphia PA 19125",
+    "addr:housenumber":"851",
+    "addr:postcode":"19125",
+    "addr:street":"E Thompson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.123562,39.974393,-75.123562,39.974393",
     "geom:latitude":39.974393,
     "geom:longitude":-75.123562,
@@ -25,14 +30,14 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85828097,
+        85819391,
         102191575,
+        1108721813,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        420559181
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,25 +52,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85828097,
-            "region_id":85688481,
-            "venue_id":605388635
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
-            "neighbourhood_id":420559181,
+            "macrohood_id":1108721813,
+            "neighbourhood_id":85819391,
             "region_id":85688481,
             "venue_id":605388635
         }
     ],
     "wof:id":605388635,
-    "wof:lastmodified":1466791874,
+    "wof:lastmodified":1489035928,
     "wof:name":"Ellis Stanley & Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":85819391,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

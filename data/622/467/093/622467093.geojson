@@ -2,9 +2,14 @@
   "id": 622467093,
   "type": "Feature",
   "properties": {
+    "addr:full":"910 Fairmount Ave 950 Philadelphia PA 19123",
+    "addr:housenumber":"910;950",
+    "addr:postcode":"19123",
+    "addr:street":"Fairmount Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.152702,39.964951,-75.152702,39.964951",
     "geom:latitude":39.964951,
     "geom:longitude":-75.152702,
@@ -36,14 +41,15 @@
     "sg:website":"http://www.soltrace.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85842723,
+        420782579,
         102191575,
+        1108721811,
         404483701,
         85633793,
         101718083,
         102081353,
         85688481,
-        420559159
+        85842723
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,7 +64,8 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85842723,
+            "macrohood_id":1108721811,
+            "neighbourhood_id":420782579,
             "region_id":85688481,
             "venue_id":622467093
         },
@@ -68,15 +75,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":420559159,
+            "macrohood_id":1108721811,
+            "neighbourhood_id":85842723,
             "region_id":85688481,
             "venue_id":622467093
         }
     ],
     "wof:id":622467093,
-    "wof:lastmodified":1467081911,
+    "wof:lastmodified":1489038646,
     "wof:name":"Tracey",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 622453819,
   "type": "Feature",
   "properties": {
+    "addr:full":"5000 S Broad St Bldg 10 Philadelphia PA 19112",
+    "addr:housenumber":"5000;10",
+    "addr:postcode":"19112",
+    "addr:street":"S Broad St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.175873,39.89003,-75.175873,39.89003",
     "geom:latitude":39.89003,
     "geom:longitude":-75.175873,
@@ -32,6 +37,7 @@
     "wof:belongsto":[
         420539511,
         102191575,
+        1108721801,
         404483701,
         85633793,
         101718083,
@@ -51,13 +57,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721801,
             "neighbourhood_id":420539511,
             "region_id":85688481,
             "venue_id":622453819
         }
     ],
     "wof:id":622453819,
-    "wof:lastmodified":1467081902,
+    "wof:lastmodified":1489038409,
     "wof:name":"Anthropologie",
     "wof:parent_id":420539511,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 622415297,
   "type": "Feature",
   "properties": {
+    "addr:full":"135 S 19th St Apt 708 Philadelphia PA 19103",
+    "addr:housenumber":"135;708",
+    "addr:postcode":"19103",
+    "addr:street":"S 19Th St Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.172142,39.95079,-75.172142,39.95079",
     "geom:latitude":39.95079,
     "geom:longitude":-75.172142,
@@ -36,6 +41,7 @@
     "wof:belongsto":[
         85844705,
         102191575,
+        1108721797,
         404483701,
         85633793,
         101718083,
@@ -55,13 +61,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721797,
             "neighbourhood_id":85844705,
             "region_id":85688481,
             "venue_id":622415297
         }
     ],
     "wof:id":622415297,
-    "wof:lastmodified":1467081874,
+    "wof:lastmodified":1489031370,
     "wof:name":"Brusilow & Associates",
     "wof:parent_id":85844705,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 622460957,
   "type": "Feature",
   "properties": {
+    "addr:full":"427 W Chew Ave Unit 29 Philadelphia PA 19120",
+    "addr:housenumber":"427;29",
+    "addr:postcode":"19120",
+    "addr:street":"W Chew Ave Unit",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.129251,40.037852,-75.129251,40.037852",
     "geom:latitude":40.037852,
     "geom:longitude":-75.129251,
@@ -35,14 +40,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851737,
+        420782533,
         102191575,
+        1108721809,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        420558413
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,25 +62,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85851737,
-            "region_id":85688481,
-            "venue_id":622460957
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
-            "neighbourhood_id":420558413,
+            "macrohood_id":1108721809,
+            "neighbourhood_id":420782533,
             "region_id":85688481,
             "venue_id":622460957
         }
     ],
     "wof:id":622460957,
-    "wof:lastmodified":1467081907,
+    "wof:lastmodified":1489038565,
     "wof:name":"Chew Beer Distributor",
-    "wof:parent_id":-1,
+    "wof:parent_id":420782533,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

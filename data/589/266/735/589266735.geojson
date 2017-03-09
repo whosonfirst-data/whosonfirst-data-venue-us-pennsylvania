@@ -2,9 +2,14 @@
   "id": 589266735,
   "type": "Feature",
   "properties": {
+    "addr:full":"6421 Torresdale Ave Philadelphia PA 19135",
+    "addr:housenumber":"",
+    "addr:postcode":"6421;19135",
+    "addr:street":"Torresdale Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.050252,40.022194,-75.050252,40.022194",
     "geom:latitude":40.022194,
     "geom:longitude":-75.050252,
@@ -25,18 +30,39 @@
     "sg:province":"PA",
     "sg:website":"www.aztecphilly.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85851751,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5hAXwy9ug4jTzr1zEfowkj_40.022194_-75.050252@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"b67a9b8744ae23315f3071d2028684b4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85851751,
+            "region_id":85688481,
+            "venue_id":589266735
+        }
+    ],
     "wof:id":589266735,
-    "wof:lastmodified":1466789737,
+    "wof:lastmodified":1489037243,
     "wof:name":"Aztec Signs",
-    "wof:parent_id":-1,
+    "wof:parent_id":85851751,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

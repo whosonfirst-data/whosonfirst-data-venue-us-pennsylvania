@@ -2,9 +2,14 @@
   "id": 605875245,
   "type": "Feature",
   "properties": {
+    "addr:full":"6900 Torresdale Ave Philadelphia PA 19135",
+    "addr:housenumber":"",
+    "addr:postcode":"6900;19135",
+    "addr:street":"Torresdale Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.042163,40.026506,-75.042163,40.026506",
     "geom:latitude":40.026506,
     "geom:longitude":-75.042163,
@@ -29,18 +34,39 @@
     "sg:postcode":"19135",
     "sg:province":"PA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85851751,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0RbwpluvEznEOB6ECw1pW7_40.026506_-75.042163@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"beca1268be8d89efc0e76506e1524e66",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85851751,
+            "region_id":85688481,
+            "venue_id":605875245
+        }
+    ],
     "wof:id":605875245,
-    "wof:lastmodified":1467081769,
+    "wof:lastmodified":1489037266,
     "wof:name":"Illusions Fasions & Fantasies",
-    "wof:parent_id":-1,
+    "wof:parent_id":85851751,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

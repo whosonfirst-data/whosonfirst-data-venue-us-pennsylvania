@@ -2,9 +2,14 @@
   "id": 589229859,
   "type": "Feature",
   "properties": {
+    "addr:full":"327 N 17th St Philadelphia PA 19103",
+    "addr:housenumber":"327",
+    "addr:postcode":"19103",
+    "addr:street":"N 17Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.166882,39.959739,-75.166882,39.959739",
     "geom:latitude":39.959739,
     "geom:longitude":-75.166882,
@@ -29,14 +34,15 @@
     "sg:website":"www.crcg.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871423,
+        1108721881,
+        85871427,
         102191575,
+        1108721797,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85871427
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,25 +57,17 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85871423,
-            "region_id":85688481,
-            "venue_id":589229859
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721797,
+            "microhood_id":1108721881,
             "neighbourhood_id":85871427,
             "region_id":85688481,
             "venue_id":589229859
         }
     ],
     "wof:id":589229859,
-    "wof:lastmodified":1466788845,
+    "wof:lastmodified":1489039147,
     "wof:name":"Cultural Resource Consulting",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108721881,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

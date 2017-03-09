@@ -2,9 +2,14 @@
   "id": 605772097,
   "type": "Feature",
   "properties": {
+    "addr:full":"35 W Chelten Ave Philadelphia PA 19144",
+    "addr:housenumber":"35",
+    "addr:postcode":"19144",
+    "addr:street":"W Chelten Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.176084,40.034741,-75.176084,40.034741",
     "geom:latitude":40.034741,
     "geom:longitude":-75.176084,
@@ -30,14 +35,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85821407,
+        1108722085,
         102191575,
+        1108721809,
         404483701,
         85633793,
         101718083,
         102081353,
         85688481,
-        420559135
+        85821407
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,7 +58,8 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85821407,
+            "macrohood_id":1108721809,
+            "neighbourhood_id":1108722085,
             "region_id":85688481,
             "venue_id":605772097
         },
@@ -62,15 +69,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":420559135,
+            "macrohood_id":1108721809,
+            "neighbourhood_id":85821407,
             "region_id":85688481,
             "venue_id":605772097
         }
     ],
     "wof:id":605772097,
-    "wof:lastmodified":1467081705,
+    "wof:lastmodified":1489038707,
     "wof:name":"Samaritan Counseling Ctr",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 605790059,
   "type": "Feature",
   "properties": {
+    "addr:full":"5210 Greene St Philadelphia PA 19144",
+    "addr:housenumber":"5210",
+    "addr:postcode":"19144",
+    "addr:street":"Greene St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.170213,40.030097,-75.170213,40.030097",
     "geom:latitude":40.030097,
     "geom:longitude":-75.170213,
@@ -31,12 +36,13 @@
     "wof:belongsto":[
         85821407,
         102191575,
+        1108721809,
         404483701,
         85633793,
         101718083,
         102081353,
         85688481,
-        420559163
+        1108723467
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,6 +57,7 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721809,
             "neighbourhood_id":85821407,
             "region_id":85688481,
             "venue_id":605790059
@@ -61,15 +68,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":420559163,
+            "macrohood_id":1108721809,
+            "neighbourhood_id":1108723467,
             "region_id":85688481,
             "venue_id":605790059
         }
     ],
     "wof:id":605790059,
-    "wof:lastmodified":1467081716,
+    "wof:lastmodified":1489038738,
     "wof:name":"F A Di Condina Automotive",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

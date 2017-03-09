@@ -2,9 +2,14 @@
   "id": 622238655,
   "type": "Feature",
   "properties": {
+    "addr:full":"1609 N Delaware Ave Philadelphia PA 19125",
+    "addr:housenumber":"1609",
+    "addr:postcode":"19125",
+    "addr:street":"N Delaware Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.125504,39.9697,-75.125504,39.9697",
     "geom:latitude":39.9697,
     "geom:longitude":-75.125504,
@@ -30,14 +35,14 @@
     "sg:website":"www.sableinc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420559181,
+        85819391,
         102191575,
+        1108721813,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85819391
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,25 +57,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":420559181,
-            "region_id":85688481,
-            "venue_id":622238655
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721813,
             "neighbourhood_id":85819391,
             "region_id":85688481,
             "venue_id":622238655
         }
     ],
     "wof:id":622238655,
-    "wof:lastmodified":1466788582,
+    "wof:lastmodified":1489035415,
     "wof:name":"Sable Construction Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85819391,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

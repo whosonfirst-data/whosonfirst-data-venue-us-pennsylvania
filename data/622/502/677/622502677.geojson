@@ -2,9 +2,14 @@
   "id": 622502677,
   "type": "Feature",
   "properties": {
+    "addr:full":"7051 Passyunk Ave Philadelphia PA 19142",
+    "addr:housenumber":"",
+    "addr:postcode":"7051;19142",
+    "addr:street":"Passyunk Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.235051,39.913936,-75.235051,39.913936",
     "geom:latitude":39.913936,
     "geom:longitude":-75.235051,
@@ -32,11 +37,13 @@
     "wof:belongsto":[
         420539519,
         102191575,
+        1108721803,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481
+        85688481,
+        85817921
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +58,27 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721803,
             "neighbourhood_id":420539519,
+            "region_id":85688481,
+            "venue_id":622502677
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721803,
+            "neighbourhood_id":85817921,
             "region_id":85688481,
             "venue_id":622502677
         }
     ],
     "wof:id":622502677,
-    "wof:lastmodified":1467081937,
+    "wof:lastmodified":1489035871,
     "wof:name":"Therapy Solutions Inc",
-    "wof:parent_id":420539519,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

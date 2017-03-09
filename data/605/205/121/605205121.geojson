@@ -2,9 +2,14 @@
   "id": 605205121,
   "type": "Feature",
   "properties": {
+    "addr:full":"506 S 41st St Philadelphia PA 19104",
+    "addr:housenumber":"506",
+    "addr:postcode":"19104",
+    "addr:street":"S 41St St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.205761,39.948589,-75.205761,39.948589",
     "geom:latitude":39.948589,
     "geom:longitude":-75.205761,
@@ -27,6 +32,7 @@
     "wof:belongsto":[
         85871411,
         102191575,
+        1108721805,
         404483701,
         85633793,
         101718083,
@@ -46,13 +52,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721805,
             "neighbourhood_id":85871411,
             "region_id":85688481,
             "venue_id":605205121
         }
     ],
     "wof:id":605205121,
-    "wof:lastmodified":1466787879,
+    "wof:lastmodified":1489033266,
     "wof:name":"Florence Garden",
     "wof:parent_id":85871411,
     "wof:placetype":"venue",

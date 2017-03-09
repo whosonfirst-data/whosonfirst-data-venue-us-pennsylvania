@@ -2,9 +2,14 @@
   "id": 622500073,
   "type": "Feature",
   "properties": {
+    "addr:full":"3502 N 13th St Philadelphia PA 19140",
+    "addr:housenumber":"3502",
+    "addr:postcode":"19140",
+    "addr:street":"N 13Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.149909,40.005959,-75.149909,40.005959",
     "geom:latitude":40.005959,
     "geom:longitude":-75.149909,
@@ -28,14 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85882379,
+        1108723477,
         102191575,
+        1108721811,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        420558573
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,25 +55,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85882379,
-            "region_id":85688481,
-            "venue_id":622500073
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
-            "neighbourhood_id":420558573,
+            "macrohood_id":1108721811,
+            "neighbourhood_id":1108723477,
             "region_id":85688481,
             "venue_id":622500073
         }
     ],
     "wof:id":622500073,
-    "wof:lastmodified":1467081935,
+    "wof:lastmodified":1489038808,
     "wof:name":"Anytime Any Place Locksmith",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108723477,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

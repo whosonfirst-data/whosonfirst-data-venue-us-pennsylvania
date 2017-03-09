@@ -2,9 +2,14 @@
   "id": 621878983,
   "type": "Feature",
   "properties": {
+    "addr:full":"4313 Lancaster Ave Philadelphia PA 19104",
+    "addr:housenumber":"4313",
+    "addr:postcode":"19104",
+    "addr:street":"Lancaster Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.209896,39.967892,-75.209896,39.967892",
     "geom:latitude":39.967892,
     "geom:longitude":-75.209896,
@@ -41,6 +46,7 @@
     "wof:belongsto":[
         85805623,
         102191575,
+        1108721805,
         404483701,
         85633793,
         101718083,
@@ -60,13 +66,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721805,
             "neighbourhood_id":85805623,
             "region_id":85688481,
             "venue_id":621878983
         }
     ],
     "wof:id":621878983,
-    "wof:lastmodified":1466782240,
+    "wof:lastmodified":1489033098,
     "wof:name":"Central Glass Inc",
     "wof:parent_id":85805623,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 622445987,
   "type": "Feature",
   "properties": {
+    "addr:full":"924 Cherry St Fl 4 Philadelphia PA 19107",
+    "addr:housenumber":"924;4",
+    "addr:postcode":"19107",
+    "addr:street":"Cherry St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.155312,39.954369,-75.155312,39.954369",
     "geom:latitude":39.954369,
     "geom:longitude":-75.155312,
@@ -40,12 +45,12 @@
     "wof:belongsto":[
         85810893,
         102191575,
+        1108721797,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85871425
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,25 +65,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721797,
             "neighbourhood_id":85810893,
-            "region_id":85688481,
-            "venue_id":622445987
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
-            "neighbourhood_id":85871425,
             "region_id":85688481,
             "venue_id":622445987
         }
     ],
     "wof:id":622445987,
-    "wof:lastmodified":1467081896,
+    "wof:lastmodified":1489031532,
     "wof:name":"Center For Responsible Funding",
-    "wof:parent_id":-1,
+    "wof:parent_id":85810893,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

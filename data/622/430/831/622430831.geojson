@@ -2,9 +2,14 @@
   "id": 622430831,
   "type": "Feature",
   "properties": {
+    "addr:full":"3902 Spring Garden St # 1 Philadelphia PA 19104",
+    "addr:housenumber":"3902",
+    "addr:postcode":"19104",
+    "addr:street":"Spring Garden St # 1",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.200104,39.961929,-75.200104,39.961929",
     "geom:latitude":39.961929,
     "geom:longitude":-75.200104,
@@ -41,11 +46,13 @@
     "wof:belongsto":[
         85871455,
         102191575,
+        1108721805,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481
+        85688481,
+        85832221
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,15 +67,27 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721805,
             "neighbourhood_id":85871455,
+            "region_id":85688481,
+            "venue_id":622430831
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721805,
+            "neighbourhood_id":85832221,
             "region_id":85688481,
             "venue_id":622430831
         }
     ],
     "wof:id":622430831,
-    "wof:lastmodified":1467081885,
+    "wof:lastmodified":1489036196,
     "wof:name":"People's Emergency Center",
-    "wof:parent_id":85871455,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

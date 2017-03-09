@@ -2,9 +2,14 @@
   "id": 588749849,
   "type": "Feature",
   "properties": {
+    "addr:full":"7335 Frankford Ave Philadelphia PA 19136",
+    "addr:housenumber":"7335",
+    "addr:postcode":"19136",
+    "addr:street":"Frankford Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.039596,40.037142,-75.039596,40.037142",
     "geom:latitude":40.037142,
     "geom:longitude":-75.039596,
@@ -27,18 +32,39 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4xKEdAzHg6zXCcaShWL1pF_40.037142_-75.039596@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"4dc90134e508f3844933afe68ca3a450",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":588749849
+        }
+    ],
     "wof:id":588749849,
-    "wof:lastmodified":1466777859,
+    "wof:lastmodified":1489036112,
     "wof:name":"Wayne K Geller MD",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

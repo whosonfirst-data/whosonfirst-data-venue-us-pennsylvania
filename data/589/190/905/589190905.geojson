@@ -2,9 +2,14 @@
   "id": 589190905,
   "type": "Feature",
   "properties": {
+    "addr:full":"900 W Porter St Philadelphia PA 19148",
+    "addr:housenumber":"900",
+    "addr:postcode":"19148",
+    "addr:street":"W Porter St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.162928,39.918389,-75.162928,39.918389",
     "geom:latitude":39.918389,
     "geom:longitude":-75.162928,
@@ -25,14 +30,14 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420559139,
+        1108723485,
         102191575,
+        1108721801,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85867159
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,25 +52,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":420559139,
-            "region_id":85688481,
-            "venue_id":589190905
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
-            "neighbourhood_id":85867159,
+            "macrohood_id":1108721801,
+            "neighbourhood_id":1108723485,
             "region_id":85688481,
             "venue_id":589190905
         }
     ],
     "wof:id":589190905,
-    "wof:lastmodified":1466787864,
+    "wof:lastmodified":1489038869,
     "wof:name":"Baby D's",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108723485,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

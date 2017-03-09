@@ -2,9 +2,14 @@
   "id": 622492001,
   "type": "Feature",
   "properties": {
+    "addr:full":"4449 Cottman Ave Philadelphia PA 19135",
+    "addr:housenumber":"4449",
+    "addr:postcode":"19135",
+    "addr:street":"Cottman Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.037197,40.032614,-75.037197,40.032614",
     "geom:latitude":40.032614,
     "geom:longitude":-75.037197,
@@ -35,18 +40,39 @@
         "contractors-commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0cECab61icCR1rqYMgbKcU_40.032614_-75.037197@1303262458"
     },
     "wof:country":"US",
     "wof:geomhash":"0111368ceda66fe789c4d0a00ba035eb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":622492001
+        }
+    ],
     "wof:id":622492001,
-    "wof:lastmodified":1467081929,
+    "wof:lastmodified":1489036112,
     "wof:name":"Nagel Robert Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 606021085,
   "type": "Feature",
   "properties": {
+    "addr:full":"1535 N 59th St Philadelphia PA 19151",
+    "addr:housenumber":"1535",
+    "addr:postcode":"19151",
+    "addr:street":"N 59Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.238418,39.975575,-75.238418,39.975575",
     "geom:latitude":39.975575,
     "geom:longitude":-75.238418,
@@ -28,14 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420558313,
+        420782491,
         102191575,
+        1108721805,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85882387
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,25 +55,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":420558313,
-            "region_id":85688481,
-            "venue_id":606021085
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
-            "neighbourhood_id":85882387,
+            "macrohood_id":1108721805,
+            "neighbourhood_id":420782491,
             "region_id":85688481,
             "venue_id":606021085
         }
     ],
     "wof:id":606021085,
-    "wof:lastmodified":1466778357,
+    "wof:lastmodified":1489038513,
     "wof:name":"St Rose Of Lima Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":420782491,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

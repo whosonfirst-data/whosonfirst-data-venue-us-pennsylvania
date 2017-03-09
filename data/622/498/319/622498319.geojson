@@ -2,9 +2,14 @@
   "id": 622498319,
   "type": "Feature",
   "properties": {
+    "addr:full":"253 W Erie Ave Philadelphia PA 19140",
+    "addr:housenumber":"253",
+    "addr:postcode":"19140",
+    "addr:street":"W Erie Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.133143,40.006927,-75.133143,40.006927",
     "geom:latitude":40.006927,
     "geom:longitude":-75.133143,
@@ -43,14 +48,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85810935,
+        1108723477,
         102191575,
+        1108721811,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        420539527
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,25 +70,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85810935,
-            "region_id":85688481,
-            "venue_id":622498319
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
-            "neighbourhood_id":420539527,
+            "macrohood_id":1108721811,
+            "neighbourhood_id":1108723477,
             "region_id":85688481,
             "venue_id":622498319
         }
     ],
     "wof:id":622498319,
-    "wof:lastmodified":1467081934,
+    "wof:lastmodified":1489038779,
     "wof:name":"Modern Classics Automobile Sls",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108723477,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 622476813,
   "type": "Feature",
   "properties": {
+    "addr:full":"800 Walnut Ln Philadelphia PA 19128",
+    "addr:housenumber":"800",
+    "addr:postcode":"19128",
+    "addr:street":"Walnut Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.2034,40.029579,-75.2034,40.029579",
     "geom:latitude":40.029579,
     "geom:longitude":-75.2034,
@@ -35,14 +40,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85844711,
+        420539473,
         102191575,
+        1108721809,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        420539473
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,25 +62,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85844711,
-            "region_id":85688481,
-            "venue_id":622476813
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721809,
             "neighbourhood_id":420539473,
             "region_id":85688481,
             "venue_id":622476813
         }
     ],
     "wof:id":622476813,
-    "wof:lastmodified":1467081918,
+    "wof:lastmodified":1489038317,
     "wof:name":"Walnut Lane Golf Club",
-    "wof:parent_id":-1,
+    "wof:parent_id":420539473,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 622399399,
   "type": "Feature",
   "properties": {
+    "addr:full":"1800 John F Kennedy Blvd Philadelphia PA 19103",
+    "addr:housenumber":"1800",
+    "addr:postcode":"19103",
+    "addr:street":"John F Kennedy Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.1698,39.954102,-75.1698,39.954102",
     "geom:latitude":39.954102,
     "geom:longitude":-75.1698,
@@ -25,14 +30,15 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85893339,
+        1108721903,
+        85871427,
         102191575,
+        1108721797,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85871427
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,25 +53,17 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85893339,
-            "region_id":85688481,
-            "venue_id":622399399
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721797,
+            "microhood_id":1108721903,
             "neighbourhood_id":85871427,
             "region_id":85688481,
             "venue_id":622399399
         }
     ],
     "wof:id":622399399,
-    "wof:lastmodified":1467081861,
+    "wof:lastmodified":1489039449,
     "wof:name":"Lynch P J Atty",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108721903,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

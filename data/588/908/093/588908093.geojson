@@ -2,9 +2,14 @@
   "id": 588908093,
   "type": "Feature",
   "properties": {
+    "addr:full":"8101 Erdrick St Philadelphia PA 19136",
+    "addr:housenumber":"8101",
+    "addr:postcode":"19136",
+    "addr:street":"Erdrick St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.023991,40.041359,-75.023991,40.041359",
     "geom:latitude":40.041359,
     "geom:longitude":-75.023991,
@@ -27,18 +32,39 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3TqLw3iksl5Dz6F4PCtfEh_40.041359_-75.023991@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"61eb10580a917c142ee3500819f9be76",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":588908093
+        }
+    ],
     "wof:id":588908093,
-    "wof:lastmodified":1466783566,
+    "wof:lastmodified":1489036108,
     "wof:name":"Mount Zion Baptist Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

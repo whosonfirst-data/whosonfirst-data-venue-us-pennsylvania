@@ -2,9 +2,14 @@
   "id": 605798479,
   "type": "Feature",
   "properties": {
+    "addr:full":"5903 N Broad St Philadelphia PA 19141",
+    "addr:housenumber":"5903",
+    "addr:postcode":"19141",
+    "addr:street":"N Broad St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.143478,40.044383,-75.143478,40.044383",
     "geom:latitude":40.044383,
     "geom:longitude":-75.143478,
@@ -29,14 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851737,
+        420782541,
         102191575,
+        1108721809,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        420558537
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,25 +56,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85851737,
-            "region_id":85688481,
-            "venue_id":605798479
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
-            "neighbourhood_id":420558537,
+            "macrohood_id":1108721809,
+            "neighbourhood_id":420782541,
             "region_id":85688481,
             "venue_id":605798479
         }
     ],
     "wof:id":605798479,
-    "wof:lastmodified":1467081722,
+    "wof:lastmodified":1489038596,
     "wof:name":"Nedro Medical Ctr",
-    "wof:parent_id":-1,
+    "wof:parent_id":420782541,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

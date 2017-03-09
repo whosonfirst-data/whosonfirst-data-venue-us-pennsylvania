@@ -2,9 +2,14 @@
   "id": 622438259,
   "type": "Feature",
   "properties": {
+    "addr:full":"242 Market St Apt 244 Philadelphia PA 19106",
+    "addr:housenumber":"242;244",
+    "addr:postcode":"19106",
+    "addr:street":"Market St Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.145278,39.950114,-75.145278,39.950114",
     "geom:latitude":39.950114,
     "geom:longitude":-75.145278,
@@ -25,14 +30,14 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85893355,
+        85839299,
         102191575,
+        1108721797,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85839299
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,25 +52,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85893355,
-            "region_id":85688481,
-            "venue_id":622438259
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721797,
             "neighbourhood_id":85839299,
             "region_id":85688481,
             "venue_id":622438259
         }
     ],
     "wof:id":622438259,
-    "wof:lastmodified":1467081890,
+    "wof:lastmodified":1489031226,
     "wof:name":"Taflin's Department Store Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85839299,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

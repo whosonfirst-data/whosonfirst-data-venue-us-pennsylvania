@@ -2,9 +2,14 @@
   "id": 622224625,
   "type": "Feature",
   "properties": {
+    "addr:full":"7829 Torresdale Ave Philadelphia PA 19136",
+    "addr:housenumber":"7829",
+    "addr:postcode":"19136",
+    "addr:street":"Torresdale Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.026764,40.03449,-75.026764,40.03449",
     "geom:latitude":40.03449,
     "geom:longitude":-75.026764,
@@ -30,18 +35,39 @@
         "alcoholic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6dPRZWnyHQ6T0aFKOci3wp_40.034609_-75.026295@1293134755"
     },
     "wof:country":"US",
     "wof:geomhash":"55c4e83a2f64c2cc835f0504a6e85aa4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":622224625
+        }
+    ],
     "wof:id":622224625,
-    "wof:lastmodified":1466788340,
+    "wof:lastmodified":1489036087,
     "wof:name":"Tacony Beer Distributing Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

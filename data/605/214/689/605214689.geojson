@@ -2,9 +2,14 @@
   "id": 605214689,
   "type": "Feature",
   "properties": {
+    "addr:full":"5433 Howland St Philadelphia PA 19124",
+    "addr:housenumber":"5433",
+    "addr:postcode":"19124",
+    "addr:street":"Howland St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.103568,40.034096,-75.103568,40.034096",
     "geom:latitude":40.034096,
     "geom:longitude":-75.103568,
@@ -29,14 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809945,
+        420539477,
         102191575,
+        1108721807,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        420539477
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,25 +56,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85809945,
-            "region_id":85688481,
-            "venue_id":605214689
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721807,
             "neighbourhood_id":420539477,
             "region_id":85688481,
             "venue_id":605214689
         }
     ],
     "wof:id":605214689,
-    "wof:lastmodified":1466787966,
+    "wof:lastmodified":1489034146,
     "wof:name":"Ctc Holding Company",
-    "wof:parent_id":-1,
+    "wof:parent_id":420539477,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 622161971,
   "type": "Feature",
   "properties": {
+    "addr:full":"900 Christian St Philadelphia PA 19147",
+    "addr:housenumber":"900",
+    "addr:postcode":"19147",
+    "addr:street":"Christian St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.157799,39.939098,-75.157799,39.939098",
     "geom:latitude":39.939098,
     "geom:longitude":-75.157799,
@@ -31,6 +36,7 @@
     "wof:belongsto":[
         85805405,
         102191575,
+        1108721801,
         404483701,
         85633793,
         101718083,
@@ -50,13 +56,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721801,
             "neighbourhood_id":85805405,
             "region_id":85688481,
             "venue_id":622161971
         }
     ],
     "wof:id":622161971,
-    "wof:lastmodified":1466786077,
+    "wof:lastmodified":1489032697,
     "wof:name":"Lorenzo Pizza",
     "wof:parent_id":85805405,
     "wof:placetype":"venue",

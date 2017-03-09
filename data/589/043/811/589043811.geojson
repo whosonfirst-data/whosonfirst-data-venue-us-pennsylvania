@@ -2,9 +2,14 @@
   "id": 589043811,
   "type": "Feature",
   "properties": {
+    "addr:full":"6945 Hegerman St Philadelphia PA 19135",
+    "addr:housenumber":"6945",
+    "addr:postcode":"19135",
+    "addr:street":"Hegerman St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.040381,40.025864,-75.040381,40.025864",
     "geom:latitude":40.025864,
     "geom:longitude":-75.040381,
@@ -28,18 +33,39 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85851751,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4DzivF5AnNaMMuds8qFNZZ_40.025864_-75.040381@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"b940b478adba14551975851307a6bd56",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85851751,
+            "region_id":85688481,
+            "venue_id":589043811
+        }
+    ],
     "wof:id":589043811,
-    "wof:lastmodified":1466780124,
+    "wof:lastmodified":1489037236,
     "wof:name":"24 7 Construction Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":85851751,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

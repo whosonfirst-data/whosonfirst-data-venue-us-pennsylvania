@@ -2,9 +2,14 @@
   "id": 606031159,
   "type": "Feature",
   "properties": {
+    "addr:full":"7355 Melrose St Philadelphia PA 19136",
+    "addr:housenumber":"7355",
+    "addr:postcode":"19136",
+    "addr:street":"Melrose St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.029526,40.025922,-75.029526,40.025922",
     "geom:latitude":40.025922,
     "geom:longitude":-75.029526,
@@ -29,18 +34,39 @@
         "painting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_71sd9qXtd2BA2GpPH9fMnZ_40.025922_-75.029526@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"5b3512cb3aed5ebb1b24af6e95fb9acb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":606031159
+        }
+    ],
     "wof:id":606031159,
-    "wof:lastmodified":1466779446,
+    "wof:lastmodified":1489036093,
     "wof:name":"Schonewolf's Auto Body & Tow",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 622200919,
   "type": "Feature",
   "properties": {
+    "addr:full":"2235 Hartranft St Philadelphia PA 19145",
+    "addr:housenumber":"2235",
+    "addr:postcode":"19145",
+    "addr:street":"Hartranft St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.186798,39.910906,-75.186798,39.910906",
     "geom:latitude":39.910906,
     "geom:longitude":-75.186798,
@@ -29,14 +34,14 @@
     "sg:website":"http://www.philadelphiadryice.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865521,
+        420782601,
         102191575,
+        1108721801,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        420558463
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,25 +56,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85865521,
-            "region_id":85688481,
-            "venue_id":622200919
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
-            "neighbourhood_id":420558463,
+            "macrohood_id":1108721801,
+            "neighbourhood_id":420782601,
             "region_id":85688481,
             "venue_id":622200919
         }
     ],
     "wof:id":622200919,
-    "wof:lastmodified":1466787449,
+    "wof:lastmodified":1489038690,
     "wof:name":"Jim's Enterprises, Inc.",
-    "wof:parent_id":-1,
+    "wof:parent_id":420782601,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 605944219,
   "type": "Feature",
   "properties": {
+    "addr:full":"1629 Snyder Ave Philadelphia PA 19145",
+    "addr:housenumber":"1629",
+    "addr:postcode":"19145",
+    "addr:street":"Snyder Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.174488,39.925063,-75.174488,39.925063",
     "geom:latitude":39.925063,
     "geom:longitude":-75.174488,
@@ -30,6 +35,7 @@
     "wof:belongsto":[
         85871443,
         102191575,
+        1108721801,
         404483701,
         85633793,
         101718083,
@@ -49,13 +55,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721801,
             "neighbourhood_id":85871443,
             "region_id":85688481,
             "venue_id":605944219
         }
     ],
     "wof:id":605944219,
-    "wof:lastmodified":1467081814,
+    "wof:lastmodified":1489032765,
     "wof:name":"Church Of Philadelphia",
     "wof:parent_id":85871443,
     "wof:placetype":"venue",

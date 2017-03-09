@@ -2,9 +2,14 @@
   "id": 605228345,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 Northwestern Ave Philadelphia PA 19118",
+    "addr:housenumber":"100",
+    "addr:postcode":"19118",
+    "addr:street":"Northwestern Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.230499,40.086021,-75.230499,40.086021",
     "geom:latitude":40.086021,
     "geom:longitude":-75.230499,
@@ -29,15 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
-        85633793,
-        85832039,
-        102081355,
         420539473,
         102191575,
+        1108721809,
         404483701,
+        85633793,
         101718083,
-        102081353
+        102081353,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,27 +51,21 @@
     "wof:geomhash":"328328a17c52848858d27179cb093ac9",
     "wof:hierarchy":[
         {
-            "country_id":85633793,
-            "county_id":102081355,
-            "neighbourhood_id":85832039,
-            "region_id":85688481,
-            "venue_id":605228345
-        },
-        {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721809,
             "neighbourhood_id":420539473,
             "region_id":85688481,
             "venue_id":605228345
         }
     ],
     "wof:id":605228345,
-    "wof:lastmodified":1466788520,
+    "wof:lastmodified":1489034193,
     "wof:name":"Morris Arboretum Of The Univ",
-    "wof:parent_id":-1,
+    "wof:parent_id":420539473,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],
