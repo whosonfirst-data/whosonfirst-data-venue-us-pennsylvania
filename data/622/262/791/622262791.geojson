@@ -2,9 +2,14 @@
   "id": 622262791,
   "type": "Feature",
   "properties": {
+    "addr:full":"813 Adams Ave Philadelphia PA 19124",
+    "addr:housenumber":"813",
+    "addr:postcode":"19124",
+    "addr:street":"Adams Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.103375,40.030166,-75.103375,40.030166",
     "geom:latitude":40.030166,
     "geom:longitude":-75.103375,
@@ -48,12 +53,12 @@
     "wof:belongsto":[
         420539475,
         102191575,
+        1108721807,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85809945
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,25 +73,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721807,
             "neighbourhood_id":420539475,
-            "region_id":85688481,
-            "venue_id":622262791
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
-            "neighbourhood_id":85809945,
             "region_id":85688481,
             "venue_id":622262791
         }
     ],
     "wof:id":622262791,
-    "wof:lastmodified":1466789212,
+    "wof:lastmodified":1489038322,
     "wof:name":"Dunkin' Donuts",
-    "wof:parent_id":-1,
+    "wof:parent_id":420539475,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

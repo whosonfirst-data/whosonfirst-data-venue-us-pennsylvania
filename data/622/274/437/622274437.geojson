@@ -2,9 +2,14 @@
   "id": 622274437,
   "type": "Feature",
   "properties": {
+    "addr:full":"1551 Washington Ave Philadelphia PA 19146",
+    "addr:housenumber":"1551",
+    "addr:postcode":"19146",
+    "addr:street":"Washington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.169261,39.938171,-75.169261,39.938171",
     "geom:latitude":39.938171,
     "geom:longitude":-75.169261,
@@ -57,6 +62,7 @@
     "wof:belongsto":[
         85842525,
         102191575,
+        1108721801,
         404483701,
         85633793,
         101718083,
@@ -76,13 +82,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721801,
             "neighbourhood_id":85842525,
             "region_id":85688481,
             "venue_id":622274437
         }
     ],
     "wof:id":622274437,
-    "wof:lastmodified":1466789670,
+    "wof:lastmodified":1489036588,
     "wof:name":"Dunkin' Donuts",
     "wof:parent_id":85842525,
     "wof:placetype":"venue",

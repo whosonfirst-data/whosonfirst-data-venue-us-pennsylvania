@@ -2,9 +2,14 @@
   "id": 589001167,
   "type": "Feature",
   "properties": {
+    "addr:full":"4800 Wingate St Philadelphia PA 19136",
+    "addr:housenumber":"4800",
+    "addr:postcode":"19136",
+    "addr:street":"Wingate St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.015746,40.039388,-75.015746,40.039388",
     "geom:latitude":40.039388,
     "geom:longitude":-75.015746,
@@ -29,18 +34,41 @@
         "painting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108722091,
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Ohk0ko6jCkVazJzpt7Zg6_40.039388_-75.015746@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"8550cb5ab5d8a3f55b7bf6e5db4baa31",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "microhood_id":1108722091,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":589001167
+        }
+    ],
     "wof:id":589001167,
-    "wof:lastmodified":1466776181,
+    "wof:lastmodified":1489039511,
     "wof:name":"Voltec Collision",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108722091,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 622522383,
   "type": "Feature",
   "properties": {
+    "addr:full":"3301 S Galloway St # 210 Philadelphia PA 19148",
+    "addr:housenumber":"3301",
+    "addr:postcode":"19148",
+    "addr:street":"S Galloway St # 210",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.155755,39.905537,-75.155755,39.905537",
     "geom:latitude":39.905537,
     "geom:longitude":-75.155755,
@@ -30,14 +35,14 @@
     "sg:website":"http://www.fmmaseattle.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85893341,
+        85893371,
         102191575,
+        1108721801,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        420559187
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,25 +57,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85893341,
-            "region_id":85688481,
-            "venue_id":622522383
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
-            "neighbourhood_id":420559187,
+            "macrohood_id":1108721801,
+            "neighbourhood_id":85893371,
             "region_id":85688481,
             "venue_id":622522383
         }
     ],
     "wof:id":622522383,
-    "wof:lastmodified":1467081952,
+    "wof:lastmodified":1489038212,
     "wof:name":"Fruit And Vegetable Program",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893371,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

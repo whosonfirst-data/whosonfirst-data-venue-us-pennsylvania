@@ -2,9 +2,14 @@
   "id": 622262891,
   "type": "Feature",
   "properties": {
+    "addr:full":"4311 Main St  Philadelphia PA 19127",
+    "addr:housenumber":"4311",
+    "addr:postcode":"19127",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.22219,40.025098,-75.22219,40.025098",
     "geom:latitude":40.025098,
     "geom:longitude":-75.22219,
@@ -45,6 +50,7 @@
     "wof:belongsto":[
         85832047,
         102191575,
+        1108721809,
         404483701,
         85633793,
         101718083,
@@ -64,13 +70,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721809,
             "neighbourhood_id":85832047,
             "region_id":85688481,
             "venue_id":622262891
         }
     ],
     "wof:id":622262891,
-    "wof:lastmodified":1466789315,
+    "wof:lastmodified":1489034208,
     "wof:name":"Meze Cafe Turkish Restaurant and Hookah Lounge",
     "wof:parent_id":85832047,
     "wof:placetype":"venue",

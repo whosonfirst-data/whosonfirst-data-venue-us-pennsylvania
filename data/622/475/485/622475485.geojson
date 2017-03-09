@@ -2,9 +2,14 @@
   "id": 622475485,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 Leverington Ave B2 Philadelphia PA 19127",
+    "addr:housenumber":"123;b2",
+    "addr:postcode":"19127",
+    "addr:street":"Leverington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.228752,40.029789,-75.228752,40.029789",
     "geom:latitude":40.029789,
     "geom:longitude":-75.228752,
@@ -37,6 +42,7 @@
     "wof:belongsto":[
         85832047,
         102191575,
+        1108721809,
         404483701,
         85633793,
         101718083,
@@ -56,13 +62,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721809,
             "neighbourhood_id":85832047,
             "region_id":85688481,
             "venue_id":622475485
         }
     ],
     "wof:id":622475485,
-    "wof:lastmodified":1467081917,
+    "wof:lastmodified":1489034476,
     "wof:name":"Ultimate Resource",
     "wof:parent_id":85832047,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 622486103,
   "type": "Feature",
   "properties": {
+    "addr:full":"2207 W Glenwood Ave Philadelphia PA 19132",
+    "addr:housenumber":"2207",
+    "addr:postcode":"19132",
+    "addr:street":"W Glenwood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.169073,39.990343,-75.169073,39.990343",
     "geom:latitude":39.990343,
     "geom:longitude":-75.169073,
@@ -29,14 +34,14 @@
     "sg:website":"http://www.paradisepillow.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420559133,
+        1108723483,
         102191575,
+        1108721811,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85851003
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,25 +56,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":420559133,
-            "region_id":85688481,
-            "venue_id":622486103
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
-            "neighbourhood_id":85851003,
+            "macrohood_id":1108721811,
+            "neighbourhood_id":1108723483,
             "region_id":85688481,
             "venue_id":622486103
         }
     ],
     "wof:id":622486103,
-    "wof:lastmodified":1467081925,
+    "wof:lastmodified":1489038867,
     "wof:name":"Paradise Pillow Inc.",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108723483,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

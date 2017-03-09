@@ -2,9 +2,14 @@
   "id": 588871349,
   "type": "Feature",
   "properties": {
+    "addr:full":"5101 Unruh Ave Philadelphia PA 19135",
+    "addr:housenumber":"5101",
+    "addr:postcode":"19135",
+    "addr:street":"Unruh Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.040534,40.017125,-75.040534,40.017125",
     "geom:latitude":40.017125,
     "geom:longitude":-75.040534,
@@ -27,18 +32,39 @@
         "mover"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85851751,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4klNgwzngC2wkkOYQ6B965_40.017125_-75.040534@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"e843fcd07168c72668e9b64b65c84da5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85851751,
+            "region_id":85688481,
+            "venue_id":588871349
+        }
+    ],
     "wof:id":588871349,
-    "wof:lastmodified":1466781070,
+    "wof:lastmodified":1489037266,
     "wof:name":"Superior Moving & Storage",
-    "wof:parent_id":-1,
+    "wof:parent_id":85851751,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

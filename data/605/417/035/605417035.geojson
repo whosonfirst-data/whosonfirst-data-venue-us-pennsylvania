@@ -2,9 +2,14 @@
   "id": 605417035,
   "type": "Feature",
   "properties": {
+    "addr:full":"7341 Tulip St Philadelphia PA 19136",
+    "addr:housenumber":"7341",
+    "addr:postcode":"19136",
+    "addr:street":"Tulip St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.031859,40.028775,-75.031859,40.028775",
     "geom:latitude":40.028775,
     "geom:longitude":-75.031859,
@@ -29,18 +34,39 @@
         "municipal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0wm5le8ypY9yTmTSrgEjRX_40.028775_-75.031859@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"45eb024454e7734ad9396d9caa451495",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":605417035
+        }
+    ],
     "wof:id":605417035,
-    "wof:lastmodified":1467081482,
+    "wof:lastmodified":1489036085,
     "wof:name":"DVC-Renew Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

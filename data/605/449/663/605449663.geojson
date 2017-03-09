@@ -2,9 +2,14 @@
   "id": 605449663,
   "type": "Feature",
   "properties": {
+    "addr:full":"4101 Tyson Ave Philadelphia PA 19135",
+    "addr:housenumber":"4101",
+    "addr:postcode":"19135",
+    "addr:street":"Tyson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.045554,40.032261,-75.045554,40.032261",
     "geom:latitude":40.032261,
     "geom:longitude":-75.045554,
@@ -28,18 +33,39 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85851751,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1W9i46kOyAHKu2U1dlJNkn_40.032261_-75.045554@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"ef588926ed8c34cf77ed324a8d05580b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85851751,
+            "region_id":85688481,
+            "venue_id":605449663
+        }
+    ],
     "wof:id":605449663,
-    "wof:lastmodified":1467081503,
+    "wof:lastmodified":1489037232,
     "wof:name":"Tri-State Assoc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85851751,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

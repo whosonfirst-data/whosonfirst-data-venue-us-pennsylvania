@@ -2,9 +2,14 @@
   "id": 622085429,
   "type": "Feature",
   "properties": {
+    "addr:full":"7017 Erdrick St Philadelphia PA 19135",
+    "addr:housenumber":"7017",
+    "addr:postcode":"19135",
+    "addr:street":"Erdrick St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.043656,40.033115,-75.043656,40.033115",
     "geom:latitude":40.033115,
     "geom:longitude":-75.043656,
@@ -28,18 +33,39 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85851751,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3IXmCZ0fRsliKNLIaR17gM_40.033115_-75.043656@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"abe626adfb6ab330fe21d06856743c67",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85851751,
+            "region_id":85688481,
+            "venue_id":622085429
+        }
+    ],
     "wof:id":622085429,
-    "wof:lastmodified":1466782294,
+    "wof:lastmodified":1489037229,
     "wof:name":"Preferred Housing Solutions",
-    "wof:parent_id":-1,
+    "wof:parent_id":85851751,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

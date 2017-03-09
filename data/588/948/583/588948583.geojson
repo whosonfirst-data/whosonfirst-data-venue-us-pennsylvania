@@ -2,9 +2,14 @@
   "id": 588948583,
   "type": "Feature",
   "properties": {
+    "addr:full":"1801 Bridge St Philadelphia PA 19124",
+    "addr:housenumber":"1801",
+    "addr:postcode":"19124",
+    "addr:street":"Bridge St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.072645,40.018929,-75.072645,40.018929",
     "geom:latitude":40.018929,
     "geom:longitude":-75.072645,
@@ -30,11 +35,13 @@
     "wof:belongsto":[
         85820547,
         102191575,
+        1108721807,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481
+        85688481,
+        85858409
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +56,27 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721807,
             "neighbourhood_id":85820547,
+            "region_id":85688481,
+            "venue_id":588948583
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85858409,
             "region_id":85688481,
             "venue_id":588948583
         }
     ],
     "wof:id":588948583,
-    "wof:lastmodified":1466785764,
+    "wof:lastmodified":1489036008,
     "wof:name":"Family Food Market",
-    "wof:parent_id":85820547,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

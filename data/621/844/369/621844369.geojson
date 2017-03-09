@@ -2,9 +2,14 @@
   "id": 621844369,
   "type": "Feature",
   "properties": {
+    "addr:full":"7600 Torresdale Ave Philadelphia PA 19136",
+    "addr:housenumber":"",
+    "addr:postcode":"7600;19136",
+    "addr:street":"Torresdale Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.029146,40.033231,-75.029146,40.033231",
     "geom:latitude":40.033231,
     "geom:longitude":-75.029146,
@@ -27,18 +32,39 @@
         "tire"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6zqxlW5VbeBxFYe0R7KRIe_40.033231_-75.029146@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"92476d0447e46ab863a7b611acce3b1d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":621844369
+        }
+    ],
     "wof:id":621844369,
-    "wof:lastmodified":1466780013,
+    "wof:lastmodified":1489036109,
     "wof:name":"Torresdale Tire & Out Of Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

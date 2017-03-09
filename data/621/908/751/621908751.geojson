@@ -2,9 +2,14 @@
   "id": 621908751,
   "type": "Feature",
   "properties": {
+    "addr:full":"7102 Germantown Ave Philadelphia PA 19119",
+    "addr:housenumber":"7102",
+    "addr:postcode":"19119",
+    "addr:street":"Germantown Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.190017,40.058864,-75.190017,40.058864",
     "geom:latitude":40.058864,
     "geom:longitude":-75.190017,
@@ -30,14 +35,15 @@
     "sg:website":"www.jsblake.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85835449,
+        85855969,
         102191575,
+        1108721809,
         404483701,
         85633793,
         101718083,
         102081353,
         85688481,
-        85855969
+        85835449
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,7 +58,8 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85835449,
+            "macrohood_id":1108721809,
+            "neighbourhood_id":85855969,
             "region_id":85688481,
             "venue_id":621908751
         },
@@ -62,15 +69,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85855969,
+            "macrohood_id":1108721809,
+            "neighbourhood_id":85835449,
             "region_id":85688481,
             "venue_id":621908751
         }
     ],
     "wof:id":621908751,
-    "wof:lastmodified":1466783700,
+    "wof:lastmodified":1489037418,
     "wof:name":"James Steven Blake GI Assoc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

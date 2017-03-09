@@ -2,9 +2,14 @@
   "id": 588902777,
   "type": "Feature",
   "properties": {
+    "addr:full":"6615 Tackawanna St Philadelphia PA 19135",
+    "addr:housenumber":"6615",
+    "addr:postcode":"19135",
+    "addr:street":"Tackawanna St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.051667,40.029707,-75.051667,40.029707",
     "geom:latitude":40.029707,
     "geom:longitude":-75.051667,
@@ -28,18 +33,39 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85851751,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3YDPLLjC1irxSOfX2FZv0d_40.029707_-75.051667@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"7018a9b917adea31e8bf993a99586e2d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85851751,
+            "region_id":85688481,
+            "venue_id":588902777
+        }
+    ],
     "wof:id":588902777,
-    "wof:lastmodified":1466783273,
+    "wof:lastmodified":1489037268,
     "wof:name":"Coolsource Technologies Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85851751,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

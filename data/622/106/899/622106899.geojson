@@ -2,9 +2,14 @@
   "id": 622106899,
   "type": "Feature",
   "properties": {
+    "addr:full":"824 S 8th St Philadelphia PA 19147",
+    "addr:housenumber":"824",
+    "addr:postcode":"19147",
+    "addr:street":"S 8Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.156236,39.939368,-75.156236,39.939368",
     "geom:latitude":39.939368,
     "geom:longitude":-75.156236,
@@ -27,12 +32,12 @@
     "wof:belongsto":[
         85805405,
         102191575,
+        1108721801,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85893319
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,25 +52,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721801,
             "neighbourhood_id":85805405,
-            "region_id":85688481,
-            "venue_id":622106899
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
-            "neighbourhood_id":85893319,
             "region_id":85688481,
             "venue_id":622106899
         }
     ],
     "wof:id":622106899,
-    "wof:lastmodified":1466783311,
+    "wof:lastmodified":1489032512,
     "wof:name":"Michaels Ristorante",
-    "wof:parent_id":-1,
+    "wof:parent_id":85805405,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

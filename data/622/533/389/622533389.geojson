@@ -2,9 +2,14 @@
   "id": 622533389,
   "type": "Feature",
   "properties": {
+    "addr:full":"225 N 11th St Philadelphia PA 19176",
+    "addr:housenumber":"225",
+    "addr:postcode":"19176",
+    "addr:street":"N 11Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.15728,39.956476,-75.15728,39.956476",
     "geom:latitude":39.956476,
     "geom:longitude":-75.15728,
@@ -37,6 +42,7 @@
     "wof:belongsto":[
         85810893,
         102191575,
+        1108721797,
         404483701,
         85633793,
         101718083,
@@ -56,13 +62,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721797,
             "neighbourhood_id":85810893,
             "region_id":85688481,
             "venue_id":622533389
         }
     ],
     "wof:id":622533389,
-    "wof:lastmodified":1467081960,
+    "wof:lastmodified":1489031464,
     "wof:name":"Zen Tea House",
     "wof:parent_id":85810893,
     "wof:placetype":"venue",

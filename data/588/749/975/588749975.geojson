@@ -2,9 +2,14 @@
   "id": 588749975,
   "type": "Feature",
   "properties": {
+    "addr:full":"7222 Walker St Philadelphia PA 19135",
+    "addr:housenumber":"7222",
+    "addr:postcode":"19135",
+    "addr:street":"Walker St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.038946,40.034222,-75.038946,40.034222",
     "geom:latitude":40.034222,
     "geom:longitude":-75.038946,
@@ -27,18 +32,39 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85851751,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6tXXkjul7VPhEGI7eECuJR_40.034222_-75.038946@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"0469daa3362f0114ab4feefc6a4bf8aa",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85851751,
+            "region_id":85688481,
+            "venue_id":588749975
+        }
+    ],
     "wof:id":588749975,
-    "wof:lastmodified":1466777892,
+    "wof:lastmodified":1489037259,
     "wof:name":"Robert C Mc Connell PE",
-    "wof:parent_id":-1,
+    "wof:parent_id":85851751,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

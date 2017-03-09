@@ -2,9 +2,14 @@
   "id": 622123619,
   "type": "Feature",
   "properties": {
+    "addr:full":"7255 Frankford Ave Philadelphia PA 19135",
+    "addr:housenumber":"7255",
+    "addr:postcode":"19135",
+    "addr:street":"Frankford Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.041028,40.036556,-75.041028,40.036556",
     "geom:latitude":40.036556,
     "geom:longitude":-75.041028,
@@ -28,18 +33,39 @@
     ],
     "sg:website":"www.mayfairjewelersinc.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85851751,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1k16703zKOTdFluGgs8Qsm_40.036556_-75.041028@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"cb360cd675951de9f7c5279bec875424",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85851751,
+            "region_id":85688481,
+            "venue_id":622123619
+        }
+    ],
     "wof:id":622123619,
-    "wof:lastmodified":1466784167,
+    "wof:lastmodified":1489037231,
     "wof:name":"Mayfair Jewelers Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85851751,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

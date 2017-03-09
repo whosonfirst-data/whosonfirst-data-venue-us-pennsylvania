@@ -2,9 +2,14 @@
   "id": 622403675,
   "type": "Feature",
   "properties": {
+    "addr:full":"13 S 20th St Philadelphia PA 19103",
+    "addr:housenumber":"13",
+    "addr:postcode":"19103",
+    "addr:street":"S 20Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.17326,39.952837,-75.17326,39.952837",
     "geom:latitude":39.952837,
     "geom:longitude":-75.17326,
@@ -27,12 +32,12 @@
     "wof:belongsto":[
         85844705,
         102191575,
+        1108721797,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85893329
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,25 +52,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721797,
             "neighbourhood_id":85844705,
-            "region_id":85688481,
-            "venue_id":622403675
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
-            "neighbourhood_id":85893329,
             "region_id":85688481,
             "venue_id":622403675
         }
     ],
     "wof:id":622403675,
-    "wof:lastmodified":1467081865,
+    "wof:lastmodified":1489031287,
     "wof:name":"JFK Nails",
-    "wof:parent_id":-1,
+    "wof:parent_id":85844705,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

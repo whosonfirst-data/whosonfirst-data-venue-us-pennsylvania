@@ -2,9 +2,14 @@
   "id": 622404399,
   "type": "Feature",
   "properties": {
+    "addr:full":"2201 Pine St Philadelphia PA 19103",
+    "addr:housenumber":"2201",
+    "addr:postcode":"19103",
+    "addr:street":"Pine St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.178146,39.947189,-75.178146,39.947189",
     "geom:latitude":39.947189,
     "geom:longitude":-75.178146,
@@ -37,6 +42,7 @@
     "wof:belongsto":[
         85844705,
         102191575,
+        1108721797,
         404483701,
         85633793,
         101718083,
@@ -56,13 +62,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721797,
             "neighbourhood_id":85844705,
             "region_id":85688481,
             "venue_id":622404399
         }
     ],
     "wof:id":622404399,
-    "wof:lastmodified":1467081865,
+    "wof:lastmodified":1489036792,
     "wof:name":"Bubble Builders",
     "wof:parent_id":85844705,
     "wof:placetype":"venue",

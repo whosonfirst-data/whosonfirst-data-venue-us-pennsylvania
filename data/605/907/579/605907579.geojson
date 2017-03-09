@@ -2,9 +2,14 @@
   "id": 605907579,
   "type": "Feature",
   "properties": {
+    "addr:full":"2431 Washington Ave Philadelphia PA 19146",
+    "addr:housenumber":"2431",
+    "addr:postcode":"19146",
+    "addr:street":"Washington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.18452,39.9401,-75.18452,39.9401",
     "geom:latitude":39.9401,
     "geom:longitude":-75.18452,
@@ -30,14 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871435,
+        85847359,
         102191575,
+        1108721801,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        420559177
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,25 +57,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85871435,
-            "region_id":85688481,
-            "venue_id":605907579
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
-            "neighbourhood_id":420559177,
+            "macrohood_id":1108721801,
+            "neighbourhood_id":85847359,
             "region_id":85688481,
             "venue_id":605907579
         }
     ],
     "wof:id":605907579,
-    "wof:lastmodified":1467081790,
+    "wof:lastmodified":1489037081,
     "wof:name":"USA Auto Body",
-    "wof:parent_id":-1,
+    "wof:parent_id":85847359,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

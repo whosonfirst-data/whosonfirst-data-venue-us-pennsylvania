@@ -2,9 +2,14 @@
   "id": 605525155,
   "type": "Feature",
   "properties": {
+    "addr:full":"1236 S Bonsall St Philadelphia PA 19146",
+    "addr:housenumber":"1236",
+    "addr:postcode":"19146",
+    "addr:street":"S Bonsall St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.182537,39.93811,-75.182537,39.93811",
     "geom:latitude":39.93811,
     "geom:longitude":-75.182537,
@@ -28,14 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871435,
+        85842525,
         102191575,
+        1108721801,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85842525
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,25 +55,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85871435,
-            "region_id":85688481,
-            "venue_id":605525155
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721801,
             "neighbourhood_id":85842525,
             "region_id":85688481,
             "venue_id":605525155
         }
     ],
     "wof:id":605525155,
-    "wof:lastmodified":1467081550,
+    "wof:lastmodified":1489032596,
     "wof:name":"Eugene J Mc Donald",
-    "wof:parent_id":-1,
+    "wof:parent_id":85842525,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

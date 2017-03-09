@@ -2,9 +2,14 @@
   "id": 588826923,
   "type": "Feature",
   "properties": {
+    "addr:full":"5325 N 15th St Philadelphia PA 19141",
+    "addr:housenumber":"5325",
+    "addr:postcode":"19141",
+    "addr:street":"N 15Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.147186,40.035085,-75.147186,40.035085",
     "geom:latitude":40.035085,
     "geom:longitude":-75.147186,
@@ -28,14 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851737,
+        85831205,
         102191575,
+        1108721809,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85831205
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,25 +55,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85851737,
-            "region_id":85688481,
-            "venue_id":588826923
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721809,
             "neighbourhood_id":85831205,
             "region_id":85688481,
             "venue_id":588826923
         }
     ],
     "wof:id":588826923,
-    "wof:lastmodified":1466777738,
+    "wof:lastmodified":1489034586,
     "wof:name":"K & M Towing Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85831205,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

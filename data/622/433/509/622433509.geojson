@@ -2,9 +2,14 @@
   "id": 622433509,
   "type": "Feature",
   "properties": {
+    "addr:full":"313 Walnut St Philadelphia PA 19106",
+    "addr:housenumber":"313",
+    "addr:postcode":"19106",
+    "addr:street":"Walnut St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.146599,39.947102,-75.146599,39.947102",
     "geom:latitude":39.947102,
     "geom:longitude":-75.146599,
@@ -31,6 +36,7 @@
     "wof:belongsto":[
         85849249,
         102191575,
+        1108721797,
         404483701,
         85633793,
         101718083,
@@ -50,13 +56,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721797,
             "neighbourhood_id":85849249,
             "region_id":85688481,
             "venue_id":622433509
         }
     ],
     "wof:id":622433509,
-    "wof:lastmodified":1467081887,
+    "wof:lastmodified":1489031300,
     "wof:name":"National Park Service",
     "wof:parent_id":85849249,
     "wof:placetype":"venue",

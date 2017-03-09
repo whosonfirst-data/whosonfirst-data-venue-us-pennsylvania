@@ -2,9 +2,14 @@
   "id": 605382681,
   "type": "Feature",
   "properties": {
+    "addr:full":"3142 S 20th St Philadelphia PA 19145",
+    "addr:housenumber":"3142",
+    "addr:postcode":"19145",
+    "addr:street":"S 20Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.182543,39.910483,-75.182543,39.910483",
     "geom:latitude":39.910483,
     "geom:longitude":-75.182543,
@@ -28,14 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865521,
+        420782601,
         102191575,
+        1108721801,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        420558463
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,25 +55,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85865521,
-            "region_id":85688481,
-            "venue_id":605382681
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
-            "neighbourhood_id":420558463,
+            "macrohood_id":1108721801,
+            "neighbourhood_id":420782601,
             "region_id":85688481,
             "venue_id":605382681
         }
     ],
     "wof:id":605382681,
-    "wof:lastmodified":1466791784,
+    "wof:lastmodified":1489038687,
     "wof:name":"Houff Transfer Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420782601,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

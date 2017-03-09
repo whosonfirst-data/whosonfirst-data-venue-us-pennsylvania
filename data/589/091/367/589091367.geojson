@@ -2,9 +2,14 @@
   "id": 589091367,
   "type": "Feature",
   "properties": {
+    "addr:full":"5120 Torresdale Ave Philadelphia PA 19124",
+    "addr:housenumber":"",
+    "addr:postcode":"5120;19124",
+    "addr:street":"Torresdale Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.070428,40.013166,-75.070428,40.013166",
     "geom:latitude":40.013166,
     "geom:longitude":-75.070428,
@@ -29,13 +34,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858409,
+        85820547,
         102191575,
+        1108721807,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481
+        85688481,
+        85858409
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +57,27 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85820547,
+            "region_id":85688481,
+            "venue_id":589091367
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
             "neighbourhood_id":85858409,
             "region_id":85688481,
             "venue_id":589091367
         }
     ],
     "wof:id":589091367,
-    "wof:lastmodified":1466783189,
+    "wof:lastmodified":1489035988,
     "wof:name":"Pete's Used Cars",
-    "wof:parent_id":85858409,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

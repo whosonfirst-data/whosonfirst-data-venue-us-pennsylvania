@@ -2,9 +2,14 @@
   "id": 589010501,
   "type": "Feature",
   "properties": {
+    "addr:full":"11600 Roosevelt Blvd Philadelphia PA 19116",
+    "addr:housenumber":"11600",
+    "addr:postcode":"19116",
+    "addr:street":"Roosevelt Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.002623,40.104363,-75.002623,40.104363",
     "geom:latitude":40.104363,
     "geom:longitude":-75.002623,
@@ -27,12 +32,12 @@
     "wof:belongsto":[
         420539457,
         102191575,
+        1108721807,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85837097
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,25 +52,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721807,
             "neighbourhood_id":420539457,
-            "region_id":85688481,
-            "venue_id":589010501
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
-            "neighbourhood_id":85837097,
             "region_id":85688481,
             "venue_id":589010501
         }
     ],
     "wof:id":589010501,
-    "wof:lastmodified":1466777121,
+    "wof:lastmodified":1489038239,
     "wof:name":"AAMCO Public Adjusters",
-    "wof:parent_id":-1,
+    "wof:parent_id":420539457,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

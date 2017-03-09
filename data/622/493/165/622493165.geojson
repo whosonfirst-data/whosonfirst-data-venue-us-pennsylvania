@@ -2,9 +2,14 @@
   "id": 622493165,
   "type": "Feature",
   "properties": {
+    "addr:full":"7916 Frankford Ave Philadelphia PA 19136",
+    "addr:housenumber":"7916",
+    "addr:postcode":"19136",
+    "addr:street":"Frankford Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.029365,40.040978,-75.029365,40.040978",
     "geom:latitude":40.040978,
     "geom:longitude":-75.029365,
@@ -32,18 +37,39 @@
         "churches-non-denominational"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_60hQjfyBwJkVd9pkQVYpG1_40.040978_-75.029365@1303262458"
     },
     "wof:country":"US",
     "wof:geomhash":"4613511dfb9b4b20fc15dfa42cf29c21",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":622493165
+        }
+    ],
     "wof:id":622493165,
-    "wof:lastmodified":1467081930,
+    "wof:lastmodified":1489036088,
     "wof:name":"Living Word Community",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

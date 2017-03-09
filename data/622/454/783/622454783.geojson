@@ -2,9 +2,14 @@
   "id": 622454783,
   "type": "Feature",
   "properties": {
+    "addr:full":"9140 Academy Rd Ste A&B Philadelphia PA 19114",
+    "addr:housenumber":"9140",
+    "addr:postcode":"19114",
+    "addr:street":"Academy Rd Ste A & B",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.00853,40.056495,-75.00853,40.056495",
     "geom:latitude":40.056495,
     "geom:longitude":-75.00853,
@@ -33,14 +38,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853249,
+        420539507,
         102191575,
+        1108721807,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        420539507
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,25 +60,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85853249,
-            "region_id":85688481,
-            "venue_id":622454783
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721807,
             "neighbourhood_id":420539507,
             "region_id":85688481,
             "venue_id":622454783
         }
     ],
     "wof:id":622454783,
-    "wof:lastmodified":1467081903,
+    "wof:lastmodified":1489033702,
     "wof:name":"Stein, Herbert Md",
-    "wof:parent_id":-1,
+    "wof:parent_id":420539507,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

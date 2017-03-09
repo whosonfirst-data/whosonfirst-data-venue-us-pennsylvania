@@ -2,9 +2,14 @@
   "id": 622177757,
   "type": "Feature",
   "properties": {
+    "addr:full":"3037 N 22nd St Philadelphia PA 19132",
+    "addr:housenumber":"3037",
+    "addr:postcode":"19132",
+    "addr:street":"N 22Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.166401,40.001037,-75.166401,40.001037",
     "geom:latitude":40.001037,
     "geom:longitude":-75.166401,
@@ -31,14 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85882379,
+        85893347,
         102191575,
+        1108721811,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85802763
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,25 +58,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85882379,
-            "region_id":85688481,
-            "venue_id":622177757
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
-            "neighbourhood_id":85802763,
+            "macrohood_id":1108721811,
+            "neighbourhood_id":85893347,
             "region_id":85688481,
             "venue_id":622177757
         }
     ],
     "wof:id":622177757,
-    "wof:lastmodified":1466786587,
+    "wof:lastmodified":1489038149,
     "wof:name":"Revelation Church Of Christ",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893347,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

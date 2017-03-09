@@ -2,9 +2,14 @@
   "id": 605285161,
   "type": "Feature",
   "properties": {
+    "addr:full":"6920 New State Rd Philadelphia PA 19135",
+    "addr:housenumber":"6920",
+    "addr:postcode":"19135",
+    "addr:street":"New State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.03882,40.021299,-75.03882,40.021299",
     "geom:latitude":40.021299,
     "geom:longitude":-75.03882,
@@ -28,18 +33,39 @@
         "truck"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85851751,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_37k3NP5uRGt9RMFlj1UNIB_40.021299_-75.038820@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"6aa8246ef4ef5ddb52178aa547195787",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85851751,
+            "region_id":85688481,
+            "venue_id":605285161
+        }
+    ],
     "wof:id":605285161,
-    "wof:lastmodified":1466789776,
+    "wof:lastmodified":1489037261,
     "wof:name":"Bill's Best Choice Trans",
-    "wof:parent_id":-1,
+    "wof:parent_id":85851751,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

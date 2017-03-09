@@ -2,9 +2,14 @@
   "id": 622459141,
   "type": "Feature",
   "properties": {
+    "addr:full":"6731 Musgrave St Philadelphia PA 19119",
+    "addr:housenumber":"6731",
+    "addr:postcode":"19119",
+    "addr:street":"Musgrave St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.18367,40.054466,-75.18367,40.054466",
     "geom:latitude":40.054466,
     "geom:longitude":-75.18367,
@@ -28,14 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85835449,
+        85893335,
         102191575,
+        1108721809,
         404483701,
         85633793,
         101718083,
         102081353,
         85688481,
-        85893335
+        85835449
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,7 +56,8 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85835449,
+            "macrohood_id":1108721809,
+            "neighbourhood_id":85893335,
             "region_id":85688481,
             "venue_id":622459141
         },
@@ -60,15 +67,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85893335,
+            "macrohood_id":1108721809,
+            "neighbourhood_id":85835449,
             "region_id":85688481,
             "venue_id":622459141
         }
     ],
     "wof:id":622459141,
-    "wof:lastmodified":1467081906,
+    "wof:lastmodified":1489038128,
     "wof:name":"Sueann Shuster Saint Francis Home For Children",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

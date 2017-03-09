@@ -2,9 +2,14 @@
   "id": 605190259,
   "type": "Feature",
   "properties": {
+    "addr:full":"3262 Red Lion Rd Philadelphia PA 19114",
+    "addr:housenumber":"3262",
+    "addr:postcode":"19114",
+    "addr:street":"Red Lion Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.993122,40.080878,-74.993122,40.080878",
     "geom:latitude":40.080878,
     "geom:longitude":-74.993122,
@@ -28,14 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85882385,
+        1108723463,
         102191575,
+        1108721807,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        420559171
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,25 +55,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85882385,
-            "region_id":85688481,
-            "venue_id":605190259
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
-            "neighbourhood_id":420559171,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":1108723463,
             "region_id":85688481,
             "venue_id":605190259
         }
     ],
     "wof:id":605190259,
-    "wof:lastmodified":1466787158,
+    "wof:lastmodified":1489038721,
     "wof:name":"Hair and Nails",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108723463,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

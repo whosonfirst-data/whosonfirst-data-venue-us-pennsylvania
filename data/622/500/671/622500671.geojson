@@ -2,9 +2,14 @@
   "id": 622500671,
   "type": "Feature",
   "properties": {
+    "addr:full":"1620 W Hunting Park Ave Philadelphia PA 19140",
+    "addr:housenumber":"1620",
+    "addr:postcode":"19140",
+    "addr:street":"W Hunting Park Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.152298,40.0168,-75.152298,40.0168",
     "geom:latitude":40.0168,
     "geom:longitude":-75.152298,
@@ -26,14 +31,14 @@
     "sg:website":"www.rapcoonline.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885405,
+        420782545,
         102191575,
+        1108721811,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        420560161
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,25 +53,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85885405,
-            "region_id":85688481,
-            "venue_id":622500671
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
-            "neighbourhood_id":420560161,
+            "macrohood_id":1108721811,
+            "neighbourhood_id":420782545,
             "region_id":85688481,
             "venue_id":622500671
         }
     ],
     "wof:id":622500671,
-    "wof:lastmodified":1467081936,
+    "wof:lastmodified":1489038604,
     "wof:name":"Rapco Automotive Centers",
-    "wof:parent_id":-1,
+    "wof:parent_id":420782545,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

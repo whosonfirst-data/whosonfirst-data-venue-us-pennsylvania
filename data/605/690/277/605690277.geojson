@@ -2,9 +2,14 @@
   "id": 605690277,
   "type": "Feature",
   "properties": {
+    "addr:full":"205 S 45th St Philadelphia PA 19104",
+    "addr:housenumber":"205",
+    "addr:postcode":"19104",
+    "addr:street":"S 45Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.211816,39.954248,-75.211816,39.954248",
     "geom:latitude":39.954248,
     "geom:longitude":-75.211816,
@@ -27,6 +32,7 @@
     "wof:belongsto":[
         85850813,
         102191575,
+        1108721805,
         404483701,
         85633793,
         101718083,
@@ -46,13 +52,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721805,
             "neighbourhood_id":85850813,
             "region_id":85688481,
             "venue_id":605690277
         }
     ],
     "wof:id":605690277,
-    "wof:lastmodified":1467081653,
+    "wof:lastmodified":1489033205,
     "wof:name":"Trans Atlantic Brokerage Inc",
     "wof:parent_id":85850813,
     "wof:placetype":"venue",

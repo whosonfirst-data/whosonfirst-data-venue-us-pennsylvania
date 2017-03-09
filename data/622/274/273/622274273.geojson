@@ -2,9 +2,14 @@
   "id": 622274273,
   "type": "Feature",
   "properties": {
+    "addr:full":"4518 Baltimore Ave Philadelphia PA 19143",
+    "addr:housenumber":"4518",
+    "addr:postcode":"19143",
+    "addr:street":"Baltimore Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.213745,39.948966,-75.213745,39.948966",
     "geom:latitude":39.948966,
     "geom:longitude":-75.213745,
@@ -41,6 +46,7 @@
     "wof:belongsto":[
         85850813,
         102191575,
+        1108721805,
         404483701,
         85633793,
         101718083,
@@ -60,13 +66,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721805,
             "neighbourhood_id":85850813,
             "region_id":85688481,
             "venue_id":622274273
         }
     ],
     "wof:id":622274273,
-    "wof:lastmodified":1466789664,
+    "wof:lastmodified":1489033058,
     "wof:name":"Fiesta Pizza",
     "wof:parent_id":85850813,
     "wof:placetype":"venue",

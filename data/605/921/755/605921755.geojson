@@ -2,9 +2,14 @@
   "id": 605921755,
   "type": "Feature",
   "properties": {
+    "addr:full":"1801 Market St Philadelphia PA 19103",
+    "addr:housenumber":"1801",
+    "addr:postcode":"19103",
+    "addr:street":"Market St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.171593,39.953368,-75.171593,39.953368",
     "geom:latitude":39.953368,
     "geom:longitude":-75.171593,
@@ -27,12 +32,13 @@
     "wof:belongsto":[
         85844705,
         102191575,
+        1108721797,
         404483701,
         85633793,
         101718083,
         102081353,
         85688481,
-        85893339
+        85871427
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,6 +53,7 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721797,
             "neighbourhood_id":85844705,
             "region_id":85688481,
             "venue_id":605921755
@@ -57,15 +64,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85893339,
+            "macrohood_id":1108721797,
+            "neighbourhood_id":85871427,
             "region_id":85688481,
             "venue_id":605921755
         }
     ],
     "wof:id":605921755,
-    "wof:lastmodified":1467081799,
+    "wof:lastmodified":1489036991,
     "wof:name":"10 Penn Ctr",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

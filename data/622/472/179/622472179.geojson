@@ -2,9 +2,14 @@
   "id": 622472179,
   "type": "Feature",
   "properties": {
+    "addr:full":"2531 E. Lehigh Ave Philadelphia PA 19125",
+    "addr:housenumber":"2531",
+    "addr:postcode":"19125",
+    "addr:street":"E. Lehigh Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.11595,39.980385,-75.11595,39.980385",
     "geom:latitude":39.980385,
     "geom:longitude":-75.11595,
@@ -34,14 +39,14 @@
     "sg:website":"www.portsideartscenter.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85828097,
+        85844425,
         102191575,
+        1108721813,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85844425
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,25 +61,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85828097,
-            "region_id":85688481,
-            "venue_id":622472179
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721813,
             "neighbourhood_id":85844425,
             "region_id":85688481,
             "venue_id":622472179
         }
     ],
     "wof:id":622472179,
-    "wof:lastmodified":1467081915,
+    "wof:lastmodified":1489035342,
     "wof:name":"Portside Arts Center",
-    "wof:parent_id":-1,
+    "wof:parent_id":85844425,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

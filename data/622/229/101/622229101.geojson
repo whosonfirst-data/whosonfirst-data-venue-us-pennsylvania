@@ -2,9 +2,14 @@
   "id": 622229101,
   "type": "Feature",
   "properties": {
+    "addr:full":"3219 Willits Rd Philadelphia PA 19114",
+    "addr:housenumber":"3219",
+    "addr:postcode":"19114",
+    "addr:street":"Willits Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.013706,40.056958,-75.013706,40.056958",
     "geom:latitude":40.056958,
     "geom:longitude":-75.013706,
@@ -35,13 +40,15 @@
     "sg:website":"http://lowesttires.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420539507,
+        85841261,
         102191575,
+        1108721807,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481
+        85688481,
+        420539507
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,15 +63,27 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85841261,
+            "region_id":85688481,
+            "venue_id":622229101
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
             "neighbourhood_id":420539507,
             "region_id":85688481,
             "venue_id":622229101
         }
     ],
     "wof:id":622229101,
-    "wof:lastmodified":1466788391,
+    "wof:lastmodified":1489036584,
     "wof:name":"Quality Discount Tire",
-    "wof:parent_id":420539507,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

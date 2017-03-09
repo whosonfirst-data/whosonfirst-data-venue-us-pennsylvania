@@ -2,9 +2,14 @@
   "id": 622494929,
   "type": "Feature",
   "properties": {
+    "addr:full":"1940 E Chelten Ave Philadelphia PA 19138",
+    "addr:housenumber":"1940",
+    "addr:postcode":"19138",
+    "addr:street":"E Chelten Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.151744,40.051666,-75.151744,40.051666",
     "geom:latitude":40.051666,
     "geom:longitude":-75.151744,
@@ -46,14 +51,14 @@
     "sg:website":"http://saintbenedictcatholicchurch.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819363,
+        85871397,
         102191575,
+        1108721809,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85871397
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,25 +73,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85819363,
-            "region_id":85688481,
-            "venue_id":622494929
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721809,
             "neighbourhood_id":85871397,
             "region_id":85688481,
             "venue_id":622494929
         }
     ],
     "wof:id":622494929,
-    "wof:lastmodified":1467081932,
+    "wof:lastmodified":1489034199,
     "wof:name":"St Benedicts Pre School",
-    "wof:parent_id":-1,
+    "wof:parent_id":85871397,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

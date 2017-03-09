@@ -2,9 +2,14 @@
   "id": 605683153,
   "type": "Feature",
   "properties": {
+    "addr:full":"700 Sansom St Philadelphia PA 19106",
+    "addr:housenumber":"700",
+    "addr:postcode":"19106",
+    "addr:street":"Sansom St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.154088,39.948803,-75.154088,39.948803",
     "geom:latitude":39.948803,
     "geom:longitude":-75.154088,
@@ -25,13 +30,15 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85839299,
+        85871431,
         102191575,
+        1108721797,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481
+        85688481,
+        85839299
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +53,27 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721797,
+            "neighbourhood_id":85871431,
+            "region_id":85688481,
+            "venue_id":605683153
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721797,
             "neighbourhood_id":85839299,
             "region_id":85688481,
             "venue_id":605683153
         }
     ],
     "wof:id":605683153,
-    "wof:lastmodified":1467081649,
+    "wof:lastmodified":1489036393,
     "wof:name":"Stephen A Homer Co",
-    "wof:parent_id":85839299,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

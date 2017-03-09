@@ -2,9 +2,14 @@
   "id": 605616653,
   "type": "Feature",
   "properties": {
+    "addr:full":"4434 Penn St Philadelphia PA 19124",
+    "addr:housenumber":"4434",
+    "addr:postcode":"19124",
+    "addr:street":"Penn St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.089161,40.013606,-75.089161,40.013606",
     "geom:latitude":40.013606,
     "geom:longitude":-75.089161,
@@ -40,6 +45,7 @@
     "wof:belongsto":[
         85820547,
         102191575,
+        1108721807,
         404483701,
         85633793,
         101718083,
@@ -59,13 +65,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721807,
             "neighbourhood_id":85820547,
             "region_id":85688481,
             "venue_id":605616653
         }
     ],
     "wof:id":605616653,
-    "wof:lastmodified":1467081607,
+    "wof:lastmodified":1489033845,
     "wof:name":"Standard Tapestry Co Inc",
     "wof:parent_id":85820547,
     "wof:placetype":"venue",

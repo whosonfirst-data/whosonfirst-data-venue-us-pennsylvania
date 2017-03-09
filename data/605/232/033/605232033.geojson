@@ -2,9 +2,14 @@
   "id": 605232033,
   "type": "Feature",
   "properties": {
+    "addr:full":"4085 Lancaster Ave Philadelphia PA 19104",
+    "addr:housenumber":"4085",
+    "addr:postcode":"19104",
+    "addr:street":"Lancaster Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.20497,39.964783,-75.20497,39.964783",
     "geom:latitude":39.964783,
     "geom:longitude":-75.20497,
@@ -31,6 +36,7 @@
     "wof:belongsto":[
         85805623,
         102191575,
+        1108721805,
         404483701,
         85633793,
         101718083,
@@ -50,13 +56,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721805,
             "neighbourhood_id":85805623,
             "region_id":85688481,
             "venue_id":605232033
         }
     ],
     "wof:id":605232033,
-    "wof:lastmodified":1466788418,
+    "wof:lastmodified":1489033301,
     "wof:name":"West Phila-Wynnefield",
     "wof:parent_id":85805623,
     "wof:placetype":"venue",

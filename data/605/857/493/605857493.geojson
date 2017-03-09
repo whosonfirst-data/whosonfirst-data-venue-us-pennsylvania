@@ -2,9 +2,14 @@
   "id": 605857493,
   "type": "Feature",
   "properties": {
+    "addr:full":"7901 Bustleton Ave Philadelphia PA 19152",
+    "addr:housenumber":"7901",
+    "addr:postcode":"19152",
+    "addr:street":"Bustleton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.052779,40.057682,-75.052779,40.057682",
     "geom:latitude":40.057682,
     "geom:longitude":-75.052779,
@@ -29,14 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85882385,
+        85844347,
         102191575,
+        1108721807,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85844347
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,25 +56,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85882385,
-            "region_id":85688481,
-            "venue_id":605857493
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721807,
             "neighbourhood_id":85844347,
             "region_id":85688481,
             "venue_id":605857493
         }
     ],
     "wof:id":605857493,
-    "wof:lastmodified":1467081758,
+    "wof:lastmodified":1489033553,
     "wof:name":"State Wide Abstract Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85844347,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

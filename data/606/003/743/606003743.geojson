@@ -2,9 +2,14 @@
   "id": 606003743,
   "type": "Feature",
   "properties": {
+    "addr:full":"8301 Henry Ave Philadelphia PA 19128",
+    "addr:housenumber":"8301",
+    "addr:postcode":"19128",
+    "addr:street":"Henry Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.237269,40.062251,-75.237269,40.062251",
     "geom:latitude":40.062251,
     "geom:longitude":-75.237269,
@@ -31,13 +36,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853279,
+        85803125,
         102191575,
+        1108721809,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481
+        85688481,
+        85853279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +59,27 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721809,
+            "neighbourhood_id":85803125,
+            "region_id":85688481,
+            "venue_id":606003743
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721809,
             "neighbourhood_id":85853279,
             "region_id":85688481,
             "venue_id":606003743
         }
     ],
     "wof:id":606003743,
-    "wof:lastmodified":1466776454,
+    "wof:lastmodified":1489035618,
     "wof:name":"L A Fitness Sports Club",
-    "wof:parent_id":85853279,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

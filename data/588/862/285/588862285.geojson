@@ -2,9 +2,14 @@
   "id": 588862285,
   "type": "Feature",
   "properties": {
+    "addr:full":"1801 Snyder Ave Philadelphia PA 19145",
+    "addr:housenumber":"1801",
+    "addr:postcode":"19145",
+    "addr:street":"Snyder Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.176659,39.92527,-75.176659,39.92527",
     "geom:latitude":39.92527,
     "geom:longitude":-75.176659,
@@ -32,6 +37,7 @@
     "wof:belongsto":[
         420539505,
         102191575,
+        1108721801,
         404483701,
         85633793,
         101718083,
@@ -51,13 +57,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721801,
             "neighbourhood_id":420539505,
             "region_id":85688481,
             "venue_id":588862285
         }
     ],
     "wof:id":588862285,
-    "wof:lastmodified":1466780591,
+    "wof:lastmodified":1489032580,
     "wof:name":"Fast Cash ATM",
     "wof:parent_id":420539505,
     "wof:placetype":"venue",

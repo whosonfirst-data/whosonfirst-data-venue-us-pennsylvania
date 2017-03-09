@@ -2,9 +2,14 @@
   "id": 589023993,
   "type": "Feature",
   "properties": {
+    "addr:full":"5614 N Broad St Philadelphia PA 19141",
+    "addr:housenumber":"5614",
+    "addr:postcode":"19141",
+    "addr:street":"N Broad St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.144664,40.03974,-75.144664,40.03974",
     "geom:latitude":40.03974,
     "geom:longitude":-75.144664,
@@ -33,14 +38,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851737,
+        85871397,
         102191575,
+        1108721809,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85871397
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,25 +60,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85851737,
-            "region_id":85688481,
-            "venue_id":589023993
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721809,
             "neighbourhood_id":85871397,
             "region_id":85688481,
             "venue_id":589023993
         }
     ],
     "wof:id":589023993,
-    "wof:lastmodified":1466778666,
+    "wof:lastmodified":1489034608,
     "wof:name":"Chung Han Young",
-    "wof:parent_id":-1,
+    "wof:parent_id":85871397,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

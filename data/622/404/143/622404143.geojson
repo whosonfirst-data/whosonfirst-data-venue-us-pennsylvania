@@ -2,9 +2,14 @@
   "id": 622404143,
   "type": "Feature",
   "properties": {
+    "addr:full":"1801 Market St Fl 18 Philadelphia PA 19103",
+    "addr:housenumber":"1801;18",
+    "addr:postcode":"19103",
+    "addr:street":"Market St Fl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.169983,39.95319,-75.169983,39.95319",
     "geom:latitude":39.95319,
     "geom:longitude":-75.169983,
@@ -29,14 +34,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85893339,
+        1108721903,
+        85871427,
         102191575,
+        1108721797,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85871427
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,25 +57,17 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85893339,
-            "region_id":85688481,
-            "venue_id":622404143
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721797,
+            "microhood_id":1108721903,
             "neighbourhood_id":85871427,
             "region_id":85688481,
             "venue_id":622404143
         }
     ],
     "wof:id":622404143,
-    "wof:lastmodified":1467081865,
+    "wof:lastmodified":1489039314,
     "wof:name":"Rsa Court Reporting",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108721903,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

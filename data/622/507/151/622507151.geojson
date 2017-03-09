@@ -2,9 +2,14 @@
   "id": 622507151,
   "type": "Feature",
   "properties": {
+    "addr:full":"5550 Baynton St Philadelphia PA 19144",
+    "addr:housenumber":"",
+    "addr:postcode":"5550;19144",
+    "addr:street":"Baynton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.169166,40.037175,-75.169166,40.037175",
     "geom:latitude":40.037175,
     "geom:longitude":-75.169166,
@@ -34,14 +39,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85821407,
+        85871459,
         102191575,
+        1108721809,
         404483701,
         85633793,
         101718083,
         102081353,
         85688481,
-        85871459
+        85821407
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +62,8 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85821407,
+            "macrohood_id":1108721809,
+            "neighbourhood_id":85871459,
             "region_id":85688481,
             "venue_id":622507151
         },
@@ -66,15 +73,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85871459,
+            "macrohood_id":1108721809,
+            "neighbourhood_id":85821407,
             "region_id":85688481,
             "venue_id":622507151
         }
     ],
     "wof:id":622507151,
-    "wof:lastmodified":1467081941,
+    "wof:lastmodified":1489034204,
     "wof:name":"U-Haul Co.",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

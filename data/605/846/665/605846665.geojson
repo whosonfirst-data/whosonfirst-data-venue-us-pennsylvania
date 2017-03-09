@@ -2,9 +2,14 @@
   "id": 605846665,
   "type": "Feature",
   "properties": {
+    "addr:full":"6 S Front St Philadelphia PA 19106",
+    "addr:housenumber":"6",
+    "addr:postcode":"19106",
+    "addr:street":"S Front St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.142351,39.94912,-75.142351,39.94912",
     "geom:latitude":39.94912,
     "geom:longitude":-75.142351,
@@ -28,14 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871405,
+        85839299,
         102191575,
+        1108721797,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85839299
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,25 +55,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85871405,
-            "region_id":85688481,
-            "venue_id":605846665
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721797,
             "neighbourhood_id":85839299,
             "region_id":85688481,
             "venue_id":605846665
         }
     ],
     "wof:id":605846665,
-    "wof:lastmodified":1467081751,
+    "wof:lastmodified":1489036391,
     "wof:name":"United Scholastic Assocs",
-    "wof:parent_id":-1,
+    "wof:parent_id":85839299,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

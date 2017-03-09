@@ -2,9 +2,14 @@
   "id": 622495271,
   "type": "Feature",
   "properties": {
+    "addr:full":"2121 72nd Ave Philadelphia PA 19138",
+    "addr:housenumber":"2121",
+    "addr:postcode":"19138",
+    "addr:street":"72Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.152856,40.064308,-75.152856,40.064308",
     "geom:latitude":40.064308,
     "geom:longitude":-75.152856,
@@ -42,6 +47,7 @@
     "wof:belongsto":[
         85856037,
         102191575,
+        1108721809,
         404483701,
         85633793,
         101718083,
@@ -61,13 +67,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721809,
             "neighbourhood_id":85856037,
             "region_id":85688481,
             "venue_id":622495271
         }
     ],
     "wof:id":622495271,
-    "wof:lastmodified":1467081932,
+    "wof:lastmodified":1489034290,
     "wof:name":"Hoagie Factory",
     "wof:parent_id":85856037,
     "wof:placetype":"venue",

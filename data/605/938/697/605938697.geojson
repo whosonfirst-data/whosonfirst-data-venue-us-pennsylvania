@@ -2,9 +2,14 @@
   "id": 605938697,
   "type": "Feature",
   "properties": {
+    "addr:full":"4741 Princeton Ave Philadelphia PA 19135",
+    "addr:housenumber":"4741",
+    "addr:postcode":"19135",
+    "addr:street":"Princeton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.038075,40.027378,-75.038075,40.027378",
     "geom:latitude":40.027378,
     "geom:longitude":-75.038075,
@@ -27,18 +32,39 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85851751,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1YOaJf5ztT2M06Yw7LLeL0_40.027378_-75.038075@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"503f8553db42197aa3d09f4f7be0eb36",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85851751,
+            "region_id":85688481,
+            "venue_id":605938697
+        }
+    ],
     "wof:id":605938697,
-    "wof:lastmodified":1467081810,
+    "wof:lastmodified":1489037238,
     "wof:name":"Andrea Barber Shop",
-    "wof:parent_id":-1,
+    "wof:parent_id":85851751,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

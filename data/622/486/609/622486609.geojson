@@ -2,9 +2,14 @@
   "id": 622486609,
   "type": "Feature",
   "properties": {
+    "addr:full":"2801 N Howard St Philadelphia PA 19133",
+    "addr:housenumber":"2801",
+    "addr:postcode":"19133",
+    "addr:street":"N Howard St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.131699,39.992699,-75.131699,39.992699",
     "geom:latitude":39.992699,
     "geom:longitude":-75.131699,
@@ -25,14 +30,14 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420559149,
+        1108723481,
         102191575,
+        1108721813,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85893373
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,25 +52,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":420559149,
-            "region_id":85688481,
-            "venue_id":622486609
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
-            "neighbourhood_id":85893373,
+            "macrohood_id":1108721813,
+            "neighbourhood_id":1108723481,
             "region_id":85688481,
             "venue_id":622486609
         }
     ],
     "wof:id":622486609,
-    "wof:lastmodified":1467081926,
+    "wof:lastmodified":1489038849,
     "wof:name":"Rodriguez Grocery",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108723481,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

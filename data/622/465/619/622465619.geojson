@@ -2,9 +2,14 @@
   "id": 622465619,
   "type": "Feature",
   "properties": {
+    "addr:full":"209 W Girard Ave Philadelphia PA 19123",
+    "addr:housenumber":"209",
+    "addr:postcode":"19123",
+    "addr:street":"W Girard Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.140059,39.969768,-75.140059,39.969768",
     "geom:latitude":39.969768,
     "geom:longitude":-75.140059,
@@ -35,14 +40,14 @@
     "sg:website":"www.quincefinefoods.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819391,
+        85839491,
         102191575,
+        1108721813,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        420559157
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,25 +62,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85819391,
-            "region_id":85688481,
-            "venue_id":622465619
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
-            "neighbourhood_id":420559157,
+            "macrohood_id":1108721813,
+            "neighbourhood_id":85839491,
             "region_id":85688481,
             "venue_id":622465619
         }
     ],
     "wof:id":622465619,
-    "wof:lastmodified":1467081910,
+    "wof:lastmodified":1489036431,
     "wof:name":"Quince Fine Foods",
-    "wof:parent_id":-1,
+    "wof:parent_id":85839491,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

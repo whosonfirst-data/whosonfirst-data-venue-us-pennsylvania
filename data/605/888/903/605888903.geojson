@@ -2,9 +2,14 @@
   "id": 605888903,
   "type": "Feature",
   "properties": {
+    "addr:full":"6709 Torresdale Ave Philadelphia PA 19135",
+    "addr:housenumber":"6709",
+    "addr:postcode":"19135",
+    "addr:street":"Torresdale Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.044794,40.02504,-75.044794,40.02504",
     "geom:latitude":40.02504,
     "geom:longitude":-75.044794,
@@ -27,18 +32,39 @@
         "escort"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85851751,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7n0S6b9qqnY59xdljdkO8P_40.025040_-75.044794@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"e434795d671df6077c2ac33d4f17dcfa",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85851751,
+            "region_id":85688481,
+            "venue_id":605888903
+        }
+    ],
     "wof:id":605888903,
-    "wof:lastmodified":1467081778,
+    "wof:lastmodified":1489037242,
     "wof:name":"Ebony & Ivory",
-    "wof:parent_id":-1,
+    "wof:parent_id":85851751,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

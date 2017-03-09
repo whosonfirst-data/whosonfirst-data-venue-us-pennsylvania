@@ -2,9 +2,14 @@
   "id": 622493969,
   "type": "Feature",
   "properties": {
+    "addr:full":"7350 James St Philadelphia PA 19136",
+    "addr:housenumber":"7350",
+    "addr:postcode":"19136",
+    "addr:street":"James St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.02938,40.02779,-75.02938,40.02779",
     "geom:latitude":40.02779,
     "geom:longitude":-75.02938,
@@ -38,18 +43,39 @@
         "restoration-antique"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ZuzM7yxC5hHQMtsupa0su_40.027790_-75.029380@1303262458"
     },
     "wof:country":"US",
     "wof:geomhash":"d55ee946048dcb03961b6f97fc56350d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":622493969
+        }
+    ],
     "wof:id":622493969,
-    "wof:lastmodified":1467081931,
+    "wof:lastmodified":1489036123,
     "wof:name":"Ascension Auto Care",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

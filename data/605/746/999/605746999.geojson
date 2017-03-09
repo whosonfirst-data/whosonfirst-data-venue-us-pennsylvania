@@ -2,9 +2,14 @@
   "id": 605746999,
   "type": "Feature",
   "properties": {
+    "addr:full":"1511 South St Philadelphia PA 19146",
+    "addr:housenumber":"1511",
+    "addr:postcode":"19146",
+    "addr:street":"South St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.168626,39.944103,-75.168626,39.944103",
     "geom:latitude":39.944103,
     "geom:longitude":-75.168626,
@@ -31,14 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850347,
+        85844705,
         102191575,
+        1108721797,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85844705
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,25 +58,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85850347,
-            "region_id":85688481,
-            "venue_id":605746999
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721797,
             "neighbourhood_id":85844705,
             "region_id":85688481,
             "venue_id":605746999
         }
     ],
     "wof:id":605746999,
-    "wof:lastmodified":1467081689,
+    "wof:lastmodified":1489036871,
     "wof:name":"Tara Inc Realtors",
-    "wof:parent_id":-1,
+    "wof:parent_id":85844705,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 589258673,
   "type": "Feature",
   "properties": {
+    "addr:full":"15 S 3rd St Philadelphia PA 19106",
+    "addr:housenumber":"15",
+    "addr:postcode":"19106",
+    "addr:street":"S 3Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.145719,39.94974,-75.145719,39.94974",
     "geom:latitude":39.94974,
     "geom:longitude":-75.145719,
@@ -29,14 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85893355,
+        85839299,
         102191575,
+        1108721797,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85839299
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,25 +56,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85893355,
-            "region_id":85688481,
-            "venue_id":589258673
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721797,
             "neighbourhood_id":85839299,
             "region_id":85688481,
             "venue_id":589258673
         }
     ],
     "wof:id":589258673,
-    "wof:lastmodified":1466789532,
+    "wof:lastmodified":1489031162,
     "wof:name":"Emergency All Day Locksmith",
-    "wof:parent_id":-1,
+    "wof:parent_id":85839299,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

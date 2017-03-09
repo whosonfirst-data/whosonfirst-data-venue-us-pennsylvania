@@ -2,9 +2,14 @@
   "id": 605804853,
   "type": "Feature",
   "properties": {
+    "addr:full":"7501 Frankford Ave Philadelphia PA 19136",
+    "addr:housenumber":"7501",
+    "addr:postcode":"19136",
+    "addr:street":"Frankford Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.035592,40.038691,-75.035592,40.038691",
     "geom:latitude":40.038691,
     "geom:longitude":-75.035592,
@@ -27,18 +32,39 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_05l71aa9WTQFkqmX1lcz0q_40.038691_-75.035592@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"7c91eb8f39a5d53cbf34535304bd9f39",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":605804853
+        }
+    ],
     "wof:id":605804853,
-    "wof:lastmodified":1467081726,
+    "wof:lastmodified":1489036097,
     "wof:name":"Mayfair Phila First Primitive",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

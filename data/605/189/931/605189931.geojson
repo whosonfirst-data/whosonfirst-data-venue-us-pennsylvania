@@ -2,9 +2,14 @@
   "id": 605189931,
   "type": "Feature",
   "properties": {
+    "addr:full":"2031 W Oregon Ave Philadelphia PA 19145",
+    "addr:housenumber":"2031",
+    "addr:postcode":"19145",
+    "addr:street":"W Oregon Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.182327,39.918356,-75.182327,39.918356",
     "geom:latitude":39.918356,
     "geom:longitude":-75.182327,
@@ -29,14 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865521,
+        420782599,
         102191575,
+        1108721801,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        420559179
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,25 +56,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85865521,
-            "region_id":85688481,
-            "venue_id":605189931
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
-            "neighbourhood_id":420559179,
+            "macrohood_id":1108721801,
+            "neighbourhood_id":420782599,
             "region_id":85688481,
             "venue_id":605189931
         }
     ],
     "wof:id":605189931,
-    "wof:lastmodified":1466787006,
+    "wof:lastmodified":1489038658,
     "wof:name":"Society Of St Vincent De Paul",
-    "wof:parent_id":-1,
+    "wof:parent_id":420782599,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

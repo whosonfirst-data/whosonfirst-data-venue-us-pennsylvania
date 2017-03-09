@@ -2,9 +2,14 @@
   "id": 622032743,
   "type": "Feature",
   "properties": {
+    "addr:full":"7900 Algon Ave Philadelphia PA 19111",
+    "addr:housenumber":"7900",
+    "addr:postcode":"19111",
+    "addr:street":"Algon Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.064773,40.064311,-75.064773,40.064311",
     "geom:latitude":40.064311,
     "geom:longitude":-75.064773,
@@ -25,13 +30,15 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85844347,
+        85820411,
         102191575,
+        1108721807,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481
+        85688481,
+        85844347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +53,27 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85820411,
+            "region_id":85688481,
+            "venue_id":622032743
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
             "neighbourhood_id":85844347,
             "region_id":85688481,
             "venue_id":622032743
         }
     ],
     "wof:id":622032743,
-    "wof:lastmodified":1466779685,
+    "wof:lastmodified":1489033442,
     "wof:name":"Oleg Bourlako",
-    "wof:parent_id":85844347,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

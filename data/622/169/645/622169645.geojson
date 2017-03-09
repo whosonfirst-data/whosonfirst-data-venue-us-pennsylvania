@@ -2,9 +2,14 @@
   "id": 622169645,
   "type": "Feature",
   "properties": {
+    "addr:full":"763 N 24th St Philadelphia PA 19130",
+    "addr:housenumber":"763",
+    "addr:postcode":"19130",
+    "addr:street":"N 24Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.176647,39.969014,-75.176647,39.969014",
     "geom:latitude":39.969014,
     "geom:longitude":-75.176647,
@@ -33,12 +38,12 @@
     "wof:belongsto":[
         85818625,
         102191575,
+        1108721811,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85893337
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,25 +58,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721811,
             "neighbourhood_id":85818625,
-            "region_id":85688481,
-            "venue_id":622169645
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
-            "neighbourhood_id":85893337,
             "region_id":85688481,
             "venue_id":622169645
         }
     ],
     "wof:id":622169645,
-    "wof:lastmodified":1466786019,
+    "wof:lastmodified":1489034978,
     "wof:name":"John Benjamins North America Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85818625,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 622482191,
   "type": "Feature",
   "properties": {
+    "addr:full":"1620 N 52nd St Philadelphia PA 19131",
+    "addr:housenumber":"1620",
+    "addr:postcode":"19131",
+    "addr:street":"N 52Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.225037,39.979961,-75.225037,39.979961",
     "geom:latitude":39.979961,
     "geom:longitude":-75.225037,
@@ -36,14 +41,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871407,
+        85859223,
         102191575,
+        1108721805,
         404483701,
         85633793,
         101718083,
         102081353,
         85688481,
-        85882387
+        85871407
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,7 +64,8 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85871407,
+            "macrohood_id":1108721805,
+            "neighbourhood_id":85859223,
             "region_id":85688481,
             "venue_id":622482191
         },
@@ -68,15 +75,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85882387,
+            "macrohood_id":1108721805,
+            "neighbourhood_id":85871407,
             "region_id":85688481,
             "venue_id":622482191
         }
     ],
     "wof:id":622482191,
-    "wof:lastmodified":1467081922,
+    "wof:lastmodified":1489037503,
     "wof:name":"S Kids Auto Body",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

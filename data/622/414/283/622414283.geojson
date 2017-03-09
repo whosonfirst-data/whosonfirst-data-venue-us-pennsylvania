@@ -2,9 +2,14 @@
   "id": 622414283,
   "type": "Feature",
   "properties": {
+    "addr:full":"1600 Spruce St Philadelphia PA 19103",
+    "addr:housenumber":"1600",
+    "addr:postcode":"19103",
+    "addr:street":"Spruce St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.168028,39.947254,-75.168028,39.947254",
     "geom:latitude":39.947254,
     "geom:longitude":-75.168028,
@@ -46,6 +51,7 @@
     "wof:belongsto":[
         85844705,
         102191575,
+        1108721797,
         404483701,
         85633793,
         101718083,
@@ -65,13 +71,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721797,
             "neighbourhood_id":85844705,
             "region_id":85688481,
             "venue_id":622414283
         }
     ],
     "wof:id":622414283,
-    "wof:lastmodified":1467081873,
+    "wof:lastmodified":1489032001,
     "wof:name":"Clinical Orthopaedics and Related Research",
     "wof:parent_id":85844705,
     "wof:placetype":"venue",

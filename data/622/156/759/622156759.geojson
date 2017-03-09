@@ -2,9 +2,14 @@
   "id": 622156759,
   "type": "Feature",
   "properties": {
+    "addr:full":"4428 Ashburner St Philadelphia PA 19136",
+    "addr:housenumber":"4428",
+    "addr:postcode":"19136",
+    "addr:street":"Ashburner St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.017648,40.04211,-75.017648,40.04211",
     "geom:latitude":40.04211,
     "geom:longitude":-75.017648,
@@ -31,18 +36,41 @@
         "division"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108722091,
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0fjHXykgYms33MTnwdhMs4_40.041971_-75.017492@1293134755"
     },
     "wof:country":"US",
     "wof:geomhash":"f0af2f60486d6fecd9b6a174ff983ab6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "microhood_id":1108722091,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":622156759
+        }
+    ],
     "wof:id":622156759,
-    "wof:lastmodified":1466785767,
+    "wof:lastmodified":1489039517,
     "wof:name":"82nd Airborne Division As",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108722091,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

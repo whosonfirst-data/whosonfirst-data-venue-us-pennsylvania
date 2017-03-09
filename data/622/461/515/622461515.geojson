@@ -2,9 +2,14 @@
   "id": 622461515,
   "type": "Feature",
   "properties": {
+    "addr:full":"5633 Tabor Ave Philadelphia PA 19120",
+    "addr:housenumber":"5633",
+    "addr:postcode":"19120",
+    "addr:street":"Tabor Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.102923,40.037052,-75.102923,40.037052",
     "geom:latitude":40.037052,
     "geom:longitude":-75.102923,
@@ -30,13 +35,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420539477,
+        420539475,
         102191575,
+        1108721807,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481
+        85688481,
+        420539477
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +58,27 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":420539475,
+            "region_id":85688481,
+            "venue_id":622461515
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
             "neighbourhood_id":420539477,
             "region_id":85688481,
             "venue_id":622461515
         }
     ],
     "wof:id":622461515,
-    "wof:lastmodified":1467081907,
+    "wof:lastmodified":1489038321,
     "wof:name":"Vina Autocare Inc",
-    "wof:parent_id":420539477,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

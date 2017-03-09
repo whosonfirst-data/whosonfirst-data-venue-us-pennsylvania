@@ -2,9 +2,14 @@
   "id": 622182535,
   "type": "Feature",
   "properties": {
+    "addr:full":"7347 State Rd Philadelphia PA 19136",
+    "addr:housenumber":"7347",
+    "addr:postcode":"19136",
+    "addr:street":"State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.030169,40.026579,-75.030169,40.026579",
     "geom:latitude":40.026579,
     "geom:longitude":-75.030169,
@@ -29,18 +34,39 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2lV6B80MlKDFX12cDYkX2U_40.026498_-75.029784@1293134755"
     },
     "wof:country":"US",
     "wof:geomhash":"4fa445bcf153d9f5a5a66af52c300bff",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":622182535
+        }
+    ],
     "wof:id":622182535,
-    "wof:lastmodified":1466786889,
+    "wof:lastmodified":1489036085,
     "wof:name":"National Railroad Contractors",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 387898409,
   "type": "Feature",
   "properties": {
+    "addr:full":"Routes 15 & 328 Tioga PA 16946",
+    "addr:housenumber":"15 & 328",
+    "addr:postcode":"16946",
+    "addr:street":"Routes",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.153547,40.006389,-75.153547,40.006389",
     "geom:latitude":40.006389,
     "geom:longitude":-75.153547,
@@ -29,11 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420782547,
+        102191575,
+        1108721811,
+        404483701,
         85633793,
         101718083,
         102081353,
-        85882379
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +51,21 @@
     "wof:geomhash":"e5758a6408ef3a03fbe5fa110ee91d6c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081353,
+            "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85882379,
+            "macrohood_id":1108721811,
+            "neighbourhood_id":420782547,
             "region_id":85688481,
             "venue_id":387898409
         }
     ],
     "wof:id":387898409,
-    "wof:lastmodified":1466783362,
+    "wof:lastmodified":1489038620,
     "wof:name":"Gee's Notary Service",
-    "wof:parent_id":85882379,
+    "wof:parent_id":420782547,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

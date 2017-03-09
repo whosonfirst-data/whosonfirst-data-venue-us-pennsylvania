@@ -2,9 +2,14 @@
   "id": 622512863,
   "type": "Feature",
   "properties": {
+    "addr:full":"1601 Federal St Philadelphia PA 19146",
+    "addr:housenumber":"1601",
+    "addr:postcode":"19146",
+    "addr:street":"Federal St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.170448,39.936218,-75.170448,39.936218",
     "geom:latitude":39.936218,
     "geom:longitude":-75.170448,
@@ -32,6 +37,7 @@
     "wof:belongsto":[
         85842525,
         102191575,
+        1108721801,
         404483701,
         85633793,
         101718083,
@@ -51,13 +57,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721801,
             "neighbourhood_id":85842525,
             "region_id":85688481,
             "venue_id":622512863
         }
     ],
     "wof:id":622512863,
-    "wof:lastmodified":1467081945,
+    "wof:lastmodified":1489032584,
     "wof:name":"The Commons at Point Breeze",
     "wof:parent_id":85842525,
     "wof:placetype":"venue",

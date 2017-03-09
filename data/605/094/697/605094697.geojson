@@ -2,9 +2,14 @@
   "id": 605094697,
   "type": "Feature",
   "properties": {
+    "addr:full":"2500 Duncan St Philadelphia PA 19124",
+    "addr:housenumber":"2500",
+    "addr:postcode":"19124",
+    "addr:street":"Duncan St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.079781,40.002337,-75.079781,40.002337",
     "geom:latitude":40.002337,
     "geom:longitude":-75.079781,
@@ -29,13 +34,16 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85807375,
+        85820547,
         102191575,
+        1108721807,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481
+        85688481,
+        85807375,
+        1108721813
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +58,27 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85820547,
+            "region_id":85688481,
+            "venue_id":605094697
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721813,
             "neighbourhood_id":85807375,
             "region_id":85688481,
             "venue_id":605094697
         }
     ],
     "wof:id":605094697,
-    "wof:lastmodified":1466781886,
+    "wof:lastmodified":1489035442,
     "wof:name":"Metals USA",
-    "wof:parent_id":85807375,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

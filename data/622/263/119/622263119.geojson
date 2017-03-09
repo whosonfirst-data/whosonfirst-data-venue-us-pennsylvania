@@ -2,9 +2,14 @@
   "id": 622263119,
   "type": "Feature",
   "properties": {
+    "addr:full":"3032 N 22nd St  Philadelphia PA 19132",
+    "addr:housenumber":"3032",
+    "addr:postcode":"19132",
+    "addr:street":"N 22Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.166489,40.001047,-75.166489,40.001047",
     "geom:latitude":40.001047,
     "geom:longitude":-75.166489,
@@ -32,14 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85882379,
+        85802763,
         102191575,
+        1108721811,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85802763
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,25 +59,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85882379,
-            "region_id":85688481,
-            "venue_id":622263119
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721811,
             "neighbourhood_id":85802763,
             "region_id":85688481,
             "venue_id":622263119
         }
     ],
     "wof:id":622263119,
-    "wof:lastmodified":1466789230,
+    "wof:lastmodified":1489034923,
     "wof:name":"Fingers & Wings Pizza",
-    "wof:parent_id":-1,
+    "wof:parent_id":85802763,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

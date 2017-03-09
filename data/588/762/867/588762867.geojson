@@ -2,9 +2,14 @@
   "id": 588762867,
   "type": "Feature",
   "properties": {
+    "addr:full":"3338 Decatur St Philadelphia PA 19136",
+    "addr:housenumber":"3338",
+    "addr:postcode":"19136",
+    "addr:street":"Decatur St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.031987,40.04442,-75.031987,40.04442",
     "geom:latitude":40.04442,
     "geom:longitude":-75.031987,
@@ -27,18 +32,39 @@
         "mover"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7A8Avg4HKcci4MgYPkdt4m_40.044420_-75.031987@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"7491fe1f4210ea90a3b588bf701b5bc8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":588762867
+        }
+    ],
     "wof:id":588762867,
-    "wof:lastmodified":1466778277,
+    "wof:lastmodified":1489036120,
     "wof:name":"Old City Moving Express",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

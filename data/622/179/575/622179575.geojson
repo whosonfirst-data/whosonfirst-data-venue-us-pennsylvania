@@ -2,9 +2,14 @@
   "id": 622179575,
   "type": "Feature",
   "properties": {
+    "addr:full":"620 S 10th St Philadelphia PA 19147",
+    "addr:housenumber":"620",
+    "addr:postcode":"19147",
+    "addr:street":"S 10Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.158897,39.942101,-75.158897,39.942101",
     "geom:latitude":39.942101,
     "geom:longitude":-75.158897,
@@ -32,14 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85893319,
+        85824309,
         102191575,
+        1108721801,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85824309
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,25 +59,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85893319,
-            "region_id":85688481,
-            "venue_id":622179575
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721801,
             "neighbourhood_id":85824309,
             "region_id":85688481,
             "venue_id":622179575
         }
     ],
     "wof:id":622179575,
-    "wof:lastmodified":1466786516,
+    "wof:lastmodified":1489036073,
     "wof:name":"Beginnings Early Learning Center",
-    "wof:parent_id":-1,
+    "wof:parent_id":85824309,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

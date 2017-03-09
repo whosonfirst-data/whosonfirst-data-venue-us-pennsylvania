@@ -2,9 +2,14 @@
   "id": 622508429,
   "type": "Feature",
   "properties": {
+    "addr:full":"104 E Washington Ln Philadelphia PA 19144",
+    "addr:housenumber":"104",
+    "addr:postcode":"19144",
+    "addr:street":"E Washington Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.179524,40.044559,-75.179524,40.044559",
     "geom:latitude":40.044559,
     "geom:longitude":-75.179524,
@@ -32,14 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420559145,
+        85835357,
         102191575,
+        1108721809,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85835357
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,25 +59,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":420559145,
-            "region_id":85688481,
-            "venue_id":622508429
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721809,
             "neighbourhood_id":85835357,
             "region_id":85688481,
             "venue_id":622508429
         }
     ],
     "wof:id":622508429,
-    "wof:lastmodified":1467081942,
+    "wof:lastmodified":1489036241,
     "wof:name":"Pro Cut Lawn & Tree Service",
-    "wof:parent_id":-1,
+    "wof:parent_id":85835357,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

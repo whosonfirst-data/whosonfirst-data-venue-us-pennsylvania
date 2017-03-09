@@ -2,9 +2,14 @@
   "id": 622426333,
   "type": "Feature",
   "properties": {
+    "addr:full":"214 S 45th St Philadelphia PA 19104",
+    "addr:housenumber":"214",
+    "addr:postcode":"19104",
+    "addr:street":"S 45Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.211899,39.9547,-75.211899,39.9547",
     "geom:latitude":39.9547,
     "geom:longitude":-75.211899,
@@ -46,6 +51,7 @@
     "wof:belongsto":[
         85850813,
         102191575,
+        1108721805,
         404483701,
         85633793,
         101718083,
@@ -65,13 +71,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721805,
             "neighbourhood_id":85850813,
             "region_id":85688481,
             "venue_id":622426333
         }
     ],
     "wof:id":622426333,
-    "wof:lastmodified":1467081882,
+    "wof:lastmodified":1489032952,
     "wof:name":"The Second Mile Center",
     "wof:parent_id":85850813,
     "wof:placetype":"venue",

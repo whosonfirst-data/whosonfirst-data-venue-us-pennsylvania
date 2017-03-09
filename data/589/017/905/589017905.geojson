@@ -2,9 +2,14 @@
   "id": 589017905,
   "type": "Feature",
   "properties": {
+    "addr:full":"5314 Germantown Ave Philadelphia PA 19144",
+    "addr:housenumber":"5314",
+    "addr:postcode":"19144",
+    "addr:street":"Germantown Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.168523,40.031945,-75.168523,40.031945",
     "geom:latitude":40.031945,
     "geom:longitude":-75.168523,
@@ -33,14 +38,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420559163,
+        85821407,
         102191575,
+        1108721809,
         404483701,
         85633793,
         101718083,
         102081353,
         85688481,
-        85821407
+        1108723467
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,7 +61,8 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":420559163,
+            "macrohood_id":1108721809,
+            "neighbourhood_id":85821407,
             "region_id":85688481,
             "venue_id":589017905
         },
@@ -65,15 +72,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85821407,
+            "macrohood_id":1108721809,
+            "neighbourhood_id":1108723467,
             "region_id":85688481,
             "venue_id":589017905
         }
     ],
     "wof:id":589017905,
-    "wof:lastmodified":1466777956,
+    "wof:lastmodified":1489038742,
     "wof:name":"Jack Mc Glinn",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 621828105,
   "type": "Feature",
   "properties": {
+    "addr:full":"658 N 63rd St Philadelphia PA 19151",
+    "addr:housenumber":"658",
+    "addr:postcode":"19151",
+    "addr:street":"N 63Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.245186,39.972824,-75.245186,39.972824",
     "geom:latitude":39.972824,
     "geom:longitude":-75.245186,
@@ -31,6 +36,7 @@
     "wof:belongsto":[
         420539515,
         102191575,
+        1108721805,
         404483701,
         85633793,
         101718083,
@@ -50,13 +56,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721805,
             "neighbourhood_id":420539515,
             "region_id":85688481,
             "venue_id":621828105
         }
     ],
     "wof:id":621828105,
-    "wof:lastmodified":1466778581,
+    "wof:lastmodified":1489032963,
     "wof:name":"US Post Office",
     "wof:parent_id":420539515,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 605154093,
   "type": "Feature",
   "properties": {
+    "addr:full":"9601 Germantown Ave Philadelphia PA 19118",
+    "addr:housenumber":"9601",
+    "addr:postcode":"19118",
+    "addr:street":"Germantown Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.22643,40.084414,-75.22643,40.084414",
     "geom:latitude":40.084414,
     "geom:longitude":-75.22643,
@@ -25,15 +30,14 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
-        85633793,
-        85832039,
-        102081355,
         85810759,
         102191575,
+        1108721809,
         404483701,
+        85633793,
         101718083,
-        102081353
+        102081353,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,27 +47,21 @@
     "wof:geomhash":"900a5240921773d0aacf126f2ec19e6b",
     "wof:hierarchy":[
         {
-            "country_id":85633793,
-            "county_id":102081355,
-            "neighbourhood_id":85832039,
-            "region_id":85688481,
-            "venue_id":605154093
-        },
-        {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721809,
             "neighbourhood_id":85810759,
             "region_id":85688481,
             "venue_id":605154093
         }
     ],
     "wof:id":605154093,
-    "wof:lastmodified":1466785071,
+    "wof:lastmodified":1489034582,
     "wof:name":"Logue Library",
-    "wof:parent_id":-1,
+    "wof:parent_id":85810759,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

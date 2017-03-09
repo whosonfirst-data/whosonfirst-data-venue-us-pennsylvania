@@ -2,9 +2,14 @@
   "id": 622494823,
   "type": "Feature",
   "properties": {
+    "addr:full":"4000 N Delaware Ave Philadelphia PA 19137",
+    "addr:housenumber":"4000",
+    "addr:postcode":"19137",
+    "addr:street":"N Delaware Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.079876,39.984478,-75.079876,39.984478",
     "geom:latitude":39.984478,
     "geom:longitude":-75.079876,
@@ -44,6 +49,7 @@
     "wof:belongsto":[
         85844425,
         102191575,
+        1108721813,
         404483701,
         85633793,
         101718083,
@@ -63,13 +69,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721813,
             "neighbourhood_id":85844425,
             "region_id":85688481,
             "venue_id":622494823
         }
     ],
     "wof:id":622494823,
-    "wof:lastmodified":1467081932,
+    "wof:lastmodified":1489035594,
     "wof:name":"Blumberg & Nicholson, Inc.",
     "wof:parent_id":85844425,
     "wof:placetype":"venue",

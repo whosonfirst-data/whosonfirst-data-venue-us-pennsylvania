@@ -2,9 +2,14 @@
   "id": 589065467,
   "type": "Feature",
   "properties": {
+    "addr:full":"3401 Longshore Ave Philadelphia PA 19149",
+    "addr:housenumber":"3401",
+    "addr:postcode":"19149",
+    "addr:street":"Longshore Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.048701,40.032945,-75.048701,40.032945",
     "geom:latitude":40.032945,
     "geom:longitude":-75.048701,
@@ -29,18 +34,39 @@
         "cream"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85832953,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_03HepMlYHgN3y7SiMQ5Pdj_40.032945_-75.048701@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"139f024a611061a6fcbfab3f2cf6f971",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85832953,
+            "region_id":85688481,
+            "venue_id":589065467
+        }
+    ],
     "wof:id":589065467,
-    "wof:lastmodified":1466781468,
+    "wof:lastmodified":1489033575,
     "wof:name":"Twistee Treat",
-    "wof:parent_id":-1,
+    "wof:parent_id":85832953,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 622436467,
   "type": "Feature",
   "properties": {
+    "addr:full":"601 Market St Ste 1234 Philadelphia PA 19106",
+    "addr:housenumber":"601",
+    "addr:postcode":"19106",
+    "addr:street":"Market St Ste 1234",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.150368,39.950741,-75.150368,39.950741",
     "geom:latitude":39.950741,
     "geom:longitude":-75.150368,
@@ -35,14 +40,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85893355,
+        85839299,
         102191575,
+        1108721797,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85839299
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,25 +62,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85893355,
-            "region_id":85688481,
-            "venue_id":622436467
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721797,
             "neighbourhood_id":85839299,
             "region_id":85688481,
             "venue_id":622436467
         }
     ],
     "wof:id":622436467,
-    "wof:lastmodified":1467081889,
+    "wof:lastmodified":1489032181,
     "wof:name":"Gregg Wolfe",
-    "wof:parent_id":-1,
+    "wof:parent_id":85839299,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 589196027,
   "type": "Feature",
   "properties": {
+    "addr:full":"21 E Chelten Ave Philadelphia PA 19144",
+    "addr:housenumber":"21",
+    "addr:postcode":"19144",
+    "addr:street":"E Chelten Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.174073,40.036513,-75.174073,40.036513",
     "geom:latitude":40.036513,
     "geom:longitude":-75.174073,
@@ -28,14 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85821407,
+        85835357,
         102191575,
+        1108721809,
         404483701,
         85633793,
         101718083,
         102081353,
         85688481,
-        420559145
+        85821407
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,7 +56,8 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85821407,
+            "macrohood_id":1108721809,
+            "neighbourhood_id":85835357,
             "region_id":85688481,
             "venue_id":589196027
         },
@@ -60,15 +67,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":420559145,
+            "macrohood_id":1108721809,
+            "neighbourhood_id":85821407,
             "region_id":85688481,
             "venue_id":589196027
         }
     ],
     "wof:id":589196027,
-    "wof:lastmodified":1466788121,
+    "wof:lastmodified":1489036247,
     "wof:name":"Champagne Restaurant",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

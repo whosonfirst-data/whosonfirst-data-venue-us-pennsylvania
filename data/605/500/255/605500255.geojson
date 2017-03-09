@@ -2,9 +2,14 @@
   "id": 605500255,
   "type": "Feature",
   "properties": {
+    "addr:full":"11099 Knights Rd Philadelphia PA 19154",
+    "addr:housenumber":"11099",
+    "addr:postcode":"19154",
+    "addr:street":"Knights Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.975571,40.082084,-74.975571,40.082084",
     "geom:latitude":40.082084,
     "geom:longitude":-74.975571,
@@ -25,14 +30,14 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831329,
+        420539529,
         102191575,
+        1108721807,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        420539529
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,25 +52,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85831329,
-            "region_id":85688481,
-            "venue_id":605500255
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721807,
             "neighbourhood_id":420539529,
             "region_id":85688481,
             "venue_id":605500255
         }
     ],
     "wof:id":605500255,
-    "wof:lastmodified":1467081535,
+    "wof:lastmodified":1489033498,
     "wof:name":"Katherine Drexel Library",
-    "wof:parent_id":-1,
+    "wof:parent_id":420539529,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

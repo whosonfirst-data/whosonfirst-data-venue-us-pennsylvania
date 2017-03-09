@@ -2,9 +2,14 @@
   "id": 605635013,
   "type": "Feature",
   "properties": {
+    "addr:full":"7910 State Rd Philadelphia PA 19136",
+    "addr:housenumber":"7910",
+    "addr:postcode":"19136",
+    "addr:street":"State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.022174,40.031039,-75.022174,40.031039",
     "geom:latitude":40.031039,
     "geom:longitude":-75.022174,
@@ -24,18 +29,39 @@
     "sg:postcode":"19136",
     "sg:province":"PA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4yIkhwpkPy3FaT9QowYFBM_40.031039_-75.022174@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"eddbec8c80fef9cb4e032040bc772c7e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":605635013
+        }
+    ],
     "wof:id":605635013,
-    "wof:lastmodified":1467081618,
+    "wof:lastmodified":1489036086,
     "wof:name":"Halifax Technical Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

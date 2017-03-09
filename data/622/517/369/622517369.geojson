@@ -2,9 +2,14 @@
   "id": 622517369,
   "type": "Feature",
   "properties": {
+    "addr:full":"728 S 4th St Philadelphia PA 19147",
+    "addr:housenumber":"728",
+    "addr:postcode":"19147",
+    "addr:street":"S 4Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.149572,39.939818,-75.149572,39.939818",
     "geom:latitude":39.939818,
     "geom:longitude":-75.149572,
@@ -26,14 +31,15 @@
     "sg:website":"www.jujusalon.com/spa_about.php",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108721879,
         420539461,
         102191575,
+        1108721801,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85893311
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,25 +54,17 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721801,
+            "microhood_id":1108721879,
             "neighbourhood_id":420539461,
-            "region_id":85688481,
-            "venue_id":622517369
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
-            "neighbourhood_id":85893311,
             "region_id":85688481,
             "venue_id":622517369
         }
     ],
     "wof:id":622517369,
-    "wof:lastmodified":1467081948,
+    "wof:lastmodified":1489039145,
     "wof:name":"Juju Spa & Organics",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108721879,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

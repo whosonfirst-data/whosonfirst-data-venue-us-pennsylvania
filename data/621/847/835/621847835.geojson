@@ -2,9 +2,14 @@
   "id": 621847835,
   "type": "Feature",
   "properties": {
+    "addr:full":"7383 State Rd Philadelphia PA 19136",
+    "addr:housenumber":"7383",
+    "addr:postcode":"19136",
+    "addr:street":"State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.030576,40.025888,-75.030576,40.025888",
     "geom:latitude":40.025888,
     "geom:longitude":-75.030576,
@@ -31,18 +36,39 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4JIVwM246NpwaYf4kHdFMA_40.025888_-75.030576@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"7841ad0a030bdaef2feebbf0d2dcc422",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":621847835
+        }
+    ],
     "wof:id":621847835,
-    "wof:lastmodified":1466780189,
+    "wof:lastmodified":1489036093,
     "wof:name":"Nolter's Sunoco",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

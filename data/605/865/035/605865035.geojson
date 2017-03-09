@@ -2,9 +2,14 @@
   "id": 605865035,
   "type": "Feature",
   "properties": {
+    "addr:full":"4635 Lansing St Philadelphia PA 19136",
+    "addr:housenumber":"4635",
+    "addr:postcode":"19136",
+    "addr:street":"Lansing St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.028138,40.034167,-75.028138,40.034167",
     "geom:latitude":40.034167,
     "geom:longitude":-75.028138,
@@ -24,18 +29,39 @@
     "sg:postcode":"19136",
     "sg:province":"PA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7HMUPINBx52ZnnwCX8zSuz_40.034167_-75.028138@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"4b03337a5aa76140c65869c05d7737ba",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":605865035
+        }
+    ],
     "wof:id":605865035,
-    "wof:lastmodified":1467081763,
+    "wof:lastmodified":1489036086,
     "wof:name":"C Carleo",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

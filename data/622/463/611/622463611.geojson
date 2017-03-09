@@ -2,9 +2,14 @@
   "id": 622463611,
   "type": "Feature",
   "properties": {
+    "addr:full":"1901 Waterloo St Philadelphia PA 19122",
+    "addr:housenumber":"1901",
+    "addr:postcode":"19122",
+    "addr:street":"Waterloo St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.134854,39.978825,-75.134854,39.978825",
     "geom:latitude":39.978825,
     "geom:longitude":-75.134854,
@@ -35,6 +40,7 @@
     "wof:belongsto":[
         85855755,
         102191575,
+        1108721813,
         404483701,
         85633793,
         101718083,
@@ -54,13 +60,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721813,
             "neighbourhood_id":85855755,
             "region_id":85688481,
             "venue_id":622463611
         }
     ],
     "wof:id":622463611,
-    "wof:lastmodified":1467081909,
+    "wof:lastmodified":1489035387,
     "wof:name":"Mota Grocery",
     "wof:parent_id":85855755,
     "wof:placetype":"venue",

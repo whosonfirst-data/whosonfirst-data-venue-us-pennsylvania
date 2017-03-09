@@ -2,9 +2,14 @@
   "id": 622454343,
   "type": "Feature",
   "properties": {
+    "addr:full":"10101 Academy Rd Philadelphia PA 19114",
+    "addr:housenumber":"10101",
+    "addr:postcode":"19114",
+    "addr:street":"Academy Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.998581,40.078751,-74.998581,40.078751",
     "geom:latitude":40.078751,
     "geom:longitude":-74.998581,
@@ -38,14 +43,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420539457,
+        420782485,
         102191575,
+        1108721807,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85882385
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,25 +65,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":420539457,
-            "region_id":85688481,
-            "venue_id":622454343
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
-            "neighbourhood_id":85882385,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":420782485,
             "region_id":85688481,
             "venue_id":622454343
         }
     ],
     "wof:id":622454343,
-    "wof:lastmodified":1467081902,
+    "wof:lastmodified":1489038494,
     "wof:name":"Loftus-Mermer Oral Surgical Associates",
-    "wof:parent_id":-1,
+    "wof:parent_id":420782485,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 605164907,
   "type": "Feature",
   "properties": {
+    "addr:full":"1701 N 2nd St Philadelphia PA 19122",
+    "addr:housenumber":"1701",
+    "addr:postcode":"19122",
+    "addr:street":"N 2Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.137971,39.976904,-75.137971,39.976904",
     "geom:latitude":39.976904,
     "geom:longitude":-75.137971,
@@ -25,14 +30,14 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85839491,
+        85855755,
         102191575,
+        1108721813,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85855755
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,25 +52,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85839491,
-            "region_id":85688481,
-            "venue_id":605164907
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721813,
             "neighbourhood_id":85855755,
             "region_id":85688481,
             "venue_id":605164907
         }
     ],
     "wof:id":605164907,
-    "wof:lastmodified":1466785800,
+    "wof:lastmodified":1489037389,
     "wof:name":"New Farm Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85855755,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

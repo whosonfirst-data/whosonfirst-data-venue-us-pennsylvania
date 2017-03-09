@@ -2,9 +2,14 @@
   "id": 622274515,
   "type": "Feature",
   "properties": {
+    "addr:full":"120 Lombard St  Philadelphia PA 19147",
+    "addr:housenumber":"120",
+    "addr:postcode":"19147",
+    "addr:street":"Lombard St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.144639,39.941906,-75.144639,39.941906",
     "geom:latitude":39.941906,
     "geom:longitude":-75.144639,
@@ -29,14 +34,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85893307,
+        1108722077,
+        85849249,
         102191575,
+        1108721797,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85849249
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,25 +57,17 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85893307,
-            "region_id":85688481,
-            "venue_id":622274515
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721797,
+            "microhood_id":1108722077,
             "neighbourhood_id":85849249,
             "region_id":85688481,
             "venue_id":622274515
         }
     ],
     "wof:id":622274515,
-    "wof:lastmodified":1466789472,
+    "wof:lastmodified":1489039497,
     "wof:name":"Bistro Romano",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108722077,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

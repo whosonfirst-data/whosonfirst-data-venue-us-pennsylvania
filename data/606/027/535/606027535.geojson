@@ -2,9 +2,14 @@
   "id": 606027535,
   "type": "Feature",
   "properties": {
+    "addr:full":"2040 E Allegheny Ave Philadelphia PA 19134",
+    "addr:housenumber":"2040",
+    "addr:postcode":"19134",
+    "addr:street":"E Allegheny Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.111369,39.994211,-75.111369,39.994211",
     "geom:latitude":39.994211,
     "geom:longitude":-75.111369,
@@ -29,13 +34,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85844425,
+        85871399,
         102191575,
+        1108721813,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481
+        85688481,
+        85844425
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +57,27 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721813,
+            "neighbourhood_id":85871399,
+            "region_id":85688481,
+            "venue_id":606027535
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721813,
             "neighbourhood_id":85844425,
             "region_id":85688481,
             "venue_id":606027535
         }
     ],
     "wof:id":606027535,
-    "wof:lastmodified":1466779075,
+    "wof:lastmodified":1489035396,
     "wof:name":"Quality Rehab & Physical Thrpy",
-    "wof:parent_id":85844425,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

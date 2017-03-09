@@ -2,9 +2,14 @@
   "id": 605085889,
   "type": "Feature",
   "properties": {
+    "addr:full":"8028 Crispin St Philadelphia PA 19136",
+    "addr:housenumber":"8028",
+    "addr:postcode":"19136",
+    "addr:street":"Crispin St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.028377,40.045212,-75.028377,40.045212",
     "geom:latitude":40.045212,
     "geom:longitude":-75.028377,
@@ -29,18 +34,39 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6IeQXEn0XnfVgiqBkxs3JF_40.045212_-75.028377@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"2cc6ad6ceb9ae4e0fe70dbbc215e52a7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":605085889
+        }
+    ],
     "wof:id":605085889,
-    "wof:lastmodified":1466781046,
+    "wof:lastmodified":1489036092,
     "wof:name":"Bobkat Trucking Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

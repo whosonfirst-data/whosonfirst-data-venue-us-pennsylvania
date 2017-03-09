@@ -2,9 +2,14 @@
   "id": 622529077,
   "type": "Feature",
   "properties": {
+    "addr:full":"7942 Bustleton Ave Philadelphia PA 19152",
+    "addr:housenumber":"7942",
+    "addr:postcode":"19152",
+    "addr:street":"Bustleton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.052505,40.058488,-75.052505,40.058488",
     "geom:latitude":40.058488,
     "geom:longitude":-75.052505,
@@ -45,14 +50,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85882385,
+        85844347,
         102191575,
+        1108721807,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85844347
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,25 +72,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85882385,
-            "region_id":85688481,
-            "venue_id":622529077
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721807,
             "neighbourhood_id":85844347,
             "region_id":85688481,
             "venue_id":622529077
         }
     ],
     "wof:id":622529077,
-    "wof:lastmodified":1467081956,
+    "wof:lastmodified":1489033597,
     "wof:name":"America's Home Health Services",
-    "wof:parent_id":-1,
+    "wof:parent_id":85844347,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

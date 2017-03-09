@@ -2,9 +2,14 @@
   "id": 621909389,
   "type": "Feature",
   "properties": {
+    "addr:full":"5808 Old York Rd Philadelphia PA 19141",
+    "addr:housenumber":"5808",
+    "addr:postcode":"19141",
+    "addr:street":"Old York Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.1445,40.042148,-75.1445,40.042148",
     "geom:latitude":40.042148,
     "geom:longitude":-75.1445,
@@ -29,14 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851737,
+        85871397,
         102191575,
+        1108721809,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85871397
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,25 +56,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85851737,
-            "region_id":85688481,
-            "venue_id":621909389
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721809,
             "neighbourhood_id":85871397,
             "region_id":85688481,
             "venue_id":621909389
         }
     ],
     "wof:id":621909389,
-    "wof:lastmodified":1466783746,
+    "wof:lastmodified":1489034354,
     "wof:name":"Total Care Physical Therapy",
-    "wof:parent_id":-1,
+    "wof:parent_id":85871397,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

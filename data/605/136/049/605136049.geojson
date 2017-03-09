@@ -2,9 +2,14 @@
   "id": 605136049,
   "type": "Feature",
   "properties": {
+    "addr:full":"5015 Baltimore Ave Philadelphia PA 19143",
+    "addr:housenumber":"5015",
+    "addr:postcode":"19143",
+    "addr:street":"Baltimore Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.225024,39.947819,-75.225024,39.947819",
     "geom:latitude":39.947819,
     "geom:longitude":-75.225024,
@@ -25,14 +30,14 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85803155,
+        420539465,
         102191575,
+        1108721805,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        420539465
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,25 +52,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85803155,
-            "region_id":85688481,
-            "venue_id":605136049
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721805,
             "neighbourhood_id":420539465,
             "region_id":85688481,
             "venue_id":605136049
         }
     ],
     "wof:id":605136049,
-    "wof:lastmodified":1466784508,
+    "wof:lastmodified":1489033325,
     "wof:name":"Kady",
-    "wof:parent_id":-1,
+    "wof:parent_id":420539465,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

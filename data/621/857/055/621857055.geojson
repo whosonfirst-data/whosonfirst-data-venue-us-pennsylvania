@@ -2,9 +2,14 @@
   "id": 621857055,
   "type": "Feature",
   "properties": {
+    "addr:full":"520 N Columbus Blvd Philadelphia PA 19123",
+    "addr:housenumber":"520",
+    "addr:postcode":"19123",
+    "addr:street":"N Columbus Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.137237,39.960029,-75.137237,39.960029",
     "geom:latitude":39.960029,
     "geom:longitude":-75.137237,
@@ -30,14 +35,15 @@
     "sg:website":"www.egypt-nightclub.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819391,
+        1108721905,
+        85893367,
         102191575,
+        1108721801,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85893367
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,25 +58,17 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85819391,
-            "region_id":85688481,
-            "venue_id":621857055
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721801,
+            "microhood_id":1108721905,
             "neighbourhood_id":85893367,
             "region_id":85688481,
             "venue_id":621857055
         }
     ],
     "wof:id":621857055,
-    "wof:lastmodified":1466780765,
+    "wof:lastmodified":1489039459,
     "wof:name":"Egypt",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108721905,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

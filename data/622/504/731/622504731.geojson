@@ -2,9 +2,14 @@
   "id": 622504731,
   "type": "Feature",
   "properties": {
+    "addr:full":"4740 Baltimore Ave Philadelphia PA 19143",
+    "addr:housenumber":"4740",
+    "addr:postcode":"19143",
+    "addr:street":"Baltimore Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.217972,39.948546,-75.217972,39.948546",
     "geom:latitude":39.948546,
     "geom:longitude":-75.217972,
@@ -44,12 +49,12 @@
     "wof:belongsto":[
         420539465,
         102191575,
+        1108721805,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85893369
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,25 +69,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721805,
             "neighbourhood_id":420539465,
-            "region_id":85688481,
-            "venue_id":622504731
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
-            "neighbourhood_id":85893369,
             "region_id":85688481,
             "venue_id":622504731
         }
     ],
     "wof:id":622504731,
-    "wof:lastmodified":1467081939,
+    "wof:lastmodified":1489033149,
     "wof:name":"West Philadelphia Mennonite Fellowship",
-    "wof:parent_id":-1,
+    "wof:parent_id":420539465,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

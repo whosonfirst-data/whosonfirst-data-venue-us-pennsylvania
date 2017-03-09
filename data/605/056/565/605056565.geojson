@@ -2,9 +2,14 @@
   "id": 605056565,
   "type": "Feature",
   "properties": {
+    "addr:full":"4304 Rhawn St Philadelphia PA 19136",
+    "addr:housenumber":"4304",
+    "addr:postcode":"19136",
+    "addr:street":"Rhawn St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.026698,40.037858,-75.026698,40.037858",
     "geom:latitude":40.037858,
     "geom:longitude":-75.026698,
@@ -24,18 +29,39 @@
     "sg:postcode":"19136",
     "sg:province":"PA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Xqw7GuEPw4jBCuIReMb3o_40.037858_-75.026698@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"51ea25e8dd1c0b6e883a1331915efe9e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":605056565
+        }
+    ],
     "wof:id":605056565,
-    "wof:lastmodified":1466779174,
+    "wof:lastmodified":1489036111,
     "wof:name":"Zimba Landscape Contractor",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

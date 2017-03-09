@@ -2,9 +2,14 @@
   "id": 605662999,
   "type": "Feature",
   "properties": {
+    "addr:full":"3400 N Broad St Philadelphia PA 19140",
+    "addr:housenumber":"3400",
+    "addr:postcode":"19140",
+    "addr:street":"N Broad St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.151919,40.006167,-75.151919,40.006167",
     "geom:latitude":40.006167,
     "geom:longitude":-75.151919,
@@ -28,14 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85882379,
+        1108723477,
         102191575,
+        1108721811,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        420558573
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,25 +55,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85882379,
-            "region_id":85688481,
-            "venue_id":605662999
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
-            "neighbourhood_id":420558573,
+            "macrohood_id":1108721811,
+            "neighbourhood_id":1108723477,
             "region_id":85688481,
             "venue_id":605662999
         }
     ],
     "wof:id":605662999,
-    "wof:lastmodified":1467081636,
+    "wof:lastmodified":1489038796,
     "wof:name":"Family Medicine Assoc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108723477,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

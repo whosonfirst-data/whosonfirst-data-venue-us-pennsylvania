@@ -2,9 +2,14 @@
   "id": 622051941,
   "type": "Feature",
   "properties": {
+    "addr:full":"5020 Osage Ave Philadelphia PA 19143",
+    "addr:housenumber":"5020",
+    "addr:postcode":"19143",
+    "addr:street":"Osage Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.224398,39.952523,-75.224398,39.952523",
     "geom:latitude":39.952523,
     "geom:longitude":-75.224398,
@@ -30,12 +35,12 @@
     "wof:belongsto":[
         85821029,
         102191575,
+        1108721805,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85803155
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,25 +55,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721805,
             "neighbourhood_id":85821029,
-            "region_id":85688481,
-            "venue_id":622051941
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
-            "neighbourhood_id":85803155,
             "region_id":85688481,
             "venue_id":622051941
         }
     ],
     "wof:id":622051941,
-    "wof:lastmodified":1466780593,
+    "wof:lastmodified":1489033021,
     "wof:name":"Strategy Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85821029,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

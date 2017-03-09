@@ -2,9 +2,14 @@
   "id": 605355127,
   "type": "Feature",
   "properties": {
+    "addr:full":"4727 Oakmont St Philadelphia PA 19136",
+    "addr:housenumber":"4727",
+    "addr:postcode":"19136",
+    "addr:street":"Oakmont St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.029291,40.031681,-75.029291,40.031681",
     "geom:latitude":40.031681,
     "geom:longitude":-75.029291,
@@ -29,18 +34,39 @@
     ],
     "sg:website":"www.lougentile.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ijbyLjGDjQ1rOMnZl9ZAM_40.031681_-75.029291@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"5d5f01bef96427c96e3c671e0fb41890",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":605355127
+        }
+    ],
     "wof:id":605355127,
-    "wof:lastmodified":1466791282,
+    "wof:lastmodified":1489036087,
     "wof:name":"LGPRN",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

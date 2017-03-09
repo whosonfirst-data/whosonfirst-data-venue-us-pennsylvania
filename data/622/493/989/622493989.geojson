@@ -2,9 +2,14 @@
   "id": 622493989,
   "type": "Feature",
   "properties": {
+    "addr:full":"4224 Meridian St Philadelphia PA 19136",
+    "addr:housenumber":"4224",
+    "addr:postcode":"19136",
+    "addr:street":"Meridian St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.031595,40.038206,-75.031595,40.038206",
     "geom:latitude":40.038206,
     "geom:longitude":-75.031595,
@@ -47,18 +52,39 @@
     ],
     "sg:website":"http://www.directvaluehomeremodeling.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_70zYmlfw8DQGAPzBwHTtlr_40.038206_-75.031595@1303262458"
     },
     "wof:country":"US",
     "wof:geomhash":"cac6469f58484ff8e48213e521103ec9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":622493989
+        }
+    ],
     "wof:id":622493989,
-    "wof:lastmodified":1467081931,
+    "wof:lastmodified":1489036125,
     "wof:name":"Direct Value Home Remodeling Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

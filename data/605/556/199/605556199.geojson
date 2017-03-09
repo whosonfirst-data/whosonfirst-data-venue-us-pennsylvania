@@ -2,9 +2,14 @@
   "id": 605556199,
   "type": "Feature",
   "properties": {
+    "addr:full":"4754 Lansing St Philadelphia PA 19136",
+    "addr:housenumber":"4754",
+    "addr:postcode":"19136",
+    "addr:street":"Lansing St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.027407,40.033203,-75.027407,40.033203",
     "geom:latitude":40.033203,
     "geom:longitude":-75.027407,
@@ -24,18 +29,39 @@
     "sg:postcode":"19136",
     "sg:province":"PA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5I39Ntarc59Olnmexdoa6a_40.033203_-75.027407@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"2a71dd2c469c17faee2fb8749ddd2eaa",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":605556199
+        }
+    ],
     "wof:id":605556199,
-    "wof:lastmodified":1467081569,
+    "wof:lastmodified":1489036082,
     "wof:name":"Regan & Barton Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

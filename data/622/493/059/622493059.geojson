@@ -2,9 +2,14 @@
   "id": 622493059,
   "type": "Feature",
   "properties": {
+    "addr:full":"7340 State Rd Philadelphia PA 19136",
+    "addr:housenumber":"7340",
+    "addr:postcode":"19136",
+    "addr:street":"State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.029973,40.026695,-75.029973,40.026695",
     "geom:latitude":40.026695,
     "geom:longitude":-75.029973,
@@ -27,18 +32,39 @@
         "laboratory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6RWpMBCcwd13lcXjZemO3d_40.026695_-75.029973@1303262458"
     },
     "wof:country":"US",
     "wof:geomhash":"4b946331b45f38c13200c192956c5d29",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":622493059
+        }
+    ],
     "wof:id":622493059,
-    "wof:lastmodified":1467081930,
+    "wof:lastmodified":1489036105,
     "wof:name":"Njp Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

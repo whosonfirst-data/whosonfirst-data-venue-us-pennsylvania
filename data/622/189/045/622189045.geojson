@@ -2,9 +2,14 @@
   "id": 622189045,
   "type": "Feature",
   "properties": {
+    "addr:full":"5234 Torresdale Ave Philadelphia PA 19124",
+    "addr:housenumber":"5234",
+    "addr:postcode":"19124",
+    "addr:street":"Torresdale Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.069199,40.013302,-75.069199,40.013302",
     "geom:latitude":40.013302,
     "geom:longitude":-75.069199,
@@ -31,6 +36,7 @@
     "wof:belongsto":[
         85858409,
         102191575,
+        1108721807,
         404483701,
         85633793,
         101718083,
@@ -50,13 +56,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721807,
             "neighbourhood_id":85858409,
             "region_id":85688481,
             "venue_id":622189045
         }
     ],
     "wof:id":622189045,
-    "wof:lastmodified":1466786840,
+    "wof:lastmodified":1489037487,
     "wof:name":"Best Pizza Restaurant",
     "wof:parent_id":85858409,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 589032913,
   "type": "Feature",
   "properties": {
+    "addr:full":"3620 W Crown Ave Philadelphia PA 19114",
+    "addr:housenumber":"3620",
+    "addr:postcode":"19114",
+    "addr:street":"W Crown Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.991207,40.070334,-74.991207,40.070334",
     "geom:latitude":40.070334,
     "geom:longitude":-74.991207,
@@ -30,14 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85882385,
+        420782485,
         102191575,
+        1108721807,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        420560143
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,25 +57,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85882385,
-            "region_id":85688481,
-            "venue_id":589032913
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
-            "neighbourhood_id":420560143,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":420782485,
             "region_id":85688481,
             "venue_id":589032913
         }
     ],
     "wof:id":589032913,
-    "wof:lastmodified":1466779754,
+    "wof:lastmodified":1489038491,
     "wof:name":"XCEL Fitness Consulting Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420782485,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

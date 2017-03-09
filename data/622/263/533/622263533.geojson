@@ -2,9 +2,14 @@
   "id": 622263533,
   "type": "Feature",
   "properties": {
+    "addr:full":"6351 N Broad St  Philadelphia PA 19141",
+    "addr:housenumber":"6351",
+    "addr:postcode":"19141",
+    "addr:street":"N Broad St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.142153,40.04978,-75.142153,40.04978",
     "geom:latitude":40.04978,
     "geom:longitude":-75.142153,
@@ -33,6 +38,7 @@
     "wof:belongsto":[
         85816633,
         102191575,
+        1108721809,
         404483701,
         85633793,
         101718083,
@@ -52,13 +58,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721809,
             "neighbourhood_id":85816633,
             "region_id":85688481,
             "venue_id":622263533
         }
     ],
     "wof:id":622263533,
-    "wof:lastmodified":1466789259,
+    "wof:lastmodified":1489034277,
     "wof:name":"Great Wall",
     "wof:parent_id":85816633,
     "wof:placetype":"venue",

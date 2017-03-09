@@ -2,9 +2,14 @@
   "id": 622106509,
   "type": "Feature",
   "properties": {
+    "addr:full":"7400 State Rd Philadelphia PA 19136",
+    "addr:housenumber":"7400",
+    "addr:postcode":"19136",
+    "addr:street":"State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.027414,40.028118,-75.027414,40.028118",
     "geom:latitude":40.028118,
     "geom:longitude":-75.027414,
@@ -29,18 +34,39 @@
         "hollow"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6KGGT7ZNswpYXF9cY5zRGf_40.028118_-75.027414@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"da4863fdfb3df5285f5d82f3c4c53b7e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":622106509
+        }
+    ],
     "wof:id":622106509,
-    "wof:lastmodified":1466783281,
+    "wof:lastmodified":1489036110,
     "wof:name":"Discount Door Distributors",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

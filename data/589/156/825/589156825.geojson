@@ -2,9 +2,14 @@
   "id": 589156825,
   "type": "Feature",
   "properties": {
+    "addr:full":"2740 N Front St Philadelphia PA 19133",
+    "addr:housenumber":"2740",
+    "addr:postcode":"19133",
+    "addr:street":"N Front St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.130834,39.991484,-75.130834,39.991484",
     "geom:latitude":39.991484,
     "geom:longitude":-75.130834,
@@ -31,14 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420559149,
+        1108723481,
         102191575,
+        1108721813,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85893373
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,25 +58,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":420559149,
-            "region_id":85688481,
-            "venue_id":589156825
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
-            "neighbourhood_id":85893373,
+            "macrohood_id":1108721813,
+            "neighbourhood_id":1108723481,
             "region_id":85688481,
             "venue_id":589156825
         }
     ],
     "wof:id":589156825,
-    "wof:lastmodified":1466785916,
+    "wof:lastmodified":1489038847,
     "wof:name":"Performance 1 Speed Shop",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108723481,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

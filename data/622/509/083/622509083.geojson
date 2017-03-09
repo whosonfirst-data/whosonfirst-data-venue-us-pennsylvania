@@ -2,9 +2,14 @@
   "id": 622509083,
   "type": "Feature",
   "properties": {
+    "addr:full":"2020 Penrose Ave Suite B Philadelphia PA 19145",
+    "addr:housenumber":"2020",
+    "addr:postcode":"19145",
+    "addr:street":"Penrose Ave Suite B",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.183103,39.912423,-75.183103,39.912423",
     "geom:latitude":39.912423,
     "geom:longitude":-75.183103,
@@ -35,14 +40,14 @@
     "sg:website":"www.philly.minutemanpress.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865521,
+        420782601,
         102191575,
+        1108721801,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        420558463
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,25 +62,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85865521,
-            "region_id":85688481,
-            "venue_id":622509083
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
-            "neighbourhood_id":420558463,
+            "macrohood_id":1108721801,
+            "neighbourhood_id":420782601,
             "region_id":85688481,
             "venue_id":622509083
         }
     ],
     "wof:id":622509083,
-    "wof:lastmodified":1467081942,
+    "wof:lastmodified":1489038686,
     "wof:name":"Minuteman Press",
-    "wof:parent_id":-1,
+    "wof:parent_id":420782601,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

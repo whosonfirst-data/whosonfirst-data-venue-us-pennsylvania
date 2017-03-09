@@ -2,9 +2,14 @@
   "id": 622480263,
   "type": "Feature",
   "properties": {
+    "addr:full":"2401 Pennsylvania Ave Philadelphia PA 19130",
+    "addr:housenumber":"2401",
+    "addr:postcode":"19130",
+    "addr:street":"Pennsylvania Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.177788,39.96587,-75.177788,39.96587",
     "geom:latitude":39.96587,
     "geom:longitude":-75.177788,
@@ -35,6 +40,7 @@
     "wof:belongsto":[
         420539525,
         102191575,
+        1108721811,
         404483701,
         85633793,
         101718083,
@@ -54,13 +60,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721811,
             "neighbourhood_id":420539525,
             "region_id":85688481,
             "venue_id":622480263
         }
     ],
     "wof:id":622480263,
-    "wof:lastmodified":1467081921,
+    "wof:lastmodified":1489035164,
     "wof:name":"Alfred P Fishman Md",
     "wof:parent_id":420539525,
     "wof:placetype":"venue",

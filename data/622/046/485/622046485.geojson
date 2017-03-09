@@ -2,9 +2,14 @@
   "id": 622046485,
   "type": "Feature",
   "properties": {
+    "addr:full":"4035 Roosevelt Blvd Philadelphia PA 19124",
+    "addr:housenumber":"4035",
+    "addr:postcode":"19124",
+    "addr:street":"Roosevelt Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.108257,40.028001,-75.108257,40.028001",
     "geom:latitude":40.028001,
     "geom:longitude":-75.108257,
@@ -28,14 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809945,
+        85838435,
         102191575,
+        1108721807,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85838435
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,25 +55,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85809945,
-            "region_id":85688481,
-            "venue_id":622046485
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721807,
             "neighbourhood_id":85838435,
             "region_id":85688481,
             "venue_id":622046485
         }
     ],
     "wof:id":622046485,
-    "wof:lastmodified":1466780289,
+    "wof:lastmodified":1489033741,
     "wof:name":"Spotless Services Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85838435,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

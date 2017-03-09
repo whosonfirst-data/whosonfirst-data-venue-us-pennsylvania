@@ -2,9 +2,14 @@
   "id": 605063297,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 Green Ln Philadelphia PA 19127",
+    "addr:housenumber":"100",
+    "addr:postcode":"19127",
+    "addr:street":"Green Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.226658,40.027319,-75.226658,40.027319",
     "geom:latitude":40.027319,
     "geom:longitude":-75.226658,
@@ -35,6 +40,7 @@
     "wof:belongsto":[
         85832047,
         102191575,
+        1108721809,
         404483701,
         85633793,
         101718083,
@@ -54,13 +60,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721809,
             "neighbourhood_id":85832047,
             "region_id":85688481,
             "venue_id":605063297
         }
     ],
     "wof:id":605063297,
-    "wof:lastmodified":1466779826,
+    "wof:lastmodified":1489034485,
     "wof:name":"Furniture Workshop Inc",
     "wof:parent_id":85832047,
     "wof:placetype":"venue",

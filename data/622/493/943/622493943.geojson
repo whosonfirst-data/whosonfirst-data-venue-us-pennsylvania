@@ -2,9 +2,14 @@
   "id": 622493943,
   "type": "Feature",
   "properties": {
+    "addr:full":"8425A Frankford Ave Philadelphia PA 19136",
+    "addr:housenumber":"8425a",
+    "addr:postcode":"19136",
+    "addr:street":"Frankford Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.019042,40.043784,-75.019042,40.043784",
     "geom:latitude":40.043784,
     "geom:longitude":-75.019042,
@@ -34,18 +39,41 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108722091,
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6LZaFk46fJ3eeKV0Ll9yrD_40.043784_-75.019042@1303262458"
     },
     "wof:country":"US",
     "wof:geomhash":"da6dfd8c76366b8a9506f5777dbe61a1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "microhood_id":1108722091,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":622493943
+        }
+    ],
     "wof:id":622493943,
-    "wof:lastmodified":1467081931,
+    "wof:lastmodified":1489039512,
     "wof:name":"M&L Beverage",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108722091,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

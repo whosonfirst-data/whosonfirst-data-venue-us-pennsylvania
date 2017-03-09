@@ -2,9 +2,14 @@
   "id": 622493551,
   "type": "Feature",
   "properties": {
+    "addr:full":"8100 Colfax St Ste 1 Philadelphia PA 19136",
+    "addr:housenumber":"8100",
+    "addr:postcode":"19136",
+    "addr:street":"Colfax St Ste 1",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.031174,40.05418,-75.031174,40.05418",
     "geom:latitude":40.05418,
     "geom:longitude":-75.031174,
@@ -34,14 +39,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420558645,
+        420782513,
         102191575,
+        1108721807,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85882385
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,25 +61,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":420558645,
-            "region_id":85688481,
-            "venue_id":622493551
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
-            "neighbourhood_id":85882385,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":420782513,
             "region_id":85688481,
             "venue_id":622493551
         }
     ],
     "wof:id":622493551,
-    "wof:lastmodified":1467081931,
+    "wof:lastmodified":1489038525,
     "wof:name":"St Jerome's Church Rectory",
-    "wof:parent_id":-1,
+    "wof:parent_id":420782513,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

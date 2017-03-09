@@ -2,9 +2,14 @@
   "id": 605260015,
   "type": "Feature",
   "properties": {
+    "addr:full":"307 Ginger Ln Philadelphia PA 19128",
+    "addr:housenumber":"307",
+    "addr:postcode":"19128",
+    "addr:street":"Ginger Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.229553,40.039341,-75.229553,40.039341",
     "geom:latitude":40.039341,
     "geom:longitude":-75.229553,
@@ -31,6 +36,7 @@
     "wof:belongsto":[
         420539523,
         102191575,
+        1108721809,
         404483701,
         85633793,
         101718083,
@@ -50,13 +56,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721809,
             "neighbourhood_id":420539523,
             "region_id":85688481,
             "venue_id":605260015
         }
     ],
     "wof:id":605260015,
-    "wof:lastmodified":1466789112,
+    "wof:lastmodified":1489038441,
     "wof:name":"Century Group",
     "wof:parent_id":420539523,
     "wof:placetype":"venue",

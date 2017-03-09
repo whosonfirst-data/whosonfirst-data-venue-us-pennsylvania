@@ -2,9 +2,14 @@
   "id": 622468011,
   "type": "Feature",
   "properties": {
+    "addr:full":"911 N Franklin St Apt 187 Philadelphia PA 19123",
+    "addr:housenumber":"911;187",
+    "addr:postcode":"19123",
+    "addr:street":"N Franklin St Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.1495,39.968011,-75.1495,39.968011",
     "geom:latitude":39.968011,
     "geom:longitude":-75.1495,
@@ -74,6 +79,7 @@
     "wof:belongsto":[
         420539495,
         102191575,
+        1108721811,
         404483701,
         85633793,
         101718083,
@@ -93,13 +99,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721811,
             "neighbourhood_id":420539495,
             "region_id":85688481,
             "venue_id":622468011
         }
     ],
     "wof:id":622468011,
-    "wof:lastmodified":1467081912,
+    "wof:lastmodified":1489034944,
     "wof:name":"Pier 1 Imports",
     "wof:parent_id":420539495,
     "wof:placetype":"venue",

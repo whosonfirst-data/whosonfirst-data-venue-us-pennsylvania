@@ -2,9 +2,14 @@
   "id": 622457295,
   "type": "Feature",
   "properties": {
+    "addr:full":"13301 Proctor Rd Philadelphia PA 19116",
+    "addr:housenumber":"13301",
+    "addr:postcode":"19116",
+    "addr:street":"Proctor Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.012077,40.12339,-75.012077,40.12339",
     "geom:latitude":40.12339,
     "geom:longitude":-75.012077,
@@ -42,6 +47,7 @@
     "wof:belongsto":[
         85849295,
         102191575,
+        1108721807,
         404483701,
         85633793,
         101718083,
@@ -61,13 +67,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721807,
             "neighbourhood_id":85849295,
             "region_id":85688481,
             "venue_id":622457295
         }
     ],
     "wof:id":622457295,
-    "wof:lastmodified":1467081904,
+    "wof:lastmodified":1489033757,
     "wof:name":"St Christopher",
     "wof:parent_id":85849295,
     "wof:placetype":"venue",

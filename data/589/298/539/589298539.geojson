@@ -2,9 +2,14 @@
   "id": 589298539,
   "type": "Feature",
   "properties": {
+    "addr:full":"6218 Morton St Philadelphia PA 19144",
+    "addr:housenumber":"6218",
+    "addr:postcode":"19144",
+    "addr:street":"Morton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.177754,40.046274,-75.177754,40.046274",
     "geom:latitude":40.046274,
     "geom:longitude":-75.177754,
@@ -28,14 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85835357,
+        85893335,
         102191575,
+        1108721809,
         404483701,
         85633793,
         101718083,
         102081353,
         85688481,
-        420559145
+        85835357
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,7 +56,8 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85835357,
+            "macrohood_id":1108721809,
+            "neighbourhood_id":85893335,
             "region_id":85688481,
             "venue_id":589298539
         },
@@ -60,15 +67,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":420559145,
+            "macrohood_id":1108721809,
+            "neighbourhood_id":85835357,
             "region_id":85688481,
             "venue_id":589298539
         }
     ],
     "wof:id":589298539,
-    "wof:lastmodified":1466790646,
+    "wof:lastmodified":1489034552,
     "wof:name":"Pretty Porcelain",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

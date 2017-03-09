@@ -2,9 +2,14 @@
   "id": 605645229,
   "type": "Feature",
   "properties": {
+    "addr:full":"1001 Rosalie St Philadelphia PA 19149",
+    "addr:housenumber":"1001",
+    "addr:postcode":"19149",
+    "addr:street":"Rosalie St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.088991,40.035058,-75.088991,40.035058",
     "geom:latitude":40.035058,
     "geom:longitude":-75.088991,
@@ -27,6 +32,7 @@
     "wof:belongsto":[
         85851361,
         102191575,
+        1108721807,
         404483701,
         85633793,
         101718083,
@@ -46,13 +52,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721807,
             "neighbourhood_id":85851361,
             "region_id":85688481,
             "venue_id":605645229
         }
     ],
     "wof:id":605645229,
-    "wof:lastmodified":1467081625,
+    "wof:lastmodified":1489033849,
     "wof:name":"Mancuso Assoc",
     "wof:parent_id":85851361,
     "wof:placetype":"venue",

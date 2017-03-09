@@ -2,9 +2,14 @@
   "id": 622490847,
   "type": "Feature",
   "properties": {
+    "addr:full":"2875 N Lee St Philadelphia PA 19134",
+    "addr:housenumber":"2875",
+    "addr:postcode":"19134",
+    "addr:street":"N Lee St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.129799,39.9939,-75.129799,39.9939",
     "geom:latitude":39.9939,
     "geom:longitude":-75.129799,
@@ -35,14 +40,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420559149,
+        1108723481,
         102191575,
+        1108721813,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85893373
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,25 +62,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":420559149,
-            "region_id":85688481,
-            "venue_id":622490847
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
-            "neighbourhood_id":85893373,
+            "macrohood_id":1108721813,
+            "neighbourhood_id":1108723481,
             "region_id":85688481,
             "venue_id":622490847
         }
     ],
     "wof:id":622490847,
-    "wof:lastmodified":1467081929,
+    "wof:lastmodified":1489038849,
     "wof:name":"Nina's Family Grocery Store",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108723481,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

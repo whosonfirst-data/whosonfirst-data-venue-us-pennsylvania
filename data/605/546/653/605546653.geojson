@@ -2,9 +2,14 @@
   "id": 605546653,
   "type": "Feature",
   "properties": {
+    "addr:full":"800 W Walnut Ln Philadelphia PA 19128",
+    "addr:housenumber":"800",
+    "addr:postcode":"19128",
+    "addr:street":"W Walnut Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.204507,40.029154,-75.204507,40.029154",
     "geom:latitude":40.029154,
     "geom:longitude":-75.204507,
@@ -29,14 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85844711,
+        85846269,
         102191575,
+        1108721809,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85846269
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,25 +56,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85844711,
-            "region_id":85688481,
-            "venue_id":605546653
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721809,
             "neighbourhood_id":85846269,
             "region_id":85688481,
             "venue_id":605546653
         }
     ],
     "wof:id":605546653,
-    "wof:lastmodified":1467081563,
+    "wof:lastmodified":1489034202,
     "wof:name":"Fairmunt Park Cmmssn-Rcreation",
-    "wof:parent_id":-1,
+    "wof:parent_id":85846269,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 621949409,
   "type": "Feature",
   "properties": {
+    "addr:full":"1736 Pine St Philadelphia PA 19103",
+    "addr:housenumber":"1736",
+    "addr:postcode":"19103",
+    "addr:street":"Pine St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.170417,39.946121,-75.170417,39.946121",
     "geom:latitude":39.946121,
     "geom:longitude":-75.170417,
@@ -25,14 +30,14 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871449,
+        85844705,
         102191575,
+        1108721797,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85844705
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,25 +52,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85871449,
-            "region_id":85688481,
-            "venue_id":621949409
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721797,
             "neighbourhood_id":85844705,
             "region_id":85688481,
             "venue_id":621949409
         }
     ],
     "wof:id":621949409,
-    "wof:lastmodified":1466785847,
+    "wof:lastmodified":1489031173,
     "wof:name":"Ellen J Siegel",
-    "wof:parent_id":-1,
+    "wof:parent_id":85844705,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

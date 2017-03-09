@@ -2,9 +2,14 @@
   "id": 622493831,
   "type": "Feature",
   "properties": {
+    "addr:full":"3114 Willits Rd Philadelphia PA 19136",
+    "addr:housenumber":"3114",
+    "addr:postcode":"19136",
+    "addr:street":"Willits Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.015637,40.058202,-75.015637,40.058202",
     "geom:latitude":40.058202,
     "geom:longitude":-75.015637,
@@ -36,13 +41,15 @@
     "sg:website":"http://www.enpointeonline.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420539507,
+        85841261,
         102191575,
+        1108721807,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481
+        85688481,
+        420539507
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,15 +64,27 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85841261,
+            "region_id":85688481,
+            "venue_id":622493831
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
             "neighbourhood_id":420539507,
             "region_id":85688481,
             "venue_id":622493831
         }
     ],
     "wof:id":622493831,
-    "wof:lastmodified":1467081931,
+    "wof:lastmodified":1489036586,
     "wof:name":"En Pointe",
-    "wof:parent_id":420539507,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

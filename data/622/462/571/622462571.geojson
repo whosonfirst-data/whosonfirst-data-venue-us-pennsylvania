@@ -2,9 +2,14 @@
   "id": 622462571,
   "type": "Feature",
   "properties": {
+    "addr:full":"1837 N 33rd St Philadelphia PA 19121",
+    "addr:housenumber":"1837",
+    "addr:postcode":"19121",
+    "addr:street":"N 33Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.187896,39.984838,-75.187896,39.984838",
     "geom:latitude":39.984838,
     "geom:longitude":-75.187896,
@@ -46,13 +51,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420539497,
+        85851257,
         102191575,
+        1108721811,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481
+        85688481,
+        420539497
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,15 +74,27 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721811,
+            "neighbourhood_id":85851257,
+            "region_id":85688481,
+            "venue_id":622462571
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721811,
             "neighbourhood_id":420539497,
             "region_id":85688481,
             "venue_id":622462571
         }
     ],
     "wof:id":622462571,
-    "wof:lastmodified":1467081908,
+    "wof:lastmodified":1489037207,
     "wof:name":"East Park Historical Soci",
-    "wof:parent_id":420539497,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

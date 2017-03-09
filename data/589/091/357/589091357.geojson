@@ -2,9 +2,14 @@
   "id": 589091357,
   "type": "Feature",
   "properties": {
+    "addr:full":"2601 Penrose Ave Philadelphia PA 19145",
+    "addr:housenumber":"2601",
+    "addr:postcode":"19145",
+    "addr:street":"Penrose Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.195278,39.905346,-75.195278,39.905346",
     "geom:latitude":39.905346,
     "geom:longitude":-75.195278,
@@ -25,14 +30,14 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865521,
+        420539487,
         102191575,
+        1108721801,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        420539487
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,25 +52,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85865521,
-            "region_id":85688481,
-            "venue_id":589091357
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721801,
             "neighbourhood_id":420539487,
             "region_id":85688481,
             "venue_id":589091357
         }
     ],
     "wof:id":589091357,
-    "wof:lastmodified":1466783188,
+    "wof:lastmodified":1489032289,
     "wof:name":"A Plus Mini Market",
-    "wof:parent_id":-1,
+    "wof:parent_id":420539487,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

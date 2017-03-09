@@ -2,9 +2,14 @@
   "id": 622493895,
   "type": "Feature",
   "properties": {
+    "addr:full":"8342 State Rd Ste 1 Philadelphia PA 19136",
+    "addr:housenumber":"8342",
+    "addr:postcode":"19136",
+    "addr:street":"State Rd Ste 1",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.015862,40.034527,-75.015862,40.034527",
     "geom:latitude":40.034527,
     "geom:longitude":-75.015862,
@@ -29,18 +34,39 @@
         "trophies"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_72V6GLO5BfMgVrQ9NXDHTE_40.034527_-75.015862@1303262458"
     },
     "wof:country":"US",
     "wof:geomhash":"885ad774e88c59c1b07c9f4f747577b1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":622493895
+        }
+    ],
     "wof:id":622493895,
-    "wof:lastmodified":1467081931,
+    "wof:lastmodified":1489036122,
     "wof:name":"Impressions Recognition Awards",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

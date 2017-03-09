@@ -2,9 +2,14 @@
   "id": 622474665,
   "type": "Feature",
   "properties": {
+    "addr:full":"3705 Main St Philadelphia PA 19127",
+    "addr:housenumber":"3705",
+    "addr:postcode":"19127",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.208127,40.015339,-75.208127,40.015339",
     "geom:latitude":40.015339,
     "geom:longitude":-75.208127,
@@ -40,6 +45,7 @@
     "wof:belongsto":[
         85858403,
         102191575,
+        1108721809,
         404483701,
         85633793,
         101718083,
@@ -59,13 +65,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721809,
             "neighbourhood_id":85858403,
             "region_id":85688481,
             "venue_id":622474665
         }
     ],
     "wof:id":622474665,
-    "wof:lastmodified":1467081917,
+    "wof:lastmodified":1489034625,
     "wof:name":"Philadelphia Guild-Hand Wvrs",
     "wof:parent_id":85858403,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 622016335,
   "type": "Feature",
   "properties": {
+    "addr:full":"4014 Meridian St Philadelphia PA 19136",
+    "addr:housenumber":"4014",
+    "addr:postcode":"19136",
+    "addr:street":"Meridian St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.031913,40.038639,-75.031913,40.038639",
     "geom:latitude":40.038639,
     "geom:longitude":-75.031913,
@@ -28,18 +33,39 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5UF7ZQ9jzAVgYBYTwZyZG4_40.038639_-75.031913@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"a28c50d6116c8f8fe86774faf07e38da",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":622016335
+        }
+    ],
     "wof:id":622016335,
-    "wof:lastmodified":1466777742,
+    "wof:lastmodified":1489036091,
     "wof:name":"Standard Elec Contrs Svcs",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

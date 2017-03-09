@@ -2,9 +2,14 @@
   "id": 622231143,
   "type": "Feature",
   "properties": {
+    "addr:full":"1527 Hulseman St Philadelphia PA 19145",
+    "addr:housenumber":"1527",
+    "addr:postcode":"19145",
+    "addr:street":"Hulseman St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.17546,39.909269,-75.17546,39.909269",
     "geom:latitude":39.909269,
     "geom:longitude":-75.17546,
@@ -30,14 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420558463,
+        420782601,
         102191575,
+        1108721801,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85893371
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,25 +57,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":420558463,
-            "region_id":85688481,
-            "venue_id":622231143
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
-            "neighbourhood_id":85893371,
+            "macrohood_id":1108721801,
+            "neighbourhood_id":420782601,
             "region_id":85688481,
             "venue_id":622231143
         }
     ],
     "wof:id":622231143,
-    "wof:lastmodified":1466788312,
+    "wof:lastmodified":1489038685,
     "wof:name":"Sal's Plumbing & Heating Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420782601,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 621965789,
   "type": "Feature",
   "properties": {
+    "addr:full":"2218 Race St Philadelphia PA 19103",
+    "addr:housenumber":"2218",
+    "addr:postcode":"19103",
+    "addr:street":"Race St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.175997,39.957802,-75.175997,39.957802",
     "geom:latitude":39.957802,
     "geom:longitude":-75.175997,
@@ -30,14 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85866793,
+        85871427,
         102191575,
+        1108721797,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85871427
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,25 +57,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85866793,
-            "region_id":85688481,
-            "venue_id":621965789
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721797,
             "neighbourhood_id":85871427,
             "region_id":85688481,
             "venue_id":621965789
         }
     ],
     "wof:id":621965789,
-    "wof:lastmodified":1466786542,
+    "wof:lastmodified":1489031568,
     "wof:name":"Allied Advg Ltd Partnr By Aalp",
-    "wof:parent_id":-1,
+    "wof:parent_id":85871427,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

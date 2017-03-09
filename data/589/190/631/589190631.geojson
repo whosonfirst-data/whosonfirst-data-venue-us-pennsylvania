@@ -2,9 +2,14 @@
   "id": 589190631,
   "type": "Feature",
   "properties": {
+    "addr:full":"700 Bainbridge St Philadelphia PA 19147",
+    "addr:housenumber":"700",
+    "addr:postcode":"19147",
+    "addr:street":"Bainbridge St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.155042,39.941452,-75.155042,39.941452",
     "geom:latitude":39.941452,
     "geom:longitude":-75.155042,
@@ -31,14 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85893319,
+        85805405,
         102191575,
+        1108721801,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85805405
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,25 +58,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85893319,
-            "region_id":85688481,
-            "venue_id":589190631
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721801,
             "neighbourhood_id":85805405,
             "region_id":85688481,
             "venue_id":589190631
         }
     ],
     "wof:id":589190631,
-    "wof:lastmodified":1466787753,
+    "wof:lastmodified":1489032519,
     "wof:name":"Michael Heating & Air Cond",
-    "wof:parent_id":-1,
+    "wof:parent_id":85805405,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

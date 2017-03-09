@@ -2,9 +2,14 @@
   "id": 588923169,
   "type": "Feature",
   "properties": {
+    "addr:full":"8501 State Rd Philadelphia PA 19136",
+    "addr:housenumber":"8501",
+    "addr:postcode":"19136",
+    "addr:street":"State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.00905,40.037957,-75.00905,40.037957",
     "geom:latitude":40.037957,
     "geom:longitude":-75.00905,
@@ -27,18 +32,39 @@
         "department"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6vVjlPbOirMxCrxUmrozS7_40.037957_-75.009050@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"f65cef5ab72dd12e6c3d24217fa05e00",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":588923169
+        }
+    ],
     "wof:id":588923169,
-    "wof:lastmodified":1466784111,
+    "wof:lastmodified":1489036112,
     "wof:name":"Philadelphia Police Academy",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 622508497,
   "type": "Feature",
   "properties": {
+    "addr:full":"5500 Wissahickon Ave Philadelphia PA 19144",
+    "addr:housenumber":"5500",
+    "addr:postcode":"19144",
+    "addr:street":"Wissahickon Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.181648,40.025631,-75.181648,40.025631",
     "geom:latitude":40.025631,
     "geom:longitude":-75.181648,
@@ -29,14 +34,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85821407,
+        1108723469,
         102191575,
+        1108721809,
         404483701,
         85633793,
         101718083,
         102081353,
         85688481,
-        85816289
+        85821407
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,7 +57,8 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85821407,
+            "macrohood_id":1108721809,
+            "neighbourhood_id":1108723469,
             "region_id":85688481,
             "venue_id":622508497
         },
@@ -61,15 +68,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85816289,
+            "macrohood_id":1108721809,
+            "neighbourhood_id":85821407,
             "region_id":85688481,
             "venue_id":622508497
         }
     ],
     "wof:id":622508497,
-    "wof:lastmodified":1467081942,
+    "wof:lastmodified":1489038749,
     "wof:name":"Md Judy Ph Kleppel",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

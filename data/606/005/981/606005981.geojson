@@ -2,9 +2,14 @@
   "id": 606005981,
   "type": "Feature",
   "properties": {
+    "addr:full":"4300 Sheffield St Philadelphia PA 19136",
+    "addr:housenumber":"4300",
+    "addr:postcode":"19136",
+    "addr:street":"Sheffield St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.031903,40.036992,-75.031903,40.036992",
     "geom:latitude":40.036992,
     "geom:longitude":-75.031903,
@@ -27,18 +32,39 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4clrG2kiOWqq10LzW8wqXa_40.036992_-75.031903@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"ea04a3080de65115b22194c68674f13c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":606005981
+        }
+    ],
     "wof:id":606005981,
-    "wof:lastmodified":1466776688,
+    "wof:lastmodified":1489036111,
     "wof:name":"Korner Kuts Hair Styling",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 622459491,
   "type": "Feature",
   "properties": {
+    "addr:full":"7120 Germantown Ave Philadelphia PA 19119",
+    "addr:housenumber":"7120",
+    "addr:postcode":"19119",
+    "addr:street":"Germantown Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.190002,40.058971,-75.190002,40.058971",
     "geom:latitude":40.058971,
     "geom:longitude":-75.190002,
@@ -48,14 +53,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85835449,
+        85893335,
         102191575,
+        1108721809,
         404483701,
         85633793,
         101718083,
         102081353,
         85688481,
-        85893335
+        85835449
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,7 +76,8 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85835449,
+            "macrohood_id":1108721809,
+            "neighbourhood_id":85893335,
             "region_id":85688481,
             "venue_id":622459491
         },
@@ -80,15 +87,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85893335,
+            "macrohood_id":1108721809,
+            "neighbourhood_id":85835449,
             "region_id":85688481,
             "venue_id":622459491
         }
     ],
     "wof:id":622459491,
-    "wof:lastmodified":1467081906,
+    "wof:lastmodified":1489034337,
     "wof:name":"Allstate Insurance Company - Warren Clarkson",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

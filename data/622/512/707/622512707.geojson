@@ -2,9 +2,14 @@
   "id": 622512707,
   "type": "Feature",
   "properties": {
+    "addr:full":"622 S 19th St Philadelphia PA 19146",
+    "addr:housenumber":"622",
+    "addr:postcode":"19146",
+    "addr:street":"S 19Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.173749,39.944198,-75.173749,39.944198",
     "geom:latitude":39.944198,
     "geom:longitude":-75.173749,
@@ -28,14 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850347,
+        85847359,
         102191575,
+        1108721801,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        420559177
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,25 +55,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85850347,
-            "region_id":85688481,
-            "venue_id":622512707
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
-            "neighbourhood_id":420559177,
+            "macrohood_id":1108721801,
+            "neighbourhood_id":85847359,
             "region_id":85688481,
             "venue_id":622512707
         }
     ],
     "wof:id":622512707,
-    "wof:lastmodified":1467081945,
+    "wof:lastmodified":1489037072,
     "wof:name":"R Tires R4U Brokers",
-    "wof:parent_id":-1,
+    "wof:parent_id":85847359,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

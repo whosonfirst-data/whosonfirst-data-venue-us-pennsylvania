@@ -2,9 +2,14 @@
   "id": 605995175,
   "type": "Feature",
   "properties": {
+    "addr:full":"235 N 52nd St Philadelphia PA 19139",
+    "addr:housenumber":"235",
+    "addr:postcode":"19139",
+    "addr:street":"N 52Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.224417,39.964279,-75.224417,39.964279",
     "geom:latitude":39.964279,
     "geom:longitude":-75.224417,
@@ -27,6 +32,7 @@
     "wof:belongsto":[
         85871409,
         102191575,
+        1108721805,
         404483701,
         85633793,
         101718083,
@@ -46,13 +52,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721805,
             "neighbourhood_id":85871409,
             "region_id":85688481,
             "venue_id":605995175
         }
     ],
     "wof:id":605995175,
-    "wof:lastmodified":1467081850,
+    "wof:lastmodified":1489032949,
     "wof:name":"Trinity Real Estate",
     "wof:parent_id":85871409,
     "wof:placetype":"venue",

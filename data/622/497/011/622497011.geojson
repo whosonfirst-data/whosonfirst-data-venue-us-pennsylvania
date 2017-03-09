@@ -2,9 +2,14 @@
   "id": 622497011,
   "type": "Feature",
   "properties": {
+    "addr:full":"137 S 52nd St Philadelphia PA 19139",
+    "addr:housenumber":"137",
+    "addr:postcode":"19139",
+    "addr:street":"S 52Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.225368,39.957587,-75.225368,39.957587",
     "geom:latitude":39.957587,
     "geom:longitude":-75.225368,
@@ -41,14 +46,15 @@
     "sg:website":"http://www.hrblock.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85803155,
+        1108721785,
+        85854345,
         102191575,
+        1108721805,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85854345
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,25 +69,17 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85803155,
-            "region_id":85688481,
-            "venue_id":622497011
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721805,
+            "microhood_id":1108721785,
             "neighbourhood_id":85854345,
             "region_id":85688481,
             "venue_id":622497011
         }
     ],
     "wof:id":622497011,
-    "wof:lastmodified":1467081933,
+    "wof:lastmodified":1489038904,
     "wof:name":"H&R Block",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108721785,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

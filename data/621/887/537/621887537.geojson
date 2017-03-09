@@ -2,9 +2,14 @@
   "id": 621887537,
   "type": "Feature",
   "properties": {
+    "addr:full":"7120 Gillespie St Philadelphia PA 19135",
+    "addr:housenumber":"7120",
+    "addr:postcode":"19135",
+    "addr:street":"Gillespie St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.039337,40.031769,-75.039337,40.031769",
     "geom:latitude":40.031769,
     "geom:longitude":-75.039337,
@@ -24,18 +29,39 @@
     "sg:postcode":"19135",
     "sg:province":"PA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85851751,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2NdIx5HW03eIkMg7cmmqzN_40.031769_-75.039337@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"04a0f1c91b5c822e00c39fd1d3a2ae18",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85851751,
+            "region_id":85688481,
+            "venue_id":621887537
+        }
+    ],
     "wof:id":621887537,
-    "wof:lastmodified":1466782821,
+    "wof:lastmodified":1489037262,
     "wof:name":"Chris L Primiano",
-    "wof:parent_id":-1,
+    "wof:parent_id":85851751,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

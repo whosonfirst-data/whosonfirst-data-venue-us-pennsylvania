@@ -2,9 +2,14 @@
   "id": 622527259,
   "type": "Feature",
   "properties": {
+    "addr:full":"6154 Lancaster Ave Philadelphia PA 19151",
+    "addr:housenumber":"6154",
+    "addr:postcode":"19151",
+    "addr:street":"Lancaster Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.245047,39.984006,-75.245047,39.984006",
     "geom:latitude":39.984006,
     "geom:longitude":-75.245047,
@@ -31,11 +36,13 @@
     "wof:belongsto":[
         85859223,
         102191575,
+        1108721805,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481
+        85688481,
+        85839965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +57,27 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721805,
             "neighbourhood_id":85859223,
+            "region_id":85688481,
+            "venue_id":622527259
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721805,
+            "neighbourhood_id":85839965,
             "region_id":85688481,
             "venue_id":622527259
         }
     ],
     "wof:id":622527259,
-    "wof:lastmodified":1467081955,
+    "wof:lastmodified":1489036447,
     "wof:name":"Giordano's Produce",
-    "wof:parent_id":85859223,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

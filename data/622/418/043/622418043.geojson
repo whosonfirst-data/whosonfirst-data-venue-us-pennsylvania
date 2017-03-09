@@ -2,9 +2,14 @@
   "id": 622418043,
   "type": "Feature",
   "properties": {
+    "addr:full":"2 Logan Sq Philadelphia PA 19103",
+    "addr:housenumber":"2",
+    "addr:postcode":"19103",
+    "addr:street":"Logan Sq",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.170502,39.957401,-75.170502,39.957401",
     "geom:latitude":39.957401,
     "geom:longitude":-75.170502,
@@ -25,14 +30,15 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85893351,
+        1108721901,
+        85871427,
         102191575,
+        1108721797,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85871427
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,25 +53,17 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85893351,
-            "region_id":85688481,
-            "venue_id":622418043
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721797,
+            "microhood_id":1108721901,
             "neighbourhood_id":85871427,
             "region_id":85688481,
             "venue_id":622418043
         }
     ],
     "wof:id":622418043,
-    "wof:lastmodified":1467081875,
+    "wof:lastmodified":1489039259,
     "wof:name":"Reed Michael H Atty",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108721901,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 605387917,
   "type": "Feature",
   "properties": {
+    "addr:full":"4710 Blakiston St Philadelphia PA 19136",
+    "addr:housenumber":"4710",
+    "addr:postcode":"19136",
+    "addr:street":"Blakiston St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.012267,40.040622,-75.012267,40.040622",
     "geom:latitude":40.040622,
     "geom:longitude":-75.012267,
@@ -28,18 +33,41 @@
         "designer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108722091,
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6CtowSSejK3o1pmqZR1w1r_40.040622_-75.012267@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"7cfb96e8a2f0ce1f0b28b42d11d223f4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "microhood_id":1108722091,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":605387917
+        }
+    ],
     "wof:id":605387917,
-    "wof:lastmodified":1467081467,
+    "wof:lastmodified":1489039514,
     "wof:name":"Liberty Graphics Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108722091,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

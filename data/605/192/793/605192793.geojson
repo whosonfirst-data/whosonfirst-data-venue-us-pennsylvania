@@ -2,9 +2,14 @@
   "id": 605192793,
   "type": "Feature",
   "properties": {
+    "addr:full":"7360 Melrose St Philadelphia PA 19136",
+    "addr:housenumber":"7360",
+    "addr:postcode":"19136",
+    "addr:street":"Melrose St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.029752,40.02595,-75.029752,40.02595",
     "geom:latitude":40.02595,
     "geom:longitude":-75.029752,
@@ -29,18 +34,39 @@
         "painting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7L3TKxw3NabL9TtsmBr7ym_40.025950_-75.029752@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"97c8d0302a0ce2103093b5902b0ed8f1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":605192793
+        }
+    ],
     "wof:id":605192793,
-    "wof:lastmodified":1466787150,
+    "wof:lastmodified":1489036093,
     "wof:name":"Steve's Auto Body",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

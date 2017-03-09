@@ -2,9 +2,14 @@
   "id": 605305959,
   "type": "Feature",
   "properties": {
+    "addr:full":"6400 Stenton Ave Philadelphia PA 19150",
+    "addr:housenumber":"",
+    "addr:postcode":"6400;19150",
+    "addr:street":"Stenton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.167844,40.060911,-75.167844,40.060911",
     "geom:latitude":40.060911,
     "geom:longitude":-75.167844,
@@ -27,6 +32,7 @@
     "wof:belongsto":[
         85893335,
         102191575,
+        1108721809,
         404483701,
         85633793,
         101718083,
@@ -46,13 +52,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721809,
             "neighbourhood_id":85893335,
             "region_id":85688481,
             "venue_id":605305959
         }
     ],
     "wof:id":605305959,
-    "wof:lastmodified":1466790415,
+    "wof:lastmodified":1489034621,
     "wof:name":"Philly's Locker Room",
     "wof:parent_id":85893335,
     "wof:placetype":"venue",

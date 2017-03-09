@@ -2,9 +2,14 @@
   "id": 605619177,
   "type": "Feature",
   "properties": {
+    "addr:full":"8118 Frankford Ave Philadelphia PA 19136",
+    "addr:housenumber":"8118",
+    "addr:postcode":"19136",
+    "addr:street":"Frankford Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.02416,40.042902,-75.02416,40.042902",
     "geom:latitude":40.042902,
     "geom:longitude":-75.02416,
@@ -27,18 +32,39 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3aXZ7SzDEgrUyOMIJpiO29_40.042902_-75.024160@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"46fb00f029aac9a46f68bb79d78b7fd0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":605619177
+        }
+    ],
     "wof:id":605619177,
-    "wof:lastmodified":1467081609,
+    "wof:lastmodified":1489036098,
     "wof:name":"Holmesburg United Methodist",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

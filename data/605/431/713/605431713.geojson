@@ -2,9 +2,14 @@
   "id": 605431713,
   "type": "Feature",
   "properties": {
+    "addr:full":"3200 Fanshawe St Philadelphia PA 19149",
+    "addr:housenumber":"3200",
+    "addr:postcode":"19149",
+    "addr:street":"Fanshawe St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.054054,40.03118,-75.054054,40.03118",
     "geom:latitude":40.03118,
     "geom:longitude":-75.054054,
@@ -27,18 +32,39 @@
         "delicatessen"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85851751,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2iZ0EOe0bip7zHzOeqyoyd_40.031180_-75.054054@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"60e1e375685c1f11dacf95784fc3256d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85851751,
+            "region_id":85688481,
+            "venue_id":605431713
+        }
+    ],
     "wof:id":605431713,
-    "wof:lastmodified":1467081491,
+    "wof:lastmodified":1489037260,
     "wof:name":"Fanshawe Deli",
-    "wof:parent_id":-1,
+    "wof:parent_id":85851751,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

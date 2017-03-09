@@ -2,9 +2,14 @@
   "id": 588769365,
   "type": "Feature",
   "properties": {
+    "addr:full":"5388 Magnolia St Philadelphia PA 19144",
+    "addr:housenumber":"5388",
+    "addr:postcode":"19144",
+    "addr:street":"Magnolia St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.163458,40.038909,-75.163458,40.038909",
     "geom:latitude":40.038909,
     "geom:longitude":-75.163458,
@@ -28,14 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85821407,
+        85871459,
         102191575,
+        1108721809,
         404483701,
         85633793,
         101718083,
         102081353,
         85688481,
-        85871459
+        85821407
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,7 +56,8 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85821407,
+            "macrohood_id":1108721809,
+            "neighbourhood_id":85871459,
             "region_id":85688481,
             "venue_id":588769365
         },
@@ -60,15 +67,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85871459,
+            "macrohood_id":1108721809,
+            "neighbourhood_id":85821407,
             "region_id":85688481,
             "venue_id":588769365
         }
     ],
     "wof:id":588769365,
-    "wof:lastmodified":1466778471,
+    "wof:lastmodified":1489034382,
     "wof:name":"Laughing Hermit Press",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

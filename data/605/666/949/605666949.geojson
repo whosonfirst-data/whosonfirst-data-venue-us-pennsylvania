@@ -2,9 +2,14 @@
   "id": 605666949,
   "type": "Feature",
   "properties": {
+    "addr:full":"601 Market St Philadelphia PA 19106",
+    "addr:housenumber":"601",
+    "addr:postcode":"19106",
+    "addr:street":"Market St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.152,39.950936,-75.152,39.950936",
     "geom:latitude":39.950936,
     "geom:longitude":-75.152,
@@ -34,6 +39,7 @@
     "wof:belongsto":[
         85839299,
         102191575,
+        1108721797,
         404483701,
         85633793,
         101718083,
@@ -53,13 +59,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721797,
             "neighbourhood_id":85839299,
             "region_id":85688481,
             "venue_id":605666949
         }
     ],
     "wof:id":605666949,
-    "wof:lastmodified":1467081638,
+    "wof:lastmodified":1489036393,
     "wof:name":"Circuit Executive Office",
     "wof:parent_id":85839299,
     "wof:placetype":"venue",

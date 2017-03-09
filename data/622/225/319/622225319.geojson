@@ -2,9 +2,14 @@
   "id": 622225319,
   "type": "Feature",
   "properties": {
+    "addr:full":"1740 E Passyunk Ave Philadelphia PA 19148",
+    "addr:housenumber":"1740",
+    "addr:postcode":"19148",
+    "addr:street":"E Passyunk Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.16584,39.92813,-75.16584,39.92813",
     "geom:latitude":39.92813,
     "geom:longitude":-75.16584,
@@ -28,14 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420559151,
+        85871437,
         102191575,
+        1108721801,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85871437
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,25 +55,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":420559151,
-            "region_id":85688481,
-            "venue_id":622225319
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721801,
             "neighbourhood_id":85871437,
             "region_id":85688481,
             "venue_id":622225319
         }
     ],
     "wof:id":622225319,
-    "wof:lastmodified":1466788221,
+    "wof:lastmodified":1489032582,
     "wof:name":"Bianca Simone",
-    "wof:parent_id":-1,
+    "wof:parent_id":85871437,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

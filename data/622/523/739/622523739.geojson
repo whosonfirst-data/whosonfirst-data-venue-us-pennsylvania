@@ -2,9 +2,14 @@
   "id": 622523739,
   "type": "Feature",
   "properties": {
+    "addr:full":"2655 S 3rd St Philadelphia PA 19148",
+    "addr:housenumber":"2655",
+    "addr:postcode":"19148",
+    "addr:street":"S 3Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.153014,39.915081,-75.153014,39.915081",
     "geom:latitude":39.915081,
     "geom:longitude":-75.153014,
@@ -40,6 +45,7 @@
     "wof:belongsto":[
         85857607,
         102191575,
+        1108721801,
         404483701,
         85633793,
         101718083,
@@ -59,13 +65,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721801,
             "neighbourhood_id":85857607,
             "region_id":85688481,
             "venue_id":622523739
         }
     ],
     "wof:id":622523739,
-    "wof:lastmodified":1467081953,
+    "wof:lastmodified":1489032429,
     "wof:name":"S Philly Soft Pretzel",
     "wof:parent_id":85857607,
     "wof:placetype":"venue",

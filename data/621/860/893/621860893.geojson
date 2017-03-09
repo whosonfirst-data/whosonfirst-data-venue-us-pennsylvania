@@ -2,9 +2,14 @@
   "id": 621860893,
   "type": "Feature",
   "properties": {
+    "addr:full":"2900 Southampton Rd Philadelphia PA 19154",
+    "addr:housenumber":"2900",
+    "addr:postcode":"19154",
+    "addr:street":"Southampton Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.9824,40.102817,-74.9824,40.102817",
     "geom:latitude":40.102817,
     "geom:longitude":-74.9824,
@@ -29,13 +34,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85808697,
+        85840807,
         102191575,
+        1108721807,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481
+        85688481,
+        85808697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +57,27 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85840807,
+            "region_id":85688481,
+            "venue_id":621860893
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
             "neighbourhood_id":85808697,
             "region_id":85688481,
             "venue_id":621860893
         }
     ],
     "wof:id":621860893,
-    "wof:lastmodified":1466780979,
+    "wof:lastmodified":1489035717,
     "wof:name":"Woodhaven Center",
-    "wof:parent_id":85808697,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

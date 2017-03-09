@@ -2,9 +2,14 @@
   "id": 621960421,
   "type": "Feature",
   "properties": {
+    "addr:full":"8301 Torresdale Ave Philadelphia PA 19136",
+    "addr:housenumber":"8301",
+    "addr:postcode":"19136",
+    "addr:street":"Torresdale Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.016378,40.039712,-75.016378,40.039712",
     "geom:latitude":40.039712,
     "geom:longitude":-75.016378,
@@ -30,18 +35,41 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108722091,
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5naKAKkopFpYNrLoEncnoN_40.039712_-75.016378@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"08a8347f570e5de1e0b39d0d4227b7ff",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "microhood_id":1108722091,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":621960421
+        }
+    ],
     "wof:id":621960421,
-    "wof:lastmodified":1466786126,
+    "wof:lastmodified":1489039513,
     "wof:name":"Comtek Communications",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108722091,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

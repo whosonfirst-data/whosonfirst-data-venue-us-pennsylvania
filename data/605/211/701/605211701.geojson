@@ -2,9 +2,14 @@
   "id": 605211701,
   "type": "Feature",
   "properties": {
+    "addr:full":"7383 James St Philadelphia PA 19136",
+    "addr:housenumber":"7383",
+    "addr:postcode":"19136",
+    "addr:street":"James St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.03104,40.026399,-75.03104,40.026399",
     "geom:latitude":40.026399,
     "geom:longitude":-75.03104,
@@ -24,18 +29,39 @@
     "sg:postcode":"19136",
     "sg:province":"PA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5k94KzRcBJHVWy3Bu1c42b_40.026399_-75.031040@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"8836670570879b4534d5bbe947d2358d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":605211701
+        }
+    ],
     "wof:id":605211701,
-    "wof:lastmodified":1466787842,
+    "wof:lastmodified":1489036110,
     "wof:name":"J Rossetti",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

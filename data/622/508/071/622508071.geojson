@@ -2,9 +2,14 @@
   "id": 622508071,
   "type": "Feature",
   "properties": {
+    "addr:full":"20 E Herman St Apt 4B Philadelphia PA 19144",
+    "addr:housenumber":"20;4b",
+    "addr:postcode":"19144",
+    "addr:street":"E Herman St Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.179069,40.041108,-75.179069,40.041108",
     "geom:latitude":40.041108,
     "geom:longitude":-75.179069,
@@ -65,14 +70,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420559145,
+        85835357,
         102191575,
+        1108721809,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85835357
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -87,25 +92,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":420559145,
-            "region_id":85688481,
-            "venue_id":622508071
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721809,
             "neighbourhood_id":85835357,
             "region_id":85688481,
             "venue_id":622508071
         }
     ],
     "wof:id":622508071,
-    "wof:lastmodified":1467081942,
+    "wof:lastmodified":1489036241,
     "wof:name":"Cabinet Studio",
-    "wof:parent_id":-1,
+    "wof:parent_id":85835357,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 606066859,
   "type": "Feature",
   "properties": {
+    "addr:full":"6701 N Broad St Philadelphia PA 19126",
+    "addr:housenumber":"6701",
+    "addr:postcode":"19126",
+    "addr:street":"N Broad St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.141211,40.055139,-75.141211,40.055139",
     "geom:latitude":40.055139,
     "geom:longitude":-75.141211,
@@ -27,11 +32,13 @@
     "wof:belongsto":[
         85816633,
         102191575,
+        1108721809,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481
+        85688481,
+        85856037
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +53,27 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721809,
             "neighbourhood_id":85816633,
+            "region_id":85688481,
+            "venue_id":606066859
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721809,
+            "neighbourhood_id":85856037,
             "region_id":85688481,
             "venue_id":606066859
         }
     ],
     "wof:id":606066859,
-    "wof:lastmodified":1466782204,
+    "wof:lastmodified":1489034233,
     "wof:name":"Oxford Finance Co Inc",
-    "wof:parent_id":85816633,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

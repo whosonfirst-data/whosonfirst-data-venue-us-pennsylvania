@@ -2,9 +2,14 @@
   "id": 622426701,
   "type": "Feature",
   "properties": {
+    "addr:full":"3535 Market St Suite 860 Philadelphia PA 19104",
+    "addr:housenumber":"3535",
+    "addr:postcode":"19104",
+    "addr:street":"Market St Suite 860",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.193271,39.956082,-75.193271,39.956082",
     "geom:latitude":39.956082,
     "geom:longitude":-75.193271,
@@ -48,6 +53,7 @@
     "wof:belongsto":[
         85853125,
         102191575,
+        1108721805,
         404483701,
         85633793,
         101718083,
@@ -67,13 +73,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721805,
             "neighbourhood_id":85853125,
             "region_id":85688481,
             "venue_id":622426701
         }
     ],
     "wof:id":622426701,
-    "wof:lastmodified":1467081882,
+    "wof:lastmodified":1489033230,
     "wof:name":"Center for Autism Research",
     "wof:parent_id":85853125,
     "wof:placetype":"venue",

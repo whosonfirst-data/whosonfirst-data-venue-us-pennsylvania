@@ -2,9 +2,14 @@
   "id": 622488107,
   "type": "Feature",
   "properties": {
+    "addr:full":"2328 N 2nd St Philadelphia PA 19133",
+    "addr:housenumber":"2328",
+    "addr:postcode":"19133",
+    "addr:street":"N 2Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.136246,39.985784,-75.136246,39.985784",
     "geom:latitude":39.985784,
     "geom:longitude":-75.136246,
@@ -29,14 +34,14 @@
     "sg:website":"www.prestongc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85893373,
+        85855755,
         102191575,
+        1108721813,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85855755
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,25 +56,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85893373,
-            "region_id":85688481,
-            "venue_id":622488107
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721813,
             "neighbourhood_id":85855755,
             "region_id":85688481,
             "venue_id":622488107
         }
     ],
     "wof:id":622488107,
-    "wof:lastmodified":1467081927,
+    "wof:lastmodified":1489035375,
     "wof:name":"Preston General Contracting Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85855755,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

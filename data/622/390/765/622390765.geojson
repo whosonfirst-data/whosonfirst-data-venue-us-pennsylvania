@@ -2,9 +2,14 @@
   "id": 622390765,
   "type": "Feature",
   "properties": {
+    "addr:full":"Millbrook & Woodhaven Rds Philadelphia PA 19102",
+    "addr:housenumber":"",
+    "addr:postcode":"19102",
+    "addr:street":"",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.966135,40.082642,-74.966135,40.082642",
     "geom:latitude":40.082642,
     "geom:longitude":-74.966135,
@@ -28,14 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831329,
+        420536841,
         102191575,
-        404483701,
+        404484793,
         85633793,
-        101718083,
-        102081353,
-        85688481,
-        420539469
+        102080987,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,28 +50,17 @@
         {
             "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
-            "neighbourhood_id":85831329,
-            "region_id":85688481,
-            "venue_id":622390765
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
-            "neighbourhood_id":420539469,
+            "county_id":102080987,
+            "localadmin_id":404484793,
+            "neighbourhood_id":420536841,
             "region_id":85688481,
             "venue_id":622390765
         }
     ],
     "wof:id":622390765,
-    "wof:lastmodified":1467081855,
+    "wof:lastmodified":1489027558,
     "wof:name":"Renaissance Place",
-    "wof:parent_id":-1,
+    "wof:parent_id":420536841,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

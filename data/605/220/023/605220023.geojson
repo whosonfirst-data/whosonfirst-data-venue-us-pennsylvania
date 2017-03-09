@@ -2,9 +2,14 @@
   "id": 605220023,
   "type": "Feature",
   "properties": {
+    "addr:full":"2201 Fairmount Ave Philadelphia PA 19130",
+    "addr:housenumber":"2201",
+    "addr:postcode":"19130",
+    "addr:street":"Fairmount Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.17539,39.967345,-75.17539,39.967345",
     "geom:latitude":39.967345,
     "geom:longitude":-75.17539,
@@ -29,14 +34,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420539525,
+        85818625,
         102191575,
+        1108721811,
         404483701,
         85633793,
         101718083,
         102081353,
         85688481,
-        85893337
+        420539525
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,7 +57,8 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":420539525,
+            "macrohood_id":1108721811,
+            "neighbourhood_id":85818625,
             "region_id":85688481,
             "venue_id":605220023
         },
@@ -61,15 +68,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85893337,
+            "macrohood_id":1108721811,
+            "neighbourhood_id":420539525,
             "region_id":85688481,
             "venue_id":605220023
         }
     ],
     "wof:id":605220023,
-    "wof:lastmodified":1466788212,
+    "wof:lastmodified":1489035878,
     "wof:name":"Parkway Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

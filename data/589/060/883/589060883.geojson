@@ -2,9 +2,14 @@
   "id": 589060883,
   "type": "Feature",
   "properties": {
+    "addr:full":"225 S Frazier St Philadelphia PA 19139",
+    "addr:housenumber":"225",
+    "addr:postcode":"19139",
+    "addr:street":"S Frazier St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.234843,39.957516,-75.234843,39.957516",
     "geom:latitude":39.957516,
     "geom:longitude":-75.234843,
@@ -31,6 +36,7 @@
     "wof:belongsto":[
         85811587,
         102191575,
+        1108721805,
         404483701,
         85633793,
         101718083,
@@ -50,13 +56,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721805,
             "neighbourhood_id":85811587,
             "region_id":85688481,
             "venue_id":589060883
         }
     ],
     "wof:id":589060883,
-    "wof:lastmodified":1466781359,
+    "wof:lastmodified":1489032987,
     "wof:name":"Wilson Paints",
     "wof:parent_id":85811587,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 622411293,
   "type": "Feature",
   "properties": {
+    "addr:full":"106 N Woodstock St Philadelphia PA 19103",
+    "addr:housenumber":"106",
+    "addr:postcode":"19103",
+    "addr:street":"N Woodstock St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.172997,39.957001,-75.172997,39.957001",
     "geom:latitude":39.957001,
     "geom:longitude":-75.172997,
@@ -25,14 +30,14 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85893359,
+        85871427,
         102191575,
+        1108721797,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85871427
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,25 +52,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85893359,
-            "region_id":85688481,
-            "venue_id":622411293
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721797,
             "neighbourhood_id":85871427,
             "region_id":85688481,
             "venue_id":622411293
         }
     ],
     "wof:id":622411293,
-    "wof:lastmodified":1467081871,
+    "wof:lastmodified":1489031357,
     "wof:name":"Rosenstein James A Atty",
-    "wof:parent_id":-1,
+    "wof:parent_id":85871427,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 621939013,
   "type": "Feature",
   "properties": {
+    "addr:full":"8006 Frankford Ave Philadelphia PA 19136",
+    "addr:housenumber":"8006",
+    "addr:postcode":"19136",
+    "addr:street":"Frankford Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.025776,40.042331,-75.025776,40.042331",
     "geom:latitude":40.042331,
     "geom:longitude":-75.025776,
@@ -33,18 +38,39 @@
         "drinking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1TCbYlQA1hju3fwRugeYaO_40.042331_-75.025776@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"1e0b599aa7eb2735cadf14e0f1bca6d5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":621939013
+        }
+    ],
     "wof:id":621939013,
-    "wof:lastmodified":1466785096,
+    "wof:lastmodified":1489036081,
     "wof:name":"Seafood Bay Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

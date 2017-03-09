@@ -2,9 +2,14 @@
   "id": 622498907,
   "type": "Feature",
   "properties": {
+    "addr:full":"1944 W Airdrie St Philadelphia PA 19140",
+    "addr:housenumber":"1944",
+    "addr:postcode":"19140",
+    "addr:street":"W Airdrie St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.159722,40.011065,-75.159722,40.011065",
     "geom:latitude":40.011065,
     "geom:longitude":-75.159722,
@@ -25,15 +30,14 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885405,
+        420782547,
         102191575,
+        1108721811,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85882379,
-        420559057
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,35 +52,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85885405,
-            "region_id":85688481,
-            "venue_id":622498907
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
-            "neighbourhood_id":85882379,
-            "region_id":85688481,
-            "venue_id":622498907
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
-            "neighbourhood_id":420559057,
+            "macrohood_id":1108721811,
+            "neighbourhood_id":420782547,
             "region_id":85688481,
             "venue_id":622498907
         }
     ],
     "wof:id":622498907,
-    "wof:lastmodified":1467081935,
+    "wof:lastmodified":1489038629,
     "wof:name":"Budget Floral Enterprises",
-    "wof:parent_id":-1,
+    "wof:parent_id":420782547,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 605676765,
   "type": "Feature",
   "properties": {
+    "addr:full":"4508 Blakiston St Philadelphia PA 19136",
+    "addr:housenumber":"4508",
+    "addr:postcode":"19136",
+    "addr:street":"Blakiston St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.015579,40.04331,-75.015579,40.04331",
     "geom:latitude":40.04331,
     "geom:longitude":-75.015579,
@@ -30,18 +35,41 @@
         "operates"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108722091,
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2PCzVGrAOoKpiNmz3h64Ab_40.043310_-75.015579@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"2f986832942aeff5fdab399639b7ad13",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "microhood_id":1108722091,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":605676765
+        }
+    ],
     "wof:id":605676765,
-    "wof:lastmodified":1467081645,
+    "wof:lastmodified":1489039510,
     "wof:name":"Dumpling Grounds Day Care Ctr",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108722091,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

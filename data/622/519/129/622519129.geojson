@@ -2,9 +2,14 @@
   "id": 622519129,
   "type": "Feature",
   "properties": {
+    "addr:full":"620 Christian St Apt 2C Philadelphia PA 19147",
+    "addr:housenumber":"620;2c",
+    "addr:postcode":"19147",
+    "addr:street":"Christian St Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.1539,39.937901,-75.1539,39.937901",
     "geom:latitude":39.937901,
     "geom:longitude":-75.1539,
@@ -31,6 +36,7 @@
     "wof:belongsto":[
         85805405,
         102191575,
+        1108721801,
         404483701,
         85633793,
         101718083,
@@ -50,13 +56,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721801,
             "neighbourhood_id":85805405,
             "region_id":85688481,
             "venue_id":622519129
         }
     ],
     "wof:id":622519129,
-    "wof:lastmodified":1467081950,
+    "wof:lastmodified":1489035635,
     "wof:name":"Area Interior Design",
     "wof:parent_id":85805405,
     "wof:placetype":"venue",

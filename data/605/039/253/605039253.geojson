@@ -2,9 +2,14 @@
   "id": 605039253,
   "type": "Feature",
   "properties": {
+    "addr:full":"518 S 5th St Philadelphia PA 19147",
+    "addr:housenumber":"518",
+    "addr:postcode":"19147",
+    "addr:street":"S 5Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.150693,39.942534,-75.150693,39.942534",
     "geom:latitude":39.942534,
     "geom:longitude":-75.150693,
@@ -26,14 +31,15 @@
     "sg:website":"www.southstreetnet.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85893311,
+        1108722077,
+        85849249,
         102191575,
+        1108721797,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85849249
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,25 +54,17 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85893311,
-            "region_id":85688481,
-            "venue_id":605039253
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721797,
+            "microhood_id":1108722077,
             "neighbourhood_id":85849249,
             "region_id":85688481,
             "venue_id":605039253
         }
     ],
     "wof:id":605039253,
-    "wof:lastmodified":1466777237,
+    "wof:lastmodified":1489039473,
     "wof:name":"Crown Of Creation",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108722077,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

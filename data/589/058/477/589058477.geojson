@@ -2,9 +2,14 @@
   "id": 589058477,
   "type": "Feature",
   "properties": {
+    "addr:full":"7165 State Rd Philadelphia PA 19135",
+    "addr:housenumber":"7165",
+    "addr:postcode":"19135",
+    "addr:street":"State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.033033,40.024944,-75.033033,40.024944",
     "geom:latitude":40.024944,
     "geom:longitude":-75.033033,
@@ -28,18 +33,39 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85851751,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2vNdAHE5qAgaDMi7IL0Ze8_40.024944_-75.033033@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"21656644e43e39557f6101f854b1cf7e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85851751,
+            "region_id":85688481,
+            "venue_id":589058477
+        }
+    ],
     "wof:id":589058477,
-    "wof:lastmodified":1466780964,
+    "wof:lastmodified":1489037257,
     "wof:name":"Mohammed Nasher",
-    "wof:parent_id":-1,
+    "wof:parent_id":85851751,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

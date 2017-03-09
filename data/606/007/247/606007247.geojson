@@ -2,9 +2,14 @@
   "id": 606007247,
   "type": "Feature",
   "properties": {
+    "addr:full":"1407 E Bristol St Philadelphia PA 19124",
+    "addr:housenumber":"1407",
+    "addr:postcode":"19124",
+    "addr:street":"E Bristol St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.099108,40.012086,-75.099108,40.012086",
     "geom:latitude":40.012086,
     "geom:longitude":-75.099108,
@@ -29,14 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827695,
+        420539471,
         102191575,
+        1108721813,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        420539471
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,25 +56,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85827695,
-            "region_id":85688481,
-            "venue_id":606007247
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721813,
             "neighbourhood_id":420539471,
             "region_id":85688481,
             "venue_id":606007247
         }
     ],
     "wof:id":606007247,
-    "wof:lastmodified":1466776831,
+    "wof:lastmodified":1489035481,
     "wof:name":"C Site Financial Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":420539471,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

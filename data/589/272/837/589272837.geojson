@@ -2,9 +2,14 @@
   "id": 589272837,
   "type": "Feature",
   "properties": {
+    "addr:full":"1817 Georges Ln Philadelphia PA 19131",
+    "addr:housenumber":"1817",
+    "addr:postcode":"19131",
+    "addr:street":"Georges Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.22974,39.985143,-75.22974,39.985143",
     "geom:latitude":39.985143,
     "geom:longitude":-75.22974,
@@ -25,14 +30,14 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85882387,
+        85859223,
         102191575,
+        1108721805,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85859223
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,25 +52,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85882387,
-            "region_id":85688481,
-            "venue_id":589272837
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721805,
             "neighbourhood_id":85859223,
             "region_id":85688481,
             "venue_id":589272837
         }
     ],
     "wof:id":589272837,
-    "wof:lastmodified":1466789878,
+    "wof:lastmodified":1489033017,
     "wof:name":"Panther Youth Development",
-    "wof:parent_id":-1,
+    "wof:parent_id":85859223,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 606039805,
   "type": "Feature",
   "properties": {
+    "addr:full":"1026 Mountain St Philadelphia PA 19148",
+    "addr:housenumber":"1026",
+    "addr:postcode":"19148",
+    "addr:street":"Mountain St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.162961,39.928866,-75.162961,39.928866",
     "geom:latitude":39.928866,
     "geom:longitude":-75.162961,
@@ -28,14 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420559151,
+        85871437,
         102191575,
+        1108721801,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85871437
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,25 +55,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":420559151,
-            "region_id":85688481,
-            "venue_id":606039805
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721801,
             "neighbourhood_id":85871437,
             "region_id":85688481,
             "venue_id":606039805
         }
     ],
     "wof:id":606039805,
-    "wof:lastmodified":1466780270,
+    "wof:lastmodified":1489032531,
     "wof:name":"B & F Plumbing & Heating",
-    "wof:parent_id":-1,
+    "wof:parent_id":85871437,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

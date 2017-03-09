@@ -2,9 +2,14 @@
   "id": 622038967,
   "type": "Feature",
   "properties": {
+    "addr:full":"501 Callowhill St Philadelphia PA 19123",
+    "addr:housenumber":"501",
+    "addr:postcode":"19123",
+    "addr:street":"Callowhill St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.148003,39.957899,-75.148003,39.957899",
     "geom:latitude":39.957899,
     "geom:longitude":-75.148003,
@@ -30,14 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85893355,
+        85838255,
         102191575,
+        1108721811,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85838255
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,25 +57,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85893355,
-            "region_id":85688481,
-            "venue_id":622038967
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721811,
             "neighbourhood_id":85838255,
             "region_id":85688481,
             "venue_id":622038967
         }
     ],
     "wof:id":622038967,
-    "wof:lastmodified":1466780027,
+    "wof:lastmodified":1489034792,
     "wof:name":"R P C Unlimited Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85838255,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

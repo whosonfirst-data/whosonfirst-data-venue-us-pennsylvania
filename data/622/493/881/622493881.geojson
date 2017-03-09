@@ -2,9 +2,14 @@
   "id": 622493881,
   "type": "Feature",
   "properties": {
+    "addr:full":"8362 State Rd Ste D Philadelphia PA 19136",
+    "addr:housenumber":"8362",
+    "addr:postcode":"19136",
+    "addr:street":"State Rd Ste D",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.015418,40.034774,-75.015418,40.034774",
     "geom:latitude":40.034774,
     "geom:longitude":-75.015418,
@@ -50,18 +55,39 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_01wrh1vcSawvV4PKEOkhNz_40.034774_-75.015418@1303262458"
     },
     "wof:country":"US",
     "wof:geomhash":"f5a1e6ef8aa46350bf1ebc7c3ae8fc3b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":622493881
+        }
+    ],
     "wof:id":622493881,
-    "wof:lastmodified":1467081931,
+    "wof:lastmodified":1489036111,
     "wof:name":"Paul's Automotive Repair Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

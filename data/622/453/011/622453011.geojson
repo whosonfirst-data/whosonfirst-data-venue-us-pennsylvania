@@ -2,9 +2,14 @@
   "id": 622453011,
   "type": "Feature",
   "properties": {
+    "addr:full":"1301 Rhawn St Philadelphia PA 19111",
+    "addr:housenumber":"1301",
+    "addr:postcode":"19111",
+    "addr:street":"Rhawn St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.067331,40.068734,-75.067331,40.068734",
     "geom:latitude":40.068734,
     "geom:longitude":-75.067331,
@@ -46,13 +51,15 @@
     "sg:website":"http://www.safeguardselfstorage.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85844347,
+        85820411,
         102191575,
+        1108721807,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481
+        85688481,
+        85844347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,15 +74,27 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85820411,
+            "region_id":85688481,
+            "venue_id":622453011
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
             "neighbourhood_id":85844347,
             "region_id":85688481,
             "venue_id":622453011
         }
     ],
     "wof:id":622453011,
-    "wof:lastmodified":1467081901,
+    "wof:lastmodified":1489035958,
     "wof:name":"Safeguard Self Storage",
-    "wof:parent_id":85844347,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

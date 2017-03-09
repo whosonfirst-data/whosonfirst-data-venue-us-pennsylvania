@@ -2,9 +2,14 @@
   "id": 605254985,
   "type": "Feature",
   "properties": {
+    "addr:full":"3430 Arthur St Philadelphia PA 19136",
+    "addr:housenumber":"3430",
+    "addr:postcode":"19136",
+    "addr:street":"Arthur St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.024383,40.045717,-75.024383,40.045717",
     "geom:latitude":40.045717,
     "geom:longitude":-75.024383,
@@ -28,18 +33,39 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_26e6rkbYgzj1EtGVT6rnti_40.045717_-75.024383@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"ca18a064947a10e7336530cdb9cd314f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":605254985
+        }
+    ],
     "wof:id":605254985,
-    "wof:lastmodified":1466789005,
+    "wof:lastmodified":1489036102,
     "wof:name":"Conroy Electric",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

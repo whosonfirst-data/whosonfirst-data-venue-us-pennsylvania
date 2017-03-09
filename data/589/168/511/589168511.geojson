@@ -2,9 +2,14 @@
   "id": 589168511,
   "type": "Feature",
   "properties": {
+    "addr:full":"7243 Frankford Ave Philadelphia PA 19135",
+    "addr:housenumber":"7243",
+    "addr:postcode":"19135",
+    "addr:street":"Frankford Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.040914,40.036632,-75.040914,40.036632",
     "geom:latitude":40.036632,
     "geom:longitude":-75.040914,
@@ -28,18 +33,39 @@
         "analysis"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85851751,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_66fo1tA9YCSdhPMc0kxdXX_40.036632_-75.040914@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"e122ee249369360dd30f991fb89f970d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85851751,
+            "region_id":85688481,
+            "venue_id":589168511
+        }
+    ],
     "wof:id":589168511,
-    "wof:lastmodified":1466786683,
+    "wof:lastmodified":1489037248,
     "wof:name":"Research America Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85851751,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

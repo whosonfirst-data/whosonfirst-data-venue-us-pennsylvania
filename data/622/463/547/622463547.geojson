@@ -2,9 +2,14 @@
   "id": 622463547,
   "type": "Feature",
   "properties": {
+    "addr:full":"1305 Germantown Ave Philadelphia PA 19122",
+    "addr:housenumber":"1305",
+    "addr:postcode":"19122",
+    "addr:street":"Germantown Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.14069,39.971121,-75.14069,39.971121",
     "geom:latitude":39.971121,
     "geom:longitude":-75.14069,
@@ -40,15 +45,14 @@
     "sg:website":"www.projectbasho.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420559157,
+        85839491,
         102191575,
+        1108721813,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85819391,
-        85839491
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,35 +67,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":420559157,
-            "region_id":85688481,
-            "venue_id":622463547
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
-            "neighbourhood_id":85819391,
-            "region_id":85688481,
-            "venue_id":622463547
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721813,
             "neighbourhood_id":85839491,
             "region_id":85688481,
             "venue_id":622463547
         }
     ],
     "wof:id":622463547,
-    "wof:lastmodified":1467081909,
+    "wof:lastmodified":1489036434,
     "wof:name":"Project Basho",
-    "wof:parent_id":-1,
+    "wof:parent_id":85839491,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

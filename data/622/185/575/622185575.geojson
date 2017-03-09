@@ -2,9 +2,14 @@
   "id": 622185575,
   "type": "Feature",
   "properties": {
+    "addr:full":"520 S 16th St Philadelphia PA 19146",
+    "addr:housenumber":"520",
+    "addr:postcode":"19146",
+    "addr:street":"S 16Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.168707,39.944475,-75.168707,39.944475",
     "geom:latitude":39.944475,
     "geom:longitude":-75.168707,
@@ -32,14 +37,14 @@
     "sg:website":"http://www.phila-tribune.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850347,
+        85844705,
         102191575,
+        1108721797,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85844705
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,25 +59,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85850347,
-            "region_id":85688481,
-            "venue_id":622185575
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721797,
             "neighbourhood_id":85844705,
             "region_id":85688481,
             "venue_id":622185575
         }
     ],
     "wof:id":622185575,
-    "wof:lastmodified":1466786753,
+    "wof:lastmodified":1489031889,
     "wof:name":"Philadelphia Tribune Company",
-    "wof:parent_id":-1,
+    "wof:parent_id":85844705,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

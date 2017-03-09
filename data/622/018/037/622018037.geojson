@@ -2,9 +2,14 @@
   "id": 622018037,
   "type": "Feature",
   "properties": {
+    "addr:full":"1218 N 42nd St Philadelphia PA 19104",
+    "addr:housenumber":"1218",
+    "addr:postcode":"19104",
+    "addr:street":"N 42Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.209969,39.973678,-75.209969,39.973678",
     "geom:latitude":39.973678,
     "geom:longitude":-75.209969,
@@ -31,6 +36,7 @@
     "wof:belongsto":[
         85871413,
         102191575,
+        1108721805,
         404483701,
         85633793,
         101718083,
@@ -50,13 +56,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721805,
             "neighbourhood_id":85871413,
             "region_id":85688481,
             "venue_id":622018037
         }
     ],
     "wof:id":622018037,
-    "wof:lastmodified":1466777961,
+    "wof:lastmodified":1489033098,
     "wof:name":"West Philadelphia Alliance",
     "wof:parent_id":85871413,
     "wof:placetype":"venue",

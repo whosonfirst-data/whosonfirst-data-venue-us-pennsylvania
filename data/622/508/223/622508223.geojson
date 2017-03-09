@@ -2,9 +2,14 @@
   "id": 622508223,
   "type": "Feature",
   "properties": {
+    "addr:full":"422 E Locust Ave Philadelphia PA 19144",
+    "addr:housenumber":"422",
+    "addr:postcode":"19144",
+    "addr:street":"E Locust Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.16849,40.038628,-75.16849,40.038628",
     "geom:latitude":40.038628,
     "geom:longitude":-75.16849,
@@ -38,14 +43,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85821407,
+        85871459,
         102191575,
+        1108721809,
         404483701,
         85633793,
         101718083,
         102081353,
         85688481,
-        85871459
+        85821407
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,7 +66,8 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85821407,
+            "macrohood_id":1108721809,
+            "neighbourhood_id":85871459,
             "region_id":85688481,
             "venue_id":622508223
         },
@@ -70,15 +77,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85871459,
+            "macrohood_id":1108721809,
+            "neighbourhood_id":85821407,
             "region_id":85688481,
             "venue_id":622508223
         }
     ],
     "wof:id":622508223,
-    "wof:lastmodified":1467081942,
+    "wof:lastmodified":1489038063,
     "wof:name":"Philadelphia Tennis Club Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

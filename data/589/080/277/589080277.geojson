@@ -2,9 +2,14 @@
   "id": 589080277,
   "type": "Feature",
   "properties": {
+    "addr:full":"11601 Roosevelt Blvd Philadelphia PA 19154",
+    "addr:housenumber":"11601",
+    "addr:postcode":"19154",
+    "addr:street":"Roosevelt Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.003767,40.102595,-75.003767,40.102595",
     "geom:latitude":40.102595,
     "geom:longitude":-75.003767,
@@ -29,14 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837097,
+        420539457,
         102191575,
+        1108721807,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        420539457
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,25 +56,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85837097,
-            "region_id":85688481,
-            "venue_id":589080277
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721807,
             "neighbourhood_id":420539457,
             "region_id":85688481,
             "venue_id":589080277
         }
     ],
     "wof:id":589080277,
-    "wof:lastmodified":1466782664,
+    "wof:lastmodified":1489038233,
     "wof:name":"C & D Security",
-    "wof:parent_id":-1,
+    "wof:parent_id":420539457,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

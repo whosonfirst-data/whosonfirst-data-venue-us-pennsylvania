@@ -2,9 +2,14 @@
   "id": 622014487,
   "type": "Feature",
   "properties": {
+    "addr:full":"4940 Rhawn St Philadelphia PA 19136",
+    "addr:housenumber":"4940",
+    "addr:postcode":"19136",
+    "addr:street":"Rhawn St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.022328,40.031882,-75.022328,40.031882",
     "geom:latitude":40.031882,
     "geom:longitude":-75.022328,
@@ -27,18 +32,39 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2GNFSUKW8YAONKQuOxjxvn_40.031882_-75.022328@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"f378948360633bf307d366a7840231c2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":622014487
+        }
+    ],
     "wof:id":622014487,
-    "wof:lastmodified":1466777566,
+    "wof:lastmodified":1489036089,
     "wof:name":"Flight-Fantasy Books & Gifts",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

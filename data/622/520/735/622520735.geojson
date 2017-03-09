@@ -2,9 +2,14 @@
   "id": 622520735,
   "type": "Feature",
   "properties": {
+    "addr:full":"2400 S 6th Street Philadelphia PA 19148",
+    "addr:housenumber":"2400",
+    "addr:postcode":"19148",
+    "addr:street":"S 6Th Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.157698,39.918777,-75.157698,39.918777",
     "geom:latitude":39.918777,
     "geom:longitude":-75.157698,
@@ -29,14 +34,14 @@
     "sg:website":"www.ratanamuni.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867159,
+        1108723485,
         102191575,
+        1108721801,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        420559139
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,25 +56,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85867159,
-            "region_id":85688481,
-            "venue_id":622520735
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
-            "neighbourhood_id":420559139,
+            "macrohood_id":1108721801,
+            "neighbourhood_id":1108723485,
             "region_id":85688481,
             "venue_id":622520735
         }
     ],
     "wof:id":622520735,
-    "wof:lastmodified":1467081951,
+    "wof:lastmodified":1489038879,
     "wof:name":"Phra Buddha Ransi Temple",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108723485,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

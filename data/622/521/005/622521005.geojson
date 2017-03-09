@@ -2,9 +2,14 @@
   "id": 622521005,
   "type": "Feature",
   "properties": {
+    "addr:full":"3300 S Galloway St Ste 62 Philadelphia PA 19148",
+    "addr:housenumber":"3300;62",
+    "addr:postcode":"19148",
+    "addr:street":"S Galloway St Ste",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.155755,39.905537,-75.155755,39.905537",
     "geom:latitude":39.905537,
     "geom:longitude":-75.155755,
@@ -28,14 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85893341,
+        85893371,
         102191575,
+        1108721801,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        420559187
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,25 +55,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85893341,
-            "region_id":85688481,
-            "venue_id":622521005
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
-            "neighbourhood_id":420559187,
+            "macrohood_id":1108721801,
+            "neighbourhood_id":85893371,
             "region_id":85688481,
             "venue_id":622521005
         }
     ],
     "wof:id":622521005,
-    "wof:lastmodified":1467081951,
+    "wof:lastmodified":1489038213,
     "wof:name":"Quaker City",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893371,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

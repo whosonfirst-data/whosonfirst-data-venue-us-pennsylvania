@@ -2,9 +2,14 @@
   "id": 588880781,
   "type": "Feature",
   "properties": {
+    "addr:full":"2300 Ridge Ave Philadelphia PA 19121",
+    "addr:housenumber":"2300",
+    "addr:postcode":"19121",
+    "addr:street":"Ridge Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.173206,39.98115,-75.173206,39.98115",
     "geom:latitude":39.98115,
     "geom:longitude":-75.173206,
@@ -27,6 +32,7 @@
     "wof:belongsto":[
         85837447,
         102191575,
+        1108721811,
         404483701,
         85633793,
         101718083,
@@ -46,13 +52,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721811,
             "neighbourhood_id":85837447,
             "region_id":85688481,
             "venue_id":588880781
         }
     ],
     "wof:id":588880781,
-    "wof:lastmodified":1466781659,
+    "wof:lastmodified":1489036261,
     "wof:name":"East Coast Gas",
     "wof:parent_id":85837447,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 622472161,
   "type": "Feature",
   "properties": {
+    "addr:full":"2146 E Susquehanna Rd Fl 1 Philadelphia PA 19125",
+    "addr:housenumber":"2146;1",
+    "addr:postcode":"19125",
+    "addr:street":"E Susquehanna Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.129822,39.97982,-75.129822,39.97982",
     "geom:latitude":39.97982,
     "geom:longitude":-75.129822,
@@ -30,12 +35,12 @@
     "wof:belongsto":[
         420539503,
         102191575,
+        1108721813,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85828097
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,25 +55,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721813,
             "neighbourhood_id":420539503,
-            "region_id":85688481,
-            "venue_id":622472161
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
-            "neighbourhood_id":85828097,
             "region_id":85688481,
             "venue_id":622472161
         }
     ],
     "wof:id":622472161,
-    "wof:lastmodified":1467081915,
+    "wof:lastmodified":1489035420,
     "wof:name":"Bella Sera Cafe",
-    "wof:parent_id":-1,
+    "wof:parent_id":420539503,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 589219737,
   "type": "Feature",
   "properties": {
+    "addr:full":"9201 Frankford Ave Philadelphia PA 19114",
+    "addr:housenumber":"9201",
+    "addr:postcode":"19114",
+    "addr:street":"Frankford Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.002986,40.055997,-75.002986,40.055997",
     "geom:latitude":40.055997,
     "geom:longitude":-75.002986,
@@ -26,14 +31,14 @@
     "sg:website":"www.wawa.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853249,
+        85852367,
         102191575,
+        1108721807,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85852367
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,25 +53,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85853249,
-            "region_id":85688481,
-            "venue_id":589219737
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721807,
             "neighbourhood_id":85852367,
             "region_id":85688481,
             "venue_id":589219737
         }
     ],
     "wof:id":589219737,
-    "wof:lastmodified":1466788697,
+    "wof:lastmodified":1489034085,
     "wof:name":"Wawa Food Market",
-    "wof:parent_id":-1,
+    "wof:parent_id":85852367,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

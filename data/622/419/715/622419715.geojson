@@ -2,9 +2,14 @@
   "id": 622419715,
   "type": "Feature",
   "properties": {
+    "addr:full":"201 S 18th St Apt 141 Philadelphia PA 19103",
+    "addr:housenumber":"201;141",
+    "addr:postcode":"19103",
+    "addr:street":"S 18Th St Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.170662,39.95015,-75.170662,39.95015",
     "geom:latitude":39.95015,
     "geom:longitude":-75.170662,
@@ -32,6 +37,7 @@
     "wof:belongsto":[
         85844705,
         102191575,
+        1108721797,
         404483701,
         85633793,
         101718083,
@@ -51,13 +57,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721797,
             "neighbourhood_id":85844705,
             "region_id":85688481,
             "venue_id":622419715
         }
     ],
     "wof:id":622419715,
-    "wof:lastmodified":1467081877,
+    "wof:lastmodified":1489031370,
     "wof:name":"Round Town Sound",
     "wof:parent_id":85844705,
     "wof:placetype":"venue",

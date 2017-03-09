@@ -2,9 +2,14 @@
   "id": 605661817,
   "type": "Feature",
   "properties": {
+    "addr:full":"2951 Market St Philadelphia PA 19104",
+    "addr:housenumber":"2951",
+    "addr:postcode":"19104",
+    "addr:street":"Market St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.181218,39.954594,-75.181218,39.954594",
     "geom:latitude":39.954594,
     "geom:longitude":-75.181218,
@@ -34,14 +39,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85893329,
+        85853125,
         102191575,
+        1108721805,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85853125
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,25 +61,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85893329,
-            "region_id":85688481,
-            "venue_id":605661817
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721805,
             "neighbourhood_id":85853125,
             "region_id":85688481,
             "venue_id":605661817
         }
     ],
     "wof:id":605661817,
-    "wof:lastmodified":1467081635,
+    "wof:lastmodified":1489033351,
     "wof:name":"Greetings",
-    "wof:parent_id":-1,
+    "wof:parent_id":85853125,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

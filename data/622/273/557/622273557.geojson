@@ -2,9 +2,14 @@
   "id": 622273557,
   "type": "Feature",
   "properties": {
+    "addr:full":"345 N 12th St  Philadelphia PA 19107",
+    "addr:housenumber":"345",
+    "addr:postcode":"19107",
+    "addr:street":"N 12Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.158264,39.958741,-75.158264,39.958741",
     "geom:latitude":39.958741,
     "geom:longitude":-75.158264,
@@ -31,6 +36,7 @@
     "wof:belongsto":[
         85871415,
         102191575,
+        1108721811,
         404483701,
         85633793,
         101718083,
@@ -50,13 +56,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721811,
             "neighbourhood_id":85871415,
             "region_id":85688481,
             "venue_id":622273557
         }
     ],
     "wof:id":622273557,
-    "wof:lastmodified":1466789675,
+    "wof:lastmodified":1489034892,
     "wof:name":"Bill G's Luncheonette",
     "wof:parent_id":85871415,
     "wof:placetype":"venue",

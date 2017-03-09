@@ -2,9 +2,14 @@
   "id": 605104529,
   "type": "Feature",
   "properties": {
+    "addr:full":"2431 Reed St Philadelphia PA 19146",
+    "addr:housenumber":"2431",
+    "addr:postcode":"19146",
+    "addr:street":"Reed St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.18595,39.935326,-75.18595,39.935326",
     "geom:latitude":39.935326,
     "geom:longitude":-75.18595,
@@ -29,14 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871435,
+        85842525,
         102191575,
+        1108721801,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85842525
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,25 +56,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85871435,
-            "region_id":85688481,
-            "venue_id":605104529
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721801,
             "neighbourhood_id":85842525,
             "region_id":85688481,
             "venue_id":605104529
         }
     ],
     "wof:id":605104529,
-    "wof:lastmodified":1466782211,
+    "wof:lastmodified":1489032362,
     "wof:name":"Direct Air",
-    "wof:parent_id":-1,
+    "wof:parent_id":85842525,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

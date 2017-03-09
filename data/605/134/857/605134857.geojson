@@ -2,9 +2,14 @@
   "id": 605134857,
   "type": "Feature",
   "properties": {
+    "addr:full":"6301 Glenloch St Philadelphia PA 19135",
+    "addr:housenumber":"6301",
+    "addr:postcode":"19135",
+    "addr:street":"Glenloch St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.053152,40.023105,-75.053152,40.023105",
     "geom:latitude":40.023105,
     "geom:longitude":-75.053152,
@@ -27,11 +32,13 @@
     "wof:belongsto":[
         85858409,
         102191575,
+        1108721807,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481
+        85688481,
+        85851751
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +53,27 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721807,
             "neighbourhood_id":85858409,
+            "region_id":85688481,
+            "venue_id":605134857
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85851751,
             "region_id":85688481,
             "venue_id":605134857
         }
     ],
     "wof:id":605134857,
-    "wof:lastmodified":1466784486,
+    "wof:lastmodified":1489037240,
     "wof:name":"Kristti's House Of Hair-Nails",
-    "wof:parent_id":85858409,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

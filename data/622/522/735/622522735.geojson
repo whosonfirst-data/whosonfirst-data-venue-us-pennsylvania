@@ -2,9 +2,14 @@
   "id": 622522735,
   "type": "Feature",
   "properties": {
+    "addr:full":"22 E Wolf St Philadelphia PA 19148",
+    "addr:housenumber":"22",
+    "addr:postcode":"19148",
+    "addr:street":"E Wolf St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.147569,39.918977,-75.147569,39.918977",
     "geom:latitude":39.918977,
     "geom:longitude":-75.147569,
@@ -45,6 +50,7 @@
     "wof:belongsto":[
         85893367,
         102191575,
+        1108721801,
         404483701,
         85633793,
         101718083,
@@ -64,13 +70,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721801,
             "neighbourhood_id":85893367,
             "region_id":85688481,
             "venue_id":622522735
         }
     ],
     "wof:id":622522735,
-    "wof:lastmodified":1467081952,
+    "wof:lastmodified":1489038195,
     "wof:name":"Forman Mills",
     "wof:parent_id":85893367,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 622492523,
   "type": "Feature",
   "properties": {
+    "addr:full":"7118 Gillespie St Philadelphia PA 19135",
+    "addr:housenumber":"7118",
+    "addr:postcode":"19135",
+    "addr:street":"Gillespie St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.040973,40.03089,-75.040973,40.03089",
     "geom:latitude":40.03089,
     "geom:longitude":-75.040973,
@@ -27,18 +32,39 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85851751,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5qfpzMOMXlSjCUpAblDugf_40.030890_-75.040973@1303262458"
     },
     "wof:country":"US",
     "wof:geomhash":"c5812377ff3052950c0ab048e73acc94",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85851751,
+            "region_id":85688481,
+            "venue_id":622492523
+        }
+    ],
     "wof:id":622492523,
-    "wof:lastmodified":1467081930,
+    "wof:lastmodified":1489037254,
     "wof:name":"Jonathan I Redelheim",
-    "wof:parent_id":-1,
+    "wof:parent_id":85851751,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

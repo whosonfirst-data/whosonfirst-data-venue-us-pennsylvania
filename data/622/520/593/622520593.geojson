@@ -2,9 +2,14 @@
   "id": 622520593,
   "type": "Feature",
   "properties": {
+    "addr:full":"1901 S 9th St Philadelphia PA 19148",
+    "addr:housenumber":"1901",
+    "addr:postcode":"19148",
+    "addr:street":"S 9Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.160606,39.92569,-75.160606,39.92569",
     "geom:latitude":39.92569,
     "geom:longitude":-75.160606,
@@ -30,14 +35,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420539485,
+        85871437,
         102191575,
+        1108721801,
         404483701,
         85633793,
         101718083,
         102081353,
         85688481,
-        85871437
+        420539485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,7 +58,8 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":420539485,
+            "macrohood_id":1108721801,
+            "neighbourhood_id":85871437,
             "region_id":85688481,
             "venue_id":622520593
         },
@@ -62,15 +69,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85871437,
+            "macrohood_id":1108721801,
+            "neighbourhood_id":420539485,
             "region_id":85688481,
             "venue_id":622520593
         }
     ],
     "wof:id":622520593,
-    "wof:lastmodified":1467081951,
+    "wof:lastmodified":1489038022,
     "wof:name":"Philadelphia School District",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

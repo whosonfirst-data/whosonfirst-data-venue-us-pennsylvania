@@ -2,9 +2,14 @@
   "id": 621985767,
   "type": "Feature",
   "properties": {
+    "addr:full":"3268 Red Lion Rd Philadelphia PA 19114",
+    "addr:housenumber":"3268",
+    "addr:postcode":"19114",
+    "addr:street":"Red Lion Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.993249,40.081019,-74.993249,40.081019",
     "geom:latitude":40.081019,
     "geom:longitude":-74.993249,
@@ -25,14 +30,14 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85882385,
+        1108723463,
         102191575,
+        1108721807,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        420559171
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,25 +52,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85882385,
-            "region_id":85688481,
-            "venue_id":621985767
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
-            "neighbourhood_id":420559171,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":1108723463,
             "region_id":85688481,
             "venue_id":621985767
         }
     ],
     "wof:id":621985767,
-    "wof:lastmodified":1466787116,
+    "wof:lastmodified":1489038723,
     "wof:name":"Dileos To Go Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108723463,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

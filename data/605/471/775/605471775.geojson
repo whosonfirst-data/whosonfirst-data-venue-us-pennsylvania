@@ -2,9 +2,14 @@
   "id": 605471775,
   "type": "Feature",
   "properties": {
+    "addr:full":"500 Snyder Ave Philadelphia PA 19148",
+    "addr:housenumber":"500",
+    "addr:postcode":"19148",
+    "addr:street":"Snyder Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.156627,39.922688,-75.156627,39.922688",
     "geom:latitude":39.922688,
     "geom:longitude":-75.156627,
@@ -27,18 +32,51 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420539485,
+        102191575,
+        1108721801,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481,
+        85857607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6tk5UqypTHlMbaCbnVmMWM_39.922688_-75.156627@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"27a0052a1524fb3304264057f91a6556",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721801,
+            "neighbourhood_id":420539485,
+            "region_id":85688481,
+            "venue_id":605471775
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721801,
+            "neighbourhood_id":85857607,
+            "region_id":85688481,
+            "venue_id":605471775
+        }
+    ],
     "wof:id":605471775,
-    "wof:lastmodified":1467081517,
+    "wof:lastmodified":1489037463,
     "wof:name":"Mt Enon Baptist Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

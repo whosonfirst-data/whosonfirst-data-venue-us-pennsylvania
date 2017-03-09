@@ -2,9 +2,14 @@
   "id": 622479651,
   "type": "Feature",
   "properties": {
+    "addr:full":"1639 Fairmount Ave Philadelphia PA 19130",
+    "addr:housenumber":"1639",
+    "addr:postcode":"19130",
+    "addr:street":"Fairmount Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.164357,39.967145,-75.164357,39.967145",
     "geom:latitude":39.967145,
     "geom:longitude":-75.164357,
@@ -35,6 +40,7 @@
     "wof:belongsto":[
         85820539,
         102191575,
+        1108721811,
         404483701,
         85633793,
         101718083,
@@ -54,13 +60,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721811,
             "neighbourhood_id":85820539,
             "region_id":85688481,
             "venue_id":622479651
         }
     ],
     "wof:id":622479651,
-    "wof:lastmodified":1467081920,
+    "wof:lastmodified":1489035204,
     "wof:name":"Comcast",
     "wof:parent_id":85820539,
     "wof:placetype":"venue",

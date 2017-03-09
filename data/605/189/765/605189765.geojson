@@ -2,9 +2,14 @@
   "id": 605189765,
   "type": "Feature",
   "properties": {
+    "addr:full":"5929 Ogontz Ave Philadelphia PA 19141",
+    "addr:housenumber":"5929",
+    "addr:postcode":"19141",
+    "addr:street":"Ogontz Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.149555,40.044931,-75.149555,40.044931",
     "geom:latitude":40.044931,
     "geom:longitude":-75.149555,
@@ -27,12 +32,12 @@
     "wof:belongsto":[
         85871397,
         102191575,
+        1108721809,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85819363
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,25 +52,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721809,
             "neighbourhood_id":85871397,
-            "region_id":85688481,
-            "venue_id":605189765
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
-            "neighbourhood_id":85819363,
             "region_id":85688481,
             "venue_id":605189765
         }
     ],
     "wof:id":605189765,
-    "wof:lastmodified":1466787119,
+    "wof:lastmodified":1489034621,
     "wof:name":"Bakery Lakay",
-    "wof:parent_id":-1,
+    "wof:parent_id":85871397,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

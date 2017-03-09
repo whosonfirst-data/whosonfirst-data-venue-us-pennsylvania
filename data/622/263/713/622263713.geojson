@@ -2,9 +2,14 @@
   "id": 622263713,
   "type": "Feature",
   "properties": {
+    "addr:full":"2210 W Oregon Ave Philadelphia PA 19145",
+    "addr:housenumber":"2210",
+    "addr:postcode":"19145",
+    "addr:street":"W Oregon Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.184778,39.918363,-75.184778,39.918363",
     "geom:latitude":39.918363,
     "geom:longitude":-75.184778,
@@ -29,14 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420559179,
+        420782599,
         102191575,
+        1108721801,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85865521
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,25 +56,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":420559179,
-            "region_id":85688481,
-            "venue_id":622263713
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
-            "neighbourhood_id":85865521,
+            "macrohood_id":1108721801,
+            "neighbourhood_id":420782599,
             "region_id":85688481,
             "venue_id":622263713
         }
     ],
     "wof:id":622263713,
-    "wof:lastmodified":1466789267,
+    "wof:lastmodified":1489038666,
     "wof:name":"Old Country Buffet",
-    "wof:parent_id":-1,
+    "wof:parent_id":420782599,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

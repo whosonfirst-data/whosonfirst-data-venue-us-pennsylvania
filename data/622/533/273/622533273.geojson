@@ -2,9 +2,14 @@
   "id": 622533273,
   "type": "Feature",
   "properties": {
+    "addr:full":"18th & Spring Garden St Philadelphia PA 19176",
+    "addr:housenumber":"",
+    "addr:postcode":"19176",
+    "addr:street":"Garden St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.167802,39.9633,-75.167802,39.9633",
     "geom:latitude":39.9633,
     "geom:longitude":-75.167802,
@@ -26,12 +31,12 @@
     "wof:belongsto":[
         420539525,
         102191575,
+        1108721811,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85871423
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,25 +51,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721811,
             "neighbourhood_id":420539525,
-            "region_id":85688481,
-            "venue_id":622533273
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
-            "neighbourhood_id":85871423,
             "region_id":85688481,
             "venue_id":622533273
         }
     ],
     "wof:id":622533273,
-    "wof:lastmodified":1467081960,
+    "wof:lastmodified":1489035135,
     "wof:name":"Franklintown Park",
-    "wof:parent_id":-1,
+    "wof:parent_id":420539525,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

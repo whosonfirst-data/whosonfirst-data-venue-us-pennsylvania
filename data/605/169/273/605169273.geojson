@@ -2,9 +2,14 @@
   "id": 605169273,
   "type": "Feature",
   "properties": {
+    "addr:full":"3603 Calumet St Philadelphia PA 19129",
+    "addr:housenumber":"3603",
+    "addr:postcode":"19129",
+    "addr:street":"Calumet St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.194318,40.012245,-75.194318,40.012245",
     "geom:latitude":40.012245,
     "geom:longitude":-75.194318,
@@ -31,6 +36,7 @@
     "wof:belongsto":[
         85816289,
         102191575,
+        1108721809,
         404483701,
         85633793,
         101718083,
@@ -50,13 +56,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721809,
             "neighbourhood_id":85816289,
             "region_id":85688481,
             "venue_id":605169273
         }
     ],
     "wof:id":605169273,
-    "wof:lastmodified":1466786122,
+    "wof:lastmodified":1489034417,
     "wof:name":"Travel By Pat",
     "wof:parent_id":85816289,
     "wof:placetype":"venue",

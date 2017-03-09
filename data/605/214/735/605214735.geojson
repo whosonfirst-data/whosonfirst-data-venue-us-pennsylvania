@@ -2,9 +2,14 @@
   "id": 605214735,
   "type": "Feature",
   "properties": {
+    "addr:full":"2401 S 61st St Philadelphia PA 19142",
+    "addr:housenumber":"2401",
+    "addr:postcode":"19142",
+    "addr:street":"S 61St St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.225747,39.926805,-75.225747,39.926805",
     "geom:latitude":39.926805,
     "geom:longitude":-75.225747,
@@ -27,6 +32,7 @@
     "wof:belongsto":[
         85817921,
         102191575,
+        1108721803,
         404483701,
         85633793,
         101718083,
@@ -46,13 +52,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721803,
             "neighbourhood_id":85817921,
             "region_id":85688481,
             "venue_id":605214735
         }
     ],
     "wof:id":605214735,
-    "wof:lastmodified":1466787884,
+    "wof:lastmodified":1489032789,
     "wof:name":"Royal LLC",
     "wof:parent_id":85817921,
     "wof:placetype":"venue",

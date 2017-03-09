@@ -2,9 +2,14 @@
   "id": 622262683,
   "type": "Feature",
   "properties": {
+    "addr:full":"903 N 2nd St Philadelphia PA 19123",
+    "addr:housenumber":"903",
+    "addr:postcode":"19123",
+    "addr:street":"N 2Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.140668,39.964217,-75.140668,39.964217",
     "geom:latitude":39.964217,
     "geom:longitude":-75.140668,
@@ -32,6 +37,7 @@
     "wof:belongsto":[
         85838255,
         102191575,
+        1108721811,
         404483701,
         85633793,
         101718083,
@@ -51,13 +57,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721811,
             "neighbourhood_id":85838255,
             "region_id":85688481,
             "venue_id":622262683
         }
     ],
     "wof:id":622262683,
-    "wof:lastmodified":1466789203,
+    "wof:lastmodified":1489034819,
     "wof:name":"Rustica Pizza",
     "wof:parent_id":85838255,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 589085601,
   "type": "Feature",
   "properties": {
+    "addr:full":"5110 Umbria St Philadelphia PA 19127",
+    "addr:housenumber":"5110",
+    "addr:postcode":"19127",
+    "addr:street":"Umbria St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.240098,40.038565,-75.240098,40.038565",
     "geom:latitude":40.038565,
     "geom:longitude":-75.240098,
@@ -31,11 +36,13 @@
     "wof:belongsto":[
         420539467,
         102191575,
+        1108721809,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481
+        85688481,
+        420539509
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +57,27 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721809,
             "neighbourhood_id":420539467,
+            "region_id":85688481,
+            "venue_id":589085601
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721809,
+            "neighbourhood_id":420539509,
             "region_id":85688481,
             "venue_id":589085601
         }
     ],
     "wof:id":589085601,
-    "wof:lastmodified":1466782814,
+    "wof:lastmodified":1489038278,
     "wof:name":"Nick's Auto Svc",
-    "wof:parent_id":420539467,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 622479039,
   "type": "Feature",
   "properties": {
+    "addr:full":"2001 Hamilton St Ste 1104 Philadelphia PA 19130",
+    "addr:housenumber":"2001",
+    "addr:postcode":"19130",
+    "addr:street":"Hamilton St Ste 1104",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.171272,39.962261,-75.171272,39.962261",
     "geom:latitude":39.962261,
     "geom:longitude":-75.171272,
@@ -36,14 +41,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871423,
+        85871427,
         102191575,
+        1108721797,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85871427
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,25 +63,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85871423,
-            "region_id":85688481,
-            "venue_id":622479039
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721797,
             "neighbourhood_id":85871427,
             "region_id":85688481,
             "venue_id":622479039
         }
     ],
     "wof:id":622479039,
-    "wof:lastmodified":1467081920,
+    "wof:lastmodified":1489037677,
     "wof:name":"Faith West Photography",
-    "wof:parent_id":-1,
+    "wof:parent_id":85871427,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

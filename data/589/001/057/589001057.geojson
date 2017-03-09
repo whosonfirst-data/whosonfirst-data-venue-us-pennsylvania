@@ -2,9 +2,14 @@
   "id": 589001057,
   "type": "Feature",
   "properties": {
+    "addr:full":"401 S 42nd St Philadelphia PA 19104",
+    "addr:housenumber":"401",
+    "addr:postcode":"19104",
+    "addr:street":"S 42Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.207194,39.950481,-75.207194,39.950481",
     "geom:latitude":39.950481,
     "geom:longitude":-75.207194,
@@ -27,6 +32,7 @@
     "wof:belongsto":[
         85850813,
         102191575,
+        1108721805,
         404483701,
         85633793,
         101718083,
@@ -46,13 +52,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721805,
             "neighbourhood_id":85850813,
             "region_id":85688481,
             "venue_id":589001057
         }
     ],
     "wof:id":589001057,
-    "wof:lastmodified":1466779534,
+    "wof:lastmodified":1489037199,
     "wof:name":"Woodland Presbyterian Church",
     "wof:parent_id":85850813,
     "wof:placetype":"venue",

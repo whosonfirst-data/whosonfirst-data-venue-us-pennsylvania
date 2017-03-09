@@ -2,9 +2,14 @@
   "id": 589066003,
   "type": "Feature",
   "properties": {
+    "addr:full":"6035 W Jefferson St Philadelphia PA 19151",
+    "addr:housenumber":"6035",
+    "addr:postcode":"19151",
+    "addr:street":"W Jefferson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.241158,39.978935,-75.241158,39.978935",
     "geom:latitude":39.978935,
     "geom:longitude":-75.241158,
@@ -28,14 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85882387,
+        85839965,
         102191575,
+        1108721805,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85839965
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,25 +55,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85882387,
-            "region_id":85688481,
-            "venue_id":589066003
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721805,
             "neighbourhood_id":85839965,
             "region_id":85688481,
             "venue_id":589066003
         }
     ],
     "wof:id":589066003,
-    "wof:lastmodified":1466781515,
+    "wof:lastmodified":1489032959,
     "wof:name":"Simpson-Fletcher United Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":85839965,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 622429277,
   "type": "Feature",
   "properties": {
+    "addr:full":"400 S 43rd St Philadelphia PA 19104",
+    "addr:housenumber":"400",
+    "addr:postcode":"19104",
+    "addr:street":"S 43Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.209503,39.951401,-75.209503,39.951401",
     "geom:latitude":39.951401,
     "geom:longitude":-75.209503,
@@ -31,6 +36,7 @@
     "wof:belongsto":[
         85850813,
         102191575,
+        1108721805,
         404483701,
         85633793,
         101718083,
@@ -50,13 +56,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721805,
             "neighbourhood_id":85850813,
             "region_id":85688481,
             "venue_id":622429277
         }
     ],
     "wof:id":622429277,
-    "wof:lastmodified":1467081884,
+    "wof:lastmodified":1489033125,
     "wof:name":"Colonial Pizza",
     "wof:parent_id":85850813,
     "wof:placetype":"venue",

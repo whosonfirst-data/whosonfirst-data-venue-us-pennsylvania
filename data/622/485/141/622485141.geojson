@@ -2,9 +2,14 @@
   "id": 622485141,
   "type": "Feature",
   "properties": {
+    "addr:full":"2634 W Silver St Philadelphia PA 19132",
+    "addr:housenumber":"2634",
+    "addr:postcode":"19132",
+    "addr:street":"W Silver St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.17431,39.997336,-75.17431,39.997336",
     "geom:latitude":39.997336,
     "geom:longitude":-75.17431,
@@ -34,14 +39,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851003,
+        85802763,
         102191575,
+        1108721811,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85802763
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,25 +61,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85851003,
-            "region_id":85688481,
-            "venue_id":622485141
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721811,
             "neighbourhood_id":85802763,
             "region_id":85688481,
             "venue_id":622485141
         }
     ],
     "wof:id":622485141,
-    "wof:lastmodified":1467081925,
+    "wof:lastmodified":1489035178,
     "wof:name":"Independent Mortgage Solutions",
-    "wof:parent_id":-1,
+    "wof:parent_id":85802763,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

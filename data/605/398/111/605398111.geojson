@@ -2,9 +2,14 @@
   "id": 605398111,
   "type": "Feature",
   "properties": {
+    "addr:full":"8001 State Rd Philadelphia PA 19136",
+    "addr:housenumber":"8001",
+    "addr:postcode":"19136",
+    "addr:street":"State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.011311,40.03704,-75.011311,40.03704",
     "geom:latitude":40.03704,
     "geom:longitude":-75.011311,
@@ -24,18 +29,39 @@
     "sg:postcode":"19136",
     "sg:province":"PA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5RTemkSOxNiwrC8bAog9fw_40.037040_-75.011311@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"90c1ccbd49bf545645772b82ae0a116d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":605398111
+        }
+    ],
     "wof:id":605398111,
-    "wof:lastmodified":1467081470,
+    "wof:lastmodified":1489036084,
     "wof:name":"Counselor House Of Correction",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

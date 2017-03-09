@@ -2,9 +2,14 @@
   "id": 622045949,
   "type": "Feature",
   "properties": {
+    "addr:full":"3041 Derry Pl Philadelphia PA 19154",
+    "addr:housenumber":"3041",
+    "addr:postcode":"19154",
+    "addr:street":"Derry Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.987182,40.094059,-74.987182,40.094059",
     "geom:latitude":40.094059,
     "geom:longitude":-74.987182,
@@ -31,14 +36,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831329,
+        1108723453,
+        85840807,
         102191575,
+        1108721807,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85840807
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,25 +59,17 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85831329,
-            "region_id":85688481,
-            "venue_id":622045949
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "microhood_id":1108723453,
             "neighbourhood_id":85840807,
             "region_id":85688481,
             "venue_id":622045949
         }
     ],
     "wof:id":622045949,
-    "wof:lastmodified":1466780251,
+    "wof:lastmodified":1489039744,
     "wof:name":"Mcs Heating & Air Cond",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108723453,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

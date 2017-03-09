@@ -2,9 +2,14 @@
   "id": 605440685,
   "type": "Feature",
   "properties": {
+    "addr:full":"6909 Frankford Ave Philadelphia PA 19135",
+    "addr:housenumber":"6909",
+    "addr:postcode":"19135",
+    "addr:street":"Frankford Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.047947,40.033106,-75.047947,40.033106",
     "geom:latitude":40.033106,
     "geom:longitude":-75.047947,
@@ -33,18 +38,39 @@
         "merchandise"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85851751,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0EZgL0CGZer2olqCtHZAn9_40.033106_-75.047947@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"68be4b52999565ff71f205c10505397b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85851751,
+            "region_id":85688481,
+            "venue_id":605440685
+        }
+    ],
     "wof:id":605440685,
-    "wof:lastmodified":1467081497,
+    "wof:lastmodified":1489037266,
     "wof:name":"Yanny's Home Tex Discounts",
-    "wof:parent_id":-1,
+    "wof:parent_id":85851751,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

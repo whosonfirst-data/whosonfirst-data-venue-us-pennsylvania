@@ -2,9 +2,14 @@
   "id": 606068297,
   "type": "Feature",
   "properties": {
+    "addr:full":"7130 State Rd Philadelphia PA 19135",
+    "addr:housenumber":"7130",
+    "addr:postcode":"19135",
+    "addr:street":"State Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.034248,40.024505,-75.034248,40.024505",
     "geom:latitude":40.024505,
     "geom:longitude":-75.034248,
@@ -27,18 +32,39 @@
         "landscape"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85851751,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5jljLlWaiVTUKCQXZU6MzF_40.024505_-75.034248@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"6e0323258c9b208305edfc5c4af434f0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85851751,
+            "region_id":85688481,
+            "venue_id":606068297
+        }
+    ],
     "wof:id":606068297,
-    "wof:lastmodified":1466782284,
+    "wof:lastmodified":1489037269,
     "wof:name":"Stenger Landscaping",
-    "wof:parent_id":-1,
+    "wof:parent_id":85851751,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

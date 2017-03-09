@@ -2,9 +2,14 @@
   "id": 621849401,
   "type": "Feature",
   "properties": {
+    "addr:full":"8056 Frankford Ave Philadelphia PA 19136",
+    "addr:housenumber":"8056",
+    "addr:postcode":"19136",
+    "addr:street":"Frankford Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.026806,40.041842,-75.026806,40.041842",
     "geom:latitude":40.041842,
     "geom:longitude":-75.026806,
@@ -35,18 +40,39 @@
         "gasoline"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ENnNcJqn5VSww6Jaf7RQp_40.041842_-75.026806@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"bffd416263c4b44acea30b4a98754c31",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":621849401
+        }
+    ],
     "wof:id":621849401,
-    "wof:lastmodified":1466780316,
+    "wof:lastmodified":1489036123,
     "wof:name":"Di Bello's Auto Repairs",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

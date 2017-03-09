@@ -2,9 +2,14 @@
   "id": 589178685,
   "type": "Feature",
   "properties": {
+    "addr:full":"7101 Keystone St Philadelphia PA 19135",
+    "addr:housenumber":"7101",
+    "addr:postcode":"19135",
+    "addr:street":"Keystone St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.035547,40.026241,-75.035547,40.026241",
     "geom:latitude":40.026241,
     "geom:longitude":-75.035547,
@@ -33,18 +38,39 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85851751,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6HB4yvitnOIFEV1TEeNBvY_40.026241_-75.035547@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"3533c48e86f15357f02c6fe9354bf507",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85851751,
+            "region_id":85688481,
+            "venue_id":589178685
+        }
+    ],
     "wof:id":589178685,
-    "wof:lastmodified":1466787226,
+    "wof:lastmodified":1489037272,
     "wof:name":"Luzt Contracting",
-    "wof:parent_id":-1,
+    "wof:parent_id":85851751,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

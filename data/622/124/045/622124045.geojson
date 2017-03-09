@@ -2,9 +2,14 @@
   "id": 622124045,
   "type": "Feature",
   "properties": {
+    "addr:full":"420 Pierce St Philadelphia PA 19148",
+    "addr:housenumber":"420",
+    "addr:postcode":"19148",
+    "addr:street":"Pierce St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.153926,39.926422,-75.153926,39.926422",
     "geom:latitude":39.926422,
     "geom:longitude":-75.153926,
@@ -35,6 +40,7 @@
     "wof:belongsto":[
         85893333,
         102191575,
+        1108721801,
         404483701,
         85633793,
         101718083,
@@ -54,13 +60,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721801,
             "neighbourhood_id":85893333,
             "region_id":85688481,
             "venue_id":622124045
         }
     ],
     "wof:id":622124045,
-    "wof:lastmodified":1466784103,
+    "wof:lastmodified":1489038105,
     "wof:name":"South Philly Cycles",
     "wof:parent_id":85893333,
     "wof:placetype":"venue",

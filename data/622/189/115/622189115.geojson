@@ -2,9 +2,14 @@
   "id": 622189115,
   "type": "Feature",
   "properties": {
+    "addr:full":"4221 Shelmire Ave Philadelphia PA 19136",
+    "addr:housenumber":"4221",
+    "addr:postcode":"19136",
+    "addr:street":"Shelmire Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.035252,40.037284,-75.035252,40.037284",
     "geom:latitude":40.037284,
     "geom:longitude":-75.035252,
@@ -29,18 +34,39 @@
         "hanging"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_36ibyRySEkjOEzlpHsEn7v_40.036714_-75.034616@1293134755"
     },
     "wof:country":"US",
     "wof:geomhash":"43d0d61c96892786dc06a2086941f67c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":622189115
+        }
+    ],
     "wof:id":622189115,
-    "wof:lastmodified":1466786847,
+    "wof:lastmodified":1489036089,
     "wof:name":"Formica Painting",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

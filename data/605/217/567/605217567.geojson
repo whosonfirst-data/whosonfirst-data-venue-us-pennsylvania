@@ -2,9 +2,14 @@
   "id": 605217567,
   "type": "Feature",
   "properties": {
+    "addr:full":"1937 W Lehigh Ave Philadelphia PA 19132",
+    "addr:housenumber":"1937",
+    "addr:postcode":"19132",
+    "addr:street":"W Lehigh Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.164024,39.995236,-75.164024,39.995236",
     "geom:latitude":39.995236,
     "geom:longitude":-75.164024,
@@ -28,14 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851003,
+        1108723379,
+        85893347,
         102191575,
+        1108721811,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85893347
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,25 +56,17 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85851003,
-            "region_id":85688481,
-            "venue_id":605217567
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721811,
+            "microhood_id":1108723379,
             "neighbourhood_id":85893347,
             "region_id":85688481,
             "venue_id":605217567
         }
     ],
     "wof:id":605217567,
-    "wof:lastmodified":1466788061,
+    "wof:lastmodified":1489039646,
     "wof:name":"Salem Mission Baptist Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108723379,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

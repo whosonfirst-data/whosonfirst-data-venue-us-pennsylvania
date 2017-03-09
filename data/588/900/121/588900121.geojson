@@ -2,9 +2,14 @@
   "id": 588900121,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 N 17th St Philadelphia PA 19103",
+    "addr:housenumber":"100",
+    "addr:postcode":"19103",
+    "addr:street":"N 17Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.167802,39.955935,-75.167802,39.955935",
     "geom:latitude":39.955935,
     "geom:longitude":-75.167802,
@@ -28,14 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85893323,
+        1108721901,
+        85871427,
         102191575,
+        1108721797,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85871427
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,25 +56,17 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85893323,
-            "region_id":85688481,
-            "venue_id":588900121
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721797,
+            "microhood_id":1108721901,
             "neighbourhood_id":85871427,
             "region_id":85688481,
             "venue_id":588900121
         }
     ],
     "wof:id":588900121,
-    "wof:lastmodified":1466783053,
+    "wof:lastmodified":1489039250,
     "wof:name":"Pennsylvnians For Modrn Courts",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108721901,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

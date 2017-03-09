@@ -2,9 +2,14 @@
   "id": 622455213,
   "type": "Feature",
   "properties": {
+    "addr:full":"3506 Sussex Ln Philadelphia PA 19114",
+    "addr:housenumber":"3506",
+    "addr:postcode":"19114",
+    "addr:street":"Sussex Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.989077,40.06977,-74.989077,40.06977",
     "geom:latitude":40.06977,
     "geom:longitude":-74.989077,
@@ -38,14 +43,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85882385,
+        420782485,
         102191575,
+        1108721807,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        420560143
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,25 +65,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85882385,
-            "region_id":85688481,
-            "venue_id":622455213
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
-            "neighbourhood_id":420560143,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":420782485,
             "region_id":85688481,
             "venue_id":622455213
         }
     ],
     "wof:id":622455213,
-    "wof:lastmodified":1467081903,
+    "wof:lastmodified":1489038497,
     "wof:name":"Muka Construction",
-    "wof:parent_id":-1,
+    "wof:parent_id":420782485,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

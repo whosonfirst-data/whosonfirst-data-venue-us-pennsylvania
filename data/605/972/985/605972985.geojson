@@ -2,9 +2,14 @@
   "id": 605972985,
   "type": "Feature",
   "properties": {
+    "addr:full":"10001 Ferndale St Philadelphia PA 19116",
+    "addr:housenumber":"10001",
+    "addr:postcode":"19116",
+    "addr:street":"Ferndale St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.033238,40.106282,-75.033238,40.106282",
     "geom:latitude":40.106282,
     "geom:longitude":-75.033238,
@@ -30,6 +35,7 @@
     "wof:belongsto":[
         85849295,
         102191575,
+        1108721807,
         404483701,
         85633793,
         101718083,
@@ -49,13 +55,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721807,
             "neighbourhood_id":85849295,
             "region_id":85688481,
             "venue_id":605972985
         }
     ],
     "wof:id":605972985,
-    "wof:lastmodified":1467081835,
+    "wof:lastmodified":1489033898,
     "wof:name":"Red Lion Laundromat",
     "wof:parent_id":85849295,
     "wof:placetype":"venue",

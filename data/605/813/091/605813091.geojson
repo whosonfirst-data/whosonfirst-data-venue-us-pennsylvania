@@ -2,9 +2,14 @@
   "id": 605813091,
   "type": "Feature",
   "properties": {
+    "addr:full":"6521 Frankford Ave Philadelphia PA 19135",
+    "addr:housenumber":"6521",
+    "addr:postcode":"19135",
+    "addr:street":"Frankford Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.055419,40.029959,-75.055419,40.029959",
     "geom:latitude":40.029959,
     "geom:longitude":-75.055419,
@@ -28,18 +33,39 @@
         "osteopathic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85851751,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7JB2IN42oFyGnk8jLetXfl_40.029959_-75.055419@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"309ed3dd4a24df915689518f9fe1c3e3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85851751,
+            "region_id":85688481,
+            "venue_id":605813091
+        }
+    ],
     "wof:id":605813091,
-    "wof:lastmodified":1467081731,
+    "wof:lastmodified":1489037267,
     "wof:name":"Fred Tehrani MD",
-    "wof:parent_id":-1,
+    "wof:parent_id":85851751,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

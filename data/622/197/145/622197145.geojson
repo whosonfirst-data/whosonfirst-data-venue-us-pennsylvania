@@ -2,9 +2,14 @@
   "id": 622197145,
   "type": "Feature",
   "properties": {
+    "addr:full":"5250 Wayne Ave Philadelphia PA 19144",
+    "addr:housenumber":"5250",
+    "addr:postcode":"19144",
+    "addr:street":"Wayne Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.172096,40.027901,-75.172096,40.027901",
     "geom:latitude":40.027901,
     "geom:longitude":-75.172096,
@@ -28,14 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420559163,
+        85821407,
         102191575,
+        1108721809,
         404483701,
         85633793,
         101718083,
         102081353,
         85688481,
-        85821407
+        1108723467
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,7 +56,8 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":420559163,
+            "macrohood_id":1108721809,
+            "neighbourhood_id":85821407,
             "region_id":85688481,
             "venue_id":622197145
         },
@@ -60,15 +67,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85821407,
+            "macrohood_id":1108721809,
+            "neighbourhood_id":1108723467,
             "region_id":85688481,
             "venue_id":622197145
         }
     ],
     "wof:id":622197145,
-    "wof:lastmodified":1466787448,
+    "wof:lastmodified":1489038730,
     "wof:name":"Crown of Life Ministery of Christ",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

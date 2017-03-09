@@ -2,9 +2,14 @@
   "id": 621970035,
   "type": "Feature",
   "properties": {
+    "addr:full":"6818 Ditman St Philadelphia PA 19135",
+    "addr:housenumber":"",
+    "addr:postcode":"6818;19135",
+    "addr:street":"Ditman St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.044348,40.026961,-75.044348,40.026961",
     "geom:latitude":40.026961,
     "geom:longitude":-75.044348,
@@ -28,18 +33,39 @@
         "outpatient"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85851751,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4BZ9kKgHBJ91ikFUK32dYG_40.026961_-75.044348@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"7fa03697f76492da87fdb115af9f7b31",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85851751,
+            "region_id":85688481,
+            "venue_id":621970035
+        }
+    ],
     "wof:id":621970035,
-    "wof:lastmodified":1466786717,
+    "wof:lastmodified":1489037271,
     "wof:name":"Path Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85851751,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

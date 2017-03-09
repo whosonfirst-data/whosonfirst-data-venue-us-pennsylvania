@@ -2,9 +2,14 @@
   "id": 605662775,
   "type": "Feature",
   "properties": {
+    "addr:full":"5404 Arch St Philadelphia PA 19139",
+    "addr:housenumber":"5404",
+    "addr:postcode":"19139",
+    "addr:street":"Arch St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.228615,39.961983,-75.228615,39.961983",
     "geom:latitude":39.961983,
     "geom:longitude":-75.228615,
@@ -27,6 +32,7 @@
     "wof:belongsto":[
         420539515,
         102191575,
+        1108721805,
         404483701,
         85633793,
         101718083,
@@ -46,13 +52,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721805,
             "neighbourhood_id":420539515,
             "region_id":85688481,
             "venue_id":605662775
         }
     ],
     "wof:id":605662775,
-    "wof:lastmodified":1467081636,
+    "wof:lastmodified":1489033310,
     "wof:name":"Thomas Hannah",
     "wof:parent_id":420539515,
     "wof:placetype":"venue",

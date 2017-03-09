@@ -2,9 +2,14 @@
   "id": 588823415,
   "type": "Feature",
   "properties": {
+    "addr:full":"12321 Academy Rd Philadelphia PA 19154",
+    "addr:housenumber":"12321",
+    "addr:postcode":"19154",
+    "addr:street":"Academy Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.975977,40.09621,-74.975977,40.09621",
     "geom:latitude":40.09621,
     "geom:longitude":-74.975977,
@@ -27,6 +32,7 @@
     "wof:belongsto":[
         85840807,
         102191575,
+        1108721807,
         404483701,
         85633793,
         101718083,
@@ -46,13 +52,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721807,
             "neighbourhood_id":85840807,
             "region_id":85688481,
             "venue_id":588823415
         }
     ],
     "wof:id":588823415,
-    "wof:lastmodified":1466777381,
+    "wof:lastmodified":1489033863,
     "wof:name":"Zaps Dollar Store",
     "wof:parent_id":85840807,
     "wof:placetype":"venue",

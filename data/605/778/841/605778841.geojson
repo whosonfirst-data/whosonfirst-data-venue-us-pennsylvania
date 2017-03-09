@@ -2,9 +2,14 @@
   "id": 605778841,
   "type": "Feature",
   "properties": {
+    "addr:full":"4242 Macalester St Philadelphia PA 19124",
+    "addr:housenumber":"4242",
+    "addr:postcode":"19124",
+    "addr:street":"Macalester St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.120123,40.014526,-75.120123,40.014526",
     "geom:latitude":40.014526,
     "geom:longitude":-75.120123,
@@ -31,6 +36,7 @@
     "wof:belongsto":[
         85819107,
         102191575,
+        1108721809,
         404483701,
         85633793,
         101718083,
@@ -50,13 +56,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721809,
             "neighbourhood_id":85819107,
             "region_id":85688481,
             "venue_id":605778841
         }
     ],
     "wof:id":605778841,
-    "wof:lastmodified":1467081709,
+    "wof:lastmodified":1489034743,
     "wof:name":"Audio Lounge Digital Recording",
     "wof:parent_id":85819107,
     "wof:placetype":"venue",

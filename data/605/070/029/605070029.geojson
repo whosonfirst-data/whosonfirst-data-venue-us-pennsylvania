@@ -2,9 +2,14 @@
   "id": 605070029,
   "type": "Feature",
   "properties": {
+    "addr:full":"724 Red Lion Rd Philadelphia PA 19115",
+    "addr:housenumber":"724",
+    "addr:postcode":"19115",
+    "addr:street":"Red Lion Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.034759,40.106216,-75.034759,40.106216",
     "geom:latitude":40.106216,
     "geom:longitude":-75.034759,
@@ -28,13 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85808641,
+        85849295,
         102191575,
+        1108721807,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481
+        85688481,
+        85808641
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +56,27 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85849295,
+            "region_id":85688481,
+            "venue_id":605070029
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
             "neighbourhood_id":85808641,
             "region_id":85688481,
             "venue_id":605070029
         }
     ],
     "wof:id":605070029,
-    "wof:lastmodified":1466780058,
+    "wof:lastmodified":1489035698,
     "wof:name":"Pro-Care Med Rhabilitation Ctr",
-    "wof:parent_id":85808641,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

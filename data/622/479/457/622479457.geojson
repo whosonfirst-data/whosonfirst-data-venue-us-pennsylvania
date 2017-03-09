@@ -2,9 +2,14 @@
   "id": 622479457,
   "type": "Feature",
   "properties": {
+    "addr:full":"2200 Benjamin Franklin Pkwy Philadelphia PA 19130",
+    "addr:housenumber":"2200",
+    "addr:postcode":"19130",
+    "addr:street":"Benjamin Franklin Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.176547,39.961004,-75.176547,39.961004",
     "geom:latitude":39.961004,
     "geom:longitude":-75.176547,
@@ -30,14 +35,14 @@
     "sg:website":"www.amresidentialmortgage.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85893321,
+        85871427,
         102191575,
+        1108721797,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85871427
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,25 +57,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85893321,
-            "region_id":85688481,
-            "venue_id":622479457
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721797,
             "neighbourhood_id":85871427,
             "region_id":85688481,
             "venue_id":622479457
         }
     ],
     "wof:id":622479457,
-    "wof:lastmodified":1467081920,
+    "wof:lastmodified":1489031748,
     "wof:name":"American Mortgage Express",
-    "wof:parent_id":-1,
+    "wof:parent_id":85871427,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

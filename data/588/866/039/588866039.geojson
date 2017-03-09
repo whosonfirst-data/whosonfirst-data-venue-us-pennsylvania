@@ -2,9 +2,14 @@
   "id": 588866039,
   "type": "Feature",
   "properties": {
+    "addr:full":"4208 Bleigh Ave Philadelphia PA 19136",
+    "addr:housenumber":"4208",
+    "addr:postcode":"19136",
+    "addr:street":"Bleigh Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.036219,40.035699,-75.036219,40.035699",
     "geom:latitude":40.035699,
     "geom:longitude":-75.036219,
@@ -28,18 +33,39 @@
         "music"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_70CGdrVwgaeUzCmUAhhUs4_40.035699_-75.036219@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"273ac3c64fd719318940bdd76d981713",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":588866039
+        }
+    ],
     "wof:id":588866039,
-    "wof:lastmodified":1466781035,
+    "wof:lastmodified":1489036112,
     "wof:name":"Once In A Lifetime D J's",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

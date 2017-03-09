@@ -2,9 +2,14 @@
   "id": 605911193,
   "type": "Feature",
   "properties": {
+    "addr:full":"4410 Tyson Ave Philadelphia PA 19135",
+    "addr:housenumber":"4410",
+    "addr:postcode":"19135",
+    "addr:street":"Tyson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.042858,40.029185,-75.042858,40.029185",
     "geom:latitude":40.029185,
     "geom:longitude":-75.042858,
@@ -24,18 +29,39 @@
     "sg:postcode":"19135",
     "sg:province":"PA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85851751,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7b3VN0AeXKn57AJtI01O2g_40.029185_-75.042858@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"064fc072953c7df41f67c2c5e6cfd1e6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85851751,
+            "region_id":85688481,
+            "venue_id":605911193
+        }
+    ],
     "wof:id":605911193,
-    "wof:lastmodified":1467081792,
+    "wof:lastmodified":1489037241,
     "wof:name":"Suger & Spice 2",
-    "wof:parent_id":-1,
+    "wof:parent_id":85851751,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

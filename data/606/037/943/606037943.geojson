@@ -2,9 +2,14 @@
   "id": 606037943,
   "type": "Feature",
   "properties": {
+    "addr:full":"2700 Grant Ave Philadelphia PA 19114",
+    "addr:housenumber":"2700",
+    "addr:postcode":"19114",
+    "addr:street":"Grant Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.013126,40.072071,-75.013126,40.072071",
     "geom:latitude":40.072071,
     "geom:longitude":-75.013126,
@@ -35,18 +40,39 @@
         "repair"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420539507,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6CQQQ354w14j0AqhJdMNbe_40.072071_-75.013126@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"ff0f57387a469ad80f8a562a34a6b313",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":420539507,
+            "region_id":85688481,
+            "venue_id":606037943
+        }
+    ],
     "wof:id":606037943,
-    "wof:lastmodified":1466779994,
+    "wof:lastmodified":1489038400,
     "wof:name":"Fresh Start Credit Repair",
-    "wof:parent_id":-1,
+    "wof:parent_id":420539507,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

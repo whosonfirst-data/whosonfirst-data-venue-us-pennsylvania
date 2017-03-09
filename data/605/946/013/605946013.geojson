@@ -2,9 +2,14 @@
   "id": 605946013,
   "type": "Feature",
   "properties": {
+    "addr:full":"7127 Hegerman St Philadelphia PA 19135",
+    "addr:housenumber":"7127",
+    "addr:postcode":"19135",
+    "addr:street":"Hegerman St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.037486,40.027289,-75.037486,40.027289",
     "geom:latitude":40.027289,
     "geom:longitude":-75.037486,
@@ -27,18 +32,39 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85851751,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3MBJRiE3NaGG39RgqhNDut_40.027289_-75.037486@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"255622f08386f65cb2a111ac410920c8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85851751,
+            "region_id":85688481,
+            "venue_id":605946013
+        }
+    ],
     "wof:id":605946013,
-    "wof:lastmodified":1467081815,
+    "wof:lastmodified":1489037256,
     "wof:name":"Star Of Hope Baptist Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":85851751,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 622426733,
   "type": "Feature",
   "properties": {
+    "addr:full":"4055 Market St # 89 Philadelphia PA 19104",
+    "addr:housenumber":"4055;89",
+    "addr:postcode":"19104",
+    "addr:street":"Market St #",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.203972,39.957544,-75.203972,39.957544",
     "geom:latitude":39.957544,
     "geom:longitude":-75.203972,
@@ -31,6 +36,7 @@
     "wof:belongsto":[
         85871455,
         102191575,
+        1108721805,
         404483701,
         85633793,
         101718083,
@@ -50,13 +56,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721805,
             "neighbourhood_id":85871455,
             "region_id":85688481,
             "venue_id":622426733
         }
     ],
     "wof:id":622426733,
-    "wof:lastmodified":1467081882,
+    "wof:lastmodified":1489032903,
     "wof:name":"Rite Aid Pharmacies",
     "wof:parent_id":85871455,
     "wof:placetype":"venue",

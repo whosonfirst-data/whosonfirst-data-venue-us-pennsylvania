@@ -2,9 +2,14 @@
   "id": 588997067,
   "type": "Feature",
   "properties": {
+    "addr:full":"7235 Edmund St Philadelphia PA 19135",
+    "addr:housenumber":"7235",
+    "addr:postcode":"19135",
+    "addr:street":"Edmund St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.034272,40.028248,-75.034272,40.028248",
     "geom:latitude":40.028248,
     "geom:longitude":-75.034272,
@@ -28,18 +33,39 @@
     ],
     "sg:website":"www.gksb.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85851751,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3nD1FgtwWvGFSUCwxrCxre_40.028248_-75.034272@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"b6464a99adba543b0ad64b4d3ad9e5b5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85851751,
+            "region_id":85688481,
+            "venue_id":588997067
+        }
+    ],
     "wof:id":588997067,
-    "wof:lastmodified":1466787560,
+    "wof:lastmodified":1489037262,
     "wof:name":"Greater Kensington String Band",
-    "wof:parent_id":-1,
+    "wof:parent_id":85851751,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

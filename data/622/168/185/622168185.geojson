@@ -2,9 +2,14 @@
   "id": 622168185,
   "type": "Feature",
   "properties": {
+    "addr:full":"4807 Benner St Philadelphia PA 19135",
+    "addr:housenumber":"4807",
+    "addr:postcode":"19135",
+    "addr:street":"Benner St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.056581,40.017324,-75.056581,40.017324",
     "geom:latitude":40.017324,
     "geom:longitude":-75.056581,
@@ -38,6 +43,7 @@
     "wof:belongsto":[
         85858409,
         102191575,
+        1108721807,
         404483701,
         85633793,
         101718083,
@@ -57,13 +63,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721807,
             "neighbourhood_id":85858409,
             "region_id":85688481,
             "venue_id":622168185
         }
     ],
     "wof:id":622168185,
-    "wof:lastmodified":1466786107,
+    "wof:lastmodified":1489037489,
     "wof:name":"Northeast Speedometer Service",
     "wof:parent_id":85858409,
     "wof:placetype":"venue",

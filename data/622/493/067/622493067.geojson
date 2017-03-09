@@ -2,9 +2,14 @@
   "id": 622493067,
   "type": "Feature",
   "properties": {
+    "addr:full":"8100 Leon St Philadelphia PA 19136",
+    "addr:housenumber":"8100",
+    "addr:postcode":"19136",
+    "addr:street":"Leon St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.028061,40.044041,-75.028061,40.044041",
     "geom:latitude":40.044041,
     "geom:longitude":-75.028061,
@@ -30,18 +35,39 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1H9mgyw517HTXlHTg5DoIY_40.044041_-75.028061@1303262458"
     },
     "wof:country":"US",
     "wof:geomhash":"d8fc4770e89b14dcd66c519fc411a13c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":622493067
+        }
+    ],
     "wof:id":622493067,
-    "wof:lastmodified":1467081930,
+    "wof:lastmodified":1489036090,
     "wof:name":"Ryan Painting",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

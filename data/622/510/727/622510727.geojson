@@ -2,9 +2,14 @@
   "id": 622510727,
   "type": "Feature",
   "properties": {
+    "addr:full":"1526 Packer Ave Philadelphia PA 19145",
+    "addr:housenumber":"1526",
+    "addr:postcode":"19145",
+    "addr:street":"Packer Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.174529,39.911532,-75.174529,39.911532",
     "geom:latitude":39.911532,
     "geom:longitude":-75.174529,
@@ -31,14 +36,14 @@
     "sg:website":"www.chickiesandpetes.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85893371,
+        420782601,
         102191575,
+        1108721801,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        420558463
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,25 +58,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85893371,
-            "region_id":85688481,
-            "venue_id":622510727
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
-            "neighbourhood_id":420558463,
+            "macrohood_id":1108721801,
+            "neighbourhood_id":420782601,
             "region_id":85688481,
             "venue_id":622510727
         }
     ],
     "wof:id":622510727,
-    "wof:lastmodified":1467081943,
+    "wof:lastmodified":1489038689,
     "wof:name":"Chickie's & Pete's",
-    "wof:parent_id":-1,
+    "wof:parent_id":420782601,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

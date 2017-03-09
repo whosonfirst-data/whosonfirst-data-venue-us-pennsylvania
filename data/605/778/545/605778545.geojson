@@ -2,9 +2,14 @@
   "id": 605778545,
   "type": "Feature",
   "properties": {
+    "addr:full":"8017 Craig St Philadelphia PA 19136",
+    "addr:housenumber":"8017",
+    "addr:postcode":"19136",
+    "addr:street":"Craig St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.026423,40.043087,-75.026423,40.043087",
     "geom:latitude":40.043087,
     "geom:longitude":-75.026423,
@@ -27,18 +32,39 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2pmy41IMqe67XPOhjyrKIY_40.043087_-75.026423@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"9638de8a5a3844b5db9d25e74a2949cb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":605778545
+        }
+    ],
     "wof:id":605778545,
-    "wof:lastmodified":1467081709,
+    "wof:lastmodified":1489036100,
     "wof:name":"Marys Mnchknland Day Care Ctr",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 622433359,
   "type": "Feature",
   "properties": {
+    "addr:full":"125 N 8th St Fl 2 Philadelphia PA 19106",
+    "addr:housenumber":"125;2",
+    "addr:postcode":"19106",
+    "addr:street":"N 8Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.153,39.953899,-75.153,39.953899",
     "geom:latitude":39.953899,
     "geom:longitude":-75.153,
@@ -40,14 +45,14 @@
     "sg:website":"www.cvchildcare.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85893355,
+        85839299,
         102191575,
+        1108721797,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85839299
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,25 +67,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85893355,
-            "region_id":85688481,
-            "venue_id":622433359
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721797,
             "neighbourhood_id":85839299,
             "region_id":85688481,
             "venue_id":622433359
         }
     ],
     "wof:id":622433359,
-    "wof:lastmodified":1467081887,
+    "wof:lastmodified":1489036417,
     "wof:name":"Children's Village",
-    "wof:parent_id":-1,
+    "wof:parent_id":85839299,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 622530209,
   "type": "Feature",
   "properties": {
+    "addr:full":"8500 Essington Ave Philadelphia PA 19153",
+    "addr:housenumber":"8500",
+    "addr:postcode":"19153",
+    "addr:street":"Essington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.229202,39.894901,-75.229202,39.894901",
     "geom:latitude":39.894901,
     "geom:longitude":-75.229202,
@@ -30,11 +35,14 @@
     "wof:belongsto":[
         420539487,
         102191575,
+        1108721801,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481
+        85688481,
+        85817131,
+        1108721803
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +57,27 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721801,
             "neighbourhood_id":420539487,
+            "region_id":85688481,
+            "venue_id":622530209
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721803,
+            "neighbourhood_id":85817131,
             "region_id":85688481,
             "venue_id":622530209
         }
     ],
     "wof:id":622530209,
-    "wof:lastmodified":1467081957,
+    "wof:lastmodified":1489035864,
     "wof:name":"Ppa Consruction Trailer",
-    "wof:parent_id":420539487,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 605616593,
   "type": "Feature",
   "properties": {
+    "addr:full":"4514 Princeton Ave Philadelphia PA 19135",
+    "addr:housenumber":"4514",
+    "addr:postcode":"19135",
+    "addr:street":"Princeton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.039912,40.029215,-75.039912,40.029215",
     "geom:latitude":40.029215,
     "geom:longitude":-75.039912,
@@ -24,18 +29,39 @@
     "sg:postcode":"19135",
     "sg:province":"PA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85851751,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1VfwchPW13wc4aYl2L0D3s_40.029215_-75.039912@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"b648251205c86409542bf3a29283348a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85851751,
+            "region_id":85688481,
+            "venue_id":605616593
+        }
+    ],
     "wof:id":605616593,
-    "wof:lastmodified":1467081607,
+    "wof:lastmodified":1489037249,
     "wof:name":"Anthony A Naccarato",
-    "wof:parent_id":-1,
+    "wof:parent_id":85851751,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

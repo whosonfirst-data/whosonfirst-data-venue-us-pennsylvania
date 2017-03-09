@@ -2,9 +2,14 @@
   "id": 622481901,
   "type": "Feature",
   "properties": {
+    "addr:full":"4600 City Ave Philadelphia PA 19131",
+    "addr:housenumber":"4600",
+    "addr:postcode":"19131",
+    "addr:street":"City Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.221603,40.000801,-75.221603,40.000801",
     "geom:latitude":40.000801,
     "geom:longitude":-75.221603,
@@ -28,6 +33,7 @@
     "wof:belongsto":[
         85859223,
         102191575,
+        1108721805,
         404483701,
         85633793,
         101718083,
@@ -47,13 +53,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721805,
             "neighbourhood_id":85859223,
             "region_id":85688481,
             "venue_id":622481901
         }
     ],
     "wof:id":622481901,
-    "wof:lastmodified":1467081922,
+    "wof:lastmodified":1489033111,
     "wof:name":"Taco Bell Number 4870",
     "wof:parent_id":85859223,
     "wof:placetype":"venue",

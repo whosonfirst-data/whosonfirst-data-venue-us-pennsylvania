@@ -2,9 +2,14 @@
   "id": 622472107,
   "type": "Feature",
   "properties": {
+    "addr:full":"2046 E Lehigh Ave Philadelphia PA 19125",
+    "addr:housenumber":"2046",
+    "addr:postcode":"19125",
+    "addr:street":"E Lehigh Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.122299,39.9869,-75.122299,39.9869",
     "geom:latitude":39.9869,
     "geom:longitude":-75.122299,
@@ -27,6 +32,7 @@
     "wof:belongsto":[
         420539503,
         102191575,
+        1108721813,
         404483701,
         85633793,
         101718083,
@@ -46,13 +52,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721813,
             "neighbourhood_id":420539503,
             "region_id":85688481,
             "venue_id":622472107
         }
     ],
     "wof:id":622472107,
-    "wof:lastmodified":1467081915,
+    "wof:lastmodified":1489035254,
     "wof:name":"All City Taxi",
     "wof:parent_id":420539503,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 589232895,
   "type": "Feature",
   "properties": {
+    "addr:full":"2139 65th Ave Philadelphia PA 19138",
+    "addr:housenumber":"2139",
+    "addr:postcode":"19138",
+    "addr:street":"65Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.157637,40.053297,-75.157637,40.053297",
     "geom:latitude":40.053297,
     "geom:longitude":-75.157637,
@@ -30,6 +35,7 @@
     "wof:belongsto":[
         85871397,
         102191575,
+        1108721809,
         404483701,
         85633793,
         101718083,
@@ -49,13 +55,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721809,
             "neighbourhood_id":85871397,
             "region_id":85688481,
             "venue_id":589232895
         }
     ],
     "wof:id":589232895,
-    "wof:lastmodified":1466788948,
+    "wof:lastmodified":1489034427,
     "wof:name":"Place",
     "wof:parent_id":85871397,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 622525665,
   "type": "Feature",
   "properties": {
+    "addr:full":"3161 Magee Ave 2nd Floor Philadelphia PA 19149",
+    "addr:housenumber":"3161;floor",
+    "addr:postcode":"19149",
+    "addr:street":"Magee Ave 2Nd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.056702,40.031713,-75.056702,40.031713",
     "geom:latitude":40.031713,
     "geom:longitude":-75.056702,
@@ -57,6 +62,7 @@
     "wof:belongsto":[
         85832953,
         102191575,
+        1108721807,
         404483701,
         85633793,
         101718083,
@@ -76,13 +82,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721807,
             "neighbourhood_id":85832953,
             "region_id":85688481,
             "venue_id":622525665
         }
     ],
     "wof:id":622525665,
-    "wof:lastmodified":1467081954,
+    "wof:lastmodified":1489036221,
     "wof:name":"Orchid 3D",
     "wof:parent_id":85832953,
     "wof:placetype":"venue",

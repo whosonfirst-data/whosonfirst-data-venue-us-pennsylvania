@@ -2,9 +2,14 @@
   "id": 622237735,
   "type": "Feature",
   "properties": {
+    "addr:full":"7519 Torresdale Ave Philadelphia PA 19136",
+    "addr:housenumber":"7519",
+    "addr:postcode":"19136",
+    "addr:street":"Torresdale Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.030327,40.032661,-75.030327,40.032661",
     "geom:latitude":40.032661,
     "geom:longitude":-75.030327,
@@ -27,18 +32,39 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7HAMSDhz5XIf7U9IRxcjBH_40.032916_-75.029761@1293134755"
     },
     "wof:country":"US",
     "wof:geomhash":"7f6d62057a6f6917f922c300e167a379",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":622237735
+        }
+    ],
     "wof:id":622237735,
-    "wof:lastmodified":1466788478,
+    "wof:lastmodified":1489036121,
     "wof:name":"Ashok Barot Dds Pc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

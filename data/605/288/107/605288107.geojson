@@ -2,9 +2,14 @@
   "id": 605288107,
   "type": "Feature",
   "properties": {
+    "addr:full":"3737 Main St Philadelphia PA 19127",
+    "addr:housenumber":"3737",
+    "addr:postcode":"19127",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.212349,40.016777,-75.212349,40.016777",
     "geom:latitude":40.016777,
     "geom:longitude":-75.212349,
@@ -32,6 +37,7 @@
     "wof:belongsto":[
         85858403,
         102191575,
+        1108721809,
         404483701,
         85633793,
         101718083,
@@ -51,13 +57,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721809,
             "neighbourhood_id":85858403,
             "region_id":85688481,
             "venue_id":605288107
         }
     ],
     "wof:id":605288107,
-    "wof:lastmodified":1466789889,
+    "wof:lastmodified":1489034428,
     "wof:name":"John Wilde & Brother Inc",
     "wof:parent_id":85858403,
     "wof:placetype":"venue",

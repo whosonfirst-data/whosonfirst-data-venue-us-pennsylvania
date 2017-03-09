@@ -2,9 +2,14 @@
   "id": 622390703,
   "type": "Feature",
   "properties": {
+    "addr:full":"Germantown & Erie Philadelphia PA 19102",
+    "addr:housenumber":"",
+    "addr:postcode":"19102",
+    "addr:street":"",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.150792,40.009187,-75.150792,40.009187",
     "geom:latitude":40.009187,
     "geom:longitude":-75.150792,
@@ -29,14 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85882379,
+        1108723477,
         102191575,
+        1108721811,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        420558573
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,25 +56,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85882379,
-            "region_id":85688481,
-            "venue_id":622390703
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
-            "neighbourhood_id":420558573,
+            "macrohood_id":1108721811,
+            "neighbourhood_id":1108723477,
             "region_id":85688481,
             "venue_id":622390703
         }
     ],
     "wof:id":622390703,
-    "wof:lastmodified":1467081855,
+    "wof:lastmodified":1489038797,
     "wof:name":"Coccitti's Robert Newstand",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108723477,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

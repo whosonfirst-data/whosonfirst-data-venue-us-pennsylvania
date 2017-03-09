@@ -2,9 +2,14 @@
   "id": 622010285,
   "type": "Feature",
   "properties": {
+    "addr:full":"1300 E Tulpehocken St Philadelphia PA 19138",
+    "addr:housenumber":"1300",
+    "addr:postcode":"19138",
+    "addr:street":"E Tulpehocken St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.163173,40.058233,-75.163173,40.058233",
     "geom:latitude":40.058233,
     "geom:longitude":-75.163173,
@@ -40,11 +45,13 @@
     "wof:belongsto":[
         85871459,
         102191575,
+        1108721809,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481
+        85688481,
+        85856037
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,15 +66,27 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721809,
             "neighbourhood_id":85871459,
+            "region_id":85688481,
+            "venue_id":622010285
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721809,
+            "neighbourhood_id":85856037,
             "region_id":85688481,
             "venue_id":622010285
         }
     ],
     "wof:id":622010285,
-    "wof:lastmodified":1466777126,
+    "wof:lastmodified":1489037458,
     "wof:name":"Mt Airy Stenton Family Manor",
-    "wof:parent_id":85871459,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

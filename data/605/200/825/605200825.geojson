@@ -2,9 +2,14 @@
   "id": 605200825,
   "type": "Feature",
   "properties": {
+    "addr:full":"1501 S 7th St Philadelphia PA 19147",
+    "addr:housenumber":"1501",
+    "addr:postcode":"19147",
+    "addr:street":"S 7Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.156656,39.929791,-75.156656,39.929791",
     "geom:latitude":39.929791,
     "geom:longitude":-75.156656,
@@ -25,13 +30,15 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85893333,
+        85893365,
         102191575,
+        1108721801,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481
+        85688481,
+        85893333
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +53,27 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721801,
+            "neighbourhood_id":85893365,
+            "region_id":85688481,
+            "venue_id":605200825
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721801,
             "neighbourhood_id":85893333,
             "region_id":85688481,
             "venue_id":605200825
         }
     ],
     "wof:id":605200825,
-    "wof:lastmodified":1466787474,
+    "wof:lastmodified":1489038109,
     "wof:name":"Kirkbride School",
-    "wof:parent_id":85893333,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

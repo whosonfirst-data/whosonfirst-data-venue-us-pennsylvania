@@ -2,9 +2,14 @@
   "id": 622098733,
   "type": "Feature",
   "properties": {
+    "addr:full":"4151 Passmore St Philadelphia PA 19135",
+    "addr:housenumber":"4151",
+    "addr:postcode":"19135",
+    "addr:street":"Passmore St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.055201,40.027526,-75.055201,40.027526",
     "geom:latitude":40.027526,
     "geom:longitude":-75.055201,
@@ -28,18 +33,39 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85851751,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5DcLPyOw4oLSOAQK41nuJW_40.027526_-75.055201@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"28677a69365a4f414d9297576e3dad69",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85851751,
+            "region_id":85688481,
+            "venue_id":622098733
+        }
+    ],
     "wof:id":622098733,
-    "wof:lastmodified":1466782977,
+    "wof:lastmodified":1489037268,
     "wof:name":"James Mc Laughlin",
-    "wof:parent_id":-1,
+    "wof:parent_id":85851751,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 622514501,
   "type": "Feature",
   "properties": {
+    "addr:full":"2900 Grays Ferry Avenue Philadelphia PA 19146",
+    "addr:housenumber":"2900",
+    "addr:postcode":"19146",
+    "addr:street":"Grays Ferry Avenue",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.191677,39.93906,-75.191677,39.93906",
     "geom:latitude":39.93906,
     "geom:longitude":-75.191677,
@@ -29,14 +34,14 @@
     "sg:website":"www.phillypaws.org/Spay-Neuter-W...",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871435,
+        85822663,
         102191575,
+        1108721801,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85822663
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,25 +56,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85871435,
-            "region_id":85688481,
-            "venue_id":622514501
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721801,
             "neighbourhood_id":85822663,
             "region_id":85688481,
             "venue_id":622514501
         }
     ],
     "wof:id":622514501,
-    "wof:lastmodified":1467081946,
+    "wof:lastmodified":1489032761,
     "wof:name":"PAWS Spay/Neuter & Wellness Clinic",
-    "wof:parent_id":-1,
+    "wof:parent_id":85822663,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

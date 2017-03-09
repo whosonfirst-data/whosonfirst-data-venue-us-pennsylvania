@@ -2,9 +2,14 @@
   "id": 605197457,
   "type": "Feature",
   "properties": {
+    "addr:full":"3150 N Mascher St Philadelphia PA 19133",
+    "addr:housenumber":"3150",
+    "addr:postcode":"19133",
+    "addr:street":"N Mascher St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.13136,39.99827,-75.13136,39.99827",
     "geom:latitude":39.99827,
     "geom:longitude":-75.13136,
@@ -25,14 +30,14 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85810935,
+        1108723479,
         102191575,
+        1108721813,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        420559167
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,25 +52,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85810935,
-            "region_id":85688481,
-            "venue_id":605197457
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
-            "neighbourhood_id":420559167,
+            "macrohood_id":1108721813,
+            "neighbourhood_id":1108723479,
             "region_id":85688481,
             "venue_id":605197457
         }
     ],
     "wof:id":605197457,
-    "wof:lastmodified":1466787560,
+    "wof:lastmodified":1489038835,
     "wof:name":"Omne Staffing Services Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108723479,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

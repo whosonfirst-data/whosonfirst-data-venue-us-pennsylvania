@@ -2,9 +2,14 @@
   "id": 605091175,
   "type": "Feature",
   "properties": {
+    "addr:full":"4019 Hellerman St Philadelphia PA 19135",
+    "addr:housenumber":"4019",
+    "addr:postcode":"19135",
+    "addr:street":"Hellerman St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.055641,40.029008,-75.055641,40.029008",
     "geom:latitude":40.029008,
     "geom:longitude":-75.055641,
@@ -24,18 +29,39 @@
     "sg:postcode":"19135",
     "sg:province":"PA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85851751,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Eiduus8eGTWgLf6vanOaM_40.029008_-75.055641@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"9ee122ca6fa6d1eb5789a9884027e047",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85851751,
+            "region_id":85688481,
+            "venue_id":605091175
+        }
+    ],
     "wof:id":605091175,
-    "wof:lastmodified":1466781584,
+    "wof:lastmodified":1489037258,
     "wof:name":"TP Devine Rentals",
-    "wof:parent_id":-1,
+    "wof:parent_id":85851751,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

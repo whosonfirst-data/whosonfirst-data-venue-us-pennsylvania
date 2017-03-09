@@ -2,9 +2,14 @@
   "id": 622514765,
   "type": "Feature",
   "properties": {
+    "addr:full":"1504 S Broad St Apt 1F Philadelphia PA 19146",
+    "addr:housenumber":"1504;1f",
+    "addr:postcode":"19146",
+    "addr:street":"S Broad St Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.168101,39.931651,-75.168101,39.931651",
     "geom:latitude":39.931651,
     "geom:longitude":-75.168101,
@@ -50,6 +55,7 @@
     "wof:belongsto":[
         85842525,
         102191575,
+        1108721801,
         404483701,
         85633793,
         101718083,
@@ -69,13 +75,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721801,
             "neighbourhood_id":85842525,
             "region_id":85688481,
             "venue_id":622514765
         }
     ],
     "wof:id":622514765,
-    "wof:lastmodified":1467081946,
+    "wof:lastmodified":1489032551,
     "wof:name":"Mfp Fire Protection Co., Inc",
     "wof:parent_id":85842525,
     "wof:placetype":"venue",

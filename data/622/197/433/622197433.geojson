@@ -2,9 +2,14 @@
   "id": 622197433,
   "type": "Feature",
   "properties": {
+    "addr:full":"3650 S 3rd St Philadelphia PA 19148",
+    "addr:housenumber":"3650",
+    "addr:postcode":"19148",
+    "addr:street":"S 3Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.155197,39.9016,-75.155197,39.9016",
     "geom:latitude":39.9016,
     "geom:longitude":-75.155197,
@@ -29,14 +34,14 @@
     "sg:website":"www.buonobeef.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85893341,
+        85893371,
         102191575,
+        1108721801,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        420559187
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,25 +56,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85893341,
-            "region_id":85688481,
-            "venue_id":622197433
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
-            "neighbourhood_id":420559187,
+            "macrohood_id":1108721801,
+            "neighbourhood_id":85893371,
             "region_id":85688481,
             "venue_id":622197433
         }
     ],
     "wof:id":622197433,
-    "wof:lastmodified":1466787469,
+    "wof:lastmodified":1489038206,
     "wof:name":"Buono M Beef Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893371,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

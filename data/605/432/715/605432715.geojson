@@ -2,9 +2,14 @@
   "id": 605432715,
   "type": "Feature",
   "properties": {
+    "addr:full":"7220 Ridge Ave Philadelphia PA 19128",
+    "addr:housenumber":"7220",
+    "addr:postcode":"19128",
+    "addr:street":"Ridge Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.23204,40.045328,-75.23204,40.045328",
     "geom:latitude":40.045328,
     "geom:longitude":-75.23204,
@@ -27,18 +32,63 @@
         "director"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420539509,
+        102191575,
+        1108721809,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481,
+        85853279,
+        420539467
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2GyQVpnGYLiv7QTzescW1G_40.045328_-75.232040@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"ffe8a5a3ff7e9f2af7c0ff794b117055",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721809,
+            "neighbourhood_id":420539509,
+            "region_id":85688481,
+            "venue_id":605432715
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721809,
+            "neighbourhood_id":85853279,
+            "region_id":85688481,
+            "venue_id":605432715
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721809,
+            "neighbourhood_id":420539467,
+            "region_id":85688481,
+            "venue_id":605432715
+        }
+    ],
     "wof:id":605432715,
-    "wof:lastmodified":1467081492,
+    "wof:lastmodified":1489037367,
     "wof:name":"Fyfe & Miller Funeral Records",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

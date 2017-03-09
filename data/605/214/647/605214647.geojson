@@ -2,9 +2,14 @@
   "id": 605214647,
   "type": "Feature",
   "properties": {
+    "addr:full":"633 Kenilworth St Philadelphia PA 19147",
+    "addr:housenumber":"633",
+    "addr:postcode":"19147",
+    "addr:street":"Kenilworth St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.153613,39.940977,-75.153613,39.940977",
     "geom:latitude":39.940977,
     "geom:longitude":-75.153613,
@@ -25,14 +30,14 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85893319,
+        85805405,
         102191575,
+        1108721801,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85805405
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,25 +52,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85893319,
-            "region_id":85688481,
-            "venue_id":605214647
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721801,
             "neighbourhood_id":85805405,
             "region_id":85688481,
             "venue_id":605214647
         }
     ],
     "wof:id":605214647,
-    "wof:lastmodified":1466787881,
+    "wof:lastmodified":1489032628,
     "wof:name":"Frontier Adjusters Phila Ch",
-    "wof:parent_id":-1,
+    "wof:parent_id":85805405,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

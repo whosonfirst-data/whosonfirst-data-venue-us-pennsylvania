@@ -2,9 +2,14 @@
   "id": 622127491,
   "type": "Feature",
   "properties": {
+    "addr:full":"8201 Craig St Philadelphia PA 19136",
+    "addr:housenumber":"8201",
+    "addr:postcode":"19136",
+    "addr:street":"Craig St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.022358,40.044758,-75.022358,40.044758",
     "geom:latitude":40.044758,
     "geom:longitude":-75.022358,
@@ -29,18 +34,39 @@
         "osteopathic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85826057,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6nlsNOOf2NY5GYdUpAd4l7_40.044758_-75.022358@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"5645ca61c7906919f0e3b6313199ba96",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85826057,
+            "region_id":85688481,
+            "venue_id":622127491
+        }
+    ],
     "wof:id":622127491,
-    "wof:lastmodified":1466784459,
+    "wof:lastmodified":1489036106,
     "wof:name":"Angelo M Di Bello MD",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

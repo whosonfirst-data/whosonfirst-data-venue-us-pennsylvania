@@ -2,9 +2,14 @@
   "id": 622113095,
   "type": "Feature",
   "properties": {
+    "addr:full":"9681 Pine Rd Philadelphia PA 19115",
+    "addr:housenumber":"9681",
+    "addr:postcode":"19115",
+    "addr:street":"Pine Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.057067,40.106632,-75.057067,40.106632",
     "geom:latitude":40.106632,
     "geom:longitude":-75.057067,
@@ -25,13 +30,17 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85808641,
+        420539279,
         102191575,
-        404483701,
+        404485573,
         85633793,
+        102081355,
+        85688481,
+        85808641,
+        1108721807,
+        404483701,
         101718083,
-        102081353,
-        85688481
+        102081353
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +52,28 @@
         {
             "continent_id":102191575,
             "country_id":85633793,
+            "county_id":102081355,
+            "localadmin_id":404485573,
+            "neighbourhood_id":420539279,
+            "region_id":85688481,
+            "venue_id":622113095
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721807,
             "neighbourhood_id":85808641,
             "region_id":85688481,
             "venue_id":622113095
         }
     ],
     "wof:id":622113095,
-    "wof:lastmodified":1466783580,
+    "wof:lastmodified":1489035700,
     "wof:name":"National Prescription Adm Inc",
-    "wof:parent_id":85808641,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

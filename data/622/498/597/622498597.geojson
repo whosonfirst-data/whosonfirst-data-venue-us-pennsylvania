@@ -2,9 +2,14 @@
   "id": 622498597,
   "type": "Feature",
   "properties": {
+    "addr:full":"3719 Old York Rd Philadelphia PA 19140",
+    "addr:housenumber":"3719",
+    "addr:postcode":"19140",
+    "addr:street":"Old York Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.147697,40.0093,-75.147697,40.0093",
     "geom:latitude":40.0093,
     "geom:longitude":-75.147697,
@@ -43,14 +48,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85882379,
+        420539527,
         102191575,
+        1108721811,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        420539527
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,25 +70,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85882379,
-            "region_id":85688481,
-            "venue_id":622498597
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721811,
             "neighbourhood_id":420539527,
             "region_id":85688481,
             "venue_id":622498597
         }
     ],
     "wof:id":622498597,
-    "wof:lastmodified":1467081934,
+    "wof:lastmodified":1489035174,
     "wof:name":"King of Rims",
-    "wof:parent_id":-1,
+    "wof:parent_id":420539527,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

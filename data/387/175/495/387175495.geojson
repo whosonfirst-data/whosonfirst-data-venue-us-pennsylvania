@@ -2,9 +2,14 @@
   "id": 387175495,
   "type": "Feature",
   "properties": {
+    "addr:full":"5 Avenue & New Kensington PA 15068",
+    "addr:housenumber":"5",
+    "addr:postcode":"15068",
+    "addr:street":"Avenue &",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.147589,39.95561,-75.147589,39.95561",
     "geom:latitude":39.95561,
     "geom:longitude":-75.147589,
@@ -26,12 +31,14 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85839299,
+        102191575,
+        1108721797,
+        404483701,
         85633793,
         101718083,
         102081353,
-        85893355,
-        85839299
+        85688481
     ],
     "wof:brand_id":420574625,
     "wof:breaches":[],
@@ -42,28 +49,21 @@
     "wof:geomhash":"0ef4dc3a92ca885e4f57b66e85f6293e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081353,
+            "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85893355,
-            "region_id":85688481,
-            "venue_id":387175495
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102081353,
-            "locality_id":101718083,
+            "macrohood_id":1108721797,
             "neighbourhood_id":85839299,
             "region_id":85688481,
             "venue_id":387175495
         }
     ],
     "wof:id":387175495,
-    "wof:lastmodified":1466776865,
+    "wof:lastmodified":1489031190,
     "wof:name":"Citizens Bank",
-    "wof:parent_id":-1,
+    "wof:parent_id":85839299,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

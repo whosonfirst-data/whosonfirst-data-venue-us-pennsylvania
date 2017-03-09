@@ -2,9 +2,14 @@
   "id": 605153593,
   "type": "Feature",
   "properties": {
+    "addr:full":"614 S Clarion St Philadelphia PA 19147",
+    "addr:housenumber":"614",
+    "addr:postcode":"19147",
+    "addr:street":"S Clarion St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.164131,39.943479,-75.164131,39.943479",
     "geom:latitude":39.943479,
     "geom:longitude":-75.164131,
@@ -27,12 +32,14 @@
     "wof:belongsto":[
         85824309,
         102191575,
+        1108721801,
         404483701,
         85633793,
         101718083,
         102081353,
         85688481,
-        85867161
+        85871431,
+        1108721797
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,6 +54,7 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721801,
             "neighbourhood_id":85824309,
             "region_id":85688481,
             "venue_id":605153593
@@ -57,15 +65,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85867161,
+            "macrohood_id":1108721797,
+            "neighbourhood_id":85871431,
             "region_id":85688481,
             "venue_id":605153593
         }
     ],
     "wof:id":605153593,
-    "wof:lastmodified":1466785266,
+    "wof:lastmodified":1489036073,
     "wof:name":"Computer Business Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 622528399,
   "type": "Feature",
   "properties": {
+    "addr:full":"427 N. 61st Street Philadelphia PA 19151",
+    "addr:housenumber":"427",
+    "addr:postcode":"19151",
+    "addr:street":"N. 61St Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.241293,39.969064,-75.241293,39.969064",
     "geom:latitude":39.969064,
     "geom:longitude":-75.241293,
@@ -46,6 +51,7 @@
     "wof:belongsto":[
         420539515,
         102191575,
+        1108721805,
         404483701,
         85633793,
         101718083,
@@ -65,13 +71,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721805,
             "neighbourhood_id":420539515,
             "region_id":85688481,
             "venue_id":622528399
         }
     ],
     "wof:id":622528399,
-    "wof:lastmodified":1467081956,
+    "wof:lastmodified":1489032917,
     "wof:name":"Guy's Auto Parts",
     "wof:parent_id":420539515,
     "wof:placetype":"venue",

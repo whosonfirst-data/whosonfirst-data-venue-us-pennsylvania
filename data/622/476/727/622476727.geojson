@@ -2,9 +2,14 @@
   "id": 622476727,
   "type": "Feature",
   "properties": {
+    "addr:full":"6804 Ridge Ave Philadelphia PA 19128",
+    "addr:housenumber":"6804",
+    "addr:postcode":"19128",
+    "addr:street":"Ridge Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.226253,40.042392,-75.226253,40.042392",
     "geom:latitude":40.042392,
     "geom:longitude":-75.226253,
@@ -32,11 +37,13 @@
     "wof:belongsto":[
         420539479,
         102191575,
+        1108721809,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481
+        85688481,
+        85853279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +58,27 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721809,
             "neighbourhood_id":420539479,
+            "region_id":85688481,
+            "venue_id":622476727
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721809,
+            "neighbourhood_id":85853279,
             "region_id":85688481,
             "venue_id":622476727
         }
     ],
     "wof:id":622476727,
-    "wof:lastmodified":1467081918,
+    "wof:lastmodified":1489037374,
     "wof:name":"Ditullio Cleaners",
-    "wof:parent_id":420539479,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

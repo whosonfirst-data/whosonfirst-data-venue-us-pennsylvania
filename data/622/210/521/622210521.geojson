@@ -2,9 +2,14 @@
   "id": 622210521,
   "type": "Feature",
   "properties": {
+    "addr:full":"5001 Linden Ave Philadelphia PA 19114",
+    "addr:housenumber":"5001",
+    "addr:postcode":"19114",
+    "addr:street":"Linden Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.994743,40.045841,-74.994743,40.045841",
     "geom:latitude":40.045841,
     "geom:longitude":-74.994743,
@@ -32,6 +37,7 @@
     "wof:belongsto":[
         85852367,
         102191575,
+        1108721807,
         404483701,
         85633793,
         101718083,
@@ -51,13 +57,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721807,
             "neighbourhood_id":85852367,
             "region_id":85688481,
             "venue_id":622210521
         }
     ],
     "wof:id":622210521,
-    "wof:lastmodified":1466788042,
+    "wof:lastmodified":1489037286,
     "wof:name":"Linden Pub",
     "wof:parent_id":85852367,
     "wof:placetype":"venue",

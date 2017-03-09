@@ -2,9 +2,14 @@
   "id": 605308791,
   "type": "Feature",
   "properties": {
+    "addr:full":"5023 Knorr St Philadelphia PA 19135",
+    "addr:housenumber":"",
+    "addr:postcode":"5023;19135",
+    "addr:street":"Knorr St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.040527,40.020964,-75.040527,40.020964",
     "geom:latitude":40.020964,
     "geom:longitude":-75.040527,
@@ -24,18 +29,39 @@
     "sg:postcode":"19135",
     "sg:province":"PA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85851751,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_70fBR4BLrGkSqWvfX07206_40.020964_-75.040527@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"2ff22050bdb2f0056485074932e568ee",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85851751,
+            "region_id":85688481,
+            "venue_id":605308791
+        }
+    ],
     "wof:id":605308791,
-    "wof:lastmodified":1466790531,
+    "wof:lastmodified":1489037256,
     "wof:name":"Liberty Floor Coverings Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85851751,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

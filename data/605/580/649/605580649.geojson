@@ -2,9 +2,14 @@
   "id": 605580649,
   "type": "Feature",
   "properties": {
+    "addr:full":"2057 E Chelten Ave Philadelphia PA 19138",
+    "addr:housenumber":"2057",
+    "addr:postcode":"19138",
+    "addr:street":"E Chelten Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.154447,40.051877,-75.154447,40.051877",
     "geom:latitude":40.051877,
     "geom:longitude":-75.154447,
@@ -28,14 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819363,
+        85871397,
         102191575,
+        1108721809,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85871397
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,25 +55,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85819363,
-            "region_id":85688481,
-            "venue_id":605580649
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721809,
             "neighbourhood_id":85871397,
             "region_id":85688481,
             "venue_id":605580649
         }
     ],
     "wof:id":605580649,
-    "wof:lastmodified":1467081585,
+    "wof:lastmodified":1489034617,
     "wof:name":"Ena International Cuisine",
-    "wof:parent_id":-1,
+    "wof:parent_id":85871397,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

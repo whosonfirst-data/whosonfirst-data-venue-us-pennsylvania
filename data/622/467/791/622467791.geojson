@@ -2,9 +2,14 @@
   "id": 622467791,
   "type": "Feature",
   "properties": {
+    "addr:full":"400 Spring Garden St Philadelphia PA 19123",
+    "addr:housenumber":"400",
+    "addr:postcode":"19123",
+    "addr:street":"Spring Garden St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.144998,39.960966,-75.144998,39.960966",
     "geom:latitude":39.960966,
     "geom:longitude":-75.144998,
@@ -27,6 +32,7 @@
     "wof:belongsto":[
         85838255,
         102191575,
+        1108721811,
         404483701,
         85633793,
         101718083,
@@ -46,13 +52,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721811,
             "neighbourhood_id":85838255,
             "region_id":85688481,
             "venue_id":622467791
         }
     ],
     "wof:id":622467791,
-    "wof:lastmodified":1467081912,
+    "wof:lastmodified":1489034987,
     "wof:name":"Spring Garden Market",
     "wof:parent_id":85838255,
     "wof:placetype":"venue",

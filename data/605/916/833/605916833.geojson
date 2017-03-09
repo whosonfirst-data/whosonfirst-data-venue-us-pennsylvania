@@ -2,9 +2,14 @@
   "id": 605916833,
   "type": "Feature",
   "properties": {
+    "addr:full":"125 N 22nd St Philadelphia PA 19103",
+    "addr:housenumber":"125",
+    "addr:postcode":"19103",
+    "addr:street":"N 22Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.176071,39.956251,-75.176071,39.956251",
     "geom:latitude":39.956251,
     "geom:longitude":-75.176071,
@@ -25,14 +30,14 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85866793,
+        85871427,
         102191575,
+        1108721797,
         404483701,
         85633793,
         101718083,
         102081353,
-        85688481,
-        85871427
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,25 +52,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85866793,
-            "region_id":85688481,
-            "venue_id":605916833
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081353,
-            "localadmin_id":404483701,
-            "locality_id":101718083,
+            "macrohood_id":1108721797,
             "neighbourhood_id":85871427,
             "region_id":85688481,
             "venue_id":605916833
         }
     ],
     "wof:id":605916833,
-    "wof:lastmodified":1467081795,
+    "wof:lastmodified":1489037640,
     "wof:name":"Iyengar Yoga Studio B K S",
-    "wof:parent_id":-1,
+    "wof:parent_id":85871427,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 622197023,
   "type": "Feature",
   "properties": {
+    "addr:full":"7222 Torresdale Ave Philadelphia PA 19135",
+    "addr:housenumber":"7222",
+    "addr:postcode":"19135",
+    "addr:street":"Torresdale Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.036035,40.029697,-75.036035,40.029697",
     "geom:latitude":40.029697,
     "geom:longitude":-75.036035,
@@ -27,18 +32,39 @@
         "newspaper"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85851751,
+        102191575,
+        1108721807,
+        404483701,
+        85633793,
+        101718083,
+        102081353,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3UImY1s2iBmRofLs2gbbkh_40.030005_-75.035470@1293134755"
     },
     "wof:country":"US",
     "wof:geomhash":"79d785daefeca4e7c04e8bfcff4e73e9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081353,
+            "localadmin_id":404483701,
+            "locality_id":101718083,
+            "macrohood_id":1108721807,
+            "neighbourhood_id":85851751,
+            "region_id":85688481,
+            "venue_id":622197023
+        }
+    ],
     "wof:id":622197023,
-    "wof:lastmodified":1466787593,
+    "wof:lastmodified":1489037245,
     "wof:name":"Appolonia",
-    "wof:parent_id":-1,
+    "wof:parent_id":85851751,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

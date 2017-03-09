@@ -2,9 +2,14 @@
   "id": 622531357,
   "type": "Feature",
   "properties": {
+    "addr:full":"12333 Academy Rd Philadelphia PA 19154",
+    "addr:housenumber":"12333",
+    "addr:postcode":"19154",
+    "addr:street":"Academy Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.97646,40.09615,-74.97646,40.09615",
     "geom:latitude":40.09615,
     "geom:longitude":-74.97646,
@@ -44,6 +49,7 @@
     "wof:belongsto":[
         85840807,
         102191575,
+        1108721807,
         404483701,
         85633793,
         101718083,
@@ -63,13 +69,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721807,
             "neighbourhood_id":85840807,
             "region_id":85688481,
             "venue_id":622531357
         }
     ],
     "wof:id":622531357,
-    "wof:lastmodified":1467081958,
+    "wof:lastmodified":1489036538,
     "wof:name":"Hong Kong",
     "wof:parent_id":85840807,
     "wof:placetype":"venue",

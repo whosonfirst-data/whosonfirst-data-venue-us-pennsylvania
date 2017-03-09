@@ -2,9 +2,14 @@
   "id": 622459085,
   "type": "Feature",
   "properties": {
+    "addr:full":"7200 Devon St Philadelphia PA 19119",
+    "addr:housenumber":"7200",
+    "addr:postcode":"19119",
+    "addr:street":"Devon St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.18779,40.063259,-75.18779,40.063259",
     "geom:latitude":40.063259,
     "geom:longitude":-75.18779,
@@ -25,14 +30,15 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85835449,
+        85893335,
         102191575,
+        1108721809,
         404483701,
         85633793,
         101718083,
         102081353,
         85688481,
-        85893335
+        85835449
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +53,8 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85835449,
+            "macrohood_id":1108721809,
+            "neighbourhood_id":85893335,
             "region_id":85688481,
             "venue_id":622459085
         },
@@ -57,15 +64,16 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
-            "neighbourhood_id":85893335,
+            "macrohood_id":1108721809,
+            "neighbourhood_id":85835449,
             "region_id":85688481,
             "venue_id":622459085
         }
     ],
     "wof:id":622459085,
-    "wof:lastmodified":1467081906,
+    "wof:lastmodified":1489038123,
     "wof:name":"Mt Airy Deli & Mini Market",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],
