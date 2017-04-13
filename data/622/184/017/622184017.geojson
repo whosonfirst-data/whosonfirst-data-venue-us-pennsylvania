@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.174797,40.497097,-75.174797,40.497097",
     "geom:latitude":40.497097,
     "geom:longitude":-75.174797,
@@ -29,7 +30,8 @@
         85688481,
         85633793,
         85824115,
-        102080987
+        102080987,
+        85808329
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,12 +46,19 @@
             "neighbourhood_id":85824115,
             "region_id":85688481,
             "venue_id":622184017
+        },
+        {
+            "country_id":85633793,
+            "county_id":102080987,
+            "neighbourhood_id":85808329,
+            "region_id":85688481,
+            "venue_id":622184017
         }
     ],
     "wof:id":622184017,
-    "wof:lastmodified":1472643033,
+    "wof:lastmodified":1492026365,
     "wof:name":"Liberty Propane",
-    "wof:parent_id":85824115,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

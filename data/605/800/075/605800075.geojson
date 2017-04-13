@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.210884,40.390421,-75.210884,40.390421",
     "geom:latitude":40.390421,
     "geom:longitude":-75.210884,
@@ -37,8 +38,9 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        85828867,
-        102080987
+        85868579,
+        102080987,
+        85828867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +52,22 @@
         {
             "country_id":85633793,
             "county_id":102080987,
+            "neighbourhood_id":85868579,
+            "region_id":85688481,
+            "venue_id":605800075
+        },
+        {
+            "country_id":85633793,
+            "county_id":102080987,
             "neighbourhood_id":85828867,
             "region_id":85688481,
             "venue_id":605800075
         }
     ],
     "wof:id":605800075,
-    "wof:lastmodified":1472643910,
+    "wof:lastmodified":1492030999,
     "wof:name":"Lifepath Inc",
-    "wof:parent_id":85828867,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

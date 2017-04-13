@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.1872,40.495643,-75.1872,40.495643",
     "geom:latitude":40.495643,
     "geom:longitude":-75.1872,
@@ -32,7 +33,8 @@
         85688481,
         85633793,
         85824115,
-        102080987
+        102080987,
+        85808329
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,12 +49,19 @@
             "neighbourhood_id":85824115,
             "region_id":85688481,
             "venue_id":621846057
+        },
+        {
+            "country_id":85633793,
+            "county_id":102080987,
+            "neighbourhood_id":85808329,
+            "region_id":85688481,
+            "venue_id":621846057
         }
     ],
     "wof:id":621846057,
-    "wof:lastmodified":1472642214,
+    "wof:lastmodified":1492028065,
     "wof:name":"Upper Bucks Chiropractic Ctr",
-    "wof:parent_id":85824115,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

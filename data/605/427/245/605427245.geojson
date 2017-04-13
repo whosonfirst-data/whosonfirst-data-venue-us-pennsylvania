@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.975816,40.150696,-74.975816,40.150696",
     "geom:latitude":40.150696,
     "geom:longitude":-74.975816,
@@ -35,10 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85848673,
+        102191575,
+        404484737,
         85633793,
-        85836515,
-        102080987
+        101719149,
+        102080987,
+        85688481,
+        85836515
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,6 +53,16 @@
     "wof:geomhash":"472093a31f6068df7de7871c85f40752",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080987,
+            "localadmin_id":404484737,
+            "locality_id":101719149,
+            "neighbourhood_id":85848673,
+            "region_id":85688481,
+            "venue_id":605427245
+        },
+        {
             "country_id":85633793,
             "county_id":102080987,
             "neighbourhood_id":85836515,
@@ -56,9 +71,9 @@
         }
     ],
     "wof:id":605427245,
-    "wof:lastmodified":1472643382,
+    "wof:lastmodified":1492031016,
     "wof:name":"Hamtronics",
-    "wof:parent_id":85836515,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

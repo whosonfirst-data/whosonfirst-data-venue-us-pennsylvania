@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.033009,40.199618,-75.033009,40.199618",
     "geom:latitude":40.199618,
     "geom:longitude":-75.033009,
@@ -35,8 +36,9 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        85813705,
-        102080987
+        85823191,
+        102080987,
+        85813705
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +50,22 @@
         {
             "country_id":85633793,
             "county_id":102080987,
+            "neighbourhood_id":85823191,
+            "region_id":85688481,
+            "venue_id":605062277
+        },
+        {
+            "country_id":85633793,
+            "county_id":102080987,
             "neighbourhood_id":85813705,
             "region_id":85688481,
             "venue_id":605062277
         }
     ],
     "wof:id":605062277,
-    "wof:lastmodified":1472642250,
+    "wof:lastmodified":1492024035,
     "wof:name":"Corcoran Marketing Inc",
-    "wof:parent_id":85813705,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

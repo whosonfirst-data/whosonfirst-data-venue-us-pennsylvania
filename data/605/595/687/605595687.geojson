@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.889481,40.10748,-74.889481,40.10748",
     "geom:latitude":40.10748,
     "geom:longitude":-74.889481,
@@ -43,16 +44,25 @@
         "environmental"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420536883
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2m09WgpQ2mxMAQtaOCXYf5_40.107480_-74.889481@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"2e246b6905555fa1b464a946692c22ad",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420536883,
+            "venue_id":605595687
+        }
+    ],
     "wof:id":605595687,
-    "wof:lastmodified":1472643649,
+    "wof:lastmodified":1492057608,
     "wof:name":"Miller Analytical Svc",
     "wof:parent_id":420536883,
     "wof:placetype":"venue",

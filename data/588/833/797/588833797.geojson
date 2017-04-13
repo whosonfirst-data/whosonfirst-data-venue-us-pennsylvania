@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.031955,40.518707,-80.031955,40.518707",
     "geom:latitude":40.518707,
     "geom:longitude":-80.031955,
@@ -32,10 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
-        85633793,
         85827181,
-        102080887
+        102191575,
+        404482523,
+        85633793,
+        101718805,
+        102080887,
+        85688481,
+        85841395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +50,27 @@
     "wof:geomhash":"956c3053a77bbb9e670863d2f4e6819d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
+            "locality_id":101718805,
             "neighbourhood_id":85827181,
+            "region_id":85688481,
+            "venue_id":588833797
+        },
+        {
+            "country_id":85633793,
+            "county_id":102080887,
+            "neighbourhood_id":85841395,
             "region_id":85688481,
             "venue_id":588833797
         }
     ],
     "wof:id":588833797,
-    "wof:lastmodified":1472642480,
+    "wof:lastmodified":1491885698,
     "wof:name":"Di Pietro Ristorante",
-    "wof:parent_id":85827181,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

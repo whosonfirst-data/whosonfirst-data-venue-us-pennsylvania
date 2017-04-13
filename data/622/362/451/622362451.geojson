@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.154114,40.163521,-75.154114,40.163521",
     "geom:latitude":40.163521,
     "geom:longitude":-75.154114,
@@ -34,11 +35,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85852123,
+        102191575,
+        404485465,
         85633793,
         101719587,
         102081355,
-        85852123
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,8 +51,10 @@
     "wof:geomhash":"dd0d662b4bc91fee9e517de888bec74d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081355,
+            "localadmin_id":404485465,
             "locality_id":101719587,
             "neighbourhood_id":85852123,
             "region_id":85688481,
@@ -57,7 +62,7 @@
         }
     ],
     "wof:id":622362451,
-    "wof:lastmodified":1472643395,
+    "wof:lastmodified":1492024692,
     "wof:name":"Music Together",
     "wof:parent_id":85852123,
     "wof:placetype":"venue",

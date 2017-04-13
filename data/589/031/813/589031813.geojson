@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.061929,40.103844,-75.061929,40.103844",
     "geom:latitude":40.103844,
     "geom:longitude":-75.061929,
@@ -32,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
-        85633793,
         85885403,
-        102081355
+        102191575,
+        404485369,
+        85633793,
+        102081355,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +48,17 @@
     "wof:geomhash":"759f9ccd7bffdad0fd9bd547f2d644db",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081355,
+            "localadmin_id":404485369,
             "neighbourhood_id":85885403,
             "region_id":85688481,
             "venue_id":589031813
         }
     ],
     "wof:id":589031813,
-    "wof:lastmodified":1472641952,
+    "wof:lastmodified":1492069578,
     "wof:name":"ABS Visuals Inc",
     "wof:parent_id":85885403,
     "wof:placetype":"venue",

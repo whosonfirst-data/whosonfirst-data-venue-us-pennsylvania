@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.881925,40.44274,-79.881925,40.44274",
     "geom:latitude":40.44274,
     "geom:longitude":-79.881925,
@@ -33,13 +34,16 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420536233,
+        85873569,
         102191575,
-        404484253,
+        404482523,
         85633793,
-        101718701,
+        101718805,
         102080887,
-        85688481
+        85688481,
+        420536233,
+        404484253,
+        101718701
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,6 +56,16 @@
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
+            "locality_id":101718805,
+            "neighbourhood_id":85873569,
+            "region_id":85688481,
+            "venue_id":605274907
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080887,
             "localadmin_id":404484253,
             "locality_id":101718701,
             "neighbourhood_id":420536233,
@@ -60,9 +74,9 @@
         }
     ],
     "wof:id":605274907,
-    "wof:lastmodified":1472643158,
+    "wof:lastmodified":1491889256,
     "wof:name":"PNC",
-    "wof:parent_id":420536233,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

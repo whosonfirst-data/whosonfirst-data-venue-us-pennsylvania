@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.010227,40.503766,-80.010227,40.503766",
     "geom:latitude":40.503766,
     "geom:longitude":-80.010227,
@@ -33,10 +34,13 @@
     "sg:website":"www.bp.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
-        85633793,
         85827181,
-        102080887
+        102191575,
+        404482523,
+        85633793,
+        101718805,
+        102080887,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +50,18 @@
     "wof:geomhash":"ac87ea41f9f7a968d6503eccafb9f09a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
+            "locality_id":101718805,
             "neighbourhood_id":85827181,
             "region_id":85688481,
             "venue_id":605764301
         }
     ],
     "wof:id":605764301,
-    "wof:lastmodified":1472643879,
+    "wof:lastmodified":1491885681,
     "wof:name":"Bp Oil",
     "wof:parent_id":85827181,
     "wof:placetype":"venue",

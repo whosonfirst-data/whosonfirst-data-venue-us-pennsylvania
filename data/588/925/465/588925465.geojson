@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.205383,40.279036,-75.205383,40.279036",
     "geom:latitude":40.279036,
     "geom:longitude":-75.205383,
@@ -29,18 +30,37 @@
     "sg:province":"PA",
     "sg:website":"www.armynavy.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688481,
+        85633793,
+        85809769,
+        102080987,
+        420536803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1AtaOEeNXB7tMVK9tVWuoB_40.279036_-75.205383@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"1a77627e0e3e05953cd5a8fe8aee34be",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080987,
+            "neighbourhood_id":85809769,
+            "region_id":85688481,
+            "venue_id":588925465
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420536803,
+            "venue_id":588925465
+        }
+    ],
     "wof:id":588925465,
-    "wof:lastmodified":1472642760,
+    "wof:lastmodified":1492052553,
     "wof:name":"ARMYNAVY.COM",
-    "wof:parent_id":420536803,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

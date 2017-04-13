@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.034312,40.156469,-75.034312,40.156469",
     "geom:latitude":40.156469,
     "geom:longitude":-75.034312,
@@ -32,18 +33,45 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420536805,
+        102191575,
+        404484737,
+        85633793,
+        101719147,
+        102080987,
+        85688481,
+        85813705
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6AvM8wDNMQvudi7v9W4F94_40.156469_-75.034312@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"2025e5d5ccbeca1fdbc0804f21a1c0cd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080987,
+            "localadmin_id":404484737,
+            "locality_id":101719147,
+            "neighbourhood_id":420536805,
+            "region_id":85688481,
+            "venue_id":588880263
+        },
+        {
+            "country_id":85633793,
+            "county_id":102080987,
+            "neighbourhood_id":85813705,
+            "region_id":85688481,
+            "venue_id":588880263
+        }
+    ],
     "wof:id":588880263,
-    "wof:lastmodified":1472642576,
+    "wof:lastmodified":1492026141,
     "wof:name":"Jack Glass",
-    "wof:parent_id":420536805,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

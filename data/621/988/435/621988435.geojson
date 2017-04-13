@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.100151,40.101804,-75.100151,40.101804",
     "geom:latitude":40.101804,
     "geom:longitude":-75.100151,
@@ -32,18 +33,37 @@
         "convent"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420539241,
+        85688481,
+        85846507,
+        102081355
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1WXnZ7HQZ2gItSIEzKo7WK_40.101804_-75.100151@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"d134d0e7332c1fa6dcc15782a936cf6e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420539241,
+            "venue_id":621988435
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081355,
+            "neighbourhood_id":85846507,
+            "region_id":85688481,
+            "venue_id":621988435
+        }
+    ],
     "wof:id":621988435,
-    "wof:lastmodified":1472643065,
+    "wof:lastmodified":1492072670,
     "wof:name":"St Hilary Of Poitiers Convent",
-    "wof:parent_id":420539241,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

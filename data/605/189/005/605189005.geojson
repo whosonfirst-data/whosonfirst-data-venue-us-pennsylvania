@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.03076,40.51856,-80.03076,40.51856",
     "geom:latitude":40.51856,
     "geom:longitude":-80.03076,
@@ -29,10 +30,14 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
-        85633793,
         85827181,
-        102080887
+        102191575,
+        404482523,
+        85633793,
+        101718805,
+        102080887,
+        85688481,
+        85841395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +47,27 @@
     "wof:geomhash":"80c3be72b83734b1848c6beb028d1884",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
+            "locality_id":101718805,
             "neighbourhood_id":85827181,
+            "region_id":85688481,
+            "venue_id":605189005
+        },
+        {
+            "country_id":85633793,
+            "county_id":102080887,
+            "neighbourhood_id":85841395,
             "region_id":85688481,
             "venue_id":605189005
         }
     ],
     "wof:id":605189005,
-    "wof:lastmodified":1472642847,
+    "wof:lastmodified":1491885664,
     "wof:name":"Gottfried & Durachko Dentistry",
-    "wof:parent_id":85827181,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

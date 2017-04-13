@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.912163,40.123758,-74.912163,40.123758",
     "geom:latitude":40.123758,
     "geom:longitude":-74.912163,
@@ -40,8 +41,9 @@
     "sg:website":"http://www.grafa.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
         85633793,
+        420536875,
+        85688481,
         85819699,
         102080987
     ],
@@ -54,6 +56,11 @@
     "wof:hierarchy":[
         {
             "country_id":85633793,
+            "neighbourhood_id":420536875,
+            "venue_id":622352877
+        },
+        {
+            "country_id":85633793,
             "county_id":102080987,
             "neighbourhood_id":85819699,
             "region_id":85688481,
@@ -61,9 +68,9 @@
         }
     ],
     "wof:id":622352877,
-    "wof:lastmodified":1472643402,
+    "wof:lastmodified":1492082826,
     "wof:name":"Southern Pennsylvnia Fire Asso",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.110176,40.07692,-75.110176,40.07692",
     "geom:latitude":40.07692,
     "geom:longitude":-75.110176,
@@ -28,18 +29,37 @@
     "sg:postcode":"19027",
     "sg:province":"PA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85845503,
+        102191575,
+        404483617,
+        85633793,
+        101717411,
+        102081355,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_18d2E1b1SurEqpRaIV1z14_40.076920_-75.110176@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"1de83264cf17f65486b6aa91bacb10bb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081355,
+            "localadmin_id":404483617,
+            "locality_id":101717411,
+            "neighbourhood_id":85845503,
+            "region_id":85688481,
+            "venue_id":605246491
+        }
+    ],
     "wof:id":605246491,
-    "wof:lastmodified":1472643108,
+    "wof:lastmodified":1492071829,
     "wof:name":"Extendicare Health Care",
-    "wof:parent_id":-1,
+    "wof:parent_id":85845503,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

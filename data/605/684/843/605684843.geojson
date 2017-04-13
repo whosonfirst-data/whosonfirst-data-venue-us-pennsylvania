@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.84432,40.224591,-74.84432,40.224591",
     "geom:latitude":40.224591,
     "geom:longitude":-74.84432,
@@ -35,7 +36,8 @@
         85688481,
         85633793,
         85845639,
-        102080987
+        102080987,
+        85847305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,12 +52,19 @@
             "neighbourhood_id":85845639,
             "region_id":85688481,
             "venue_id":605684843
+        },
+        {
+            "country_id":85633793,
+            "county_id":102080987,
+            "neighbourhood_id":85847305,
+            "region_id":85688481,
+            "venue_id":605684843
         }
     ],
     "wof:id":605684843,
-    "wof:lastmodified":1472643780,
+    "wof:lastmodified":1492073642,
     "wof:name":"Supervisors Office",
-    "wof:parent_id":85845639,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

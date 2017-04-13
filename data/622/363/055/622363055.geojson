@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.092533,40.083479,-75.092533,40.083479",
     "geom:latitude":40.083479,
     "geom:longitude":-75.092533,
@@ -38,11 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85845503,
+        102191575,
+        404483617,
         85633793,
         101717411,
         102081355,
-        85845503
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,8 +55,10 @@
     "wof:geomhash":"c3a3d7a86b1544f0ae35af79d784e55e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081355,
+            "localadmin_id":404483617,
             "locality_id":101717411,
             "neighbourhood_id":85845503,
             "region_id":85688481,
@@ -61,7 +66,7 @@
         }
     ],
     "wof:id":622363055,
-    "wof:lastmodified":1472643388,
+    "wof:lastmodified":1492027896,
     "wof:name":"John N Weiss Inc",
     "wof:parent_id":85845503,
     "wof:placetype":"venue",

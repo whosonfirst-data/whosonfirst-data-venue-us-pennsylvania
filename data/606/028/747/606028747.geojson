@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.98172,40.249237,-74.98172,40.249237",
     "geom:latitude":40.249237,
     "geom:longitude":-74.98172,
@@ -36,8 +37,9 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        85865383,
-        102080987
+        85846503,
+        102080987,
+        85865383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +51,22 @@
         {
             "country_id":85633793,
             "county_id":102080987,
+            "neighbourhood_id":85846503,
+            "region_id":85688481,
+            "venue_id":606028747
+        },
+        {
+            "country_id":85633793,
+            "county_id":102080987,
             "neighbourhood_id":85865383,
             "region_id":85688481,
             "venue_id":606028747
         }
     ],
     "wof:id":606028747,
-    "wof:lastmodified":1472642031,
+    "wof:lastmodified":1492052518,
     "wof:name":"Laurel Lane Farm",
-    "wof:parent_id":85865383,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

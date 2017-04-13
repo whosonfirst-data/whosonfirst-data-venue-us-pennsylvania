@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.906699,40.124593,-74.906699,40.124593",
     "geom:latitude":40.124593,
     "geom:longitude":-74.906699,
@@ -29,8 +30,9 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
         85633793,
+        420536875,
+        85688481,
         85819699,
         102080987
     ],
@@ -43,6 +45,11 @@
     "wof:hierarchy":[
         {
             "country_id":85633793,
+            "neighbourhood_id":420536875,
+            "venue_id":605233271
+        },
+        {
+            "country_id":85633793,
             "county_id":102080987,
             "neighbourhood_id":85819699,
             "region_id":85688481,
@@ -50,9 +57,9 @@
         }
     ],
     "wof:id":605233271,
-    "wof:lastmodified":1472643040,
+    "wof:lastmodified":1492072668,
     "wof:name":"Artstc Entrtnmnt AGC",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

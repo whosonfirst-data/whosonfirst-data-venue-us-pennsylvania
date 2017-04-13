@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.121459,40.063946,-75.121459,40.063946",
     "geom:latitude":40.063946,
     "geom:longitude":-75.121459,
@@ -32,18 +33,35 @@
         "agitation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85829647,
+        102191575,
+        404485449,
+        85633793,
+        102081355,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5TyafzrvjyemDDO41qt4Ab_40.063946_-75.121459@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"f6565646cc55bbcac245c7d1deb1eebc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081355,
+            "localadmin_id":404485449,
+            "neighbourhood_id":85829647,
+            "region_id":85688481,
+            "venue_id":605093973
+        }
+    ],
     "wof:id":605093973,
-    "wof:lastmodified":1472642430,
+    "wof:lastmodified":1491921333,
     "wof:name":"Norstone",
-    "wof:parent_id":-1,
+    "wof:parent_id":85829647,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

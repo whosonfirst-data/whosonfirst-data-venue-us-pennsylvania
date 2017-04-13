@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.026451,40.492234,-80.026451,40.492234",
     "geom:latitude":40.492234,
     "geom:longitude":-80.026451,
@@ -32,10 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85807553,
+        102191575,
+        404482523,
         85633793,
-        85827181,
-        102080887
+        101718805,
+        102080887,
+        85688481,
+        85827181
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +50,30 @@
     "wof:geomhash":"e47a30741cb7fdab280488221a2eca32",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
+            "locality_id":101718805,
+            "neighbourhood_id":85807553,
+            "region_id":85688481,
+            "venue_id":588795035
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080887,
+            "localadmin_id":404482523,
+            "locality_id":101718805,
             "neighbourhood_id":85827181,
             "region_id":85688481,
             "venue_id":588795035
         }
     ],
     "wof:id":588795035,
-    "wof:lastmodified":1472641927,
+    "wof:lastmodified":1491885669,
     "wof:name":"Parkers Dining Services",
-    "wof:parent_id":85827181,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.881405,40.12127,-74.881405,40.12127",
     "geom:latitude":40.12127,
     "geom:longitude":-74.881405,
@@ -32,16 +33,25 @@
         "datum"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420536843
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_46UCkgLMDuTdI4u3ysET2B_40.121270_-74.881405@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"e4786c0698306d9bc0db31883638a7a8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420536843,
+            "venue_id":621991229
+        }
+    ],
     "wof:id":621991229,
-    "wof:lastmodified":1472643060,
+    "wof:lastmodified":1492024031,
     "wof:name":"ICN",
     "wof:parent_id":420536843,
     "wof:placetype":"venue",

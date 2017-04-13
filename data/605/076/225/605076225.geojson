@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.123823,40.097355,-75.123823,40.097355",
     "geom:latitude":40.097355,
     "geom:longitude":-75.123823,
@@ -32,7 +33,8 @@
         85688481,
         85633793,
         85805761,
-        102081355
+        102081355,
+        85837019
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,12 +49,19 @@
             "neighbourhood_id":85805761,
             "region_id":85688481,
             "venue_id":605076225
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081355,
+            "neighbourhood_id":85837019,
+            "region_id":85688481,
+            "venue_id":605076225
         }
     ],
     "wof:id":605076225,
-    "wof:lastmodified":1472642316,
+    "wof:lastmodified":1492054255,
     "wof:name":"Conway  Joanne Brewer",
-    "wof:parent_id":85805761,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

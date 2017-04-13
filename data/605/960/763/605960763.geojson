@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.0992,40.211421,-75.0992,40.211421",
     "geom:latitude":40.211421,
     "geom:longitude":-75.0992,
@@ -32,18 +33,31 @@
         "commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688481,
+        85633793,
+        85852559,
+        102080987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3NyWyskdjxtdThtWckXpNd_40.211421_-75.099200@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"a4d01160ab0558496f73bfb7c2eedbbf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080987,
+            "neighbourhood_id":85852559,
+            "region_id":85688481,
+            "venue_id":605960763
+        }
+    ],
     "wof:id":605960763,
-    "wof:lastmodified":1472644057,
+    "wof:lastmodified":1492034041,
     "wof:name":"Fleet",
-    "wof:parent_id":-1,
+    "wof:parent_id":85852559,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

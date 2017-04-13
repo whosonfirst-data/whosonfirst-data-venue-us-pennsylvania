@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.084785,40.10591,-75.084785,40.10591",
     "geom:latitude":40.10591,
     "geom:longitude":-75.084785,
@@ -33,10 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
         85633793,
+        420539241,
+        85688481,
+        85833431,
+        102081355,
         85885403,
-        102081355
+        102191575,
+        404485369
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,16 +52,30 @@
     "wof:hierarchy":[
         {
             "country_id":85633793,
+            "neighbourhood_id":420539241,
+            "venue_id":605097037
+        },
+        {
+            "country_id":85633793,
             "county_id":102081355,
+            "neighbourhood_id":85833431,
+            "region_id":85688481,
+            "venue_id":605097037
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081355,
+            "localadmin_id":404485369,
             "neighbourhood_id":85885403,
             "region_id":85688481,
             "venue_id":605097037
         }
     ],
     "wof:id":605097037,
-    "wof:lastmodified":1472642386,
+    "wof:lastmodified":1492072854,
     "wof:name":"Corporate Finance Dept",
-    "wof:parent_id":85885403,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.033249,40.519051,-80.033249,40.519051",
     "geom:latitude":40.519051,
     "geom:longitude":-80.033249,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
-        85633793,
         85827181,
-        102080887
+        102191575,
+        404482523,
+        85633793,
+        101718805,
+        102080887,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +50,18 @@
     "wof:geomhash":"4ed5a5c76b9a2b7ba78af2d13abb0b83",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
+            "locality_id":101718805,
             "neighbourhood_id":85827181,
             "region_id":85688481,
             "venue_id":387450409
         }
     ],
     "wof:id":387450409,
-    "wof:lastmodified":1472642290,
+    "wof:lastmodified":1491885710,
     "wof:name":"Ech",
     "wof:parent_id":85827181,
     "wof:placetype":"venue",

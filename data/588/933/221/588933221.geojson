@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.111527,40.312661,-75.111527,40.312661",
     "geom:latitude":40.312661,
     "geom:longitude":-75.111527,
@@ -36,7 +37,8 @@
         85688481,
         85633793,
         85842705,
-        102080987
+        102080987,
+        85813023
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,12 +53,19 @@
             "neighbourhood_id":85842705,
             "region_id":85688481,
             "venue_id":588933221
+        },
+        {
+            "country_id":85633793,
+            "county_id":102080987,
+            "neighbourhood_id":85813023,
+            "region_id":85688481,
+            "venue_id":588933221
         }
     ],
     "wof:id":588933221,
-    "wof:lastmodified":1472642834,
+    "wof:lastmodified":1492052577,
     "wof:name":"Harleysville Nat Bnk & Tr Co",
-    "wof:parent_id":85842705,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.878805,40.110177,-74.878805,40.110177",
     "geom:latitude":40.110177,
     "geom:longitude":-74.878805,
@@ -31,16 +32,25 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420536883
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Ena7u88qWb6CsSm0fVtyZ_40.110177_-74.878805@1303262440"
     },
     "wof:country":"US",
     "wof:geomhash":"024e45709c640a95dbc2274631b03a2a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420536883,
+            "venue_id":622348977
+        }
+    ],
     "wof:id":622348977,
-    "wof:lastmodified":1472643399,
+    "wof:lastmodified":1492020260,
     "wof:name":"Bristol Gardens",
     "wof:parent_id":420536883,
     "wof:placetype":"venue",

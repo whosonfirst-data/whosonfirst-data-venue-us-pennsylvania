@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.938796,40.452034,-79.938796,40.452034",
     "geom:latitude":40.452034,
     "geom:longitude":-79.938796,
@@ -33,13 +34,14 @@
     "sg:website":"www.odpgh.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805461,
+        85847925,
         102191575,
         404482523,
         85633793,
         101718805,
         102080887,
-        85688481
+        85688481,
+        85805461
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,15 +56,25 @@
             "county_id":102080887,
             "localadmin_id":404482523,
             "locality_id":101718805,
+            "neighbourhood_id":85847925,
+            "region_id":85688481,
+            "venue_id":605534873
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080887,
+            "localadmin_id":404482523,
+            "locality_id":101718805,
             "neighbourhood_id":85805461,
             "region_id":85688481,
             "venue_id":605534873
         }
     ],
     "wof:id":605534873,
-    "wof:lastmodified":1472643563,
+    "wof:lastmodified":1491893786,
     "wof:name":"Greek Orthodox Diocese-Pitts",
-    "wof:parent_id":85805461,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

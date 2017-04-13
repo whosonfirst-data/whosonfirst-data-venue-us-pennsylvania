@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.139397,40.066519,-75.139397,40.066519",
     "geom:latitude":40.066519,
     "geom:longitude":-75.139397,
@@ -32,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
-        85633793,
         85829647,
-        102081355
+        102191575,
+        404485449,
+        85633793,
+        102081355,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +48,17 @@
     "wof:geomhash":"246d10fdcae5bc732260161f5657c28f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081355,
+            "localadmin_id":404485449,
             "neighbourhood_id":85829647,
             "region_id":85688481,
             "venue_id":588961289
         }
     ],
     "wof:id":588961289,
-    "wof:lastmodified":1472642855,
+    "wof:lastmodified":1491921303,
     "wof:name":"Hernan Bizuela MD P C",
     "wof:parent_id":85829647,
     "wof:placetype":"venue",

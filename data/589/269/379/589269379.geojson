@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.854033,40.103938,-74.854033,40.103938",
     "geom:latitude":40.103938,
     "geom:longitude":-74.854033,
@@ -32,18 +33,31 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688481,
+        85633793,
+        85855259,
+        102080987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2DpIvlGksfwnecsVkeIYU8_40.103938_-74.854033@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"8fd15f4e81f0a9c85f6ba5cea6a65e75",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080987,
+            "neighbourhood_id":85855259,
+            "region_id":85688481,
+            "venue_id":589269379
+        }
+    ],
     "wof:id":589269379,
-    "wof:lastmodified":1472642986,
+    "wof:lastmodified":1492024627,
     "wof:name":"Beeline Industries Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85855259,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.099888,40.105288,-75.099888,40.105288",
     "geom:latitude":40.105288,
     "geom:longitude":-75.099888,
@@ -32,16 +33,25 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420539241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4EKESAOok2SK6KMKS0v4t3_40.105288_-75.099888@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"d5d49086f216033490169007dfb489ae",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420539241,
+            "venue_id":605429435
+        }
+    ],
     "wof:id":605429435,
-    "wof:lastmodified":1472643411,
+    "wof:lastmodified":1492019165,
     "wof:name":"Diamond Group",
     "wof:parent_id":420539241,
     "wof:placetype":"venue",

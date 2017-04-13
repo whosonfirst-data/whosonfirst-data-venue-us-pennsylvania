@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.150919,40.165697,-75.150919,40.165697",
     "geom:latitude":40.165697,
     "geom:longitude":-75.150919,
@@ -35,11 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85852123,
+        102191575,
+        404485465,
         85633793,
         101719587,
         102081355,
-        85852123
+        85688481,
+        420539207
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,18 +53,30 @@
     "wof:geomhash":"bc5b22a1a3834b5389ad03d4cc8ae0df",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081355,
+            "localadmin_id":404485465,
             "locality_id":101719587,
             "neighbourhood_id":85852123,
+            "region_id":85688481,
+            "venue_id":605614871
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081355,
+            "localadmin_id":404485465,
+            "locality_id":101719587,
+            "neighbourhood_id":420539207,
             "region_id":85688481,
             "venue_id":605614871
         }
     ],
     "wof:id":605614871,
-    "wof:lastmodified":1472643675,
+    "wof:lastmodified":1492025929,
     "wof:name":"Brink Mortgage LLC",
-    "wof:parent_id":85852123,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

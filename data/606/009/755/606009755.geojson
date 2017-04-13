@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.151084,40.341221,-75.151084,40.341221",
     "geom:latitude":40.341221,
     "geom:longitude":-75.151084,
@@ -28,18 +29,53 @@
     "sg:postcode":"18901",
     "sg:province":"PA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688481,
+        85633793,
+        85827999,
+        102080987,
+        85836623,
+        85841863,
+        420536863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1iWZmxwNHeYkowknCQm7bW_40.341221_-75.151084@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"e43aafed7a05896d3a724bd7d340d3ea",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080987,
+            "neighbourhood_id":85827999,
+            "region_id":85688481,
+            "venue_id":606009755
+        },
+        {
+            "country_id":85633793,
+            "county_id":102080987,
+            "neighbourhood_id":85836623,
+            "region_id":85688481,
+            "venue_id":606009755
+        },
+        {
+            "country_id":85633793,
+            "county_id":102080987,
+            "neighbourhood_id":85841863,
+            "region_id":85688481,
+            "venue_id":606009755
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420536863,
+            "venue_id":606009755
+        }
+    ],
     "wof:id":606009755,
-    "wof:lastmodified":1472641892,
+    "wof:lastmodified":1492052502,
     "wof:name":"Linda Gelcius",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

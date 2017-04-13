@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.900207,40.170429,-74.900207,40.170429",
     "geom:latitude":40.170429,
     "geom:longitude":-74.900207,
@@ -31,18 +32,31 @@
         "veterinarian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688481,
+        85633793,
+        85818565,
+        102080987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7T2cYTpZQYxG0YBKX28Lpk_40.170429_-74.900207@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"9d322ddbb3cbce01918ff3941fd8d5fa",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080987,
+            "neighbourhood_id":85818565,
+            "region_id":85688481,
+            "venue_id":622083839
+        }
+    ],
     "wof:id":622083839,
-    "wof:lastmodified":1472642345,
+    "wof:lastmodified":1492039635,
     "wof:name":"Flowers Mill Veterinary Hosp",
-    "wof:parent_id":-1,
+    "wof:parent_id":85818565,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

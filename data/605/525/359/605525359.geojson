@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.168303,40.429275,-75.168303,40.429275",
     "geom:latitude":40.429275,
     "geom:longitude":-75.168303,
@@ -38,18 +39,33 @@
         "retreat"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420536879,
+        420536865
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1LXU8oJo8KbLNHxL8aT3Cu_40.429275_-75.168303@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"848fb622840b292274291f90599d11cd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420536879,
+            "venue_id":605525359
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420536865,
+            "venue_id":605525359
+        }
+    ],
     "wof:id":605525359,
-    "wof:lastmodified":1472643551,
+    "wof:lastmodified":1492073843,
     "wof:name":"Fatima House",
-    "wof:parent_id":420536879,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

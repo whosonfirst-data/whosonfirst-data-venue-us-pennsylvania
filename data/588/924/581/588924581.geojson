@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.135598,40.063621,-75.135598,40.063621",
     "geom:latitude":40.063621,
     "geom:longitude":-75.135598,
@@ -39,10 +40,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
-        85633793,
         85829647,
-        102081355
+        102191575,
+        404485449,
+        85633793,
+        102081355,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +55,17 @@
     "wof:geomhash":"948d37586f1f38e29976152d716d90c2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081355,
+            "localadmin_id":404485449,
             "neighbourhood_id":85829647,
             "region_id":85688481,
             "venue_id":588924581
         }
     ],
     "wof:id":588924581,
-    "wof:lastmodified":1472642763,
+    "wof:lastmodified":1491921330,
     "wof:name":"Cheltenham Music & Art School",
     "wof:parent_id":85829647,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.942365,40.081422,-74.942365,40.081422",
     "geom:latitude":40.081422,
     "geom:longitude":-74.942365,
@@ -32,16 +33,43 @@
         "skid"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688481,
+        102191575,
+        404484793,
+        85633793,
+        101719141,
+        102080987,
+        101719145
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Cs5g4pTDY9wmnaohLc579_40.081422_-74.942365@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"44741131bdd3907f0c84e11f5ca53179",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080987,
+            "localadmin_id":404484793,
+            "locality_id":101719141,
+            "region_id":85688481,
+            "venue_id":622014371
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080987,
+            "localadmin_id":404484793,
+            "locality_id":101719145,
+            "region_id":85688481,
+            "venue_id":622014371
+        }
+    ],
     "wof:id":622014371,
-    "wof:lastmodified":1472641961,
+    "wof:lastmodified":1492027964,
     "wof:name":"C & C Skid & Pallet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.149469,40.415179,-75.149469,40.415179",
     "geom:latitude":40.415179,
     "geom:longitude":-75.149469,
@@ -33,16 +34,25 @@
         "gasoline"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420536879
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2jhl4vhZQQvlRLCQ5VQXfY_40.415179_-75.149469@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"dc73ae02c03f4e00420af3a7541a3b03",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420536879,
+            "venue_id":606074665
+        }
+    ],
     "wof:id":606074665,
-    "wof:lastmodified":1472642461,
+    "wof:lastmodified":1492045871,
     "wof:name":"Texaco",
     "wof:parent_id":420536879,
     "wof:placetype":"venue",

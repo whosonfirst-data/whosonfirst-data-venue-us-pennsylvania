@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.085804,40.090058,-75.085804,40.090058",
     "geom:latitude":40.090058,
     "geom:longitude":-75.085804,
@@ -32,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
-        85633793,
         85885403,
-        102081355
+        102191575,
+        404485369,
+        85633793,
+        102081355,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +48,17 @@
     "wof:geomhash":"29adb739ed9e00dd9cca8c084abb2ef9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081355,
+            "localadmin_id":404485369,
             "neighbourhood_id":85885403,
             "region_id":85688481,
             "venue_id":589244897
         }
     ],
     "wof:id":589244897,
-    "wof:lastmodified":1472642952,
+    "wof:lastmodified":1492018699,
     "wof:name":"Cassettas Gourmet Deli",
     "wof:parent_id":85885403,
     "wof:placetype":"venue",

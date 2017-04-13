@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.909898,40.222445,-74.909898,40.222445",
     "geom:latitude":40.222445,
     "geom:longitude":-74.909898,
@@ -33,18 +34,49 @@
         "title"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688481,
+        85633793,
+        101716819,
+        102080987,
+        85817341,
+        85858997,
+        85832295
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7k2QhcFyZf2ZBKzAJZ8hrx_40.222445_-74.909898@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"075bf705cde8f2841588a418dd1856b9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080987,
+            "locality_id":101716819,
+            "neighbourhood_id":85817341,
+            "region_id":85688481,
+            "venue_id":588814441
+        },
+        {
+            "country_id":85633793,
+            "county_id":102080987,
+            "neighbourhood_id":85858997,
+            "region_id":85688481,
+            "venue_id":588814441
+        },
+        {
+            "country_id":85633793,
+            "county_id":102080987,
+            "neighbourhood_id":85832295,
+            "region_id":85688481,
+            "venue_id":588814441
+        }
+    ],
     "wof:id":588814441,
-    "wof:lastmodified":1472642050,
+    "wof:lastmodified":1492027886,
     "wof:name":"Properties Abstract Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

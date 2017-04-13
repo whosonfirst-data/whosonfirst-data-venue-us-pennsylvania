@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.088219,40.43291,-80.088219,40.43291",
     "geom:latitude":40.43291,
     "geom:longitude":-80.088219,
@@ -29,10 +30,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
-        85633793,
         85818823,
-        102080887
+        102191575,
+        404482523,
+        85633793,
+        101718805,
+        102080887,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,18 @@
     "wof:geomhash":"4fe1eaa2b8c1c52955e1a86c19279472",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
+            "locality_id":101718805,
             "neighbourhood_id":85818823,
             "region_id":85688481,
             "venue_id":589252175
         }
     ],
     "wof:id":589252175,
-    "wof:lastmodified":1472642966,
+    "wof:lastmodified":1491921161,
     "wof:name":"Vitri Pak Inc",
     "wof:parent_id":85818823,
     "wof:placetype":"venue",

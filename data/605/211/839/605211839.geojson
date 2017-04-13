@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.128089,40.13007,-75.128089,40.13007",
     "geom:latitude":40.13007,
     "geom:longitude":-75.128089,
@@ -31,18 +32,37 @@
         "yard"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688481,
+        85633793,
+        85846105,
+        102081355,
+        420539197
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6KXt9hNZrpRyc0DCGWjC82_40.130070_-75.128089@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"b10af74aa2ad34c33af08e8e7feada39",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081355,
+            "neighbourhood_id":85846105,
+            "region_id":85688481,
+            "venue_id":605211839
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420539197,
+            "venue_id":605211839
+        }
+    ],
     "wof:id":605211839,
-    "wof:lastmodified":1472643020,
+    "wof:lastmodified":1492031024,
     "wof:name":"U-Haul Co",
-    "wof:parent_id":420539197,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

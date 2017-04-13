@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.002963,40.371082,-75.002963,40.371082",
     "geom:latitude":40.371082,
     "geom:longitude":-75.002963,
@@ -36,7 +37,8 @@
         85688481,
         85633793,
         85803317,
-        102080987
+        102080987,
+        85844197
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,12 +53,19 @@
             "neighbourhood_id":85803317,
             "region_id":85688481,
             "venue_id":622084667
+        },
+        {
+            "country_id":85633793,
+            "county_id":102080987,
+            "neighbourhood_id":85844197,
+            "region_id":85688481,
+            "venue_id":622084667
         }
     ],
     "wof:id":622084667,
-    "wof:lastmodified":1472642335,
+    "wof:lastmodified":1492039648,
     "wof:name":"New Hope Country Market",
-    "wof:parent_id":85803317,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.876173,40.18214,-74.876173,40.18214",
     "geom:latitude":40.18214,
     "geom:longitude":-74.876173,
@@ -38,7 +39,9 @@
         85633793,
         101719123,
         102080987,
-        85688481
+        85688481,
+        101719127,
+        85821935
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,12 +59,20 @@
             "neighbourhood_id":85840087,
             "region_id":85688481,
             "venue_id":589014559
+        },
+        {
+            "country_id":85633793,
+            "county_id":102080987,
+            "locality_id":101719127,
+            "neighbourhood_id":85821935,
+            "region_id":85688481,
+            "venue_id":589014559
         }
     ],
     "wof:id":589014559,
-    "wof:lastmodified":1472641876,
+    "wof:lastmodified":1492020189,
     "wof:name":"Russo Gus S",
-    "wof:parent_id":85840087,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

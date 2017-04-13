@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.864818,40.174107,-74.864818,40.174107",
     "geom:latitude":40.174107,
     "geom:longitude":-74.864818,
@@ -33,13 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688481,
+        85633793,
+        85893299,
+        102080987,
         85840087,
         102191575,
         404484815,
-        85633793,
-        101719123,
-        102080987,
-        85688481
+        101719123
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,6 +50,13 @@
     "wof:country":"US",
     "wof:geomhash":"acaa63c3ebaa92e31bb6a2325aee27ec",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080987,
+            "neighbourhood_id":85893299,
+            "region_id":85688481,
+            "venue_id":589088089
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -60,9 +69,9 @@
         }
     ],
     "wof:id":589088089,
-    "wof:lastmodified":1472642216,
+    "wof:lastmodified":1492073639,
     "wof:name":"Abracadabra Custom Painting",
-    "wof:parent_id":85840087,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.080102,40.164213,-75.080102,40.164213",
     "geom:latitude":40.164213,
     "geom:longitude":-75.080102,
@@ -32,13 +33,16 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840419,
+        85820831,
         102191575,
-        404485447,
+        404485459,
         85633793,
-        101717377,
+        101717445,
         102081355,
-        85688481
+        85688481,
+        85840419,
+        404485447,
+        101717377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,6 +55,16 @@
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081355,
+            "localadmin_id":404485459,
+            "locality_id":101717445,
+            "neighbourhood_id":85820831,
+            "region_id":85688481,
+            "venue_id":588876631
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081355,
             "localadmin_id":404485447,
             "locality_id":101717377,
             "neighbourhood_id":85840419,
@@ -59,9 +73,9 @@
         }
     ],
     "wof:id":588876631,
-    "wof:lastmodified":1472642589,
+    "wof:lastmodified":1492018142,
     "wof:name":"Beth Curcio",
-    "wof:parent_id":85840419,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

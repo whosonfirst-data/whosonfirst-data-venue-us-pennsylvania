@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.033572,40.202776,-75.033572,40.202776",
     "geom:latitude":40.202776,
     "geom:longitude":-75.033572,
@@ -33,18 +34,31 @@
     ],
     "sg:website":"www.russellgardenscenter.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688481,
+        85633793,
+        85823191,
+        102080987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5eJVnd4jJi3E8GouO2YYyJ_40.202776_-75.033572@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"b925569b3a4f9b61c702502e286a0c1b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080987,
+            "neighbourhood_id":85823191,
+            "region_id":85688481,
+            "venue_id":605968073
+        }
+    ],
     "wof:id":605968073,
-    "wof:lastmodified":1472644049,
+    "wof:lastmodified":1492064893,
     "wof:name":"Russell Gardens Center",
-    "wof:parent_id":420536881,
+    "wof:parent_id":85823191,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

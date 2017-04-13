@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.980566,40.381979,-79.980566,40.381979",
     "geom:latitude":40.381979,
     "geom:longitude":-79.980566,
@@ -29,13 +30,16 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85839961,
+        85857905,
         102191575,
-        404482523,
+        404484247,
         85633793,
-        101718805,
+        101718705,
         102080887,
-        85688481
+        85688481,
+        85839961,
+        404482523,
+        101718805
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,6 +52,16 @@
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404484247,
+            "locality_id":101718705,
+            "neighbourhood_id":85857905,
+            "region_id":85688481,
+            "venue_id":605927807
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080887,
             "localadmin_id":404482523,
             "locality_id":101718805,
             "neighbourhood_id":85839961,
@@ -56,9 +70,9 @@
         }
     ],
     "wof:id":605927807,
-    "wof:lastmodified":1472644033,
+    "wof:lastmodified":1491938277,
     "wof:name":"Diamond Society",
-    "wof:parent_id":85839961,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

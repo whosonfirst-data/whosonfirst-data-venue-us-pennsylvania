@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.939294,40.116791,-74.939294,40.116791",
     "geom:latitude":40.116791,
     "geom:longitude":-74.939294,
@@ -35,10 +36,12 @@
     "sg:website":"www.resourceedge.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
-        85633793,
         85838561,
-        102080987
+        102191575,
+        404484793,
+        85633793,
+        102080987,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +51,17 @@
     "wof:geomhash":"17fad80971726e241dceb0361a3d6d1f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080987,
+            "localadmin_id":404484793,
             "neighbourhood_id":85838561,
             "region_id":85688481,
             "venue_id":605790727
         }
     ],
     "wof:id":605790727,
-    "wof:lastmodified":1472643909,
+    "wof:lastmodified":1492057612,
     "wof:name":"Resource Edge",
     "wof:parent_id":85838561,
     "wof:placetype":"venue",

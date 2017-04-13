@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.091026,40.082211,-75.091026,40.082211",
     "geom:latitude":40.082211,
     "geom:longitude":-75.091026,
@@ -30,11 +31,13 @@
     "sg:website":"http://www.century21.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85845503,
+        102191575,
+        404483617,
         85633793,
         101717411,
         102081355,
-        85845503
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,10 @@
     "wof:geomhash":"814bc9d1a8e1541e2212d270baa4908a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081355,
+            "localadmin_id":404483617,
             "locality_id":101717411,
             "neighbourhood_id":85845503,
             "region_id":85688481,
@@ -53,7 +58,7 @@
         }
     ],
     "wof:id":622163427,
-    "wof:lastmodified":1472642916,
+    "wof:lastmodified":1492024671,
     "wof:name":"Century 21",
     "wof:parent_id":85845503,
     "wof:placetype":"venue",

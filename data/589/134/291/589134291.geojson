@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.107976,40.124596,-75.107976,40.124596",
     "geom:latitude":40.124596,
     "geom:longitude":-75.107976,
@@ -36,7 +37,11 @@
         85688481,
         85633793,
         85846507,
-        102081355
+        102081355,
+        85893401,
+        102191575,
+        404485715,
+        101719711
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,12 +56,22 @@
             "neighbourhood_id":85846507,
             "region_id":85688481,
             "venue_id":589134291
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081355,
+            "localadmin_id":404485715,
+            "locality_id":101719711,
+            "neighbourhood_id":85893401,
+            "region_id":85688481,
+            "venue_id":589134291
         }
     ],
     "wof:id":589134291,
-    "wof:lastmodified":1472642455,
+    "wof:lastmodified":1492024097,
     "wof:name":"Abington Baptist Church",
-    "wof:parent_id":85846507,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

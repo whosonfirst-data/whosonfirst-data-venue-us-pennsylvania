@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.228838,40.714785,-75.228838,40.714785",
     "geom:latitude":40.714785,
     "geom:longitude":-75.228838,
@@ -31,18 +32,37 @@
         "amusement"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420539361,
+        85688481,
+        85810755,
+        102081395
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ZIFT2MhyQRyVqGmmL1ity_40.714785_-75.228838@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"ffd58c8fae52c28fc051b6c9b0641305",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420539361,
+            "venue_id":621879641
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081395,
+            "neighbourhood_id":85810755,
+            "region_id":85688481,
+            "venue_id":621879641
+        }
+    ],
     "wof:id":621879641,
-    "wof:lastmodified":1472642457,
+    "wof:lastmodified":1492065043,
     "wof:name":"Little Star Music Studio",
-    "wof:parent_id":420539361,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

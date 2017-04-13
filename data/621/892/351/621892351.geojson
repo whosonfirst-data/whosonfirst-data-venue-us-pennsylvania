@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.898168,40.117789,-74.898168,40.117789",
     "geom:latitude":40.117789,
     "geom:longitude":-74.898168,
@@ -32,8 +33,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
         85633793,
+        420536831,
+        85688481,
         85819699,
         102080987
     ],
@@ -46,6 +48,11 @@
     "wof:hierarchy":[
         {
             "country_id":85633793,
+            "neighbourhood_id":420536831,
+            "venue_id":621892351
+        },
+        {
+            "country_id":85633793,
             "county_id":102080987,
             "neighbourhood_id":85819699,
             "region_id":85688481,
@@ -53,9 +60,9 @@
         }
     ],
     "wof:id":621892351,
-    "wof:lastmodified":1472642591,
+    "wof:lastmodified":1492052596,
     "wof:name":"Elwyn J Smith",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

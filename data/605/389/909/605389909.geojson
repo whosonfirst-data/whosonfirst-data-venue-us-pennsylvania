@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.083721,40.41379,-75.083721,40.41379",
     "geom:latitude":40.41379,
     "geom:longitude":-75.083721,
@@ -35,7 +36,10 @@
         85688481,
         85633793,
         85849105,
-        102080987
+        102080987,
+        85688607,
+        85808707,
+        102085997
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,12 +54,19 @@
             "neighbourhood_id":85849105,
             "region_id":85688481,
             "venue_id":605389909
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085997,
+            "neighbourhood_id":85808707,
+            "region_id":85688607,
+            "venue_id":605389909
         }
     ],
     "wof:id":605389909,
-    "wof:lastmodified":1472643352,
+    "wof:lastmodified":1492020309,
     "wof:name":"Nicholas A Shaw & Son",
-    "wof:parent_id":85849105,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

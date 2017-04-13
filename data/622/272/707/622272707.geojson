@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.089121,40.080784,-75.089121,40.080784",
     "geom:latitude":40.080784,
     "geom:longitude":-75.089121,
@@ -38,11 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85845503,
+        102191575,
+        404483617,
         85633793,
         101717411,
         102081355,
-        85845503
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,8 +55,10 @@
     "wof:geomhash":"b0b71202f47571d3997654c38223e633",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081355,
+            "localadmin_id":404483617,
             "locality_id":101717411,
             "neighbourhood_id":85845503,
             "region_id":85688481,
@@ -61,7 +66,7 @@
         }
     ],
     "wof:id":622272707,
-    "wof:lastmodified":1472643241,
+    "wof:lastmodified":1492027963,
     "wof:name":"Austrian Village",
     "wof:parent_id":85845503,
     "wof:placetype":"venue",

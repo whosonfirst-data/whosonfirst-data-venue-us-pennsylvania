@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.814718,40.158521,-74.814718,40.158521",
     "geom:latitude":40.158521,
     "geom:longitude":-74.814718,
@@ -34,13 +35,17 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829359,
+        420558407,
         102191575,
-        404484779,
+        404484801,
         85633793,
-        101716865,
+        101719127,
         102080987,
-        85688481
+        85688481,
+        85829359,
+        404484779,
+        101716865,
+        85852199
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,17 +58,34 @@
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080987,
+            "localadmin_id":404484801,
+            "locality_id":101719127,
+            "neighbourhood_id":420558407,
+            "region_id":85688481,
+            "venue_id":605993771
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080987,
             "localadmin_id":404484779,
             "locality_id":101716865,
             "neighbourhood_id":85829359,
             "region_id":85688481,
             "venue_id":605993771
+        },
+        {
+            "country_id":85633793,
+            "county_id":102080987,
+            "neighbourhood_id":85852199,
+            "region_id":85688481,
+            "venue_id":605993771
         }
     ],
     "wof:id":605993771,
-    "wof:lastmodified":1472644085,
+    "wof:lastmodified":1492038976,
     "wof:name":"Walts Home Improvements",
-    "wof:parent_id":85829359,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

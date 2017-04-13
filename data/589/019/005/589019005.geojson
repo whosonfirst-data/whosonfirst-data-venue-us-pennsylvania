@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.01849,40.17302,-75.01849,40.17302",
     "geom:latitude":40.17302,
     "geom:longitude":-75.01849,
@@ -32,18 +33,45 @@
         "commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420536805,
+        102191575,
+        404484737,
+        85633793,
+        101719147,
+        102080987,
+        85688481,
+        85813705
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1uHig5hmK31VYQdz3OCDX7_40.173020_-75.018490@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"54368b2c86066778af582c3d7e8b0133",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080987,
+            "localadmin_id":404484737,
+            "locality_id":101719147,
+            "neighbourhood_id":420536805,
+            "region_id":85688481,
+            "venue_id":589019005
+        },
+        {
+            "country_id":85633793,
+            "county_id":102080987,
+            "neighbourhood_id":85813705,
+            "region_id":85688481,
+            "venue_id":589019005
+        }
+    ],
     "wof:id":589019005,
-    "wof:lastmodified":1472641833,
+    "wof:lastmodified":1492069620,
     "wof:name":"Atn Graphics",
-    "wof:parent_id":420536805,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

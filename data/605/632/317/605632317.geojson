@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.174797,40.497097,-75.174797,40.497097",
     "geom:latitude":40.497097,
     "geom:longitude":-75.174797,
@@ -35,7 +36,8 @@
         85688481,
         85633793,
         85824115,
-        102080987
+        102080987,
+        85808329
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,12 +52,19 @@
             "neighbourhood_id":85824115,
             "region_id":85688481,
             "venue_id":605632317
+        },
+        {
+            "country_id":85633793,
+            "county_id":102080987,
+            "neighbourhood_id":85808329,
+            "region_id":85688481,
+            "venue_id":605632317
         }
     ],
     "wof:id":605632317,
-    "wof:lastmodified":1472643676,
+    "wof:lastmodified":1492025893,
     "wof:name":"Charles W Burmeister MD",
-    "wof:parent_id":85824115,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

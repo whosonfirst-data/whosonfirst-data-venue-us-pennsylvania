@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.181297,40.88115,-75.181297,40.88115",
     "geom:latitude":40.88115,
     "geom:longitude":-75.181297,
@@ -32,10 +33,12 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        102081395,
         85837259,
-        101717905,
-        85853327
+        102081395,
+        85853327,
+        102191575,
+        404485985,
+        101717905
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +48,17 @@
     "wof:geomhash":"5b424d011264dceac3644d472a70e361",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081395,
-            "locality_id":-1,
             "neighbourhood_id":85837259,
             "region_id":85688481,
             "venue_id":404153081
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081395,
+            "localadmin_id":404485985,
             "locality_id":101717905,
             "neighbourhood_id":85853327,
             "region_id":85688481,
@@ -64,9 +66,9 @@
         }
     ],
     "wof:id":404153081,
-    "wof:lastmodified":1472642144,
+    "wof:lastmodified":1492053105,
     "wof:name":"B Blyskal",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

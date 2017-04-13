@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.088321,40.09313,-75.088321,40.09313",
     "geom:latitude":40.09313,
     "geom:longitude":-75.088321,
@@ -29,10 +30,12 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
-        85633793,
         85885403,
-        102081355
+        102191575,
+        404485369,
+        85633793,
+        102081355,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +45,17 @@
     "wof:geomhash":"3727b26cb419b2486c509b79a2bddb46",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081355,
+            "localadmin_id":404485369,
             "neighbourhood_id":85885403,
             "region_id":85688481,
             "venue_id":622056247
         }
     ],
     "wof:id":622056247,
-    "wof:lastmodified":1472642170,
+    "wof:lastmodified":1492024672,
     "wof:name":"M Holland Robin",
     "wof:parent_id":85885403,
     "wof:placetype":"venue",

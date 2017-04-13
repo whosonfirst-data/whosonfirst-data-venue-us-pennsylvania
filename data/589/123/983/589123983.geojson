@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.795435,40.168365,-74.795435,40.168365",
     "geom:latitude":40.168365,
     "geom:longitude":-74.795435,
@@ -31,16 +32,25 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420536869
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7kSugJ9teUkQy3t7Ti7suy_40.168365_-74.795435@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"c3c5e9adf69eb0d9f248b28a67de7929",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420536869,
+            "venue_id":589123983
+        }
+    ],
     "wof:id":589123983,
-    "wof:lastmodified":1472642423,
+    "wof:lastmodified":1492069584,
     "wof:name":"Lane Dispatching & Warehousing",
     "wof:parent_id":420536869,
     "wof:placetype":"venue",

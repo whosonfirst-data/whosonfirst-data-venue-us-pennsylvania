@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.151568,40.090039,-75.151568,40.090039",
     "geom:latitude":40.090039,
     "geom:longitude":-75.151568,
@@ -33,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
-        85633793,
         85810601,
-        102081355
+        102191575,
+        404485449,
+        85633793,
+        102081355,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +49,17 @@
     "wof:geomhash":"9fbabefe77a6d8d8e0e01230bf6a6e2a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081355,
+            "localadmin_id":404485449,
             "neighbourhood_id":85810601,
             "region_id":85688481,
             "venue_id":605882321
         }
     ],
     "wof:id":605882321,
-    "wof:lastmodified":1472643984,
+    "wof:lastmodified":1492027981,
     "wof:name":"Oak Assisted Living Community",
     "wof:parent_id":85810601,
     "wof:placetype":"venue",

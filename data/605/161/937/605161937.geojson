@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.087197,40.079036,-75.087197,40.079036",
     "geom:latitude":40.079036,
     "geom:longitude":-75.087197,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85845503,
+        102191575,
+        404483617,
         85633793,
         101717411,
         102081355,
-        85845503
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,8 +49,10 @@
     "wof:geomhash":"c2274f3402bf502f51c80f470b87677a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081355,
+            "localadmin_id":404483617,
             "locality_id":101717411,
             "neighbourhood_id":85845503,
             "region_id":85688481,
@@ -55,7 +60,7 @@
         }
     ],
     "wof:id":605161937,
-    "wof:lastmodified":1472642798,
+    "wof:lastmodified":1492026414,
     "wof:name":"OBrians Bar",
     "wof:parent_id":85845503,
     "wof:placetype":"venue",

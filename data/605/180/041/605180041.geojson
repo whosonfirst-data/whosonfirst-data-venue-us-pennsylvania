@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.015363,40.208199,-75.015363,40.208199",
     "geom:latitude":40.208199,
     "geom:longitude":-75.015363,
@@ -33,13 +34,14 @@
     "sg:website":"www.comedycabaret.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688481,
+        85633793,
+        85823191,
+        102080987,
         85865385,
         102191575,
         404484755,
-        85633793,
-        101719119,
-        102080987,
-        85688481
+        101719119
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,6 +50,13 @@
     "wof:country":"US",
     "wof:geomhash":"da45162024ade5287b353e2a9df0dbe4",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080987,
+            "neighbourhood_id":85823191,
+            "region_id":85688481,
+            "venue_id":605180041
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -60,9 +69,9 @@
         }
     ],
     "wof:id":605180041,
-    "wof:lastmodified":1472642838,
+    "wof:lastmodified":1492034482,
     "wof:name":"Comedy Cabaret",
-    "wof:parent_id":85865385,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

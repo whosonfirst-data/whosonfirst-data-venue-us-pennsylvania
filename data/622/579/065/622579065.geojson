@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.27354,40.737639,-74.27354,40.737639",
     "geom:latitude":40.737639,
     "geom:longitude":-74.27354,
@@ -43,8 +44,9 @@
     "sg:website":"http://www.goldsteinmedia.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
         85633793,
+        420526927,
+        85688607,
         85892401,
         102085043
     ],
@@ -57,6 +59,11 @@
     "wof:hierarchy":[
         {
             "country_id":85633793,
+            "neighbourhood_id":420526927,
+            "venue_id":622579065
+        },
+        {
+            "country_id":85633793,
             "county_id":102085043,
             "neighbourhood_id":85892401,
             "region_id":85688607,
@@ -64,9 +71,9 @@
         }
     ],
     "wof:id":622579065,
-    "wof:lastmodified":1472643836,
+    "wof:lastmodified":1492057606,
     "wof:name":"Goldstein Media",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

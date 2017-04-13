@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.220295,40.399698,-75.220295,40.399698",
     "geom:latitude":40.399698,
     "geom:longitude":-75.220295,
@@ -34,8 +35,9 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        85868579,
-        102080987
+        85823461,
+        102080987,
+        85868579
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +49,22 @@
         {
             "country_id":85633793,
             "county_id":102080987,
+            "neighbourhood_id":85823461,
+            "region_id":85688481,
+            "venue_id":588824995
+        },
+        {
+            "country_id":85633793,
+            "county_id":102080987,
             "neighbourhood_id":85868579,
             "region_id":85688481,
             "venue_id":588824995
         }
     ],
     "wof:id":588824995,
-    "wof:lastmodified":1472642214,
+    "wof:lastmodified":1492067834,
     "wof:name":"After Hours Office Cleaning",
-    "wof:parent_id":85868579,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

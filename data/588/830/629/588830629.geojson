@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.15068,40.078859,-75.15068,40.078859",
     "geom:latitude":40.078859,
     "geom:longitude":-75.15068,
@@ -32,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
-        85633793,
         85810601,
-        102081355
+        102191575,
+        404485449,
+        85633793,
+        102081355,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +48,17 @@
     "wof:geomhash":"e889236e35c10cfce24fa2804932fb1b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081355,
+            "localadmin_id":404485449,
             "neighbourhood_id":85810601,
             "region_id":85688481,
             "venue_id":588830629
         }
     ],
     "wof:id":588830629,
-    "wof:lastmodified":1472642351,
+    "wof:lastmodified":1492067345,
     "wof:name":"TV Facts",
     "wof:parent_id":85810601,
     "wof:placetype":"venue",

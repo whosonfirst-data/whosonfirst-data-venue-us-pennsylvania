@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.983297,40.323505,-74.983297,40.323505",
     "geom:latitude":40.323505,
     "geom:longitude":-74.983297,
@@ -32,16 +33,25 @@
         "datum"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420536917
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6XN9vfJv27BUKrQmoQZWip_40.323505_-74.983297@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"e7ea62041f2488259e17f294ae67f14c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420536917,
+            "venue_id":621851749
+        }
+    ],
     "wof:id":621851749,
-    "wof:lastmodified":1472642339,
+    "wof:lastmodified":1492035108,
     "wof:name":"Test Link",
     "wof:parent_id":420536917,
     "wof:placetype":"venue",

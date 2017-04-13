@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.13525,40.164484,-75.13525,40.164484",
     "geom:latitude":40.164484,
     "geom:longitude":-75.13525,
@@ -32,10 +33,16 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        420539267,
+        102191575,
+        404485465,
         85633793,
-        85893285,
-        102081355
+        101719587,
+        102081355,
+        85688481,
+        420539261,
+        404485715,
+        101719711
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +52,30 @@
     "wof:geomhash":"03ee6e9c8faf0abad6a277019ee7b7ba",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081355,
-            "neighbourhood_id":85893285,
+            "localadmin_id":404485465,
+            "locality_id":101719587,
+            "neighbourhood_id":420539267,
+            "region_id":85688481,
+            "venue_id":622061205
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081355,
+            "localadmin_id":404485715,
+            "locality_id":101719711,
+            "neighbourhood_id":420539261,
             "region_id":85688481,
             "venue_id":622061205
         }
     ],
     "wof:id":622061205,
-    "wof:lastmodified":1472642207,
+    "wof:lastmodified":1492042139,
     "wof:name":"China King",
-    "wof:parent_id":85893285,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

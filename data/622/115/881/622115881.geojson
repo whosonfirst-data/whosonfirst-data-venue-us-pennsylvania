@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.967504,40.119036,-74.967504,40.119036",
     "geom:latitude":40.119036,
     "geom:longitude":-74.967504,
@@ -34,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
-        85633793,
         85830671,
-        102080987
+        102191575,
+        404484793,
+        85633793,
+        102080987,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +50,17 @@
     "wof:geomhash":"af17a704faeef4a1de6278faac4f53c9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080987,
+            "localadmin_id":404484793,
             "neighbourhood_id":85830671,
             "region_id":85688481,
             "venue_id":622115881
         }
     ],
     "wof:id":622115881,
-    "wof:lastmodified":1472642555,
+    "wof:lastmodified":1492025951,
     "wof:name":"Donohoe Plumbing and Heating",
     "wof:parent_id":85830671,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.235094,40.694384,-75.235094,40.694384",
     "geom:latitude":40.694384,
     "geom:longitude":-75.235094,
@@ -32,13 +33,16 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85839223,
+        85897257,
         102191575,
-        404486111,
+        404485997,
         85633793,
-        101717853,
+        101717891,
         102081395,
-        85688481
+        85688481,
+        85839223,
+        404486111,
+        101717853
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,6 +55,16 @@
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081395,
+            "localadmin_id":404485997,
+            "locality_id":101717891,
+            "neighbourhood_id":85897257,
+            "region_id":85688481,
+            "venue_id":589120539
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081395,
             "localadmin_id":404486111,
             "locality_id":101717853,
             "neighbourhood_id":85839223,
@@ -59,9 +73,9 @@
         }
     ],
     "wof:id":589120539,
-    "wof:lastmodified":1472642371,
+    "wof:lastmodified":1492022458,
     "wof:name":"International Harvester Co Dlr",
-    "wof:parent_id":85839223,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

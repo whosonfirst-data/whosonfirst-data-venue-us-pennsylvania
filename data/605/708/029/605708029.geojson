@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.012061,40.500409,-80.012061,40.500409",
     "geom:latitude":40.500409,
     "geom:longitude":-80.012061,
@@ -30,10 +31,13 @@
     "sg:website":"www.darden.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
-        85633793,
         85827181,
-        102080887
+        102191575,
+        404482523,
+        85633793,
+        101718805,
+        102080887,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +47,18 @@
     "wof:geomhash":"f4df6b789c604f47c8cee6560c885cee",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
+            "locality_id":101718805,
             "neighbourhood_id":85827181,
             "region_id":85688481,
             "venue_id":605708029
         }
     ],
     "wof:id":605708029,
-    "wof:lastmodified":1472643808,
+    "wof:lastmodified":1491885688,
     "wof:name":"Red Lobster",
     "wof:parent_id":85827181,
     "wof:placetype":"venue",

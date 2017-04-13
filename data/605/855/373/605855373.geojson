@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.85669,40.200958,-74.85669,40.200958",
     "geom:latitude":40.200958,
     "geom:longitude":-74.85669,
@@ -39,8 +40,9 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        85815469,
-        102080987
+        85845639,
+        102080987,
+        85815469
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +54,22 @@
         {
             "country_id":85633793,
             "county_id":102080987,
+            "neighbourhood_id":85845639,
+            "region_id":85688481,
+            "venue_id":605855373
+        },
+        {
+            "country_id":85633793,
+            "county_id":102080987,
             "neighbourhood_id":85815469,
             "region_id":85688481,
             "venue_id":605855373
         }
     ],
     "wof:id":605855373,
-    "wof:lastmodified":1472643958,
+    "wof:lastmodified":1492038979,
     "wof:name":"Five Mile Woods Preserve Hdqrs",
-    "wof:parent_id":85815469,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.978975,40.126044,-74.978975,40.126044",
     "geom:latitude":40.126044,
     "geom:longitude":-74.978975,
@@ -33,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
-        85633793,
         85830671,
-        102080987
+        102191575,
+        404484793,
+        85633793,
+        102080987,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +49,17 @@
     "wof:geomhash":"45215af7dd0eb3975268f5e1607384a0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080987,
+            "localadmin_id":404484793,
             "neighbourhood_id":85830671,
             "region_id":85688481,
             "venue_id":605819785
         }
     ],
     "wof:id":605819785,
-    "wof:lastmodified":1472643931,
+    "wof:lastmodified":1492024533,
     "wof:name":"National City Mortgage",
     "wof:parent_id":85830671,
     "wof:placetype":"venue",

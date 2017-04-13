@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.919433,40.133868,-74.919433,40.133868",
     "geom:latitude":40.133868,
     "geom:longitude":-74.919433,
@@ -28,18 +29,37 @@
     "sg:postcode":"19020",
     "sg:province":"PA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420536875,
+        85688481,
+        85840671,
+        102080987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_14tkcPql0NBNJEKhfmfrfu_40.133868_-74.919433@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"a9de2db69aca1a80232e8c87e4dee20f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420536875,
+            "venue_id":588869345
+        },
+        {
+            "country_id":85633793,
+            "county_id":102080987,
+            "neighbourhood_id":85840671,
+            "region_id":85688481,
+            "venue_id":588869345
+        }
+    ],
     "wof:id":588869345,
-    "wof:lastmodified":1472642529,
+    "wof:lastmodified":1492067839,
     "wof:name":"Wood Real Estate Inc",
-    "wof:parent_id":420536875,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.203729,40.37822,-75.203729,40.37822",
     "geom:latitude":40.37822,
     "geom:longitude":-75.203729,
@@ -32,8 +33,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
         85633793,
+        420536895,
+        85688481,
         85828867,
         102080987
     ],
@@ -46,6 +48,11 @@
     "wof:hierarchy":[
         {
             "country_id":85633793,
+            "neighbourhood_id":420536895,
+            "venue_id":605506791
+        },
+        {
+            "country_id":85633793,
             "county_id":102080987,
             "neighbourhood_id":85828867,
             "region_id":85688481,
@@ -53,9 +60,9 @@
         }
     ],
     "wof:id":605506791,
-    "wof:lastmodified":1472643534,
+    "wof:lastmodified":1492020309,
     "wof:name":"Clare Bridge Cottage of Dublin",
-    "wof:parent_id":85828867,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

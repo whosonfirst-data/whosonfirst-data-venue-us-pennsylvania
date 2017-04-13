@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.045037,40.207854,-75.045037,40.207854",
     "geom:latitude":40.207854,
     "geom:longitude":-75.045037,
@@ -31,16 +32,25 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420536881
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4dYc1EFRb69LNQRxVuWN9e_40.207854_-75.045037@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"defb35633a65378c6b952d0208c8e56f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420536881,
+            "venue_id":605303645
+        }
+    ],
     "wof:id":605303645,
-    "wof:lastmodified":1472643198,
+    "wof:lastmodified":1492038976,
     "wof:name":"Cincinnatti Transplant",
     "wof:parent_id":420536881,
     "wof:placetype":"venue",

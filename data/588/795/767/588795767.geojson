@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.177254,40.859402,-75.177254,40.859402",
     "geom:latitude":40.859402,
     "geom:longitude":-75.177254,
@@ -34,14 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
-        85633793,
-        85851101,
-        102081395,
         85853327,
         102191575,
         404485985,
-        101717905
+        85633793,
+        101717905,
+        102081395,
+        85688481,
+        85851101
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,13 +52,6 @@
     "wof:geomhash":"8b3c6594c21853ebb010a1f251396b25",
     "wof:hierarchy":[
         {
-            "country_id":85633793,
-            "county_id":102081395,
-            "neighbourhood_id":85851101,
-            "region_id":85688481,
-            "venue_id":588795767
-        },
-        {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081395,
@@ -66,12 +60,19 @@
             "neighbourhood_id":85853327,
             "region_id":85688481,
             "venue_id":588795767
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081395,
+            "neighbourhood_id":85851101,
+            "region_id":85688481,
+            "venue_id":588795767
         }
     ],
     "wof:id":588795767,
-    "wof:lastmodified":1472641981,
+    "wof:lastmodified":1492031964,
     "wof:name":"Edgewood Kennels",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

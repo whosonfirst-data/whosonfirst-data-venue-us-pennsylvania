@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.089668,40.252981,-75.089668,40.252981",
     "geom:latitude":40.252981,
     "geom:longitude":-75.089668,
@@ -36,7 +37,8 @@
         85688481,
         85633793,
         85852559,
-        102080987
+        102080987,
+        85840357
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,12 +53,19 @@
             "neighbourhood_id":85852559,
             "region_id":85688481,
             "venue_id":621910865
+        },
+        {
+            "country_id":85633793,
+            "county_id":102080987,
+            "neighbourhood_id":85840357,
+            "region_id":85688481,
+            "venue_id":621910865
         }
     ],
     "wof:id":621910865,
-    "wof:lastmodified":1472642712,
+    "wof:lastmodified":1492052553,
     "wof:name":"Redeemer Lutheran Church",
-    "wof:parent_id":85852559,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

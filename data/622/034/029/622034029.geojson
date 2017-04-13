@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.083348,40.265093,-75.083348,40.265093",
     "geom:latitude":40.265093,
     "geom:longitude":-75.083348,
@@ -32,7 +33,8 @@
         85688481,
         85633793,
         85840357,
-        102080987
+        102080987,
+        85807385
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,12 +49,19 @@
             "neighbourhood_id":85840357,
             "region_id":85688481,
             "venue_id":622034029
+        },
+        {
+            "country_id":85633793,
+            "county_id":102080987,
+            "neighbourhood_id":85807385,
+            "region_id":85688481,
+            "venue_id":622034029
         }
     ],
     "wof:id":622034029,
-    "wof:lastmodified":1472641998,
+    "wof:lastmodified":1492038972,
     "wof:name":"Label King International",
-    "wof:parent_id":85840357,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

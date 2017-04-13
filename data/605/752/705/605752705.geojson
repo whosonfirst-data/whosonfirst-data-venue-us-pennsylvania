@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.030889,40.518964,-80.030889,40.518964",
     "geom:latitude":40.518964,
     "geom:longitude":-80.030889,
@@ -34,10 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85827181,
+        102191575,
+        404482523,
         85633793,
-        85841395,
-        102080887
+        101718805,
+        102080887,
+        85688481,
+        85841395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,6 +52,16 @@
     "wof:geomhash":"a61654380f5c2e2219faed74a333ddc1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080887,
+            "localadmin_id":404482523,
+            "locality_id":101718805,
+            "neighbourhood_id":85827181,
+            "region_id":85688481,
+            "venue_id":605752705
+        },
+        {
             "country_id":85633793,
             "county_id":102080887,
             "neighbourhood_id":85841395,
@@ -55,9 +70,9 @@
         }
     ],
     "wof:id":605752705,
-    "wof:lastmodified":1472643880,
+    "wof:lastmodified":1491885694,
     "wof:name":"Butler Brothers",
-    "wof:parent_id":85841395,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

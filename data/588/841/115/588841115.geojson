@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.099057,40.072162,-75.099057,40.072162",
     "geom:latitude":40.072162,
     "geom:longitude":-75.099057,
@@ -35,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85845503,
+        102191575,
+        404483617,
         85633793,
         101717411,
         102081355,
-        85845503
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,8 +52,10 @@
     "wof:geomhash":"6fbd8a8e3cde8fe8446016be490f027a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081355,
+            "localadmin_id":404483617,
             "locality_id":101717411,
             "neighbourhood_id":85845503,
             "region_id":85688481,
@@ -58,7 +63,7 @@
         }
     ],
     "wof:id":588841115,
-    "wof:lastmodified":1472642409,
+    "wof:lastmodified":1492024605,
     "wof:name":"Clarix",
     "wof:parent_id":85845503,
     "wof:placetype":"venue",

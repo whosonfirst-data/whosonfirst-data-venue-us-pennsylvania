@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.144054,40.06829,-75.144054,40.06829",
     "geom:latitude":40.06829,
     "geom:longitude":-75.144054,
@@ -32,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
-        85633793,
         85829647,
-        102081355
+        102191575,
+        404485449,
+        85633793,
+        102081355,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +48,17 @@
     "wof:geomhash":"02d7bdcb35595058a74717143e7d24bc",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081355,
+            "localadmin_id":404485449,
             "neighbourhood_id":85829647,
             "region_id":85688481,
             "venue_id":621935257
         }
     ],
     "wof:id":621935257,
-    "wof:lastmodified":1472642763,
+    "wof:lastmodified":1491921333,
     "wof:name":"Arbor Auto Svc",
     "wof:parent_id":85829647,
     "wof:placetype":"venue",

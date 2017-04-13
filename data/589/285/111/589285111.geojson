@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.201539,40.370936,-75.201539,40.370936",
     "geom:latitude":40.370936,
     "geom:longitude":-75.201539,
@@ -32,16 +33,25 @@
         "rooms"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420536895
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_15ncG4rCgn8mOHlUQyfNe5_40.370936_-75.201539@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"ecc202412fc36de6f72ccf3e68fd58bc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420536895,
+            "venue_id":589285111
+        }
+    ],
     "wof:id":589285111,
-    "wof:lastmodified":1472643044,
+    "wof:lastmodified":1492031442,
     "wof:name":"Dublin Star Diner",
     "wof:parent_id":420536895,
     "wof:placetype":"venue",

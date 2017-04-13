@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.916455,40.241567,-74.916455,40.241567",
     "geom:latitude":40.241567,
     "geom:longitude":-74.916455,
@@ -35,8 +36,9 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        101716819,
+        85814813,
         102080987,
+        101716819,
         85817341
     ],
     "wof:breaches":[],
@@ -49,6 +51,13 @@
         {
             "country_id":85633793,
             "county_id":102080987,
+            "neighbourhood_id":85814813,
+            "region_id":85688481,
+            "venue_id":605300101
+        },
+        {
+            "country_id":85633793,
+            "county_id":102080987,
             "locality_id":101716819,
             "neighbourhood_id":85817341,
             "region_id":85688481,
@@ -56,9 +65,9 @@
         }
     ],
     "wof:id":605300101,
-    "wof:lastmodified":1472643191,
+    "wof:lastmodified":1492020185,
     "wof:name":"A & S Video Services",
-    "wof:parent_id":85817341,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.855682,40.153767,-74.855682,40.153767",
     "geom:latitude":40.153767,
     "geom:longitude":-74.855682,
@@ -32,14 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688481,
+        85633793,
+        85853229,
+        102080987,
         85844019,
         102191575,
         404484801,
-        85633793,
-        101719127,
-        102080987,
-        85688481,
-        85853229
+        101719127
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,6 +50,13 @@
     "wof:geomhash":"4c8c9db6c8b8513098babd3cf3734f5a",
     "wof:hierarchy":[
         {
+            "country_id":85633793,
+            "county_id":102080987,
+            "neighbourhood_id":85853229,
+            "region_id":85688481,
+            "venue_id":589155859
+        },
+        {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080987,
@@ -57,19 +65,12 @@
             "neighbourhood_id":85844019,
             "region_id":85688481,
             "venue_id":589155859
-        },
-        {
-            "country_id":85633793,
-            "county_id":102080987,
-            "neighbourhood_id":85853229,
-            "region_id":85688481,
-            "venue_id":589155859
         }
     ],
     "wof:id":589155859,
-    "wof:lastmodified":1472642667,
+    "wof:lastmodified":1492024597,
     "wof:name":"Chippers Big Dipper",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

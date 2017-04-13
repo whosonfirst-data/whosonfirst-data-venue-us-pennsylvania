@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.030087,40.510643,-80.030087,40.510643",
     "geom:latitude":40.510643,
     "geom:longitude":-80.030087,
@@ -29,10 +30,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
-        85633793,
         85827181,
-        102080887
+        102191575,
+        404482523,
+        85633793,
+        101718805,
+        102080887,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,18 @@
     "wof:geomhash":"8c02a495c03cba6131c0c74001f67403",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
+            "locality_id":101718805,
             "neighbourhood_id":85827181,
             "region_id":85688481,
             "venue_id":621847091
         }
     ],
     "wof:id":621847091,
-    "wof:lastmodified":1472642224,
+    "wof:lastmodified":1491885703,
     "wof:name":"Kids Korner Day Care Ctr",
     "wof:parent_id":85827181,
     "wof:placetype":"venue",

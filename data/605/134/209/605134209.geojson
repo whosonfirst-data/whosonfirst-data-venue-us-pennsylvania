@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.907001,40.109989,-74.907001,40.109989",
     "geom:latitude":40.109989,
     "geom:longitude":-74.907001,
@@ -32,16 +33,25 @@
         "pump"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420536855
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5MkxrYYPZ3UvJM4y6I5iKJ_40.109989_-74.907001@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"7be75cb6b543232d80a706d575af4778",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420536855,
+            "venue_id":605134209
+        }
+    ],
     "wof:id":605134209,
-    "wof:lastmodified":1472642584,
+    "wof:lastmodified":1492025945,
     "wof:name":"Bill Weyhmiller Svc",
     "wof:parent_id":420536855,
     "wof:placetype":"venue",

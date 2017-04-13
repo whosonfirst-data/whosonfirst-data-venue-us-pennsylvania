@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.217289,40.280135,-75.217289,40.280135",
     "geom:latitude":40.280135,
     "geom:longitude":-75.217289,
@@ -31,18 +32,27 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420536803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_65urYGq5cuzb2fT3IAN61W_40.280135_-75.217289@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"27f90841d3c07214f69ae09b0e8614ef",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420536803,
+            "venue_id":589086709
+        }
+    ],
     "wof:id":589086709,
-    "wof:lastmodified":1472642266,
+    "wof:lastmodified":1492025955,
     "wof:name":"Barry A Talley & Assoc Inc",
-    "wof:parent_id":420536807,
+    "wof:parent_id":420536803,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.102941,40.480004,-75.102941,40.480004",
     "geom:latitude":40.480004,
     "geom:longitude":-75.102941,
@@ -33,18 +34,37 @@
         "grounds"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420536873,
+        85688481,
+        85849123,
+        102080987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2e6aOJRdN3LXEHnkmeefBV_40.480004_-75.102941@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"8e75713e3708f2e8213f6f4e857e6bd0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420536873,
+            "venue_id":605961947
+        },
+        {
+            "country_id":85633793,
+            "county_id":102080987,
+            "neighbourhood_id":85849123,
+            "region_id":85688481,
+            "venue_id":605961947
+        }
+    ],
     "wof:id":605961947,
-    "wof:lastmodified":1472644062,
+    "wof:lastmodified":1492027235,
     "wof:name":"Country Caretakers",
-    "wof:parent_id":420536873,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

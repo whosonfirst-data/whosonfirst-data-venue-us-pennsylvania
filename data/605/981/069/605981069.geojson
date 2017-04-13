@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.086646,40.085935,-75.086646,40.085935",
     "geom:latitude":40.085935,
     "geom:longitude":-75.086646,
@@ -34,11 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85845503,
+        102191575,
+        404483617,
         85633793,
         101717411,
         102081355,
-        85845503
+        85688481,
+        85826033
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,18 +52,27 @@
     "wof:geomhash":"ee8f45a56916b553d30abee9f60ebe74",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081355,
+            "localadmin_id":404483617,
             "locality_id":101717411,
             "neighbourhood_id":85845503,
+            "region_id":85688481,
+            "venue_id":605981069
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081355,
+            "neighbourhood_id":85826033,
             "region_id":85688481,
             "venue_id":605981069
         }
     ],
     "wof:id":605981069,
-    "wof:lastmodified":1472644065,
+    "wof:lastmodified":1492038947,
     "wof:name":"Milford Square Custom Kitchens",
-    "wof:parent_id":85845503,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

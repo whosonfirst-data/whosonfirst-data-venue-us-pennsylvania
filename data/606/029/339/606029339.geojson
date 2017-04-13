@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.118595,40.185683,-75.118595,40.185683",
     "geom:latitude":40.185683,
     "geom:longitude":-75.118595,
@@ -32,18 +33,48 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420539189,
+        102191575,
+        404485465,
+        85633793,
+        101719587,
+        102081355,
+        85688481,
+        85818639
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6rKqJPx0WIluf6wXlg2F0I_40.185683_-75.118595@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"58947438abdaee76f43b51d669ad9729",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081355,
+            "localadmin_id":404485465,
+            "locality_id":101719587,
+            "neighbourhood_id":420539189,
+            "region_id":85688481,
+            "venue_id":606029339
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081355,
+            "localadmin_id":404485465,
+            "locality_id":101719587,
+            "neighbourhood_id":85818639,
+            "region_id":85688481,
+            "venue_id":606029339
+        }
+    ],
     "wof:id":606029339,
-    "wof:lastmodified":1472642020,
+    "wof:lastmodified":1492032139,
     "wof:name":"Nagele William",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

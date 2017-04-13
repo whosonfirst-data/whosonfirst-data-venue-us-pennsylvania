@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.155363,40.115058,-75.155363,40.115058",
     "geom:latitude":40.115058,
     "geom:longitude":-75.155363,
@@ -33,10 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85855009,
+        102191575,
+        404485369,
         85633793,
-        85819411,
-        102081355
+        101719581,
+        102081355,
+        85688481,
+        85819411
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,6 +51,16 @@
     "wof:geomhash":"e7633712dc24d887eb95c4f484c04e38",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081355,
+            "localadmin_id":404485369,
+            "locality_id":101719581,
+            "neighbourhood_id":85855009,
+            "region_id":85688481,
+            "venue_id":605149229
+        },
+        {
             "country_id":85633793,
             "county_id":102081355,
             "neighbourhood_id":85819411,
@@ -54,9 +69,9 @@
         }
     ],
     "wof:id":605149229,
-    "wof:lastmodified":1472642756,
+    "wof:lastmodified":1492037293,
     "wof:name":"Ardsley Bible Chapel",
-    "wof:parent_id":85819411,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

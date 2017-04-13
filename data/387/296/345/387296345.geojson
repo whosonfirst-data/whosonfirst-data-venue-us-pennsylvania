@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.091767,40.439848,-80.091767,40.439848",
     "geom:latitude":40.439848,
     "geom:longitude":-80.091767,
@@ -30,10 +31,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
-        85633793,
         85818823,
-        102080887
+        102191575,
+        404482523,
+        85633793,
+        101718805,
+        102080887,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +47,18 @@
     "wof:geomhash":"398f72d9750759bb9f4ed6bd1b5e94a2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080887,
+            "localadmin_id":404482523,
+            "locality_id":101718805,
             "neighbourhood_id":85818823,
             "region_id":85688481,
             "venue_id":387296345
         }
     ],
     "wof:id":387296345,
-    "wof:lastmodified":1472642189,
+    "wof:lastmodified":1491921165,
     "wof:name":"Medical Bureau of Pittsburgh",
     "wof:parent_id":85818823,
     "wof:placetype":"venue",

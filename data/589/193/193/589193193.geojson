@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.915784,40.167639,-74.915784,40.167639",
     "geom:latitude":40.167639,
     "geom:longitude":-74.915784,
@@ -34,8 +35,9 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        101716817,
+        85829747,
         102080987,
+        101716817,
         85893293
     ],
     "wof:breaches":[],
@@ -48,6 +50,13 @@
         {
             "country_id":85633793,
             "county_id":102080987,
+            "neighbourhood_id":85829747,
+            "region_id":85688481,
+            "venue_id":589193193
+        },
+        {
+            "country_id":85633793,
+            "county_id":102080987,
             "locality_id":101716817,
             "neighbourhood_id":85893293,
             "region_id":85688481,
@@ -55,9 +64,9 @@
         }
     ],
     "wof:id":589193193,
-    "wof:lastmodified":1472642743,
+    "wof:lastmodified":1492020189,
     "wof:name":"Mark Shapcott III Building",
-    "wof:parent_id":85893293,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

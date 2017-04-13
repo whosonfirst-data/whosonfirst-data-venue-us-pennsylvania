@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.128874,40.129284,-75.128874,40.129284",
     "geom:latitude":40.129284,
     "geom:longitude":-75.128874,
@@ -28,18 +29,37 @@
     "sg:postcode":"19001",
     "sg:province":"PA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688481,
+        85633793,
+        85846105,
+        102081355,
+        420539197
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_094hvrjYqoawIjCxjordSy_40.129284_-75.128874@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"a47406fd15ad92416f0f88aa193ae28f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081355,
+            "neighbourhood_id":85846105,
+            "region_id":85688481,
+            "venue_id":605768753
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420539197,
+            "venue_id":605768753
+        }
+    ],
     "wof:id":605768753,
-    "wof:lastmodified":1472643887,
+    "wof:lastmodified":1492024535,
     "wof:name":"Tony's Restaurant",
-    "wof:parent_id":420539197,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

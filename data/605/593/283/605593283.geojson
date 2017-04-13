@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.950471,40.311301,-74.950471,40.311301",
     "geom:latitude":40.311301,
     "geom:longitude":-74.950471,
@@ -32,7 +33,8 @@
         85688481,
         85633793,
         85858655,
-        102080987
+        102080987,
+        85808301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,12 +49,19 @@
             "neighbourhood_id":85858655,
             "region_id":85688481,
             "venue_id":605593283
+        },
+        {
+            "country_id":85633793,
+            "county_id":102080987,
+            "neighbourhood_id":85808301,
+            "region_id":85688481,
+            "venue_id":605593283
         }
     ],
     "wof:id":605593283,
-    "wof:lastmodified":1472643600,
+    "wof:lastmodified":1492030805,
     "wof:name":"Serge Minassian Inc",
-    "wof:parent_id":85858655,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.083528,40.084043,-75.083528,40.084043",
     "geom:latitude":40.084043,
     "geom:longitude":-75.083528,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85845503,
+        102191575,
+        404483617,
         85633793,
         101717411,
         102081355,
-        85845503
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,8 +51,10 @@
     "wof:geomhash":"a3a0f283fec79f535111c03bfda2c60f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081355,
+            "localadmin_id":404483617,
             "locality_id":101717411,
             "neighbourhood_id":85845503,
             "region_id":85688481,
@@ -57,7 +62,7 @@
         }
     ],
     "wof:id":621813867,
-    "wof:lastmodified":1472641902,
+    "wof:lastmodified":1492027897,
     "wof:name":"Air Flow Co Inc",
     "wof:parent_id":85845503,
     "wof:placetype":"venue",

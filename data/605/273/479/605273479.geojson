@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.165973,40.211487,-75.165973,40.211487",
     "geom:latitude":40.211487,
     "geom:longitude":-75.165973,
@@ -33,18 +34,31 @@
     ],
     "sg:website":"www.levelsolutions.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688481,
+        85633793,
+        85893287,
+        102081355
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_27rZCc2Mlso4vJnyWS37E6_40.211487_-75.165973@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"047f60ee08c756df0c8566fca382ab34",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081355,
+            "neighbourhood_id":85893287,
+            "region_id":85688481,
+            "venue_id":605273479
+        }
+    ],
     "wof:id":605273479,
-    "wof:lastmodified":1472643148,
+    "wof:lastmodified":1492026468,
     "wof:name":"Ametek Drexelbrook",
-    "wof:parent_id":420539263,
+    "wof:parent_id":85893287,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

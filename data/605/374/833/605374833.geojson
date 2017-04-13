@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.052961,40.22359,-75.052961,40.22359",
     "geom:latitude":40.22359,
     "geom:longitude":-75.052961,
@@ -32,18 +33,45 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420536881,
+        85688481,
+        85852559,
+        102080987,
+        85823191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3K8pr55nzHUI17E9QzIMBU_40.223590_-75.052961@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"690ff73d73e7652b69ab52d016010419",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420536881,
+            "venue_id":605374833
+        },
+        {
+            "country_id":85633793,
+            "county_id":102080987,
+            "neighbourhood_id":85852559,
+            "region_id":85688481,
+            "venue_id":605374833
+        },
+        {
+            "country_id":85633793,
+            "county_id":102080987,
+            "neighbourhood_id":85823191,
+            "region_id":85688481,
+            "venue_id":605374833
+        }
+    ],
     "wof:id":605374833,
-    "wof:lastmodified":1472643315,
+    "wof:lastmodified":1492019989,
     "wof:name":"ABC Construction",
-    "wof:parent_id":420536881,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

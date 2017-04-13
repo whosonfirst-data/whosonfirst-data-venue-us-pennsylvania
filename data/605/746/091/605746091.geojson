@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.053466,40.3983,-75.053466,40.3983",
     "geom:latitude":40.3983,
     "geom:longitude":-75.053466,
@@ -35,7 +36,10 @@
         85688481,
         85633793,
         85841431,
-        102080987
+        102080987,
+        85688607,
+        85808707,
+        102085997
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,12 +54,19 @@
             "neighbourhood_id":85841431,
             "region_id":85688481,
             "venue_id":605746091
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085997,
+            "neighbourhood_id":85808707,
+            "region_id":85688607,
+            "venue_id":605746091
         }
     ],
     "wof:id":605746091,
-    "wof:lastmodified":1472643849,
+    "wof:lastmodified":1492038944,
     "wof:name":"Carversville Fiber Studio",
-    "wof:parent_id":85841431,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

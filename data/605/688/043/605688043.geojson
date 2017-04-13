@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.034832,40.5173,-80.034832,40.5173",
     "geom:latitude":40.5173,
     "geom:longitude":-80.034832,
@@ -34,8 +35,12 @@
     "wof:belongsto":[
         85688481,
         85633793,
+        85824969,
+        102080887,
         85827181,
-        102080887
+        102191575,
+        404482523,
+        101718805
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +52,25 @@
         {
             "country_id":85633793,
             "county_id":102080887,
+            "neighbourhood_id":85824969,
+            "region_id":85688481,
+            "venue_id":605688043
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080887,
+            "localadmin_id":404482523,
+            "locality_id":101718805,
             "neighbourhood_id":85827181,
             "region_id":85688481,
             "venue_id":605688043
         }
     ],
     "wof:id":605688043,
-    "wof:lastmodified":1472643761,
+    "wof:lastmodified":1491885695,
     "wof:name":"Genesis Medical Association",
-    "wof:parent_id":85827181,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

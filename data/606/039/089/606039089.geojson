@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.239618,40.090958,-75.239618,40.090958",
     "geom:latitude":40.090958,
     "geom:longitude":-75.239618,
@@ -34,9 +35,8 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        85832039,
-        102081355,
-        85804595
+        85804595,
+        102081355
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,22 +48,15 @@
         {
             "country_id":85633793,
             "county_id":102081355,
-            "neighbourhood_id":85832039,
-            "region_id":85688481,
-            "venue_id":606039089
-        },
-        {
-            "country_id":85633793,
-            "county_id":102081355,
             "neighbourhood_id":85804595,
             "region_id":85688481,
             "venue_id":606039089
         }
     ],
     "wof:id":606039089,
-    "wof:lastmodified":1472642066,
+    "wof:lastmodified":1491910649,
     "wof:name":"Richard T Hawkins",
-    "wof:parent_id":-1,
+    "wof:parent_id":85804595,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.947071,40.224438,-74.947071,40.224438",
     "geom:latitude":40.224438,
     "geom:longitude":-74.947071,
@@ -33,10 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85865385,
+        102191575,
+        404484755,
         85633793,
-        101716819,
+        101719119,
         102080987,
+        85688481,
+        101716819,
         85817341
     ],
     "wof:breaches":[],
@@ -47,6 +52,16 @@
     "wof:geomhash":"a23173bfa571438d02351d618cd7391a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080987,
+            "localadmin_id":404484755,
+            "locality_id":101719119,
+            "neighbourhood_id":85865385,
+            "region_id":85688481,
+            "venue_id":605321961
+        },
+        {
             "country_id":85633793,
             "county_id":102080987,
             "locality_id":101716819,
@@ -56,9 +71,9 @@
         }
     ],
     "wof:id":605321961,
-    "wof:lastmodified":1472643237,
+    "wof:lastmodified":1492025936,
     "wof:name":"Makefield Dental Laboratory",
-    "wof:parent_id":85817341,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

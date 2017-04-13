@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.135508,40.098638,-75.135508,40.098638",
     "geom:latitude":40.098638,
     "geom:longitude":-75.135508,
@@ -31,8 +32,9 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        85805761,
-        102081355
+        85837019,
+        102081355,
+        85805761
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +46,22 @@
         {
             "country_id":85633793,
             "county_id":102081355,
+            "neighbourhood_id":85837019,
+            "region_id":85688481,
+            "venue_id":605699521
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081355,
             "neighbourhood_id":85805761,
             "region_id":85688481,
             "venue_id":605699521
         }
     ],
     "wof:id":605699521,
-    "wof:lastmodified":1472643811,
+    "wof:lastmodified":1492020236,
     "wof:name":"Cdr Realty Inc",
-    "wof:parent_id":85805761,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

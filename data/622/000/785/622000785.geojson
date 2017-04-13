@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.890947,40.119428,-74.890947,40.119428",
     "geom:latitude":40.119428,
     "geom:longitude":-74.890947,
@@ -31,16 +32,25 @@
         "delivery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420536831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1PXz6YgiNUG19Q7PedKLFA_40.119428_-74.890947@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"5f779e7cc829ce1d02a47ccfbddef9d3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420536831,
+            "venue_id":622000785
+        }
+    ],
     "wof:id":622000785,
-    "wof:lastmodified":1472641884,
+    "wof:lastmodified":1492023849,
     "wof:name":"Blair House Delivery Svc",
     "wof:parent_id":420536831,
     "wof:placetype":"venue",

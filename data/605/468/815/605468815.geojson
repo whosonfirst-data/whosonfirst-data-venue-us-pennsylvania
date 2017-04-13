@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.072343,40.214968,-75.072343,40.214968",
     "geom:latitude":40.214968,
     "geom:longitude":-75.072343,
@@ -32,18 +33,37 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420536881,
+        85688481,
+        85852559,
+        102080987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_00z9QtjXDGmaJqhUo995nE_40.214968_-75.072343@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"ba0e92fb202468cfab853073bf639ba4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420536881,
+            "venue_id":605468815
+        },
+        {
+            "country_id":85633793,
+            "county_id":102080987,
+            "neighbourhood_id":85852559,
+            "region_id":85688481,
+            "venue_id":605468815
+        }
+    ],
     "wof:id":605468815,
-    "wof:lastmodified":1472643466,
+    "wof:lastmodified":1492060416,
     "wof:name":"Resolve Rotor",
-    "wof:parent_id":420536881,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

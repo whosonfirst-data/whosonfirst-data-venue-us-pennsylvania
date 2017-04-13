@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.041981,40.451662,-80.041981,40.451662",
     "geom:latitude":40.451662,
     "geom:longitude":-80.041981,
@@ -31,18 +32,59 @@
         "stamping"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85873557,
+        102191575,
+        404482523,
+        85633793,
+        101718805,
+        102080887,
+        85688481,
+        85873575,
+        85817839
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5JncOTgmI3RU1rR107tMCG_40.451662_-80.041981@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"29e1a059fe34a6ce49a4a75311adf211",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080887,
+            "localadmin_id":404482523,
+            "locality_id":101718805,
+            "neighbourhood_id":85873557,
+            "region_id":85688481,
+            "venue_id":588807247
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080887,
+            "localadmin_id":404482523,
+            "locality_id":101718805,
+            "neighbourhood_id":85873575,
+            "region_id":85688481,
+            "venue_id":588807247
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080887,
+            "localadmin_id":404482523,
+            "locality_id":101718805,
+            "neighbourhood_id":85817839,
+            "region_id":85688481,
+            "venue_id":588807247
+        }
+    ],
     "wof:id":588807247,
-    "wof:lastmodified":1472642014,
+    "wof:lastmodified":1491893596,
     "wof:name":"Acme Stamping & Wire Forming",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

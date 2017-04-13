@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.111527,40.312661,-75.111527,40.312661",
     "geom:latitude":40.312661,
     "geom:longitude":-75.111527,
@@ -35,8 +36,9 @@
     "wof:belongsto":[
         85688481,
         85633793,
-        85842705,
-        102080987
+        85813023,
+        102080987,
+        85842705
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +50,22 @@
         {
             "country_id":85633793,
             "county_id":102080987,
+            "neighbourhood_id":85813023,
+            "region_id":85688481,
+            "venue_id":605783203
+        },
+        {
+            "country_id":85633793,
+            "county_id":102080987,
             "neighbourhood_id":85842705,
             "region_id":85688481,
             "venue_id":605783203
         }
     ],
     "wof:id":605783203,
-    "wof:lastmodified":1472643893,
+    "wof:lastmodified":1492031002,
     "wof:name":"Mobil",
-    "wof:parent_id":85842705,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

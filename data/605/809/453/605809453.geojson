@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.987433,40.171948,-74.987433,40.171948",
     "geom:latitude":40.171948,
     "geom:longitude":-74.987433,
@@ -38,18 +39,45 @@
         "financial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688481,
+        85633793,
+        85836521,
+        102080987,
+        420536805,
+        102191575,
+        404484737,
+        101719147
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4pbfev5oSHOlm9UuzRBiIe_40.171948_-74.987433@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"afd38f6913b78f7e62da8bc77267ec7a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080987,
+            "neighbourhood_id":85836521,
+            "region_id":85688481,
+            "venue_id":605809453
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080987,
+            "localadmin_id":404484737,
+            "locality_id":101719147,
+            "neighbourhood_id":420536805,
+            "region_id":85688481,
+            "venue_id":605809453
+        }
+    ],
     "wof:id":605809453,
-    "wof:lastmodified":1472643916,
+    "wof:lastmodified":1492024742,
     "wof:name":"Key West Financial",
-    "wof:parent_id":420536805,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

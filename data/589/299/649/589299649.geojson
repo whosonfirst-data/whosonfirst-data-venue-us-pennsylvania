@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.005986,40.383002,-75.005986,40.383002",
     "geom:latitude":40.383002,
     "geom:longitude":-75.005986,
@@ -29,8 +30,11 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85688607,
         85633793,
+        85843833,
+        102085997,
+        85688481,
         85810139,
         102080987
     ],
@@ -43,6 +47,13 @@
     "wof:hierarchy":[
         {
             "country_id":85633793,
+            "county_id":102085997,
+            "neighbourhood_id":85843833,
+            "region_id":85688607,
+            "venue_id":589299649
+        },
+        {
+            "country_id":85633793,
             "county_id":102080987,
             "neighbourhood_id":85810139,
             "region_id":85688481,
@@ -50,9 +61,9 @@
         }
     ],
     "wof:id":589299649,
-    "wof:lastmodified":1472643112,
+    "wof:lastmodified":1492060707,
     "wof:name":"New Hope Motel In The Woods",
-    "wof:parent_id":85810139,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

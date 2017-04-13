@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.911983,40.133898,-74.911983,40.133898",
     "geom:latitude":40.133898,
     "geom:longitude":-74.911983,
@@ -31,16 +32,25 @@
         "billing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420536875
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5aCQ93HzJvosaeFglQvDku_40.133898_-74.911983@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"8f32ec3098269ad71a541303298da24b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420536875,
+            "venue_id":622001301
+        }
+    ],
     "wof:id":622001301,
-    "wof:lastmodified":1472641856,
+    "wof:lastmodified":1492028092,
     "wof:name":"Health Care Billing Svc",
     "wof:parent_id":420536875,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.172904,40.153214,-75.172904,40.153214",
     "geom:latitude":40.153214,
     "geom:longitude":-75.172904,
@@ -29,11 +30,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85852123,
+        102191575,
+        404485465,
         85633793,
         101719587,
         102081355,
-        85852123
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +46,10 @@
     "wof:geomhash":"3dcb100b64dea2e1d0c2862796378a0f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081355,
+            "localadmin_id":404485465,
             "locality_id":101719587,
             "neighbourhood_id":85852123,
             "region_id":85688481,
@@ -52,7 +57,7 @@
         }
     ],
     "wof:id":605650433,
-    "wof:lastmodified":1472643718,
+    "wof:lastmodified":1492042137,
     "wof:name":"Pro Lawn",
     "wof:parent_id":85852123,
     "wof:placetype":"venue",

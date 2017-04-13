@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.090717,40.081911,-75.090717,40.081911",
     "geom:latitude":40.081911,
     "geom:longitude":-75.090717,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
+        85845503,
+        102191575,
+        404483617,
         85633793,
         101717411,
         102081355,
-        85845503
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,8 +49,10 @@
     "wof:geomhash":"3a4d894de27215def00959f02ac89a84",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081355,
+            "localadmin_id":404483617,
             "locality_id":101717411,
             "neighbourhood_id":85845503,
             "region_id":85688481,
@@ -55,7 +60,7 @@
         }
     ],
     "wof:id":589021091,
-    "wof:lastmodified":1472641845,
+    "wof:lastmodified":1492024603,
     "wof:name":"Vincents Pizza",
     "wof:parent_id":85845503,
     "wof:placetype":"venue",

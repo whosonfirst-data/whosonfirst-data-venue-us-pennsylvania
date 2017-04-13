@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.002378,40.394096,-75.002378,40.394096",
     "geom:latitude":40.394096,
     "geom:longitude":-75.002378,
@@ -35,7 +36,10 @@
         85688607,
         85633793,
         85843833,
-        102085997
+        102085997,
+        85688481,
+        85810139,
+        102080987
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,12 +54,19 @@
             "neighbourhood_id":85843833,
             "region_id":85688607,
             "venue_id":605592825
+        },
+        {
+            "country_id":85633793,
+            "county_id":102080987,
+            "neighbourhood_id":85810139,
+            "region_id":85688481,
+            "venue_id":605592825
         }
     ],
     "wof:id":605592825,
-    "wof:lastmodified":1472643636,
+    "wof:lastmodified":1492077514,
     "wof:name":"Goose Advertising",
-    "wof:parent_id":85843833,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.146642,40.49594,-75.146642,40.49594",
     "geom:latitude":40.49594,
     "geom:longitude":-75.146642,
@@ -31,18 +32,37 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420536873,
+        85688481,
+        85824115,
+        102080987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7QdlvxEZLeDHT2ZAcOoLgN_40.495940_-75.146642@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"a0de3a332d81c375f916feca9ad2a771",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420536873,
+            "venue_id":605941211
+        },
+        {
+            "country_id":85633793,
+            "county_id":102080987,
+            "neighbourhood_id":85824115,
+            "region_id":85688481,
+            "venue_id":605941211
+        }
+    ],
     "wof:id":605941211,
-    "wof:lastmodified":1472644028,
+    "wof:lastmodified":1492018156,
     "wof:name":"Gerald A Camera",
-    "wof:parent_id":420536873,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

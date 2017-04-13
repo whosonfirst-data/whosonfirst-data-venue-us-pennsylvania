@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.223399,40.093064,-75.223399,40.093064",
     "geom:latitude":40.093064,
     "geom:longitude":-75.223399,
@@ -29,14 +30,13 @@
     "sg:province":"PA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688481,
-        85633793,
-        85832039,
-        102081355,
         420539259,
         102191575,
         404485607,
-        101719573
+        85633793,
+        101719671,
+        102081355,
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,27 +46,20 @@
     "wof:geomhash":"3f83be58d444f4e5c1ab6f7c6be2c08f",
     "wof:hierarchy":[
         {
-            "country_id":85633793,
-            "county_id":102081355,
-            "neighbourhood_id":85832039,
-            "region_id":85688481,
-            "venue_id":605344637
-        },
-        {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081355,
             "localadmin_id":404485607,
-            "locality_id":101719573,
+            "locality_id":101719671,
             "neighbourhood_id":420539259,
             "region_id":85688481,
             "venue_id":605344637
         }
     ],
     "wof:id":605344637,
-    "wof:lastmodified":1472643265,
+    "wof:lastmodified":1491910651,
     "wof:name":"Pharmacy Partners Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420539259,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

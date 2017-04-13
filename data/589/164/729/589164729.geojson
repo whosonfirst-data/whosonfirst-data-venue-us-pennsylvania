@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.117301,40.125717,-75.117301,40.125717",
     "geom:latitude":40.125717,
     "geom:longitude":-75.117301,
@@ -31,18 +32,37 @@
         "director"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420539197,
+        85688481,
+        85846507,
+        102081355
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3mcakhfMNOHFfrWkZpohNz_40.125717_-75.117301@1294186258"
     },
     "wof:country":"US",
     "wof:geomhash":"12721ace4705b2dc965b4f83940bcd64",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420539197,
+            "venue_id":589164729
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081355,
+            "neighbourhood_id":85846507,
+            "region_id":85688481,
+            "venue_id":589164729
+        }
+    ],
     "wof:id":589164729,
-    "wof:lastmodified":1472642675,
+    "wof:lastmodified":1492023859,
     "wof:name":"Pleier Funeral Svc",
-    "wof:parent_id":420539197,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

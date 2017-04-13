@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.133943,40.183056,-75.133943,40.183056",
     "geom:latitude":40.183056,
     "geom:longitude":-75.133943,
@@ -35,13 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420539203,
+        420539271,
         102191575,
         404485465,
         85633793,
         101719587,
         102081355,
-        85688481
+        85688481,
+        420539203
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,15 +58,25 @@
             "county_id":102081355,
             "localadmin_id":404485465,
             "locality_id":101719587,
+            "neighbourhood_id":420539271,
+            "region_id":85688481,
+            "venue_id":605497535
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081355,
+            "localadmin_id":404485465,
+            "locality_id":101719587,
             "neighbourhood_id":420539203,
             "region_id":85688481,
             "venue_id":605497535
         }
     ],
     "wof:id":605497535,
-    "wof:lastmodified":1472643519,
+    "wof:lastmodified":1492018969,
     "wof:name":"Alpine Custom Home Builders",
-    "wof:parent_id":420539203,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],

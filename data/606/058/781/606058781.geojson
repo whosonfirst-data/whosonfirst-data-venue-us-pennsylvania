@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.884709,40.151328,-74.884709,40.151328",
     "geom:latitude":40.151328,
     "geom:longitude":-74.884709,
@@ -34,13 +35,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688481,
+        85633793,
+        101716817,
+        102080987,
+        85893293,
         420536823,
         102191575,
         404484801,
-        85633793,
-        101719127,
-        102080987,
-        85688481
+        101719127
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,6 +52,14 @@
     "wof:country":"US",
     "wof:geomhash":"a46403f45d525b0f250284bf3304dc33",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080987,
+            "locality_id":101716817,
+            "neighbourhood_id":85893293,
+            "region_id":85688481,
+            "venue_id":606058781
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -61,9 +72,9 @@
         }
     ],
     "wof:id":606058781,
-    "wof:lastmodified":1472642279,
+    "wof:lastmodified":1492031015,
     "wof:name":"American Quality Home Imprvmt",
-    "wof:parent_id":420536823,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],
