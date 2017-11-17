@@ -7,6 +7,7 @@
     "addr:postcode":"19118",
     "addr:street":"Germantown Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-75.199739,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7800 Germantown Ave",
     "sg:city":"Philadelphia",
     "sg:classifiers":[
@@ -44,10 +46,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":254602371,
         "sg:id":"SG_4IlGOfBnxsk98Snl9pTNW1_40.069507_-75.199739@1294186258"
     },
     "wof:country":"US",
-    "wof:geomhash":"77c5479399aab1373c977c5c977e4e07",
+    "wof:geomhash":"5b55f63f065d431fa8b8956ae25ef255",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,13 +65,17 @@
         }
     ],
     "wof:id":589117661,
-    "wof:lastmodified":1489034183,
+    "wof:lastmodified":1510943388,
     "wof:name":"McDonalds",
     "wof:parent_id":85810759,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        622262581
+    ],
+    "wof:supersedes":[
+        622262581
+    ],
     "wof:tags":[
         "fast"
     ]

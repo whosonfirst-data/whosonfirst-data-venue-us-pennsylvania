@@ -7,13 +7,16 @@
     "addr:postcode":"17401",
     "addr:street":"S George St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.726687,39.960487,-76.726687,39.960487",
     "geom:latitude":39.960487,
     "geom:longitude":-76.726687,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"142 S George St",
     "sg:city":"York",
     "sg:classifiers":[
@@ -44,10 +47,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":3636032186,
         "sg:id":"SG_16kWap1GS0qdWELFslFHXA_39.960487_-76.726687@1299784598"
     },
     "wof:country":"US",
-    "wof:geomhash":"2d443baee7f20ce705abbf7e2c7db911",
+    "wof:geomhash":"12cce7def0057a09d8ab12f1b7ceb8d4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +65,17 @@
         }
     ],
     "wof:id":622254263,
-    "wof:lastmodified":1472643198,
+    "wof:lastmodified":1510943247,
     "wof:name":"McDonald's",
     "wof:parent_id":85850705,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        588951951
+    ],
+    "wof:supersedes":[
+        588951951
+    ],
     "wof:tags":[
         "burger",
         "american"

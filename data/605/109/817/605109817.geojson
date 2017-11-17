@@ -7,13 +7,16 @@
     "addr:postcode":"17313",
     "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.62416,39.897003,-76.62416,39.897003",
     "geom:latitude":39.897003,
     "geom:longitude":-76.62416,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"820 E Main St",
     "sg:city":"Dallastown",
     "sg:classifiers":[
@@ -40,10 +43,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":2770277433,
         "sg:id":"SG_55f61JEtSGG4fMIYrXNnsT_39.897003_-76.624160@1294186258"
     },
     "wof:country":"US",
-    "wof:geomhash":"4fb4ccaca97f8f9a1504017e027f53db",
+    "wof:geomhash":"8309c39c9ca3510e427553c7b8573270",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,13 +59,17 @@
         }
     ],
     "wof:id":605109817,
-    "wof:lastmodified":1472642532,
+    "wof:lastmodified":1510943793,
     "wof:name":"Hardees",
     "wof:parent_id":85803341,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        622271239
+    ],
+    "wof:supersedes":[
+        622271239
+    ],
     "wof:tags":[
         "eating"
     ]

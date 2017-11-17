@@ -7,13 +7,16 @@
     "addr:postcode":"15217",
     "addr:street":"Browns Hill Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.925838,40.417437,-79.925838,40.417437",
     "geom:latitude":40.417437,
     "geom:longitude":-79.925838,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"4524 Browns Hill Rd",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -42,10 +45,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":109860409,
         "sg:id":"SG_25y56AKGN4axZqYdWvJ9ro_40.417437_-79.925838@1294186258"
     },
     "wof:country":"US",
-    "wof:geomhash":"bbd6e020cc301dcbee9805bdeb3bada2",
+    "wof:geomhash":"b4903b4275d19b0283d7fb6fd208ed94",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +63,17 @@
         }
     ],
     "wof:id":605111925,
-    "wof:lastmodified":1472642539,
+    "wof:lastmodified":1510944161,
     "wof:name":"Wendys",
     "wof:parent_id":85821717,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        622246159
+    ],
+    "wof:supersedes":[
+        622246159
+    ],
     "wof:tags":[
         "eating"
     ]

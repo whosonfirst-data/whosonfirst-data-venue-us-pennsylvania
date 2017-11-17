@@ -7,6 +7,7 @@
     "addr:postcode":"19103",
     "addr:street":"W Rittenhouse Sq",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-75.172871,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"210 W Rittenhouse Sq",
     "sg:city":"Philadelphia",
     "sg:classifiers":[
@@ -46,10 +48,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":334179777,
         "sg:id":"SG_2fSWS0Yjt0YCmTncE7jzto_39.949623_-75.173011@1293134755"
     },
     "wof:country":"US",
-    "wof:geomhash":"50a42b9f392a46c9eb7715ff2fd82496",
+    "wof:geomhash":"7729709def5b43b3b085263ce503d6f7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,13 +67,17 @@
         }
     ],
     "wof:id":622180549,
-    "wof:lastmodified":1489031259,
+    "wof:lastmodified":1510943098,
     "wof:name":"The Rittenhouse Hotel",
     "wof:parent_id":85844705,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        622404199
+    ],
+    "wof:supersedes":[
+        622404199
+    ],
     "wof:tags":[
         "hotel",
         "operates"
