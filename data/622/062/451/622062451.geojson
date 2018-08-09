@@ -2,18 +2,24 @@
   "id": 622062451,
   "type": "Feature",
   "properties": {
-    "addr:full":"511 Market St Warren PA 16365",
+    "addr:city":"Warren",
+    "addr:full":"511 Market St Warren, Pa 16365-1765",
+    "addr:house_number":"511",
     "addr:housenumber":"511",
-    "addr:postcode":"16365",
+    "addr:phone":"+1 814-723-4523",
+    "addr:postcode":"16365-1765",
+    "addr:road":"Market St",
+    "addr:state":"PA",
     "addr:street":"Market St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-79.147,41.850839,-79.147,41.850839",
-    "geom:latitude":41.850839,
-    "geom:longitude":-79.147,
+    "geom:bbox":"-79.14668,41.84967,-79.14668,41.84967",
+    "geom:latitude":41.84967,
+    "geom:longitude":-79.14668,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"511 Market St",
     "sg:city":"Warren",
     "sg:classifiers":[
@@ -30,7 +36,8 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85853597,
         102191575,
@@ -42,10 +49,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404201203,
         "sg:id":"SG_6NBZsNJ5XZkXNhXHD5I8Rw_41.850839_-79.147000@1294186258"
     },
     "wof:country":"US",
-    "wof:geomhash":"95b70e89042816d8d1481300cbfb503b",
+    "wof:geomhash":"8b36da78f1f0deef090ca6c9f90b9df7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,8 +67,8 @@
         }
     ],
     "wof:id":622062451,
-    "wof:lastmodified":1472642240,
-    "wof:name":"Crary Art Gallery Inc",
+    "wof:lastmodified":1533776576,
+    "wof:name":"Crary Art Gallery",
     "wof:parent_id":85853597,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
@@ -71,10 +79,10 @@
     ]
 },
   "bbox": [
-    -79.147,
-    41.850839,
-    -79.147,
-    41.850839
+    -79.14668,
+    41.84967,
+    -79.14668,
+    41.84967
 ],
-  "geometry": {"coordinates":[-79.14700000000001,41.850839],"type":"Point"}
+  "geometry": {"coordinates":[-79.14668,41.84967],"type":"Point"}
 }

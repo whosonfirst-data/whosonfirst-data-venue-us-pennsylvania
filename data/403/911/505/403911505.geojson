@@ -2,17 +2,21 @@
   "id": 403911505,
   "type": "Feature",
   "properties": {
-    "addr:full":"300 North St Harrisburg PA 17120",
+    "addr:city":"Harrisburg",
+    "addr:full":"300 North Street Harrisburg, Pa 17120-0101",
+    "addr:house_number":"300",
     "addr:housenumber":"300",
-    "addr:postcode":"17120",
+    "addr:postcode":"17120-0101",
+    "addr:road":"North Street",
+    "addr:state":"PA",
     "addr:street":"North St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-76.885677,40.26503,-76.885677,40.26503",
-    "geom:latitude":40.26503,
-    "geom:longitude":-76.885677,
+    "geom:bbox":"-76.88572,40.26519,-76.88572,40.26519",
+    "geom:latitude":40.26519,
+    "geom:longitude":-76.88572,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -30,7 +34,10 @@
     "sg:postcode":"17120",
     "sg:province":"PA",
     "sg:website":"www.statemuseumpa.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102529873
+    ],
     "wof:belongsto":[
         85688481,
         85633793,
@@ -39,11 +46,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409501003,
         "osm:way":25854511,
         "sg:id":"SG_0ASNPWG5Lb5UiLmXBk1gMO_40.265030_-76.885677@1303262426"
     },
     "wof:country":"US",
-    "wof:geomhash":"85e44e22010926905134d0ec4de51518",
+    "wof:geomhash":"2ae1f9d0a4563aea0a5d252605b43c76",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,8 +64,8 @@
         }
     ],
     "wof:id":403911505,
-    "wof:lastmodified":1510943946,
-    "wof:name":"State Museum of Pennsylvania",
+    "wof:lastmodified":1533776575,
+    "wof:name":"State Museum Of Pennsylvania",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
@@ -66,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -76.885677,
-    40.26503,
-    -76.885677,
-    40.26503
+    -76.88572,
+    40.26519,
+    -76.88572,
+    40.26519
 ],
-  "geometry": {"coordinates":[-76.885677,40.26503],"type":"Point"}
+  "geometry": {"coordinates":[-76.88572000000001,40.26519],"type":"Point"}
 }

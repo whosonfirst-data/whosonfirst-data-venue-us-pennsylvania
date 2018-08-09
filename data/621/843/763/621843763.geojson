@@ -2,18 +2,24 @@
   "id": 621843763,
   "type": "Feature",
   "properties": {
-    "addr:full":"526 S Jefferson St New Castle PA 16101",
+    "addr:city":"New Castle",
+    "addr:full":"526 S Jefferson St New Castle, Pa 16101-3959",
+    "addr:house_number":"526",
     "addr:housenumber":"526",
-    "addr:postcode":"16101",
+    "addr:phone":"+1 724-658-4571",
+    "addr:postcode":"16101-3959",
+    "addr:road":"S Jefferson St",
+    "addr:state":"PA",
     "addr:street":"S Jefferson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-80.346891,40.994648,-80.346891,40.994648",
-    "geom:latitude":40.994648,
-    "geom:longitude":-80.346891,
+    "geom:bbox":"-80.34685,40.99434,-80.34685,40.99434",
+    "geom:latitude":40.99434,
+    "geom:longitude":-80.34685,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"526 S Jefferson St",
     "sg:city":"New Castle",
     "sg:classifiers":[
@@ -30,7 +36,10 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102529645
+    ],
     "wof:belongsto":[
         85855999,
         102191575,
@@ -42,10 +51,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404201507,
         "sg:id":"SG_5VhQWl7zNt9nZTwrquSgQf_40.994648_-80.346891@1294186258"
     },
     "wof:country":"US",
-    "wof:geomhash":"39c7a3a130fcc18e5599cd3340260bd1",
+    "wof:geomhash":"c54068b15b08106a163f070876d119f8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,8 +69,8 @@
         }
     ],
     "wof:id":621843763,
-    "wof:lastmodified":1472642201,
-    "wof:name":"Lawrence Museum of Industrial",
+    "wof:lastmodified":1533776576,
+    "wof:name":"Lawrence Museum Of Industrial",
     "wof:parent_id":85855999,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
@@ -71,10 +81,10 @@
     ]
 },
   "bbox": [
-    -80.346891,
-    40.994648,
-    -80.346891,
-    40.994648
+    -80.34685,
+    40.99434,
+    -80.34685,
+    40.99434
 ],
-  "geometry": {"coordinates":[-80.346891,40.994648],"type":"Point"}
+  "geometry": {"coordinates":[-80.34685,40.99434],"type":"Point"}
 }

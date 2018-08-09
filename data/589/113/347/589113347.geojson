@@ -2,18 +2,24 @@
   "id": 589113347,
   "type": "Feature",
   "properties": {
-    "addr:full":"613 Marion Ave Springdale PA 15144",
+    "addr:city":"Springdale",
+    "addr:full":"613 Marion Ave Springdale, Pa 15144",
+    "addr:house_number":"613",
     "addr:housenumber":"613",
+    "addr:phone":"+1 724-274-5459",
     "addr:postcode":"15144",
+    "addr:road":"Marion Ave",
+    "addr:state":"PA",
     "addr:street":"Marion Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-79.784499,40.546182,-79.784499,40.546182",
-    "geom:latitude":40.546182,
-    "geom:longitude":-79.784499,
+    "geom:bbox":"-79.78241,40.54356,-79.78241,40.54356",
+    "geom:latitude":40.54356,
+    "geom:longitude":-79.78241,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"613 Marion Ave",
     "sg:city":"Springdale",
     "sg:classifiers":[
@@ -28,7 +34,8 @@
     "sg:postcode":"15144",
     "sg:province":"PA",
     "sg:website":"www.rachelcarsonhomestead.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85839857,
         102191575,
@@ -40,10 +47,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404200090,
         "sg:id":"SG_5XfqGHDnycG2lfuogGEqi1_40.546182_-79.784499@1294186258"
     },
     "wof:country":"US",
-    "wof:geomhash":"3ada581a1adc48dab64363187293772f",
+    "wof:geomhash":"8288bb2b730333251b29c476869e3d01",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,8 +65,8 @@
         }
     ],
     "wof:id":589113347,
-    "wof:lastmodified":1472642302,
-    "wof:name":"Rachel Carson Homestead Assn",
+    "wof:lastmodified":1533776576,
+    "wof:name":"Rachel Carson Homestead",
     "wof:parent_id":85839857,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
@@ -67,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -79.784499,
-    40.546182,
-    -79.784499,
-    40.546182
+    -79.78241,
+    40.54356,
+    -79.78241,
+    40.54356
 ],
-  "geometry": {"coordinates":[-79.784499,40.546182],"type":"Point"}
+  "geometry": {"coordinates":[-79.78241,40.54356],"type":"Point"}
 }

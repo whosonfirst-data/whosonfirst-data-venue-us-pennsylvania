@@ -2,18 +2,24 @@
   "id": 605068221,
   "type": "Feature",
   "properties": {
-    "addr:full":"257 North St Harrisburg PA 17101",
+    "addr:city":"Harrisburg",
+    "addr:full":"257 North St Harrisburg, Pa 17101-1107",
+    "addr:house_number":"257",
     "addr:housenumber":"257",
-    "addr:postcode":"17101",
+    "addr:phone":"+1 717-234-2310",
+    "addr:postcode":"17101-1107",
+    "addr:road":"North St",
+    "addr:state":"PA",
     "addr:street":"North St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-76.885652,40.26506,-76.885652,40.26506",
-    "geom:latitude":40.26506,
-    "geom:longitude":-76.885652,
+    "geom:bbox":"-76.88619,40.26472,-76.88619,40.26472",
+    "geom:latitude":40.26472,
+    "geom:longitude":-76.88619,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"257 North St",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -32,18 +38,22 @@
         "trade"
     ],
     "sg:website":"www.preservationpa.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102529873
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404200604,
         "sg:id":"SG_3izNGnnQsmTXi5BJ4kKTdD_40.265060_-76.885652@1294186258"
     },
     "wof:country":"US",
-    "wof:geomhash":"4a741332b4fcc44a8ef16d26b80a7060",
+    "wof:geomhash":"2f467b2a7bab0b6b456eb5f64b905f4c",
     "wof:hierarchy":[],
     "wof:id":605068221,
-    "wof:lastmodified":1472642311,
-    "wof:name":"Preservation PA",
+    "wof:lastmodified":1533776576,
+    "wof:name":"Preservation Pennsylvania",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
@@ -55,10 +65,10 @@
     ]
 },
   "bbox": [
-    -76.885652,
-    40.26506,
-    -76.885652,
-    40.26506
+    -76.88619,
+    40.26472,
+    -76.88619,
+    40.26472
 ],
-  "geometry": {"coordinates":[-76.88565199999999,40.26506],"type":"Point"}
+  "geometry": {"coordinates":[-76.88619,40.26472],"type":"Point"}
 }

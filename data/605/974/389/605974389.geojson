@@ -2,18 +2,24 @@
   "id": 605974389,
   "type": "Feature",
   "properties": {
-    "addr:full":"1 Piper Way Lock Haven PA 17745",
+    "addr:city":"Lock Haven",
+    "addr:full":"1 Piper Way Lock Haven, Pa 17745-2266",
+    "addr:house_number":"1",
     "addr:housenumber":"1",
-    "addr:postcode":"17745",
+    "addr:phone":"+1 570-748-8283",
+    "addr:postcode":"17745-2266",
+    "addr:road":"Piper Way",
+    "addr:state":"PA",
     "addr:street":"Piper Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-77.425737,41.13361,-77.425737,41.13361",
-    "geom:latitude":41.13361,
-    "geom:longitude":-77.425737,
+    "geom:bbox":"-77.42582,41.13369,-77.42582,41.13369",
+    "geom:latitude":41.13369,
+    "geom:longitude":-77.42582,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1 Piper Way",
     "sg:city":"Lock Haven",
     "sg:classifiers":[
@@ -27,20 +33,22 @@
     "sg:phone":"+1 570 748 8283",
     "sg:postcode":"17745",
     "sg:province":"PA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
-        85688481,
+        85831127,
         85633793,
         101717751,
         102080917,
-        85831127
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404200766,
         "sg:id":"SG_1eYcfV8dNttk6RmE3brZB9_41.133610_-77.425737@1294186258"
     },
     "wof:country":"US",
-    "wof:geomhash":"bc55284b4a26d44f4ed43e556dcddf13",
+    "wof:geomhash":"b9257b06d35890a0105cf9a4161aefe7",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,8 +60,8 @@
         }
     ],
     "wof:id":605974389,
-    "wof:lastmodified":1472644060,
-    "wof:name":"Piper Aviation Museum",
+    "wof:lastmodified":1533776576,
+    "wof:name":"Piper Aviation Museum Foundation",
     "wof:parent_id":85831127,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
@@ -62,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -77.425737,
-    41.13361,
-    -77.425737,
-    41.13361
+    -77.42582,
+    41.13369,
+    -77.42582,
+    41.13369
 ],
-  "geometry": {"coordinates":[-77.425737,41.13361],"type":"Point"}
+  "geometry": {"coordinates":[-77.42582,41.13369],"type":"Point"}
 }

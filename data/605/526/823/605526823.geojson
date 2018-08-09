@@ -2,18 +2,24 @@
   "id": 605526823,
   "type": "Feature",
   "properties": {
-    "addr:full":"5507 Lakeside Dr Gibsonia PA 15044",
+    "addr:city":"Gibsonia",
+    "addr:full":"5507 Lakeside Dr Gibsonia, Pa 15044-9257",
+    "addr:house_number":"5507",
     "addr:housenumber":"5507",
-    "addr:postcode":"15044",
+    "addr:phone":"+1 724-444-6944",
+    "addr:postcode":"15044-9257",
+    "addr:road":"Lakeside Dr",
+    "addr:state":"PA",
     "addr:street":"Lakeside Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-79.974341,40.635362,-79.974341,40.635362",
-    "geom:latitude":40.635362,
-    "geom:longitude":-79.974341,
+    "geom:bbox":"-79.97323,40.63432,-79.97323,40.63432",
+    "geom:latitude":40.63432,
+    "geom:longitude":-79.97323,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"5507 Lakeside Dr",
     "sg:city":"Gibsonia",
     "sg:classifiers":[
@@ -31,18 +37,22 @@
         "historical"
     ],
     "sg:website":"www.wpmrm.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102532781
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404201181,
         "sg:id":"SG_7mXtnGXSXhWerlCT5EwhI7_40.635362_-79.974341@1294186258"
     },
     "wof:country":"US",
-    "wof:geomhash":"45e45927a86060fd99d6fe35f5fb8e21",
+    "wof:geomhash":"440ad8a65ca74364d106ebd96abae295",
     "wof:hierarchy":[],
     "wof:id":605526823,
-    "wof:lastmodified":1472643557,
-    "wof:name":"Western Pa Model Railroad",
+    "wof:lastmodified":1533776576,
+    "wof:name":"Western Pennsylvania Model Railroad Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
@@ -53,10 +63,10 @@
     ]
 },
   "bbox": [
-    -79.974341,
-    40.635362,
-    -79.974341,
-    40.635362
+    -79.97323,
+    40.63432,
+    -79.97323,
+    40.63432
 ],
-  "geometry": {"coordinates":[-79.974341,40.635362],"type":"Point"}
+  "geometry": {"coordinates":[-79.97323,40.63432],"type":"Point"}
 }

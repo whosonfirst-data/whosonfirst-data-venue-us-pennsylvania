@@ -2,18 +2,23 @@
   "id": 589013579,
   "type": "Feature",
   "properties": {
-    "addr:full":"128 W Broadway Jim Thorpe PA 18229",
+    "addr:city":"Jim Thorpe",
+    "addr:full":"128 W Broadway Jim Thorpe, Pa 18229-1933",
+    "addr:house_number":"128",
     "addr:housenumber":"128",
-    "addr:postcode":"18229",
+    "addr:postcode":"18229-1933",
+    "addr:road":"W Broadway",
+    "addr:state":"PA",
     "addr:street":"W Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-75.749089,40.863294,-75.749089,40.863294",
-    "geom:latitude":40.863294,
-    "geom:longitude":-75.749089,
+    "geom:bbox":"-75.74817,40.86361,-75.74817,40.86361",
+    "geom:latitude":40.86361,
+    "geom:longitude":-75.74817,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"128 W Broadway",
     "sg:city":"Jim Thorpe",
     "sg:classifiers":[
@@ -30,20 +35,22 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
-        85688481,
+        85836529,
         85633793,
         101718001,
         102081331,
-        85836529
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404200790,
         "sg:id":"SG_3o8ahS1UGg3YQNrqvKzLAv_40.863294_-75.749089@1294186258"
     },
     "wof:country":"US",
-    "wof:geomhash":"becd3320c80791d316260c3dd35d51bd",
+    "wof:geomhash":"29119fab741b65c99a3acd9ce02011d9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,8 +62,8 @@
         }
     ],
     "wof:id":589013579,
-    "wof:lastmodified":1472641883,
-    "wof:name":"Old Jail Museum Inc",
+    "wof:lastmodified":1533776574,
+    "wof:name":"Old Jail Museum And Heritage Center",
     "wof:parent_id":85836529,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
@@ -67,10 +74,10 @@
     ]
 },
   "bbox": [
-    -75.749089,
-    40.863294,
-    -75.749089,
-    40.863294
+    -75.74817,
+    40.86361,
+    -75.74817,
+    40.86361
 ],
-  "geometry": {"coordinates":[-75.749089,40.863294],"type":"Point"}
+  "geometry": {"coordinates":[-75.74817,40.86361],"type":"Point"}
 }

@@ -2,18 +2,23 @@
   "id": 622565277,
   "type": "Feature",
   "properties": {
-    "addr:full":"204 Church St Phoenixville PA 19460",
+    "addr:city":"Phoenixville",
+    "addr:full":"204 Church St Phoenixville, Pa 19460-3414",
+    "addr:house_number":"204",
     "addr:housenumber":"204",
-    "addr:postcode":"19460",
+    "addr:postcode":"19460-3414",
+    "addr:road":"Church St",
+    "addr:state":"PA",
     "addr:street":"Church St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-75.515908,40.132879,-75.515908,40.132879",
-    "geom:latitude":40.132879,
-    "geom:longitude":-75.515908,
+    "geom:bbox":"-75.517,40.1325,-75.517,40.1325",
+    "geom:latitude":40.1325,
+    "geom:longitude":-75.517,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"204 Church St",
     "sg:city":"Phoenixville",
     "sg:classifiers":[
@@ -30,7 +35,8 @@
     "sg:tags":[
         "historical"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85858053,
         102191575,
@@ -42,10 +48,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404200572,
         "sg:id":"SG_41h9iDUPCTQH9QgMue9RNE_40.132879_-75.515908@1303262468"
     },
     "wof:country":"US",
-    "wof:geomhash":"aed19da0b35870cf4723d52c044e5261",
+    "wof:geomhash":"9ff007795d5312b32ceadc7a0517d075",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,8 +66,8 @@
         }
     ],
     "wof:id":622565277,
-    "wof:lastmodified":1472643814,
-    "wof:name":"Historical Society Of Phoenixville Area",
+    "wof:lastmodified":1533776575,
+    "wof:name":"Historical Society Of Phoenixville",
     "wof:parent_id":85858053,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
@@ -71,10 +78,10 @@
     ]
 },
   "bbox": [
-    -75.515908,
-    40.132879,
-    -75.515908,
-    40.132879
+    -75.517,
+    40.1325,
+    -75.517,
+    40.1325
 ],
-  "geometry": {"coordinates":[-75.515908,40.132879],"type":"Point"}
+  "geometry": {"coordinates":[-75.517,40.1325],"type":"Point"}
 }

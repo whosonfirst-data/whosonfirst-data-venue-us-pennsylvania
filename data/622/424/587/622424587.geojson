@@ -2,19 +2,25 @@
   "id": 622424587,
   "type": "Feature",
   "properties": {
-    "addr:full":"4017 Walnut St Philadelphia PA 19104",
+    "addr:city":"Philadelphia",
+    "addr:full":"4017 Walnut St Philadelphia, Pa 19104-3513",
+    "addr:house_number":"4017",
     "addr:housenumber":"4017",
-    "addr:postcode":"19104",
+    "addr:phone":"+1 215-701-4627",
+    "addr:postcode":"19104-3513",
+    "addr:road":"Walnut St",
+    "addr:state":"PA",
     "addr:street":"Walnut St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-75.203015,39.954174,-75.203015,39.954174",
-    "geom:latitude":39.954174,
-    "geom:longitude":-75.203015,
+    "geom:bbox":"-75.20294,39.95424,-75.20294,39.95424",
+    "geom:latitude":39.95424,
+    "geom:longitude":-75.20294,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"4017 Walnut St",
     "sg:city":"Philadelphia",
     "sg:classifiers":[
@@ -29,7 +35,11 @@
     "sg:postcode":"19104",
     "sg:province":"PA",
     "sg:website":"www.slought.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102529403,
+        102530381
+    ],
     "wof:belongsto":[
         85853125,
         102191575,
@@ -42,10 +52,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404200291,
         "sg:id":"SG_3Yp7iqZdDuU6HuzFH86PSd_39.954174_-75.203015@1303262449"
     },
     "wof:country":"US",
-    "wof:geomhash":"7ee18a5a0e37f5b801ff01dc87d3d681",
+    "wof:geomhash":"5cad8af256127cf9d082896b5ca88635",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +71,7 @@
         }
     ],
     "wof:id":622424587,
-    "wof:lastmodified":1489032925,
+    "wof:lastmodified":1533776576,
     "wof:name":"Slought Foundation",
     "wof:parent_id":85853125,
     "wof:placetype":"venue",
@@ -70,10 +81,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -75.203015,
-    39.954174,
-    -75.203015,
-    39.954174
+    -75.20294,
+    39.95424,
+    -75.20294,
+    39.95424
 ],
-  "geometry": {"coordinates":[-75.20301499999999,39.954174],"type":"Point"}
+  "geometry": {"coordinates":[-75.20294,39.95424],"type":"Point"}
 }

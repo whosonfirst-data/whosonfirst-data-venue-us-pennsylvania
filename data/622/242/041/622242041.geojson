@@ -2,18 +2,24 @@
   "id": 622242041,
   "type": "Feature",
   "properties": {
-    "addr:full":"235 Philadelphia Ave Waynesboro PA 17268",
+    "addr:city":"Waynesboro",
+    "addr:full":"235 Philadelphia Ave Waynesboro, Pa 17268",
+    "addr:house_number":"235",
     "addr:housenumber":"235",
+    "addr:phone":"+1 717-762-4460",
     "addr:postcode":"17268",
+    "addr:road":"Philadelphia Ave",
+    "addr:state":"PA",
     "addr:street":"Philadelphia Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-77.582397,39.7528,-77.582397,39.7528",
-    "geom:latitude":39.7528,
-    "geom:longitude":-77.582397,
+    "geom:bbox":"-77.58338,39.75181,-77.58338,39.75181",
+    "geom:latitude":39.75181,
+    "geom:longitude":-77.58338,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"235 Philadelphia Ave",
     "sg:city":"Waynesboro",
     "sg:classifiers":[
@@ -27,7 +33,10 @@
     "sg:phone":"+1 717 762 4460",
     "sg:postcode":"17268",
     "sg:province":"PA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102532115
+    ],
     "wof:belongsto":[
         420538169,
         102191575,
@@ -39,10 +48,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404200021,
         "sg:id":"SG_7Wlbq8R1ZxHj1OrXYL5I61_39.752426_-77.582812@1293134755"
     },
     "wof:country":"US",
-    "wof:geomhash":"5491ba863cbe17d9daac6db62ef2f02c",
+    "wof:geomhash":"0ebed47c137f57e9479c8847d4c29ee4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +66,7 @@
         }
     ],
     "wof:id":622242041,
-    "wof:lastmodified":1472643161,
+    "wof:lastmodified":1533776576,
     "wof:name":"Waynesboro Area Indust Heritage Trust",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -66,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -77.582397,
-    39.7528,
-    -77.582397,
-    39.7528
+    -77.58338,
+    39.75181,
+    -77.58338,
+    39.75181
 ],
-  "geometry": {"coordinates":[-77.582397,39.7528],"type":"Point"}
+  "geometry": {"coordinates":[-77.58338000000001,39.75181],"type":"Point"}
 }

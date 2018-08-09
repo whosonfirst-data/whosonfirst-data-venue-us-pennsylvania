@@ -2,18 +2,23 @@
   "id": 622158231,
   "type": "Feature",
   "properties": {
-    "addr:full":"85 Holly Dr Levittown PA 19055",
+    "addr:city":"Levittown",
+    "addr:full":"85 Holly Drive Levittown, Pa 19055-1329",
+    "addr:house_number":"85",
     "addr:housenumber":"85",
-    "addr:postcode":"19055",
+    "addr:postcode":"19055-1329",
+    "addr:road":"Holly Drive",
+    "addr:state":"PA",
     "addr:street":"Holly Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-74.84022,40.159977,-74.84022,40.159977",
-    "geom:latitude":40.159977,
-    "geom:longitude":-74.84022,
+    "geom:bbox":"-74.84031,40.16018,-74.84031,40.16018",
+    "geom:latitude":40.16018,
+    "geom:longitude":-74.84031,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"85 Holly Dr",
     "sg:city":"Levittown",
     "sg:classifiers":[
@@ -33,7 +38,10 @@
         "gallery",
         "tourist"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531077
+    ],
     "wof:belongsto":[
         85831937,
         102191575,
@@ -45,10 +53,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404200817,
         "sg:id":"SG_0J6V32uw2waLcItdWwHuuM_40.159801_-74.839738@1293134755"
     },
     "wof:country":"US",
-    "wof:geomhash":"236c5ce54f9cea959120eed074fb14b6",
+    "wof:geomhash":"d39f1f8a9dd73da0091841fa6b898fc2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,8 +71,8 @@
         }
     ],
     "wof:id":622158231,
-    "wof:lastmodified":1472642901,
-    "wof:name":"Friends Of Bolton Mansion",
+    "wof:lastmodified":1533776575,
+    "wof:name":"Bolton Mansion",
     "wof:parent_id":85831937,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
@@ -77,10 +86,10 @@
     ]
 },
   "bbox": [
-    -74.84022,
-    40.159977,
-    -74.84022,
-    40.159977
+    -74.84031,
+    40.16018,
+    -74.84031,
+    40.16018
 ],
-  "geometry": {"coordinates":[-74.84022,40.159977],"type":"Point"}
+  "geometry": {"coordinates":[-74.84031,40.16018],"type":"Point"}
 }

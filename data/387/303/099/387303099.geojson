@@ -2,19 +2,24 @@
   "id": 387303099,
   "type": "Feature",
   "properties": {
-    "addr:full":"7227 Reynolds St Pittsburgh PA 15208",
+    "addr:city":"Pittsburgh",
+    "addr:full":"7227 Reynolds St Pittsburgh, Pa 15208-2919",
+    "addr:house_number":"7227",
     "addr:housenumber":"7227",
-    "addr:postcode":"15208",
+    "addr:phone":"+1 412-371-0600",
+    "addr:postcode":"15208-2919",
+    "addr:road":"Reynolds St",
+    "addr:state":"PA",
     "addr:street":"Reynolds St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-79.902656,40.446273,-79.902656,40.446273",
-    "geom:latitude":40.446273,
-    "geom:longitude":-79.902656,
+    "geom:bbox":"-79.90229,40.44659,-79.90229,40.44659",
+    "geom:latitude":40.44659,
+    "geom:longitude":-79.90229,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "sg:address":"7227 Reynolds St",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -38,7 +43,8 @@
         "galleries"
     ],
     "sg:website":"http://www.frickart.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85873571,
         102191575,
@@ -50,10 +56,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404201206,
         "sg:id":"SG_5w3bpEPshY61NywqFoekjE_40.446273_-79.902656@1303262408"
     },
     "wof:country":"US",
-    "wof:geomhash":"1f8886e37d822a8f6d6efdeb3692dd6b",
+    "wof:geomhash":"5abeddeb0c2190a329803f946be0ee8a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,8 +74,8 @@
         }
     ],
     "wof:id":387303099,
-    "wof:lastmodified":1472642201,
-    "wof:name":"Frick Art & Historical Ctr",
+    "wof:lastmodified":1533776576,
+    "wof:name":"Frick Art & Historical Center",
     "wof:parent_id":85873571,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
@@ -80,10 +87,10 @@
     ]
 },
   "bbox": [
-    -79.902656,
-    40.446273,
-    -79.902656,
-    40.446273
+    -79.90229,
+    40.44659,
+    -79.90229,
+    40.44659
 ],
-  "geometry": {"coordinates":[-79.90265599999999,40.446273],"type":"Point"}
+  "geometry": {"coordinates":[-79.90228999999999,40.44659],"type":"Point"}
 }

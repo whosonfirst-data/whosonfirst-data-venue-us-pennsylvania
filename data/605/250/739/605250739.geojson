@@ -2,18 +2,24 @@
   "id": 605250739,
   "type": "Feature",
   "properties": {
-    "addr:full":"202 Museum Ln Titusville PA 16354",
+    "addr:city":"Tutusville",
+    "addr:full":"202 Museum Lane Tutusville, Pa 16354",
+    "addr:house_number":"202",
     "addr:housenumber":"202",
+    "addr:phone":"+1 814-827-2797",
     "addr:postcode":"16354",
+    "addr:road":"Museum Lane",
+    "addr:state":"PA",
     "addr:street":"Museum Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-79.656783,41.612759,-79.656783,41.612759",
-    "geom:latitude":41.612759,
-    "geom:longitude":-79.656783,
+    "geom:bbox":"-79.65691,41.61384,-79.65691,41.61384",
+    "geom:latitude":41.61384,
+    "geom:longitude":-79.65691,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"202 Museum Ln",
     "sg:city":"Titusville",
     "sg:classifiers":[
@@ -30,20 +36,22 @@
     "sg:tags":[
         "parks"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
-        85688481,
+        85816851,
         85633793,
         101716645,
         102080911,
-        85816851
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404200232,
         "sg:id":"SG_1eerQ2MQl7reRr6sB7zEpg_41.612759_-79.656783@1294186258"
     },
     "wof:country":"US",
-    "wof:geomhash":"0fd7033e6975ebb3e2a40430a4aaf290",
+    "wof:geomhash":"5680868dc03351fedfd4693c0df8fbd9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,8 +63,8 @@
         }
     ],
     "wof:id":605250739,
-    "wof:lastmodified":1472643128,
-    "wof:name":"Drake Well Memorial Park",
+    "wof:lastmodified":1533776576,
+    "wof:name":"Drake Well Museum",
     "wof:parent_id":85816851,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
@@ -67,10 +75,10 @@
     ]
 },
   "bbox": [
-    -79.656783,
-    41.612759,
-    -79.656783,
-    41.612759
+    -79.65691,
+    41.61384,
+    -79.65691,
+    41.61384
 ],
-  "geometry": {"coordinates":[-79.656783,41.612759],"type":"Point"}
+  "geometry": {"coordinates":[-79.65691,41.61384],"type":"Point"}
 }

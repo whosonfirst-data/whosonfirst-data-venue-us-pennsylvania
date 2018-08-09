@@ -2,18 +2,24 @@
   "id": 605889201,
   "type": "Feature",
   "properties": {
-    "addr:full":"291 Park Ave Meadville PA 16335",
+    "addr:city":"Meadville",
+    "addr:full":"291 Park Ave Meadville, Pa 16335-1262",
+    "addr:house_number":"291",
     "addr:housenumber":"291",
-    "addr:postcode":"16335",
+    "addr:phone":"+1 814-724-8625",
+    "addr:postcode":"16335-1262",
+    "addr:road":"Park Ave",
+    "addr:state":"PA",
     "addr:street":"Park Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-80.146017,41.654959,-80.146017,41.654959",
-    "geom:latitude":41.654959,
-    "geom:longitude":-80.146017,
+    "geom:bbox":"-80.14602,41.655,-80.14602,41.655",
+    "geom:latitude":41.655,
+    "geom:longitude":-80.14602,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"291 Park Ave",
     "sg:city":"Meadville",
     "sg:classifiers":[
@@ -30,18 +36,22 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527205
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404201196,
         "sg:id":"SG_6uFJgE7NBMq4zw5inHOzUa_41.654959_-80.146017@1294186258"
     },
     "wof:country":"US",
-    "wof:geomhash":"21fb0ecf41203452454cd49eda7b0ba5",
+    "wof:geomhash":"a19999ddfbc51a23afe77682c4faf4c9",
     "wof:hierarchy":[],
     "wof:id":605889201,
-    "wof:lastmodified":1472643982,
-    "wof:name":"John Brown Heritage Assoc",
+    "wof:lastmodified":1533776575,
+    "wof:name":"John Brown Heritage Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
@@ -52,10 +62,10 @@
     ]
 },
   "bbox": [
-    -80.146017,
-    41.654959,
-    -80.146017,
-    41.654959
+    -80.14602,
+    41.655,
+    -80.14602,
+    41.655
 ],
-  "geometry": {"coordinates":[-80.146017,41.654959],"type":"Point"}
+  "geometry": {"coordinates":[-80.14601999999999,41.655],"type":"Point"}
 }

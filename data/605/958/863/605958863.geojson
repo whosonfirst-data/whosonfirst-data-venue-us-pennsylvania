@@ -2,18 +2,24 @@
   "id": 605958863,
   "type": "Feature",
   "properties": {
-    "addr:full":"38 S 2nd St Columbia PA 17512",
+    "addr:city":"Columbia",
+    "addr:full":"38 S 2Nd St Columbia, Pa 17512",
+    "addr:house_number":"38",
     "addr:housenumber":"38",
+    "addr:phone":"+1 717-684-4325",
     "addr:postcode":"17512",
+    "addr:road":"S 2Nd St",
+    "addr:state":"PA",
     "addr:street":"S 2Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-76.503128,40.029989,-76.503128,40.029989",
-    "geom:latitude":40.029989,
-    "geom:longitude":-76.503128,
+    "geom:bbox":"-76.50352,40.0303,-76.50352,40.0303",
+    "geom:latitude":40.0303,
+    "geom:longitude":-76.50352,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"38 S 2nd St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -27,18 +33,22 @@
     "sg:phone":"+1 717 684 4325",
     "sg:postcode":"17512",
     "sg:province":"PA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102526073
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404200014,
         "sg:id":"SG_554tlT4JdBzUpYd3FWy9SM_40.029989_-76.503128@1294186258"
     },
     "wof:country":"US",
-    "wof:geomhash":"8a369d1bab6d3d77c88c535624cbcf7c",
+    "wof:geomhash":"9cb8b23118ebcd43dfae209e2d61ec73",
     "wof:hierarchy":[],
     "wof:id":605958863,
-    "wof:lastmodified":1472644063,
-    "wof:name":"Wright's Ferry Mansion",
+    "wof:lastmodified":1533776576,
+    "wof:name":"Wright'S Ferry Mansion",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
@@ -47,10 +57,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -76.503128,
-    40.029989,
-    -76.503128,
-    40.029989
+    -76.50352,
+    40.0303,
+    -76.50352,
+    40.0303
 ],
-  "geometry": {"coordinates":[-76.503128,40.029989],"type":"Point"}
+  "geometry": {"coordinates":[-76.50351999999999,40.0303],"type":"Point"}
 }

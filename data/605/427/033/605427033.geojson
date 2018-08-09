@@ -2,18 +2,24 @@
   "id": 605427033,
   "type": "Feature",
   "properties": {
-    "addr:full":"200 Broad St Sewickley PA 15143",
+    "addr:city":"Sewickley",
+    "addr:full":"200 Broad St Sewickley, Pa 15143-1525",
+    "addr:house_number":"200",
     "addr:housenumber":"200",
-    "addr:postcode":"15143",
+    "addr:phone":"+1 412-741-5315",
+    "addr:postcode":"15143-1525",
+    "addr:road":"Broad St",
+    "addr:state":"PA",
     "addr:street":"Broad St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-80.182969,40.538042,-80.182969,40.538042",
-    "geom:latitude":40.538042,
-    "geom:longitude":-80.182969,
+    "geom:bbox":"-80.18297,40.53752,-80.18297,40.53752",
+    "geom:latitude":40.53752,
+    "geom:longitude":-80.18297,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"200 Broad St",
     "sg:city":"Sewickley",
     "sg:classifiers":[
@@ -30,19 +36,23 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102528181
+    ],
     "wof:belongsto":[
-        85688481,
+        102080887,
         85633793,
-        85835111,
-        102080887
+        85688481,
+        85835111
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404201166,
         "sg:id":"SG_0fj51mMxg6KF179sjrr2sH_40.538042_-80.182969@1294186258"
     },
     "wof:country":"US",
-    "wof:geomhash":"ea3ed20b3900bcf021a2f42140e8cacb",
+    "wof:geomhash":"77c4bc1c08fd9dd17b88cb82a4700ce6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,8 +63,8 @@
         }
     ],
     "wof:id":605427033,
-    "wof:lastmodified":1472643368,
-    "wof:name":"Sewickley Vly Historical Soc",
+    "wof:lastmodified":1533776575,
+    "wof:name":"Sewickley Valley Historical Society",
     "wof:parent_id":85835111,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
@@ -65,10 +75,10 @@
     ]
 },
   "bbox": [
-    -80.182969,
-    40.538042,
-    -80.182969,
-    40.538042
+    -80.18297,
+    40.53752,
+    -80.18297,
+    40.53752
 ],
-  "geometry": {"coordinates":[-80.182969,40.538042],"type":"Point"}
+  "geometry": {"coordinates":[-80.18297,40.53752],"type":"Point"}
 }

@@ -2,17 +2,22 @@
   "id": 622293655,
   "type": "Feature",
   "properties": {
-    "addr:full":"5 North Front Street Allentown PA 18101",
+    "addr:city":"Allentown",
+    "addr:full":"5 N Front St Allentown, Pa 18105-0950",
+    "addr:house_number":"5",
     "addr:housenumber":"5",
-    "addr:postcode":"18101",
+    "addr:phone":"+1 610-432-4200",
+    "addr:postcode":"18105-0950",
+    "addr:road":"N Front St",
+    "addr:state":"PA",
     "addr:street":"North Front Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-75.456992,40.60654,-75.456992,40.60654",
-    "geom:latitude":40.60654,
-    "geom:longitude":-75.456992,
+    "geom:bbox":"-75.45699,40.60653,-75.45699,40.60653",
+    "geom:latitude":40.60653,
+    "geom:longitude":-75.45699,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -33,7 +38,10 @@
         "flavor",
         "local"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102529131
+    ],
     "wof:belongsto":[
         85815889,
         102191575,
@@ -45,11 +53,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404200745,
         "osm:way":449891470,
         "sg:id":"SG_7IIwZgbP12OcOxgwP7MXn3_40.606540_-75.456992@1303262433"
     },
     "wof:country":"US",
-    "wof:geomhash":"e81aa99dca26ec464f030fcd19a49a69",
+    "wof:geomhash":"e8fc17d0c3929b513f42ced127e25e76",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,8 +72,8 @@
         }
     ],
     "wof:id":622293655,
-    "wof:lastmodified":1510943021,
-    "wof:name":"America on Wheels Museum",
+    "wof:lastmodified":1533776575,
+    "wof:name":"America On Wheels",
     "wof:parent_id":85815889,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
@@ -76,10 +85,10 @@
     ]
 },
   "bbox": [
-    -75.456992,
-    40.60654,
-    -75.456992,
-    40.60654
+    -75.45699,
+    40.60653,
+    -75.45699,
+    40.60653
 ],
-  "geometry": {"coordinates":[-75.456992,40.60654],"type":"Point"}
+  "geometry": {"coordinates":[-75.45699,40.60653],"type":"Point"}
 }

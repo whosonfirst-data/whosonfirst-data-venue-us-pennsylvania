@@ -2,18 +2,23 @@
   "id": 622073719,
   "type": "Feature",
   "properties": {
-    "addr:full":"2000 Union Ave Altoona PA 16601",
+    "addr:city":"Altoona",
+    "addr:full":"2000 Union Ave Altoona, Pa 16601-2059",
+    "addr:house_number":"2000",
     "addr:housenumber":"2000",
-    "addr:postcode":"16601",
+    "addr:postcode":"16601-2059",
+    "addr:road":"Union Ave",
+    "addr:state":"PA",
     "addr:street":"Union Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-78.407129,40.508117,-78.407129,40.508117",
-    "geom:latitude":40.508117,
-    "geom:longitude":-78.407129,
+    "geom:bbox":"-78.40722,40.50847,-78.40722,40.50847",
+    "geom:latitude":40.50847,
+    "geom:longitude":-78.40722,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"2000 Union Ave",
     "sg:city":"Altoona",
     "sg:classifiers":[
@@ -27,7 +32,10 @@
     "sg:phone":"+1 814 944 6830",
     "sg:postcode":"16601",
     "sg:province":"PA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102529253
+    ],
     "wof:belongsto":[
         85808899,
         102191575,
@@ -39,10 +47,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404201205,
         "sg:id":"SG_3bje48qoKstxn7PS3PF1iz_40.508117_-78.407129@1294186258"
     },
     "wof:country":"US",
-    "wof:geomhash":"e06faab84fc39b097869b2caa4d687b0",
+    "wof:geomhash":"be543ea90c0efd1569c65aa613f472ec",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,8 +65,8 @@
         }
     ],
     "wof:id":622073719,
-    "wof:lastmodified":1472642282,
-    "wof:name":"Quaint Corner Children's",
+    "wof:lastmodified":1533776575,
+    "wof:name":"Quaint Corner Children S Museum",
     "wof:parent_id":85808899,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
@@ -66,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -78.407129,
-    40.508117,
-    -78.407129,
-    40.508117
+    -78.40722,
+    40.50847,
+    -78.40722,
+    40.50847
 ],
-  "geometry": {"coordinates":[-78.407129,40.508117],"type":"Point"}
+  "geometry": {"coordinates":[-78.40722,40.50847],"type":"Point"}
 }

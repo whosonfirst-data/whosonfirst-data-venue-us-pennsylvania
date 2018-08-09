@@ -2,19 +2,24 @@
   "id": 622475831,
   "type": "Feature",
   "properties": {
-    "addr:full":"600 E Cathedral Rd Philadelphia PA 19128",
+    "addr:city":"Philadelphia",
+    "addr:full":"600 East Cathedral Road Philadelphia, Pa 19128",
+    "addr:house_number":"600",
     "addr:housenumber":"600",
     "addr:postcode":"19128",
+    "addr:road":"East Cathedral Road",
+    "addr:state":"PA",
     "addr:street":"E Cathedral Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-75.242569,40.062199,-75.242569,40.062199",
-    "geom:latitude":40.062199,
-    "geom:longitude":-75.242569,
+    "geom:bbox":"-75.24397,40.06499,-75.24397,40.06499",
+    "geom:latitude":40.06499,
+    "geom:longitude":-75.24397,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"600 E Cathedral Rd",
     "sg:city":"Philadelphia",
     "sg:classifiers":[
@@ -34,7 +39,11 @@
         "community"
     ],
     "sg:website":"http://www.cathedralvillage.com",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102529403,
+        102530381
+    ],
     "wof:belongsto":[
         85853279,
         102191575,
@@ -47,10 +56,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409502024,
         "sg:id":"SG_1lsnJJJZ3AVCB2lNThI7AQ_40.062199_-75.242569@1303262456"
     },
     "wof:country":"US",
-    "wof:geomhash":"b9d782b3429e68f95e6d229deebe0857",
+    "wof:geomhash":"8cf7f4c98a217fa441c2808309dee639",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":622475831,
-    "wof:lastmodified":1489034672,
+    "wof:lastmodified":1533776577,
     "wof:name":"Cathedral Village",
     "wof:parent_id":85853279,
     "wof:placetype":"venue",
@@ -79,10 +89,10 @@
     ]
 },
   "bbox": [
-    -75.242569,
-    40.062199,
-    -75.242569,
-    40.062199
+    -75.24397,
+    40.06499,
+    -75.24397,
+    40.06499
 ],
-  "geometry": {"coordinates":[-75.242569,40.062199],"type":"Point"}
+  "geometry": {"coordinates":[-75.24397,40.06499],"type":"Point"}
 }

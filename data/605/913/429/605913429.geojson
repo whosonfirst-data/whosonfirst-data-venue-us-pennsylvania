@@ -2,18 +2,24 @@
   "id": 605913429,
   "type": "Feature",
   "properties": {
-    "addr:full":"150 W Walnut St Hellertown PA 18055",
+    "addr:city":"Hellertown",
+    "addr:full":"150 W Walnut Street Hellertown, Pa 18055",
+    "addr:house_number":"150",
     "addr:housenumber":"150",
+    "addr:phone":"+1 610-833-1770",
     "addr:postcode":"18055",
+    "addr:road":"W Walnut Street",
+    "addr:state":"PA",
     "addr:street":"W Walnut St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-75.343049,40.57226,-75.343049,40.57226",
-    "geom:latitude":40.57226,
-    "geom:longitude":-75.343049,
+    "geom:bbox":"-75.3432,40.57224,-75.3432,40.57224",
+    "geom:latitude":40.57224,
+    "geom:longitude":-75.3432,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"150 W Walnut St",
     "sg:city":"Hellertown",
     "sg:classifiers":[
@@ -27,17 +33,21 @@
     "sg:phone":"+1 610 838 1770",
     "sg:postcode":"18055",
     "sg:province":"PA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102529131
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404200605,
         "sg:id":"SG_3HKsrMB98YPEcEymcQ174Q_40.572260_-75.343049@1294186258"
     },
     "wof:country":"US",
-    "wof:geomhash":"567406f06c29568056a8756a22a8ee47",
+    "wof:geomhash":"dbc952cfe4157b3f54d1e50c46efe05e",
     "wof:hierarchy":[],
     "wof:id":605913429,
-    "wof:lastmodified":1472644011,
+    "wof:lastmodified":1533776576,
     "wof:name":"Hellertown Historical Society",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -47,10 +57,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -75.343049,
-    40.57226,
-    -75.343049,
-    40.57226
+    -75.3432,
+    40.57224,
+    -75.3432,
+    40.57224
 ],
-  "geometry": {"coordinates":[-75.34304899999999,40.57226],"type":"Point"}
+  "geometry": {"coordinates":[-75.3432,40.57224],"type":"Point"}
 }

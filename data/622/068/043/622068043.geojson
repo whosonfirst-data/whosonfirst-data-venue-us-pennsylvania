@@ -2,18 +2,24 @@
   "id": 622068043,
   "type": "Feature",
   "properties": {
-    "addr:full":"401 W Mahoning St Punxsutawney PA 15767",
+    "addr:city":"Punxsutawney",
+    "addr:full":"401 W Mahoning St Punxsutawney, Pa 15767",
+    "addr:house_number":"401",
     "addr:housenumber":"401",
+    "addr:phone":"+1 814-938-2555",
     "addr:postcode":"15767",
+    "addr:road":"W Mahoning St",
+    "addr:state":"PA",
     "addr:street":"W Mahoning St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-78.975528,40.942893,-78.975528,40.942893",
-    "geom:latitude":40.942893,
-    "geom:longitude":-78.975528,
+    "geom:bbox":"-78.97503,40.95392,-78.97503,40.95392",
+    "geom:latitude":40.95392,
+    "geom:longitude":-78.97503,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"401 W Mahoning St",
     "sg:city":"Punxsutawney",
     "sg:classifiers":[
@@ -27,20 +33,24 @@
     "sg:phone":"+1 814 938 2555",
     "sg:postcode":"15767",
     "sg:province":"PA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102528813
+    ],
     "wof:belongsto":[
-        85688481,
+        85818693,
         85633793,
         101717839,
         102083883,
-        85818693
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404200080,
         "sg:id":"SG_7U22aKvsGxmRi5G1poTDJC_40.942893_-78.975528@1294186258"
     },
     "wof:country":"US",
-    "wof:geomhash":"d2ba21b667aa02d13b4d84ff5e1cf006",
+    "wof:geomhash":"2bf6d5816739d594d762f2a84599be75",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +62,7 @@
         }
     ],
     "wof:id":622068043,
-    "wof:lastmodified":1472642223,
+    "wof:lastmodified":1533776575,
     "wof:name":"Punxsutawney Area Historical",
     "wof:parent_id":85818693,
     "wof:placetype":"venue",
@@ -62,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -78.975528,
-    40.942893,
-    -78.975528,
-    40.942893
+    -78.97503,
+    40.95392,
+    -78.97503,
+    40.95392
 ],
-  "geometry": {"coordinates":[-78.975528,40.942893],"type":"Point"}
+  "geometry": {"coordinates":[-78.97503,40.95392],"type":"Point"}
 }

@@ -2,18 +2,24 @@
   "id": 605762093,
   "type": "Feature",
   "properties": {
-    "addr:full":"1235 3rd Ave Freedom PA 15042",
+    "addr:city":"Freedom",
+    "addr:full":"1235 3Rd Ave Freedom, Pa 15042-1755",
+    "addr:house_number":"1235",
     "addr:housenumber":"1235",
-    "addr:postcode":"15042",
+    "addr:phone":"+1 724-775-1848",
+    "addr:postcode":"15042-1755",
+    "addr:road":"3Rd Ave",
+    "addr:state":"PA",
     "addr:street":"3Rd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-80.250914,40.682233,-80.250914,40.682233",
-    "geom:latitude":40.682233,
-    "geom:longitude":-80.250914,
+    "geom:bbox":"-80.25065,40.68193,-80.25065,40.68193",
+    "geom:latitude":40.68193,
+    "geom:longitude":-80.25065,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1235 3rd Ave",
     "sg:city":"Freedom",
     "sg:classifiers":[
@@ -27,7 +33,11 @@
     "sg:phone":"+1 724 775 1848",
     "sg:postcode":"15042",
     "sg:province":"PA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102528181,
+        102529645
+    ],
     "wof:belongsto":[
         85851083,
         102191575,
@@ -39,10 +49,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404201025,
         "sg:id":"SG_2qlfbopIMhzQgbHmnPfeFn_40.682233_-80.250914@1294186258"
     },
     "wof:country":"US",
-    "wof:geomhash":"c1b5123d5b271aae57f144aac4131896",
+    "wof:geomhash":"928575e8896bce81a1dc0ad330808145",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,8 +67,8 @@
         }
     ],
     "wof:id":605762093,
-    "wof:lastmodified":1472643873,
-    "wof:name":"Beaver County Historical Rsrch",
+    "wof:lastmodified":1533776576,
+    "wof:name":"Beaver Cnty Historical Reserch",
     "wof:parent_id":85851083,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
@@ -66,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -80.250914,
-    40.682233,
-    -80.250914,
-    40.682233
+    -80.25065,
+    40.68193,
+    -80.25065,
+    40.68193
 ],
-  "geometry": {"coordinates":[-80.25091399999999,40.682233],"type":"Point"}
+  "geometry": {"coordinates":[-80.25064999999999,40.68193],"type":"Point"}
 }

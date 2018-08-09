@@ -2,18 +2,23 @@
   "id": 606003819,
   "type": "Feature",
   "properties": {
-    "addr:full":"301 Lake St Dallas PA 18612",
+    "addr:city":"Dallas",
+    "addr:full":"301 Lake St Dallas, Tx 18612",
+    "addr:house_number":"301",
     "addr:housenumber":"301",
     "addr:postcode":"18612",
+    "addr:road":"Lake St",
+    "addr:state":"TX",
     "addr:street":"Lake St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-75.973649,41.343885,-75.973649,41.343885",
-    "geom:latitude":41.343885,
-    "geom:longitude":-75.973649,
+    "geom:bbox":"-75.97595,41.34655,-75.97595,41.34655",
+    "geom:latitude":41.34655,
+    "geom:longitude":-75.97595,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"301 Lake St",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -27,7 +32,10 @@
     "sg:phone":"+1   ",
     "sg:postcode":"18612",
     "sg:province":"PA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531625
+    ],
     "wof:belongsto":[
         85815269,
         102191575,
@@ -39,10 +47,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409503629,
         "sg:id":"SG_5frxVFiC7CatMgjaMJcdr7_41.343885_-75.973649@1294186258"
     },
     "wof:country":"US",
-    "wof:geomhash":"26f423d709b7e60c6c235b70a303314a",
+    "wof:geomhash":"753b6dcf81559dd065959171dd3ddd77",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,8 +65,8 @@
         }
     ],
     "wof:id":606003819,
-    "wof:lastmodified":1472641888,
-    "wof:name":"Macdonald Art Gallery",
+    "wof:lastmodified":1533776500,
+    "wof:name":"Macdonald Gallery",
     "wof:parent_id":85815269,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
@@ -66,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -75.973649,
-    41.343885,
-    -75.973649,
-    41.343885
+    -75.97595,
+    41.34655,
+    -75.97595,
+    41.34655
 ],
-  "geometry": {"coordinates":[-75.97364899999999,41.343885],"type":"Point"}
+  "geometry": {"coordinates":[-75.97595,41.34655],"type":"Point"}
 }

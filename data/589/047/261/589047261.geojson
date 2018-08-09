@@ -2,18 +2,24 @@
   "id": 589047261,
   "type": "Feature",
   "properties": {
-    "addr:full":"622 W Hamilton St Allentown PA 18101",
+    "addr:city":"Allentown",
+    "addr:full":"622 W Hamilton St Allentown, Pa 18101-2104",
+    "addr:house_number":"622",
     "addr:housenumber":"622",
-    "addr:postcode":"18101",
+    "addr:phone":"+1 610-435-4232",
+    "addr:postcode":"18101-2104",
+    "addr:road":"W Hamilton St",
+    "addr:state":"PA",
     "addr:street":"W Hamilton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-75.470155,40.602621,-75.470155,40.602621",
-    "geom:latitude":40.602621,
-    "geom:longitude":-75.470155,
+    "geom:bbox":"-75.47216,40.60231,-75.47216,40.60231",
+    "geom:latitude":40.60231,
+    "geom:longitude":-75.47216,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"622 W Hamilton St",
     "sg:city":"Allentown",
     "sg:classifiers":[
@@ -30,7 +36,10 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102529131
+    ],
     "wof:belongsto":[
         85897229,
         102191575,
@@ -42,10 +51,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404200938,
         "sg:id":"SG_0Iy0SovVEPXT8sZ8UcU19o_40.602621_-75.470155@1294186258"
     },
     "wof:country":"US",
-    "wof:geomhash":"6ec111beef533fff5bdd1648b22c14d1",
+    "wof:geomhash":"b89059403a97fdb5cc48960c6963711c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,8 +69,8 @@
         }
     ],
     "wof:id":589047261,
-    "wof:lastmodified":1472642059,
-    "wof:name":"Liberty Bell Shrine of Allentn",
+    "wof:lastmodified":1533776576,
+    "wof:name":"Liberty Bell Shrine Of Allentn",
     "wof:parent_id":85897229,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
@@ -71,10 +81,10 @@
     ]
 },
   "bbox": [
-    -75.470155,
-    40.602621,
-    -75.470155,
-    40.602621
+    -75.47216,
+    40.60231,
+    -75.47216,
+    40.60231
 ],
-  "geometry": {"coordinates":[-75.47015500000001,40.602621],"type":"Point"}
+  "geometry": {"coordinates":[-75.47216,40.60231],"type":"Point"}
 }

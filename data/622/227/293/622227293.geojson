@@ -2,18 +2,24 @@
   "id": 622227293,
   "type": "Feature",
   "properties": {
-    "addr:full":"133 N Allegheny St Bellefonte PA 16823",
+    "addr:city":"Bellefonte",
+    "addr:full":"133 N Allegheny St Bellefonte, Pa 16823",
+    "addr:house_number":"133",
     "addr:housenumber":"133",
+    "addr:phone":"+1 814-355-4280",
     "addr:postcode":"16823",
+    "addr:road":"N Allegheny St",
+    "addr:state":"PA",
     "addr:street":"N Allegheny St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-77.778397,40.912998,-77.778397,40.912998",
-    "geom:latitude":40.912998,
-    "geom:longitude":-77.778397,
+    "geom:bbox":"-77.77826,40.91278,-77.77826,40.91278",
+    "geom:latitude":40.91278,
+    "geom:longitude":-77.77826,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"133 N Allegheny St",
     "sg:city":"Bellefonte",
     "sg:classifiers":[
@@ -27,7 +33,10 @@
     "sg:phone":"+1 814 355 4280",
     "sg:postcode":"16823",
     "sg:province":"PA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527905
+    ],
     "wof:belongsto":[
         85806075,
         102191575,
@@ -39,10 +48,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404200248,
         "sg:id":"SG_6KuwDKGtpJoX762zr7rXt2_40.913238_-77.778420@1293134755"
     },
     "wof:country":"US",
-    "wof:geomhash":"ca75b3de79b64c50d4e986a89fc5fc10",
+    "wof:geomhash":"2a0603e2e2978299bfa80042717e5323",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +66,7 @@
         }
     ],
     "wof:id":622227293,
-    "wof:lastmodified":1472643158,
+    "wof:lastmodified":1533776576,
     "wof:name":"Bellefonte Museum",
     "wof:parent_id":85806075,
     "wof:placetype":"venue",
@@ -66,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -77.778397,
-    40.912998,
-    -77.778397,
-    40.912998
+    -77.77826,
+    40.91278,
+    -77.77826,
+    40.91278
 ],
-  "geometry": {"coordinates":[-77.778397,40.912998],"type":"Point"}
+  "geometry": {"coordinates":[-77.77826,40.91278],"type":"Point"}
 }

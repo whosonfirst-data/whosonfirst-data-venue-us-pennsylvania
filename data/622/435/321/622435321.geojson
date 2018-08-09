@@ -2,19 +2,25 @@
   "id": 622435321,
   "type": "Feature",
   "properties": {
-    "addr:full":"211 S Columbus Blvd Philadelphia PA 19106",
+    "addr:city":"Philadelphia",
+    "addr:full":"211 S Columbus Blvd Philadelphia, Pa 19106-3101",
+    "addr:house_number":"211",
     "addr:housenumber":"211",
-    "addr:postcode":"19106",
+    "addr:phone":"+1 215-413-8655",
+    "addr:postcode":"19106-3101",
+    "addr:road":"S Columbus Blvd",
+    "addr:state":"PA",
     "addr:street":"S Columbus Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-75.1418,39.9445,-75.1418,39.9445",
-    "geom:latitude":39.9445,
-    "geom:longitude":-75.1418,
+    "geom:bbox":"-75.14213,39.94463,-75.14213,39.94463",
+    "geom:latitude":39.94463,
+    "geom:longitude":-75.14213,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"211 S Columbus Blvd",
     "sg:city":"Philadelphia",
     "sg:classifiers":[
@@ -37,7 +43,11 @@
         "building",
         "historical"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102529403,
+        102530381
+    ],
     "wof:belongsto":[
         1108721905,
         85893367,
@@ -51,10 +61,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404200484,
         "sg:id":"SG_0GUSIh8UnSKWFQODcTIn0u_39.944500_-75.141800@1303262451"
     },
     "wof:country":"US",
-    "wof:geomhash":"3d9c1d36ee9d2312fb61b7a0aa2ec681",
+    "wof:geomhash":"e78b48b80d05e3279348c79af63c4297",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -70,7 +81,7 @@
         }
     ],
     "wof:id":622435321,
-    "wof:lastmodified":1489039453,
+    "wof:lastmodified":1533776574,
     "wof:name":"Independence Seaport Museum",
     "wof:parent_id":1108721905,
     "wof:placetype":"venue",
@@ -83,10 +94,10 @@
     ]
 },
   "bbox": [
-    -75.1418,
-    39.9445,
-    -75.1418,
-    39.9445
+    -75.14213,
+    39.94463,
+    -75.14213,
+    39.94463
 ],
-  "geometry": {"coordinates":[-75.1418,39.9445],"type":"Point"}
+  "geometry": {"coordinates":[-75.14212999999999,39.94463],"type":"Point"}
 }

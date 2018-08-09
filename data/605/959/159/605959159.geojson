@@ -2,18 +2,24 @@
   "id": 605959159,
   "type": "Feature",
   "properties": {
-    "addr:full":"30 N 1st St Bangor PA 18013",
+    "addr:city":"Bangor",
+    "addr:full":"30 North First Street Bangor, Pa 18013-1904",
+    "addr:house_number":"30",
     "addr:housenumber":"30",
-    "addr:postcode":"18013",
+    "addr:phone":"+1 610-599-4993",
+    "addr:postcode":"18013-1904",
+    "addr:road":"North First Street",
+    "addr:state":"PA",
     "addr:street":"N 1St St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-75.206559,40.867868,-75.206559,40.867868",
-    "geom:latitude":40.867868,
-    "geom:longitude":-75.206559,
+    "geom:bbox":"-75.20646,40.86772,-75.20646,40.86772",
+    "geom:latitude":40.86772,
+    "geom:longitude":-75.20646,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"30 N 1st St",
     "sg:city":"Bangor",
     "sg:classifiers":[
@@ -30,12 +36,13 @@
     "sg:tags":[
         "historical"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
-        85688481,
-        85633793,
-        85851101,
         102081395,
+        85633793,
+        85688481,
+        85851101,
         85853327,
         102191575,
         404485985,
@@ -43,10 +50,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404200843,
         "sg:id":"SG_3KO0DJ9pptgLC99w4Ia9vs_40.867868_-75.206559@1294186258"
     },
     "wof:country":"US",
-    "wof:geomhash":"0c0e2cce217f501f53e726a8d2eee06f",
+    "wof:geomhash":"70ba9912ae96abd69a8392e291ef19d1",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -67,8 +75,8 @@
         }
     ],
     "wof:id":605959159,
-    "wof:lastmodified":1472644052,
-    "wof:name":"Slate Belt Heritage Ctr",
+    "wof:lastmodified":1533776575,
+    "wof:name":"Slate Belt Heritage Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
@@ -79,10 +87,10 @@
     ]
 },
   "bbox": [
-    -75.206559,
-    40.867868,
-    -75.206559,
-    40.867868
+    -75.20646,
+    40.86772,
+    -75.20646,
+    40.86772
 ],
-  "geometry": {"coordinates":[-75.206559,40.867868],"type":"Point"}
+  "geometry": {"coordinates":[-75.20646000000001,40.86772],"type":"Point"}
 }

@@ -2,19 +2,25 @@
   "id": 622071051,
   "type": "Feature",
   "properties": {
-    "addr:full":"1900 Pattison Ave Philadelphia PA 19145",
+    "addr:city":"Philadelphia",
+    "addr:full":"1900 Pattison Avenue Philadelphia, Pa 19145",
+    "addr:house_number":"1900",
     "addr:housenumber":"1900",
+    "addr:phone":"+1 215-389-1776",
     "addr:postcode":"19145",
+    "addr:road":"Pattison Avenue",
+    "addr:state":"PA",
     "addr:street":"Pattison Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-75.177468,39.905552,-75.177468,39.905552",
-    "geom:latitude":39.905552,
-    "geom:longitude":-75.177468,
+    "geom:bbox":"-75.18187,39.90633,-75.18187,39.90633",
+    "geom:latitude":39.90633,
+    "geom:longitude":-75.18187,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1900 Pattison Ave",
     "sg:city":"Philadelphia",
     "sg:classifiers":[
@@ -28,7 +34,11 @@
     "sg:phone":"+1 215 389 1776",
     "sg:postcode":"19145",
     "sg:province":"PA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102529403,
+        102530381
+    ],
     "wof:belongsto":[
         420782601,
         102191575,
@@ -41,10 +51,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404200267,
         "sg:id":"SG_7iks1E1V0TkNCQ7osveR5t_39.905552_-75.177468@1294186258"
     },
     "wof:country":"US",
-    "wof:geomhash":"421fd5bb14997fb0b8e70ab0e6ab5744",
+    "wof:geomhash":"658e9c20f3eed38a7c8788a7acd2a00b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,8 +70,8 @@
         }
     ],
     "wof:id":622071051,
-    "wof:lastmodified":1489038685,
-    "wof:name":"American Swedish Historical",
+    "wof:lastmodified":1533776575,
+    "wof:name":"American Swedish Historical Museum",
     "wof:parent_id":420782601,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
@@ -69,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -75.177468,
-    39.905552,
-    -75.177468,
-    39.905552
+    -75.18187,
+    39.90633,
+    -75.18187,
+    39.90633
 ],
-  "geometry": {"coordinates":[-75.177468,39.905552],"type":"Point"}
+  "geometry": {"coordinates":[-75.18187,39.90633],"type":"Point"}
 }

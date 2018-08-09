@@ -2,18 +2,24 @@
   "id": 622226667,
   "type": "Feature",
   "properties": {
-    "addr:full":"1654 Dekalb St Norristown PA 19401",
+    "addr:city":"Norristown",
+    "addr:full":"1654 Dekalb St Norristown, Pa 19401-5415",
+    "addr:house_number":"1654",
     "addr:housenumber":"1654",
-    "addr:postcode":"19401",
+    "addr:phone":"+1 610-272-0297",
+    "addr:postcode":"19401-5415",
+    "addr:road":"Dekalb St",
+    "addr:state":"PA",
     "addr:street":"Dekalb St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-75.329577,40.126068,-75.329577,40.126068",
-    "geom:latitude":40.126068,
-    "geom:longitude":-75.329577,
+    "geom:bbox":"-75.33008,40.1256,-75.33008,40.1256",
+    "geom:latitude":40.1256,
+    "geom:longitude":-75.33008,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1654 Dekalb St",
     "sg:city":"Norristown",
     "sg:classifiers":[
@@ -38,7 +44,10 @@
         "business"
     ],
     "sg:website":"http://www.hsmcpa.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102530381
+    ],
     "wof:belongsto":[
         420539163,
         102191575,
@@ -50,10 +59,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404200924,
         "sg:id":"SG_6jE92BmMonEROpE3uIB1hY_40.125900_-75.329617@1293134755"
     },
     "wof:country":"US",
-    "wof:geomhash":"5e3c6e8ebece935f660f1c800e5f202e",
+    "wof:geomhash":"ee5803801af399a3650949d7a22f27e1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,7 +77,7 @@
         }
     ],
     "wof:id":622226667,
-    "wof:lastmodified":1472643162,
+    "wof:lastmodified":1533776575,
     "wof:name":"Historical Society Of Montgomery County",
     "wof:parent_id":420539163,
     "wof:placetype":"venue",
@@ -81,10 +91,10 @@
     ]
 },
   "bbox": [
-    -75.329577,
-    40.126068,
-    -75.329577,
-    40.126068
+    -75.33008,
+    40.1256,
+    -75.33008,
+    40.1256
 ],
-  "geometry": {"coordinates":[-75.329577,40.126068],"type":"Point"}
+  "geometry": {"coordinates":[-75.33008,40.1256],"type":"Point"}
 }

@@ -2,18 +2,24 @@
   "id": 622297589,
   "type": "Feature",
   "properties": {
-    "addr:full":"3145 Hamilton Blvd Allentown PA 18103",
+    "addr:city":"Allentown",
+    "addr:full":"3145 Hamilton Boulevard Allentown, Pa 18103-3686",
+    "addr:house_number":"3145",
     "addr:housenumber":"3145",
-    "addr:postcode":"18103",
+    "addr:phone":"+1 484-664-1002",
+    "addr:postcode":"18103-3686",
+    "addr:road":"Hamilton Boulevard",
+    "addr:state":"PA",
     "addr:street":"Hamilton Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-75.521549,40.579993,-75.521549,40.579993",
-    "geom:latitude":40.579993,
-    "geom:longitude":-75.521549,
+    "geom:bbox":"-75.52086,40.58044,-75.52086,40.58044",
+    "geom:latitude":40.58044,
+    "geom:longitude":-75.52086,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"3145 Hamilton Blvd",
     "sg:city":"Allentown",
     "sg:classifiers":[
@@ -28,20 +34,24 @@
     "sg:postcode":"18103",
     "sg:province":"PA",
     "sg:website":"www.davinci-center.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102529131
+    ],
     "wof:belongsto":[
-        85688481,
+        85814951,
         85633793,
         101719977,
         102081327,
-        85814951
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404200770,
         "sg:id":"SG_2HePtGpE9vsADZY1Vlo538_40.579993_-75.521549@1303262434"
     },
     "wof:country":"US",
-    "wof:geomhash":"2946e79787883681fa1a5e7adb5392d6",
+    "wof:geomhash":"d6ecedf5391a067d551b3d41f208fe00",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,8 +63,8 @@
         }
     ],
     "wof:id":622297589,
-    "wof:lastmodified":1472643289,
-    "wof:name":"Da Vinci Science Center",
+    "wof:lastmodified":1533776575,
+    "wof:name":"Da Vinci Discovery Center Of Science And Technology",
     "wof:parent_id":85814951,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
@@ -63,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -75.521549,
-    40.579993,
-    -75.521549,
-    40.579993
+    -75.52086,
+    40.58044,
+    -75.52086,
+    40.58044
 ],
-  "geometry": {"coordinates":[-75.52154899999999,40.579993],"type":"Point"}
+  "geometry": {"coordinates":[-75.52086,40.58044],"type":"Point"}
 }

@@ -2,18 +2,24 @@
   "id": 622168321,
   "type": "Feature",
   "properties": {
-    "addr:full":"1 W Main St Carnegie PA 15106",
+    "addr:city":"Carnegie",
+    "addr:full":"1 W Main St Carnegie, Pa 15106-2404",
+    "addr:house_number":"1",
     "addr:housenumber":"1",
-    "addr:postcode":"15106",
+    "addr:phone":"+1 412-276-7447",
+    "addr:postcode":"15106-2404",
+    "addr:road":"W Main St",
+    "addr:state":"PA",
     "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-80.08683,40.407359,-80.08683,40.407359",
-    "geom:latitude":40.407359,
-    "geom:longitude":-80.08683,
+    "geom:bbox":"-80.09225,40.40446,-80.09225,40.40446",
+    "geom:latitude":40.40446,
+    "geom:longitude":-80.09225,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1 W Main St",
     "sg:city":"Carnegie",
     "sg:classifiers":[
@@ -32,7 +38,10 @@
         "building",
         "historical"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102528181
+    ],
     "wof:belongsto":[
         85821875,
         102191575,
@@ -44,10 +53,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404201229,
         "sg:id":"SG_1F9rDkqIcCHIFoIRRGZc8z_40.407396_-80.086800@1293134755"
     },
     "wof:country":"US",
-    "wof:geomhash":"706f9bc13c932a75967c4b735024241e",
+    "wof:geomhash":"6b695abbe0d8e96167f010596da37fd9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,8 +71,8 @@
         }
     ],
     "wof:id":622168321,
-    "wof:lastmodified":1472642923,
-    "wof:name":"Historical Society of Carnegie",
+    "wof:lastmodified":1533776576,
+    "wof:name":"Historical Society Of Carnegie Pa",
     "wof:parent_id":85821875,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
@@ -75,10 +85,10 @@
     ]
 },
   "bbox": [
-    -80.08683,
-    40.407359,
-    -80.08683,
-    40.407359
+    -80.09225,
+    40.40446,
+    -80.09225,
+    40.40446
 ],
-  "geometry": {"coordinates":[-80.08683000000001,40.407359],"type":"Point"}
+  "geometry": {"coordinates":[-80.09225000000001,40.40446],"type":"Point"}
 }

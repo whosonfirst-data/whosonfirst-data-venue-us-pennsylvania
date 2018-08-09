@@ -2,18 +2,24 @@
   "id": 605389803,
   "type": "Feature",
   "properties": {
-    "addr:full":"120 E Church St Sellersville PA 18960",
+    "addr:city":"Sellersville",
+    "addr:full":"120 E Church St Sellersville, Pa 18960",
+    "addr:house_number":"120",
     "addr:housenumber":"120",
+    "addr:phone":"+1 215-257-5253",
     "addr:postcode":"18960",
+    "addr:road":"E Church St",
+    "addr:state":"PA",
     "addr:street":"E Church St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-75.311432,40.361603,-75.311432,40.361603",
-    "geom:latitude":40.361603,
-    "geom:longitude":-75.311432,
+    "geom:bbox":"-75.31117,40.36171,-75.31117,40.36171",
+    "geom:latitude":40.36171,
+    "geom:longitude":-75.31117,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"120 E Church St",
     "sg:city":"Sellersville",
     "sg:classifiers":[
@@ -30,7 +36,11 @@
     "sg:tags":[
         "village"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102530381,
+        102528737
+    ],
     "wof:belongsto":[
         85857445,
         102191575,
@@ -42,10 +52,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404200282,
         "sg:id":"SG_1AMvRUxfdo1J877wpxlGe0_40.361603_-75.311432@1294186258"
     },
     "wof:country":"US",
-    "wof:geomhash":"8dc449a03b2e05127e1b1b1f024f000e",
+    "wof:geomhash":"8762b8a3af9e28a4db59e6524ca92603",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +70,7 @@
         }
     ],
     "wof:id":605389803,
-    "wof:lastmodified":1472643350,
+    "wof:lastmodified":1533776576,
     "wof:name":"Borough Museum",
     "wof:parent_id":85857445,
     "wof:placetype":"venue",
@@ -71,10 +82,10 @@
     ]
 },
   "bbox": [
-    -75.311432,
-    40.361603,
-    -75.311432,
-    40.361603
+    -75.31117,
+    40.36171,
+    -75.31117,
+    40.36171
 ],
-  "geometry": {"coordinates":[-75.311432,40.361603],"type":"Point"}
+  "geometry": {"coordinates":[-75.31117,40.36171],"type":"Point"}
 }

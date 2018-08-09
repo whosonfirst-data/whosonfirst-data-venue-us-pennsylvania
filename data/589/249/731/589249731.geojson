@@ -2,18 +2,24 @@
   "id": 589249731,
   "type": "Feature",
   "properties": {
-    "addr:full":"1001 Cathedral Rd Bryn Athyn PA 19009",
+    "addr:city":"Bryn Athyn",
+    "addr:full":"1001 Cathedral Road Bryn Athyn, Pa 19006",
+    "addr:house_number":"1001",
     "addr:housenumber":"1001",
-    "addr:postcode":"19009",
+    "addr:phone":"+1 267-502-2600",
+    "addr:postcode":"19006",
+    "addr:road":"Cathedral Road",
+    "addr:state":"PA",
     "addr:street":"Cathedral Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-75.065503,40.136119,-75.065503,40.136119",
-    "geom:latitude":40.136119,
-    "geom:longitude":-75.065503,
+    "geom:bbox":"-75.06728,40.13101,-75.06728,40.13101",
+    "geom:latitude":40.13101,
+    "geom:longitude":-75.06728,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1001 Cathedral Rd",
     "sg:city":"Bryn Athyn",
     "sg:classifiers":[
@@ -30,7 +36,11 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102530381,
+        102528737
+    ],
     "wof:belongsto":[
         85840419,
         102191575,
@@ -42,10 +52,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409501486,
         "sg:id":"SG_73CnD65nLnwcWCtYhmtBpi_40.136119_-75.065503@1294186258"
     },
     "wof:country":"US",
-    "wof:geomhash":"fdb4e1e7bf706561bc8d4771667e901d",
+    "wof:geomhash":"126f677034386a294180f4f2a3a6fc8f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +70,7 @@
         }
     ],
     "wof:id":589249731,
-    "wof:lastmodified":1472642978,
+    "wof:lastmodified":1533776575,
     "wof:name":"Glencairn Museum",
     "wof:parent_id":85840419,
     "wof:placetype":"venue",
@@ -71,10 +82,10 @@
     ]
 },
   "bbox": [
-    -75.065503,
-    40.136119,
-    -75.065503,
-    40.136119
+    -75.06728,
+    40.13101,
+    -75.06728,
+    40.13101
 ],
-  "geometry": {"coordinates":[-75.06550300000001,40.136119],"type":"Point"}
+  "geometry": {"coordinates":[-75.06728,40.13101],"type":"Point"}
 }

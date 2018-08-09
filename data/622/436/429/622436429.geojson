@@ -2,19 +2,25 @@
   "id": 622436429,
   "type": "Feature",
   "properties": {
-    "addr:full":"701 Arch St Philadelphia PA 19106",
+    "addr:city":"Philadelphia",
+    "addr:full":"701 Arch Street Philadelphia, Pa 32963-1807",
+    "addr:house_number":"701",
     "addr:housenumber":"701",
-    "addr:postcode":"19106",
+    "addr:phone":"+1 215-574-0830",
+    "addr:postcode":"32963-1807",
+    "addr:road":"Arch Street",
+    "addr:state":"PA",
     "addr:street":"Arch St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-75.151518,39.953106,-75.151518,39.953106",
-    "geom:latitude":39.953106,
-    "geom:longitude":-75.151518,
+    "geom:bbox":"-75.1517575979,39.9531296089,-75.1517575979,39.9531296089",
+    "geom:latitude":39.95313,
+    "geom:longitude":-75.151758,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"701 Arch St",
     "sg:city":"Philadelphia",
     "sg:classifiers":[
@@ -32,7 +38,11 @@
         "building",
         "historical"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102529403,
+        102530381
+    ],
     "wof:belongsto":[
         85839299,
         102191575,
@@ -45,10 +55,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404200502,
         "sg:id":"SG_0y1l6kKKqACRymQBDIqyBA_39.953106_-75.151518@1303262451"
     },
     "wof:country":"US",
-    "wof:geomhash":"d5a63c2a29a5b668337a7ba4512c94cd",
+    "wof:geomhash":"075485cc3f3e47ef4630d539eca65f30",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,8 +74,8 @@
         }
     ],
     "wof:id":622436429,
-    "wof:lastmodified":1489031952,
-    "wof:name":"African American Museum of Philadelphia",
+    "wof:lastmodified":1533776577,
+    "wof:name":"African American Museum In Philadelphia",
     "wof:parent_id":85839299,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
@@ -76,10 +87,10 @@
     ]
 },
   "bbox": [
-    -75.151518,
-    39.953106,
-    -75.151518,
-    39.953106
+    -75.1517575979233,
+    39.9531296088533,
+    -75.1517575979233,
+    39.9531296088533
 ],
-  "geometry": {"coordinates":[-75.151518,39.953106],"type":"Point"}
+  "geometry": {"coordinates":[-75.15175759792329,39.9531296088533],"type":"Point"}
 }

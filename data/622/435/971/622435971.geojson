@@ -2,19 +2,25 @@
   "id": 622435971,
   "type": "Feature",
   "properties": {
-    "addr:full":"301 S Columbus Blvd Philadelphia PA 19106",
+    "addr:city":"Philadelphia",
+    "addr:full":"301 S Columbus Blvd Philadelphia, Pa 19106",
+    "addr:house_number":"301",
     "addr:housenumber":"301",
+    "addr:phone":"+1 215-238-0280",
     "addr:postcode":"19106",
+    "addr:road":"S Columbus Blvd",
+    "addr:state":"PA",
     "addr:street":"S Columbus Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-75.141822,39.94372,-75.141822,39.94372",
-    "geom:latitude":39.94372,
-    "geom:longitude":-75.141822,
+    "geom:bbox":"-75.14229,39.94286,-75.14229,39.94286",
+    "geom:latitude":39.94286,
+    "geom:longitude":-75.14229,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"301 S Columbus Blvd",
     "sg:city":"Philadelphia",
     "sg:classifiers":[
@@ -28,7 +34,11 @@
     "sg:phone":"+1 215 238 0280",
     "sg:postcode":"19106",
     "sg:province":"PA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102529403,
+        102530381
+    ],
     "wof:belongsto":[
         1108721905,
         85893367,
@@ -42,10 +52,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404200077,
         "sg:id":"SG_6ZEDbzih760t4sj6maxnHM_39.943720_-75.141822@1303262451"
     },
     "wof:country":"US",
-    "wof:geomhash":"8fd7342cc7c784a36a06195253472e0f",
+    "wof:geomhash":"99e3b83561753dbb4b14d778a36ce764",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +72,7 @@
         }
     ],
     "wof:id":622435971,
-    "wof:lastmodified":1489039457,
+    "wof:lastmodified":1533776576,
     "wof:name":"Philadelphia Ship Preservation Guild",
     "wof:parent_id":1108721905,
     "wof:placetype":"venue",
@@ -71,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -75.141822,
-    39.94372,
-    -75.141822,
-    39.94372
+    -75.14229,
+    39.94286,
+    -75.14229,
+    39.94286
 ],
-  "geometry": {"coordinates":[-75.141822,39.94372],"type":"Point"}
+  "geometry": {"coordinates":[-75.14229,39.94286],"type":"Point"}
 }

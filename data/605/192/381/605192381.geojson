@@ -2,18 +2,23 @@
   "id": 605192381,
   "type": "Feature",
   "properties": {
-    "addr:full":"371 Airport Rd Bethel PA 19507",
+    "addr:city":"Bethel",
+    "addr:full":"371 Airport Rd Bethel, Pa 19507-9692",
+    "addr:house_number":"371",
     "addr:housenumber":"371",
-    "addr:postcode":"19507",
+    "addr:postcode":"19507-9692",
+    "addr:road":"Airport Rd",
+    "addr:state":"PA",
     "addr:street":"Airport Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-76.267778,40.483144,-76.267778,40.483144",
-    "geom:latitude":40.483144,
-    "geom:longitude":-76.267778,
+    "geom:bbox":"-76.26457,40.48604,-76.26457,40.48604",
+    "geom:latitude":40.48604,
+    "geom:longitude":-76.26457,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"371 Airport Rd",
     "sg:city":"Bethel",
     "sg:classifiers":[
@@ -30,19 +35,21 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
-        85688481,
+        102080991,
         85633793,
-        85846219,
-        102080991
+        85688481,
+        85846219
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404200800,
         "sg:id":"SG_7GG4YgcL4iXd5zvOOMrRxO_40.483144_-76.267778@1294186258"
     },
     "wof:country":"US",
-    "wof:geomhash":"1d7635699d7b7b410991efb6cb612915",
+    "wof:geomhash":"284453cb70bf69c0b0e30cbf596882af",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,8 +60,8 @@
         }
     ],
     "wof:id":605192381,
-    "wof:lastmodified":1472642873,
-    "wof:name":"Golden Age Air Museum Inc",
+    "wof:lastmodified":1533776576,
+    "wof:name":"Golden Age Air Museum",
     "wof:parent_id":85846219,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
@@ -65,10 +72,10 @@
     ]
 },
   "bbox": [
-    -76.267778,
-    40.483144,
-    -76.267778,
-    40.483144
+    -76.26457,
+    40.48604,
+    -76.26457,
+    40.48604
 ],
-  "geometry": {"coordinates":[-76.26777800000001,40.483144],"type":"Point"}
+  "geometry": {"coordinates":[-76.26457000000001,40.48604],"type":"Point"}
 }

@@ -2,19 +2,25 @@
   "id": 588844275,
   "type": "Feature",
   "properties": {
-    "addr:full":"263 S 4th St Philadelphia PA 19106",
+    "addr:city":"Philadelphia",
+    "addr:full":"263 S 4Th St Philadelphia, Pa 19106-3819",
+    "addr:house_number":"263",
     "addr:housenumber":"263",
-    "addr:postcode":"19106",
+    "addr:phone":"+1 215-925-5752",
+    "addr:postcode":"19106-3819",
+    "addr:road":"S 4Th St",
+    "addr:state":"PA",
     "addr:street":"S 4Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-75.148198,39.945865,-75.148198,39.945865",
-    "geom:latitude":39.945865,
-    "geom:longitude":-75.148198,
+    "geom:bbox":"-75.14827,39.9453,-75.14827,39.9453",
+    "geom:latitude":39.9453,
+    "geom:longitude":-75.14827,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"263 S 4th St",
     "sg:city":"Philadelphia",
     "sg:classifiers":[
@@ -31,7 +37,11 @@
     "sg:tags":[
         "church"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102529403,
+        102530381
+    ],
     "wof:belongsto":[
         85849249,
         102191575,
@@ -44,10 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404200934,
         "sg:id":"SG_3k3JMm3BRLywJ25ygFkesG_39.945865_-75.148198@1294186258"
     },
     "wof:country":"US",
-    "wof:geomhash":"3a66cf8d2df8351990acafab297ef089",
+    "wof:geomhash":"af0fbfca27bdba0b286f14bf08d6f6c9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,8 +73,8 @@
         }
     ],
     "wof:id":588844275,
-    "wof:lastmodified":1489031063,
-    "wof:name":"Catholic Historical Soc",
+    "wof:lastmodified":1533776575,
+    "wof:name":"American Catholic Historical Society",
     "wof:parent_id":85849249,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
@@ -74,10 +85,10 @@
     ]
 },
   "bbox": [
-    -75.148198,
-    39.945865,
-    -75.148198,
-    39.945865
+    -75.14827,
+    39.9453,
+    -75.14827,
+    39.9453
 ],
-  "geometry": {"coordinates":[-75.14819799999999,39.945865],"type":"Point"}
+  "geometry": {"coordinates":[-75.14827,39.9453],"type":"Point"}
 }

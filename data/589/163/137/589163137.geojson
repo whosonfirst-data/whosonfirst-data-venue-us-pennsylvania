@@ -2,18 +2,24 @@
   "id": 589163137,
   "type": "Feature",
   "properties": {
-    "addr:full":"104 E Pine St Clearfield PA 16830",
+    "addr:city":"Clearfield",
+    "addr:full":"104 E Pine St Clearfield, Pa 16830-2517",
+    "addr:house_number":"104",
     "addr:housenumber":"104",
-    "addr:postcode":"16830",
+    "addr:phone":"+1 814-765-6125",
+    "addr:postcode":"16830-2517",
+    "addr:road":"E Pine St",
+    "addr:state":"PA",
     "addr:street":"E Pine St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-78.439753,41.02447,-78.439753,41.02447",
-    "geom:latitude":41.02447,
-    "geom:longitude":-78.439753,
+    "geom:bbox":"-78.43898,41.0245,-78.43898,41.0245",
+    "geom:latitude":41.0245,
+    "geom:longitude":-78.43898,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"104 E Pine St",
     "sg:city":"Clearfield",
     "sg:classifiers":[
@@ -35,20 +41,22 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
-        85688481,
+        85842455,
         85633793,
         101719627,
         102080967,
-        85842455
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404200989,
         "sg:id":"SG_2XG8cnbIQMQUKGBE0n4ugC_41.024470_-78.439753@1294186258"
     },
     "wof:country":"US",
-    "wof:geomhash":"796394331110de896fe285f43222f41b",
+    "wof:geomhash":"7ae818adb83eea5a0f87f27efa882fce",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -60,8 +68,8 @@
         }
     ],
     "wof:id":589163137,
-    "wof:lastmodified":1472642666,
-    "wof:name":"Clearfield Cnty Historical Soc",
+    "wof:lastmodified":1533776576,
+    "wof:name":"Clearfield County Historical Society",
     "wof:parent_id":85842455,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
@@ -72,10 +80,10 @@
     ]
 },
   "bbox": [
-    -78.439753,
-    41.02447,
-    -78.439753,
-    41.02447
+    -78.43898,
+    41.0245,
+    -78.43898,
+    41.0245
 ],
-  "geometry": {"coordinates":[-78.439753,41.02447],"type":"Point"}
+  "geometry": {"coordinates":[-78.43898,41.0245],"type":"Point"}
 }

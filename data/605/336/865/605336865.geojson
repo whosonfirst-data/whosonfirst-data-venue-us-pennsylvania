@@ -2,18 +2,24 @@
   "id": 605336865,
   "type": "Feature",
   "properties": {
-    "addr:full":"111 College Ave Grove City PA 16127",
+    "addr:city":"Grove City",
+    "addr:full":"111 College Ave Grove City, Pa 16127-1203",
+    "addr:house_number":"111",
     "addr:housenumber":"111",
-    "addr:postcode":"16127",
+    "addr:phone":"+1 724-458-1798",
+    "addr:postcode":"16127-1203",
+    "addr:road":"College Ave",
+    "addr:state":"PA",
     "addr:street":"College Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-80.087829,41.158515,-80.087829,41.158515",
-    "geom:latitude":41.158515,
-    "geom:longitude":-80.087829,
+    "geom:bbox":"-80.08691,41.15816,-80.08691,41.15816",
+    "geom:latitude":41.15816,
+    "geom:longitude":-80.08691,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"111 College Ave",
     "sg:city":"Grove City",
     "sg:classifiers":[
@@ -28,20 +34,22 @@
     "sg:postcode":"16127",
     "sg:province":"PA",
     "sg:website":"www.grovecityhistoricalsociety.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
-        85688481,
+        85807655,
         85633793,
         101718109,
         102080965,
-        85807655
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404201331,
         "sg:id":"SG_43rYShrAj83MxuFvPeFcoo_41.158515_-80.087829@1294186258"
     },
     "wof:country":"US",
-    "wof:geomhash":"55cdd6f118b9575593fabff2a58b7f3d",
+    "wof:geomhash":"e5227a1f4db4ddf09d5b2fe0b6be151f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,8 +61,8 @@
         }
     ],
     "wof:id":605336865,
-    "wof:lastmodified":1472643262,
-    "wof:name":"Grove City Area Historical Soc",
+    "wof:lastmodified":1533776575,
+    "wof:name":"Grove City Area Historical Society",
     "wof:parent_id":85807655,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
@@ -63,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -80.087829,
-    41.158515,
-    -80.087829,
-    41.158515
+    -80.08691,
+    41.15816,
+    -80.08691,
+    41.15816
 ],
-  "geometry": {"coordinates":[-80.087829,41.158515],"type":"Point"}
+  "geometry": {"coordinates":[-80.08691,41.15816],"type":"Point"}
 }

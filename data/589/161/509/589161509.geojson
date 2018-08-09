@@ -2,18 +2,24 @@
   "id": 589161509,
   "type": "Feature",
   "properties": {
-    "addr:full":"116 E Campbell St Blairsville PA 15717",
+    "addr:city":"Blairsville",
+    "addr:full":"116 E Campbell Street Blairsville, Pa 15717",
+    "addr:house_number":"116",
     "addr:housenumber":"116",
+    "addr:phone":"+1 724-459-0580",
     "addr:postcode":"15717",
+    "addr:road":"E Campbell Street",
+    "addr:state":"PA",
     "addr:street":"E Campbell St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-79.262436,40.431886,-79.262436,40.431886",
-    "geom:latitude":40.431886,
-    "geom:longitude":-79.262436,
+    "geom:bbox":"-79.26266,40.43186,-79.26266,40.43186",
+    "geom:latitude":40.43186,
+    "geom:longitude":-79.26266,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"116 E Campbell St",
     "sg:city":"Blairsville",
     "sg:classifiers":[
@@ -27,18 +33,24 @@
     "sg:phone":"+1   ",
     "sg:postcode":"15717",
     "sg:province":"PA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531713
+    ],
+    "wof:belongsto":[
+        420538369
+    ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404201187,
         "sg:id":"SG_1H7oPrs9SBfBr9w3I0h4EC_40.431886_-79.262436@1294186258"
     },
     "wof:country":"US",
-    "wof:geomhash":"3c65d3b8c45bfa7e71fb459d37034aa6",
+    "wof:geomhash":"90757bbf1cdcb2c3ed2dc9b08cca6277",
     "wof:hierarchy":[],
     "wof:id":589161509,
-    "wof:lastmodified":1472642675,
-    "wof:name":"Historical Society Blairsville",
+    "wof:lastmodified":1533776576,
+    "wof:name":"Historical Society Of The Blairsville Area",
     "wof:parent_id":420538369,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
@@ -47,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -79.262436,
-    40.431886,
-    -79.262436,
-    40.431886
+    -79.26266,
+    40.43186,
+    -79.26266,
+    40.43186
 ],
-  "geometry": {"coordinates":[-79.26243599999999,40.431886],"type":"Point"}
+  "geometry": {"coordinates":[-79.26266,40.43186],"type":"Point"}
 }

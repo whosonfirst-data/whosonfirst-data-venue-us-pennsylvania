@@ -2,19 +2,25 @@
   "id": 588816167,
   "type": "Feature",
   "properties": {
-    "addr:full":"8708 Germantown Ave Philadelphia PA 19118",
+    "addr:city":"Philadelphia",
+    "addr:full":"8708 Germantown Ave Philadelphia, Pa 19118-2717",
+    "addr:house_number":"8708",
     "addr:housenumber":"8708",
-    "addr:postcode":"19118",
+    "addr:phone":"+1 215-247-0417",
+    "addr:postcode":"19118-2717",
+    "addr:road":"Germantown Ave",
+    "addr:state":"PA",
     "addr:street":"Germantown Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-75.210571,40.077871,-75.210571,40.077871",
-    "geom:latitude":40.077871,
-    "geom:longitude":-75.210571,
+    "geom:bbox":"-75.21046,40.07765,-75.21046,40.07765",
+    "geom:latitude":40.07765,
+    "geom:longitude":-75.21046,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"8708 Germantown Ave",
     "sg:city":"Philadelphia",
     "sg:classifiers":[
@@ -33,7 +39,11 @@
         "historical"
     ],
     "sg:website":"www.chhist.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102529403,
+        102530381
+    ],
     "wof:belongsto":[
         85810759,
         102191575,
@@ -46,10 +56,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404200969,
         "sg:id":"SG_1bXEyz38xDf2ApKzWR0NKK_40.077871_-75.210571@1294186258"
     },
     "wof:country":"US",
-    "wof:geomhash":"ae86da2f2f4dec057ef3f3a36de19498",
+    "wof:geomhash":"7758cb78250965cb644cc3f4035c8004",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,8 +75,8 @@
         }
     ],
     "wof:id":588816167,
-    "wof:lastmodified":1489034686,
-    "wof:name":"Chestnut Hill Historical Soc",
+    "wof:lastmodified":1533776576,
+    "wof:name":"Chestnut Hill Historical Society",
     "wof:parent_id":85810759,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
@@ -77,10 +88,10 @@
     ]
 },
   "bbox": [
-    -75.210571,
-    40.077871,
-    -75.210571,
-    40.077871
+    -75.21046,
+    40.07765,
+    -75.21046,
+    40.07765
 ],
-  "geometry": {"coordinates":[-75.210571,40.077871],"type":"Point"}
+  "geometry": {"coordinates":[-75.21046,40.07765],"type":"Point"}
 }

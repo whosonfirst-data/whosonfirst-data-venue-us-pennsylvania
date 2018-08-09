@@ -2,18 +2,24 @@
   "id": 589198021,
   "type": "Feature",
   "properties": {
-    "addr:full":"11 Veterans Sq Media PA 19063",
+    "addr:city":"Media",
+    "addr:full":"11 Veterans Sq Media, Pa 19063-3201",
+    "addr:house_number":"11",
     "addr:housenumber":"11",
-    "addr:postcode":"19063",
+    "addr:phone":"+1 610-566-5126",
+    "addr:postcode":"19063-3201",
+    "addr:road":"Veterans Sq",
+    "addr:state":"PA",
     "addr:street":"Veterans Sq",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-75.391805,39.91907,-75.391805,39.91907",
-    "geom:latitude":39.91907,
-    "geom:longitude":-75.391805,
+    "geom:bbox":"-75.39182,39.91885,-75.39182,39.91885",
+    "geom:latitude":39.91885,
+    "geom:longitude":-75.39182,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"11 Veterans Sq",
     "sg:city":"Media",
     "sg:classifiers":[
@@ -30,7 +36,10 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102529403
+    ],
     "wof:belongsto":[
         85806865,
         102191575,
@@ -42,10 +51,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404200581,
         "sg:id":"SG_6HbHKfXExDqnwozIrDJNBA_39.919070_-75.391805@1294186258"
     },
     "wof:country":"US",
-    "wof:geomhash":"7906d740562e38248a1e0ed21091edec",
+    "wof:geomhash":"d1fefbc4e31dc22f764fbde501076344",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,8 +69,8 @@
         }
     ],
     "wof:id":589198021,
-    "wof:lastmodified":1472642745,
-    "wof:name":"Delaware County Inst Science",
+    "wof:lastmodified":1533776577,
+    "wof:name":"Delaware County Institute Of Science",
     "wof:parent_id":85806865,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
@@ -71,10 +81,10 @@
     ]
 },
   "bbox": [
-    -75.391805,
-    39.91907,
-    -75.391805,
-    39.91907
+    -75.39182,
+    39.91885,
+    -75.39182,
+    39.91885
 ],
-  "geometry": {"coordinates":[-75.39180500000001,39.91907],"type":"Point"}
+  "geometry": {"coordinates":[-75.39182,39.91885],"type":"Point"}
 }

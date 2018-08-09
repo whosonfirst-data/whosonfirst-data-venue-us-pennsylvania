@@ -2,18 +2,24 @@
   "id": 605207005,
   "type": "Feature",
   "properties": {
-    "addr:full":"1212 Edge Hill Rd Abington PA 19001",
+    "addr:city":"Abington",
+    "addr:full":"1212 Edge Hill Rd Abington, Pa 19001",
+    "addr:house_number":"1212",
     "addr:housenumber":"1212",
+    "addr:phone":"+1 215-887-6603",
     "addr:postcode":"19001",
+    "addr:road":"Edge Hill Rd",
+    "addr:state":"PA",
     "addr:street":"Edge Hill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-75.12685,40.122588,-75.12685,40.122588",
-    "geom:latitude":40.122588,
-    "geom:longitude":-75.12685,
+    "geom:bbox":"-75.12694,40.12257,-75.12694,40.12257",
+    "geom:latitude":40.12257,
+    "geom:longitude":-75.12694,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1212 Edge Hill Rd",
     "sg:city":"Abington",
     "sg:classifiers":[
@@ -36,19 +42,24 @@
         "executive",
         "village"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102530381,
+        102528737
+    ],
     "wof:belongsto":[
-        85688481,
+        102081355,
         85633793,
-        85846105,
-        102081355
+        85688481,
+        85846105
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404201699,
         "sg:id":"SG_2dVyG2tqbmuBIKzVDtWamf_40.122588_-75.126850@1294186258"
     },
     "wof:country":"US",
-    "wof:geomhash":"25032de88161f8c8ade7449a53a058c8",
+    "wof:geomhash":"39528c7c1c915f6f3aaad784e7e36647",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -59,7 +70,7 @@
         }
     ],
     "wof:id":605207005,
-    "wof:lastmodified":1472642890,
+    "wof:lastmodified":1533776576,
     "wof:name":"Briar Bush Nature Center",
     "wof:parent_id":85846105,
     "wof:placetype":"venue",
@@ -72,10 +83,10 @@
     ]
 },
   "bbox": [
-    -75.12685,
-    40.122588,
-    -75.12685,
-    40.122588
+    -75.12694,
+    40.12257,
+    -75.12694,
+    40.12257
 ],
-  "geometry": {"coordinates":[-75.12685,40.122588],"type":"Point"}
+  "geometry": {"coordinates":[-75.12694,40.12257],"type":"Point"}
 }

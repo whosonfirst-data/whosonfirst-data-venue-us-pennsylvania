@@ -2,19 +2,24 @@
   "id": 387817077,
   "type": "Feature",
   "properties": {
-    "addr:full":"522 Main St E Girard PA 16417",
+    "addr:city":"Girard",
+    "addr:full":"522 Main St E Girard, Pa 16417",
+    "addr:house_number":"522",
     "addr:housenumber":"522",
+    "addr:phone":"+1 814-774-3653",
     "addr:postcode":"16417",
+    "addr:road":"Main St E",
+    "addr:state":"PA",
     "addr:street":"Main St E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-80.310908,42.004406,-80.310908,42.004406",
-    "geom:latitude":42.004406,
-    "geom:longitude":-80.310908,
+    "geom:bbox":"-80.31081,42.00451,-80.31081,42.00451",
+    "geom:latitude":42.00451,
+    "geom:longitude":-80.31081,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "sg:address":"522 Main St E",
     "sg:city":"Girard",
     "sg:classifiers":[
@@ -28,7 +33,10 @@
     "sg:phone":"+1 814 774 3653",
     "sg:postcode":"16417",
     "sg:province":"PA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102524857
+    ],
     "wof:belongsto":[
         420537927,
         102191575,
@@ -40,10 +48,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404200196,
         "sg:id":"SG_3TaFegnu8W0zogxGLZdEbc_42.004406_-80.310908@1303262419"
     },
     "wof:country":"US",
-    "wof:geomhash":"21cd0f90845bf45cd5373ac8aceba9fa",
+    "wof:geomhash":"3f1f440db27ac5c6fde92f6440ce3c22",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":387817077,
-    "wof:lastmodified":1472642569,
+    "wof:lastmodified":1533776492,
     "wof:name":"Hazel Kibler Memorial Museum",
     "wof:parent_id":420537927,
     "wof:placetype":"venue",
@@ -67,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -80.310908,
-    42.004406,
-    -80.310908,
-    42.004406
+    -80.31081,
+    42.00451,
+    -80.31081,
+    42.00451
 ],
-  "geometry": {"coordinates":[-80.310908,42.004406],"type":"Point"}
+  "geometry": {"coordinates":[-80.31081,42.00451],"type":"Point"}
 }

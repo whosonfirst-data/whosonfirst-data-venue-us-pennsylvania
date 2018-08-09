@@ -2,18 +2,24 @@
   "id": 605587685,
   "type": "Feature",
   "properties": {
-    "addr:full":"138 W Main St Waynesboro PA 17268",
+    "addr:city":"Waynesboro",
+    "addr:full":"138 W Main St Waynesboro, Pa 17268-1564",
+    "addr:house_number":"138",
     "addr:housenumber":"138",
-    "addr:postcode":"17268",
+    "addr:phone":"+1 717-762-1747",
+    "addr:postcode":"17268-1564",
+    "addr:road":"W Main St",
+    "addr:state":"PA",
     "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-77.580517,39.757318,-77.580517,39.757318",
-    "geom:latitude":39.757318,
-    "geom:longitude":-77.580517,
+    "geom:bbox":"-77.58077,39.75735,-77.58077,39.75735",
+    "geom:latitude":39.75735,
+    "geom:longitude":-77.58077,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"138 W Main St",
     "sg:city":"Waynesboro",
     "sg:classifiers":[
@@ -31,7 +37,10 @@
         "society",
         "historical"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102532115
+    ],
     "wof:belongsto":[
         420538169,
         102191575,
@@ -43,10 +52,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404201401,
         "sg:id":"SG_5Zi3uKJk8OEEYTw2bv9iSN_39.757318_-77.580517@1294186258"
     },
     "wof:country":"US",
-    "wof:geomhash":"b0a1eb67038a0b42b19baafff617537c",
+    "wof:geomhash":"954922d96715ee48d1e72bfb303711f4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +70,7 @@
         }
     ],
     "wof:id":605587685,
-    "wof:lastmodified":1472643637,
+    "wof:lastmodified":1533776576,
     "wof:name":"Waynesboro Historical Society",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -73,10 +83,10 @@
     ]
 },
   "bbox": [
-    -77.580517,
-    39.757318,
-    -77.580517,
-    39.757318
+    -77.58077,
+    39.75735,
+    -77.58077,
+    39.75735
 ],
-  "geometry": {"coordinates":[-77.580517,39.757318],"type":"Point"}
+  "geometry": {"coordinates":[-77.58077,39.75735],"type":"Point"}
 }

@@ -2,18 +2,24 @@
   "id": 588831423,
   "type": "Feature",
   "properties": {
-    "addr:full":"304 Washington St Johnstown PA 15901",
+    "addr:city":"Johnstown",
+    "addr:full":"304 Washington St Johnstown, Pa 15901",
+    "addr:house_number":"304",
     "addr:housenumber":"304",
+    "addr:phone":"+1 814-539-1889",
     "addr:postcode":"15901",
+    "addr:road":"Washington St",
+    "addr:state":"PA",
     "addr:street":"Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-78.920317,40.328009,-78.920317,40.328009",
-    "geom:latitude":40.328009,
-    "geom:longitude":-78.920317,
+    "geom:bbox":"-78.92062,40.32809,-78.92062,40.32809",
+    "geom:latitude":40.32809,
+    "geom:longitude":-78.92062,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"304 Washington St",
     "sg:city":"Johnstown",
     "sg:classifiers":[
@@ -28,7 +34,10 @@
     "sg:postcode":"15901",
     "sg:province":"PA",
     "sg:website":"www.jaha.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102534283
+    ],
     "wof:belongsto":[
         420537103,
         102191575,
@@ -40,10 +49,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404200132,
         "sg:id":"SG_2Jvkkz4lTa0TtAT7kIAu7w_40.328009_-78.920317@1294186258"
     },
     "wof:country":"US",
-    "wof:geomhash":"ff81d1e95805f235b2a84cf9c04a1c7c",
+    "wof:geomhash":"6abe8939e305a728d9fa570a37f541e7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +67,7 @@
         }
     ],
     "wof:id":588831423,
-    "wof:lastmodified":1472642449,
+    "wof:lastmodified":1533776484,
     "wof:name":"Johnstown Flood Museum",
     "wof:parent_id":420537103,
     "wof:placetype":"venue",
@@ -67,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -78.920317,
-    40.328009,
-    -78.920317,
-    40.328009
+    -78.92062,
+    40.32809,
+    -78.92062,
+    40.32809
 ],
-  "geometry": {"coordinates":[-78.920317,40.328009],"type":"Point"}
+  "geometry": {"coordinates":[-78.92062,40.32809],"type":"Point"}
 }

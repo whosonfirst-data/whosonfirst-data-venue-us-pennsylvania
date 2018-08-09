@@ -2,18 +2,24 @@
   "id": 588751635,
   "type": "Feature",
   "properties": {
-    "addr:full":"109 Center St Ridgway PA 15853",
+    "addr:city":"Ridgway",
+    "addr:full":"109 Center St Ridgway, Pa 15853",
+    "addr:house_number":"109",
     "addr:housenumber":"109",
+    "addr:phone":"+1 814-776-1032",
     "addr:postcode":"15853",
+    "addr:road":"Center St",
+    "addr:state":"PA",
     "addr:street":"Center St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-78.732057,41.419863,-78.732057,41.419863",
-    "geom:latitude":41.419863,
-    "geom:longitude":-78.732057,
+    "geom:bbox":"-78.73244,41.41978,-78.73244,41.41978",
+    "geom:latitude":41.41978,
+    "geom:longitude":-78.73244,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"109 Center St",
     "sg:city":"Ridgway",
     "sg:classifiers":[
@@ -27,17 +33,21 @@
     "sg:phone":"+1 814 776 1032",
     "sg:postcode":"15853",
     "sg:province":"PA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "src:geom":"mudf",
+    "wof:airports":[],
+    "wof:belongsto":[
+        420537883
+    ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404200215,
         "sg:id":"SG_0fba4ZUyqSlUexqE6LbIQg_41.419863_-78.732057@1294186258"
     },
     "wof:country":"US",
-    "wof:geomhash":"474319d5f77f96e5d9145c52fe71a405",
+    "wof:geomhash":"e5bb80606b82085304d06981b299b5bd",
     "wof:hierarchy":[],
     "wof:id":588751635,
-    "wof:lastmodified":1472641890,
+    "wof:lastmodified":1533776574,
     "wof:name":"Elk County Historical Society",
     "wof:parent_id":420537883,
     "wof:placetype":"venue",
@@ -47,10 +57,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -78.732057,
-    41.419863,
-    -78.732057,
-    41.419863
+    -78.73244,
+    41.41978,
+    -78.73244,
+    41.41978
 ],
-  "geometry": {"coordinates":[-78.732057,41.419863],"type":"Point"}
+  "geometry": {"coordinates":[-78.73244,41.41978],"type":"Point"}
 }

@@ -2,18 +2,24 @@
   "id": 605871635,
   "type": "Feature",
   "properties": {
-    "addr:full":"786 Church Rd Wayne PA 19087",
+    "addr:city":"Wayne",
+    "addr:full":"786 Church Rd Wayne, Pa 19087-4713",
+    "addr:house_number":"786",
     "addr:housenumber":"786",
-    "addr:postcode":"19087",
+    "addr:phone":"+1 610-687-4163",
+    "addr:postcode":"19087-4713",
+    "addr:road":"Church Rd",
+    "addr:state":"PA",
     "addr:street":"Church Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-75.386958,40.031825,-75.386958,40.031825",
-    "geom:latitude":40.031825,
-    "geom:longitude":-75.386958,
+    "geom:bbox":"-75.3904,40.03034,-75.3904,40.03034",
+    "geom:latitude":40.03034,
+    "geom:longitude":-75.3904,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"786 Church Rd",
     "sg:city":"Wayne",
     "sg:classifiers":[
@@ -28,17 +34,24 @@
     "sg:postcode":"19087",
     "sg:province":"PA",
     "sg:website":"www.chanticleergarden.org",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "src:geom":"mudf",
+    "wof:airports":[
+        102529403,
+        102530381
+    ],
+    "wof:belongsto":[
+        420537839
+    ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404200545,
         "sg:id":"SG_0JdPV2GBombbtMpetCyIn2_40.031825_-75.386958@1294186258"
     },
     "wof:country":"US",
-    "wof:geomhash":"0c39407a15723cb6e2d995bba502a9e1",
+    "wof:geomhash":"5b56550e7e73d6eaf078893b8d4f2ad3",
     "wof:hierarchy":[],
     "wof:id":605871635,
-    "wof:lastmodified":1472643975,
+    "wof:lastmodified":1533776575,
     "wof:name":"Chanticleer Foundation",
     "wof:parent_id":420537839,
     "wof:placetype":"venue",
@@ -48,10 +61,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -75.386958,
-    40.031825,
-    -75.386958,
-    40.031825
+    -75.3904,
+    40.03034,
+    -75.3904,
+    40.03034
 ],
-  "geometry": {"coordinates":[-75.38695800000001,40.031825],"type":"Point"}
+  "geometry": {"coordinates":[-75.3904,40.03034],"type":"Point"}
 }

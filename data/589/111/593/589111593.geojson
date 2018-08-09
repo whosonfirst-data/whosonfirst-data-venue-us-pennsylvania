@@ -2,18 +2,24 @@
   "id": 589111593,
   "type": "Feature",
   "properties": {
-    "addr:full":"1 Depot St Youngwood PA 15697",
+    "addr:city":"Youngwood",
+    "addr:full":"1 Depot St Youngwood, Pa 15697",
+    "addr:house_number":"1",
     "addr:housenumber":"1",
+    "addr:phone":"+1 724-925-7355",
     "addr:postcode":"15697",
+    "addr:road":"Depot St",
+    "addr:state":"PA",
     "addr:street":"Depot St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-79.573883,40.239391,-79.573883,40.239391",
-    "geom:latitude":40.239391,
-    "geom:longitude":-79.573883,
+    "geom:bbox":"-79.57397,40.2393,-79.57397,40.2393",
+    "geom:latitude":40.2393,
+    "geom:longitude":-79.57397,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1 Depot St",
     "sg:city":"Youngwood",
     "sg:classifiers":[
@@ -28,20 +34,24 @@
     "sg:postcode":"15697",
     "sg:province":"PA",
     "sg:website":"www.ywdrailroadmuseum.com",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531713
+    ],
     "wof:belongsto":[
-        85688481,
+        85857557,
         85633793,
         101717103,
         102081383,
-        85857557
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404200015,
         "sg:id":"SG_11BlIWyyckfAEZlYVMEmFQ_40.239391_-79.573883@1294186258"
     },
     "wof:country":"US",
-    "wof:geomhash":"074aec99359ae169b3b6321beaa2d70c",
+    "wof:geomhash":"ec76e854fd659fcf18abd0f6c432a1ad",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +63,7 @@
         }
     ],
     "wof:id":589111593,
-    "wof:lastmodified":1472642316,
+    "wof:lastmodified":1533776576,
     "wof:name":"Youngwood Historical Museum",
     "wof:parent_id":85857557,
     "wof:placetype":"venue",
@@ -63,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -79.573883,
-    40.239391,
-    -79.573883,
-    40.239391
+    -79.57397,
+    40.2393,
+    -79.57397,
+    40.2393
 ],
-  "geometry": {"coordinates":[-79.573883,40.239391],"type":"Point"}
+  "geometry": {"coordinates":[-79.57397,40.2393],"type":"Point"}
 }

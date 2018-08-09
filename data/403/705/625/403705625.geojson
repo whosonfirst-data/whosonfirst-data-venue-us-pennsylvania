@@ -2,19 +2,23 @@
   "id": 403705625,
   "type": "Feature",
   "properties": {
-    "addr:full":"40 Northeast Dr Hershey PA 17033",
+    "addr:city":"Hershey",
+    "addr:full":"40 Northeast Dr Hershey, Pa 17033-2732",
+    "addr:house_number":"40",
     "addr:housenumber":"40",
-    "addr:postcode":"17033",
+    "addr:postcode":"17033-2732",
+    "addr:road":"Northeast Dr",
+    "addr:state":"PA",
     "addr:street":"Northeast Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-76.647812,40.292417,-76.647812,40.292417",
-    "geom:latitude":40.292417,
-    "geom:longitude":-76.647812,
+    "geom:bbox":"-76.64951,40.29302,-76.64951,40.29302",
+    "geom:latitude":40.29302,
+    "geom:longitude":-76.64951,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "sg:address":"40 Northeast Dr",
     "sg:city":"Hershey",
     "sg:classifiers":[
@@ -28,7 +32,10 @@
     "sg:phone":"+1 717 520 0748",
     "sg:postcode":"17033",
     "sg:province":"PA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102529873
+    ],
     "wof:belongsto":[
         85850549,
         102191575,
@@ -40,10 +47,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404201260,
         "sg:id":"SG_2puXIlKEZLmAYoYTLNx1DT_40.292417_-76.647812@1303262422"
     },
     "wof:country":"US",
-    "wof:geomhash":"64608e03ae61598b0642518974ca56d9",
+    "wof:geomhash":"118cbfa60e39bdf02f16e3ec31ab103c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,8 +65,8 @@
         }
     ],
     "wof:id":403705625,
-    "wof:lastmodified":1472641823,
-    "wof:name":"Derry Township Historical Society",
+    "wof:lastmodified":1533776576,
+    "wof:name":"Hershey-Derry Township Historial Society",
     "wof:parent_id":85850549,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
@@ -67,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -76.647812,
-    40.292417,
-    -76.647812,
-    40.292417
+    -76.64951,
+    40.29302,
+    -76.64951,
+    40.29302
 ],
-  "geometry": {"coordinates":[-76.647812,40.292417],"type":"Point"}
+  "geometry": {"coordinates":[-76.64951000000001,40.29302],"type":"Point"}
 }

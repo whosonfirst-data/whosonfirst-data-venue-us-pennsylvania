@@ -2,18 +2,24 @@
   "id": 605159315,
   "type": "Feature",
   "properties": {
-    "addr:full":"25 N 11th St Reading PA 19601",
+    "addr:city":"Reading",
+    "addr:full":"25 N 11Th Street Reading, Pa 19601",
+    "addr:house_number":"25",
     "addr:housenumber":"25",
+    "addr:phone":"+1 610-372-4992",
     "addr:postcode":"19601",
+    "addr:road":"N 11Th Street",
+    "addr:state":"PA",
     "addr:street":"N 11Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-75.916101,40.335733,-75.916101,40.335733",
-    "geom:latitude":40.335733,
-    "geom:longitude":-75.916101,
+    "geom:bbox":"-75.91609,40.33554,-75.91609,40.33554",
+    "geom:latitude":40.33554,
+    "geom:longitude":-75.91609,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"25 N 11th St",
     "sg:city":"Reading",
     "sg:classifiers":[
@@ -31,7 +37,10 @@
         "conservation"
     ],
     "sg:website":"www.berks-conservancy.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102528039
+    ],
     "wof:belongsto":[
         85893387,
         102191575,
@@ -43,10 +52,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404201697,
         "sg:id":"SG_009Jkcx83LA9p8IMFtmryd_40.335733_-75.916101@1294186258"
     },
     "wof:country":"US",
-    "wof:geomhash":"fda77ef53eb813c7b03e4e996fee4065",
+    "wof:geomhash":"799af9a8486f9926caac203a424163f1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,8 +70,8 @@
         }
     ],
     "wof:id":605159315,
-    "wof:lastmodified":1472642760,
-    "wof:name":"Berks County Conservancy",
+    "wof:lastmodified":1533776575,
+    "wof:name":"Berks Conservancy",
     "wof:parent_id":85893387,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
@@ -72,10 +82,10 @@
     ]
 },
   "bbox": [
-    -75.916101,
-    40.335733,
-    -75.916101,
-    40.335733
+    -75.91609,
+    40.33554,
+    -75.91609,
+    40.33554
 ],
-  "geometry": {"coordinates":[-75.916101,40.335733],"type":"Point"}
+  "geometry": {"coordinates":[-75.91609,40.33554],"type":"Point"}
 }

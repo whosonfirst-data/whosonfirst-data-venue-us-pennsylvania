@@ -2,18 +2,23 @@
   "id": 589059665,
   "type": "Feature",
   "properties": {
-    "addr:full":"119 S Pitt St Mercer PA 16137",
+    "addr:city":"Mercer",
+    "addr:full":"119 S Pitt St Mercer, Pa 16137-1211",
+    "addr:house_number":"119",
     "addr:housenumber":"119",
-    "addr:postcode":"16137",
+    "addr:postcode":"16137-1211",
+    "addr:road":"S Pitt St",
+    "addr:state":"PA",
     "addr:street":"S Pitt St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-80.237755,41.225575,-80.237755,41.225575",
-    "geom:latitude":41.225575,
-    "geom:longitude":-80.237755,
+    "geom:bbox":"-80.23799,41.2277,-80.23799,41.2277",
+    "geom:latitude":41.2277,
+    "geom:longitude":-80.23799,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"119 S Pitt St",
     "sg:city":"Mercer",
     "sg:classifiers":[
@@ -31,20 +36,22 @@
         "executive",
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
-        85688481,
+        85838979,
         85633793,
         101718101,
         102080965,
-        85838979
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404201095,
         "sg:id":"SG_5nrkQ35Xomoh70XoWihh2i_41.225575_-80.237755@1294186258"
     },
     "wof:country":"US",
-    "wof:geomhash":"16fa75591adb271bba864910a70af73c",
+    "wof:geomhash":"fba7781b8c2e1272772982592d50180b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,8 +63,8 @@
         }
     ],
     "wof:id":589059665,
-    "wof:lastmodified":1472642124,
-    "wof:name":"Mercer County Historical Soc",
+    "wof:lastmodified":1533776493,
+    "wof:name":"Mercer County Historical Society",
     "wof:parent_id":85838979,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
@@ -69,10 +76,10 @@
     ]
 },
   "bbox": [
-    -80.237755,
-    41.225575,
-    -80.237755,
-    41.225575
+    -80.23799,
+    41.2277,
+    -80.23799,
+    41.2277
 ],
-  "geometry": {"coordinates":[-80.23775500000001,41.225575],"type":"Point"}
+  "geometry": {"coordinates":[-80.23799,41.2277],"type":"Point"}
 }

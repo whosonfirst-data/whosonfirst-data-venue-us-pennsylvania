@@ -2,19 +2,24 @@
   "id": 387654863,
   "type": "Feature",
   "properties": {
-    "addr:full":"200 S 6th St Indiana PA 15701",
+    "addr:city":"Indiana",
+    "addr:full":"200 S 6Th St Indiana, Pa 15701-3042",
+    "addr:house_number":"200",
     "addr:housenumber":"200",
-    "addr:postcode":"15701",
+    "addr:phone":"+1 724-463-9600",
+    "addr:postcode":"15701-3042",
+    "addr:road":"S 6Th St",
+    "addr:state":"PA",
     "addr:street":"S 6Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-79.15081,40.620548,-79.15081,40.620548",
-    "geom:latitude":40.620548,
-    "geom:longitude":-79.15081,
+    "geom:bbox":"-79.15142,40.61978,-79.15142,40.61978",
+    "geom:latitude":40.61978,
+    "geom:longitude":-79.15142,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "sg:address":"200 S 6th St",
     "sg:city":"Indiana",
     "sg:classifiers":[
@@ -31,20 +36,24 @@
     "sg:tags":[
         "employer"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102534099
+    ],
     "wof:belongsto":[
-        85688481,
+        85822493,
         85633793,
         101716689,
         102081387,
-        85822493
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404201133,
         "sg:id":"SG_2lSk60BY1o57XrbX04iORP_40.620548_-79.150810@1303262416"
     },
     "wof:country":"US",
-    "wof:geomhash":"c9592532f1231254ae73b0dbc0255cac",
+    "wof:geomhash":"1ac20df831a5f3faef97e5f6b52b7af9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,8 +65,8 @@
         }
     ],
     "wof:id":387654863,
-    "wof:lastmodified":1472642471,
-    "wof:name":"Historical & Genealogical Society of Indiana County",
+    "wof:lastmodified":1533776575,
+    "wof:name":"Historical & Genealogical Society Of Indiana County",
     "wof:parent_id":85822493,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
@@ -68,10 +77,10 @@
     ]
 },
   "bbox": [
-    -79.15081,
-    40.620548,
-    -79.15081,
-    40.620548
+    -79.15142,
+    40.61978,
+    -79.15142,
+    40.61978
 ],
-  "geometry": {"coordinates":[-79.15081000000001,40.620548],"type":"Point"}
+  "geometry": {"coordinates":[-79.15142,40.61978],"type":"Point"}
 }

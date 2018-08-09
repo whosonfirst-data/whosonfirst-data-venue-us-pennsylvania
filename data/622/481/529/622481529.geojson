@@ -2,19 +2,25 @@
   "id": 622481529,
   "type": "Feature",
   "properties": {
-    "addr:full":"2027 Fairmount Ave Philadelphia PA 19130",
+    "addr:city":"Philadelphia",
+    "addr:full":"2027 Fairmount Ave Philadelphia, Pa 19130-2610",
+    "addr:house_number":"2027",
     "addr:housenumber":"2027",
-    "addr:postcode":"19130",
+    "addr:phone":"+1 215-564-6377",
+    "addr:postcode":"19130-2610",
+    "addr:road":"Fairmount Ave",
+    "addr:state":"PA",
     "addr:street":"Fairmount Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-75.17124,39.967269,-75.17124,39.967269",
-    "geom:latitude":39.967269,
-    "geom:longitude":-75.17124,
+    "geom:bbox":"-75.17085,39.96735,-75.17085,39.96735",
+    "geom:latitude":39.96735,
+    "geom:longitude":-75.17085,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"2027 Fairmount Ave",
     "sg:city":"Philadelphia",
     "sg:classifiers":[
@@ -33,7 +39,11 @@
         "historical"
     ],
     "sg:website":"www.EasternState.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102529403,
+        102530381
+    ],
     "wof:belongsto":[
         420539525,
         102191575,
@@ -46,10 +56,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404201529,
         "sg:id":"SG_1e4ubR7HnvbyqJk6gPFHcw_39.967269_-75.171240@1303262457"
     },
     "wof:country":"US",
-    "wof:geomhash":"a88976f113669c3b116499a19f3398c6",
+    "wof:geomhash":"53eb4e36b61c2575eb3cbfa5b8651731",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,7 +75,7 @@
         }
     ],
     "wof:id":622481529,
-    "wof:lastmodified":1489035227,
+    "wof:lastmodified":1533776575,
     "wof:name":"Eastern State Penitentiary Historic Site",
     "wof:parent_id":420539525,
     "wof:placetype":"venue",
@@ -77,10 +88,10 @@
     ]
 },
   "bbox": [
-    -75.17124,
-    39.967269,
-    -75.17124,
-    39.967269
+    -75.17085,
+    39.96735,
+    -75.17085,
+    39.96735
 ],
-  "geometry": {"coordinates":[-75.17124,39.967269],"type":"Point"}
+  "geometry": {"coordinates":[-75.17085,39.96735],"type":"Point"}
 }

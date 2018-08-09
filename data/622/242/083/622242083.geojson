@@ -2,18 +2,24 @@
   "id": 622242083,
   "type": "Feature",
   "properties": {
-    "addr:full":"401 Meadowcroft Rd Avella PA 15312",
+    "addr:city":"Avella",
+    "addr:full":"401 Meadowcroft Rd Avella, Pa 15312",
+    "addr:house_number":"401",
     "addr:housenumber":"401",
+    "addr:phone":"+1 724-587-3412",
     "addr:postcode":"15312",
+    "addr:road":"Meadowcroft Rd",
+    "addr:state":"PA",
     "addr:street":"Meadowcroft Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-80.495178,40.286282,-80.495178,40.286282",
-    "geom:latitude":40.286282,
-    "geom:longitude":-80.495178,
+    "geom:bbox":"-80.49576,40.28609,-80.49576,40.28609",
+    "geom:latitude":40.28609,
+    "geom:longitude":-80.49576,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"401 Meadowcroft Rd",
     "sg:city":"Avella",
     "sg:classifiers":[
@@ -40,18 +46,24 @@
         "gallery"
     ],
     "sg:website":"www.meadowcroftmuseum.org",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531661
+    ],
+    "wof:belongsto":[
+        420540025
+    ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404201103,
         "sg:id":"SG_7WpvmMSe6tIa2NtwOKV2hH_40.285923_-80.495862@1293134755"
     },
     "wof:country":"US",
-    "wof:geomhash":"0eacfbd78f660745652ecc6425796427",
+    "wof:geomhash":"263c9c523c7e9e714296503fe4a3c247",
     "wof:hierarchy":[],
     "wof:id":622242083,
-    "wof:lastmodified":1472643163,
-    "wof:name":"Meadowcroft Museum-Rural Life",
+    "wof:lastmodified":1533776576,
+    "wof:name":"Meadowcroft Museum Of Rural Life",
     "wof:parent_id":420540025,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
@@ -66,10 +78,10 @@
     ]
 },
   "bbox": [
-    -80.495178,
-    40.286282,
-    -80.495178,
-    40.286282
+    -80.49576,
+    40.28609,
+    -80.49576,
+    40.28609
 ],
-  "geometry": {"coordinates":[-80.495178,40.286282],"type":"Point"}
+  "geometry": {"coordinates":[-80.49576,40.28609],"type":"Point"}
 }

@@ -2,19 +2,25 @@
   "id": 589219703,
   "type": "Feature",
   "properties": {
-    "addr:full":"6133 Germantown Ave Philadelphia PA 19144",
+    "addr:city":"Philadelphia",
+    "addr:full":"6133 Germantown Ave Philadelphia, Pa 19144-2046",
+    "addr:house_number":"6133",
     "addr:housenumber":"6133",
-    "addr:postcode":"19144",
+    "addr:phone":"+1 215-843-0943",
+    "addr:postcode":"19144-2046",
+    "addr:road":"Germantown Ave",
+    "addr:state":"PA",
     "addr:street":"Germantown Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-75.179129,40.041064,-75.179129,40.041064",
-    "geom:latitude":40.041064,
-    "geom:longitude":-75.179129,
+    "geom:bbox":"-75.17927,40.04163,-75.17927,40.04163",
+    "geom:latitude":40.04163,
+    "geom:longitude":-75.17927,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"6133 Germantown Ave",
     "sg:city":"Philadelphia",
     "sg:classifiers":[
@@ -31,7 +37,11 @@
     "sg:tags":[
         "historical"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102529403,
+        102530381
+    ],
     "wof:belongsto":[
         85835357,
         102191575,
@@ -44,10 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404200497,
         "sg:id":"SG_2FsHImasjuTfoyjmXeau0q_40.041064_-75.179129@1294186258"
     },
     "wof:country":"US",
-    "wof:geomhash":"98a9d73eec9f4bef1d084d6c46f53852",
+    "wof:geomhash":"47d67b4cb2c43ee3e09db314b5dcfe7c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,8 +73,8 @@
         }
     ],
     "wof:id":589219703,
-    "wof:lastmodified":1489036240,
-    "wof:name":"Germantown Mennonite Historic",
+    "wof:lastmodified":1533776575,
+    "wof:name":"Germantown Mnnnite Historic Trust",
     "wof:parent_id":85835357,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
@@ -74,10 +85,10 @@
     ]
 },
   "bbox": [
-    -75.179129,
-    40.041064,
-    -75.179129,
-    40.041064
+    -75.17927,
+    40.04163,
+    -75.17927,
+    40.04163
 ],
-  "geometry": {"coordinates":[-75.179129,40.041064],"type":"Point"}
+  "geometry": {"coordinates":[-75.17927,40.04163],"type":"Point"}
 }

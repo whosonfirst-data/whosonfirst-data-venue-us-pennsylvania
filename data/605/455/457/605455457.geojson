@@ -2,18 +2,24 @@
   "id": 605455457,
   "type": "Feature",
   "properties": {
-    "addr:full":"2825 Fish Hatchery Rd Allentown PA 18103",
+    "addr:city":"Allentown",
+    "addr:full":"2825 Fish Hatchery Road Allentown, Pa 18103",
+    "addr:house_number":"2825",
     "addr:housenumber":"2825",
+    "addr:phone":"+1 610-797-2121",
     "addr:postcode":"18103",
+    "addr:road":"Fish Hatchery Road",
+    "addr:state":"PA",
     "addr:street":"Fish Hatchery Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-75.509247,40.564064,-75.509247,40.564064",
-    "geom:latitude":40.564064,
-    "geom:longitude":-75.509247,
+    "geom:bbox":"-75.51248,40.56342,-75.51248,40.56342",
+    "geom:latitude":40.56342,
+    "geom:longitude":-75.51248,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"2825 Fish Hatchery Rd",
     "sg:city":"Allentown",
     "sg:classifiers":[
@@ -28,20 +34,24 @@
     "sg:postcode":"18103",
     "sg:province":"PA",
     "sg:website":"www.lenape.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102529131
+    ],
     "wof:belongsto":[
-        85688481,
+        85814951,
         85633793,
         101719977,
         102081327,
-        85814951
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404200155,
         "sg:id":"SG_42sckD1qWRSmE4jE5TwDXy_40.564064_-75.509247@1294186258"
     },
     "wof:country":"US",
-    "wof:geomhash":"37f59926d3e3bcb68f6e4e330c14a027",
+    "wof:geomhash":"d6160e107e94db74c723d3eb18d0982c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,8 +63,8 @@
         }
     ],
     "wof:id":605455457,
-    "wof:lastmodified":1472643445,
-    "wof:name":"Lenni Lenape Historical",
+    "wof:lastmodified":1533776576,
+    "wof:name":"Lenni Lenape Historical Society",
     "wof:parent_id":85814951,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
@@ -63,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -75.509247,
-    40.564064,
-    -75.509247,
-    40.564064
+    -75.51248,
+    40.56342,
+    -75.51248,
+    40.56342
 ],
-  "geometry": {"coordinates":[-75.509247,40.564064],"type":"Point"}
+  "geometry": {"coordinates":[-75.51248,40.56342],"type":"Point"}
 }

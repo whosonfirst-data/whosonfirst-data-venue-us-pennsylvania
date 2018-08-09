@@ -2,19 +2,25 @@
   "id": 622517033,
   "type": "Feature",
   "properties": {
-    "addr:full":"1020 South St Philadelphia PA 19147",
+    "addr:city":"Philadelphia",
+    "addr:full":"1020 South Street Philadelphia, Pa 19147",
+    "addr:house_number":"1020",
     "addr:housenumber":"1020",
+    "addr:phone":"+1 215-733-0390",
     "addr:postcode":"19147",
+    "addr:road":"South Street",
+    "addr:state":"PA",
     "addr:street":"South St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-75.159314,39.94271,-75.159314,39.94271",
-    "geom:latitude":39.94271,
-    "geom:longitude":-75.159314,
+    "geom:bbox":"-75.15954,39.94277,-75.15954,39.94277",
+    "geom:latitude":39.94277,
+    "geom:longitude":-75.15954,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1020 South St",
     "sg:city":"Philadelphia",
     "sg:classifiers":[
@@ -52,7 +58,11 @@
         "charity"
     ],
     "sg:website":"www.phillymagicgardens.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102529403,
+        102530381
+    ],
     "wof:belongsto":[
         1108722077,
         85849249,
@@ -66,10 +76,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409503869,
         "sg:id":"SG_50mmVvni5Osr9uX2TqWoIg_39.942710_-75.159314@1303262462"
     },
     "wof:country":"US",
-    "wof:geomhash":"43491d7c08cda01bd10dac2c22d95ae5",
+    "wof:geomhash":"8423963b6886fa007e62c95c4e94e485",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -85,8 +96,8 @@
         }
     ],
     "wof:id":622517033,
-    "wof:lastmodified":1489039477,
-    "wof:name":"Philadelphia Magic Gardens",
+    "wof:lastmodified":1533776576,
+    "wof:name":"Philadelphia'S Magic Gardens",
     "wof:parent_id":1108722077,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
@@ -102,10 +113,10 @@
     ]
 },
   "bbox": [
-    -75.159314,
-    39.94271,
-    -75.159314,
-    39.94271
+    -75.15954,
+    39.94277,
+    -75.15954,
+    39.94277
 ],
-  "geometry": {"coordinates":[-75.15931399999999,39.94271],"type":"Point"}
+  "geometry": {"coordinates":[-75.15954000000001,39.94277],"type":"Point"}
 }

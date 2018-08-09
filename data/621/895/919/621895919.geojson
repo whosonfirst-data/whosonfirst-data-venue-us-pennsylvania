@@ -2,19 +2,25 @@
   "id": 621895919,
   "type": "Feature",
   "properties": {
-    "addr:full":"2801 Brill St Philadelphia PA 19137",
+    "addr:city":"Philadelphia",
+    "addr:full":"2801 Brill Street Philadelphia, Pa 19137",
+    "addr:house_number":"2801",
     "addr:housenumber":"2801",
+    "addr:phone":"+1 215-744-1674",
     "addr:postcode":"19137",
+    "addr:road":"Brill Street",
+    "addr:state":"PA",
     "addr:street":"Brill St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-75.062568,40.002275,-75.062568,40.002275",
-    "geom:latitude":40.002275,
-    "geom:longitude":-75.062568,
+    "geom:bbox":"-75.06376,40.00311,-75.06376,40.00311",
+    "geom:latitude":40.00311,
+    "geom:longitude":-75.06376,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"2801 Brill St",
     "sg:city":"Philadelphia",
     "sg:classifiers":[
@@ -36,7 +42,11 @@
     "sg:tags":[
         "historical"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102529403,
+        102530381
+    ],
     "wof:belongsto":[
         85807375,
         102191575,
@@ -49,10 +59,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404200692,
         "sg:id":"SG_1wHLq1621G8wf8eyXyIjF8_40.002275_-75.062568@1294186258"
     },
     "wof:country":"US",
-    "wof:geomhash":"206b50a930bb04e825e573786b9b4b6d",
+    "wof:geomhash":"16ce9949b534934b44b9f7d083da15b1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,7 +78,7 @@
         }
     ],
     "wof:id":621895919,
-    "wof:lastmodified":1489035404,
+    "wof:lastmodified":1533776575,
     "wof:name":"Bridesburg Historical Society",
     "wof:parent_id":85807375,
     "wof:placetype":"venue",
@@ -79,10 +90,10 @@
     ]
 },
   "bbox": [
-    -75.062568,
-    40.002275,
-    -75.062568,
-    40.002275
+    -75.06376,
+    40.00311,
+    -75.06376,
+    40.00311
 ],
-  "geometry": {"coordinates":[-75.062568,40.002275],"type":"Point"}
+  "geometry": {"coordinates":[-75.06376,40.00311],"type":"Point"}
 }

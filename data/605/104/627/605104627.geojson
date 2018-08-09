@@ -2,18 +2,24 @@
   "id": 605104627,
   "type": "Feature",
   "properties": {
-    "addr:full":"610 Taneytown Rd Gettysburg PA 17325",
+    "addr:city":"Gettysburg",
+    "addr:full":"610 Taneytown Rd Gettysburg, Pa 17325",
+    "addr:house_number":"610",
     "addr:housenumber":"610",
+    "addr:phone":"+1 717-334-6408",
     "addr:postcode":"17325",
+    "addr:road":"Taneytown Rd",
+    "addr:state":"PA",
     "addr:street":"Taneytown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-77.228885,39.801004,-77.228885,39.801004",
-    "geom:latitude":39.801004,
-    "geom:longitude":-77.228885,
+    "geom:bbox":"-77.22968,39.80297,-77.22968,39.80297",
+    "geom:latitude":39.80297,
+    "geom:longitude":-77.22968,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"610 Taneytown Rd",
     "sg:city":"Gettysburg",
     "sg:classifiers":[
@@ -27,19 +33,21 @@
     "sg:phone":"+1 717 334 6408",
     "sg:postcode":"17325",
     "sg:province":"PA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
-        85688481,
+        102080899,
         85633793,
-        85846225,
-        102080899
+        85688481,
+        85846225
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404200200,
         "sg:id":"SG_1a7Y4wmngTGWG4Ww79eG7a_39.801004_-77.228885@1294186258"
     },
     "wof:country":"US",
-    "wof:geomhash":"5fdcaac91437db0e094eb855bf3ea68a",
+    "wof:geomhash":"ac9051286ee114ce522f3684c849ca14",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +58,7 @@
         }
     ],
     "wof:id":605104627,
-    "wof:lastmodified":1472642466,
+    "wof:lastmodified":1533776498,
     "wof:name":"Gettysburg Diorama",
     "wof:parent_id":85846225,
     "wof:placetype":"venue",
@@ -60,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -77.228885,
-    39.801004,
-    -77.228885,
-    39.801004
+    -77.22968,
+    39.80297,
+    -77.22968,
+    39.80297
 ],
-  "geometry": {"coordinates":[-77.22888500000001,39.801004],"type":"Point"}
+  "geometry": {"coordinates":[-77.22968,39.80297],"type":"Point"}
 }

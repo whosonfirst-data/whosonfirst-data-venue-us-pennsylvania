@@ -2,18 +2,24 @@
   "id": 605815673,
   "type": "Feature",
   "properties": {
-    "addr:full":"812 Bebout Rd Venetia PA 15367",
+    "addr:city":"Venetia",
+    "addr:full":"812 Bebout Rd Venetia, Pa 15367",
+    "addr:house_number":"812",
     "addr:housenumber":"812",
+    "addr:phone":"+1 484-459-9923",
     "addr:postcode":"15367",
+    "addr:road":"Bebout Rd",
+    "addr:state":"PA",
     "addr:street":"Bebout Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-80.072182,40.277366,-80.072182,40.277366",
-    "geom:latitude":40.277366,
-    "geom:longitude":-80.072182,
+    "geom:bbox":"-80.07018,40.2809,-80.07018,40.2809",
+    "geom:latitude":40.2809,
+    "geom:longitude":-80.07018,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"812 Bebout Rd",
     "sg:city":"Venetia",
     "sg:classifiers":[
@@ -30,19 +36,21 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
-        85688481,
+        102081343,
         85633793,
-        85806851,
-        102081343
+        85688481,
+        85806851
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404200236,
         "sg:id":"SG_4vVksgUYdQvFfDVKtH6iJt_40.277366_-80.072182@1294186258"
     },
     "wof:country":"US",
-    "wof:geomhash":"9c68c0dea6b675717fcd5891c9206587",
+    "wof:geomhash":"e8c8f5aa4bbe05716ac07faae0593f2e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":605815673,
-    "wof:lastmodified":1472643925,
+    "wof:lastmodified":1533776576,
     "wof:name":"Civil War Artillery Museum",
     "wof:parent_id":85806851,
     "wof:placetype":"venue",
@@ -65,10 +73,10 @@
     ]
 },
   "bbox": [
-    -80.072182,
-    40.277366,
-    -80.072182,
-    40.277366
+    -80.07018,
+    40.2809,
+    -80.07018,
+    40.2809
 ],
-  "geometry": {"coordinates":[-80.072182,40.277366],"type":"Point"}
+  "geometry": {"coordinates":[-80.07017999999999,40.2809],"type":"Point"}
 }

@@ -2,17 +2,22 @@
   "id": 622063293,
   "type": "Feature",
   "properties": {
-    "addr:full":"43 S Chestnut St Boyertown PA 19512",
+    "addr:city":"Boyertown",
+    "addr:full":"43 S Chestnut St Boyertown, Pa 19512-1508",
+    "addr:house_number":"43",
     "addr:housenumber":"43",
-    "addr:postcode":"19512",
+    "addr:phone":"+1 610-367-5255",
+    "addr:postcode":"19512-1508",
+    "addr:road":"S Chestnut St",
+    "addr:state":"PA",
     "addr:street":"S Chestnut St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-75.637254,40.331751,-75.637254,40.331751",
-    "geom:latitude":40.331751,
-    "geom:longitude":-75.637254,
+    "geom:bbox":"-75.63678,40.33212,-75.63678,40.33212",
+    "geom:latitude":40.33212,
+    "geom:longitude":-75.63678,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -29,19 +34,23 @@
     "sg:phone":"+1 610 367 5255",
     "sg:postcode":"19512",
     "sg:province":"PA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "src:geom":"mudf",
+    "wof:airports":[],
+    "wof:belongsto":[
+        420536623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404201012,
         "osm:node":367973326,
         "sg:id":"SG_6io7XipXoTKmbR9cXGsY4c_40.331751_-75.637254@1294186258"
     },
     "wof:country":"US",
-    "wof:geomhash":"09126c8611f4e584de3357199d0c2320",
+    "wof:geomhash":"90dc4013074a599fe506c02feee0400e",
     "wof:hierarchy":[],
     "wof:id":622063293,
-    "wof:lastmodified":1510941753,
-    "wof:name":"Boyertown Area Historical Soc",
+    "wof:lastmodified":1533776576,
+    "wof:name":"Boyertown Area Historical Society",
     "wof:parent_id":420536623,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
@@ -50,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -75.637254,
-    40.331751,
-    -75.637254,
-    40.331751
+    -75.63678,
+    40.33212,
+    -75.63678,
+    40.33212
 ],
-  "geometry": {"coordinates":[-75.637254,40.331751],"type":"Point"}
+  "geometry": {"coordinates":[-75.63678,40.33212],"type":"Point"}
 }

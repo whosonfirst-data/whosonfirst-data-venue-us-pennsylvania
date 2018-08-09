@@ -2,18 +2,24 @@
   "id": 605457165,
   "type": "Feature",
   "properties": {
-    "addr:full":"400 Vine St Berlin PA 15530",
+    "addr:city":"Berlin",
+    "addr:full":"400 Vine St Berlin, Pa 15530-1118",
+    "addr:house_number":"400",
     "addr:housenumber":"400",
-    "addr:postcode":"15530",
+    "addr:phone":"+1 814-267-5987",
+    "addr:postcode":"15530-1118",
+    "addr:road":"Vine St",
+    "addr:state":"PA",
     "addr:street":"Vine St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-78.956715,39.921991,-78.956715,39.921991",
-    "geom:latitude":39.921991,
-    "geom:longitude":-78.956715,
+    "geom:bbox":"-78.95677,39.92127,-78.95677,39.92127",
+    "geom:latitude":39.92127,
+    "geom:longitude":-78.95677,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"400 Vine St",
     "sg:city":"Berlin",
     "sg:classifiers":[
@@ -28,18 +34,22 @@
     "sg:postcode":"15530",
     "sg:province":"PA",
     "sg:website":"www.berlinpa.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "src:geom":"mudf",
+    "wof:airports":[],
+    "wof:belongsto":[
+        420539707
+    ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404201183,
         "sg:id":"SG_0doJU0du4brY98P7ySvoCc_39.921991_-78.956715@1294186258"
     },
     "wof:country":"US",
-    "wof:geomhash":"ed0894bd6fd556455a09b0f9a914ef3a",
+    "wof:geomhash":"9336b136ce16fb5be2968d8feee6b6c5",
     "wof:hierarchy":[],
     "wof:id":605457165,
-    "wof:lastmodified":1472643427,
-    "wof:name":"Berlin Historical Society",
+    "wof:lastmodified":1533776575,
+    "wof:name":"Berlin Area Historiical Society",
     "wof:parent_id":420539707,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
@@ -48,10 +58,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -78.956715,
-    39.921991,
-    -78.956715,
-    39.921991
+    -78.95677,
+    39.92127,
+    -78.95677,
+    39.92127
 ],
-  "geometry": {"coordinates":[-78.956715,39.921991],"type":"Point"}
+  "geometry": {"coordinates":[-78.95677000000001,39.92127],"type":"Point"}
 }

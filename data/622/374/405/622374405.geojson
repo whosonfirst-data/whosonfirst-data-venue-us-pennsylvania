@@ -2,18 +2,24 @@
   "id": 622374405,
   "type": "Feature",
   "properties": {
-    "addr:full":"10 W Cleveland Ave Norwood PA 19074",
+    "addr:city":"Norwood",
+    "addr:full":"10 W Cleveland Ave Norwood, Pa 19074-1721",
+    "addr:house_number":"10",
     "addr:housenumber":"10",
-    "addr:postcode":"19074",
+    "addr:phone":"+1 610-586-5800",
+    "addr:postcode":"19074-1721",
+    "addr:road":"W Cleveland Ave",
+    "addr:state":"PA",
     "addr:street":"W Cleveland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-75.297122,39.891637,-75.297122,39.891637",
-    "geom:latitude":39.891637,
-    "geom:longitude":-75.297122,
+    "geom:bbox":"-75.29211,39.88884,-75.29211,39.88884",
+    "geom:latitude":39.88884,
+    "geom:longitude":-75.29211,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"10 W Cleveland Ave",
     "sg:city":"Norwood",
     "sg:classifiers":[
@@ -30,7 +36,10 @@
     "sg:tags":[
         "historical"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102529403
+    ],
     "wof:belongsto":[
         85847655,
         102191575,
@@ -42,10 +51,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404200909,
         "sg:id":"SG_0wJvIDF3GKTfsspKzOFoXP_39.891637_-75.297122@1303262443"
     },
     "wof:country":"US",
-    "wof:geomhash":"dd4d0aa5167e6ebb3f838e10c59dac49",
+    "wof:geomhash":"d7d1305d8a07ccae7ea4bd4add45e8dc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,8 +69,8 @@
         }
     ],
     "wof:id":622374405,
-    "wof:lastmodified":1472643428,
-    "wof:name":"Norwood Historical Society Inc",
+    "wof:lastmodified":1533776576,
+    "wof:name":"Norwood Historical Society",
     "wof:parent_id":85847655,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
@@ -71,10 +81,10 @@
     ]
 },
   "bbox": [
-    -75.297122,
-    39.891637,
-    -75.297122,
-    39.891637
+    -75.29211,
+    39.88884,
+    -75.29211,
+    39.88884
 ],
-  "geometry": {"coordinates":[-75.297122,39.891637],"type":"Point"}
+  "geometry": {"coordinates":[-75.29210999999999,39.88884],"type":"Point"}
 }

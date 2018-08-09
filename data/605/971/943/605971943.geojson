@@ -2,18 +2,24 @@
   "id": 605971943,
   "type": "Feature",
   "properties": {
-    "addr:full":"428 Chestnut St Erie PA 16507",
+    "addr:city":"Erie",
+    "addr:full":"428 Chestnut Street Erie, Pa 16504",
+    "addr:house_number":"428",
     "addr:housenumber":"428",
-    "addr:postcode":"16507",
+    "addr:phone":"+1 814-456-5969",
+    "addr:postcode":"16504",
+    "addr:road":"Chestnut Street",
+    "addr:state":"PA",
     "addr:street":"Chestnut St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-80.094657,42.127557,-80.094657,42.127557",
-    "geom:latitude":42.127557,
-    "geom:longitude":-80.094657,
+    "geom:bbox":"-80.09496,42.12798,-80.09496,42.12798",
+    "geom:latitude":42.12798,
+    "geom:longitude":-80.09496,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"428 Chestnut St",
     "sg:city":"Erie",
     "sg:classifiers":[
@@ -27,20 +33,24 @@
     "sg:phone":"+1 814 456 5969",
     "sg:postcode":"16507",
     "sg:province":"PA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102524857
+    ],
     "wof:belongsto":[
-        85688481,
+        85814671,
         85633793,
         101718253,
         102080955,
-        85814671
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404201006,
         "sg:id":"SG_45Y1odKotwPnON1glwJeWn_42.127557_-80.094657@1294186258"
     },
     "wof:country":"US",
-    "wof:geomhash":"b124c96358c66e28dacd659d7e921fe1",
+    "wof:geomhash":"c9e9a12a601f4ce4d4b5a7e19103cc3e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +62,7 @@
         }
     ],
     "wof:id":605971943,
-    "wof:lastmodified":1472644067,
+    "wof:lastmodified":1533776576,
     "wof:name":"Firefighters Historical Museum",
     "wof:parent_id":85814671,
     "wof:placetype":"venue",
@@ -62,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -80.094657,
-    42.127557,
-    -80.094657,
-    42.127557
+    -80.09496,
+    42.12798,
+    -80.09496,
+    42.12798
 ],
-  "geometry": {"coordinates":[-80.094657,42.127557],"type":"Point"}
+  "geometry": {"coordinates":[-80.09496,42.12798],"type":"Point"}
 }

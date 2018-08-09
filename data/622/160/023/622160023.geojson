@@ -2,17 +2,22 @@
   "id": 622160023,
   "type": "Feature",
   "properties": {
-    "addr:full":"1 Museum Rd Washington PA 15301",
+    "addr:city":"Washington",
+    "addr:full":"1 Museum Rd Washington, Pa 15301-6133",
+    "addr:house_number":"1",
     "addr:housenumber":"1",
-    "addr:postcode":"15301",
+    "addr:phone":"+1 724-228-9256",
+    "addr:postcode":"15301-6133",
+    "addr:road":"Museum Rd",
+    "addr:state":"PA",
     "addr:street":"Museum Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-80.255257,40.208092,-80.255257,40.208092",
-    "geom:latitude":40.208092,
-    "geom:longitude":-80.255257,
+    "geom:bbox":"-80.25503,40.20768,-80.25503,40.20768",
+    "geom:latitude":40.20768,
+    "geom:longitude":-80.25503,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -30,20 +35,22 @@
     "sg:postcode":"15301",
     "sg:province":"PA",
     "sg:website":"http://www.pa-trolley.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
-        85688481,
+        102081343,
         85633793,
-        85803413,
-        102081343
+        85688481,
+        85803413
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404201392,
         "osm:way":108059935,
         "sg:id":"SG_0nmOpHpFPV4rWjrZSyWqpf_40.208035_-80.255324@1293134755"
     },
     "wof:country":"US",
-    "wof:geomhash":"7d0f05014c58e674711a6b6dd3f99a1e",
+    "wof:geomhash":"91a93d9dec293ba0230e33413ab6c7ae",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":622160023,
-    "wof:lastmodified":1510942603,
+    "wof:lastmodified":1533776576,
     "wof:name":"Pennsylvania Trolley Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -64,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -80.255257,
-    40.208092,
-    -80.255257,
-    40.208092
+    -80.25503,
+    40.20768,
+    -80.25503,
+    40.20768
 ],
-  "geometry": {"coordinates":[-80.255257,40.208092],"type":"Point"}
+  "geometry": {"coordinates":[-80.25503,40.20768],"type":"Point"}
 }

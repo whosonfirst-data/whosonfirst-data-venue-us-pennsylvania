@@ -2,18 +2,23 @@
   "id": 605537609,
   "type": "Feature",
   "properties": {
-    "addr:full":"205 Ferry St Danville PA 17821",
+    "addr:city":"Danville",
+    "addr:full":"205 Ferry St Danville, Pa 17821-1921",
+    "addr:house_number":"205",
     "addr:housenumber":"205",
-    "addr:postcode":"17821",
+    "addr:postcode":"17821-1921",
+    "addr:road":"Ferry St",
+    "addr:state":"PA",
     "addr:street":"Ferry St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-76.617057,40.960568,-76.617057,40.960568",
-    "geom:latitude":40.960568,
-    "geom:longitude":-76.617057,
+    "geom:bbox":"-76.61728,40.96056,-76.61728,40.96056",
+    "geom:latitude":40.96056,
+    "geom:longitude":-76.61728,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"205 Ferry St",
     "sg:city":"Danville",
     "sg:classifiers":[
@@ -30,19 +35,21 @@
     "sg:tags":[
         "genealogist"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
-        85688481,
+        102080931,
         85633793,
-        85833629,
-        102080931
+        85688481,
+        85833629
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404200884,
         "sg:id":"SG_6CmqM7c2lmYQas7GuKbwJM_40.960568_-76.617057@1294186258"
     },
     "wof:country":"US",
-    "wof:geomhash":"f7aa8042b10b3e3447eac3435710aa64",
+    "wof:geomhash":"a91c50903b2d5ecb592889e22b951ede",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,8 +60,8 @@
         }
     ],
     "wof:id":605537609,
-    "wof:lastmodified":1472643567,
-    "wof:name":"Montour County Genealogical",
+    "wof:lastmodified":1533776576,
+    "wof:name":"Montour County Genealogical Society",
     "wof:parent_id":85833629,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
@@ -65,10 +72,10 @@
     ]
 },
   "bbox": [
-    -76.617057,
-    40.960568,
-    -76.617057,
-    40.960568
+    -76.61728,
+    40.96056,
+    -76.61728,
+    40.96056
 ],
-  "geometry": {"coordinates":[-76.617057,40.960568],"type":"Point"}
+  "geometry": {"coordinates":[-76.61727999999999,40.96056],"type":"Point"}
 }

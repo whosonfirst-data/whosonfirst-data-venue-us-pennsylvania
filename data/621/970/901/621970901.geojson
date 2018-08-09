@@ -2,18 +2,24 @@
   "id": 621970901,
   "type": "Feature",
   "properties": {
-    "addr:full":"69 S High St Newville PA 17241",
+    "addr:city":"Newville",
+    "addr:full":"69 S High Street Newville, Pa 17241-1405",
+    "addr:house_number":"69",
     "addr:housenumber":"69",
-    "addr:postcode":"17241",
+    "addr:phone":"+1 717-776-6210",
+    "addr:postcode":"17241-1405",
+    "addr:road":"S High Street",
+    "addr:state":"PA",
     "addr:street":"S High St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-77.397929,40.171144,-77.397929,40.171144",
-    "geom:latitude":40.171144,
-    "geom:longitude":-77.397929,
+    "geom:bbox":"-77.39763,40.17072,-77.39763,40.17072",
+    "geom:latitude":40.17072,
+    "geom:longitude":-77.39763,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"69 S High St",
     "sg:city":"Newville",
     "sg:classifiers":[
@@ -27,17 +33,19 @@
     "sg:phone":"+1 717 776 6210",
     "sg:postcode":"17241",
     "sg:province":"PA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404200621,
         "sg:id":"SG_0MscZvYktK5dTAOZr6ft7L_40.171144_-77.397929@1294186258"
     },
     "wof:country":"US",
-    "wof:geomhash":"3aeec56170db5881e7290461dbc5b80d",
+    "wof:geomhash":"dac47974533ac4c0abb4d0cce3cc159d",
     "wof:hierarchy":[],
     "wof:id":621970901,
-    "wof:lastmodified":1472643017,
+    "wof:lastmodified":1533776576,
     "wof:name":"Newville Historical Society",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -47,10 +55,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -77.397929,
-    40.171144,
-    -77.397929,
-    40.171144
+    -77.39763,
+    40.17072,
+    -77.39763,
+    40.17072
 ],
-  "geometry": {"coordinates":[-77.397929,40.171144],"type":"Point"}
+  "geometry": {"coordinates":[-77.39763000000001,40.17072],"type":"Point"}
 }

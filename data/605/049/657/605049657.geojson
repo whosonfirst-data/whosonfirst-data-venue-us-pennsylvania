@@ -2,18 +2,24 @@
   "id": 605049657,
   "type": "Feature",
   "properties": {
-    "addr:full":"337 S Ironstone Dr Boyertown PA 19512",
+    "addr:city":"Boyertown",
+    "addr:full":"337 S Ironstone Dr Boyertown, Pa 19512",
+    "addr:house_number":"337",
     "addr:housenumber":"337",
+    "addr:phone":"+1 610-369-7266",
     "addr:postcode":"19512",
+    "addr:road":"S Ironstone Dr",
+    "addr:state":"PA",
     "addr:street":"S Ironstone Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-75.658431,40.338469,-75.658431,40.338469",
-    "geom:latitude":40.338469,
-    "geom:longitude":-75.658431,
+    "geom:bbox":"-75.65807,40.33798,-75.65807,40.33798",
+    "geom:latitude":40.33798,
+    "geom:longitude":-75.65807,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"337 S Ironstone Dr",
     "sg:city":"Boyertown",
     "sg:classifiers":[
@@ -27,17 +33,21 @@
     "sg:phone":"+1 610 369 7266",
     "sg:postcode":"19512",
     "sg:province":"PA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "src:geom":"mudf",
+    "wof:airports":[],
+    "wof:belongsto":[
+        420536623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404200269,
         "sg:id":"SG_3KUUi9LyzAn52ywPtySSeJ_40.338469_-75.658431@1294186258"
     },
     "wof:country":"US",
-    "wof:geomhash":"68e09ef423a9b441ae03e7c4fae17dfb",
+    "wof:geomhash":"f15dc9951dc8149115fae5902537a8d9",
     "wof:hierarchy":[],
     "wof:id":605049657,
-    "wof:lastmodified":1472642082,
+    "wof:lastmodified":1533776576,
     "wof:name":"Bahr Mill Preservation Society",
     "wof:parent_id":420536623,
     "wof:placetype":"venue",
@@ -47,10 +57,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -75.658431,
-    40.338469,
-    -75.658431,
-    40.338469
+    -75.65807,
+    40.33798,
+    -75.65807,
+    40.33798
 ],
-  "geometry": {"coordinates":[-75.65843099999999,40.338469],"type":"Point"}
+  "geometry": {"coordinates":[-75.65807,40.33798],"type":"Point"}
 }

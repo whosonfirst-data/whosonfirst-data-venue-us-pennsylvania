@@ -2,18 +2,24 @@
   "id": 605815111,
   "type": "Feature",
   "properties": {
-    "addr:full":"157 W Market St York PA 17401",
+    "addr:city":"York",
+    "addr:full":"157 W Market St York, Pa 17401",
+    "addr:house_number":"157",
     "addr:housenumber":"157",
+    "addr:phone":"+1 717-845-2951",
     "addr:postcode":"17401",
+    "addr:road":"W Market St",
+    "addr:state":"PA",
     "addr:street":"W Market St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-76.730721,39.961666,-76.730721,39.961666",
-    "geom:latitude":39.961666,
-    "geom:longitude":-76.730721,
+    "geom:bbox":"-76.73229,39.96115,-76.73229,39.96115",
+    "geom:latitude":39.96115,
+    "geom:longitude":-76.73229,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"157 W Market St",
     "sg:city":"York",
     "sg:classifiers":[
@@ -27,7 +33,11 @@
     "sg:phone":"+1 717 845 2951",
     "sg:postcode":"17401",
     "sg:province":"PA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102529873,
+        102530911
+    ],
     "wof:belongsto":[
         85833149,
         102191575,
@@ -39,10 +49,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404200183,
         "sg:id":"SG_6tVJabt1E9tGWKO7U4NKhY_39.961666_-76.730721@1294186258"
     },
     "wof:country":"US",
-    "wof:geomhash":"ed1202e23006f08ada6619055cf08f1e",
+    "wof:geomhash":"26caa95175b38b0b2a032d18619274fe",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,8 +67,8 @@
         }
     ],
     "wof:id":605815111,
-    "wof:lastmodified":1472643917,
-    "wof:name":"Gates House & Plough Tavern",
+    "wof:lastmodified":1533776577,
+    "wof:name":"Gates House And Plough Tavern",
     "wof:parent_id":85833149,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
@@ -66,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -76.730721,
-    39.961666,
-    -76.730721,
-    39.961666
+    -76.73229,
+    39.96115,
+    -76.73229,
+    39.96115
 ],
-  "geometry": {"coordinates":[-76.730721,39.961666],"type":"Point"}
+  "geometry": {"coordinates":[-76.73229000000001,39.96115],"type":"Point"}
 }

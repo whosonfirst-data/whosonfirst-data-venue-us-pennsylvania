@@ -2,18 +2,24 @@
   "id": 622207735,
   "type": "Feature",
   "properties": {
-    "addr:full":"537 Ann St Stroudsburg PA 18360",
+    "addr:city":"Stroudsburg",
+    "addr:full":"537 Ann St Stroudsburg, Pa 18360",
+    "addr:house_number":"537",
     "addr:housenumber":"537",
+    "addr:phone":"+1 570-424-1776",
     "addr:postcode":"18360",
+    "addr:road":"Ann St",
+    "addr:state":"PA",
     "addr:street":"Ann St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-75.191463,40.98508,-75.191463,40.98508",
-    "geom:latitude":40.98508,
-    "geom:longitude":-75.191463,
+    "geom:bbox":"-75.19141,40.98501,-75.19141,40.98501",
+    "geom:latitude":40.98501,
+    "geom:longitude":-75.19141,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"537 Ann St",
     "sg:city":"Stroudsburg",
     "sg:classifiers":[
@@ -31,19 +37,21 @@
         "gallery",
         "trucking"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
-        85688481,
+        102080945,
         85633793,
-        85820485,
-        102080945
+        85688481,
+        85820485
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404200216,
         "sg:id":"SG_4rU7WJXOkE4C2CcPgjIqut_40.985466_-75.191006@1293134755"
     },
     "wof:country":"US",
-    "wof:geomhash":"2830ddf24bacfd157905746d07f9cafd",
+    "wof:geomhash":"4aa085bd8bf04b0b52bc79c311e8d2d4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":622207735,
-    "wof:lastmodified":1472643125,
+    "wof:lastmodified":1533776575,
     "wof:name":"Driebe Freight Station",
     "wof:parent_id":85820485,
     "wof:placetype":"venue",
@@ -67,10 +75,10 @@
     ]
 },
   "bbox": [
-    -75.191463,
-    40.98508,
-    -75.191463,
-    40.98508
+    -75.19141,
+    40.98501,
+    -75.19141,
+    40.98501
 ],
-  "geometry": {"coordinates":[-75.191463,40.98508],"type":"Point"}
+  "geometry": {"coordinates":[-75.19141,40.98501],"type":"Point"}
 }

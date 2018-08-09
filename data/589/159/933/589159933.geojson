@@ -2,18 +2,24 @@
   "id": 589159933,
   "type": "Feature",
   "properties": {
-    "addr:full":"500 W Main St Smethport PA 16749",
+    "addr:city":"Smethport",
+    "addr:full":"500 W Main St Smethport, Pa 16749-1149",
+    "addr:house_number":"500",
     "addr:housenumber":"500",
-    "addr:postcode":"16749",
+    "addr:phone":"+1 814-887-4134",
+    "addr:postcode":"16749-1149",
+    "addr:road":"W Main St",
+    "addr:state":"PA",
     "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-78.446705,41.809568,-78.446705,41.809568",
-    "geom:latitude":41.809568,
-    "geom:longitude":-78.446705,
+    "geom:bbox":"-78.43713,41.81139,-78.43713,41.81139",
+    "geom:latitude":41.81139,
+    "geom:longitude":-78.43713,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"500 W Main St",
     "sg:city":"Smethport",
     "sg:classifiers":[
@@ -30,18 +36,22 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102532783
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404201148,
         "sg:id":"SG_48MTh9m2IgJjNEJB58tmu7_41.809568_-78.446705@1294186258"
     },
     "wof:country":"US",
-    "wof:geomhash":"e40e34933e59f7bb1e0f392f123ac3a6",
+    "wof:geomhash":"35b89d5af1575090b693b10a04263da2",
     "wof:hierarchy":[],
     "wof:id":589159933,
-    "wof:lastmodified":1472642653,
-    "wof:name":"McKean County Historical Soc",
+    "wof:lastmodified":1533776577,
+    "wof:name":"Mckean County Historical Society",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
@@ -52,10 +62,10 @@
     ]
 },
   "bbox": [
-    -78.446705,
-    41.809568,
-    -78.446705,
-    41.809568
+    -78.43713,
+    41.81139,
+    -78.43713,
+    41.81139
 ],
-  "geometry": {"coordinates":[-78.44670499999999,41.809568],"type":"Point"}
+  "geometry": {"coordinates":[-78.43713,41.81139],"type":"Point"}
 }

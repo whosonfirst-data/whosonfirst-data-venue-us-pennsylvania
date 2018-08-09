@@ -2,18 +2,24 @@
   "id": 621835855,
   "type": "Feature",
   "properties": {
-    "addr:full":"113 W Beechtree Ln Wayne PA 19087",
+    "addr:city":"Wayne",
+    "addr:full":"113 W Beechtree Ln Wayne, Pa 19087-3212",
+    "addr:house_number":"113",
     "addr:housenumber":"113",
-    "addr:postcode":"19087",
+    "addr:phone":"+1 610-688-2668",
+    "addr:postcode":"19087-3212",
+    "addr:road":"W Beechtree Ln",
+    "addr:state":"PA",
     "addr:street":"W Beechtree Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-75.390681,40.047846,-75.390681,40.047846",
-    "geom:latitude":40.047846,
-    "geom:longitude":-75.390681,
+    "geom:bbox":"-75.38932,40.04847,-75.38932,40.04847",
+    "geom:latitude":40.04847,
+    "geom:longitude":-75.38932,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"113 W Beechtree Ln",
     "sg:city":"Wayne",
     "sg:classifiers":[
@@ -30,17 +36,24 @@
     "sg:tags":[
         "historical"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "src:geom":"mudf",
+    "wof:airports":[
+        102529403,
+        102530381
+    ],
+    "wof:belongsto":[
+        420537839
+    ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404200955,
         "sg:id":"SG_4QRLYyGaXbHwXfScxQtY8r_40.047846_-75.390681@1294186258"
     },
     "wof:country":"US",
-    "wof:geomhash":"4c6e21ad2f5b96b78e7a506b8dbe1c49",
+    "wof:geomhash":"700aeb9842a4bf51c72bd4642858f750",
     "wof:hierarchy":[],
     "wof:id":621835855,
-    "wof:lastmodified":1472642139,
+    "wof:lastmodified":1533776575,
     "wof:name":"Radnor Historical Society",
     "wof:parent_id":420537839,
     "wof:placetype":"venue",
@@ -52,10 +65,10 @@
     ]
 },
   "bbox": [
-    -75.390681,
-    40.047846,
-    -75.390681,
-    40.047846
+    -75.38932,
+    40.04847,
+    -75.38932,
+    40.04847
 ],
-  "geometry": {"coordinates":[-75.390681,40.047846],"type":"Point"}
+  "geometry": {"coordinates":[-75.38932,40.04847],"type":"Point"}
 }

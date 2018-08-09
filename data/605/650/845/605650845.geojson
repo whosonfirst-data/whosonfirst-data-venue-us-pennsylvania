@@ -2,18 +2,24 @@
   "id": 605650845,
   "type": "Feature",
   "properties": {
-    "addr:full":"1950 Spring Mill Rd Gladwyne PA 19035",
+    "addr:city":"Gladwyne",
+    "addr:full":"1950 Spring Mill Rd Gladwyne, Pa 19035-1000",
+    "addr:house_number":"1950",
     "addr:housenumber":"1950",
-    "addr:postcode":"19035",
+    "addr:phone":"+1 610-527-5234",
+    "addr:postcode":"19035-1000",
+    "addr:road":"Spring Mill Rd",
+    "addr:state":"PA",
     "addr:street":"Spring Mill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-75.283702,40.067719,-75.283702,40.067719",
-    "geom:latitude":40.067719,
-    "geom:longitude":-75.283702,
+    "geom:bbox":"-75.2837,40.06778,-75.2837,40.06778",
+    "geom:latitude":40.06778,
+    "geom:longitude":-75.2837,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1950 Spring Mill Rd",
     "sg:city":"Gladwyne",
     "sg:classifiers":[
@@ -32,19 +38,24 @@
         "center",
         "nature"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102529403,
+        102530381
+    ],
     "wof:belongsto":[
-        85688481,
+        102081355,
         85633793,
-        85850621,
-        102081355
+        85688481,
+        85850621
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404201062,
         "sg:id":"SG_0YgC28P26XRa6NM0Z1QD4h_40.067719_-75.283702@1294186258"
     },
     "wof:country":"US",
-    "wof:geomhash":"d8889c65e5bdef68fb6f16e29b461b56",
+    "wof:geomhash":"e214248b8200b306d27b8bd572f70035",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,8 +66,8 @@
         }
     ],
     "wof:id":605650845,
-    "wof:lastmodified":1472643724,
-    "wof:name":"Riverbend Envmtl Educatn Ctr",
+    "wof:lastmodified":1533776576,
+    "wof:name":"Riverbend Environmental Education Center",
     "wof:parent_id":85850621,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
@@ -69,10 +80,10 @@
     ]
 },
   "bbox": [
-    -75.283702,
-    40.067719,
-    -75.283702,
-    40.067719
+    -75.2837,
+    40.06778,
+    -75.2837,
+    40.06778
 ],
-  "geometry": {"coordinates":[-75.28370200000001,40.067719],"type":"Point"}
+  "geometry": {"coordinates":[-75.2837,40.06778],"type":"Point"}
 }

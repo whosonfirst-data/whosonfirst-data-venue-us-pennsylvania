@@ -2,19 +2,25 @@
   "id": 622434667,
   "type": "Feature",
   "properties": {
-    "addr:full":"126 Elfreth's Alley Philadelphia PA 19106",
+    "addr:city":"Philadelphia",
+    "addr:full":"126 Elfreths Alley Philadelphia, Pa 19106",
+    "addr:house_number":"126",
     "addr:housenumber":"126",
+    "addr:phone":"+1 215-574-0560",
     "addr:postcode":"19106",
+    "addr:road":"Elfreths Alley",
+    "addr:state":"PA",
     "addr:street":"Elfreth'S Alley",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-75.142368,39.952706,-75.142368,39.952706",
-    "geom:latitude":39.952706,
-    "geom:longitude":-75.142368,
+    "geom:bbox":"-75.14228,39.95263,-75.14228,39.95263",
+    "geom:latitude":39.95263,
+    "geom:longitude":-75.14228,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"126 Elfreth's Alley",
     "sg:city":"Philadelphia",
     "sg:classifiers":[
@@ -50,7 +56,11 @@
         "attraction"
     ],
     "sg:website":"www.elfrethsalley.org/",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102529403,
+        102530381
+    ],
     "wof:belongsto":[
         1108721877,
         85839299,
@@ -64,10 +74,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404200221,
         "sg:id":"SG_18037YMly1cen1sum9936v_39.952706_-75.142368@1303262451"
     },
     "wof:country":"US",
-    "wof:geomhash":"e2789bf07fc5087861c0e861392c4af8",
+    "wof:geomhash":"9a34ecf55ffb5e0c5bab19f4d7748103",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -83,8 +94,8 @@
         }
     ],
     "wof:id":622434667,
-    "wof:lastmodified":1489039141,
-    "wof:name":"Elfreths Alley Museum",
+    "wof:lastmodified":1533776576,
+    "wof:name":"Elfreth'S Alley Association",
     "wof:parent_id":1108721877,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
@@ -98,10 +109,10 @@
     ]
 },
   "bbox": [
-    -75.142368,
-    39.952706,
-    -75.142368,
-    39.952706
+    -75.14228,
+    39.95263,
+    -75.14228,
+    39.95263
 ],
-  "geometry": {"coordinates":[-75.142368,39.952706],"type":"Point"}
+  "geometry": {"coordinates":[-75.14228,39.95263],"type":"Point"}
 }

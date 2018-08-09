@@ -2,18 +2,23 @@
   "id": 588989737,
   "type": "Feature",
   "properties": {
-    "addr:full":"10 E Church St Bethlehem PA 18018",
+    "addr:city":"Bethlehem",
+    "addr:full":"10 E Church Street Bethlehem, Pa 18018-6005",
+    "addr:house_number":"10",
     "addr:housenumber":"10",
-    "addr:postcode":"18018",
+    "addr:postcode":"18018-6005",
+    "addr:road":"E Church Street",
+    "addr:state":"PA",
     "addr:street":"E Church St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-75.378521,40.618719,-75.378521,40.618719",
-    "geom:latitude":40.618719,
-    "geom:longitude":-75.378521,
+    "geom:bbox":"-75.37895,40.61897,-75.37895,40.61897",
+    "geom:latitude":40.61897,
+    "geom:longitude":-75.37895,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"10 E Church St",
     "sg:city":"Bethlehem",
     "sg:classifiers":[
@@ -31,18 +36,22 @@
         "village"
     ],
     "sg:website":"www.bethlehem-pa.gov",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102529131
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404200870,
         "sg:id":"SG_6td7dLGlhE50yJtU2TSwZ7_40.618719_-75.378521@1294186258"
     },
     "wof:country":"US",
-    "wof:geomhash":"17d7c0c17d0a919afa824ea20ee8dff3",
+    "wof:geomhash":"9fadf4cc5e472f29cb07cac78700a803",
     "wof:hierarchy":[],
     "wof:id":588989737,
-    "wof:lastmodified":1472642963,
-    "wof:name":"Bethlehem Water & Sewers",
+    "wof:lastmodified":1533776577,
+    "wof:name":"Bethlehem Steelworkers Memorial",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
@@ -53,10 +62,10 @@
     ]
 },
   "bbox": [
-    -75.378521,
-    40.618719,
-    -75.378521,
-    40.618719
+    -75.37895,
+    40.61897,
+    -75.37895,
+    40.61897
 ],
-  "geometry": {"coordinates":[-75.37852100000001,40.618719],"type":"Point"}
+  "geometry": {"coordinates":[-75.37895,40.61897],"type":"Point"}
 }

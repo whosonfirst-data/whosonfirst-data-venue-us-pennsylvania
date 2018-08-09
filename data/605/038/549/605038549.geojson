@@ -2,18 +2,23 @@
   "id": 605038549,
   "type": "Feature",
   "properties": {
-    "addr:full":"206 Seneca St Oil City PA 16301",
+    "addr:city":"Oil City",
+    "addr:full":"206 Seneca St Oil City, Pa 16301-1317",
+    "addr:house_number":"206",
     "addr:housenumber":"206",
-    "addr:postcode":"16301",
+    "addr:postcode":"16301-1317",
+    "addr:road":"Seneca St",
+    "addr:state":"PA",
     "addr:street":"Seneca St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-79.708365,41.433135,-79.708365,41.433135",
-    "geom:latitude":41.433135,
-    "geom:longitude":-79.708365,
+    "geom:bbox":"-79.70838,41.43323,-79.70838,41.43323",
+    "geom:latitude":41.43323,
+    "geom:longitude":-79.70838,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"206 Seneca St",
     "sg:city":"Oil City",
     "sg:classifiers":[
@@ -32,17 +37,23 @@
     "sg:phone":"+1 814 678 0007",
     "sg:postcode":"16301",
     "sg:province":"PA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531311
+    ],
+    "wof:belongsto":[
+        420539853
+    ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404201330,
         "sg:id":"SG_3QoGtvTZb0akIolLvoSBBX_41.433135_-79.708365@1294186258"
     },
     "wof:country":"US",
-    "wof:geomhash":"75e776a1dfaf1fb43d0779331c52014c",
+    "wof:geomhash":"ef9f018589d3dbfd3699b2f7bbb0bd46",
     "wof:hierarchy":[],
     "wof:id":605038549,
-    "wof:lastmodified":1472641888,
+    "wof:lastmodified":1533776575,
     "wof:name":"Oil City Civic Center",
     "wof:parent_id":420539853,
     "wof:placetype":"venue",
@@ -52,10 +63,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -79.708365,
-    41.433135,
-    -79.708365,
-    41.433135
+    -79.70838,
+    41.43323,
+    -79.70838,
+    41.43323
 ],
-  "geometry": {"coordinates":[-79.708365,41.433135],"type":"Point"}
+  "geometry": {"coordinates":[-79.70838000000001,41.43323],"type":"Point"}
 }

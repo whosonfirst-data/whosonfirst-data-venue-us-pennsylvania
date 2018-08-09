@@ -2,18 +2,24 @@
   "id": 622560485,
   "type": "Feature",
   "properties": {
-    "addr:full":"137 Jenkins Ave Lansdale PA 19446",
+    "addr:city":"Lansdale",
+    "addr:full":"137 Jenkins Ave Lansdale, Pa 19446-2509",
+    "addr:house_number":"137",
     "addr:housenumber":"137",
-    "addr:postcode":"19446",
+    "addr:phone":"+1 215-855-1872",
+    "addr:postcode":"19446-2509",
+    "addr:road":"Jenkins Ave",
+    "addr:state":"PA",
     "addr:street":"Jenkins Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-75.281612,40.239249,-75.281612,40.239249",
-    "geom:latitude":40.239249,
-    "geom:longitude":-75.281612,
+    "geom:bbox":"-75.28148,40.2391,-75.28148,40.2391",
+    "geom:latitude":40.2391,
+    "geom:longitude":-75.28148,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"137 Jenkins Ave",
     "sg:city":"Lansdale",
     "sg:classifiers":[
@@ -31,19 +37,24 @@
         "building",
         "historical"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102530381,
+        102528737
+    ],
     "wof:belongsto":[
-        85688481,
+        102081355,
         85633793,
-        85823381,
-        102081355
+        85688481,
+        85823381
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404201016,
         "sg:id":"SG_15KFwDFxG16DomZvWuPjhw_40.239249_-75.281612@1303262467"
     },
     "wof:country":"US",
-    "wof:geomhash":"c9a5931023cdc77cdb76539a1d8494bf",
+    "wof:geomhash":"fe3cee65567faacf04ab4fe3d4e2af25",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +65,7 @@
         }
     ],
     "wof:id":622560485,
-    "wof:lastmodified":1472643815,
+    "wof:lastmodified":1533776576,
     "wof:name":"Lansdale Historical Society",
     "wof:parent_id":85823381,
     "wof:placetype":"venue",
@@ -67,10 +78,10 @@
     ]
 },
   "bbox": [
-    -75.281612,
-    40.239249,
-    -75.281612,
-    40.239249
+    -75.28148,
+    40.2391,
+    -75.28148,
+    40.2391
 ],
-  "geometry": {"coordinates":[-75.281612,40.239249],"type":"Point"}
+  "geometry": {"coordinates":[-75.28148,40.2391],"type":"Point"}
 }

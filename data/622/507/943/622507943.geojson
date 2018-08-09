@@ -2,19 +2,25 @@
   "id": 622507943,
   "type": "Feature",
   "properties": {
-    "addr:full":"200 W Tulpehocken St Philadelphia PA 19144",
+    "addr:city":"Philadelphia",
+    "addr:full":"200 W Tulpehocken St Philadelphia, Pa 19144-3210",
+    "addr:house_number":"200",
     "addr:housenumber":"200",
-    "addr:postcode":"19144",
+    "addr:phone":"+1 215-438-1861",
+    "addr:postcode":"19144-3210",
+    "addr:road":"W Tulpehocken St",
+    "addr:state":"PA",
     "addr:street":"W Tulpehocken St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-75.18367,40.03862,-75.18367,40.03862",
-    "geom:latitude":40.03862,
-    "geom:longitude":-75.18367,
+    "geom:bbox":"-75.18473,40.03689,-75.18473,40.03689",
+    "geom:latitude":40.03689,
+    "geom:longitude":-75.18473,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"200 W Tulpehocken St",
     "sg:city":"Philadelphia",
     "sg:classifiers":[
@@ -36,7 +42,11 @@
     "sg:tags":[
         "attraction"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102529403,
+        102530381
+    ],
     "wof:belongsto":[
         1108722089,
         1108722085,
@@ -50,10 +60,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404200512,
         "sg:id":"SG_50Yu3EIijXxtn6yAIydH9Y_40.038620_-75.183670@1303262460"
     },
     "wof:country":"US",
-    "wof:geomhash":"12629682d65aa33892909d96500add5f",
+    "wof:geomhash":"8a27b170eac3d856c9e7c9d767b9181a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,8 +80,8 @@
         }
     ],
     "wof:id":622507943,
-    "wof:lastmodified":1489039509,
-    "wof:name":"The Ebenezer Maxwell Mansion",
+    "wof:lastmodified":1533776576,
+    "wof:name":"Ebenezer Maxwell Mansion",
     "wof:parent_id":1108722089,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
@@ -81,10 +92,10 @@
     ]
 },
   "bbox": [
-    -75.18367,
-    40.03862,
-    -75.18367,
-    40.03862
+    -75.18473,
+    40.03689,
+    -75.18473,
+    40.03689
 ],
-  "geometry": {"coordinates":[-75.18367000000001,40.03862],"type":"Point"}
+  "geometry": {"coordinates":[-75.18473,40.03689],"type":"Point"}
 }

@@ -2,18 +2,24 @@
   "id": 622163433,
   "type": "Feature",
   "properties": {
-    "addr:full":"924 Cumberland St Lebanon PA 17042",
+    "addr:city":"Lebanon",
+    "addr:full":"924 Cumberland St Lebanon, Pa 17042-5139",
+    "addr:house_number":"924",
     "addr:housenumber":"924",
-    "addr:postcode":"17042",
+    "addr:phone":"+1 717-272-1473",
+    "addr:postcode":"17042-5139",
+    "addr:road":"Cumberland St",
+    "addr:state":"PA",
     "addr:street":"Cumberland St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-76.427109,40.339119,-76.427109,40.339119",
-    "geom:latitude":40.339119,
-    "geom:longitude":-76.427109,
+    "geom:bbox":"-76.40529,40.33979,-76.40529,40.33979",
+    "geom:latitude":40.33979,
+    "geom:longitude":-76.40529,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"924 Cumberland St",
     "sg:city":"Lebanon",
     "sg:classifiers":[
@@ -33,7 +39,10 @@
         "gallery",
         "historical"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102526073
+    ],
     "wof:belongsto":[
         85842249,
         102191575,
@@ -45,10 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404200469,
         "sg:id":"SG_0XBE3mRttjg1McoSHSHi6Z_40.339096_-76.427110@1293134755"
     },
     "wof:country":"US",
-    "wof:geomhash":"04bb2f9dc84a7c93e4a2e04d49940a70",
+    "wof:geomhash":"cf2528ab73b2dcb872f890a17e0ca185",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,7 +72,7 @@
         }
     ],
     "wof:id":622163433,
-    "wof:lastmodified":1472642925,
+    "wof:lastmodified":1533776576,
     "wof:name":"Lebanon County Historical Society",
     "wof:parent_id":85842249,
     "wof:placetype":"venue",
@@ -77,10 +87,10 @@
     ]
 },
   "bbox": [
-    -76.427109,
-    40.339119,
-    -76.427109,
-    40.339119
+    -76.40529,
+    40.33979,
+    -76.40529,
+    40.33979
 ],
-  "geometry": {"coordinates":[-76.427109,40.339119],"type":"Point"}
+  "geometry": {"coordinates":[-76.40528999999999,40.33979],"type":"Point"}
 }

@@ -2,18 +2,24 @@
   "id": 605503111,
   "type": "Feature",
   "properties": {
-    "addr:full":"4141 5th Ave Pittsburgh PA 15213",
+    "addr:city":"Pittsburgh",
+    "addr:full":"4141 Fifth Avenue Pittsburgh, Pa 15213",
+    "addr:house_number":"4141",
     "addr:housenumber":"4141",
+    "addr:phone":"+1 412-621-4253",
     "addr:postcode":"15213",
+    "addr:road":"Fifth Avenue",
+    "addr:state":"PA",
     "addr:street":"5Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-79.955156,40.444219,-79.955156,40.444219",
-    "geom:latitude":40.444219,
-    "geom:longitude":-79.955156,
+    "geom:bbox":"-79.95574,40.44448,-79.95574,40.44448",
+    "geom:latitude":40.44448,
+    "geom:longitude":-79.95574,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"4141 5th Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -38,7 +44,8 @@
         "auditorium"
     ],
     "sg:website":"www.soldiersandsailorshall.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85873565,
         102191575,
@@ -50,10 +57,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404200059,
         "sg:id":"SG_6ShI202f34jM7wceLoX38K_40.444219_-79.955156@1294186258"
     },
     "wof:country":"US",
-    "wof:geomhash":"a7fe444dc3d0d0ebfcaf7322c31d6416",
+    "wof:geomhash":"daa80bea4bf916140f985759d7e3a4d0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,8 +75,8 @@
         }
     ],
     "wof:id":605503111,
-    "wof:lastmodified":1472643511,
-    "wof:name":"Soldiers & Sailors Mem Hall",
+    "wof:lastmodified":1533776576,
+    "wof:name":"Soldiers And Sailors Memorial Hall",
     "wof:parent_id":85873565,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
@@ -81,10 +89,10 @@
     ]
 },
   "bbox": [
-    -79.955156,
-    40.444219,
-    -79.955156,
-    40.444219
+    -79.95574,
+    40.44448,
+    -79.95574,
+    40.44448
 ],
-  "geometry": {"coordinates":[-79.955156,40.444219],"type":"Point"}
+  "geometry": {"coordinates":[-79.95574000000001,40.44448],"type":"Point"}
 }

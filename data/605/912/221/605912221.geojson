@@ -2,18 +2,24 @@
   "id": 605912221,
   "type": "Feature",
   "properties": {
-    "addr:full":"299 S Pittsburgh St Connellsville PA 15425",
+    "addr:city":"Connellsville",
+    "addr:full":"299 South Pittsburgh Street Connellsville, Pa 15425",
+    "addr:house_number":"299",
     "addr:housenumber":"299",
+    "addr:phone":"+1 724-628-5640",
     "addr:postcode":"15425",
+    "addr:road":"South Pittsburgh Street",
+    "addr:state":"PA",
     "addr:street":"S Pittsburgh St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-79.588889,40.0161,-79.588889,40.0161",
-    "geom:latitude":40.0161,
-    "geom:longitude":-79.588889,
+    "geom:bbox":"-79.58414,40.02331,-79.58414,40.02331",
+    "geom:latitude":40.02331,
+    "geom:longitude":-79.58414,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"299 S Pittsburgh St",
     "sg:city":"Connellsville",
     "sg:classifiers":[
@@ -30,20 +36,22 @@
     "sg:tags":[
         "historical"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
-        85688481,
+        85837795,
         85633793,
         101717677,
         102080959,
-        85837795
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404201029,
         "sg:id":"SG_4RLlbBilvK6YUrI52rjLVU_40.016100_-79.588889@1294186258"
     },
     "wof:country":"US",
-    "wof:geomhash":"828f70d9a1f8ab2608b0b3e017eb63c4",
+    "wof:geomhash":"443b80d417c29a83fdfe6ef82156d719",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,8 +63,8 @@
         }
     ],
     "wof:id":605912221,
-    "wof:lastmodified":1472644013,
-    "wof:name":"Connellsville Area Historical",
+    "wof:lastmodified":1533776574,
+    "wof:name":"Connellsville Area Historical Society",
     "wof:parent_id":85837795,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
@@ -67,10 +75,10 @@
     ]
 },
   "bbox": [
-    -79.588889,
-    40.0161,
-    -79.588889,
-    40.0161
+    -79.58414,
+    40.02331,
+    -79.58414,
+    40.02331
 ],
-  "geometry": {"coordinates":[-79.58888899999999,40.0161],"type":"Point"}
+  "geometry": {"coordinates":[-79.58414,40.02331],"type":"Point"}
 }

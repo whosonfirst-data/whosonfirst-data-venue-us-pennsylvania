@@ -2,18 +2,23 @@
   "id": 605682249,
   "type": "Feature",
   "properties": {
-    "addr:full":"27 Market Sq Manheim PA 17545",
+    "addr:city":"Manheim",
+    "addr:full":"27 Market Square Manheim, Pa 17545-2413",
+    "addr:house_number":"27",
     "addr:housenumber":"27",
-    "addr:postcode":"17545",
+    "addr:postcode":"17545-2413",
+    "addr:road":"Market Square",
+    "addr:state":"PA",
     "addr:street":"Market Sq",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-76.395449,40.163385,-76.395449,40.163385",
-    "geom:latitude":40.163385,
-    "geom:longitude":-76.395449,
+    "geom:bbox":"-76.39597,40.16304,-76.39597,40.16304",
+    "geom:latitude":40.16304,
+    "geom:longitude":-76.39597,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"27 Market Sq",
     "sg:city":"Manheim",
     "sg:classifiers":[
@@ -30,19 +35,23 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102526073
+    ],
     "wof:belongsto":[
-        85688481,
+        102081377,
         85633793,
-        85836395,
-        102081377
+        85688481,
+        85836395
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404200869,
         "sg:id":"SG_01kacdvpT6dcg2lCcunafX_40.163385_-76.395449@1294186258"
     },
     "wof:country":"US",
-    "wof:geomhash":"9248be23dd54bae72115a0afb4cd0730",
+    "wof:geomhash":"a118ad9db2894dcaaff56b2ba6a0a11d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,8 +62,8 @@
         }
     ],
     "wof:id":605682249,
-    "wof:lastmodified":1472643765,
-    "wof:name":"Historic Manheim Preservation",
+    "wof:lastmodified":1533776575,
+    "wof:name":"Historic Manheim Preservation Foundation",
     "wof:parent_id":85836395,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
@@ -65,10 +74,10 @@
     ]
 },
   "bbox": [
-    -76.395449,
-    40.163385,
-    -76.395449,
-    40.163385
+    -76.39597,
+    40.16304,
+    -76.39597,
+    40.16304
 ],
-  "geometry": {"coordinates":[-76.395449,40.163385],"type":"Point"}
+  "geometry": {"coordinates":[-76.39597000000001,40.16304],"type":"Point"}
 }

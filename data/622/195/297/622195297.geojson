@@ -2,19 +2,25 @@
   "id": 622195297,
   "type": "Feature",
   "properties": {
-    "addr:full":"611 Spring Garden St Philadelphia PA 19123",
+    "addr:city":"Philadelphia",
+    "addr:full":"611 Spring Garden St Philadelphia, Pa 19123-3505",
+    "addr:house_number":"611",
     "addr:housenumber":"611",
-    "addr:postcode":"19123",
+    "addr:phone":"+1 215-627-2332",
+    "addr:postcode":"19123-3505",
+    "addr:road":"Spring Garden St",
+    "addr:state":"PA",
     "addr:street":"Spring Garden St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-75.148499,39.9613,-75.148499,39.9613",
-    "geom:latitude":39.9613,
-    "geom:longitude":-75.148499,
+    "geom:bbox":"-75.14833,39.96151,-75.14833,39.96151",
+    "geom:latitude":39.96151,
+    "geom:longitude":-75.14833,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"611 Spring Garden St",
     "sg:city":"Philadelphia",
     "sg:classifiers":[
@@ -36,7 +42,11 @@
         "historical"
     ],
     "sg:website":"www.germansociety.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102529403,
+        102530381
+    ],
     "wof:belongsto":[
         420539495,
         102191575,
@@ -49,10 +59,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404200452,
         "sg:id":"SG_3PqZT21lQ2w4mj2DY5NQ5d_39.961523_-75.148783@1293134755"
     },
     "wof:country":"US",
-    "wof:geomhash":"cdc22038fd6873d572d9497efefc77f9",
+    "wof:geomhash":"42ba13f60cff85996dfbfba01cbbbbf0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,8 +78,8 @@
         }
     ],
     "wof:id":622195297,
-    "wof:lastmodified":1489035089,
-    "wof:name":"German Society of Penna",
+    "wof:lastmodified":1533776576,
+    "wof:name":"German Society Of Pennsylvania",
     "wof:parent_id":420539495,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
@@ -83,10 +94,10 @@
     ]
 },
   "bbox": [
-    -75.148499,
-    39.9613,
-    -75.148499,
-    39.9613
+    -75.14833,
+    39.96151,
+    -75.14833,
+    39.96151
 ],
-  "geometry": {"coordinates":[-75.148499,39.9613],"type":"Point"}
+  "geometry": {"coordinates":[-75.14833,39.96151],"type":"Point"}
 }

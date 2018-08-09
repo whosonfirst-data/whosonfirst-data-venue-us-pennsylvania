@@ -2,17 +2,22 @@
   "id": 605339125,
   "type": "Feature",
   "properties": {
-    "addr:full":"135 N Lime St Lancaster PA 17602",
+    "addr:city":"Lancaster",
+    "addr:full":"135 N Lime St Lancaster, Pa 17602-2952",
+    "addr:house_number":"135",
     "addr:housenumber":"135",
-    "addr:postcode":"17602",
+    "addr:phone":"+1 717-394-3497",
+    "addr:postcode":"17602-2952",
+    "addr:road":"N Lime St",
+    "addr:state":"PA",
     "addr:street":"N Lime St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-76.301868,40.041533,-76.301868,40.041533",
-    "geom:latitude":40.041533,
-    "geom:longitude":-76.301868,
+    "geom:bbox":"-76.30083,40.04125,-76.30083,40.04125",
+    "geom:latitude":40.04125,
+    "geom:longitude":-76.30083,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -33,7 +38,10 @@
         "art",
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102526073
+    ],
     "wof:belongsto":[
         85846173,
         102191575,
@@ -45,11 +53,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404200519,
         "osm:way":162252542,
         "sg:id":"SG_0AXRxNpaEfCKXIhRfOvgR0_40.041533_-76.301868@1294186258"
     },
     "wof:country":"US",
-    "wof:geomhash":"f5db6357872b978ac8d6765e4db86141",
+    "wof:geomhash":"c463b44c62ad2284a3d9c51a82ac21e4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,7 +72,7 @@
         }
     ],
     "wof:id":605339125,
-    "wof:lastmodified":1510942410,
+    "wof:lastmodified":1533776576,
     "wof:name":"Lancaster Museum Of Art",
     "wof:parent_id":85846173,
     "wof:placetype":"venue",
@@ -76,10 +85,10 @@
     ]
 },
   "bbox": [
-    -76.301868,
-    40.041533,
-    -76.301868,
-    40.041533
+    -76.30083,
+    40.04125,
+    -76.30083,
+    40.04125
 ],
-  "geometry": {"coordinates":[-76.301868,40.041533],"type":"Point"}
+  "geometry": {"coordinates":[-76.30083,40.04125],"type":"Point"}
 }

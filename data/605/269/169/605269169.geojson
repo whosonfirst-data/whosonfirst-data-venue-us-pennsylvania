@@ -2,18 +2,24 @@
   "id": 605269169,
   "type": "Feature",
   "properties": {
-    "addr:full":"105 Point St Saltsburg PA 15681",
+    "addr:city":"Saltsburg",
+    "addr:full":"105 Point St Saltsburg, Pa 15681",
+    "addr:house_number":"105",
     "addr:housenumber":"105",
+    "addr:phone":"+1 724-639-9003",
     "addr:postcode":"15681",
+    "addr:road":"Point St",
+    "addr:state":"PA",
     "addr:street":"Point St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-79.452195,40.48488,-79.452195,40.48488",
-    "geom:latitude":40.48488,
-    "geom:longitude":-79.452195,
+    "geom:bbox":"-79.45224,40.48503,-79.45224,40.48503",
+    "geom:latitude":40.48503,
+    "geom:longitude":-79.45224,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"105 Point St",
     "sg:city":"Saltsburg",
     "sg:classifiers":[
@@ -27,18 +33,22 @@
     "sg:phone":"+1 724 639 9003",
     "sg:postcode":"15681",
     "sg:province":"PA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531713
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404200112,
         "sg:id":"SG_5Cu3txNqeBygqDT8on2RpB_40.484880_-79.452195@1294186258"
     },
     "wof:country":"US",
-    "wof:geomhash":"82f4ce753583943f65248a9db18db035",
+    "wof:geomhash":"8643a611572743f802eaca15cb56de33",
     "wof:hierarchy":[],
     "wof:id":605269169,
-    "wof:lastmodified":1472643137,
-    "wof:name":"Museum Rebecca B Hadden House",
+    "wof:lastmodified":1533776575,
+    "wof:name":"Museum Rebecca B Hadden Stone House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
@@ -47,10 +57,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -79.452195,
-    40.48488,
-    -79.452195,
-    40.48488
+    -79.45224,
+    40.48503,
+    -79.45224,
+    40.48503
 ],
-  "geometry": {"coordinates":[-79.452195,40.48488],"type":"Point"}
+  "geometry": {"coordinates":[-79.45224,40.48503],"type":"Point"}
 }

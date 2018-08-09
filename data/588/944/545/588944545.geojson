@@ -2,18 +2,24 @@
   "id": 588944545,
   "type": "Feature",
   "properties": {
-    "addr:full":"900 Main St Stroudsburg PA 18360",
+    "addr:city":"Stroudsburg",
+    "addr:full":"900 Main St Stroudsburg, Pa 18360-1604",
+    "addr:house_number":"900",
     "addr:housenumber":"900",
-    "addr:postcode":"18360",
+    "addr:phone":"+1 570-421-7703",
+    "addr:postcode":"18360-1604",
+    "addr:road":"Main St",
+    "addr:state":"PA",
     "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-75.197882,40.984349,-75.197882,40.984349",
-    "geom:latitude":40.984349,
-    "geom:longitude":-75.197882,
+    "geom:bbox":"-75.19905,40.98411,-75.19905,40.98411",
+    "geom:latitude":40.98411,
+    "geom:longitude":-75.19905,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"900 Main St",
     "sg:city":"Stroudsburg",
     "sg:classifiers":[
@@ -31,7 +37,8 @@
         "gallery"
     ],
     "sg:website":"www.mcha-pa.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85803545,
         102191575,
@@ -43,10 +50,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404200398,
         "sg:id":"SG_0W49B0X9d9FQT3Cp4NYeru_40.984349_-75.197882@1294186258"
     },
     "wof:country":"US",
-    "wof:geomhash":"5132077b5376ea8be919fcabb4fad0be",
+    "wof:geomhash":"4a44fd1e27b807b91052efeeb0582406",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,8 +68,8 @@
         }
     ],
     "wof:id":588944545,
-    "wof:lastmodified":1472642855,
-    "wof:name":"Monroe County Historical Assn",
+    "wof:lastmodified":1533776577,
+    "wof:name":"Monroe County Historical Association",
     "wof:parent_id":85803545,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
@@ -72,10 +80,10 @@
     ]
 },
   "bbox": [
-    -75.197882,
-    40.984349,
-    -75.197882,
-    40.984349
+    -75.19905,
+    40.98411,
+    -75.19905,
+    40.98411
 ],
-  "geometry": {"coordinates":[-75.19788200000001,40.984349],"type":"Point"}
+  "geometry": {"coordinates":[-75.19905,40.98411],"type":"Point"}
 }

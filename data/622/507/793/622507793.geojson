@@ -2,19 +2,25 @@
   "id": 622507793,
   "type": "Feature",
   "properties": {
-    "addr:full":"206 Lincoln Dr Philadelphia PA 19144",
+    "addr:city":"Philadelphia",
+    "addr:full":"206 Lincoln Drive Philadelphia, Pa 19144",
+    "addr:house_number":"206",
     "addr:housenumber":"206",
+    "addr:phone":"+1 215-438-5711",
     "addr:postcode":"19144",
+    "addr:road":"Lincoln Drive",
+    "addr:state":"PA",
     "addr:street":"Lincoln Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-75.188499,40.029499,-75.188499,40.029499",
-    "geom:latitude":40.029499,
-    "geom:longitude":-75.188499,
+    "geom:bbox":"-75.19197,40.02759,-75.19197,40.02759",
+    "geom:latitude":40.02759,
+    "geom:longitude":-75.19197,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"206 Lincoln Dr",
     "sg:city":"Philadelphia",
     "sg:classifiers":[
@@ -32,7 +38,11 @@
         "building",
         "historical"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102529403,
+        102530381
+    ],
     "wof:belongsto":[
         420539473,
         102191575,
@@ -45,10 +55,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404200159,
         "sg:id":"SG_609vkRYTmWl76uuMfMNBEe_40.029499_-75.188499@1303262460"
     },
     "wof:country":"US",
-    "wof:geomhash":"497afc160382d5ce8e1db8880daf3158",
+    "wof:geomhash":"4bdfa36b2ab6d375cf4e4f8f8fa042fd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,8 +74,8 @@
         }
     ],
     "wof:id":622507793,
-    "wof:lastmodified":1489034570,
-    "wof:name":"Historic Rittenhousetown",
+    "wof:lastmodified":1533776575,
+    "wof:name":"Historic Rittenhouse Town",
     "wof:parent_id":420539473,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
@@ -76,10 +87,10 @@
     ]
 },
   "bbox": [
-    -75.188499,
-    40.029499,
-    -75.188499,
-    40.029499
+    -75.19197,
+    40.02759,
+    -75.19197,
+    40.02759
 ],
-  "geometry": {"coordinates":[-75.18849899999999,40.029499],"type":"Point"}
+  "geometry": {"coordinates":[-75.19197,40.02759],"type":"Point"}
 }

@@ -2,19 +2,24 @@
   "id": 605181821,
   "type": "Feature",
   "properties": {
-    "addr:full":"201 6th Ave Johnstown PA 15906",
+    "addr:city":"Johnstown",
+    "addr:full":"201 6Th Ave Johnstown, Pa 15906-2500",
+    "addr:house_number":"201",
     "addr:housenumber":"201",
-    "addr:postcode":"15906",
+    "addr:postcode":"15906-2500",
+    "addr:road":"6Th Ave",
+    "addr:state":"PA",
     "addr:street":"6Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-78.930202,40.340452,-78.930202,40.340452",
-    "geom:latitude":40.340452,
-    "geom:longitude":-78.930202,
+    "geom:bbox":"-78.93031,40.34046,-78.93031,40.34046",
+    "geom:latitude":40.34046,
+    "geom:longitude":-78.93031,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"201 6th Ave",
     "sg:city":"Johnstown",
     "sg:classifiers":[
@@ -29,7 +34,10 @@
     "sg:postcode":"15906",
     "sg:province":"PA",
     "sg:website":"www.jaha.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102534283
+    ],
     "wof:belongsto":[
         85688481,
         102191575,
@@ -38,10 +46,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404201110,
         "sg:id":"SG_6OADDUOIE92pM1bVUKs0CW_40.340452_-78.930202@1294186258"
     },
     "wof:country":"US",
-    "wof:geomhash":"0fc8042cf3ba2ff68a63ddf4167bdc79",
+    "wof:geomhash":"c551c9e16b7501008436d9b03f642349",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,8 +63,8 @@
         }
     ],
     "wof:id":605181821,
-    "wof:lastmodified":1494529598,
-    "wof:name":"Johnstown Area Heritage Assn",
+    "wof:lastmodified":1533776575,
+    "wof:name":"Johnstown Area Heritage Association",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
@@ -64,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -78.930202,
-    40.340452,
-    -78.930202,
-    40.340452
+    -78.93031,
+    40.34046,
+    -78.93031,
+    40.34046
 ],
-  "geometry": {"coordinates":[-78.93020199999999,40.340452],"type":"Point"}
+  "geometry": {"coordinates":[-78.93031000000001,40.34046],"type":"Point"}
 }

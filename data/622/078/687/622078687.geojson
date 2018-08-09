@@ -2,18 +2,24 @@
   "id": 622078687,
   "type": "Feature",
   "properties": {
-    "addr:full":"702 N 22nd St Allentown PA 18104",
+    "addr:city":"Allentown",
+    "addr:full":"702 N 22Nd St Allentown, Pa 18104-3904",
+    "addr:house_number":"702",
     "addr:housenumber":"702",
-    "addr:postcode":"18104",
+    "addr:phone":"+1 610-821-5500",
+    "addr:postcode":"18104-3904",
+    "addr:road":"N 22Nd St",
+    "addr:state":"PA",
     "addr:street":"N 22Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-75.507528,40.603615,-75.507528,40.603615",
-    "geom:latitude":40.603615,
-    "geom:longitude":-75.507528,
+    "geom:bbox":"-75.53029,40.60147,-75.53029,40.60147",
+    "geom:latitude":40.60147,
+    "geom:longitude":-75.53029,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"702 N 22nd St",
     "sg:city":"Allentown",
     "sg:classifiers":[
@@ -31,7 +37,10 @@
         "organization",
         "welfare"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102529131
+    ],
     "wof:belongsto":[
         85897239,
         102191575,
@@ -43,10 +52,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404200956,
         "sg:id":"SG_7QA7lHiCS7EZ8GmDSHpAuE_40.603615_-75.507528@1294186258"
     },
     "wof:country":"US",
-    "wof:geomhash":"14f5ac2c610bf11a362a848d87315808",
+    "wof:geomhash":"5ab473871ebd6987a42421436b0119d3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,8 +70,8 @@
         }
     ],
     "wof:id":622078687,
-    "wof:lastmodified":1472642277,
-    "wof:name":"Jewish Federation Of Lehigh",
+    "wof:lastmodified":1533776576,
+    "wof:name":"Jewish Federation Of The Lehigh Valley",
     "wof:parent_id":85897239,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
@@ -73,10 +83,10 @@
     ]
 },
   "bbox": [
-    -75.507528,
-    40.603615,
-    -75.507528,
-    40.603615
+    -75.53029,
+    40.60147,
+    -75.53029,
+    40.60147
 ],
-  "geometry": {"coordinates":[-75.50752799999999,40.603615],"type":"Point"}
+  "geometry": {"coordinates":[-75.53028999999999,40.60147],"type":"Point"}
 }

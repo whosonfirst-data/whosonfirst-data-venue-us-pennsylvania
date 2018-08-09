@@ -2,18 +2,24 @@
   "id": 605764741,
   "type": "Feature",
   "properties": {
-    "addr:full":"7 7th Ave Carbondale PA 18407",
+    "addr:city":"Carbondale",
+    "addr:full":"7 7Th Ave Carbondale, Pa 18407-2203",
+    "addr:house_number":"7",
     "addr:housenumber":"7",
-    "addr:postcode":"18407",
+    "addr:phone":"+1 570-282-5595",
+    "addr:postcode":"18407-2203",
+    "addr:road":"7Th Ave",
+    "addr:state":"PA",
     "addr:street":"7Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-75.504883,41.571007,-75.504883,41.571007",
-    "geom:latitude":41.571007,
-    "geom:longitude":-75.504883,
+    "geom:bbox":"-75.50515,41.57104,-75.50515,41.57104",
+    "geom:latitude":41.57104,
+    "geom:longitude":-75.50515,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"7 7th Ave",
     "sg:city":"Carbondale",
     "sg:classifiers":[
@@ -27,7 +33,8 @@
     "sg:phone":"+1 570 282 5595",
     "sg:postcode":"18407",
     "sg:province":"PA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85857553,
         102191575,
@@ -39,10 +46,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404200893,
         "sg:id":"SG_6QCwIbLylm1j6oTntcdjPm_41.571007_-75.504883@1294186258"
     },
     "wof:country":"US",
-    "wof:geomhash":"c35dca6ef87195490f7244f0e8d8e472",
+    "wof:geomhash":"105b250f11d2cb8d01685cee6ca8e56d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,8 +64,8 @@
         }
     ],
     "wof:id":605764741,
-    "wof:lastmodified":1472643888,
-    "wof:name":"Anthracite Historical Dscvry",
+    "wof:lastmodified":1533776574,
+    "wof:name":"Anthracite Historical Discovery Center",
     "wof:parent_id":85857553,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
@@ -66,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -75.504883,
-    41.571007,
-    -75.504883,
-    41.571007
+    -75.50515,
+    41.57104,
+    -75.50515,
+    41.57104
 ],
-  "geometry": {"coordinates":[-75.50488300000001,41.571007],"type":"Point"}
+  "geometry": {"coordinates":[-75.50515,41.57104],"type":"Point"}
 }

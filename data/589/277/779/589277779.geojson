@@ -2,18 +2,24 @@
   "id": 589277779,
   "type": "Feature",
   "properties": {
-    "addr:full":"1261 Liberty St Franklin PA 16323",
+    "addr:city":"Franklin",
+    "addr:full":"1261 Liberty Street Franklin, Pa 16323",
+    "addr:house_number":"1261",
     "addr:housenumber":"1261",
+    "addr:phone":"+1 814-432-8350",
     "addr:postcode":"16323",
+    "addr:road":"Liberty Street",
+    "addr:state":"PA",
     "addr:street":"Liberty St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-79.829844,41.397715,-79.829844,41.397715",
-    "geom:latitude":41.397715,
-    "geom:longitude":-79.829844,
+    "geom:bbox":"-79.83096,41.39776,-79.83096,41.39776",
+    "geom:latitude":41.39776,
+    "geom:longitude":-79.83096,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1261 Liberty St",
     "sg:city":"Franklin",
     "sg:classifiers":[
@@ -30,20 +36,24 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531311
+    ],
     "wof:belongsto":[
-        85688481,
+        85842529,
         85633793,
         101717321,
         102081279,
-        85842529
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404200229,
         "sg:id":"SG_5EaxSbakRVZVEZIf8k93gr_41.397715_-79.829844@1294186258"
     },
     "wof:country":"US",
-    "wof:geomhash":"8e15ed48ba12a9df40458ec1a7cf6c27",
+    "wof:geomhash":"f72c17947283342c0b05321525749005",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,8 +65,8 @@
         }
     ],
     "wof:id":589277779,
-    "wof:lastmodified":1472643008,
-    "wof:name":"Debence Antique Music World",
+    "wof:lastmodified":1533776575,
+    "wof:name":"Debence Antique Music World Museum",
     "wof:parent_id":85842529,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
@@ -67,10 +77,10 @@
     ]
 },
   "bbox": [
-    -79.829844,
-    41.397715,
-    -79.829844,
-    41.397715
+    -79.83096,
+    41.39776,
+    -79.83096,
+    41.39776
 ],
-  "geometry": {"coordinates":[-79.82984399999999,41.397715],"type":"Point"}
+  "geometry": {"coordinates":[-79.83096,41.39776],"type":"Point"}
 }

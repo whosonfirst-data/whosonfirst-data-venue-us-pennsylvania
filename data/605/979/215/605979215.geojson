@@ -2,18 +2,24 @@
   "id": 605979215,
   "type": "Feature",
   "properties": {
-    "addr:full":"5465 E State St Hermitage PA 16148",
+    "addr:city":"Hermitage",
+    "addr:full":"5465 East State Street Hermitage, Pa 16148",
+    "addr:house_number":"5465",
     "addr:housenumber":"5465",
+    "addr:phone":"+1 724-346-0419",
     "addr:postcode":"16148",
+    "addr:road":"East State Street",
+    "addr:state":"PA",
     "addr:street":"E State St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-80.412525,41.23692,-80.412525,41.23692",
-    "geom:latitude":41.23692,
-    "geom:longitude":-80.412525,
+    "geom:bbox":"-80.41002,41.23709,-80.41002,41.23709",
+    "geom:latitude":41.23709,
+    "geom:longitude":-80.41002,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"5465 E State St",
     "sg:city":"Hermitage",
     "sg:classifiers":[
@@ -27,7 +33,8 @@
     "sg:phone":"+1 724 346 0419",
     "sg:postcode":"16148",
     "sg:province":"PA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85824773,
         102191575,
@@ -39,10 +46,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404201309,
         "sg:id":"SG_1UgSLRp5bR9rxUdxFfKMYL_41.236920_-80.412525@1294186258"
     },
     "wof:country":"US",
-    "wof:geomhash":"106c976f7d8bd4d46e09bec3fe5fae13",
+    "wof:geomhash":"6da52c58e0bd69f213a2e4c5cd3944dd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +64,7 @@
         }
     ],
     "wof:id":605979215,
-    "wof:lastmodified":1472644066,
+    "wof:lastmodified":1533776575,
     "wof:name":"Hermitage Historical Society",
     "wof:parent_id":85824773,
     "wof:placetype":"venue",
@@ -66,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -80.412525,
-    41.23692,
-    -80.412525,
-    41.23692
+    -80.41002,
+    41.23709,
+    -80.41002,
+    41.23709
 ],
-  "geometry": {"coordinates":[-80.412525,41.23692],"type":"Point"}
+  "geometry": {"coordinates":[-80.41002,41.23709],"type":"Point"}
 }

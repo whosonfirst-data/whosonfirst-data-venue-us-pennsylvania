@@ -2,19 +2,25 @@
   "id": 622472179,
   "type": "Feature",
   "properties": {
-    "addr:full":"2531 E. Lehigh Ave Philadelphia PA 19125",
+    "addr:city":"Philadelphia",
+    "addr:full":"2531 E Lehigh Ave Philadelphia, Pa 19125-3830",
+    "addr:house_number":"2531",
     "addr:housenumber":"2531",
-    "addr:postcode":"19125",
+    "addr:phone":"+1 215-427-1514",
+    "addr:postcode":"19125-3830",
+    "addr:road":"E Lehigh Ave",
+    "addr:state":"PA",
     "addr:street":"E. Lehigh Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-75.11595,39.980385,-75.11595,39.980385",
-    "geom:latitude":39.980385,
-    "geom:longitude":-75.11595,
+    "geom:bbox":"-75.11626,39.98039,-75.11626,39.98039",
+    "geom:latitude":39.98039,
+    "geom:longitude":-75.11626,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"2531 E. Lehigh Ave",
     "sg:city":"Philadelphia",
     "sg:classifiers":[
@@ -37,7 +43,11 @@
         "school"
     ],
     "sg:website":"www.portsideartscenter.com",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102529403,
+        102530381
+    ],
     "wof:belongsto":[
         85844425,
         102191575,
@@ -50,10 +60,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404201426,
         "sg:id":"SG_5UhhjuXDzBzF8gWYfHhQmr_39.980385_-75.115950@1303262455"
     },
     "wof:country":"US",
-    "wof:geomhash":"1403065799cd8fea1180e43b3b6bbff1",
+    "wof:geomhash":"81127dbc4e1a0a1408d9b01c75bda49e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,7 +79,7 @@
         }
     ],
     "wof:id":622472179,
-    "wof:lastmodified":1489035342,
+    "wof:lastmodified":1533776575,
     "wof:name":"Portside Arts Center",
     "wof:parent_id":85844425,
     "wof:placetype":"venue",
@@ -80,10 +91,10 @@
     ]
 },
   "bbox": [
-    -75.11595,
-    39.980385,
-    -75.11595,
-    39.980385
+    -75.11626,
+    39.98039,
+    -75.11626,
+    39.98039
 ],
-  "geometry": {"coordinates":[-75.11595,39.980385],"type":"Point"}
+  "geometry": {"coordinates":[-75.11626,39.98039],"type":"Point"}
 }

@@ -2,19 +2,25 @@
   "id": 622518735,
   "type": "Feature",
   "properties": {
-    "addr:full":"712 Montrose St Philadelphia PA 19147",
+    "addr:city":"Philadelphia",
+    "addr:full":"712 Montrose St Philadelphia, Pa 19147",
+    "addr:house_number":"712",
     "addr:housenumber":"712",
+    "addr:phone":"+1 215-334-0529",
     "addr:postcode":"19147",
+    "addr:road":"Montrose St",
+    "addr:state":"PA",
     "addr:street":"Montrose St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-75.155602,39.937698,-75.155602,39.937698",
-    "geom:latitude":39.937698,
-    "geom:longitude":-75.155602,
+    "geom:bbox":"-75.15611,39.93765,-75.15611,39.93765",
+    "geom:latitude":39.93765,
+    "geom:longitude":-75.15611,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"712 Montrose St",
     "sg:city":"Philadelphia",
     "sg:classifiers":[
@@ -28,7 +34,11 @@
     "sg:phone":"+1 215 238 9691",
     "sg:postcode":"19147",
     "sg:province":"PA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102529403,
+        102530381
+    ],
     "wof:belongsto":[
         85805405,
         102191575,
@@ -41,10 +51,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404200129,
         "sg:id":"SG_5LtohxzPzMhS6w5QnBtiKW_39.937698_-75.155602@1303262462"
     },
     "wof:country":"US",
-    "wof:geomhash":"7e3690ee26e6a4f792f168fed40869bd",
+    "wof:geomhash":"ed1d5d69636b22e4a62ef109c01521e1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,8 +70,8 @@
         }
     ],
     "wof:id":622518735,
-    "wof:lastmodified":1489032305,
-    "wof:name":"Mario Lanza Inst",
+    "wof:lastmodified":1533776575,
+    "wof:name":"Mario Lanza Institute",
     "wof:parent_id":85805405,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
@@ -69,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -75.155602,
-    39.937698,
-    -75.155602,
-    39.937698
+    -75.15611,
+    39.93765,
+    -75.15611,
+    39.93765
 ],
-  "geometry": {"coordinates":[-75.155602,39.937698],"type":"Point"}
+  "geometry": {"coordinates":[-75.15611,39.93765],"type":"Point"}
 }

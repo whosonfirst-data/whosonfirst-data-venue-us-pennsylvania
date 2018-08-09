@@ -2,19 +2,24 @@
   "id": 354385929,
   "type": "Feature",
   "properties": {
-    "addr:full":"1416 Telegraph Rd Rising Sun MD 21911",
+    "addr:city":"Rising Sun",
+    "addr:full":"1416 Telegraph Rd Rising Sun, Md 21911-2025",
+    "addr:house_number":"1416",
     "addr:housenumber":"1416",
-    "addr:postcode":"21911",
+    "addr:phone":"+1 410-658-6850",
+    "addr:postcode":"21911-2025",
+    "addr:road":"Telegraph Rd",
+    "addr:state":"MD",
     "addr:street":"Telegraph Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-76.000526,39.704769,-76.000526,39.704769",
-    "geom:latitude":39.704769,
-    "geom:longitude":-76.000526,
+    "geom:bbox":"-76.00178,39.70431,-76.00178,39.70431",
+    "geom:latitude":39.70431,
+    "geom:longitude":-76.00178,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "sg:address":"1416 Telegraph Rd",
     "sg:city":"Rising Sun",
     "sg:classifiers":[
@@ -31,19 +36,21 @@
     "sg:tags":[
         "zoo"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
-        85688481,
+        102081275,
         85633793,
-        85810983,
-        102081275
+        85688481,
+        85810983
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402400433,
         "sg:id":"SG_6VHmGssVYZqlvnNcwflbg0_39.704769_-76.000526@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"522a1e359c53860dcfb19d6500805b59",
+    "wof:geomhash":"f816d472dd2a03cf6f7d6c5013d28d17",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":354385929,
-    "wof:lastmodified":1472641818,
+    "wof:lastmodified":1533776575,
     "wof:name":"Plumpton Park Zoo",
     "wof:parent_id":85810983,
     "wof:placetype":"venue",
@@ -66,10 +73,10 @@
     ]
 },
   "bbox": [
-    -76.000526,
-    39.704769,
-    -76.000526,
-    39.704769
+    -76.00178,
+    39.70431,
+    -76.00178,
+    39.70431
 ],
-  "geometry": {"coordinates":[-76.00052599999999,39.704769],"type":"Point"}
+  "geometry": {"coordinates":[-76.00178,39.70431],"type":"Point"}
 }

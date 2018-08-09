@@ -2,19 +2,25 @@
   "id": 622182577,
   "type": "Feature",
   "properties": {
-    "addr:full":"1700 W Montgomery Ave Philadelphia PA 19121",
+    "addr:city":"Philadelphia",
+    "addr:full":"1700 W Montgomery Ave Philadelphia, Pa 19121-3227",
+    "addr:house_number":"1700",
     "addr:housenumber":"1700",
-    "addr:postcode":"19121",
+    "addr:phone":"+1 215-763-6529",
+    "addr:postcode":"19121-3227",
+    "addr:road":"W Montgomery Ave",
+    "addr:state":"PA",
     "addr:street":"W Montgomery Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-75.162598,39.980999,-75.162598,39.980999",
-    "geom:latitude":39.980999,
-    "geom:longitude":-75.162598,
+    "geom:bbox":"-75.16317,39.98085,-75.16317,39.98085",
+    "geom:latitude":39.98085,
+    "geom:longitude":-75.16317,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1700 W Montgomery Ave",
     "sg:city":"Philadelphia",
     "sg:classifiers":[
@@ -32,7 +38,11 @@
         "education"
     ],
     "sg:website":"www.wagnerfreeinstitute.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102529403,
+        102530381
+    ],
     "wof:belongsto":[
         85837447,
         102191575,
@@ -45,10 +55,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404200457,
         "sg:id":"SG_2lYOtveKbNYMQZAzO5cGcA_39.980941_-75.163155@1293134755"
     },
     "wof:country":"US",
-    "wof:geomhash":"a18101fdab0098c7a960aacab89f927d",
+    "wof:geomhash":"c9cde23a505bf2b3b47c584bf226e1c5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,8 +74,8 @@
         }
     ],
     "wof:id":622182577,
-    "wof:lastmodified":1489034884,
-    "wof:name":"Wagner Free Institute of Science",
+    "wof:lastmodified":1533776575,
+    "wof:name":"Wagner Free Institute Of Science",
     "wof:parent_id":85837447,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
@@ -75,10 +86,10 @@
     ]
 },
   "bbox": [
-    -75.162598,
-    39.980999,
-    -75.162598,
-    39.980999
+    -75.16317,
+    39.98085,
+    -75.16317,
+    39.98085
 ],
-  "geometry": {"coordinates":[-75.162598,39.980999],"type":"Point"}
+  "geometry": {"coordinates":[-75.16316999999999,39.98085],"type":"Point"}
 }

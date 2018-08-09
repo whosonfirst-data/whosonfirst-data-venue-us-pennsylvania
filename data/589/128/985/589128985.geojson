@@ -2,18 +2,24 @@
   "id": 589128985,
   "type": "Feature",
   "properties": {
-    "addr:full":"225 N High St West Chester PA 19380",
+    "addr:city":"West Chester",
+    "addr:full":"225 N High St West Chester, Pa 19380-2658",
+    "addr:house_number":"225",
     "addr:housenumber":"225",
-    "addr:postcode":"19380",
+    "addr:phone":"+1 610-692-4800",
+    "addr:postcode":"19380-2658",
+    "addr:road":"N High St",
+    "addr:state":"PA",
     "addr:street":"N High St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-75.606205,39.961741,-75.606205,39.961741",
-    "geom:latitude":39.961741,
-    "geom:longitude":-75.606205,
+    "geom:bbox":"-75.60622,39.96227,-75.60622,39.96227",
+    "geom:latitude":39.96227,
+    "geom:longitude":-75.60622,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"225 N High St",
     "sg:city":"West Chester",
     "sg:classifiers":[
@@ -32,7 +38,8 @@
         "research"
     ],
     "sg:website":"www.chestercohistorical.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         420537349,
         102191575,
@@ -44,10 +51,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404200458,
         "sg:id":"SG_4CwKnyVRzO9e0cI2lLXGSS_39.961741_-75.606205@1294186258"
     },
     "wof:country":"US",
-    "wof:geomhash":"dd2c73f60ba29ee0338d76e305f49c7b",
+    "wof:geomhash":"fccd7b40499025b6c382418c48e8e9af",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,8 +69,8 @@
         }
     ],
     "wof:id":589128985,
-    "wof:lastmodified":1472642416,
-    "wof:name":"Chester County Historical Soc",
+    "wof:lastmodified":1533776577,
+    "wof:name":"Chester County Historical Society",
     "wof:parent_id":420537349,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
@@ -74,10 +82,10 @@
     ]
 },
   "bbox": [
-    -75.606205,
-    39.961741,
-    -75.606205,
-    39.961741
+    -75.60622,
+    39.96227,
+    -75.60622,
+    39.96227
 ],
-  "geometry": {"coordinates":[-75.606205,39.961741],"type":"Point"}
+  "geometry": {"coordinates":[-75.60621999999999,39.96227],"type":"Point"}
 }

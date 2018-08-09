@@ -2,18 +2,24 @@
   "id": 589198855,
   "type": "Feature",
   "properties": {
-    "addr:full":"120 E King St Lancaster PA 17602",
+    "addr:city":"Lancaster",
+    "addr:full":"120 E King St Lancaster, Pa 17602-2832",
+    "addr:house_number":"120",
     "addr:housenumber":"120",
-    "addr:postcode":"17602",
+    "addr:phone":"+1 717-299-9940",
+    "addr:postcode":"17602-2832",
+    "addr:road":"E King St",
+    "addr:state":"PA",
     "addr:street":"E King St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-76.301685,40.038306,-76.301685,40.038306",
-    "geom:latitude":40.038306,
-    "geom:longitude":-76.301685,
+    "geom:bbox":"-76.30243,40.03788,-76.30243,40.03788",
+    "geom:latitude":40.03788,
+    "geom:longitude":-76.30243,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"120 E King St",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -39,7 +45,10 @@
         "gallery"
     ],
     "sg:website":"www.demuth.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102526073
+    ],
     "wof:belongsto":[
         85818111,
         102191575,
@@ -51,10 +60,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404200590,
         "sg:id":"SG_6scy4wVjAr9vtLnrrzdOou_40.038306_-76.301685@1294186258"
     },
     "wof:country":"US",
-    "wof:geomhash":"1fced634a3a0fd3e168396491bde2f62",
+    "wof:geomhash":"79446f6c78bf7c3414c81dacb67479bd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,8 +78,8 @@
         }
     ],
     "wof:id":589198855,
-    "wof:lastmodified":1472642785,
-    "wof:name":"Demuth Foundation Inc",
+    "wof:lastmodified":1533776577,
+    "wof:name":"Demuth Foundation",
     "wof:parent_id":85818111,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
@@ -83,10 +93,10 @@
     ]
 },
   "bbox": [
-    -76.301685,
-    40.038306,
-    -76.301685,
-    40.038306
+    -76.30243,
+    40.03788,
+    -76.30243,
+    40.03788
 ],
-  "geometry": {"coordinates":[-76.30168500000001,40.038306],"type":"Point"}
+  "geometry": {"coordinates":[-76.30243,40.03788],"type":"Point"}
 }

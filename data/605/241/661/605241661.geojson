@@ -2,18 +2,24 @@
   "id": 605241661,
   "type": "Feature",
   "properties": {
-    "addr:full":"411 State St Erie PA 16501",
+    "addr:city":"Erie",
+    "addr:full":"411 State St Erie, Pa 16501-1106",
+    "addr:house_number":"411",
     "addr:housenumber":"411",
-    "addr:postcode":"16501",
+    "addr:phone":"+1 814-459-5477",
+    "addr:postcode":"16501-1106",
+    "addr:road":"State St",
+    "addr:state":"PA",
     "addr:street":"State St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-80.085882,42.130615,-80.085882,42.130615",
-    "geom:latitude":42.130615,
-    "geom:longitude":-80.085882,
+    "geom:bbox":"-80.08636,42.1313,-80.08636,42.1313",
+    "geom:latitude":42.1313,
+    "geom:longitude":-80.08636,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"411 State St",
     "sg:city":"Erie",
     "sg:classifiers":[
@@ -27,20 +33,24 @@
     "sg:phone":"+1 814 459 5477",
     "sg:postcode":"16501",
     "sg:province":"PA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102524857
+    ],
     "wof:belongsto":[
-        85688481,
+        85814671,
         85633793,
         101718253,
         102080955,
-        85814671
+        85688481
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404201104,
         "sg:id":"SG_7c2jUngJNEe4YJL1vj0CJ5_42.130615_-80.085882@1294186258"
     },
     "wof:country":"US",
-    "wof:geomhash":"fbe3be99e3f4b39a90f77bb28deaa058",
+    "wof:geomhash":"9fbf61bfe337dc35ac1cc8c4237ef9db",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +62,7 @@
         }
     ],
     "wof:id":605241661,
-    "wof:lastmodified":1472643078,
+    "wof:lastmodified":1533776575,
     "wof:name":"Erie Art Museum",
     "wof:parent_id":85814671,
     "wof:placetype":"venue",
@@ -62,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -80.085882,
-    42.130615,
-    -80.085882,
-    42.130615
+    -80.08636,
+    42.1313,
+    -80.08636,
+    42.1313
 ],
-  "geometry": {"coordinates":[-80.085882,42.130615],"type":"Point"}
+  "geometry": {"coordinates":[-80.08636,42.1313],"type":"Point"}
 }

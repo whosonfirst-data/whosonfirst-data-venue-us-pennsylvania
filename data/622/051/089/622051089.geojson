@@ -2,18 +2,24 @@
   "id": 622051089,
   "type": "Feature",
   "properties": {
-    "addr:full":"35 Dennison St Kingston PA 18704",
+    "addr:city":"Kingston",
+    "addr:full":"35 Dennison St Kingston, Pa 18704",
+    "addr:house_number":"35",
     "addr:housenumber":"35",
+    "addr:phone":"+1 570-288-5531",
     "addr:postcode":"18704",
+    "addr:road":"Dennison St",
+    "addr:state":"PA",
     "addr:street":"Dennison St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-75.862451,41.298268,-75.862451,41.298268",
-    "geom:latitude":41.298268,
-    "geom:longitude":-75.862451,
+    "geom:bbox":"-75.86274,41.29909,-75.86274,41.29909",
+    "geom:latitude":41.29909,
+    "geom:longitude":-75.86274,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"35 Dennison St",
     "sg:city":"Kingston",
     "sg:classifiers":[
@@ -30,7 +36,10 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531625
+    ],
     "wof:belongsto":[
         420538875,
         102191575,
@@ -42,10 +51,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404200118,
         "sg:id":"SG_4WIrWAXJXA6i6HC3L1oeOh_41.298268_-75.862451@1294186258"
     },
     "wof:country":"US",
-    "wof:geomhash":"0a96e8a106ed7a1ca3a7df159bbe2b8c",
+    "wof:geomhash":"28fc24962a7ad1d93d6bcf11f8251fa4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,8 +69,8 @@
         }
     ],
     "wof:id":622051089,
-    "wof:lastmodified":1472642166,
-    "wof:name":"Nathan House Denison",
+    "wof:lastmodified":1533776577,
+    "wof:name":"Nathan Denison House",
     "wof:parent_id":420538875,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
@@ -71,10 +81,10 @@
     ]
 },
   "bbox": [
-    -75.862451,
-    41.298268,
-    -75.862451,
-    41.298268
+    -75.86274,
+    41.29909,
+    -75.86274,
+    41.29909
 ],
-  "geometry": {"coordinates":[-75.86245099999999,41.298268],"type":"Point"}
+  "geometry": {"coordinates":[-75.86274,41.29909],"type":"Point"}
 }

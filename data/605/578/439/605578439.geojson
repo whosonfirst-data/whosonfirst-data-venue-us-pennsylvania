@@ -2,18 +2,24 @@
   "id": 605578439,
   "type": "Feature",
   "properties": {
-    "addr:full":"748 Bull Creek Rd Tarentum PA 15084",
+    "addr:city":"Tarentum",
+    "addr:full":"748 Bull Creek Rd Tarentum, Pa 15084",
+    "addr:house_number":"748",
     "addr:housenumber":"748",
+    "addr:phone":"+1 724-224-4720",
     "addr:postcode":"15084",
+    "addr:road":"Bull Creek Rd",
+    "addr:state":"PA",
     "addr:street":"Bull Creek Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-79.759163,40.615282,-79.759163,40.615282",
-    "geom:latitude":40.615282,
-    "geom:longitude":-79.759163,
+    "geom:bbox":"-79.76137,40.61672,-79.76137,40.61672",
+    "geom:latitude":40.61672,
+    "geom:longitude":-79.76137,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"748 Bull Creek Rd",
     "sg:city":"Tarentum",
     "sg:classifiers":[
@@ -30,19 +36,23 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102532781
+    ],
     "wof:belongsto":[
-        85688481,
+        102080887,
         85633793,
-        85807717,
-        102080887
+        85688481,
+        85807717
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404200052,
         "sg:id":"SG_0EQndS9KHP0roNBkOQY2QB_40.615282_-79.759163@1294186258"
     },
     "wof:country":"US",
-    "wof:geomhash":"391ecfb7dbae21d8c4c0eb208ea15453",
+    "wof:geomhash":"19ffd200c3dc196d9d7c1d4c1a2b5a31",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,22 +63,24 @@
         }
     ],
     "wof:id":605578439,
-    "wof:lastmodified":1472643613,
-    "wof:name":"Ed Tour Mine & Museum",
+    "wof:lastmodified":1533776575,
+    "wof:name":"Tour-Ed Mine And Museum",
     "wof:parent_id":85807717,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "387180905"
+    ],
     "wof:tags":[
         "gallery"
     ]
 },
   "bbox": [
-    -79.759163,
-    40.615282,
-    -79.759163,
-    40.615282
+    -79.76137,
+    40.61672,
+    -79.76137,
+    40.61672
 ],
-  "geometry": {"coordinates":[-79.759163,40.615282],"type":"Point"}
+  "geometry": {"coordinates":[-79.76137,40.61672],"type":"Point"}
 }

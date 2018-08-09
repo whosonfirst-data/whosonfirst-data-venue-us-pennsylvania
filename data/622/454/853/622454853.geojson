@@ -2,19 +2,25 @@
   "id": 622454853,
   "type": "Feature",
   "properties": {
-    "addr:full":"5001 Grant Ave Philadelphia PA 19114",
+    "addr:city":"Philadelphia",
+    "addr:full":"5001 Grant Avenue Philadelphia, Pa 19114",
+    "addr:house_number":"5001",
     "addr:housenumber":"5001",
+    "addr:phone":"+1 215-632-5330",
     "addr:postcode":"19114",
+    "addr:road":"Grant Avenue",
+    "addr:state":"PA",
     "addr:street":"Grant Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-74.982773,40.053001,-74.982773,40.053001",
-    "geom:latitude":40.053001,
-    "geom:longitude":-74.982773,
+    "geom:bbox":"-74.98141,40.05178,-74.98141,40.05178",
+    "geom:latitude":40.05178,
+    "geom:longitude":-74.98141,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"5001 Grant Ave",
     "sg:city":"Philadelphia",
     "sg:classifiers":[
@@ -38,7 +44,8 @@
         "historical"
     ],
     "sg:website":"http://www.glenfoerd.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85852367,
         102191575,
@@ -51,10 +58,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404200194,
         "sg:id":"SG_2ZzlOPwsFasRr9u0t2ctPl_40.053001_-74.982773@1303262453"
     },
     "wof:country":"US",
-    "wof:geomhash":"5ec2dfaa3fa56b46f9cb9956790d4f0b",
+    "wof:geomhash":"dbad424d0aa7b6d09049dfc3c99b9211",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,7 +77,7 @@
         }
     ],
     "wof:id":622454853,
-    "wof:lastmodified":1489033491,
+    "wof:lastmodified":1533776575,
     "wof:name":"Glen Foerd On The Delaware",
     "wof:parent_id":85852367,
     "wof:placetype":"venue",
@@ -82,10 +90,10 @@
     ]
 },
   "bbox": [
-    -74.982773,
-    40.053001,
-    -74.982773,
-    40.053001
+    -74.98141,
+    40.05178,
+    -74.98141,
+    40.05178
 ],
-  "geometry": {"coordinates":[-74.98277299999999,40.053001],"type":"Point"}
+  "geometry": {"coordinates":[-74.98141,40.05178],"type":"Point"}
 }

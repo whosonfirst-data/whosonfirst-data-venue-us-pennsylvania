@@ -2,18 +2,24 @@
   "id": 588994213,
   "type": "Feature",
   "properties": {
-    "addr:full":"309 Locust St Wrightsville PA 17368",
+    "addr:city":"Wrightsville",
+    "addr:full":"309 Locust St Wrightsville, Pa 17368",
+    "addr:house_number":"309",
     "addr:housenumber":"309",
+    "addr:phone":"+1 717-252-1169",
     "addr:postcode":"17368",
+    "addr:road":"Locust St",
+    "addr:state":"PA",
     "addr:street":"Locust St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-76.532386,40.026318,-76.532386,40.026318",
-    "geom:latitude":40.026318,
-    "geom:longitude":-76.532386,
+    "geom:bbox":"-76.53334,40.02588,-76.53334,40.02588",
+    "geom:latitude":40.02588,
+    "geom:longitude":-76.53334,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"309 Locust St",
     "sg:city":"Wrightsville",
     "sg:classifiers":[
@@ -27,19 +33,21 @@
     "sg:phone":"+1 717 252 1169",
     "sg:postcode":"17368",
     "sg:province":"PA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
-        85688481,
+        102080953,
         85633793,
-        85851267,
-        102080953
+        85688481,
+        85851267
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404200028,
         "sg:id":"SG_4nqT2XGRSy8L8GgKXD2r4t_40.026318_-76.532386@1294186258"
     },
     "wof:country":"US",
-    "wof:geomhash":"fb1b7ce38364e0f0267f70b94695489a",
+    "wof:geomhash":"ea57afcd1cda67c27e04dfa076898f38",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +58,7 @@
         }
     ],
     "wof:id":588994213,
-    "wof:lastmodified":1472642996,
+    "wof:lastmodified":1533776575,
     "wof:name":"Wrightsville Historical Museum",
     "wof:parent_id":85851267,
     "wof:placetype":"venue",
@@ -60,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -76.532386,
-    40.026318,
-    -76.532386,
-    40.026318
+    -76.53334,
+    40.02588,
+    -76.53334,
+    40.02588
 ],
-  "geometry": {"coordinates":[-76.532386,40.026318],"type":"Point"}
+  "geometry": {"coordinates":[-76.53334,40.02588],"type":"Point"}
 }

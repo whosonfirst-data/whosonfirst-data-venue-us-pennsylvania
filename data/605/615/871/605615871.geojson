@@ -2,18 +2,23 @@
   "id": 605615871,
   "type": "Feature",
   "properties": {
-    "addr:full":"1633 Washington Ln Meadowbrook PA 19046",
+    "addr:city":"Meadowbrook",
+    "addr:full":"1633 Washington Lane Meadowbrook, Pa 19046",
+    "addr:house_number":"1633",
     "addr:housenumber":"1633",
     "addr:postcode":"19046",
+    "addr:road":"Washington Lane",
+    "addr:state":"PA",
     "addr:street":"Washington Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-75.09505,40.119249,-75.09505,40.119249",
-    "geom:latitude":40.119249,
-    "geom:longitude":-75.09505,
+    "geom:bbox":"-75.09592,40.11843,-75.09592,40.11843",
+    "geom:latitude":40.11843,
+    "geom:longitude":-75.09592,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1633 Washington Ln",
     "sg:city":"Meadowbrook",
     "sg:classifiers":[
@@ -31,19 +36,24 @@
         "greenhouse"
     ],
     "sg:website":"www.meadowbrook-farm.com",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102530381,
+        102528737
+    ],
     "wof:belongsto":[
-        85688481,
+        102081355,
         85633793,
-        85833431,
-        102081355
+        85688481,
+        85833431
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409502330,
         "sg:id":"SG_1gU7o8aLUAgh35JFTKEmok_40.119249_-75.095050@1294186258"
     },
     "wof:country":"US",
-    "wof:geomhash":"0a91b2e1922addff42ad1a3067178487",
+    "wof:geomhash":"64474d1bb1e0e63dfd28a46ea82b3211",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,8 +64,8 @@
         }
     ],
     "wof:id":605615871,
-    "wof:lastmodified":1472643671,
-    "wof:name":"Meadowbrook Farms",
+    "wof:lastmodified":1533776576,
+    "wof:name":"Meadowbrook Farm",
     "wof:parent_id":85833431,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
@@ -66,10 +76,10 @@
     ]
 },
   "bbox": [
-    -75.09505,
-    40.119249,
-    -75.09505,
-    40.119249
+    -75.09592,
+    40.11843,
+    -75.09592,
+    40.11843
 ],
-  "geometry": {"coordinates":[-75.09505,40.119249],"type":"Point"}
+  "geometry": {"coordinates":[-75.09592000000001,40.11843],"type":"Point"}
 }

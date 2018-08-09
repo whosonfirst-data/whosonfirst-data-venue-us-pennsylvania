@@ -2,19 +2,25 @@
   "id": 622435211,
   "type": "Feature",
   "properties": {
-    "addr:full":"15 S 7th St Between Market & Chestnut Philadelphia PA 19106",
+    "addr:city":"Philadelphia",
+    "addr:full":"15 S 7Th St Philadelphia, Pa 19106-2313",
+    "addr:house_number":"15",
     "addr:housenumber":"15",
-    "addr:postcode":"19106",
+    "addr:phone":"+1 215-843-1713",
+    "addr:postcode":"19106-2313",
+    "addr:road":"S 7Th St",
+    "addr:state":"PA",
     "addr:street":"S 7Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-75.152108,39.950365,-75.152108,39.950365",
-    "geom:latitude":39.950365,
-    "geom:longitude":-75.152108,
+    "geom:bbox":"-75.15203,39.95035,-75.15203,39.95035",
+    "geom:latitude":39.95035,
+    "geom:longitude":-75.15203,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"15 S 7th St Between Market & Chestnut",
     "sg:city":"Philadelphia",
     "sg:classifiers":[
@@ -34,7 +40,11 @@
     "sg:postcode":"19106",
     "sg:province":"PA",
     "sg:website":"www.philadelphiahistory.org/",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102529403,
+        102530381
+    ],
     "wof:belongsto":[
         85839299,
         102191575,
@@ -47,10 +57,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404200963,
         "sg:id":"SG_5KcSOrrgXgZb5ZL9rLfVQu_39.950365_-75.152108@1303262451"
     },
     "wof:country":"US",
-    "wof:geomhash":"b60aab519d1c52a8deee2f4e8c7814c8",
+    "wof:geomhash":"5119b40fe8ae73c8be15511ad6ed87a4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,8 +76,8 @@
         }
     ],
     "wof:id":622435211,
-    "wof:lastmodified":1489031650,
-    "wof:name":"Philadelphia History Museum at the Atwater Kent",
+    "wof:lastmodified":1533776576,
+    "wof:name":"Atwater Kent Museum",
     "wof:parent_id":85839299,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
@@ -75,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -75.152108,
-    39.950365,
-    -75.152108,
-    39.950365
+    -75.15203,
+    39.95035,
+    -75.15203,
+    39.95035
 ],
-  "geometry": {"coordinates":[-75.152108,39.950365],"type":"Point"}
+  "geometry": {"coordinates":[-75.15203,39.95035],"type":"Point"}
 }

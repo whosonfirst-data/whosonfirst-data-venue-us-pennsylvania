@@ -2,18 +2,24 @@
   "id": 605036031,
   "type": "Feature",
   "properties": {
-    "addr:full":"940 Centre Ave Reading PA 19601",
+    "addr:city":"Reading",
+    "addr:full":"940 Centre Ave Reading, Pa 19601-2106",
+    "addr:house_number":"940",
     "addr:housenumber":"940",
-    "addr:postcode":"19601",
+    "addr:phone":"+1 610-375-4375",
+    "addr:postcode":"19601-2106",
+    "addr:road":"Centre Ave",
+    "addr:state":"PA",
     "addr:street":"Centre Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-75.932417,40.349881,-75.932417,40.349881",
-    "geom:latitude":40.349881,
-    "geom:longitude":-75.932417,
+    "geom:bbox":"-75.93277,40.34972,-75.93277,40.34972",
+    "geom:latitude":40.34972,
+    "geom:longitude":-75.93277,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"940 Centre Ave",
     "sg:city":"Reading",
     "sg:classifiers":[
@@ -32,7 +38,10 @@
     "sg:phone":"+1 610 375 4375",
     "sg:postcode":"19601",
     "sg:province":"PA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102528039
+    ],
     "wof:belongsto":[
         420536597,
         102191575,
@@ -44,10 +53,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404200472,
         "sg:id":"SG_04ivheJTxNLCsEQVlnd6IO_40.349881_-75.932417@1294186258"
     },
     "wof:country":"US",
-    "wof:geomhash":"e99e0966a49c5e081eb485eef304cb75",
+    "wof:geomhash":"89043b0ccceaab3b24880c2510c46088",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,8 +71,8 @@
         }
     ],
     "wof:id":605036031,
-    "wof:lastmodified":1472641832,
-    "wof:name":"Historical Society Berks Cnty",
+    "wof:lastmodified":1533776576,
+    "wof:name":"Historical Society Of Berks County",
     "wof:parent_id":420536597,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
@@ -71,10 +81,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -75.932417,
-    40.349881,
-    -75.932417,
-    40.349881
+    -75.93277,
+    40.34972,
+    -75.93277,
+    40.34972
 ],
-  "geometry": {"coordinates":[-75.932417,40.349881],"type":"Point"}
+  "geometry": {"coordinates":[-75.93277,40.34972],"type":"Point"}
 }
