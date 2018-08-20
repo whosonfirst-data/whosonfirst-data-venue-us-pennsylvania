@@ -7,6 +7,7 @@
     "addr:postcode":"18103",
     "addr:street":"Lehigh St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-20",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-75.489403,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"3300 Lehigh St",
     "sg:city":"Allentown",
     "sg:classifiers":[
@@ -54,16 +55,20 @@
         }
     ],
     "wof:id":622297211,
-    "wof:lastmodified":1533776526,
+    "wof:lastmodified":1534799144,
     "wof:name":"Bon Ton Department Store the",
     "wof:parent_id":85818053,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605858919
+    ],
     "wof:supersedes":[
         622297131,
         "605041095",
-        "622086277"
+        "622086277",
+        605041095,
+        622086277
     ],
     "wof:tags":[]
 },

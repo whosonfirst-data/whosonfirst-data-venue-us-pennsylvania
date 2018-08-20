@@ -7,6 +7,7 @@
     "addr:postcode":"15219",
     "addr:street":"4Th Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-20",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-79.998366,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "sg:address":"429 4th Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -65,14 +66,17 @@
         }
     ],
     "wof:id":622237375,
-    "wof:lastmodified":1533776520,
+    "wof:lastmodified":1534799096,
     "wof:name":"Bruegger's Bagels",
     "wof:parent_id":85873585,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622246453
+    ],
     "wof:supersedes":[
-        "605268673"
+        "605268673",
+        605268673
     ],
     "wof:tags":[
         "bagel",

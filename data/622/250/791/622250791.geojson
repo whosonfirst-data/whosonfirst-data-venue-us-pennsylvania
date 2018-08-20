@@ -7,6 +7,7 @@
     "addr:postcode":"16101",
     "addr:street":"Winter Rd New",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-20",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-80.397494,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"121 Winter Rd",
     "sg:city":"New Castle",
     "sg:classifiers":[
@@ -64,15 +65,18 @@
         }
     ],
     "wof:id":622250791,
-    "wof:lastmodified":1533776523,
+    "wof:lastmodified":1534799098,
     "wof:name":"McDonald's",
     "wof:parent_id":85831961,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605439223
+    ],
     "wof:supersedes":[
         "605377785",
-        "605439223"
+        "605439223",
+        605377785
     ],
     "wof:tags":[
         "burger",

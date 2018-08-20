@@ -7,6 +7,7 @@
     "addr:postcode":"15219",
     "addr:street":"7Th Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-20",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.995697,40.442402,-79.995697,40.442402",
@@ -14,7 +15,7 @@
     "geom:longitude":-79.995697,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"436 7th Ave",
     "sg:city":"Pittsburgh",
     "sg:classifiers":[
@@ -60,15 +61,18 @@
         }
     ],
     "wof:id":387357271,
-    "wof:lastmodified":1533776520,
+    "wof:lastmodified":1534799096,
     "wof:name":"Marcus Robt B Atty",
     "wof:parent_id":85873585,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        387382263
+    ],
     "wof:supersedes":[
         "622018471",
-        "387382263"
+        "387382263",
+        622018471
     ],
     "wof:tags":[
         "bankruptcy"

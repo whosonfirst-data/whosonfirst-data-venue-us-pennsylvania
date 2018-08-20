@@ -7,6 +7,7 @@
     "addr:postcode":"18102",
     "addr:street":"N 9Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-20",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-75.475816,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"2 N 9th St",
     "sg:city":"Allentown",
     "sg:classifiers":[
@@ -63,16 +64,20 @@
         }
     ],
     "wof:id":605667823,
-    "wof:lastmodified":1533776552,
+    "wof:lastmodified":1534799148,
     "wof:name":"PPL Corp",
     "wof:parent_id":85897229,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        605941729
+    ],
     "wof:supersedes":[
         588948005,
         "588795663",
-        "605388273"
+        "605388273",
+        588795663,
+        605388273
     ],
     "wof:tags":[
         "company",

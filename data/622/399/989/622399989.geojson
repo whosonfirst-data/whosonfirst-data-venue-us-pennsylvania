@@ -7,6 +7,7 @@
     "addr:postcode":"19103",
     "addr:street":"Market St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-20",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-75.170303,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"1818 Market St",
     "sg:city":"Philadelphia",
     "sg:classifiers":[
@@ -60,15 +61,19 @@
         }
     ],
     "wof:id":622399989,
-    "wof:lastmodified":1533776538,
+    "wof:lastmodified":1534799121,
     "wof:name":"Payne William J Atty",
     "wof:parent_id":85844705,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-pa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        622423065
+    ],
     "wof:supersedes":[
         "605337619",
-        "588956281"
+        "588956281",
+        605337619,
+        588956281
     ],
     "wof:tags":[]
 },
